@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চৰাইজনীয়ে যাতে কষ্ট নাপায় তাৰ বাবে সৰু ছোৱালীয়ে কি কি কৰিবলৈ গাত\n== লৈছে?\n\nখ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nৰ   ‘সাউৎকৰে’ শব্দটোৰ অৰ্থ হৈছে ‘বেগতে’, ‘একে চোঁচাই’, ‘একে চিপতে’,\n“৯ = ‘একেশোহাই’। ‘সাউৎকৰে’ৰ দৰে অৰ্থ প্রকাশ কৰা পাঠত থকা আন দুটা শব্দ\n\nহৈছে ‘ততালিকে’, ‘একেচিপে’। এতিয়া সাউৎকৰে শব্দটো প্ৰয়োগ কৰি ওপৰত\nউল্লেখ কৰা অৰ্থ প্রকাশ হোৱাকৈ চাৰিটা বাক্য ৰচনা কৰা।\n\nচন্দ্ৰবিন্দু এটা নিচেই সৰু চিন; ইয়াক স্বৰ আৰু ব্যঞ্জনৰ ওপৰত প্রয়োগ কৰা হয় যদিও ই\nস্বৰৰ লগতহে উচ্চাৰিত হয়। চন্দ্ৰবিন্দু অসমীয়া ভাষাৰ এটা পূৰ্ণাংগ বৰ্ণ। সেইবাবে\nইয়াৰ প্ৰয়োগত সতৰ্ক হ’ব লাগে।\n\nচন্দ্ৰবিন্দু ব্যৱহাৰৰ বহুতো বিধি আছে। তলত কেইটামান বিধি উল্লেখ কৰা হ’ল --\n\n০ প্রথম পুৰুষৰ ক্ৰিয়াপদৰ ‘ওঁ’ বিভক্তিত চন্দ্ৰবিন্দু ব্যৱহাৰ হয়। পদ্যটোত থকা পাওঁ’\nআৰু ‘ৰওঁ” শব্দদুটাৰ চন্দ্ৰবিন্দুটো এইবিধি অনুসৰি প্রয়োগ হৈছে। উদাহৰণ-- মই\n\n=> বহুবচন বুজোৱ৷ - ‘হঁত’ প্রত্যয়ত চন্দ্ৰবিন্দু ব্যৱহাৰ হয়।\n\n০ ক্ৰিয়াপদৰ লগত যোগ হোৱা বহুবচনৰ ‘হঁক’ প্রত্যয়ত চন্দ্ৰবিন্দু যোগ হয়।\n\nকূ্ঁম নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী\n১২২",
+  "confidence": {
+    "word_count": 151,
+    "mean": 88.2,
+    "median": 93.3,
+    "minimum": 4.83,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.33,
+  "page_elapsed_seconds": 3.749,
+  "peak_process_tree_rss_bytes": 243081216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 97,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১১। ‘গছআমাৰ পৰম মিত্ৰ’-- এই বিষয়টো লৈ শ্ৰেণীত পতা তৰ্ক প্ৰতিযোগিতাত অংশগ্ৰহণ\nকৰা।\n\n১২। আমলখিৰ দৰে উপকাৰী আৰু সহজলভ্য পাঁচবিধ ফলৰ বিষয়ে লিখা ।\n\n১৩। কিছুমান গছৰ ফল-ফুল, ডাল-পাত, গা-গছ আদি আটাইবোৰ অংশই আমাৰ বাবে অতি\nউপকাৰী। ‘কলগছ’ তেনে এবিধ উপকাৰী গছ। কলগছৰ উপকাৰিতাৰ বিষয়ে দলত\n\nআলোচনা কৰি তলৰ তালিকাখন পূৰ কৰা।\nগছৰ নাম     ফল        ফুল        পাত        গা-গছ\nকলগছ\nজানো আহা\n\nক) প্ৰায়ভাগ লোকেই প্ৰকৃতিক প্ৰাণ ভৰি ভাল পায়। তেনেলোকক\nপ্ৰকৃতিপ্ৰেমী বোলা হয়। এনে এজন প্ৰকৃতিপ্ৰেমী ব্যক্তি হ’ল অৰণ্য\nযাদৱ পায়েং $ যাদৱ পায়েং এগৰাকী প্ৰকৃতিপ্ৰেমী লোক তথা ক্মী।\nতেখেতক মুলাই পায়েং নামেৰেও জনা যায়। যোৰহাটৰ ককিলামুখৰ\nওচৰৰ ব্ৰহ্মপুত্ৰৰ চাপৰিত তেখেতে কেইবাদশকো জুৰি গছ ৰোপণ\nতথা প্ৰতিপালন কৰি এক সংৰক্ষিত বনাঞ্চল গঢ়ি তুলিছে। তেখেতৰ নামেৰে এই বনাঞ্চলক\n‘মুলাই কাঠনি’ও বোলে। পায়েঙৰ এই বনাঞ্চলত বৰ্তমান কেইবাটাও ঢেঁকীয়াপতীয়া বাঘ,\nশতাধিক হৰিণাপহু, বন-গাহৰি আদি জন্তুৰ উপৰি শগুণ আৰু অনেক প্রজাতিৰ চৰায়ে বাস কৰি\nআছে। এই অৰণ্যখন অৰ্জুন, এজাৰ, কৰৈ, শিমলু আদি মূল্যৱান গছ-গছনিৰে ভৰপূৰ।\n\nখ\n\nঞ্+ ১১ নং ক্ৰিয়া-কলা৷প কৰাওঁতে ছাত্ৰ-ছাত্ৰীসকলক দলত ভাগ কৰি পৰিচালনা কৰাত সহায় কৰিব।",
+  "confidence": {
+    "word_count": 165,
+    "mean": 88.3,
+    "median": 95.57,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.907,
+  "page_elapsed_seconds": 3.155,
+  "peak_process_tree_rss_bytes": 289202176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ")\n\nঠৰ খ) খেলিমেলিকৈ থকা আখৰবোৰ সঠিক ক্ৰমত সজাই শব্দ গঠন কৰোঁ আহা--\n\n[ণা] [ল|][এ৯] |[*] [যি] [স]\n\nউতাৰ2ছ.ছ হাজতাছত\n\n[ন] [জি] [ই\n\nত |{ঞ্চি কু\n\n্ঠ ৫। “তৃতীয় আৰু চতুৰ্থ শ্ৰেণীৰ মাজত এখন, ক্ৰিকেট প্রতিযোগিতা চলিছে।”\n\nইয়াত তৃতীয় আৰু চতুৰ্থ শব্দ দুটাই ৩ আৰু ৪ ৰ স্থানবাচক অৰ্থ প্রকাশ কৰিছে। ঠিক সেইদৰে\nআন স্থানবাচক শব্দবোৰ জানো আহা-\n\nসংখ্যা | স্থানবাচক | সংক্ষিপ্তৰূপ\n১           প্ৰথম               ১ম\n২ | দ্বিতীয়     ২্য়\n৩         তৃতীয়           তয়\n৪    চতুৰ্থ    ৪ৰ্থ\n৫    পঞ্চম     ৫ম\n৬ খৰ      ঙ্ষ্ট\n৭    সপ্তম     ৭ম\n৮    অষ্টম     চ্ম\n৯    নৱম      ৯ম\n১০ | দশম     ১০ম\n\nটোকা ঃ সংক্ষিপ্ত ৰূপবোৰ লিখোঁতে ১ম, ২য়, .. ১১শ আদি ব্যৱহাৰ কৰিব পাৰি। কিন্তু, পঢ়োতে এক ম, দুই য়...\nবুলি উচ্চাৰণ কৰিব নালাগে৷ ইহঁতক ক্ৰমে প্রথম, দ্বিতীয়, .. একাদশ ইত্যাদি বুলিহে পঢ়িব লাগে।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী           হম",
+  "confidence": {
+    "word_count": 134,
+    "mean": 78.24,
+    "median": 92.96,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.315,
+  "page_elapsed_seconds": 4.364,
+  "peak_process_tree_rss_bytes": 221847552,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

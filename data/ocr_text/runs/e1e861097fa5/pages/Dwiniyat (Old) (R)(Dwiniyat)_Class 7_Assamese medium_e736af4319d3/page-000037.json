@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দীনিয়াত          ৩১\n\nউত্ত ৰ- এনে অৱস্থাত জাকাত দিয়া ফৰজ নহয়।\n\nজাকাত দিয়াৰ প্রণালী (+%_/'= ===)\n\nপ্ৰশ্ম- জাকাত দিয়াৰ প্ৰণালী কি?\n\nডতল্ত ৰ- নিজৰ সম্পত্তিৰ যি পৰিমাণৰ জাকাত বাজিব হৈছে, সেই পৰিমাণৰ\nকোনো বস্তু উপযুক্ত লোকক আল্লাহৰ নামত দান কবি তেওঁক তাৰ গৰাকী\nকৰি দিয়াই জাকাতৰ প্রণালী। কোনো কাম বা সেৱাৰ বিনিময়ত জাকাত\nদিয়া সিদ্ধ নহয়। জাকাতৰ টকাৰে কোনো বসু কিনি দুখীয়াবিলাকৰ মাজত\nভগাই দিয়া সিদ্ধ।\n\nপ্ৰশ্ন-জাকাত কেতিয়া আদায় কৰা উচিত ?\n\nউত্তৰ- যেতিয়া নিচাব পৰিমাণৰ সম্পত্তিৰ এবছৰ সম্পূৰ্ণ হয়, তেতিয়া অবিলম্বে\nজাকাত আদায় দিয়া উচিত।\n\nপ্ৰশ্ন- এবছৰ পূৰ্ণ হোৱাৰ আগতে কোনোবাই জাকাত আদায় দিলে সিদ্ধ হ’বনে?\n\nউত্তৰ- বছৰ পূৰ্ণ হোৱাৰ আগতে গৰাকীয়ে নিচাব পৰিমাণৰ সম্পত্তিৰ জাকাত\nআদায় দিয়া সিদ্ধ।\n\nপ্ৰশ্ন-জাকাত আদায় দিয়াৰ আগতে নিয়ত কৰা জকনৰীনে?\n\nউত্তৰ- ভৰৰী ৷ জাকাত দিয়াৰ সময়ত অন্ততঃ জাকাতৰ ধন পৃথককৈ উলিয়াবৰ\nসময়ত এইদৰে নিয়ত বা সংকল্প কৰা জৰুৰী- ‘এই সম্পত্তি. মই জাকাত\nদিলো বা জাকাত দিবলৈ পৃথক কৰিলো।’ নিয়ত নকৰাকৈ জাকাত দিলে\nজাকাত আদায় নহ’ব\n\nপ্রস্থ- যাক জাকাত দিয়া হয় তেওঁক সেই ধন জাকাতৰ বুলি জনাই দিয়া\nজবক্ৰীনে?\n\nউত্তৰ- জাকাতৰ ধন বুলি উল্লেখ কৰা জৰুৰী নহয়। কোনোবাক পুৰস্কাৰ বুলি,\nকোনো দৰিদ্ৰ ল’ৰাক সদৰ নামত বা সদ উপলক্ষে দিলেও জাকাত আদায়",
+  "confidence": {
+    "word_count": 186,
+    "mean": 84.55,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.284,
+  "page_elapsed_seconds": 2.423,
+  "peak_process_tree_rss_bytes": 241061888,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

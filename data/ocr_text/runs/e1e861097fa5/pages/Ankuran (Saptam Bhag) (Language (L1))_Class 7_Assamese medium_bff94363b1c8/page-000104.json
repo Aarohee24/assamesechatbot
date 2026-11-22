@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 104,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "নিধনীয়ে ছোৱালীটিক আৰু একো নুসুধি মনে মনে ভাবিলে--\nঅমৰা মৰে, নিজৰা জৰে\n\nমৰাই বায় হাল,\nলখিমীয়ে পিন্ধে ফটাকানি\nমই নিধনী হোৱাই ভাল।\nএই সজ শিক্ষা লভি সন্তোষ মনেৰে নিধনীৰাম ঘৰত উপস্থিত হ’লগৈ।\nউৎস-- কাহিনীটো সাহিত্যাচায অতুলচন্দ্ৰ হাজৰিকাৰ শিশ-সাহিতা সভাৰ, ঘিতীয় খণ্ড, সম্পাদনাঃ সুধা হাজৰিকা, পৃষ্ঠা- ৯৩৯-৯৪০ ৰ লোৱা হৈছে ।\nও কাহিনীটো আজিৰ পৰা৷ বহুবছৰৰ আগতে ৰচনা৷ কৰা হৈছিল। কাহিনীটো ৰচনা কৰোঁতে নামৰ অত্ৰি লগত চৰিত্ৰৰ\nবিপৰীত অথৰি প্রকাশক অৱস্থহাটোৱে হাঁহৰ উৎস হিচাপে কাম কৰিছিল। তেতিয়া দিব্যাংগসকলৰ কথা বিশেষভাৱে আজিৰ\n\nনিচিনাকৈ ওৰুণ্ত দিয়া হোৱা নাছিল। গতিকে পাঠটো পঢ়াওঁতে দিব্যাংগসকলে যাতে আঘাত নাপায় সেই বিষয়ে লক্ষ্য ৰাখিব।\nমূলত থকা কিছুমান শব্দ ছাব্র-ছাত্ৰীৰ উপযোগী হোৱাকৈ সলনি কৰা হৈছে।\n\n[জানে৷ আহা |\n\nসাহিত্যাচাৰ্য অতুল চন্দ্ৰ হাজৰিকা (১৯০৩-১৯৮৬) ঃ\nএগৰাকী কবি, নাট্যকাৰ, গদ্যলেখক আৰু শিশু-সাহিত্যিক। ১৯৫৩ চনৰ\n\nপৰা ১৯৫৬ চনলৈ তেখেত একাদিক্ৰমে তিনিবাৰ অসম সাহিত্য সভাৰ সাধাৰণ\n\nসম্পাদক পদত নিৰ্বাচিত হৈছিল। ১৯৫৯ চনৰ অসম সাহিত্য সভাৰ নগাঁও | /(\n\nঅধিৱেশনত তেখেতে সভাপতিত্ব কৰিছিল। অসম সাহিত্য সভাই ১৯৮২ চনত [৷ %.\n\nতেখেতক সাহিত্যাচাৰ্য উপাধিৰে বিভূষিত কৰে।                    -",
+  "confidence": {
+    "word_count": 162,
+    "mean": 86.94,
+    "median": 93.33,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.66,
+  "page_elapsed_seconds": 3.076,
+  "peak_process_tree_rss_bytes": 292204544,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

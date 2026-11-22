@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 96,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ               ক -- পাঠভিত্তিক জ্ৰিয়া\n\n7 এট পাঠটো শুদ্ধ উচ্চাৰণেৰে পঢ়া আৰু তলত দিয়া প্ৰশ্নসমূহৰ উত্তৰ দিয়া।\n\n(ক) “তিনিটা মাছৰ কাহিনী”ত থকা মাছকেইটাৰ নাম কি কি?\n\n(খ) অনাগতবিধাতা কিয় শংকিত হৈছিল?\n\n(গ) অনাগতবিধাতাৰ কথা কোনে সমৰ্থন কৰিছিল?\n\n(ঘ) কৌোনে বিপদৰ কথা নাভাবি আঁকোৰ-গোঁজ হৈ থাকি মৃত্যুক সাৱটি ল’লে?\n(৬) মাছমৰীয়াকেইজনে কিহেৰে পুখুৰীত মাছ মাৰিলে?\n\n৷ কোৱা আৰু লিখা।\n\nতলৰ কথাকেইযষাৰ কোনে, কি উদ্দেশ্যেৰে কাক কৈছিল?\n\n(ক) “আপুনি সঁচা কথাকেই কৈছে। ময়ো এই বিল এৰি ওচৰত থকা আন খাল-\n(খ) “মই মুখৰ কথাতেই পিতৃ-পিতামহৰ এই বিলখন এৰি যোৱাটো যুক্তিযুক্ত বুলি\n(গ) “কাইলৈ পুৱা মাছমৰীয়াসকল আহি এই বিলৰ মাছ মাৰি শেষ কৰিব।”\n\n\",\n\n[] সাধুটো নিজৰ কথাৰে কোৱা আৰু লিখা।\n\nৰক)\n\nৰ\n\nএ  সাধুটোত মাছ তিনিটাই কোৱা কথাখিনি সহজ কথাৰে লিখা।\n\nতলৰ শব্দবোৰৰ অৰ্থ শব্দ সম্ভাৰ বা অভিধানৰ পৰা চাই লিখা।\nঅনাগতবিধাতা             প্ৰত্যুৎপন্নমতি             যদ্ভৱিষ্য\nএখন্তেক                     ঘোদালি                    নিঃশেষ\nবিনাশ       সুৰক্ষিত      বজ্ৰসদৃশ",
+  "confidence": {
+    "word_count": 101,
+    "mean": 89.06,
+    "median": 95.25,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.363,
+  "page_elapsed_seconds": 3.732,
+  "peak_process_tree_rss_bytes": 245690368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

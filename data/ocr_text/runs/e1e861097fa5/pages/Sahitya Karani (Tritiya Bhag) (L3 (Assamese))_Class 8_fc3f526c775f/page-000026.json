@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\nটোকোৰা চৰাইৰ বিষয়ে ক’ব পৰা।\n\nপাঠ ২\n\nজতুৱা ঠাঁচৰ লগত পৰিচয় হোৱা।\nএটা শব্দত প্রকাশ কৰিব পৰা ।\n\nকি চৰায়ে কেনেকৈ মাতে চিনিব পৰা।\n\nবিভিন্ন চৰাই পৰ্যৱেক্ষণ কৰি সিহঁতৰ বিষয়ে জানিবলৈ আগ্ৰহ কৰা।\nপাঠভিত্তিক প্রশ্নৰ উত্তৰ ক’ব আৰু লিখিব পৰা।\nনতুন নতুন শব্দ শিকা।\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nপাঠভিত্তিক প্রশ্নৰ\nআত্ম কাহিনী | পঢ়িব পৰা বুজি পোৱা | উত্তৰ ক'ব পৰা\nআৰু লিখিব পৰা\n(ব্যাৱহাৰিক| সুঙঞাম্ৰগঠন | পঢ়িবপৰা, | লিখিবপৰা | ধাৰণা পোৱা\nব্যাকৰণ)  কৰিব পৰা\nজ্ঞান বিভিন্ন চৰাইৰ  চৰাইৰ  বৃত্তিমূলক শব্দ | বিভিন্ন চৰায়ে | দফা পঢ়ি উত্তৰ\nসম্প্ৰসৰণ | বিষয়ে জনা | উপকাৰিতাৰ  জনা  কেনেকৈ মাতে দিব পৰা\nবিষয়ে জনা      জনা\nচৰাইৰ ছবি সংগ্ৰহ | বিভিন্ন চৰাইৰ শিক্ষামূলক\nপ্রকল্প কৰি এলবাম | ৰঙৰ বৰ্ণনা কৰিব৷! ভ্ৰমণৰ বিষয়ে\nপ্রস্তুত কৰিব পৰা  পৰা   জনা\n\n= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাৰ তলৰ খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰ্তা আয়ত নোহোৱা শিকাৰচক\n\nঅতিৰিজঙ্জ্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 156,
+    "mean": 88.85,
+    "median": 95.78,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.509,
+  "page_elapsed_seconds": 2.766,
+  "peak_process_tree_rss_bytes": 224776192,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

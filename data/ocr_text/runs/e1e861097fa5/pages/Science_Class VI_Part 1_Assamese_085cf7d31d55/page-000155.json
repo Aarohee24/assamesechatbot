@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 155,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গতিকে, আমি পালো যে বিভিন্ন দ্রব্যৰ বাহ্যিক ৰূপ বেলেগ বেলেগ। আকৌ\nষ্টিলৰ নতুন চামুচ, কীহী-বাটি বা গিলাচ পোহৰত চিক্মিকায়। এই চিক্মিকোৱা ধৰ্মটোক\nজ্যোতি বোলা হয়। জ্যোতি থকা বস্তুক জ্যোতিমান বোলা হয়। তোমালোকৰ ঘৰত এনে\nচিক্‌্মিকোৱা আন কিবা বস্তু আছেনে? লো, এলুমিনিয়াম, তাম আদি হ’ল ধাতু ধাতুবোৰ\nজ্যোতিমান হয়।\n\nচিত্ৰ $.6 : ধাতৰে প্রভাত কৰা বঙ - প্ৰতিবিধৰ জ্যোতি মন কৰা\n\n[] ক্ৰিয়াকলাপ 5.4:\n\nপুৰণি লো, এলুমিনিয়াম বা তামৰ তীৰৰ টুকুৰা, ম’মবাতি আৰু সৰু কয়লা এটুকুৰা\nলোৱা৷ ছিৰিছ কাগজ এখনো লোৱা। ছিৰিছ কাগজৰে প্রতিবিধকে ঘঁহা । এতিয়া তলৰ\nতালিকাখনত তুমি কি দেখিলা লিখা ৷\n\nমমবাতি\n\nনতুন গজাল (লো) আৰু কেট্‌লিৰ (এলুমিনিয়াম) জ্যোতি থাকে, কিন্তু পুৰণি হ’লে\nকমে। বায়ুত থকা অক্সিজেন আৰু জলীয় বাষ্পৰ উপস্থিতিত কিছুমান ধাতুৰ ওপৰত এটা\nতৰপৰ সৃষ্টি হয়। ফলত এনে ধাতুৱে জ্যোতি হেৰুৱায়। ছিৰিছ কাগজেৰে তাম, লো আৰু\nএলুমিনিয়াম ঘঁহিলে জ্যোতি দেখা যায়। এনে কিয় হয়, ক’ব পাৰিবা ? যিবোৰ বস্তুৰ চিকমিকনি\nবা উজ্জ্বলতা নাথাকে, সেইবোৰ জ্যোতিহীন বস্তু।\n\nজ্যোতিমান সকলো বস্তু ধাতু নহ’বও পাৰে। কিছুমান বস্তুৰ ওপৰত অন্য কিছুমান দ্রব্যৰ\n(যেনে- শ্লাষ্টিক) তৰপ লগোৱা হয়। ফলত এইবোৰ জ্যোতিমান হৈ পৰে।\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,র",
+  "confidence": {
+    "word_count": 186,
+    "mean": 83.83,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.055,
+  "page_elapsed_seconds": 3.47,
+  "peak_process_tree_rss_bytes": 303751168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

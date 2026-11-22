@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪।আৰ্হিটোত দেখুৱাৰ দৰে তলৰ বাক্যকেইশাৰীৰ ভাব বহলাই লিখা।\n\nমাণিক হৈছে সোণ, ৰূপ, হীৰাৰ দৰে এবিধ বহুমূলীয়া বস্তু। ইয়াক আমি সততে\nলেখাসমূহক কোৱা হৈছে। আন আন দেশৰ পণ্ডিতসকলৰ জ্ঞান-গৰিমাৰ\nকথাবোৰ আমি তেওঁলোকৰ পুথিবোৰৰপৰাই জানিব পাৰোঁ পুথি পঢ়াৰ অভ্যাস\nগঢ়ি তুলিলে দূৰলৈ যোৱাৰ প্রয়োজন নাথাকে। আনহাতে খৰচ আৰু পৰিশ্ৰমো\nনহয়। ঘৰত থাকিয়েই তেওঁলোকৰ জ্ঞান-গৰ্ভ কথাবোৰ জানিব পাৰোঁ সেইবাবে\nদূৰৈৰ মাণিক সদৃশ জ্ঞানসমূহ পঢ়নৰপৰা হাততে পোৱা, যায় বুলি বাক্যশাৰীৰ\nজৰিয়তে বুজোৱা হৈছে।\n\nৰ্‌\n\n(ক) পুথিৰ বিদ্যা থুপাই থোৱা ধনৰ নিচিনা।\n(খ) বিদ্যা আৰ্জনৰ প্রণালী প্রায় ধন আৰ্জনৰ প্রণালীৰ নিচিনা।\n(গ) সংৎসংগৰপৰা মানুহৰ সৎ স্বভাৱ জন্মে।\n\n৫ । “ভাল পুথি পঢ়িলে ভাল সংগত থকা যেন আৰু বেয়া পুথি পঢ়িলে বেয়া সংগত থকা যেন\nফল হয়।”-- পাঠটোৰ আধাৰত কথাষাৰ বহলাই লিখা।\n\n৷ জানো আহা-=\nতোমালোকে পাঠটোত পোৱা উপদেশ, পৰিশ্ৰম, অপমান, পৰাজয়-_ এই শব্দবোৰত মূল\nশব্দটোৰ আগত কিছুম৷ন শব্দাংশ যোগ হৈ আছে। সেইবোৰ ভাঙি চাওঁ আহা--\nউপদেশ =উপ + দেশ          পৰিশ্ৰম = পৰি + শ্রম\n\nঅপমান = অপ + মান             পৰাজয় = পৰা + জয়\nউপ, পৰি, অপ, পৰা--- এই অব্যয়কেইটা যোগ হৈ ক্ৰমে দেশ, শ্ৰম, মান আৰু জয় শব্দৰ অৰ্থ\nসলনি কৰিছে। এনেদৰে শব্দৰ আগত বহি অৰ্থ সলনি কৰা অব্যয়বোৰেই উপসৰ্গ\nসংস্কৃতৰপৰা অসমীয়ালৈ অহা মুঠ ২০ টা উপসৰ্গ হ’ল--- প্র, পৰা, অপ, সম্‌, নি, অৱ, অনু,\nনিৰ্‌, দুৰ্‌, বি, অধি, সু, উৎ, পৰি, অভি, অতি, প্রতি, অপি, উপ, আ। এইকেইটাৰ উপৰি অসমীয়া\nভাষাত অ, কা, আও, বে, বদ্‌ আদি আন কিছুমান উপসৰ্গও ব্যৱহাৰ হয়।\n\nৰ",
+  "confidence": {
+    "word_count": 230,
+    "mean": 90.24,
+    "median": 95.03,
+    "minimum": 11.18,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.845,
+  "page_elapsed_seconds": 4.527,
+  "peak_process_tree_rss_bytes": 291184640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

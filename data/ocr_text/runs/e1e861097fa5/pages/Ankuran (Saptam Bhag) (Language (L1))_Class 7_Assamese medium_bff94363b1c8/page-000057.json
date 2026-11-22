@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ --- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nজানো আহা\n\nএমাবোধকৰোঁ মাক-দেউতাকে চিকিৎসাৰ ব্যৱস্থা কৰা নাই’।\nপাঠত পোৱা ওপৰৰ বাক্যটোত থকা দেউতাকে পদটো সনম্বন্ধবাচক,\nদেউতা শব্দটোৰ লগত প্রথমতে -ক আৰু তাৰ পাছত -এ বিভক্তি লগ লাগি\nগঠিত হৈছে।\nসম্বন্ধবাচক শব্দত বিভক্তি লগাই কথা কোৱাটো অসমীয়া ভাষাৰ এটা\nযাৰ লগত সম্বন্ধযুক্ত হয়, তাৰ মান অনুসৰি অনাদৰত ৰ, -এৰ, আদৰত -ৰা, -এৰা\nআৰু মান্যাৰ্থত -ক, -অঅক লগ লাগে। তাৰ পাছতহে কাৰক বিভক্তি যোগ হয়।\n\nউদাহৰণ স্বৰূপে -=\n৬ তোৰ দেউতাৰে (দেউতা+ৰ+এ) খেতি-বাতি কৰিছিল।\n\n৬ তোমাৰ আইতাৰাই (আইতা’,ৰা+ই) বিয়ানাম গাইছে।\n৬ তেওঁৰ ককাকে (ককা+ক+এ) সাধুকথা কয়।\n\n৬ তেখেতৰ খুৰাকে (খুৰা+-ক+এ) বেহেলা বজায়।\n৬ সিহঁতৰ মাকে (মা+ক+এ) তাঁত বয়।\n\n৭। তলৰ সম্বন্ধবাচক শব্দকেইটা ভাঙি দেখুওৱা --\n\nঞ্্” প্ৰয়োজন সাপেক্ষে ব্যাকৰণ পুথিৰ সহায় ল’ব।",
+  "confidence": {
+    "word_count": 118,
+    "mean": 86.65,
+    "median": 93.23,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.208,
+  "page_elapsed_seconds": 2.515,
+  "peak_process_tree_rss_bytes": 297144320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

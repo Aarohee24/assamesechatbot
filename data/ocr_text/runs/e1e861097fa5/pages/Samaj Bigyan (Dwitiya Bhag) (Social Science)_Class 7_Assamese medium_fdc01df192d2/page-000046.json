@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্ৰাকৃতিক পৰিৱেশ ঃ\nআমাৰ চৌপাশৰ প্রকৃতিত থকা বা প্ৰকৃতিসৃষ্ট পৰ্বত-পাহাৰ, নদ-নদী, সাগৰ, ৰ’দ, বতাহ, মাটি, উদ্ভিদ, প্ৰাণী\nআদিয়ে যি স্বাভাৱিক অৱস্থাৰ সৃষ্টি কৰিছে সেয়াই প্ৰাকৃতিক পৰিৱেশ। আনহাতে, মানুহে নিজৰ সুবিধামতে প্রকৃতিৰ\n\nঅজৈৱিক উলপাংশ\n\n(জীৱণ্ডল)\nচিত্র ঃ ৪.২ পৰিৱেশৰ উপাংশ\nবুকুৰপৰা সমল সংগ্ৰহ কৰি নিজৰ প্রয়োজন পূৰণ কৰে। নিজৰ বাবে লাগতিয়াল সকলোখিনি সৃষ্টি কৰি লওঁতে প্রাকৃতিক\n\nপৰিৱেশৰ পৰিৱৰ্তন (ৰূপান্তৰ) বা পৰিশোধন হয়। মানুহে নিজে নিজৰ বাবে সৃষ্টি কৰি লোৱা অৱস্থাটোকে মানৱ পৰিৱেশ\nবা মানৱসৃষ্ট পৰিৱেশ বুলি কোৱা হয়। ইয়াৰ আটাইবোৰ উপাদানৰে পৰস্পৰৰ মাজত সম্পৰ্ক আছে।\n\nজানি থওঁ আহা ঃ\n\n€ পৰিৱেশক মানুহে নিজৰ কামত খটুৱায়।\n\n€ পৰিৱেশৰ ওপৰত নির্ভৰ কৰি মানুহে নিজৰ বাবে--- ঘৰ-দুৱাৰ সাজে, খাদ্যশস্য উৎপাদন কৰে, কল-\nকাৰাখানা, পথ, দলং, যান-বাহন, টেলিফোন, টেলিভিচন, ইণ্টাৰনেট, আমোদ-প্রমোদ, শিক্ষা-সংস্কৃতি\nআদিৰ সা-সুবিধা গঢ়ি তোলে।\n\n€ বিভিন্ন কৌশলেৰে ৰ’দ, বতাহ, পানী আদিৰপৰা শক্তি সংগ্ৰহ কৰে।\n\n€ ইন্ধনৰ বাবে খনিজ তেল,কয়লা আদি আহৰণ কৰে\n\nমানুহে সকলো কাৰ্যৰ বাবেই পৰিৱেশৰ ওপৰত নিৰ্ভৰ কৰিবলগীয়া হয় আৰু সেয়ে পৰিৱেশৰ পৰিৱৰ্তন হয়।\nসু-ব্যৱহাৰ নহ’লে পৰিৱেশ ধ্বংস বা বিনষ্ট হয়। সামান্য বেজীটোৰপৰা মহাকাশ যানখনলৈকে মানুহক লগা সকলোবোৰ",
+  "confidence": {
+    "word_count": 167,
+    "mean": 91.33,
+    "median": 95.69,
+    "minimum": 22.98,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.669,
+  "page_elapsed_seconds": 4.368,
+  "peak_process_tree_rss_bytes": 240332800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

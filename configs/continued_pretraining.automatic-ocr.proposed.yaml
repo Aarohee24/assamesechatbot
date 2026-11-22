@@ -1,0 +1,69 @@
+status: prepared_not_started
+training_method: full_parameter_continued_pretraining
+objective: causal_next_token_prediction
+
+model:
+  repository: ptrdvn/kakugo-3B-asm
+  revision: a6a854a0a680c4c57ec026df014f8f5964da8721
+  local_checkpoint_directory: checkpoints/kakugo-3b-asm
+  tokenizer_directory: checkpoints/kakugo-tokenizer
+  architecture: GraniteMoeHybridForCausalLM
+  vocabulary_size: 100352
+  trust_remote_code: false
+  use_ollama_gguf_for_training: false
+
+data:
+  dataset_type: automatically_filtered_ocr
+  human_verified: false
+  train_jsonl: data/training_data/processed/train.jsonl
+  validation_jsonl: data/training_data/processed/validation.jsonl
+  source_book_disjoint: true
+  allow_unreviewed_ocr: true
+  acknowledge_ocr_errors: required
+
+training:
+  sequence_length: 2048
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 8
+  gradient_checkpointing: true
+  precision: bf16
+  optimizer: adamw_torch
+  learning_rate: 0.00001
+  scheduler: cosine
+  warmup_ratio: 0.03
+  epochs: 1
+  seed: 42
+
+evaluation:
+  evaluation_steps: 100
+  report_training_loss: true
+  report_validation_loss: true
+  calculate_validation_perplexity: true
+  verify_sampled_weights_changed: true
+
+checkpointing:
+  output_directory: checkpoints/continued-pretraining-run-01
+  save_steps: 100
+  keep_last_checkpoints: 3
+  save_optimizer_scheduler_state: true
+  resume_supported: true
+
+hardware:
+  mode: single_gpu_full_parameter
+  minimum_gpu_vram_gib: 64
+  recommended_gpu: NVIDIA_A100_80GB_or_equivalent
+  minimum_free_storage_gib: 100
+  cpu_training_allowed: false
+  local_host_compatible: false
+
+compatibility_gates:
+  upstream_model_metadata_verified: true
+  tokenizer_vocab_and_roundtrip_verified: true
+  actual_safetensors_downloaded: false
+  actual_model_load_and_backward_smoke_test: false
+  peft_lora_compatibility: unverified_not_used
+  qlora_compatibility: unverified_not_used
+  exact_ollama_checkpoint_lineage: unverified
+  textbook_training_rights_cleared: false
+  training_started: false

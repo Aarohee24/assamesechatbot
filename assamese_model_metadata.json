@@ -1,0 +1,10 @@
+{
+    "model_name": "Assamese Chatbot",
+    "base_model": "ptrdvn/kakugo-3B-asm",
+    "base_revision": "a6a854a0a680c4c57ec026df014f8f5964da8721",
+    "adaptation": "QLoRA",
+    "quantization": "Q4_K_M",
+    "format": "GGUF",
+    "fp16_size_gb": 6.34,
+    "q4_size_gb": 1.96
+}

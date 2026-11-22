@@ -1,0 +1,62 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অংশবোৰ সাধাৰণতে মহাদেশৰ গাতে লাগি থাকে, উদাহৰণস্বৰূপে, আৰৱ সাগৰ, বংগোপসাগৰ। কিছুমান সাগৰ\nআকৌ সম্পূৰ্ণ মহাদেশৰ ভিতৰভাগত অৱস্থিত, যেনে, কাস্পিয়ান সাগৰ, আৰল সাগৰ। সাগৰ-মহাসাগৰবোৰ\n\nনানা প্রজাতিৰ উদ্ভিদ আৰু প্রাণীৰ ভঁৰাল। সাগৰ-মহাসাগৰত থকা প্রাণীবোৰৰ ভিতৰত তিমি মাছেই সৰ্ববৃহৎ।\n\n>;   + ৰি  ষঠু\n\n৩.২.২ নদ-নদী ঃ\nবিশেষ পথেৰে প্রবাহিত হৈ থকা জলধাৰাক নদী\n(]|২1৮ঘ০া) বুলি কোৱা হয়। সাধাৰণতে বৰষুণ,\nবৰফগলা পানী আৰু ভূ-গৰ্ভৰপৰা নিগৰি অহা\nপানীয়ে নৈৰ সৃষ্টি কৰে। নদীৰ উৎস পৰ্বত-পাহাৰ,\nমালভূমিৰ দৰে উচ্চভূমি হ’ব পাৰে। ব্ৰহ্মপুত্ৰ নদী\nচীন দেশৰ তিব্বত মালভূমিৰ তামচুক খামবাব\nহিমবাহৰপৰা ওলাই আহিছে।\n\nযি ঠাইৰপৰা নদীৰ জলধাৰা আৰম্ভ হয়\nতাকে নদীৰ উৎস (9০0৮০০) বোলে। কোনো\nএখন নদীলৈ, যিমান ঠাইৰপৰা পানী আহে\nসেই গোটেইখিনি ঠাইকে নদীখনৰ অৱবাহিকা\n(38807) বোলে। আনহাতে এখন সৰু নৈ বৈ\nআহি এখন ডাঙৰ নদীত মিলিলে সৰু নৈখনক\nউপনৈ (]11601819) বোলা হয়। তোমালোকে\nনিশ্চয় সোৱণশিৰি, কপিলী, পাগলাদিয়া, বেঁকী\nআদি ব্ৰহ্মপুত্ৰৰ উপনৈৰ নাম শুনিছা । আকৌ এখন\nনদীৰপৰা এভাগ জলধাৰা ওলাই গৈ সেই একেখন\n\nচিত্ৰ ২.১২ ৪ কৃত্ৰিম উপগ্ৰহৰপৰা লোৱা কাস্পিয়ান সাগৰৰ ছবি\n\nৰ   ত ১৮\n\nচিত্ৰ ৩.১৩ ঃ নদী",
+  "confidence": {
+    "word_count": 163,
+    "mean": 87.34,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Samaj Bichitra_Class VI_Textbook_Assamese-page-000036.png",
+  "page_image_sha256": "7dc10127c0aa345f82e4d23bb0e3b81facf2755f6035be3d67b29aa6d444adf9",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.661,
+  "page_elapsed_seconds": 3.154,
+  "peak_process_tree_rss_bytes": 151203840,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত                ১১\nদ্বিতীয় অধ্যায়\nপ্ৰেৰিত দূত (=-'._-))\n\nমহান আল্লাহতাআলাই মানুহ জাতিক শ্ৰেষ্ঠ জীৱ হিচাবে এই পৃথিৱীত সৃষ্টি\nকৰিছে। জীন আৰু মানর জাতিৰ সৃষ্টিৰ উদ্দেশ্য হ’ল মহান আল্লাহতাআলাৰ\nইবাদত বা প্ৰশংসা কৰা। এই জীৱ শ্ৰেষ্ঠ মানৱ জাতিক সৎ পথ দেখুৱাবলৈ\nআল্লাহতাআলাই যুগে যুগে বিভিন্ন সম্প্ৰদায়ালৈ একোজনকৈ দৃত শ্ৰেৰণ কৰিছে।\nএই প্ৰেৰিত দূত বা ৰছুলসকলৰ কিছুমান নাম কোৰআন শ্বৰীফত উল্লেখ আছে\nআৰু কিছুমানৰ নাম উল্লেখ নাই। সেই কাৰণে নবী আৰু ৰছুলৰ প্ৰকৃত সংখ্যা\nপোৱা নাযায়।\nপ্ৰশ্ন- সকলো বছুলৰ নাম যদিও পোৱা নেযায়, তথাপিও প্ৰধান কেইগৰাকীৰ নাম\nক’ব নেকি?\nউত্তৰ- প্ৰধান পয়গান্বৰ কেইগৰাকীৰ নাম তলত উল্লেখ কৰা হ'ল।\n\n১ | হজৰত আদম (আঃ) আদি মানৱ আৰু আদি বছুল।\n\n২ । হজৰত স্বীচ (আঃ)        ১২ । হজৰত মুছা (আঃ)\n\n৩ । হজ্বব্বত ইদ্ৰীছ (আঃ)                  ১৩ ৷ হজবত হাৰুণ (আঃ)\n\n৪81 হজৰত নুহ (আঃ)         ১৪ | হজৰত য়াহ্য়া (আঃ)\n৫ । হজৰত ইব্ৰাহীম (আঃ)      ১৫ ৷ হজৰত জাকাবৰিয়া (আঃ)\n৬ । হজৰত ইছমাইল (আঃ)      ১৬ ৷ হজৰত ইল্্‌য়াছ (আঃ)\n৭ । হজৰত ইচ্‌হাক (আহ)       ১৭।হজৰত হডউনুছ (আঃ)\nচ'। হজৰত য়াকুব (আঃ)      ১৮। হজৰত লুৎ (আঃ)\n\n৯ । হজৰত ইউছুফ (আঃ)       ১৯ । হজৰত চালিহ (আঃ)\n১০ 1 হজবত দাউদ (আঃ)       ২০ ৷ হজৰত হুদ (আঃ)\n\n১১ ৷ হজৰত ছুলাইমান (আঃ)      ২১ ! হজৰত আইয়ুব (আঃ)",
+  "confidence": {
+    "word_count": 200,
+    "mean": 83.75,
+    "median": 91.47,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium-page-000017.png",
+  "page_image_sha256": "3820fce13fa81befbe5951a36f7c1eb6594618cbe45393c88a44a6a5e9c11adf",
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 1.927,
+  "page_elapsed_seconds": 2.03,
+  "peak_process_tree_rss_bytes": 94650368,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

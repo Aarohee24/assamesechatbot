@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত            ০৫\n\n(ন ) আছিল?\n\nউত্তৰ- হুজুৰ (ছঃ)ৰ মি’ৰাজ শাৰীৰিক আছিল। হুজুৰ (ছঃ)ৰ শাৰীৰিক মি’ৰাজৰ\nউপৰিও কেইবাবাৰো স্বপ্নযোগে মি’ৰাজ হৈছিল। হজৰত মুহাশ্মদ\n(ছঃ)এ স্বপ্নযোগে আল্লাহৃতাআলাৰ পৰা সত্যৰ সম্ভেদ পাইছিল। পূৰ্ববৰ্তী\nনবীসকলৰ স্বপ্নও সত্য আছিল। তাত অকণো ভুল নাছিল। শেষ নবী\nহজৰত মুহান্মদ (ছঃ)ৰ এবাৰ শাৰীৰিক আৰু ‘মানামী’ মি'ৰাজ চাৰিবাৰ\nঅথবা পাঁচবাৰ হৈছিল।\n\nপ্ৰশ্ন-কি কি গুনাহ আল্লাহতাআলাই ক্ষমা কৰিব বা শ্বাফাঅৎ প্ৰয়োজ্য হ’ব?\n\nউত্তৰ- কুফ্ৰ (/২5) বা নাস্তিক, শ্বিৰ্ক ( < >->) অৰ্থাৎ- আল্লাহৃতাআল৷ৰ\nলগত আনক অংশীদাৰ কৰা, এই দুই প্ৰকাৰ গুনাহৰ শ্বিফাঅৎ প্ৰযোজ্য\nনহ'ব; বাকী গুনাহৰ বাবে শ্বাফাঅৎ প্ৰযোজ্য হ’ব। যিবিলাকৰ কবিবা\nগুনাহ বেছি তেওঁলোকেই ক্ষমাৰ বাবে বেছিকৈ প্ৰাৰ্থনা জনাব। ছগিৰা\nগুনাহ;এবাদতৰ দ্বাৰ! দুনিয়াতে মাফ হয়।\n\nত\") \"1",
+  "confidence": {
+    "word_count": 108,
+    "mean": 77.01,
+    "median": 91.02,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 1.483,
+  "page_elapsed_seconds": 1.599,
+  "peak_process_tree_rss_bytes": 245821440,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

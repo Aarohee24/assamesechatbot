@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 125,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চৈ]\n\nখুঁটি-তাল (বেঁঢু বা খুবলি নথকা কাঁহৰ সৰু তাল)\nখুঁটি-খা (নিজৰ ঠোঁট বা হাতেৰে ধৰি আহাৰ খা)\nখুঁটি-গছা (মাটিত খুঁটি পোতাৰ দৰে পুতি থ’ব পৰা সৰু গছা)\nখুঁটি-নাটি (কোনো বিষয়ৰ সৰু ভাগ, সৰু-সুৰা কথা, আঁতিগুৰি)\nখুঁটি-পোত (থাকিবলৈ ঠাই ল)\nখুঁটি-ঢৰা (চটাই ঢৰা)\nখুঁটিয়া-খুঁটি (পৰস্পৰে পৰস্পৰক বা ইটোৱে সিটোক আঘাত কৰা কাৰ্য)\n\n8 জানো আহা\n\nপুতলা নাচ - কাহিনী, সাধুকথা বা ৰূপকথাক ৰসালভাৱে উপস্থাপন কৰিবলৈ পুতলা\nনাচৰ সহায় লোৱা হয়। সাধাৰণতে কুঁহিলাৰ পৰা তৈয়াৰী এই পুতলাবোৰে কাহিনীৰ\nবিভিন্ন চৰিত্ৰক প্রতিনিধিত্ব কৰে। সেইবোৰক চৰিত্ৰৰ লগত খাপ খোৱাকৈ কাপোৰ-\nকানি পিন্ধাই সজাই-পৰাই উলিওৱা হয়। প্ৰতিটো “\nপুতলাৰে হাত, ভৰি, মূৰ আদি ক’লা ৰঙৰ ৰছীৰে\nবান্ধি লোৱা হয়। পুতলা নচুৱাবলৈ এখন সৰু\nমঞ্চ লাগে। মঞ্চৰ পিছফালে এখন আঁৰ কাপোৰ\nথাকে। আঁৰ কাপোৰৰ পিছফালে সূত্ৰধাৰ আৰু\nমঞ্চত পুতলাবোৰ থাকে। সূত্ৰধাৰে ৰছীৰ\nপুতলাৰ হৈ বচন মাতে। মাজে মাজে ভাৱৰীয়া\n\nগ-- জ্ঞান সম্প্ৰসাৰণ",
+  "confidence": {
+    "word_count": 136,
+    "mean": 92.26,
+    "median": 95.96,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 35 diacritics",
+        "Detected 35 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.127,
+  "page_elapsed_seconds": 3.569,
+  "peak_process_tree_rss_bytes": 245125120,
+  "tesseract_warnings": [
+    "Detected 35 diacritics",
+    "Detected 35 diacritics"
+  ],
+  "processed_this_run": true
+}

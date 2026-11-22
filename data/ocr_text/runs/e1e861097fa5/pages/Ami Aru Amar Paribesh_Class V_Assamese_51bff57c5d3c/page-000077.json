@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১। উত্তৰলিখ৷-\n(ক)প্রাকৃতিকভাৱে হোৱা তিনিটা দুৰ্যোগৰ নাম উল্লেখ কৰা।\n(খ) কৃত্ৰিম বানপানীত কেনেধৰণৰ দুৰ্ঘটনা হ’ব পাৰে?\n(গ) বনজুইৰ সৃষ্টি কেনেকৈ হয়?\n(ঘ) ভূমিস্বথলন হোৱাৰ কাৰণবোৰ লিখা।\n২ ।‘ক’অংশৰ লগত ‘খ’অংশ মিলোৱা -\n‘ক’                                        ‘খ’\nভূমিস্খলন                       জলাশয়বোৰ শুকাই যায়।\nখৰাং                           পৃথিৱীৰ উপৰিভাগ হঠাৎ কঁপি উঠে৷\nবনজুই                         জলাশয়বোৰ পানীৰে উপচি পৰে।\nবানপানী                        হাবিত লগা জুই।\n৩ তলত দিয়া দুৰ্যোগবোৰৰ বিষয়ে চমুকৈ লিখা-\n(ক)খৰাং            (খ) ভূমিস্খলন              (গে) ভূমিকম্প\n৪ । পাৰ্থক্য লিখা-\n(ক) খৰাং আৰু বানপানী ।\n(খ)প্রাকৃতিকদুৰ্যোগ আৰু মানৱসৃষ্ট দুৰ্যোগ ৷\n৫ ৷ খালী ঠাই পূৰ কৰা-\n(ক) ১৯৫০ চনত অসমত ডাঙৰ -----=- হৈছিল।\n\n(খ)বনানীকৰণৰ যোগেদি -----== ৰোধ কৰিব পাৰি।\n(গ) বজ্ৰপাত পৰিপ্রাকৃতিকভাৱে হাবিত --=_-__ লাগে।\n(ঘ) বাঘজান তৈলখাদৰ বিস্ফোৰণ এটা ------দুৰ্ঘটনা ৷\n\n৬ । দুৰ্যোগ বুলিলে কি বুজা ?\nৰৰকৰককক",
+  "confidence": {
+    "word_count": 119,
+    "mean": 76.89,
+    "median": 90.43,
+    "minimum": 0.55,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.077,
+  "page_elapsed_seconds": 2.315,
+  "peak_process_tree_rss_bytes": 240381952,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

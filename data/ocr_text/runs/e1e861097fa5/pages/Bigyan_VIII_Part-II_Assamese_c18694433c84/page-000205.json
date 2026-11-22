@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 205,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আপতন কোণ\nপ্ৰতিফলণ কোণ\n\nঅন্ধবিন্দু\nব্ৰেইল\n\nশংকু\n\nবিক্ষিপ্ত /অনিয়মিত প্রতিফলন\n\n১ সকলো পৃষ্ঠতে পোহৰ প্রতিফলিত হয়।\n\n১ নিমজ, চিক্‌চিকিয়া আৰু নিয়মিত পৃষ্ঠত আপতিত\nহ’লে পোহৰৰ নিয়মিত প্ৰতিফলন ঘটে।\n\n১ খহটা পৃষ্ঠত বিক্ষিপ্ত/অনিয়মিত প্রতিফলন ঘটে।\n২ প্ৰতিফলনৰ সূত্ৰ দুটা হ’ল-\n(1) আপতন কোণ প্রতিফলন কোণৰ সমান।\n\n(2) আপতিত ৰস্মি, প্রতিফলিত ৰশ্মি, আৰু\nপ্রতিফলক পৃষ্ঠৰ আপতন বিন্দুত টনা অভিলনম্ব\nএকেখন সমতলত থাকে।\n\n১ সমতল দাপোণত গঠন হোৱা প্রতিবিম্বৰ পাৰ্বীয়\nপ্রতিলোমন ঘটে।\n\n১ দুখন কোণীয়াকৈ প্ৰতিষ্ঠাপিত দাপোণত বহু\nপ্ৰতিবিশ্বৰ গঠন হয়।\n\n১ বহু প্রতিফলনৰ বাবে কেলিড'স্ক’পত মনোমোহা\nআৰ্হিৰ সৃষ্টি হয়।\n১ সূৰ্যৰ পোহৰ সাতটা ৰঙেৰে গঠিত।\n\n২ পোহৰক তাৰ মিশ্ৰিত ৰংসমূহলৈ ভাগ ভাগ কৰা\nপ্রক্ৰিয়াটোকে বিচ্ছুৰণ বোলে।\n\n১ চকুৰ গুৰুত্বপূৰ্ণ অংশসমূহ হ’ল- কৰ্ণিয়া, আইৰিছ,\n\n১ স্বাভাৱিক চকুৱে ওচৰৰ আৰু দূৰৈৰ বস্তু স্পষ্টকৈ\nদেখা পায়।\n\n১ দৃষ্টিশক্তিৰ প্ৰতিবন্ধী লোকে ব্ৰেইল পদ্ধতি ব্যৱহাৰ\nকৰি পঢ়িব আৰু লিখিব পাৰে।\n\n১ দৃষ্টিশসক্তিৰ প্রতিবন্ধীসকলে পৰিৱেশৰ সৈতে\nঅধিক সূচাৰভাৱে মোকাবিলা কৰিবলৈ\nকৰি তোলে।\n\nপোহৰ /1[ 1 0]]']\"",
+  "confidence": {
+    "word_count": 148,
+    "mean": 86.89,
+    "median": 93.19,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.658,
+  "page_elapsed_seconds": 2.923,
+  "peak_process_tree_rss_bytes": 311894016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

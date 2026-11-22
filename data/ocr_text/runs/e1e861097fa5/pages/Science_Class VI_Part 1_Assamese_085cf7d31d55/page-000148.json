@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 148,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]]0\"%ম 816 016 00018 811811660 11] {]6 11018\" 01 ৮001\" ৪0]1001? 50161%,\n\n16 00019 816 ৪118116620 8০০০101116 (0 16 900|1600. /১৪ ৪ 16901, ৮00 081]\n       আজজ্জ্ | ৰ ন   শলা পাস আদ দোলন বশ শত\n\n\"18. 5.1 +: /4770796772711 0/ 0016015 171 51076\n\n6891] 110 000 016 6001 ৮00 স811(, ৬৪11009 00609 816 8118116620 11] 176\n৪81]26 8 11] 016 9110])8. ])11621621)0{ (৮]2769.01 01900109.1222{ 11] 01[]61621]{\n€০01108111219 816 1061) (08562141121\", '[']16% 1669]2 16 ])8০1069.01 70079 001 11681:\n16 1)8:608 0170.577\" 00}. '[']16 0121:1121]]9 816 8190 811.811660 11] 16 ৪811]6\nঘ্দ8৪), '[]]19 1]8|069 10. 689121 (0 110.000 {116 00|6001]18{ 0116 16608.\n\n১০ 6 ]}8%খ6 12811] 018.010 0600111768 1161[)10] {0 0911 9111]1181\" 00608\n816 109)(009620121.,\n\n[] /*২৫০]]( ছ 5.2:\n\n(18991 016 00109 9110] 11] \"12. 5.2 8৪০০০1011186 (0 01611 9118]26,\n০০101, 1181011699;.901011699, 01196]101699 206.\n\n২",
+  "confidence": {
+    "word_count": 89,
+    "mean": 44.7,
+    "median": 50.28,
+    "minimum": 0.0,
+    "maximum": 95.54
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3068,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.837,
+  "page_elapsed_seconds": 3.305,
+  "peak_process_tree_rss_bytes": 290361344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

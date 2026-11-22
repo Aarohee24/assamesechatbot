@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 6,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্ৰথম শাখা\nএই শাখায় ইসলামী ধৰ্ম বিশ্বাস লইয়া আলোচনা করা হইয়াছে।\n\nতউহ্দ বা একেশ্বর বাদ\n\nপ্র £-- তওহিদের অৰ্থ কি?\n\nউ £--_ অন্তরের অশ্ত্স্থল হইতে আল্লাহকে এক বলিয়া বিশ্বাস করা\nএবং মুখেও তাহা স্বীকার করাকে তউহ্দি বলা হয়।\n\nপ্র £-- আল্লাহতা’লা এক বলিয়া সৃষ্ট কি ভাবে জানিতে পার!\n\nউ ঃ-_ প্ৰথমতঃ নষ্টার অস্তিত্ব অনুভব করার মত বিবেক সহকারে\nসৃষ্টের সেবক মানব জাতিকে অস্ম দেওয়া হইয়াছে। সুতরাং মানুষ স্বাভাবিক\nঅবস্থায় তার ভ্ৰষ্টার অস্তিত্বকে আপনা হইতে হৃদয়ঙ্গম করিতে পারে। কাৰ্য্যতঃ\nদেখা যায় জ্ঞানী এবং গুণী লোকগণ বিজ্ঞ এবং দাৰ্শনিক ব্যক্তি সকলেই আশ্লাহ\nএক বলিয়া বিশ্বাস রাখে।\n\nদ্বিতীয়তঃ-- প্ৰত্যেক নবী নিজ নিজ শিষ্যদের তউহিদের বাণী শিক্ষা\nদিয়াছেন এবং ঘোষণা কবরিয়াছেন আল্লাহ এক 'তাঁহার মত দ্বিতীয় আর কেহ\nনাই।\n\nপ্র ঃ-- কোৱরাণ মজিদের মধ্যে তউহিদের বাণী শিক্ষা দেওয়া হইয়াছেকি\nনা?\n\nউ $-- কোরাণ শরীফের মধ্যে তউহ্দের শিক্ষা পূৰ্ণ এবং সুষ্ঠু ভাবে\nদেওয়া হইয়াছে। অদ্যাপি কোরাণ মজিদই সম্ৰ বিশ্বের মধ্যে একমাত্ৰ ধৰ্মগ্ৰন্থ\nযাহার মধ্যে শ্ৰষ্টার একতা সম্বন্ধে বিষদ ভাবে বৰ্ণনা দেওয়া হইয়াছে। শুধু\nবৰ্ণনা নহে অকাট্য যুক্তি প্ৰদৰ্শন করা হইয়াছে। পূৰ্ববৰ্তী ধৰ্মগ্ৰন্থ সমূহেণ্ড\nতউহিদিরে কথা ছিল। কিন্তু পরবৰ্তী যুগে ধৰ্মের রক্ষকগণ ধৰ্ম শ্ৰস্থের মধ্যে\n'তাহাদের ইচ্ছামত পরিবর্তন ঘটাইয়াছেন। তউহিদরে বাণীকে শীৰ্ত্ত দ্বার|\nবিবৰ্তিত কবরিয়াছেন। বস্তুতঃ সত্য ধৰ্ম পুনঃ প্ৰতিষ্ঠার জন্য আল্লাহ তা'লা",
+  "confidence": {
+    "word_count": 197,
+    "mean": 81.14,
+    "median": 92.29,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.31,
+  "page_elapsed_seconds": 2.505,
+  "peak_process_tree_rss_bytes": 220385280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

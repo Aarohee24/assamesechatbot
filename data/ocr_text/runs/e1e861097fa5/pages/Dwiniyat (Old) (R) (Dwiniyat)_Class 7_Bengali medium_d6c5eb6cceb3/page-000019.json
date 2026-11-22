@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 19,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৪       দ্বীনিয়াত\nতৃতীয় খণ্ড, দ্বিতীয় শাখা\n\nএই শাখায় ইছলামী আমাল ও ব্যবহারিক কৰ্ম পদ্ধতি নিয়া আলোচনা\nকরা হইয়াছে। অজ্ঞ সংক্ৰান্ত অবশিষ্ট মুছলা মালা।\n\nপ্ৰ $-_- অজু ব্যতিরেকে নামাজ পড়া কি?\n\nউ ঃ-- কঠোর পাপমুলক কথা, এমন কি কোন কোন আলিমের মতে\nযে ব্যক্তি স্বেচ্ছা প্ৰণোদিত হইয়া অজু ব্যতিরেকে নামাজ পড়িতে দাড়াইবে\nসে কাফের।\n\nপ্র $-_- নামাজ পড়িবার জন্য অজুর শৰ্ত্ত বলিয়া কি প্ৰমাণ আছে!\n\nউ $-- কোৱাণ শরীফে সূুবলায়ে মায়দার দ্বিতীয় ক্লকুতে আল্লাহ তালা\nবলিতেছেন ‘হে বিশ্বালী গণ, তোমারা তখন নামাজ পড়িতে দাড়াইবে তখন\nতোমাদের মুখমণ্ডল এবং কনি পৰ্যত্ত হস্তদ্বয় ধৌত কর এবং মাথায় মুছেহ\nকর এবং গাটি পৰ্যন্ত পদদ্বয় ধৌত কর’। হজরত মোহান্মদ (দঃ) বলিতেছেন\nপবিত্ৰতাই নামাজের চাবিকাটী অথাৎ পবিত্ৰতা ব্যতিরেকে নামাজ হয়না।\n\nওজুর ফরজ সংক্ৰান্ত অবশিষ্ট মুছলামালা\n\nপ্র £== ধৌত বলর্লার সীমা বরেখা কতটুকু?\n\nউ ঃ-- এতটুকু পানী ডালিতে হইবে যে অঙ্গ প্রত্যঙ্ন জল প্ৰবাহিত\nহইয়া অন্ততঃ দুই এক কোলি জল ববরিয়া পড়িবে। ইহাই ধৌত করার নাযাূনতম\nসীমারেথা। এরচেয়ে কম ধৌত হইলে ধৌত করা বলা হয়না। যেমন কেহ্‌\nহাত ভিজাইয়া সিক্ত হাত দ্বারা মুখমণ্ডলী মুছিয়া লইয়া অথবা এত অল্প পানী\nঢালিল যাহা মুখমগ্ডলীতে থাকিয়া গেল এবং প্ৰবাহিত হইল নানা তখন এঁ\nব্যক্তি মুখ ধৌত করিয়াছে বলা যায়না এবং তাহার অজুও শুদ্ধ হইবেনা।\n\nপ্র £_- অজুর মধ্যে যে অঙ্গ ধৌত করা ফ'রজঞ্জ তাহা কতবার ধৌত\nকরিলে ফরজ আদায় হইবে?\n\nউ ঃ-- একবার ধৌত করিলে ফরজ এবং তিনিবার ধৌত করা ছুন্নত।\nএবর তার চেয়ে বেশী সংখ্যক ধৌত করা বৈধ আছে। তবে মকরল্লাহ।\nপ্ৰ $-- কোথা হইতে কোথা পৰ্যন্ত মুখ ধৌত করা ফরজ?\n\nউ ঃ-- কপালের টোলের গোড়া হইতে আনরম্ভ করিয়া কটার নীচ পৰ্যন্ত\nএবং এক কানের লহর হইতে দ্বিতীয় কানের লহর পৰ্যন্ত ধৌত করা ফরজ।",
+  "confidence": {
+    "word_count": 265,
+    "mean": 84.33,
+    "median": 91.76,
+    "minimum": 9.22,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.776,
+  "page_elapsed_seconds": 2.97,
+  "peak_process_tree_rss_bytes": 242106368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 227,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_    বালিখিনিৰ মাজেদি এডাল চুম্বক অগা-পিচা কৰা। চুম্বক ডালত বালিত থকা [\nচুম্বকীয় পদাৰ্থবোৰ লাগি ধৰিব। এইবোৰ এখন কাগজত জমা কৰা। এইটো হ’ল\nচুম্বকীয় পৃথকীকৰণ। ওপৰত বৰ্ণিত গোটেই প্ৰক্ৰিয়াটোৰ বাবে নিৰ্দেশনা তালিকা\n6.1 অনুসৰণ কৰা। ইয়াত মাটিৰ নমুনা এটাত থকা উপাদানবোৰ পৃথকীকৰণৰ বাবে\nপ্রয়োজনীয় পদ্ধতিবোৰ পৰ্যায়ক্ৰমে দেখুওৱা হৈছে।\n\n( __ ৰাখি থোৱা (অৱক্ষেপণ) _)\n(_ আজ্রাৱণ 9)\n\nবোকা পোলীৰ সৈতে)      বন্দে ন্্\n\n(1 ন বাৰ}              টল         পৰিজ্াবণ)\n\nআশ্ৰাৱণ                                                                   ৰ’দত শুকুওৱা\n(বাষ্পীভৱন)\nহাতেৰে\nবালি\n\nচুম্বক (চুম্বকীয়\nপৃথকীকৰণ)",
+  "confidence": {
+    "word_count": 76,
+    "mean": 80.87,
+    "median": 92.97,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 18 diacritics",
+        "Detected 18 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.215,
+  "page_elapsed_seconds": 2.585,
+  "peak_process_tree_rss_bytes": 296005632,
+  "tesseract_warnings": [
+    "Detected 18 diacritics",
+    "Detected 18 diacritics"
+  ],
+  "processed_this_run": true
+}

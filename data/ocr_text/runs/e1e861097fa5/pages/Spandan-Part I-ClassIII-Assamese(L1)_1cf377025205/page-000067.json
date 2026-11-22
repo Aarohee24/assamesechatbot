@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অধ্যায় ৫ ]\n\nনতুন বস দেখিলে সেই বিষয়ে জানিবলৈ তোমালোকৰ মনত নিশ্চয় প্রশ্ন জাগে। কবিৰ মনতো তেনেদৰে বহুত\nপ্রশ্নৰ উদয় হৈছিল। তলৰ পদাটোত তেওঁ তেনেকুৱা কিছুমান পএরঙ্সৰ অৱতাৰণা কৰিছে। পদাটো পঢ়ি চাওঁ আহা-_\n\n৮================ == == == == = = = = = = = = = = = = = = শন = = = = = = = = = = = = = = = = শ = = = শ শ শ শল = = শ শ = = = শ শ শু শ = = = = = = শ = = =হ = = = শ = = = শহ = = = = শ শ এ\n\nঘৰবোৰ হেনো       সাজে মিস্ত্ৰিয়ে\nআৰু সাজে-মেজ চকী,\nকোনে বাৰু সাজে     ধুনীয়া আকাশ\n\nমোৰ ছোলাবোৰ        বজাৰৰপৰা\nআনি দিয়ে দেউতাই,\n\nফুলবোৰে বাৰু       ৰঙা-নীলা এই\nচোলাবোৰ ক’ত পায়?\n\nটৈ\n\n৮৮%\n\nকেতিয়াবা পালে চিনি,\nতেওঁকে সুধিম         ইমান ফুলক\nকোনে দিয়ে চোলা কিনি?\n\n-নৰকীান্ত বৰুৰা\n\n(উৎস ৪ পদাটো নৱকান্ত বৰদ্বাৰ শিশুসাহিত্য সমগ্র, প্ৰথম খণ্ড, ২০০৩ৰ ৫৬ নং পৃষ্ঠাৰপৰা লোৱা হৈছে।)\n\n[সসস:সংসংসংং:সংমইমমস:সসৱসসসসসসসজজসসসসসমসসসমসসসসসসসসমসসসজসসসসমসমমসসসসসসজসসসসস-সজসসজসজসসসসসমসসৱসসসমসসমসমসসমস-সসসমসসসসসমসমসমসমসমমসসজসসসসমসমসজসসমসসসমসমমসসমসসজসসমমমসসমসসসজৱৱসজজজসসং-সঅৱংস স ং সজস৯\n\n+ প্রথমতে সঠিক ছন্দ, লয় আৰু বিৰাম মানি শুদ্ধ উচ্চাৰণেৰে স্পষ্টকৈ পঢ়ি শুনাব।\n\n* শেষত আবৃত্তি কৰিবলৈ শিকাব।",
+  "confidence": {
+    "word_count": 190,
+    "mean": 83.82,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.561,
+  "page_elapsed_seconds": 4.593,
+  "peak_process_tree_rss_bytes": 228474880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

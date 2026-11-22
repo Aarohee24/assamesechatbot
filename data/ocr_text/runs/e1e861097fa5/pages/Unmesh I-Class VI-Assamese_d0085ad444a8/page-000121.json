@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 121,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জ্যা\n\n১৩। গীতটিত গীতিকাৰে মানুহে মানুহৰ প্রতি সহানুভূতিশীল হ’ব লাগে বুলি কৈছে।\nপ্রকৃত মানুহ হ'বলৈ হ’লে আমাৰ কি কি গুণ থাকিব লাগিব? শিক্ষকৰপৰা জানি\nলোৱা আৰু লিখা ।\n\n১৪। তোমালোকে নিশ্চয় তোমালোকৰ সহপাঠী বা আন কাৰোবাক সহায় কৰি পাইছা।\nআনৰ বাবে কৰা ভাল কামবোৰ প্রত্যেকেই লিখি শ্ৰেণীকোঠাৰ সকলোৰে আগত\nপঢ়ি শুনাবা।\n\n১৫। ‘মানুহে মানুহৰ বাবে’গীতটি শ্ৰেণীৰ সকলো ছাত্ৰ-ছাত্ৰীয়ে একক আৰু 'দলীয়ভাৱে\nগোৱা।\n\n[2 শিক্ষকে প্ৰত্যেক ছাত্ৰ-ছাত্ৰীয়ে যাতে গীতটো গায় তাৰ প্রতি লক্ষ্য ৰাখিব। প্রয়োজন সাপেক্ষে দৃশ্য- আব্য সঁজুলিৰ সহায়ত _\nশুনাব বা স্থানীয় অভিজ্ঞ ব্যক্তিৰ সহায় ল’ব।\n\n১২১\n\n্‌      ১১।শব্দৰ খেল খেলৌ আহা--\n\nগীতটিত এনে এটি তিনি আখৰীয়া শব্দ আছে যিটোৰ--\n\n৬ প্ৰথম আখৰটোৱে অস্ত্ৰ বুজায়,\n\n৬ প্ৰথম আৰু দ্বিতীয় আখৰ দুটা মিলি আনক উচৰ্গা কৰা বুজায়,\n\n৬ দ্বিতীয় আৰু তৃতীয় আখৰ মিলি নতুন বুজায়,\n--শব্দটো গীতটিৰপৰা বিচাৰি উলিয়াই লিখ । _{        }\n\nৰ ১২। গীতটিত তোমালোকে ‘সমনীয়া’ শব্দটো পাইছা। ‘সমান’ শব্দটোৰ লগত ‘য়া’ প্রত্যয়\nযোগ হৈ ‘সমনীয়া’ শব্দটো গঠিত হৈছে। তেনেদৰে তলত দিয়া-শব্দবোৰৰ লগত ‘য়া’\nপ্ৰত্যয় যোগ হ’লৈ কি হয় লিখোঁ আহা--\nসমান + ইয়া -> | সমনীয়া\n\nবৰণ + ইীয়া =>             নোমল + ঙীয়া =>\n\nতেল + ইীয়া =>              পানী + ই্ীয়া =>\n\nফেৰ + য়া =>            ভঁট + ইয়া =",
+  "confidence": {
+    "word_count": 193,
+    "mean": 84.32,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 40 diacritics",
+        "Detected 40 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.351,
+  "page_elapsed_seconds": 3.856,
+  "peak_process_tree_rss_bytes": 228458496,
+  "tesseract_warnings": [
+    "Detected 40 diacritics",
+    "Detected 40 diacritics"
+  ],
+  "processed_this_run": true
+}

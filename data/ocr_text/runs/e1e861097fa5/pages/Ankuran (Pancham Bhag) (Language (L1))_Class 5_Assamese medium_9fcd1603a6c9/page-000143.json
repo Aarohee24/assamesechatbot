@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 143,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডৰে\nশক\n\n ্পঞ\n\nস্খ\n\nউৰ্দু যন্ষ্মা\n\nমুগ্ধ | মিস্ত্ৰী ৷ তন্ন | শঙ্খ স্ফূৰ্তি| সৃষ্টি | কেন্দ্ৰ বিহু\n\nৰে\n\n|[|কৃষ্ণ | ইন্দ্ৰ | অশ্ব ৷চেষ্টা| সহ্য ! মুণ্ড ৷ নৃত্য |লঙ্কা\nস্পষ্ট, অন্ন | নক্সা ৷ গান্ধী! বিষ্ণু | কান্ধ | যুক্তি! ৰঙ্গ\n\nশিক্ষা (প্ৰাথমিক) বিভাগ\nঅসম চৰকাৰ\n\nক্ষুৰ | বান্ধ | নন্দ | বস্তু | ব্ৰহ্ম | পুষ্প ! উষ্ণ ৷ অম্ভ\n\nন\n৷\n৫\n৷৷\nল\n|\nচ\n\nমৰ্ত্য | স্কুল প্ৰান্ত [বাঞ্চা৷ স্নেহ | বৃক্ক\n\nৰ",
+  "confidence": {
+    "word_count": 79,
+    "mean": 67.51,
+    "median": 78.52,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2558,
+  "image_height": 3291,
+  "ocr_elapsed_seconds": 2.184,
+  "page_elapsed_seconds": 2.794,
+  "peak_process_tree_rss_bytes": 252948480,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

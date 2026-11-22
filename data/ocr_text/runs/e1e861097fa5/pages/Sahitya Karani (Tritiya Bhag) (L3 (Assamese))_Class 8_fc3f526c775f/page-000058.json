@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মন্ত্ৰি স্তন সণ্তণপ্ৰ সই তই     তাত ৰ কাৰে স্তর\nস্কুল   স্ক স+ক   সই কই\nবেঞ্চ   ঞ্চ ঞক+চ   ঞই চই\n\nস্নেহ স্ন স+ন সই নই\nজানে৷ আহা\n\nখ্& প্প্র\n\nবিভিন্ন আখৰ যুক্ত হোৱাৰ ফলত ‘শ’ আখৰটোৰ ৰূপ সলনি হয়।\n(ক)শ ত উ যোগ হ’লে তাৰ ৰূপ সলনি হৈ শু হয়। যেনে---শিশু, শুভ।\n(খ) কিন্তু শত উ যোগ হ’লে তাৰ ৰূপ সলনি নহয়। যেনে == শুূৰ্পণখা।\n(গ) শ্র'-ৰ লগত উ-কাৰ যোগ হ’লে শ্ৰু বা শ্ৰন। যেনে = শ্ৰুতলিপি।\n\n(ঘ) শ্ৰ-ৰ লগত উ-কাৰ- যোগ হ’লে শ্ৰু বা শ্ৰ। যেনে = শুশ্ৰূষা।\n(৬) শৰ লগত ৰ-কাৰ যোগ হ’লৈ শ্ৰ হয় আৰু তাৰ উচ্চাৰণ ‘'ছু’ৰ দৰে হয়। যেনে-- শ্ৰাৱণ\n\n৯। যুক্তাক্ষৰ গঠন কৰোঁ আহা --\n\nসন্ম             ঞ্ৰনচ\nপক্ল            ঞ-ৰছ\nস7ক            সৰ]ন\n\n১০। তলৰ শব্দবোৰ পঢ়োঁ আহা --\nস্কুল     স্কেল    বিস্কুট    স্ত্ৰী      মিস্ত্ৰী    শাস্ত্ৰী\nপ্লাৱন    বিপ্লৱ    প্লেগ     স্নান     স্নেহ    স্নাতক\n\nবিস্ময়       স্মাৰক স্মৰণ         বেঞ্চ         ইঞ্চৈ       বিৰিঞ্চি\n= নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 145,
+    "mean": 82.34,
+    "median": 92.86,
+    "minimum": 0.0,
+    "maximum": 96.83
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.503,
+  "page_elapsed_seconds": 2.728,
+  "peak_process_tree_rss_bytes": 243879936,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

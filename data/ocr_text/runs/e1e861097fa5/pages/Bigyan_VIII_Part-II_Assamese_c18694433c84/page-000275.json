@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 275,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী\n\nপ্ৰশ্ন নং 1-3 ত শুদ্ধ উত্তৰ বাছি উলিওৱা ৷\n\n1.\n\nতলৰ কোনটো সৌৰজগতৰ সদস্য নহয় ?\n\n(৪) গ্রহাণুপুঞ্জ\n\n(০) উপগ্ৰহ\n\n(০) তাৰকাপুঞ্জ\n\n(0) ধূমকেতু\n\nতলৰ কোনটো সূৰ্যৰ গ্ৰহ নহয়?\n\n(8) লুথ্ধক\n\n(০) বুধ\n\n(০) শনি\n\n(৫) পৃথিবী\n\nচন্দ্ৰকলাৰ উৎপত্তিৰ কাৰণ\n\n(৪) আমাৰ পিনে পোহৰ প্রতিফলন কৰা চন্দ্ৰৰ অংশটোহে দেখা পাওঁ\n(০) চন্দ্ৰৰ পৰা আমাৰ দূৰত্ব সলনি হৈ থাকে\n\n(০) পৃথিৱীৰ প্রচ্ছায়াই চন্দ্ৰপৃষ্ঠৰ এটা অংশহে ঢাকি ৰাখে\n(0) চন্দ্ৰ বায়ুমণ্ডলৰ ঘনত্ব স্থিৰ নহয়\n\nখালী ঠাই পূৰ কৰা।\n\n(0) সূৰ্যৰ পৰা আটাইতকৈ দূৰত থকা গ্ৰহটো হ'ল ___\n(৮০) ৰঙা ৰঙৰ গ্ৰহটো হ'ল.” __\n\n(০) আকাশত বিশিষ্ট ৰূপ গঠন কৰা তৰাৰ সমষ্টিক ___ বোলে।\n\n(0) গ্ৰহৰ চাৰিওফালে পৰিভ্ৰমণ কৰি থকা নভোমণ্ডলীয় বস্তুক বোলে।\n(6) পপীয়া তৰাবোৰ প্ৰকৃততে __ নহয়।\n\n()    আৰু   ৰ কম্ষপথৰ মাজত গ্রহাণুপুঞ্জসমূহ পোৱা যায়\n\nতলৰ বাক্যসমূহ সত্য (স) আৰু অসত্য (অ) হিচাপে চিহ্নিত কৰা।\n\n(৪) ধ্ৰুৱ তৰা সৌৰজগতৰ সদস্য।            (\n(০) বুধ সৌৰজগতৰ ক্ষুদ্ৰতম গ্ৰহ |             (\n(০) ইউৰেনাছ সৌৰজগতৰ আটাইতকৈ দূৰত থকা গ্ৰহ।     (\n(0) ইনছেট্‌ এটা কৃত্ৰিম উপগ্ৰহ।              (\n(০) সৌৰজগতত নটা গ্ৰহ আছে।           (\n(0) কালপুৰুষ তাৰকাপুঞ্জ কেৱল দূৰবীক্ষণেৰেহে দেখা পায়   (\n\nঅ্নপ =_-“পিল  ওু৬=-ুিা = 'ৰপ' সভা] সৰ\n\nতৰা আৰু সৌৰজগত /971%1২9 খা) [']]}; ৪01.41২ ৪%৮9];%]\n\n260.",
+  "confidence": {
+    "word_count": 192,
+    "mean": 83.21,
+    "median": 92.64,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.811,
+  "page_elapsed_seconds": 3.102,
+  "peak_process_tree_rss_bytes": 246431744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

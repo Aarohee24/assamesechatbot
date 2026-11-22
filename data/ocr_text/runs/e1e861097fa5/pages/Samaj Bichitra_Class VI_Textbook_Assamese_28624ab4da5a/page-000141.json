@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 141,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাগজী মুদ্ৰা বিনিময়ৰ উৎকৃষ্ট মাধ্যম হিচাপে পৰিগণিত হ’ল। বৰ্তমান আমাৰ জীৱনত মুদ্ৰাই এক গুৰুত্বপূৰ্ণ\nভূমিকা পালন কৰিছে। বেচা-কিনা আদি সকলো কাম-কাজ মুদ্ৰাৰ জৰিয়তে সহজে কৰিব পৰা হ’ল। সমগ্র\nপৃথিৱীৰ মানুহৰ মাজত মুদ্ৰাই এখন সাঁকোৰ দৰে সংযোগ স্থাপন কৰিলে।\n\nবিভিন্ন ঠাইৰ অৰ্থনৈতিক অৱস্থা ভেদে মুদ্ৰাত ব্যৱহৃত ধাতুৰ পাৰ্থক্য দেখা গৈছিল। সোণ, ৰূপ, তাম,\nব্ৰঞ্জ আদি ধাতুৰে অতীতত মুদ্ৰা প্রস্তুত কৰাৰ প্রমাণ পোৱা গৈছে। মুদ্ৰাৰ ক্ৰমবিকাশৰ লগে-লগে ব্যৱসায়-\nবাণিজ্যৰো প্ৰসাৰ হ’ল। ইতিমধ্যে মানুহে সাগৰীয় পথ কিছুমান আৱিষ্কাৰ কৰিলে। সেই সাগৰীয় পথবোৰে\nপৃথিৱীৰ বিভিন্ন সমাজ আৰু সংস্কৃতিৰ মাজত সংযোগ স্থাপন কৰিলে। সেই সময়ৰ শাসকসকলে ব্যৱসায়-\nবাণিজ্যৰ গুৰুত্ব ভালদৰে উপলব্ধি কৰিছিল। সেইকাৰণে তেওঁলোকে ব্যৱসায়ৰ প্রসাৰৰ বাবে সকলোধৰণৰ\nসহায়-সহযোগিতা আগবঢ়াইছিল আৰু শাসকসকলৰ সমৰ্থনে ব্যৱসায়ীসকলক উৎসাহিত কৰিছিল।\n\n(ক) অৰ্থনীতিৰ মূল খণ্ড কেইটা কি কি?\n(খ) প্রাথমিক খণ্ডক কি খণ্ড বুলি কোৱা হয়?\n\n(গ) অৰ্থনীতিৰ তৃতীয় খণ্ডটো কি?                 টঞঁ\n(ঘ) বিনিময় প্রথা বা বিনিময় অৰ্থনীতি কি  ৰ্‌  ত্্ৰ\n(ঙ) বৰ্তমানৰ বিনিময়ৰ মাধ্যম কি?\n\n২. মুদ্ৰাৰ আবিষ্কাৰে কেনেকৈ দ্রব্য সাম,\n৩, প্রাথমিক, গৌণ আৰু সেৱা খণ্ডৰ\n\nব্যাখ্য৷ কৰা।\nউদাহৰণৰ সহায়ত ব্যাখ্যা কৰা।\n\nধাৰণা চিত্ৰ (-00.666])6 (] 3])) 3\n\n১২৪১৯\n\nঅর্থনীতি, ইয়াৰ খণ্ডসমূহ আৰু বিনিময়ৰ মাধ্যম",
+  "confidence": {
+    "word_count": 177,
+    "mean": 89.12,
+    "median": 95.9,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 14 diacritics",
+        "Detected 14 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.965,
+  "page_elapsed_seconds": 3.254,
+  "peak_process_tree_rss_bytes": 287694848,
+  "tesseract_warnings": [
+    "Detected 14 diacritics",
+    "Detected 14 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 175,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তালিকা 14.1\nবৈদ্যুতিক বৰ্তনীৰ কিছুমান উপাদানৰ চিহ্ন\n%110019 101\" ৪801]6 ০12০0010 গ001{ 0011|20112118)\n্র মক        বৈদ্যুতিক সামঞ্ী             চিহ্ন\n1] | বিদ্যুতিক কোষ\n]7]20010 ৫০]]\n\n-]1\n\n2] | বৈদ্যুতিক চাকি\n]7|2600710 ৮6016\n\n3]\n\n4]\n\n5]\n\n6]\n\n্ব1\"62\n\nপৰৱৰ্তী কোষৰ্চণাত্মকণপ্রান্তৰ সৈতে সংলগ্ন কৰা হৈছে।\nদুটা বা তাতোধিক কোষৰ এনেধৰণৰ সজ্জাক বেটাৰী\nপুতলা, দূৰদৰ্শনৰ ৰিম’ট কন্ট্ৰল আদিত বেটাৰী ব্যৱহাৰ\nকৰা হয়। অৱশ্যে ইয়াৰে কিছুমান সঁজুলিত 14.2 চিত্ৰত\n\nদেখুৱাৰ দৰে বিদ্যুৎ কোষবোৰ ইটোৰ পিছত সিটোকৈ\nসংযোগ কৰা নহয়। কেতিয়াবা কোষবোৰ গাত\nলগালগিকৈ কাষে কাষে স্থাপন কৰা হয়। তেনেহ’লৈ\nকোষৰ প্রৰান্তৰিনাক কেনেকৈ সংযোগ কৰা হয়?\nযিকোনো বৈদ্যুতিক সঁজুলিৰ বেটাৰী প্রকোষ্ঠটো\nমন দি লক্ষ্য কৰা। দেখিবা যে এটা কোষৰ ধনাত্মক\nপ্রান্তৰ লগত পৰৱৰ্তী কোষৰ খ্চণাত্মক প্রান্ত সংযোগ\nকৰিবলৈ শকত তাঁৰ এডাল বা ধাতুৰ পাত এখন আছে\n(চিত্র 14.3)। প্রকোষ্টত সঠিকভাৱে কোষবোৰ স্থাপন\nথাকে।\n\nবিভিন্ন ক্ৰিয়াকলাপৰ হেতু বেটাৰী প্রস্তুত কৰিবলৈ\nআমি কোষবোৰ কেনেকৈ সংযোগ কৰিম? 14.4\nচিত্ৰত দেখুৱাৰ দৰে এটুকুৰা কাঠ, দুচটা লোৰ পটি\nআৰু দুডালমান ৰবৰৰ পটিৰ সহায়ত এবিধ কোষ ৰখা\nসঁজুলি প্রস্তুত কৰি ল’ব পৰা যায়। ৰবৰৰ পটিকেইডালে\nধাতুৰ পটি দুটা টানকৈ হেঁচি থকাটো জৰুৰী।\n\nচিত্ৰ 14.2 (8) দুটা কোষৰ এটা বেটাৰী (/* ঠ৮80021\"%\n০11.0 ০০1])\n\n(6০) চাৰিটা কোষৰ এটা বেটাৰী (/* 68021)\n\n01001 ৫০]])\n\nচিত্ৰ 14.3 বেটাৰী প্রস্তুত কৰিবলৈ দুটা কোষৰ সংযোগ\n(0201012001198, 0 ০০]]8 008620121 [0 11]181]06 8,\n080021\"))\n\n161",
+  "confidence": {
+    "word_count": 207,
+    "mean": 80.8,
+    "median": 93.22,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.133,
+  "page_elapsed_seconds": 3.478,
+  "peak_process_tree_rss_bytes": 297345024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 60,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(গ) ভাৰতৰ উপকূলীয় অঞ্চলত বাস কৰা লোকসকলৰ প্ৰধান বৃত্তি কি?\n(ঘ) জাৰোৱাসকলে ক’ত বাস কৰে?\n২. চমু টোকা লিখা--\n(ক) উত্তৰৰ পাৰ্বত্য অঞ্চল       (খ) উত্তৰৰ সমভূমি অঞ্চল\n(গ) দাক্ষিণাত্য মালভূমি অঞ্চল (ঘ) উপকূলীয় নিম্নভূমি অঞ্চল\n\nধাৰণ৷ চিত্ৰ (070.00) []9])) ৪\n\nৰাজনৈতিক বিভাগ                 ৰাজ্য\n\nশব্দাৰ্থঃ\n\nপৰ্বতমালা = ৪ কেইবাখনো পৰ্বত-পাহাৰ যেতিয়া একেলগে সংযুক্ত হৈ থাকে তাকেই\nপৰ্বতমালা বুলি কোৱা হয়।\n\nহিমবাহ     ৪ পৰ্বতৰ ঢালেৰে বৰফৰ খণ্ড নামি অহাকে হিমবাহ বোলা হয়।\n\nজলবিদ্যুৎ __ ঃ$ জলশক্তিৰপৰা উৎপাদন হোৱা বিদ্যুৎ।\n\nদ্বীপপূঞ্জ       $ ওচৰা-ওচৰিকৈ থকা কেইবাটাও দ্বীপৰ সমষ্টিকে দ্বীপপুঞ্জ বুলি কোৱা হয়।",
+  "confidence": {
+    "word_count": 88,
+    "mean": 84.02,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.19,
+  "page_elapsed_seconds": 2.49,
+  "peak_process_tree_rss_bytes": 310255616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

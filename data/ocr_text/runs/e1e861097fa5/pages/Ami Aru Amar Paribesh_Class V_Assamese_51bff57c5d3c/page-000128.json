@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 128,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কম্পিউটাৰৰ গুৰুত্বপূৰ্ণ অংশবোৰ কেনেদৰে ব্যৱহাৰ কৰা হয় জানি লওঁ আহা-\n\n_\n\nচিপিইউ\nনিৰ্দেশ দিয়া\nকামবোৰ কৰে\nআৰু সংৰক্ষণ\nকৰি ৰাখে।\n\nআমি কৰি থকা\nকামখিনি আৰু\nকামৰ ফলাফল\n\nমনিটৰত দেখা\nপাওঁ।\n\nৰ\nকী-বোৰ্ড\nআমি নিৰ্দেশ দিওঁ।\n\nকী-বোৰ্ডৰ দ্বাৰা লিখিত আকাৰেৰে\n\nমনিটৰত থকা কথাবোৰ মাউচেৰে\nনিয়ন্ত্ৰণ কৰি কাম কৰিব পাৰি।\n\nকম্পিউটাৰৰ গুৰত্বপূৰ্ণ অংশবোৰ হ’ল-চি পি ইউ, কী-বোৰ্ড, মাউচ আৰু মনিটৰ।\n\nকম্পিউটাৰৰ সহায়ত আমি কি কি\nকৰিব পাৰোঁ৷ ? (শিক্ষকৰ সহায় ল’বা)\n\nকম্পিউটাৰৰ লগত প্ৰিণ্টাৰ\nসংযোগ থাকিলে আমি কৰা কামখিনি\nকাগজত লিখিত আকাৰেৰে ছপা কৰি\n\nপ্ৰিণ্টাৰ\n\n> শিক্ষকৰ জৰিয়তে তোমাৰ পাঠ্যপুথিত থকা\nকিউ আৰ ক’ড স্কেন কৰিবলৈ শিকা ।",
+  "confidence": {
+    "word_count": 96,
+    "mean": 88.5,
+    "median": 94.6,
+    "minimum": 17.66,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.164,
+  "page_elapsed_seconds": 2.739,
+  "peak_process_tree_rss_bytes": 248954880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

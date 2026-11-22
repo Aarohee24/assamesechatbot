@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "লা 2ৰক্ৰ\n\n২ +\n:833.2031\nৰল\n\n| ৮৮ ০)%= ৯০)?4,১১2/ -\nতত;ম ৰভা ভক্ঞ্ঞধরত। ভক্ষণ টো ১৪ চত ততত ভ&ি তততত, দপ টী,\n\n>>}. |) তে | ২999) | 32% | ১৯)।৯৷০3৷ ত িঞ৷ ত) ৩৮\n=     >      '];      (/      !,      । | \"*)\n৮ | +      ৮      1 কঠ     /;     3      ঢ\n\n£ছ৫ 1 -         > | ৮| =} এ ০} ;6\n\n88৫1 -{-_[ ভ= | 2৬% ভূ ৬এ[| ৩2} ৮\n2-     -2-      ৰ     ৮৫     ৰজ     =     =     =\n4    --      ৰ    ৩৮     ৰ     এম     =     >\n}     ততঃ       1      ১     3:     ৰ      ৰ     |;\n(     ৰ      233     জোল     ১     ১-      3     >\n৩     লা       ৰ     ৫     +-     2-      এ     14\n* ([দিষ্ট'     -     ঞ    টু     2     )   1\n+     =      3)      1)    এ     ---     লক | চেঁ\n\nত৫)1.: | }| |] *%%% ভড[| -*?)] = | >**%\n!       ৷      {| খু   2)     (২     ===     ==    2৮০\n\nণে      -      টি       [| 2     \"2\" বুলে",
+  "confidence": {
+    "word_count": 46,
+    "mean": 29.78,
+    "median": 21.04,
+    "minimum": 0.0,
+    "maximum": 87.84
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9944,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.788,
+  "page_elapsed_seconds": 3.011,
+  "peak_process_tree_rss_bytes": 1118482432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

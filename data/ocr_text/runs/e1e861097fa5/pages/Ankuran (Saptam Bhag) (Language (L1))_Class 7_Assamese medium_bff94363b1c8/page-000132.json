@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 132,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কেৰ্দ সম্ভাৰ >\n\nশব্দ          অৰ্থ          শব্দ           অৰ্থ\nঅতিশয়     -=_ বৰ বেছি, মাত্ৰাধিক ।     আদিম     -= অতি প্রাচীন।\nঅদম্য      -= যাক দমাব বা বশ কৰিব    আনন্দ     -= সন্তোষ, হৰিষ।\nনোৱাৰি।            অভ্যন্তৰীণ --- ভিতৰম্া।\nঅধ্যৱসায় _--- নেৰা-নেপেৰাকৈ লাগি    আৰতি     -= সন্ধ্যা সেৱা।\nথকা কাম, দৃঢ় যত্ন ।     আৰ্য      -_ এটা জাতি, হিন্দু জাতিৰ\nঅন্ন      _ ভাত।                      আদি পুৰুষ।\nঅনুসন্ধান _ -- বিচাৰি চোৱা,অম্বেষণ, আলম      == অৱলম্বন, আশ্রয় ৷\nখবৰ বা ডৱাদিহ।     আলহী    -=- লোকৰ ঘৰত ৰাতি থাকি\nঅভিহিত _ -- জনাজাত,যাক কোনো              বিশ্ৰাম কৰৌতা,অতিথি\nঅভিধাৰে আখ্যা দিয়া               নিমন্ত্ৰণ পাই আনৰ ঘৰত\nহৈছে, খ্যাত।                       দিকৰি\nঅভ্যৰ্থনা কক্ষ -= আদৰণি জনোৱাৰ বাবে           ৰ      যোধা\nলোক।\nথকা কোঠা।                           কামলৈ\nঅমংগলীয়া -- যিঅমংগলমাতে,যিহে _ সলাছ = __ আলস্য,এলাহ৷\nঅমংগলৰ অর্থ বা                  নিচ্ছা।\nইংগিত বহন কৰে।    আৱশ্যকতা  __ প্রয়োজনীয়তা;লাগতিয়াল।\n            আশীৰ্বাদ    === শুভ কামনা কৰ৷, মঙ্গল\nবামনা কৰ৷।\nআওমৰণ    -_ অস্বাভাৱিক মৰণ,                  ৰ,\n{           ভছৰেভত    আহিলা-পাতি == কাৰ্য সম্পাদনৰ বাবে\nকষ্টযুক্ত মৰণ।                        ব সঁজুলি\nবা লাগতিয়াল বস্তু।\n\nকামত বা কথাত মন গুজি\nবা মন পুতি লগা, ধৰা কামত\n\nনেৰা-নেপেৰাকৈ লগা ৷\n\n=>",
+  "confidence": {
+    "word_count": 164,
+    "mean": 77.25,
+    "median": 87.94,
+    "minimum": 4.36,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 17 diacritics",
+        "Detected 17 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.67,
+  "page_elapsed_seconds": 2.91,
+  "peak_process_tree_rss_bytes": 278507520,
+  "tesseract_warnings": [
+    "Detected 17 diacritics",
+    "Detected 17 diacritics"
+  ],
+  "processed_this_run": true
+}

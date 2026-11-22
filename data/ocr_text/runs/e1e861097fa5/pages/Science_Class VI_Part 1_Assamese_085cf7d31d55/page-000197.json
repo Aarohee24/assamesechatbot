@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 197,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "6.3.4 শস্য জৰা বা ‘বা’ দিয়া পদ্ধতি\n\nমৰণা মৰাৰ পিছত শস্য-বীজবোৰত পাতৰ চিঙা অংশ, পাতল জাৱৰ, পতান আদি থাকি\nযায়। খাদ্য-শস্য হিচাপে ব্যৱহাৰ কৰাৰ আগতে এই অলাগতিয়াল দ্রব্যবোৰ আঁতৰাব লাগিব,\nনহয় জানো? শস্য জাৰি বা ‘বী’ দি এই কাম কৰা হয়। এই পদ্ধতিত পাতল উপাদানবোৰ\nগধূৰ উপাদানৰ পৰা বতাহৰ সহায়ত পৃথক কৰা হয়। এটা উদাহৰণ লওঁ আহা৷ ভজা বাদাম\nনিশ্চিয় ভাল পোৱা। অলপ ভজা বাদাম হাতত লৈ ঘঁহি দিয়া। ৰঙা পাতল বাকলিবোৰ বগা\nবাদামখিনিৰ পৰা ওলাই আহিব। এতিয়া এইখিনিত মুখেৰে ‘বা’ দিয়া। কি দেখিলা? ৰঙা\nবাকলিখিনি পাতল বাবে উৰি গৈছে আৰু বাদামখিনি হাতত থাকি গৈছে। শস্য জৰা বা বী’\nদিয়া পদ্ধতিটোত এই কামেই কৰা হয়।\n\nমৰণা মৰাৰ পিছত বীজবোৰ ঘৰুৱাভাৱে কুলা বা ডলাৰে জাৰি এই কাম কৰা হয়\n[চিত্ৰ 6.5১ (8)]। কিন্তু অধিক পৰিমাণে শস্য-বীজ পৃথকীকৰণৰ বাবে জৰা কাৰ্যটো\nঅধিক কনষ্টকৰ আৰু বহুত সময় লাগে। তেনে ক্ষেত্ৰত এই জৰা কাৰ্যটো এক বেলেগ\nকৌশলেৰে কৰা যায়। শস্য-বীজখিনি এটা পাছিত বা কুলাত লৈ মুকলি ঠাই এখনৰ ওখ\nঠাইত বা টুল এখনত উঠি ওপৰৰ পৰা লাহে লাহে ঢালি দিয়া হয়। গধুৰ বীজবোৰ পোনে\nপোনে তলত পৰে। আনহাতে পাতৰ অংশ, পতান, ধূলি-বালি আদিবোৰ পাতল হোৱাৰ\nফলত এইবোৰ বতাহে উৰুৱাই নি অলপ আঁতৰত পেলায়। এনেদৰে বিশুদ্ধ বীজখিনি\nপোৱা যায় [চিত্ৰ 6.5 06)]।\n\nকুলাৰে জাৰি চিৰাৰ পৰা ধানৰ তুঁহ পৃথক কৰা দেখিছানে?",
+  "confidence": {
+    "word_count": 206,
+    "mean": 93.09,
+    "median": 95.97,
+    "minimum": 33.88,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.176,
+  "page_elapsed_seconds": 3.535,
+  "peak_process_tree_rss_bytes": 305295360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

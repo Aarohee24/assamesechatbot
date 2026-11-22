@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 267,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এটা সৰু দূৰবীক্ষণ যন্তুৰ সহায়ত ইহঁতক তুমি দেখা\nপাব পাৰা। শনিৰো বহুসংখ্যক উপগ্ৰহ আছে।\n\nশনিৰ এটা কৌতূহলোদ্দীপক তথ্য হ’ল যে\nইয়াৰ ঘনত্ব সকলো গ্ৰহৰ তুলনাত সৰ্বনিম্ন ৷ ইয়াৰ ঘনত্ব\nপানীৰ ঘনত্বতকৈয়ো কম।\n\nইউৰেনাছ আৰু নেপচুন\n\nকেৱল দূৰবীক্ষণ যন্তৰ দ্বাৰাহে দেখিবলৈ পোৱা যায়।\nশুক্ৰৰ দৰে ইউৰেনাছেও পূবৰ পৰা পশ্চিমলৈ ঘূৰে।\nইউৰেনাছৰ আটাইতকৈ উল্লেখনীয় দিশটো হ’ল ইয়াৰ\nঘূৰ্ণন অক্ষ অতিশয় হেলনীয়া (চিত্ৰ- 18.24) ৷ সেয়েহে\nইয়াক কক্ষীয় গতিত ইয়াক বাগৰি বাগৰি যোৱা যেন\nদেখি।\n\nমৰ্ম\n\nচিত্ৰ 18.24 : কক্ষপথত ইউৰেনাছ\n\nবুধ, শুক্ৰ, পৃথিৱী আৰু মংগল এই চাৰিটা গ্ৰহ\nবাকী চাৰিটাৰ তুলনাত সূৰ্যৰ বহুখিনি ওচৰত থাকে।\nকম সংখ্যক চন্দ্ৰ আছে।\n\nমংগলৰ ককম্ষপথৰ বহিৰ্ভাগত থকা চাৰিটা গ্ৰহ,\nবোলে। সিহঁতৰ চাৰিওফালে আঙঠিৰ বন্ধনী থাকে।\nবহিঃগ্ৰহসমূহৰ বহু সংখ্যক চন্দ্ৰ আছে।\n\n18.5 সৌৰজগতৰ আন কিছুমান/সদস্য ঃ\nসূৰ্যৰ চাৰিওফালে পৰিভ্ৰমম কৰা আৰু কিছুমান\nবস্তু। আছে। সিহঁতে৷ সৌৰজগতৰ সদস্য। সিহঁতৰ\n\nএহাণুপুঞ্জ\n\nমংগল আৰু বৃহস্পতিৰ কক্ষপথৰ মাজত এক বৃহৎ\nব্যৱধান আছে (চিত্র18.25)। এই খালী ঠাইখিনি\nবহুসংখ্যক সৰু বস্তুৰে ভৰ আছে; এইবিলাকেও সূৰ্যৰ\nচাৰিওফালে পৰিভ্ৰমণ কৰি থাকে। ইহঁতক গ্রহাণুপুঞ্জ\nবোলে। কেৱল শক্তিশালী দূৰবীক্ষণ যন্ত্ৰ দ্বাৰাহে\nগ্ৰহাণুপুঞ্জ দেখিবলৈ পোৱা যায়।\n\nগ্ৰহাণুপুণ্জ\n\nচিত্ৰ 18.25 : গ্ৰহাণুপুঞ্জ বলয়\n\nতৰা আৰু সৌৰজগত /971%1২9 খা) [']]}; ৪01.41২ ৪%৮9];%]\n\n252_",
+  "confidence": {
+    "word_count": 183,
+    "mean": 86.43,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.209,
+  "page_elapsed_seconds": 3.523,
+  "peak_process_tree_rss_bytes": 236670976,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

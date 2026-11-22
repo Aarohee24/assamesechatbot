@@ -1,0 +1,67 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পুখুৰী, নিজৰা আদিত জেলিৰ নিচিনা সেউজীয়া আৱৰণ এটা ওপঙি থকা দেখিছানে ? এইবোৰ\nহ’ল শেলাই সেউজীয়া হোৱা বাবে ইহঁতে নিজৰ আহাৰ নিজে প্রস্তুত কৰিব পাৰে। পচা কাঠ, গোবৰ\nআদিত বেংছতাৰ দৰে ভেঁকুৰ গজা দেখা যায়। ইহঁত পাতল হালধীয়া, বগা বা মুগা বৰণৰ৷ পত্ৰহৰিৎ\nনথকা বাবে ইহঁতে নিজৰ আহাৰ নিজে প্ৰস্তুত কৰিব নোৱাৰে । শেল'ই আৰু ভেঁকুৰৰ শিপা, কাণ্ড আৰু\n\nশিল, ডাঙৰ গছ, সেমেকা মাটি আদিত সেউজীয়া ৰদ ৰ     ্ক্\nদলিচাৰ নিচিনা এটা আৱৰণ দেখিছানে? এইবোৰ হ’ল দু        ্‌\nমচ। ইহঁতৰ পাত আছে আৰু দেখাত চেপেটা। মাটিত\nখামুচি ধৰিবলৈ ইহঁতৰ কিছুমান চুলিৰ নিচিনা অংশ\n\nমৰণ্ভূমিত কেক্‌টাছ জাতীয় উদ্ভিদ হয়। এই\nউদ্ভিদবোৰৰ শিপা বৰ দীঘল হোৱাৰ বাবে মাটিৰ বহুতললৈ\nগৈ পানী শোষণ কৰিব পাৰে। কেক্‌টাছৰ গা-গছ মঙহাল\nহয় বাবে পানী সঞ্চয় কৰি ৰাখিব পাৰে। গা-গছ সেউজীয়া\nহোৱাৰ বাবে খাদ্য প্রস্তুত কৰিব পাৰে। কেক্‌টাছবোৰ\nকাইটীয়া হোৱাৰ বাবে প্রাণীয়ে খাব নোৱাৰে। এই\nকীইটবোৰে উদ্ভিদবোৰক মৰুভূমিত বলা বালিৰ ধুমুহাৰ\nপৰাও ৰক্ষণ কৰে।\n\nপৃথিৱীৰ কিছুমান অঞ্চল অতি শীতল। !\nপৃথিৱীৰ একেবাৰে উত্তৰ আৰু দক্ষিণ অংশ বছৰৰ  ৰ\nবেছিভাগ সময়েই বৰফেৰে ঢাক খাই থাকে।\nপৃথিৱীৰ এই অঞ্চল দুটাক মেৰু অঞ্চল বোলে।\nএই অঞ্চলত গছ-গছনি বৰ কম। গৰমৰ দিনত\nযেতিয়া বৰফবোৰ গলি যায়, তেতিয়া এই অঞ্চলৰ\nমাটিত মচ, শেলাই, লাইকেন আৰু সৰু সৰু\nতৃণজাতীয় উদ্ভিদ গজে।\n\n> তোমালোকৰ অঞ্চলত পোৱা বিভিন্ন ধৰণৰ উদ্ভিদৰ নাম লিখি এখন তালিকা প্রস্তুত কৰা৷\nচিন্তা কৰি কোৱা-\n\nআমাৰ পৰিৱেশত যদি গছ-গছনিবোৰ নোহোৱা হৈ যায়, তেতিয়া কি হ’ব?\n(৩)",
+  "confidence": {
+    "word_count": 225,
+    "mean": 90.22,
+    "median": 95.97,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 107 diacritics",
+        "Detected 107 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.912,
+  "page_elapsed_seconds": 4.674,
+  "peak_process_tree_rss_bytes": 225255424,
+  "tesseract_warnings": [
+    "Detected 107 diacritics",
+    "Detected 107 diacritics"
+  ],
+  "processed_this_run": true
+}

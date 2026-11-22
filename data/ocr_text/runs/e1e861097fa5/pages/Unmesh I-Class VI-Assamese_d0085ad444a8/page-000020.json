@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভালপোৱা ভাব প্রকাশ কৰিছে। তোমাৰ ওপজা ঠাইখনৰ কোনবোৰ দিশে তোমাৰ\nমনত ঠাইখনৰ প্রতি ভালপোৱাৰ ভাব জগাই তোলে লিখা।\n\n২০। লাচিত বৰফুকন, কনকলতা বৰুৱা, কুশল কৌৱৰ, মণিৰাম দেৱান আদি\nব্যক্তিসকলে অসমক ভালপোৱাৰ নিদৰ্শন দেখুৱাই গৈছে। তেওঁলোকৰ দেশপ্ৰেমৰ\nবিষয়ে দলত বা শিক্ষকৰ লগত আলোচনা কৰি আৰু ইণ্টাৰনেটৰপৰা তথ্য সংগ্ৰহ\nকৰি লিখা।\n\nৰ ১৮। তোমালোকে কৰিতাটোত সাতেশৰী (সাতসৰী)নামৰ অলংকাৰবিধৰ নাম পাইছা।\nছবিসমূহৰ উপযুক্ত স্থানত লিখা।\nঠৰ ১৯। কবিয়ে অসমৰ মনোমোহা প্রাকৃতিক সৌন্দৰ্য বৰ্ণনাৰ মাধ্যমেৰে মাতৃভূমিৰ প্রতি",
+  "confidence": {
+    "word_count": 73,
+    "mean": 88.1,
+    "median": 95.54,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.243,
+  "page_elapsed_seconds": 2.82,
+  "peak_process_tree_rss_bytes": 273793024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 3,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "5/%|]|[]/% |১%[৭/%খ| - /% 16:00400077-4%0014}20014 10\" 013.55 \"'], ॥৭/%5581171656 395. ]|[01|891710.0305 06%9006ণ\n370 16%|5৬%60]0 0) 52617, 5581, 1}1[0010}1 ৮/01145170[25 3770 [000051760 0% 116 :/১%55ৰি্।। 51816 16%000/14\n|৷00]0.00107 & (৷৷0৪0 60100178৪11011 | |[]1|[60 011 068178|[ 01 60%[. 01 /%553]1.\n\n8156 1716১000001%\nএ[.[,]]0]]']['5 [২ 5]:](\" ];]) ; ]খ01[2])[00010010]] }}} 07% |[0[}]] 0|1]]]9 [000], 1} %%]]0]2 071] [)811 (০:%০০][)} 1[01' 01161\"\nঘ00181101 |) গ্ৰ|[]108] 8100125 00 [6'%160%%51}, 1] 8.}' |)21]18.02 দখ][])00}] \"খা [2] 8001]70071 73110 ]}0}]1 1]16.50]14], /৮৪59]7,\n\nগন্থস্বত্ৰ           £ ৰাজ্যিক শিক্ষা-াৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ, অসম\nপ্ৰথম প্ৰকাশ  £ঃ ২০১২                              ষষ্ঠ প্ৰকাশ                   £$ ২০১৭\nদ্বিতীয়প্ৰকাশ ঃ ২০১৩                         সপ্তম প্ৰকাশ              3 ২০১৮\nতৃতীয়প্ৰকাশ ঃ ২০১৪           অষ্টম প্ৰকাশ (সংশোধিত)ঃ ২০১৯\nচতুৰ্থপ্ৰকাশ $ঃ ২০১৫\nপঞ্চম প্ৰকাশ _ঃ      ২০১৬\n\n£$ 70 691 কাগজত মুদ্ৰিত পাঠ্যপুথি\n\nএই পাঠ্যপুথিখন যদিও তৃতীয় ভাষা অসমীয়াৰ বাবে প্ৰস্তুত কৰা হৈছে, তথাপি অসমীয়া চতুৰ্থ ভাষা\nহিচাপে ছাত্ৰ-ছাত্ৰীয়ে পাঠ্যপুথিখন ল’ব পাৰিব। চতুৰ্থ ভাষা ৫০% হিচাপে যিসকল ছাত্ৰ-ছাত্ৰীয়ে\n\n(অনা-অসমীয়া মাধ্যমৰ) অসমীয়া ভাষা শিকিব বিচাৰে, তেওঁলোকৰ বাবে পাঠ্যপুথিখনৰ পাঠ নং\n১,২,৩ আৰু ৮ নিৰ্ধাৰিত কৰা হৈছে।\n\nপ্ৰকাশক     $ অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি\nপ্রণয়ন আৰু প্রকাশন নিগম লিমিটেড্ৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি।\nমুদ্ৰক      £ এ বি প্ৰিণ্ট মিডিয়া,\n\nহাতীশিলা, পানীখাইতি, গুৱাহাটী-২৬",
+  "confidence": {
+    "word_count": 34,
+    "mean": 30.35,
+    "median": 33.36,
+    "minimum": 0.0,
+    "maximum": 91.74
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9997,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 3.212,
+  "page_elapsed_seconds": 3.459,
+  "peak_process_tree_rss_bytes": 290168832,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

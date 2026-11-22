@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১৪       স্কাউট আৰু গাইড\n\nদেউতাকৰ লগত দৰ্শনা আৰু দুৰ্লভে সন্ধিয়াৰ দূৰদৰ্শনৰ বাতৰি চাই আছে। এনেতে পুঠিমাৰী\nনদীৰ বাঢ়নি পানীয়ে মথাউৰি ভাঙি কেইবাখনো গাঁও বুৰাই পেলোৱাৰ বাতৰি সম্প্ৰচাৰ হ’ল ৷ অঞ্চলটোৰ\nৰাইজৰ নাজল-নাথল অৱস্থা দৰ্শনাহঁতে দেখিলে । মানুহৰ লগতে জীৱ-জন্তুৰো থাউনি নোহোৱা\nহৈছে। বানপীড়িত ৰাইজক উদ্ধাৰ আৰু সহায়ৰ বাবে চৰকাৰে চাউল, চিৰা, গুৰ বিতৰণ কৰিছে।\nপানীৰ মাজত আবদ্ধ হৈ থকাসকলক নাৱেৰে উদ্ধাৰ কৰা হৈছে। চৰকাৰী সাহায্যকাৰী দলৰ লগত\nযুৱতীসকলক ব্যস্ত হৈ থকা দেখি দৰ্শনা আচৰিত হ’ল। ইমান বিপদসংকুল কামত তেওঁলোক লাগি\nআছে।!দৰ্শনাই দেউতাকক সুধিলে--- “দেউতা,এই যে নীলা পোছাক, মূৰত টুপী আৰু ডিঙিত স্কাৰ্ফ\n\nদৰ্শনাৰ কথাত দেউতাকে হাঁহি ক’লে--আঁকৰী ! তেওঁলোক পুলিচ নহয়। তেওঁলোক স্কাউট\nআৰু গাইডৰ যুৱক-যুৱতী ৷ চৰকাৰী বাহিনীৰ লগতে তেওঁলোকে ৰাইজলৈ সেৱা আগবঢ়াইছে। দৰ্শনাই\nদেউতাকক সুধিলে-_- “স্কাউট আৰু\nইতিমধ্যে সন্ধিয়াৰ বাতৰি শেষ\nহৈছে। দেউতাকে লগে লগে\nটি.ভি.ৰছুইচটো বন্ধ কৰিদৰ্শনা\nআৰু দুৰ্লভক স্কাউট আৰু\nগাইডৰ বিষয়ে ক’বলৈ আৰম্ভ\nকৰিলে--- “স্কাউট আৰু গাইড\nহৈছে পৃথিৱীজুৰি থকা এটা\nসংগঠন। এই সংগঠনটোক",
+  "confidence": {
+    "word_count": 150,
+    "mean": 90.89,
+    "median": 94.65,
+    "minimum": 16.12,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.435,
+  "page_elapsed_seconds": 3.966,
+  "peak_process_tree_rss_bytes": 243982336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

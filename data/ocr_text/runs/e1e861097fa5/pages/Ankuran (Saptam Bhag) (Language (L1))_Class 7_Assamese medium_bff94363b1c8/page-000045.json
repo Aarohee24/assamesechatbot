@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১।\n২।\n\nত।\n\n8।\n\nক--- পাঠভিত্তিক তৰিয়া\nপাঠটো শুদ্ধ আৰু স্পষ্টকৈ পঢ়া।\nউত্তৰ দিয়া।\n(ক) ছিটা সম্পৰ্কে প্রচাৰ হোৱা উৰাবাতৰিটো কি মাধ্যমৰ যোগেদি প্রচাৰ হৈছিল?\n(খ) বুধবাৰে ছাত্ৰ-ছাত্ৰীসকলে কিয় বিদ্যালয়লৈ অহা নাছিল?\n(গে) বিদ্যালয়লৈ ছিটা সম্পৰ্কে সবিশেষ জনাবলৈ কোন আহিছিল?\nচমু উত্তৰ লিখা।\n(ক) ‘ভ্ৰাম্যভাষ’ত অহা উৰাবাতৰিটোত ছিটা ল’লে কি হ'ব বুলি কৈছিল?\n(খ) জংকীয়ে বুধবাৰৰ দিনা বিদ্যালয়ৰ পৰিৱেশ আন দিনাতকৈ কি বেলেগ দেখিছিল?\n(গ) সংক্ৰামক ৰোগ আৰু প্রতিৰোধ ক্ষমতাৰ বিষয়ে চিকিৎসকগৰাকীয়ে কি কি\nকৈছিল?\n(ঘ) উৰাবাতৰিটোৱে কিদৰে ৰতনপুৰ গাঁৱৰ পৰিৱেশ সলনি কৰিছিল?\n(৬) প্ৰধান শিক্ষক মহোদয়ে ছিটাৰ বিষয়ে জনাবলৈ কি ব্যৱস্থা গ্ৰহণ কৰিছিল?\n\nউদাহৰণত দেখুওৱাৰ দৰে শব্দৰ লগত অর্থ মিলোৱা --=\n\nশব্দ            অৰ্থ\n\nহাট          বাধা\n\nপ্রাঙ্গণ          এজনৰ গাৰ পৰা আন এজনৰ গালৈ যোৱা, সোঁচৰা\nবীজাণু         সৰু কিতাপ\n\nসংক্ৰামক        চোতাল\n\nপ্রতিৰোধ         নিৰ্দিষ্ট দিনত বহুত মানুহ গোট খাই কিনা-বেচা কৰা ঠাই।\nপুস্তিকা          ৰোগ সৃষ্টিকাৰী ক্ষুদ্ৰ জীৱাণু\n\nঞ্স ছার্র-ছাতীক পাঠটো শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়াত সহায় কৰিব। সকলো ছাত্র-ছাতীকে পাঠ পঢ়াটো নিশ্চিত কৰিব।\n\n>",
+  "confidence": {
+    "word_count": 152,
+    "mean": 88.84,
+    "median": 95.33,
+    "minimum": 2.33,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 2.726,
+  "page_elapsed_seconds": 3.433,
+  "peak_process_tree_rss_bytes": 305258496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,70 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 272,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "']]]6 [18929 01 016 11001] 0০6০01' 06080962 স্ণা6 ০৪80]\n৪66 01]] 18010281( 01 116 11001] ্]]10]) 12160 016\n1156]1( 01 16 5011 (08109 08.\n৬ 91819 816 ০০16908] 00129 180 21]]10 119]1( 01 ]12]1'\n01]. 0001\" 901] 19 8190 8 ৪981\".\n\n১\n\nকম ]018 ০০00৮61]1611( (0 6821699 0180811068 01 91815 11]\n116]]{ ৮6281'5.\n\nঙ৬ ১০৪9 8])[)2681\" (0 1]10%96 11\"01]] 6890100\n\n11011] 016\n{]16 011600101]1\n\n৬ \"[']]6 )016 9181\" 8])])681'9 (0 066 918.01\n]181{]], 0608.092 1019 91008020.\n\n01 ]176 ৪19 01101080101] 0           1{]].\n(:011902118110119 81\"              { পা; 812[])6801: [0\n10111] 1600810198012\nঙ ']])6 90181 ৪৮8(21]] ০01191919            1)|811609 8110 8\n109001 ১২৭ আথ      0116            60601.\n|                    ”২             1100]21 000) 19 ০৪1160.\n19 ৰক ১ 86111(6 01 {]1)6 ][+81]]. ০0116\n811609 8          61080018] 9816111(29.\n\n১ ৫১.\n\n৮-১    1186]11169{ 1)181]20 11] {116 11186]]{ 91.\n|             ]126 181862901)181160 01 116 90181\" ৪৮৪912]]7.\n= খঙ গ1011018] ৪806]1]1(28 16%90146 8100110 16 ]+81]].\n\n০2% 81'6 11100] ০109621\" 181] {116 11100].\n\n/%1'01018|] ৪806]]1(69 ৪16 [0960 101 স্/6812[\n101760890116, 10116 019081106 ০011]]001]108.001] 8110\n16211.006 921181119.\n\n)\n\n১\n\n৷\n\n57                                                                                                                             বিজ্ঞান / যখন; ৷",
+  "confidence": {
+    "word_count": 171,
+    "mean": 44.34,
+    "median": 43.38,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.2509,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 20 diacritics",
+        "Detected 20 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.117,
+  "page_elapsed_seconds": 3.379,
+  "peak_process_tree_rss_bytes": 238600192,
+  "tesseract_warnings": [
+    "Detected 20 diacritics",
+    "Detected 20 diacritics"
+  ],
+  "processed_this_run": true
+}

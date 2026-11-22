@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 202,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "“17%01076 :\n\n1{. 11 5011 15 [076671 171121026 0/ 50770, 1}}677 17111] 1}}15 7761/)700 (0০6 01012[100.0106 7 ।\n\n1067\" (1012 10767) /70771 1076 767701711716 50770.0770 126001625 1067\" 0} ৷\n022071101710777                                                          ।\n\n।  2. 10 1006 1\"19. 6.1, ৫০% )700[ 1}01071}; 0/ $০])07\"011719 1}06 ণ্18)৮-)\"0167\" ৷\n৷\n\n']]16 ৪8116 [)1[11101])|2 19 00960 101\" 96128181] 8 11]1স0016 01 0 [100109\n78000 1100 1]1স; ঘষ্1{|1 ০8০]] 01621. ]\"0[' 6স১0801]]2]6, 01] 8010 স821 0011\" 1]]1স%;\nঘ্ষম1[|1 6801) 0121, 01] 8]18]11]16 16% [011]] ভ/|]]1(26 010101স), ][{ {]6 1]]1স0016\n01 900] 1100109 19 ৪1|0%60 10 98010 101\" ৪011]1601116, 12% 1011]] {৮৮0 18৮6219\n(115. 6.8). [116 01] 71800 1011119 {116 10) 18৮21 ০৪81] {]1611 066 86[818..60 1\"0]]]\n16 1021 821\" 18৮21 0%9 06081108.0017.\n\n৷ ]:স]]016 : ছখ%৮]]৮ 00629 01] 11080 0৮০া ৪61\") [9 11216 ৪0]) ]10010\n৷ 180960029 ৮210\". স821\"} ]খ৪]2 10, 11{ 81].\n\n6.5 ]']]{1\"8101]\n\n193 060811080101] ৪ |)61'600|)100699 01 96|2808.001] ? '[]1216 19 ৪]স্8%৮৪ ৪\n181106 01 8, 911]8|| 811]0011001 90110 (০.9. 38110) 92001] 111১0260 ঘষ্1{]] ৮৪.21..\n11]]111]), 0011116 06081108.0011 01168, 90176 1268. 168.469 1118৮ 1218.11] 11) {]16\n128. 1121] ]10'স ০৪81] /০ 901৮6 {1019 [0012]1]] 4?\n\nটাটৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৱ্ৰা তালক",
+  "confidence": {
+    "word_count": 184,
+    "mean": 40.73,
+    "median": 39.65,
+    "minimum": 0.0,
+    "maximum": 96.69
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4005,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.387,
+  "page_elapsed_seconds": 3.763,
+  "peak_process_tree_rss_bytes": 304504832,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

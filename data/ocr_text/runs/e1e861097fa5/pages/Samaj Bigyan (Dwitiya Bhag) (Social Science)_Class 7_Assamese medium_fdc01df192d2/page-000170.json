@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 170,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শিকনৰ ফলাফল ঃ\n\nঞ প্ৰতিটো পৰিয়ালেই যে এটা নিৰ্দিষ্ট সময়সীমাৰ ভিতৰত নিৰ্দিষ্ট আয় বা উপাৰ্জনৰ দ্বাৰা পৰিচালিত হয়\nসেই বিষয়ে জানিব পাৰিব।\n\nণ৪ প্ৰতিখন ৰাষ্ট্ৰ পৰিচালনাৰ বাবে যে চৰকাৰী পৰিকল্পনা অপৰিহাৰ্য তাক বুজিব পাৰিব।\n\nণ৪ প্ৰতিখন ৰাষ্ট্ুই নিজৰ আয়ৰ ওপৰত ভিত্তি কৰি নিৰ্দিষ্ট সময়ৰ বাবে বাজেট প্রস্তুত কৰে, সেই বিষয়ে জানিব\n€ু ভাৰতৰ পঞ্চবাৰ্ষিক পৰিকল্পনা আৰু বৰ্তমানৰ নিতি আয়োগৰ গুৰত্ব বুজিব পাৰিব।\n&৪্ পৰিয়াল আৰু দেশৰ প্রগতিত পৰিকল্পনা আৰু বাজেটৰ গুৰুত্ব উপলব্ধি কৰিব।\n\nএইবাৰ মনীষাৰ জন্মদিন দেওবাৰ এটাত পৰিছে। তাতে পাছদিনা সোমবাৰটোও চৰকাৰী ছুটীৰ দিন। কথাটো\nজানি মনীষা আৰু ককায়েক খ্ষভৰ উলাহৰ অন্ত নাই। সিহঁতহালৰ অনেক জনল্পনা-কল্পনা। কাৰণ বন্ধৰ দিনৰ মজাই\nবেলেগ তাতে আকৌ জন্মদিনৰ মজা । মাক অৰুণিমায়ো দুটা বন্ধৰ দিন একেলগে পোৱা কাৰণে ভাল পাইছে।\n\nআহাচোন তলৰ কথাখিনিৰপৰা মনীষাৰ পৰিয়ালে তেওঁৰ জন্মদিনটো কেনেদৰে উদ্যাপন কৰিব বিচাৰিছে\n\nঅমা,গম পাইছোঁ। এইবাৰ হ’লে আমি\nগুৱাহাটীৰ আঞ্চলিক বিজ্ঞান কেন্দ্ৰৰ বিজ্ঞান\nযাদুঘৰলৈ যাম দেই। শুনিছো তাত হেনো\n\nবিজ্ঞানৰ বহুত খেল আছে। প্রকাণ্ড\nডাইন'’ছৰ, পখিলা পাৰ্ক, একুৱাৰিয়াম আদিৰ",
+  "confidence": {
+    "word_count": 154,
+    "mean": 89.93,
+    "median": 95.78,
+    "minimum": 4.27,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.614,
+  "page_elapsed_seconds": 4.259,
+  "peak_process_tree_rss_bytes": 238804992,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

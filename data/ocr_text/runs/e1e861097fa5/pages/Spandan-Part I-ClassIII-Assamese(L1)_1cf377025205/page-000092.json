@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_// গ) তোমাৰ দেউতাৰাৰ বিষয়ে তলৰ তথ্যবোৰ পূৰ কৰা---                \"\n\nনাম   ৯ =\nউল্লী৷, <=\nজন্মস্থান -_                 ফটো\nপিতৃ -=\nমাতৃ   এ\nবৃত্তি   ===\nগাও/নগৰ --\nডাকঘৰ ==\nথানা   | এজ\nজিলা  ==\nৰাজ্য  মল\nপিন ক’ড -==\n\n+ প্ৰয়োজনবোধে শিক্ষকে/জ্যেষ্ঠজনে সহায় কৰিব।\n\n/ ৯ | অধ্যায়টোত পোৱা মহান ব্যক্তিসকলৰ কোনকেইটা গুণ তোমাৰ ভাল লাগিছে,\n\nতাৰে এখন তালিকা প্রস্তুত কৰা৷.\n                                                                                                                                        ্\nএ                                                                                                                                        _/\n\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 10,
+    "mean": 79.56,
+    "median": 93.15,
+    "minimum": 24.65,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.164,
+  "page_elapsed_seconds": 2.799,
+  "peak_process_tree_rss_bytes": 219041792,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

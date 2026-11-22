@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 98,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অংকুৰৰ পৰিয়ালটোৱে গাঁৱত বাস কৰে। অংকুৰৰ দেউতাক গাঁও পঞ্চায়তৰ সভাপতি৷ গাঁৱৰ\nউন্নয়নৰ লগত অংকৃৰৰ দেউতাক ওতঃপ্ৰোতভাৱে জড়িত। তেখেতে অঞ্চলটোৰ বিভিন্ন সভা-\nসমিতিত ঘূৰি ফুৰিবলগীয়া হয়।\nদেউতাকে অংকুৰহ'তক প্রায়ে কয়\nযে আমাৰ দেশৰ সৰহসংখাক\nলোকেই গাঁও অঞ্চলত বাস কৰে।\nসেয়ে দেশৰ উন্নতি হ’বলৈ হ’লে\nপ্ৰতিখন গাঁৱৰ উন্নতি হ’ব লাগিব।\nগাঁও অঞ্চলৰ অথনৈতিক আৰু টু\nসামাজিক উন্নয়নৰ বাবে আমাৰ\nদেশে গাঁওসমূহত এক নিজা শাসন\nব্যৱস্থা প্ৰচলন কৰিছে। এই\nব্যৱস্থাটোক পঞ্চায়তীৰাজ শাসন\nব্যৱস্থা বোলে। এই ব্যৱস্থা মতে\nপঞ্চায়ত গঠনৰ বাবে প্ৰতিখন গাঁৱৰ\nৰাইজে ভোট দি কিছুমান সদস্য আৰু এজন সভাপতি নিবাৰ্চন কৰে। অৱশ্যে ভোট দিবলৈ ওঠৰ বছৰ\nবয়স হ’ব লাগে । এইবাৰ অংকুৰৰ দেউতাকক অঞ্চলৰ ৰাইজে ভোট দি পাঁচ বছৰৰ বাবে পঞ্চায়তৰ\nসভাপতি নিবাৰ্চন কৰিছে।\n\nষ* গাঁও পঞ্চায়ত এলেকাৰ ৰাস্তা-ঘাট, দলং, নলা-নৰ্দমা আদি নিৰ্মাণ, মেৰামতি আৰু\nচোৱাচিতা কৰা।\n\nষ* গাঁৱত খোৱাপানী যোগ৷ন ধৰা। স্বাস্থ্য আৰু পৰিয়াল কল্যাণৰ কাম কৰা।\nর} গাঁও পঞ্চায়ত এলেকাত থকা বজাৰ, ৰাজহুৱা সম্পত্তি আদি পৰিচালনা আৰু সংৰক্ষণ কৰা।\n\nনিজৰ এলেকাৰ বিদ্যালয়বোৰ চোৱা-চিতা কৰা। সমাজৰ মাজত শিক্ষাৰ সজাগতা আৰু\nপ্ৰসাৰৰ বাবে কাম কৰা৷ ।\n\nকৃষি, জলসিঞ্চন আৰু গাঁৱৰ লোকসকলৰ উন্নয়নৰ বাবে কাম কৰা।\nকোনো দুৰ্যোগৰ সময়ত গাঁৱৰ লোকক সাহায্য যোগান ধৰা।\n\nগাও পঞ্চায়ত এলেকাৰ উন্নয়নৰ বাবে বাৰ্ষিক পৰিকল্পনা প্রস্তুতকৰণ ।\nগাঁও পঞ্চায়ত বাৰ্ষিক বাজেট প্রস্তুতকৰণ।\n\nয়\n\nয় ৷ *%",
+  "confidence": {
+    "word_count": 199,
+    "mean": 85.43,
+    "median": 93.7,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.16,
+  "page_elapsed_seconds": 3.775,
+  "peak_process_tree_rss_bytes": 236277760,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

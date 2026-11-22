@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "2  বৰ    _ ৰে\n\nখওচ62142\n\nআমাৰ পৃথিৱীখন জীৱৰ বসবাসৰ এক সুন্দৰ ঠাই। তোমালোকে জীৱৰ বিষয়ে নিশ্চয়\nকিছু কথা জানা। তোমালোকৰ চাৰিওফালে গছ-গছনি, চৰাই-চিৰিকটিকে আদি কৰি কীট-\nপতংগ, বিভিন্ন ধৰণৰ অন্যান্য জীৱ-জন্তুসমূহ দেখা পোৱা নহয়নে? এই আটাইবোৰেই\nজীৱ। জীৱই নিজাকৈ জীৱন প্রক্ৰিয়া সম্পাদন কৰি জীয়াই থাকে। গছৰ গুটি এটাৰ গজালি\nমেলিলে কি হয় তোমালোকে মন কৰিছানে? লাহে লাহে ই এটা পুলি হয়, নহয় নে?\nপুলিটো বাঢ়ি গছ হয় আৰু ফুল ফুলে, ফল ধৰে। এটা নিৰ্দিষ্ট সময়ত ই মৰে। ইয়াৰ পৰা কি\nবুজিলা ? জীৱৰ এক নিৰ্দিষ্ট জীৱন কাল থাকে। জীৱ ভেদে জীৱন কাল বেলেগ বেলেগ ।\n\n2.1 জৈৱ বৈচিত্ৰ্যৰ আভাস\n\nআমাৰ চৌপাশে পৰিৱেশত চকু ফুৰালে নানা জীৱ দেখা পাবা৷ তুমি নদীৰ পাৰ\nআৰু পাহাৰীয়া ঠাইলৈ কেতিয়াবা ফুৰিবলৈ গৈছানে? তেনে-ঠাইত থকা বিভিন্ন গছ-বন,\nচৰাই আদি দেখা পাইছানে? বিদ্যালয়ৰ বন্ধৰ সময়ছোৱাত অৰণ্য বা উদ্যানলৈ ফুৰিবলৈ\nগ’লে বিভিন্ন ধৰণৰ জীৱ দেখা পাবা। ইয়াৰে কিছুমান হ’ল গছ-গছনি, তৃণ-তৰু। এইবোৰক\nআমি উদ্ভিদ বুলি কওঁ। অৰণ্যত বহু ধৰণৰ উদ্ভিদ থাকে। বিভিন্ন চৰাই, পখিলা, জন্তু আদি\n\nথাকে। চৰাইবোৰৰ দেহৰ ৰং বেলেগ-বেলেগ, মাতবোৰো বেলেগ ৷ ইহঁতৰ কিছুমান ডাঙৰ,\nকিছুমান সৰু। গছবোৰত নানা পোক পৰুৱা থাকে। এইবোৰৰ আকৃতি, ৰং আদি বেলেগ ।\n\nপখিলাৰ পাখি ৰং-চঙীয়া নহয়নে? আমাৰ পৰিৱেশত নানাৰঙী সুন্দৰ পখিলা\nপোৱা যায়। গছ-গছনিত পোক-পৰুৱা, পখিলা, চৰাই আদি থাকে, অৰণ্যত সাপৰ দৰে\nপ্রাণীবোৰো থাকে।",
+  "confidence": {
+    "word_count": 204,
+    "mean": 91.63,
+    "median": 96.25,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.528,
+  "page_elapsed_seconds": 3.964,
+  "peak_process_tree_rss_bytes": 318439424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

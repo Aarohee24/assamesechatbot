@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মাছৰ দেহত ফান থাকে। ফিছাবোৰে\nপানীত সাঁতুৰিবলৈ সহায় কৰে। মাছৰ মূৰৰ\nদুকাষে ফুল বা জলক্লোম থাকে। ইয়াৰ\nসহায়ত পানীত দ্ৰৱীভূত অক্সিজেন শুহি লয়।\nদেহৰ গঠন মাকো এটাৰ দৰে হোৱা বাবে\nসহজে পানীত চলাচল কৰিব পাৰে।\n\nচ্ত্ি 2.7: মাছে ফানৰ সহায়ত পানীত\n\nবাৰিষা কালত তুমি ভেকুলীৰ মাত\nশুনিছানে? খাল-বিলৰ কাষত বেংবোৰে\nঠেঙৰ আঙুলিবোৰৰ মাজত পতা থাকে।\nপতাখনে “ পানীত_ সাঁতোৰাত সহায়\nকৰে। গাঁৱলৈ গ’লে পুখুৰীত চৰি থকা\nহাঁহবোৰ দেখানে? হাঁহৰ ঠেঙৰ পতাখনে\nসাঁতুৰিবলৈ সহায় কৰে। হাঁহৰ পাখিবোৰ\nমন কৰিছানে? ইহঁতৰ পাখিবোৰ পানীত\nনিভিজা কৰি ৰাখিবলৈ তেল জাতীয়\nএবিধ পদাৰ্থ দেহৰ পৰা বাহিৰ কৰে।\n\nচালেৰে সংযুক্ত\n\nও\n\nচ্ত্রি 2.8: হাঁইৰ ঠেঙৰ পতা\n\nপৰ্বতীয়া ঠাইবোৰ ভৈয়ামতকৈ ঠাণ্ডা। শীত কালত এনে ঠাইত বৰফ পৰে। পৰ্বতীয়া\nঠাইতো প্রাণী থাকে। ইহঁতৰ গা নোমেৰে ঢকা। নোমবোৰ দীঘল৷ সেইবাবে নিজকে শীতৰ\nপৰা ৰক্ষা কৰিব পাৰে।",
+  "confidence": {
+    "word_count": 127,
+    "mean": 90.13,
+    "median": 93.31,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.635,
+  "page_elapsed_seconds": 3.148,
+  "peak_process_tree_rss_bytes": 365895680,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

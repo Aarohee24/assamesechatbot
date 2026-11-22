@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 104,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাৰণসহ বিভিন্ন প্রক্ৰিয়া আৰু পৰিঘটনাৰ\nমাজত সম্পৰ্ক বিচাৰিব পাৰিব যেনে-- বায়ু\nপ্রদূষণৰ বাবে উৎপন্ন হোৱা ধোঁৱা মি্রিত গাঢ়\nকুঁৱলী; এচিড বৰষুণৰ বাবে কীৰ্তি চিহ্নবোৰৰ\nক্ষতি সাধন ইত্যাদি\n\nবিভিন্ন প্রক্ৰিয়া আৰু পৰিঘটনাৰ বৰ্ণনা কৰিব\nপাৰিব, যেনে--- মানুহ আৰু প্রাণীৰ প্রজনন,\nশব্দৰ সৃষ্টি আৰু প্রসাৰণ, বিদ্যুৎ প্রৱাহৰ\nইত্যাদি।\n\nৰাসায়নিক বিক্ৰিয়াৰ সমীকৰণ লিখিব পাৰিব\nউদাহৰণ স্বৰূপে বায়ু, পানী আৰু এছিডৰ লগত\nধাতু আৰু অধাতুৰ বিক্ৰিয়া।\nআপতন আৰু প্ৰতিফলন কোণৰ জোখ ল’ব\nপাৰিব।\n\nঅণুজীৱ, পিঁয়াজৰ বাকলি, মানুহৰ গালৰ\nভিতৰৰ কোষ ইত্যাদিৰ শ্লাইড প্রস্তুত কৰিব\nপাৰিব আৰু এইবোৰৰ অতি সূক্ষ্ম গঠনৰ বৰ্ণনা\nকৰিব পাৰিব।\n\nযেনে--- কোষৰ গঠন, চকু, মানুহৰ প্রজনন\nঅংগ, বিভিন্ন পৰীক্ষাৰ বাবে প্রয়োজনীয়\nআহিলা ইত্যাদি।\n\nপৰিবেশত সহজতে পোৱা সামস্ৰীৰে বিভিন্ন\nআহি প্রস্তুত কৰিব পাৰিব আৰু এইবোৰৰ",
+  "confidence": {
+    "word_count": 113,
+    "mean": 91.9,
+    "median": 95.83,
+    "minimum": 18.41,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.079,
+  "page_elapsed_seconds": 2.269,
+  "peak_process_tree_rss_bytes": 274190336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

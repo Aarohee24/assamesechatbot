@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫। সত্য নে অসত্য বাছি উলিওৱা---\n\n(ক) কাতন্ত্ৰ আছিল সাতবাহনসকলৰ দিনৰ এখন উল্লেখযোগ্য গ্ৰন্থ।\n(খ) অশ্বঘোষ শক ৰাজসভাৰ এজন পণ্ডিত আছিল।\n\n(গ) সংগম সাহিত্য সংস্কৃত ভাষাত ৰচনা কৰা হৈছিল।\n\n(ঘ) মিনাণ্ডাৰে হিন্দু ধৰ্ম গ্ৰহণ কৰিছিল।\n\n(ঙ) প্ৰাচীন ভাৰতলৈ ৰোমান সাম্ৰাজ্যৰপৰা সোণ আমদানি কৰা হৈছিল।\n\n৬। তলত দিয়া বিষয়বোৰৰ ওপৰত চমু টোকা লিখা। (৫০ টা শব্দৰ ভিতৰত)\n\n৭।\n\n(ক) অর্থনীতি, সমাজনীতি আৰু সংস্কৃতিৰ ওপৰত আলোকপাত কৰি কণিষ্কৰ ৰাজত্বকাল বৰ্ণনা কৰা৷\n(খ) মৌৰ্য যুগৰ পৰৱৰ্তী সময়ত সাধাৰণ মানুহৰ জীৱন-ধাৰণ প্ৰণালী কেনেকুৱা আছিল বৰ্ণনা কৰা\n\nপ্ৰকল্প ঃ (দলগত কাৰ্য)\n\n(ক) প্ৰাচীন ভাৰতৰ পাঁচবিধ মুদ্ৰাৰ চিত্ৰ আৰু বৰ্তমান প্ৰচলিত পাঁচবিধ মুদ্ৰা (কাগজৰ টকা আৰু ধাতুৰ মুদ্ৰা)\nগোটোৱা। এই দুয়োবিধ মুদ্ৰাৰ মাজত কি পাৰ্থক্য মন কৰিছা ? এইবোৰৰ ছবি, আখৰ, আকৃতি আৰু গঢ়ৰ\nবৈশিষ্ট্যসমূহ আৰু তোমালোকৰ দৃষ্টিগোচৰ হোৱা যিকোনে৷ তথ্য সামৰি এটি টোকা প্রস্তুত কৰা।\n\n(খ) দৈনন্দিন ব্যৱহাৰ্য লোৰে নিৰ্মিত পাঁচবিধ সঁজুলিৰ নাম লিখা আৰু তাৰ ছবি অঙ্কন কৰা।\n\nক+++কূ++",
+  "confidence": {
+    "word_count": 145,
+    "mean": 91.44,
+    "median": 95.73,
+    "minimum": 0.65,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.867,
+  "page_elapsed_seconds": 3.348,
+  "peak_process_tree_rss_bytes": 231092224,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

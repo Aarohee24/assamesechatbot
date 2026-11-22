@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "=_ .12)১৮%%,০৭০== | (2%)})|\n= ২০১৮-)| 511) ৯)| 1 এচ ল%1 ৩4 ১%| (2)\n\n-1/এ* ০ ৮] (2)\n\n(তলৰ শব্দবোৰৰ বহুবচন লিখা) : 85 । ০১%) >\" ০৮% ==\n\nপু   লক টেক      কঃ   ত ক্ল  লী\n(তেলৰ শব্দবোৰৰ বিপৰীত লিঙ্গ জানি লোৱা)\n{\n\n6)       )|লে2        1)         টৰ্\n২.০)44       ()/)৮+        42       _-.)\n\n66",
+  "confidence": {
+    "word_count": 52,
+    "mean": 41.66,
+    "median": 31.16,
+    "minimum": 0.0,
+    "maximum": 96.63
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9977,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.997,
+  "page_elapsed_seconds": 3.315,
+  "peak_process_tree_rss_bytes": 192872448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

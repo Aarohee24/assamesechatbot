@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 107,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বৈচিত্ৰ্যৰ মাজত এক্যঃ\n\nআমাৰ ভাৰতবৰ্ষত ধৰ্ম, সংস্কৃতি, সাজ-পাৰ আদি নানা দিশত ভিন্নতা আছে। ইয়াত হিন্দু,\nইছলাম, শিখ, খ্ৰীষ্টান, বৌদ্ধ, জৈন আদি বিভিন্ন ধৰ্মৰ লোকে বসবাস কৰে। অঞ্চলভেদে উৎপাদিত\nবস্তু ভিন ভিন হোৱা হেতুকে আমাৰ মাজত খাদ্যৰ অভ্যাসৰ ক্ষেত্ৰতো ভিন্নত৷ আছে। উদাহৰণস্বৰূপে\nপঞ্জাব, হাৰিয়ানা, উত্তৰ প্ৰদেশ আদিত প্রচুৰ পৰিমাণে গম উৎপাদন হয়। সেই কাৰণে তাৰ মানুহৰ\nমূল খাদ্য ৰুটি। আনহাতে উৰিষ্যা, অসম, পশ্চিমবংগ আদিত ধান প্রচুৰ পৰিমাণে উৎপাদন হোৱাৰ\nবাবে এইবোৰ অঞ্চলৰ মানুহৰ প্রধান খাদ্য হৈছে ভাত। আমাৰ দেশত বিভিন্ন ভাষা-ভাষী লোক\nআছে। ইয়াত ২৫০ টাতকৈও অধিক ভাষা-উপভাষা আছে। ইয়াৰে ২২টা ভাষা৷ সংবিধানৰ দ্বাৰা\nস্বীকৃত। বিভিন্ন ভাষা-ভাষী, ধৰ্ম আৰু সামাজিক ৰীতি-নীতি পালন কৰা লোকসকলৰ মাজত কিছু\nসামাজিক ভিন্নতা থাকিলেও সকলোৱে মিলা-প্ৰীতি আৰু সহযোগিতাৰে বসবাস কৰি থাকে। ভিন্নতা\nথাকিলেও সকলো ভাষা, সংস্কৃতি আৰু ধৰ্মক আমি সমানে সন্মান আৰু শ্ৰদ্ধা কৰোৌঁ। সেই কাৰণে\nসকলোৰে বাবে ভাৰত এখন মিলনভূমি ৷ এই মিলন হৈছে জাতি, ভাষা আৰু সংস্কৃতিৰ মিলন। সেয়ে\nভাৰতৰ সংস্কৃতিৰ প্ৰধান বৈশিষ্ট্য হ’ল ‘অনৈক্যৰ মাজত এক্য’\"।\n\n>> ওপৰৰ ছবিত দেখুওৱা বিভিন্ন সাজ-পাৰ পৰিধান কৰা ব্যক্তিসকল কোন কোন ৰাজ্যৰ কোৱা।",
+  "confidence": {
+    "word_count": 166,
+    "mean": 92.56,
+    "median": 96.23,
+    "minimum": 29.26,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.965,
+  "page_elapsed_seconds": 3.635,
+  "peak_process_tree_rss_bytes": 244297728,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

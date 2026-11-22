@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 62,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫৬         দ্বীনিয়াত\n\nভত্তৰ- চুন্নত নামাজ দুই শ্ৰকাৰ। যেনে- ১ ৷ চুম্নতে মোৱাক্কাদা আৰু ২ ৷ চুম্নতে\nগায়ৰ মোৱাক্কাদা ।\nপ্ৰশ্ন- চুম্নতে মোৱাক্কাদা আৰু চুন্নতে গায়ৰ মোৱাক্কাদা মানে কি?\nউত্তৰ- চুনতে মোৱাক্কাদা নামাজ হজৰত মহম্মদ (ছঃ)এ সদায় পঢ়িছিল আৰু\nচুম্নতে গায়ৰ মোৱাক্কাদা নামাজ কেতিয়াবা কেতিয়াবা পঢ়া নাছিল। গতিকে\nচুন্নতে মোৱাক্কাদা নামাজ এবিব নোৱাৰি ৷ এই নামাজ পঢ়াটো জৰুৰী ৷\nপ্ৰশ্ন- কোনবোৰ নামাজ চুন্নতে মোৱাক্কাদা ?\nউতল্তৰ- চুনতে মোৱাক্কাদা নামাজবোৰ হ’ল-\n১ | ফজবৰ ফৰজ নামাজৰ আগৰ দুই ৰাকুআত,\n২ ৷ জহুৰৰ ফবজ নামাজৰ আগৰ চাৰি ৰাকৃআত আৰু জুন্মাৰ ফৰজ নামাজৰ\nআগৰ চাৰি ৰাকৃআত,\n৩ | জহুৰৰ ফৰজ নামাজৰ পিচৰ দুই ৰাক্আত,\n৪1 জুনম্মাৰ ফৰজ নামাজৰ পিচৰ চাৰি ৰাক্‌আত,\n৫ । মগৰিবৰ ফৰজ নামাজৰ পিচৰ দুই ৰাক্চুআত,\n৬ ৷ ইছাৰ ফৰজ নামাজৰ পিচৰ দুই ৰাকৃআত,\n৭ । ৰমজান মাহৰ বিশ ৰাক্‌ৃআত তাৰাবিৰ নামাজ |\nপ্ৰশ্ন- চুনতে গায়ৰ মোৱাক্কাদা নামাজ কোনবোৰ?\nউল্তৰ-চুনতে গায়ৰ মোৱাক্কাদা নামাজবোৰ হ’ল-\n১ ৷ আচৰৰ ফৰজ নামাজৰ আগৰ চাৰি ৰাকৃআত,\n২ । ইছাৰ চুনতে মোৱাক্কিদাৰ পিচৰ আৰু ছয় ৰাকৃআত,\n৩। মগৰিবৰ চুনতে মোৱাক্কিদাৰ পিচৰ দুই ৰাক্আত,\n৪1 জুম্মাৰ চুন্নতে মোৱাক্কিদাৰ পিচৰ দুই ৰাকৃআত,\n৫ ৷ তাহীয়াতুল অজু দুই ৰাক্‌আত,\n৬। তাহীয়াতূল মছজিদ দুই ৰাকৃআত,\n৭ । চাক্তৰ চাৰি বাকৃআত,\n৮চ'। ৱিতিবৰ পিচৰ দুই ৰাকৃআত,\n৯ । তাহাজ্জুদ নামাজৰ চাবি বা আঠ ৰাকৃআত বা বাৰ ৰাকৃআত,",
+  "confidence": {
+    "word_count": 206,
+    "mean": 79.43,
+    "median": 88.51,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.148,
+  "page_elapsed_seconds": 2.278,
+  "peak_process_tree_rss_bytes": 225165312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

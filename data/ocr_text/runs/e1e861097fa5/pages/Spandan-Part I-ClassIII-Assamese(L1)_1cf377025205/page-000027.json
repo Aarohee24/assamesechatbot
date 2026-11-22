@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "টল’ ১৪।৷তলৰ বাচনবৰ্তনবোৰলৈ মনকৰা। কোনটো কি কামত ব্যৱহাৰ হয় কওঁ আহা--\n1==-==--ু\n\n}\n\nতব ০-১ ৩১% ছি\nজনা যায়। যেনে-= আহিন মাহৰ শেষ দিনটো কাতি মাহৰ দোমাহী।\nদোমাহীক ‘সংক্ৰান্তি” বুলিও কোৱা হয়।\nতলৰ প্ৰশ্নটোৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 6 চিনটো পূৰ কৰা।\n\n৬; কোনটো দিন ব’হাগ মাহৰ দোমাহী?\n(কে) ব’হাগ মাহৰ প্রথম দিনটো   (গ) চ’তৰ শেষৰ দিনটো\n(খ)৷জেঠ মাহৰ শেষৰ দিনটো    (ঘ) চ’তৰ প্রথম দিনটো\n\nব্) ঞ্ে গে ভ্ে\n\nঅধ্যায় ২৪ খাদ্য",
+  "confidence": {
+    "word_count": 73,
+    "mean": 77.54,
+    "median": 93.22,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 5 diacritics",
+        "Detected 5 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.812,
+  "page_elapsed_seconds": 3.888,
+  "peak_process_tree_rss_bytes": 220073984,
+  "tesseract_warnings": [
+    "Detected 5 diacritics",
+    "Detected 5 diacritics"
+  ],
+  "processed_this_run": true
+}

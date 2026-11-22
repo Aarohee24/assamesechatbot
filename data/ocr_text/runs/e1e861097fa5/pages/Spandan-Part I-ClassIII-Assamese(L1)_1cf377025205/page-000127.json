@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সস=== ত\n\nন                                 ভ্,\n\n| আশাত পঢ়ো আহা--\n\nজেঠত দৈ, আহাৰত খৈ।\nশাওণত মৰাপাট খাবা গৈ।।\nভাদত ওল, আহিনত কল।\nকাতিত কচু বঢ়ায় বল।।\nবিঃদ্ৰ ঃ ইয়াত ‘খৈ’ শব্দটোৱে আখৈ বুজাইছে আৰু ‘ওল’ হৈছে ওলকচু ৷\n/ ১৪ । পঢ়া আৰু লিখা---\n\n|_  ৰঞ্জিততৃতীয় শ্ৰেণীৰ ছাত্ৰ।সি ঘোঁৰামাৰা প্ৰাথমিক বিদ্যালয়ত পঢ়ে। অসুস্থতাৰ ৱাবে যোৱা\nসপ্তাহত সি তিনিদিন বিদ্যালয়ত উপস্থিত থাকিব পৰা নাছিল। সেয়ে ৰঞ্জিতে সেই, কেইদিনৰ ছুটী\nমঞ্জুৰ কৰিবলৈ প্রধান শিক্ষকলৈ এখন আবেদন পত্ৰ লিখিছে---\n\nপ্রতি,\n\nমাননীয় প্ৰধান শিক্ষক মহোদয়,\n\nঘোঁৰামাৰা প্রাথমিক বিদ্যালয়।\n\n(তৃতীয় মানৰ শ্ৰেণী শিক্ষক মহোদয়ৰ জৰিয়তে)\nবিষয়ঃ ছুটী মঞ্জুৰ কৰাৰ বাবে আবেদন |\nমহোদয়\n\nবিনীত নিবেদন,এই যে,মই যোৱা.২৬-১২-২০২৪ আৰিখৰপৰা ৩০-১২-২০২৪ তাৰিখলৈ\nতিনিদিন ধৰি শ্ৰেণীত উপস্থিত থাকিব পৰা নাছিলৌ ৷ কাৰণ মোৰ পেটৰ অসুখ হৈছিল।\n\nগতিকে দয়ালু মহোদয়ক বিনীত অনুৰোধ জ্বনাওঁ যেন উক্ত দিনকেইটাৰ বাবে মোৰ ছুটী\nমঞ্জুৰ কৰি বাধিত কৰে। ইতি--\n\nতাৰিখঃ ৩০-০১২-২০২৪\n\nউক্ত কথা সঁচা                 আপোনাৰ একান্ত বাধ্য ছাত্ৰ\nশ্ৰী ৰঞ্জিত চৌধুৰী\n৩য় মান, ৰোল নং ২\n;      অভিভাৱকৰ চহী                              ৰ,\nধৰা৷;৷তুমি,কেইদিনমান বিদ্যালয়ত উপস্থিত থাকিব নোৱাৰিলা ৷ তাৰ কাৰণ জনাই প্রধান\nশিক্ষকলৈ এইদৰে এখন আবেদন পত্ৰ লিখা।\n\n(0_ \"+ পবষ্ট্‌[ 7 _})}\n‘ঠৰ ১৬।তলত উল্লেখ কৰা সময়ত তুমি কি কি কৰা, দুটাকৈ বাক্য লিখা।\n\nৰাতিপুৱাৰ ভাগত । বিদ্যালয়ৰ পৰা ঘৰলৈ - আবেলি পৰত     নিশাৰ ভাগত\nঅহাৰ পাছত\n\nল্‌                    ঠ\n\nতৰ্দ”            অধ্যায় ৯ £ স্বাস্থ্য আৰু সু-অভ্যাস\n\n৬\n\nলী",
+  "confidence": {
+    "word_count": 172,
+    "mean": 82.13,
+    "median": 92.89,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.61,
+  "page_elapsed_seconds": 5.517,
+  "peak_process_tree_rss_bytes": 224505856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

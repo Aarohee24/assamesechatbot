@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিন্তা কৰি লিখা-\n\n> জীৱ সম্পদসমূহ আমি কিয় সংৰক্ষণ কৰিব লাগে?\n> গছ-গছনিবোৰ নহ’লে আমাৰকি কি অসুবিধা হ’ব?\n> নৈ-উপনৈসমূহৰ পানী শুকাই গ’লে কি হ’ব?\n\n> ৰাষ্ট্ৰীয় উদ্যানসমূহৰপ্ৰয়োজনীয়তা কিকি?\n\nদলগতকাষঃ\n\n>> পৰিৱেশৰ সংৰক্ষণৰ বাবে কি কি দিৱস উদ্যাপন কৰা হয় আৰু এইবোৰৰ তাৎপৰ্যৰ বৰ্ণনা কৰি\nটোকা প্রস্তুত কৰা।\n\n> তথ্য সংগ্ৰহ কৰা আৰু আলোচনা চক্ৰত ভাগ লোৱা--_\n- তোমালোকৰ অঞ্চলত কি কি প্রাকৃতিক সম্পদ পোৱা যায়?\n-প্রাকৃতিক সম্পদসমূহ কি কি কামত ব্যৱহাৰ হৈছে?\n> পৰিৱেশ সংৰক্ষণৰ বাবে পোষ্টাৰত শ্লগান লিখি বিদ্যালয়ৰ চৌহদত আঁৰি থ’বা।\nপৰিৱেশ সংৰক্ষণৰ ক্ষেত্ৰত সজাগতা আনিবলৈ জনসাধাৰণে লোৱা কিছুমান ব্যৱস্থা সম্পৰ্কে\n\n৬ গছ-পুলি ৰোপণ কাৰ্যসূচীৰ দ্বাৰা ২১ মাৰ্চৰ দিনটো ‘বিশ্ব বন দিৱস’ হিচাপে পালন\nৰাইজৰ মাজত সচেতনতা বৃদ্ধি কৰা হয়।\n\n৬ ২২ মাৰ্চ দিনটো ‘বিশ্ব জল দিৱস’হিচাপে পালন কৰা হয়। পানীৰ সংৰক্ষণ, সুৰক্ষা আৰু\n৬ ২২ মে’দিনটো ‘বিশ্ব জী ৱবৈচিত্ৰ্য দিৰস’হিচাপে পালন কৰা হয়।\n\n৬ প্ৰতি বছৰে ৫ জুন তাৰিখটো ‘বিশ্ব পৰিৱেশ দিৱস’ হিচাপে পালন কৰা হয়। এই\nদিনটোত পৰিৱেশ প্ৰদূষণৰ বিভিন্ন অপকাৰ আৰু পৰিৱেশ সংৰক্ষণৰ বাবে ল’বলগীয়া\nআদি কাম কৰা হয়।\n\n৬ বন্যপ্ৰাণী সংৰক্ষণৰ বাবে সজাগতা আনিবলৈ অক্টোবৰ মাহৰ প্রথম সপ্তাহটো বিশ্ব\nবন্যপ্ৰাণী’ সপ্তাহ হিচাপে পালন কৰা হয়।",
+  "confidence": {
+    "word_count": 182,
+    "mean": 87.33,
+    "median": 94.59,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.173,
+  "page_elapsed_seconds": 3.75,
+  "peak_process_tree_rss_bytes": 222003200,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

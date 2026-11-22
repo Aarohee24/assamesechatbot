@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 283,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ু          9  তোমালোকেজানিছিলনেছ।\n\nপুৰণিকালত পৃথিৱীক বিশ্বব্ৰহ্মাণ্ডৰ কেন্দ্ৰ বুলি ভবা হৈছিল আৰু ইয়াৰ চাৰিওফালে সূৰ্য, তৰা,\n\nচন্দ্ৰ আৰু গ্রহবোৰ পৰিভ্ৰমণ কৰি থাকে বুলি ভবা হৈছিল। প্রায় 500 বছৰ পূৰ্বে পোলেণ্ডৰ এজন\n\nপুৰোহিত আৰু জ্যোতিৰ্বিদ নিক’লাছ ক’পাৰনিকাছে (1473-1543) কৈছিল যে সূৰ্য সৌৰজগতৰ\n\nকেন্দ্ৰত অৱস্থিত আৰু গ্ৰহবোৰ ইয়াৰ চাৰিওফালে পৰিভ্ৰমণ কৰি থাকে। ই এক বৈপ্লৱিক ধাৰণা আছিল।\n\nআনকি ক’পাৰনিকাছে নিজেও তেওঁৰ কৰ্মৰাজি প্রকাশ কৰিবলৈ ইতঃস্তত কৰিছিল। তেওঁৰ কৰ্মৰাজি\nতেওঁৰ মৃত্যুৰ বছৰ 1543 চনত প্রকাশিত হৈছিল।\n\n1609 চনত গেলিলিওৱে নিজৰ দূৰবীক্ষণটো সাজি উলিয়ায়। এই দূৰবীক্ষণৰ যোগেদি\nগেলিলিওৱে বৃহস্পতিৰ উপগ্ৰহবোৰ, শুক্ৰৰ কলা আৰু শনিৰ আঙঠিবোৰ নিৰীক্ষণ কৰিছিল। তেওঁ\nযুক্তিৰে প্রতিপন্ন কৰিছিল যে সকলো গ্ৰহই পৃথিৱীৰ সলনি সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণ কৰে।\n\nগতিকে দেখিলা যে মানুহৰ ধাৰণা আৰু জ্ঞানৰ ক্ৰমাগত বিকাশ আৰু পৰিৱৰ্তন ঘটে। তোমাৰ\nনিজস্ব ধাৰণা আছে নেকি? যদি কোনো নতুন ধাৰণা উপযুক্ত প্রমাণেৰে প্ৰতিষ্ঠা কৰা হয় তুমি তাক\n\nমানিবলৈ প্রস্তুতনে?\n৬“                                                              _/\n\nতৰা আৰু সৌৰজগত / 911২5 খা) []][} 501.1২ ৪%9]0;[]                                                                                                     268.",
+  "confidence": {
+    "word_count": 147,
+    "mean": 86.4,
+    "median": 95.23,
+    "minimum": 2.49,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.73,
+  "page_elapsed_seconds": 3.004,
+  "peak_process_tree_rss_bytes": 260751360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

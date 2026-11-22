@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 119,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\nঞ পদ্যটো স্পষ্ট আৰু শুদ্ধ উচ্চাৰবণেৰে পঢ়িব পৰা\nঞ্জ পদ্যটো ভাব প্রকাশ হোৱাকৈ আবৃত্তি কৰিব পৰা\nঞ্জ পদ্যটোৰ জৰিয়তে মূল্যবোধৰ ভাব জন্মা\n\nঞ্জ মূল্যবোধ থকা পদ্য পঢ়িবলৈ আগ্ৰহী হোৱা\nঞ্জ আত্মবিশ্লেষণৰ জৰিয়তে নিজকে সংশোধন কৰিবলৈ শিকা\nঞ একে অৰ্থ প্রকাশক শব্দ, বিপৰীত অৰ্থ প্রকাশক শব্দ আদিৰ জৰিয়তে শব্দ ভাণ্ডাৰ চহকী কৰা\nঞ পদ্যটি গদ্যকূপত লিখিব পৰা\nঞ্জ আদেশ বা অনুৰোধ বুজোৱা ক্ৰিয়াপদ (অনুজ্ঞা)ৰ ধাৰণা পোৱা\nঞ্জ নিজৰ চিন্তা আৰু যুক্তিৰে লিখিব পৰা\n\nপাঠ ১২\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nপদ্যটো শুদ্ধ | পদ্যটো আবৃত্তি | পাঠত থকা নতুন | পাঠভিত্তিকপ্ৰশ্নৰ৷ পদ্যৰ দফা\nপদ্য  উচ্চাৰণেৰে | কৰিব পৰা | শব্দৰ অর্থ জনা | উত্তৰ দিব পৰা | বুজাই লিখিব\nপঢ়িব পৰা                পৰা\nত্ম-যুক্তাক্ষৰেৰে | অনুজ্ঞাত বিভক্তি     বিপৰীত অৰ্থ\nভাষা অধ্যয়ন | শব্দ গঠন  যোগ কৰি  বাক্যৰচনা | বুজোৱা শব্দ\nব্যোৱহাৰিক | কৰিব পৰা | ক্ৰৰিয়াপদ লিখিব | _ বিবি পৰা | লিখিব পৰা\nব্যাকৰণ)       পৰা\nদলত আলোচনা\nজন কৰি মন নিকা | পৰিস্থিতি অনুসৰি | যুক্তিদশই | দেশপ্ৰেমমূলক\nসম্প্ৰসাৰণ | হোৱাৰ উপায় | কথা ক’ব পৰা | লিখিব পৰা পদ্য আবৃত্তি\nউলিয়াব পৰা          কৰিব পৰা\nনিজ অঞ্চলৰ বিভিন্ন ভাষা-ভাষী | নিজৰ অঞ্চলৰ\nপ্রকল্প  লোকৰ মাজত গঢ়ি উঠা মিলা- | বিভিন্ন ভাষাৰ\nপ্ৰীতিৰ বিষয়ে বৰ্ণনা কৰি টোকা । তালিকা কৰিব\nলিখিব পৰা     পৰা\n\n= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত */ চিন দিব আৰু নহ ’লৈ ১ চিন দিব । অহৰ্ত৷",
+  "confidence": {
+    "word_count": 225,
+    "mean": 88.68,
+    "median": 95.85,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.805,
+  "page_elapsed_seconds": 3.098,
+  "peak_process_tree_rss_bytes": 245243904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

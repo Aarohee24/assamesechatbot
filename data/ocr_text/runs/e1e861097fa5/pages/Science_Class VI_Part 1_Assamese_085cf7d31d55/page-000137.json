@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 137,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মূল শব্দ\n\nমেগ্‌নেটাইট       চুম্বকীয় পদাৰ্থ\nচুম্বক         আকৰ্ষণ\nকম্পাছ         বিকৰ্ষণ\nউত্তৰ মেৰু        অশ্বখুৰাকৃতিৰ চুম্বক\nদক্ষিণ মেৰু        গোলাকৃতি চুম্বক\nদণ্ড চুম্বক\n\nতোমালোকে কি শিকিলা?\n\nচুম্বকৰ দ্বাৰা আকৰ্ষিত নহয়।\n\n* প্ৰাকৃতিকভাৱে পোৱা চুম্বকক প্রাকৃতিক চুম্বক আৰু কৃত্ৰিমভাৱে প্রস্তুত\nকৰা চুম্বকক কৃত্ৰিম চুম্বক বোলে।\n+ সমুক্তভাৱে ওলোমাই থোৱা দণ্ড চুম্বক এডাল সদায় উত্তৰ-দক্ষিণ মুৱা হৈ থাকে।\n\n* প্রত্যেক চুম্বকৰ দুটা মেৰু থাকে--- উত্তৰ মেৰু আৰু দক্ষিণ মেৰু।\n\n+ দুডাল চুম্বকৰ বিপৰীত মেৰুৱে আকৰ্ষণ কৰে আৰু একেজাতীয় মেৰুৱে\nবিকৰ্ষণ কৰে।\n\n* _ চুম্বকেৰে ঘঁহি লো চুম্বকত পৰিণত কৰিব পাৰি।\n\n* গৰম কৰিলে, হাতুৰীৰে কোবালে বা ওপৰৰ পৰা পৰিলে চুম্বকে চুম্বকত্ব হেৰুৱাই\nপেলায়।\n\nভ্মম্ডতেওঁততত তত তত তত তত তত ০০০ ত ০০০০ত, ০০,০০০, ০০০,পু)",
+  "confidence": {
+    "word_count": 110,
+    "mean": 78.95,
+    "median": 92.91,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.334,
+  "page_elapsed_seconds": 2.615,
+  "peak_process_tree_rss_bytes": 274460672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

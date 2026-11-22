@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্রদান কৰে। সেয়েহে মিলেটক নিউট্টি খাদ্যশস্য বুলিও কোৱা হয়।\n* স্থানীয়ভাৱে কৰা খেতি আৰু তাৰ পৰা আহৰণ কৰা খাদ্য খোৱাতো উত্তম।\n₹ উৎপাদকৰ পৰা গ্ৰাহকলৈ খাদ্য সামগ্ৰীৰ দ্বাৰা অতিক্ৰম কৰা দূৰত্বক খাদ্য\nমাইল বুলি কোৱা হয়।\n\nঅনুশীলনী\n1. তলত দিয়া সমূহৰ পৰা অমিল বস্তুবিধ উলিওৱা আৰু ইয়াৰ কাৰণ দৰ্শোৱা\n\n(৪8) জোৱাৰ, বজ্ৰা, কণীধান আৰু বুট\n(0) ৰাজমাহ, বুট, ছয়াবিন আৰু চাউল\n2. ভাৰতবৰ্ষৰ পুৰণি আৰু আধুনিক ৰন্ধন প্ৰণালীৰ তুলনা কৰা।\nআলোচনা কৰা।\n4. তলত উল্লেখ কৰা তিনিবিধ খাদ্য সামগ্ৰীৰ তুমি কোনবিধ খাবা আৰু কিয় খাবলৈ ইচ্ছা\nকৰিবা?\n(৪8) বটলত থকা ফলৰ ৰস\n(0) সতেজ ফলৰ ৰস\n(০) সতেজ ফল\n5. চেনি এবিধ শৰ্কৰাযুক্ত খাদ্য। চেনিত আয়’ডিন মিলালে নীলা-ক’লা বৰণৰ নহয়। ইয়াৰ\nসমৰ্থনত কাৰণ দশেৱি৷।\n6. মিলেটবোৰক পুষ্টিকৰ খাদ্য হিচাবে গণ্য কৰা হৈছে। আমি কেৱল মিলেট খালেই শৰীৰত\nলাগতিয়াল পুষ্টিসমূহ পামনে? আলোচনা কৰা ।",
+  "confidence": {
+    "word_count": 133,
+    "mean": 90.43,
+    "median": 93.3,
+    "minimum": 16.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.503,
+  "page_elapsed_seconds": 2.842,
+  "peak_process_tree_rss_bytes": 268058624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

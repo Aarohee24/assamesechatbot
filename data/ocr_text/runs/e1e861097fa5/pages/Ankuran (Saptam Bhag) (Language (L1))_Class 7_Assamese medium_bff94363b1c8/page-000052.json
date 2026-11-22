@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 52,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ      ৷                                   ৫3103107\nএলা ্ছজনৱাক য়াই ৱাহিবলৈ হ’লে আমাৰ সকলোৰে ঠি সু সবল মনৰ নৰযোজল কিটো\n\nসবল কৰি ৰাখিবলৈ আমি সমা৷জখনকো কু-সংস্কাৰৰ পৰা মুক্ত কৰিব লাগিব। সমাজত চলি থকা অঙধবিশ্বাসৰ\nফলত মাহিলাসকলেই আটাইতকৈ বেছি নিযাতিত হ’বলগীয়া হয় । অঙ্ধবিশ্বাসৰ কাৰণে বহু সময়ত মানুহে\nবেমাৰ-আজাৰ লুকুৱাই ৰাখে। পাছলৈ গৈ এনে ৰোগ দুৰাৰোগ্য ব্যাধিত পৰিণত হয়। ইয়াৰ ফল বৰ বিষময়\nহয় । “নোকোৱাৰ পৰিণাম’ নাটিকাখনিত তাকেই চিত্ৰায়িত কৰা হৈছে।\n\nচৰিত্ৰৰ পৰিচয়-- মালতী _]\nশৈলবালা _|-== তিনিওগৰাকী সপ্তম শ্ৰেণীত পঢ়ি থকা ছাত্ৰী।\nহুনমিলি -_]\nফুলমতী কুর্মী -- বিদ্যালয়ৰ প্রধান শিক্ষয়িত্ৰী।\nবসন্ত পেণ্ড == চিকিৎসক।\nবাহাৰৰল ইছলাম --= বিদ্যালয়ৰ সহকাৰী শিক্ষক\n১ম দৃশ্য   আমম5=44 -/- এ (==!\n\nনম্ৰ\n\n॥(/})\n\n/*\n\n।                ৰ.      ((_\n\n৪ বকুল ফুলৰ গোন্ধ পালেই মনটো ভৰি উঠে, বয়নে শেল\nশৈলবালা ৪ ও, কৈছাহে নে? ইমান সুগন্ধি ফুল!\n\nব্র ৪৩",
+  "confidence": {
+    "word_count": 129,
+    "mean": 70.92,
+    "median": 89.49,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 160 diacritics",
+        "Detected 160 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.899,
+  "page_elapsed_seconds": 3.428,
+  "peak_process_tree_rss_bytes": 303865856,
+  "tesseract_warnings": [
+    "Detected 160 diacritics",
+    "Detected 160 diacritics"
+  ],
+  "processed_this_run": true
+}

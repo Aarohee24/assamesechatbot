@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 130,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰু,\n\n// খ)পদ্যটোৰ পৰা বিপৰীত অর্থ বুজোৱা শব্দ বিচাৰি লিখ|---\n\nবব ,,,>,-*, <\" \" \"== -- অসাধু\nসলা টক = অজ্ঞানী\n৮৯৯৮০৯৯ই৬২৮৪৬৮ বক্ৰ <= অভদ্ৰ\nত কলস === প্রিয়\nকও থনণে => --আভআআআআ===- + < সত্য\n০ //৬। তলৰ শব্দকেইটাৰে বাক্য সাজি লিখা৷--\n|\" ;_:| 8 ১ জী বা (বা মাম মা মা ংমংসমজাজভলতো // ঢ়). =,\n|\") _ ২ ইিজিদ্ৰশএমত্তৰ০ শৰ লস শ্ৰলৰৰশৰক সৰ ৰ শেণি ৰে = খল ৬ পৰস্পৰ, _*/ | তলস%\" শৰস্বৰসীক পৰি সনক\nটা লডললচডিভভসভসমমনভমভমভভৰ্ডডভডভ5 এ এ 5555=এ<<\nসুঁজ্চ। এ 95555 5 5514 9.8 9)”. 5:4‘4৯ৃ49 91499 ;,%959%,,99 854\nবিনূূ়্লেদলিদননদদনলভকা বৰৰ যোহি নদ; ফা মল. 55555 35359\n\n৭ পদ্যটোৰ ‘ল’ৰা’ শব্দটোৰ ঠাইত ‘ছোৱালী’ বহুৱাই আওৰাওঁ আহা--\nচি থোৱা ঃ ছোৱালীৰ সলনি পুৰুষ, মহিলা, মানুহ, লোক আদি বহুৱালেও ্খ\n\nলৰচৰ নহয়। গতিকে পদ্যটোত লৰা শব্দটোৱে উভয় লিংগৰ লোককে বুজাইছে।\n\n৯ ‘গুণী’ শব্দটোৰ সলনি ‘ভাল’ বা ‘সৎ’ বহুৱাই পদ্যটো আকৌ এবাৰ আওৰাওঁ আহা।\nএইবাৰো নিশ্চয় পদ্যটোৰ অৰ্থ লৰচৰ হোৱা নাই। কিন্তু ‘ভাল’ বা ‘সত’ৰ সলনি যদি\n‘বেয়৷” বা ‘অমত’ শব্দ জোৰাই পঢ়ো, তেনেহ’লে পদ্যটোৰ অৰ্থৰ লগত মিলিবনে\nচোৱাচোন।\n\nত     ত গুণী শব্দটোৱে ল’ৰাৰ গুণৰ কথা প্রকাশ কৰিছে। আনহাতে অসত্য\nঅপ্ৰিয় আদি শব্দবোৰে দোষৰ প্রকাশ কৰিছে। এনেদৰে গুণ, দোষ আদি প্রকাশ কৰা\nশব্দবোৰকে বিশেষণ বুলি কোৱা হয়।\n\nঙ* পদ্যটোত থকা বিশেষণবোৰ বিচাৰি উলিয়াই লিখা।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী            ১৬০,",
+  "confidence": {
+    "word_count": 211,
+    "mean": 61.18,
+    "median": 82.89,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 5.187,
+  "page_elapsed_seconds": 6.036,
+  "peak_process_tree_rss_bytes": 222285824,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

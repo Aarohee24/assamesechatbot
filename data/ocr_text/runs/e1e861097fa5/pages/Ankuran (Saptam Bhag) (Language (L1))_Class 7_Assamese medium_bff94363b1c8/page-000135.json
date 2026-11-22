@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 135,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ন) অৰ্থ\n\nশব্দ\nনাতিদূৰত-- অলপ দূৰত\nনিজৰা --- পৰ্বতৰ পৰা অলপীয়াকৈ বৈ\nঅহা পানী, পানীৰ পুং ।\nনিযুক্ত --=- কামত লগোৱা, কামত নিয়োগ\nকৰা।\nনিৰীক্ষণ -- দূৰৰ পৰা ভালকৈ চোৱা কাৰ্য্য,\nদৃষ্টি।\nনিয়ন্ত্ৰণ -- পৰিচালনা, শাসন, নিৰ্দিষ্ট\nনিয়মৰ অধীন কৰা।\nনুটুটে -- নকমে।\nপখী     -= চৰাই\nপতিয়ন   -_ বিশ্বাস, প্রত্যয়।\nপৰিত্যাগ --- বিসৰ্জন, সম্পূৰ্ণৰূপে ত্যাগ\nপৰিশ্ৰম _ -- দেহে কেহে কৰা খাটনি,\nমনেৰে বা গাৰে কৰা যত্ন।\nপাল    -_ গৰু, ম'হ আদিৰ জাক।\nপুণ্য      -- সজ বা সৎ কাম\nপুস্তিকা   -- ক্ষুদ্ৰ পুস্তক, সৰু কিতাপ\nপেটাৰি    -_ বেতেৰে তৈয়াৰ কৰা কাপোৰ-\n\nশব্দ          অর্থ\n\nপেৰা    -_- ধন-বস্তু সুমুৱাই থোৱা সজুলি,\nচন্দুক, বাকচ।\n\nপ্ৰচলিত _ - সদায় চলি থকা।\n\nপ্ৰচেষ্টা   - প্রয়াস, যত্ন।\n\nপ্রস্জলৈত --- বৰকৈ জ্বলা জুই)।\n\nপ্ৰতিভা   -=- অসাধাৰণ বুদ্ধি।\n\nপ্ৰতিৰোধ  -= বাধা।\n\nপ্ৰশিক্ষণ কেন্দ্ৰ -- কোনো শিক্ষাৰ বিষয়ে\nআলোচনা কৰা স্থান।\n\nপ্ৰক্ষেপ   -- মাৰি পঠিওৱা, নিক্ষেপ।\n\nপ্ৰশাসনিক --- শাসন সম্পককীয়, শাসন\nবিষয়ক।\n\nপ্ৰতিবন্ধকতা -- বাধা দিয়া কাৰ্য, বাধা\nজন্মাওতা।\n\nপ্ৰাঙ্গন    -= চোতাল।\n\nপ্ৰেক্ষাগৃহ -- ভাওনা ঘৰ, অভিনয় বা ৰং-\nধেমালি দেখুওৱা ঘৰ।\n\nকানি ৰাখিব পৰা এবিধ জপা, ফিতাহি ---ডাংকোপ মৰা, দস্তালি মৰা, নিজক\n\nচন্দুকজাতীয় যতন।\n\nডাঙৰ দেখুওৱা কাৰ্য, অহংকাৰ।\n\n5",
+  "confidence": {
+    "word_count": 181,
+    "mean": 82.72,
+    "median": 92.42,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.629,
+  "page_elapsed_seconds": 2.87,
+  "peak_process_tree_rss_bytes": 255479808,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

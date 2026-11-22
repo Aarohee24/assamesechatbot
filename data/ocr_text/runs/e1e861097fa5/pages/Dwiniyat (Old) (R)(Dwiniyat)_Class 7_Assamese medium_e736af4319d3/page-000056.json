@@ -1,0 +1,67 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 56,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫০         দ্ীনিয়াত\n\nৰাক্আতআৰু নফল ২ ৰাক্আত্ত। মগৰিব ফৰজ তিনি ৰাকৃআত নিয়ত-\nএ লশ80 592 ০) < ৰ 2591 দেৰ এ এ 193\nক্ল বয় 2429 34) 35= ৩ .ূল ৫৮\" )=  এওঁ %া ৷ ৫৫%\n\nফৰজ তিনি ৰাক্‌ৃআতৰ ১ম, ৰ সমাচমীজন- <\nপঢ়িব আৰু ৩য় ৰাকুআতত কেৱল দুৰা ফাতিহা পঢ়িব। ফজবৰ চুন্নত আৰু ফৰজ\nনামাজৰ নিয়ম অনুযায়ী নামাজ সম্পন্ন কৰিব।\n\nইছাৰ নামাজ পঢ়াৰ নিয়ম\n\nইছাৰ নামাজৰ সময় মগৰীবৰ নামাজৰ পৰা ৰাতি ১২টা পৰ্যন্ত থাকে। ইছাৰ\nনামাজ মুঠ ১২ ৰাক্আত। চুন্নত ৪ ৰাক্আত্, ফৰজ ৪ ৰাক্আত, চুনত ২ ৰাক্আত্ত\nনফল ২ ৰাকআতবৱিতিৰ ৩ ৰাক্আত আৰু হাল্‌কি নফল ২ ৰাক্আত। ইছাৰ ফৰজ\n৪ ৰাকৃআত ফৰজৰ নিয়ত-\nন লৰাক ল গা |\n\nঅং্দৰমীব্তী গাৰু যৰব্ুনী ৰ নিচিনাকৈ হাৰ ১২ ৰাকৃআত নামাজ\nপঢ়িব লাগিব। ফৰজৰ শেষ দুই ৰাক্‌আত কেৱল ছুৰা ফাতিহাৰ দ্বাৰা পঢ়িব\nলাগিব।\n\nনামাজৰ মকৰূহবোৰ ()৮১ = )/-)\n\nপ্রশ্বথ-নামাজৰ মকৰাহবোৰ কি কি?\nউত্তৰ-নামাজৰ মকৰাহ প্ৰধানতঃ দুবিধ-\n১ | মকৰাহে তহ্ৰিমী ৷\n২ । মকৰাহে তন্জিহী।\nনামাজৰ মকৰাহ ৭ টা। যেনে- (১) কুকুৰৰ দৰে মাটিত হাত প্বা, (২)\nআঠলৈ থিয় হোৱা, (৩) পুৰুষে খোপা বান্ধি নামাজ পঢ়া, (৪) ফৰজ",
+  "confidence": {
+    "word_count": 175,
+    "mean": 72.59,
+    "median": 90.32,
+    "minimum": 0.0,
+    "maximum": 96.8
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 99 diacritics",
+        "Detected 99 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.223,
+  "page_elapsed_seconds": 2.361,
+  "peak_process_tree_rss_bytes": 229818368,
+  "tesseract_warnings": [
+    "Detected 99 diacritics",
+    "Detected 99 diacritics"
+  ],
+  "processed_this_run": true
+}

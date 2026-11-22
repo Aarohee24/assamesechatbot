@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 142,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৬   ‘অসম’ নামৰ উৎপত্তি সম্পৰ্কে জানিব পাৰিব।\n\nনিৰ্দিষ্ট বৈশিষ্ট্য আৰু লিখনশৈলীৰ বিষয়ে জানিব পাৰিব।\n\nঞ্জ নতুনকৈ পোৱা শব্দৰ অৰ্থ জানিবলৈ অভিধান ব্যৱহাৰ কৰিব পাৰিব।\nছবি পৰ্যৱেক্ষণ কৰি টোকা লিখিব পাৰিব।\n\n৬    বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব (বিপৰীত\nশব্দ, সন্ধি আৰু প্রত্যয়।)\n\nপাঠ-- ১০\n\nঞ্জ সাক্ষাৎকাৰৰ শৈলী সম্পৰ্কে বুজিব আৰু আন পাঠৰ লগত ইয়াৰ পাৰ্থক্য সম্পৰ্কে জানিব\nপাৰিব।\n\nঞ্জ সাক্ষাৎকাৰ ল’বলৈ মানসিকভাৱে আগ্ৰহী হোৱাৰ মনোভাব লগতে আত্মবিশ্বাস গঢ়ি তুলিব\nপাৰিব।\nকৰিব পাৰিব।\n\nঞ্জ দিব্যাংগ হৈয়ো যে জীৱনত কৃতকাৰ্য হ’ব পাৰি সেই বিষয়ে উপলব্ধি কৰিব পাৰিব।\n\nঞ্জ সাক্ষাৎকাৰ আৰু কথোপকথন এই দুই শৈলীক জীৱিকাৰ পথ হিচাপে যে ল’ব পাৰিব সেই\nবিষয়ে জানিব।\n\nঞজ বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব (বিপৰীতাৰ্থক\n\nশব্দ, যুৰীয়া শব্দ)।\n\nপাঠ-- ১১\n\nঞ্জ ছন্দ মিলাই কবিতা আবৃত্তি কৰিব পাৰিব।\n\nঞ্জ নিজৰ পৰিৱেশ, সমাজৰ লগত জড়িত সমস্যাৰ সম্পৰ্কে নিজৰ ধাৰণা আৰু দৃষ্টিভংগী\nব্যাখ্যা কৰিব পাৰিব আৰু সমস্যা সমাধানৰ বাবে নিজৰ মতামত দিব পাৰিব।\n\nঞ্জ ছাত্ৰ-ছাত্ৰীয়ে পৰিৱেশ সংৰক্ষণৰ বিষয়ে জানিব পাৰিব।\n\nঞ বিভিন্ন গছগছনিৰ উপকাৰিতা সম্পৰ্কে জ্ঞান অৰ্জন কৰিব পাৰিব।\n\n২3৯\"",
+  "confidence": {
+    "word_count": 169,
+    "mean": 91.52,
+    "median": 95.72,
+    "minimum": 8.18,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.631,
+  "page_elapsed_seconds": 2.876,
+  "peak_process_tree_rss_bytes": 256057344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

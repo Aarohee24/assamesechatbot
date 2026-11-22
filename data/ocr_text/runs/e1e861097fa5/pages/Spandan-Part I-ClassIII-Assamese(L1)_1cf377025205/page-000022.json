@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "|  অধ্যায় ২      পাঠ ১\nখাদ্য    ভেবেলাৰ ভোগ\n\nল=ল=-=->-ল-ল=>ল=লকততন্ন্ননননন্নতনননতনন্ন্ন(নননন্ন্('( ত ল লললন্ন্ন{ন্ন্দ্'লতলনননন্নন্তত শলশল লতননত্্ন্({দ ন ললত্ন্ৰল লনল লন ন বন ৷শ ন ন তন ল ৰন ল ন লন ন শন ৰ! শত ত শ শাীন শ শত\n\n৷ খাদ্যাভ্যাস বেলেগ বেলেগ হয়। এই খাদ্যবোৰে আমাৰ পুষ্টিসাধন আৰু ৰোগ প্রতিৰোধত সহায় কৰে। ৷\n৷ কিন্তু, প্ৰয়োজনতকৈ অধিক খালে পৰিণতি কি হ’ব পাৰে, পদ্যমটোত চাওঁ আহা--       !\n\n৮======>===ল==== ললললনিন্্ুূদ=ন্পল=ল======ল=\"পসলন্মন্দন=্ললসনসল=======নতল======>=”নলনতন্ৰশ্্দন্দ লল >= শন্শ == == ===” নত =====ন”= === ==*৮\n\nভেবেলা ওলাল       মাথী দোমাহীত\nশহুৰৰ ঘৰলৈ বুলি,\nগুৰৰ টেকেলি         কলৰ আষিটি\nভাৰ কৰি ল’লে তুলি।\nবাটকুৰি বাই          আবেলি পৰত\nপালে শহুৰৰ খৰ,\nলোটাৰ পানীৰে        হাত-ভৰি ধুই\nপানী খালে কলহৰ।\nশহুৰ-শাহুলৈ       সেৱাটি জনাই\nবহে পীৰাখনি পাৰি,\nঘৰৰ খবৰ         খেতিৰ ফচল\nক’লে আঁতিগুৰি মাৰি।\n\nচুঙা, তিল, ঘিলা,              ফেনী, তেল পিঠা\n\nহেৰাল মুখৰ কথা৷\n\nভেবেলা বাপুৰ                খাওঁতে খাওঁতে\nপেটত ধৰিলে টান,\n\nএকে কোবে গই           টিঙনা-ঘৰত\nসোমাই বচালে মান।\n\nখবসসসৱসং;সসস;;ৱ;ংসসংসসংসমসসসসসসসসসসসসসসসসসসসসসসজসসসজৱংসসসমসৱংসজসজসং:ৱংসসঅৱসসসসমইৱসমসসসসসসসসসসংসসসজসংসসংসংসসজস:সসমসসসসসসমসজসসমসংসসসসসসসসসসসংসসংসংসসসসসসসসসসসসসজৱৱস-ৱসসজৱজসজজৱসংসজসস-সস;স;ফৱূ১\n\n[ত ছাত্ৰ-ছাত্ৰীসকলক পদ্যটি শুদ্ধ উচ্চাৰণেৰে সঠিক লয় আৰু গতিত পঢ়িবলৈ/আবৃত্তি কৰিবলৈ শিকাব ৷ পাঠত উল্লিখিত পিঠাবোৰৰ বিষয়ে আলোচনা কৰিব।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী            কেকয়",
+  "confidence": {
+    "word_count": 169,
+    "mean": 78.04,
+    "median": 92.28,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.3,
+  "page_elapsed_seconds": 5.48,
+  "peak_process_tree_rss_bytes": 238206976,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

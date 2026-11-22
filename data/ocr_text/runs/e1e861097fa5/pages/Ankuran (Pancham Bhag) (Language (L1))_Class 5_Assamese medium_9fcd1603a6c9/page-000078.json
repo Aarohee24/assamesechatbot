@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 78,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[]8  পোহৰৰ সাতৰঙৰ সংক্ষেপণ ভিবজিওৰ (ঘ1]};(;\"%01২) ৰ লগত পৰিচয় হওঁ আহা।\nঘা0.৪া' - বেঙুনীয়া\n[[খ{[[00 - ঘননীলা\n৪া08 - নীলা\n0]২ঢ)খ - - সেউজীয়া\nখ্না[1,0% - হালধীয়া\n01ং/)খ0];- - সুমথিৰা\n1২!)            - ৰঙা\n\n‘> কবিতাটি লগে-ভাগে গোৱা।\nৰঙৰ খেলা\n\nৰঙা নীলা হালধীয়া\n\nঅকলশৰীয়া,\n\nৰঙা নীলা মিলি দুয়ো\n\nহ’ল বেঙুনীয়া ।\n\nৰঙাৰ স’তে হালধীয়া\n\nপালোঁ সুমথিৰা,\n\nহালধীয়া নীলা মিলি\n\nহ’ল সেউজীয়৷।\n\nৰঙা নীলা হালধীয়া\n\nকৰিলে মিহল,\n\nমটীয়া ৰংটি পাবা\n\nডাঠ বা পাতল।\nকবি - নৱকান্ত বৰুৱা\n\n(উৎস -নৱকাস্ত বৰল্ৱা শিশ-সাহিত্য সমগ্র, প্ৰথমখণ্ড, পৃষ্ঠা-২৩৬, প্রকাশক-- অৱেযা)\n\n2 52 < 2 ৮দচ]ে =",
+  "confidence": {
+    "word_count": 90,
+    "mean": 75.48,
+    "median": 91.81,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 13 diacritics",
+        "Detected 13 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.446,
+  "page_elapsed_seconds": 2.832,
+  "peak_process_tree_rss_bytes": 241446912,
+  "tesseract_warnings": [
+    "Detected 13 diacritics",
+    "Detected 13 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 101,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জ়়্্্ললন্্ী্ী 8৪ নবমী _'\n\n===\n\nৰ া লহ ্ণহালেলতে\n\nকিন্তু পেহাকে পষ্টিকৰ পেকেটৰ\nবাহিৰে বাকী পেলনীয়া\nবস্তুবোৰহে জ্বলাইদিবলৈ ক’লে।\nদেউতাকৰ কথাত আপত্তি কৰি\nশান্তাই ক’লে---“দেউতা,বাকী\nপেলনীয়াবোৰ জ্বলাই দিয়াৰ\nসলনি গছ এজোপাৰ গুৰিত\nদিলে দেখোন গছজোপাই সাৰ\nপাব।” পেহাকে তাইৰ কথাত\nহয়ভৰ দি অন্লানক তাকেই কৰিবলৈ ক’লে। তাৰ পাছত তেওঁলোক ঘৰলৈ উভতি যাবলৈ\nসাজু হ’ল। সকলোৱে গাড়ীখনত উঠিবলৈ আগবাঢ়িল কিন্তু পেহাকে চাবিপাট বিচাৰি নাপাই\nবিমোৰত পৰিল। অলম্লানহঁতেচাবিপাট বিচাৰি চলাথ কৰিলে। আটায়ে ভীষণ চিন্তাত পৰিল।\n“কি হ’ব এতিয়া ! আমি কেনেকৈ ঘৰলৈ যাম? ৰাতি জীৱ-জ্নম্ত৷'ওলালৈ কি হ’ব বাৰু!” অম্লান\nআৰু শাস্তাই ভাবিলে ৷ তেনেতে অম্লানৰ মাকে হাহি হীহি ক'বলৈ ধৰিলে-_- “জোঁৱাই, চাবিপাট\nদেখোন তোমাৰ পেটীতেই ওলমি আছে।””সকলোৰে মুখতএইবাৰ হীহি বিৰিঙিল। এইবাৰ\nচালকৰ আসনত অম্লানৰ দেউতাক বহিল।\n\nগধূলি নৌহওঁতেই তেওঁলোক ঘৰ, পালেহি। অম্লানে তালিকাখন উলিয়াই ল’লে।\nবনভোজলৈ নিয়া বস্তুবোৰ ঘূৰি আহিল,নে নাই, এপদ এপদকৈ সি মিলাই চালে। কিন্তু শান্তাৰ\nপুতলাটো নেদেখিহে আই কন্দনামুৱা হ’ল। অম্লানে গাড়ীৰ ভিতৰৰপৰা চেপেটা খাই থকা\n\nসেইদিনা ৰাতি শান্তা আইতাকহঁতৰ\nঘৰতেই থাকিল। পাছদিনা পুৱা\nমামীয়েকক সেৱা জনাই ঘৰলৈ\nউভতি গ’ল।\n\nঅধ্যায় ৭? পৰিয়াল",
+  "confidence": {
+    "word_count": 164,
+    "mean": 82.28,
+    "median": 92.48,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.703,
+  "page_elapsed_seconds": 5.924,
+  "peak_process_tree_rss_bytes": 224792576,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

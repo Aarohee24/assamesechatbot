@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 23,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (]',%৮ণ61\"৫1968)\n\n(1) জীৱই খাদ্য কিয় গ্ৰহণ কৰা প্রয়োজন?\n\n(2) পাৰ্থক্য (1)150118019])) লিখা -- পৰজীৱী আৰু মৃতজীৱী।\n\n(3) পাতত শ্বেতসাৰ (9800]})ৰ উপস্থিতি চাবলৈ তুমি কেনেদৰে পৰীক্ষা কৰিবা?\n(4) সেউজীয়া উদ্ভিদৰ খাদ্য সংশ্লেষণ প্রক্ৰিয়াৰ এটা চমু বৰ্ণনা কৰা ।\n\n(5) চিত্ৰৰ সহায়ত দেখুওৱা যে উদ্ভিদবোৰ খাদ্যৰ মূল উৎস।\n\n(6) খালী ঠাই পূৰ্ণ কৰা -=\n(৪) সেউজীয়া উদ্ভিদক ....------------------- বোলা হয়, যিহেতুকে সিহঁতে নিজৰ আহাৰ নিজে প্রস্তুত|\nকৰে।\n(৮) উদ্ভিদৰ দ্বাৰা সংগ্লেষিত খাদ্যসমূহ ........-------------------- হিচাপে সঞ্চিত হৈ থাকে।\n(০) সালোকসংশ্লেষণত সৌৰশক্তিক আহৰণ কৰি ৰখা ৰঞ্জক পদাৰ্থক --------১-----১--১১০, বোলা\nহয়।\n(0) সালোকসংশ্লেষণৰ সময়ত উদ্ভিদে ........-----১১------- লয় আৰু ......১১১-১১--১১-] এৰি দিয়ে ।\n\n(7) তলত দিয়াসমূহৰ নাম লিখা (]খণ্জা৷০ 016 10110118)\n(৪) এবিধ পৰজীৱী উদ্ভিদ যাৰ কাণ্ড (৪270) হালধীয়া, মিহি আৰু নলীকাসদৃশ (]['000100)।\n(০) এবিধ উদ্ভিদ যি স্বপোষী আৰু পৰপোষী ব৷ উভয় ধৰণে পৰিপুষ্টি গ্ৰহণ কৰে।\n(০) পাতত থকা যিটো ছিদ্ৰৰ সহায়ত উদ্ভিদে গেছ বিনিময় কৰে।\n\n(8) শুদ্ধ উত্তৰত চিন দিয়া (][1 গে 016 ০0001 81152)\n(৪) অমৰলত৷\n(1) স্বপোষী (1}) পৰজীৱী (}}}1) মৃতজীৱী (1%) পোষকৰ উদাহৰণ।\n(৮) এবিধ উদ্ভিদ যি পোক-পতংগক খাদ্য হিচাপে গ্ৰহণ কৰে--\n(1) অমৰলতা (11) জৱাফুল (1}1) কলচী উদ্ভিদ (1৮) গোলাপ ।\n\n(9) 1নং স্তম্ভৰ লগত 2নং স্তম্ভ মিলোৱ৷।\n\n1নং স্তম্ভ         ঠনং স্তম্ভ\nপত্ৰহৰিৎ                  বেক্টেৰিয়া\nনাইট্ৰ’জেন       পৰপুষ্ট জীৱ\nঅমৰলতা         কলচী উদ্ভিদ\nপ্রাণী                   পাত\nপোক-পতংগ            পৰজীৱী\n\nউদ্ভিদৰ পৰিপুষ্টি                                                         9",
+  "confidence": {
+    "word_count": 207,
+    "mean": 82.68,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.972,
+  "page_elapsed_seconds": 3.214,
+  "peak_process_tree_rss_bytes": 305385472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

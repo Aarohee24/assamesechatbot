@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 31,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমি কথাবোৰ ভালদৰে বুজিবলৈ হাতে-কামে কৰোঁ আহা।\n\n[] কজ্ৰিয়া-কলাপ 2.1:\n তোমালোকৰ শ্ৰেণীৰ ছাৰ-বাইদেউৰ অনুমতি লৈ একোটাকৈ গোট গঠন কৰা।\n$ ছাৰ-বাইদেউৰ তত্বাৱধানত ওচৰৰ এখন বনাঞ্চল বা উদ্যানলৈ ভ্ৰমণৰ উদ্দেশ্যে\n\nযোৱা।\nঞ উদ্যানত থকা গছ-গছনি, চৰাই-চিৰিকটিবোৰ লক্ষ্য কৰা।\nঞ তোমাৰ লগত নিয়া টোকাবহীত জীৱৰ নাম আৰু তথ্যবোৰ লিখি থ’বা।\n*$ তলসৰা পাত, ফুল আদি সংগ্ৰহ কৰি এইবোৰ চোৱা\nঞ$ জীৱবোৰৰ নাম আৰু তোমালোকে পৰ্যৱেক্ষণ কৰা তথ্যসমূহ লৈ তলত দিয়া\nধৰণে এখন তালিকা প্রস্তুত কৰিব পাৰা।\n\nতালিকা 21: প্রাণী সম্পৰ্কে বিভিন্ন তথ্য\n\nপখিলা                  সৰডাঙৰ                 উৰি ফুৰে                 ৰং-বিৰঙৰ পাখি\n\nতালিকা 2.2 : উদ্ভিদ সম্পৰ্কে বিভিন্ন তথ্য\n\nনিম      সৰু / ডাঙৰ ৷ সৰু, পাতবোৰ ৷ দেখা গ’ল / দেখা গুটিবোৰ\nঠাৰিত ঘনকৈ      নগ’ল       সৰু\nসজ্জিত\n\nতোমালোকে উদ্যানত দেখা পোৱা যি কোনো জীৱক তালিকাত অন্তৰ্ভুক্ত কৰিব পাৰা।\nতালিকাখনৰ তথ্যবোৰ ভালদৰে মন কৰিলে কি শিকিবা ? তোমালোকে জানিবা যে আমাৰ\nপৰিৱেশত অনেক প্রকাৰৰ জীৱ আছে। পৃথিৱীখনত বিভিন্ন ধৰণৰ জীৱ আছে। ইয়াকে আমি\nজৈৱ বৈচিত্ৰ্য বুলি কওঁ।",
+  "confidence": {
+    "word_count": 150,
+    "mean": 91.09,
+    "median": 95.83,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.791,
+  "page_elapsed_seconds": 3.108,
+  "peak_process_tree_rss_bytes": 318058496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

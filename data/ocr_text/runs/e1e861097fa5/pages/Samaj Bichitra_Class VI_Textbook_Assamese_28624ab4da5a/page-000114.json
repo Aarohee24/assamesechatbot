@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 114,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গীতাৰ ঘৰ নাহৰণি গাঁৱত। তাইৰ গাঁৱৰ প্ৰত্যেকে ইজনে-সিজনক ভালদৰে চিনি পায় আৰু বিপদে-\nআপদে সহায়-সহযোগ কৰে। গীতাৰ বায়েকৰ বিয়া। বিয়াৰ খবৰ পাই চুবুৰীৰ প্ৰত্যেকে গীতাহঁতৰ ঘৰলৈ\nপৰিয়ালটোক সহায় কৰিবলৈ আগবাঢ়ি আহিছে। এই উদাহৰণটোৰপৰা আমি বুজিব পাৰিলো যে প্রয়োজন\nহ’লে ওচৰ চুবুৰীয়াই বিভিন্ন ধৰণে সহায়-সহযোগ কৰে।\n\nনিজৰ পৰিয়ালৰ পিছতেই মানুহে প্রতিৱেশীসকলৰ ওপৰত নিৰ্ভৰ কৰে। আমাৰ ওচৰে-পাজৰে বসবাস\nকৰা পৰিয়ালসমূহকে আমি প্ৰতিৱেশী বুলি কওঁ৷ জাতি-ধৰ্ম নিৰ্বিশেষে প্ৰতিৱেশীসকল বিয়|-বাৰু, উৎসৱ, অনুষ্ঠান\nআদি চুবুৰীৰ কাম-কাজত একগোট হয়। কাৰোবাৰ কাৰণে আকৌ সম্প্ৰসাৰিত পৰিয়ালটোৱেই প্রতিৱেশীৰ দৰে\nহয় আৰু অন্য কাৰোবাৰ কাৰণে একেবাৰে অচিনাকি, বেলেগ ভাষা-ভাষী লোকো প্ৰতিৱেশী হ’ব পাৰে।\n\nসমাজ এখন পৰিচালিত হবলৈ প্রতিৱেশীসকলৰ মাজত সুস্থ সম্পৰ্ক থকা আৱশ্যক। পৰিয়ালৰ পিছত\nপ্রতিৱেশীসকলেই দ্বিতীয় সামাজিক গোটৰ সৃষ্টি কৰে। কোনো গাঁও বা একোটা অঞ্চলৰ সমূহীয়া সম্পত্তি,\nথকা সমাজৰ প্রতিগৰাকী সদস্যৰ উমৈহতীয় সম্পদ। তেনে ক্ষেত্ৰত সমূহীয়া সিদ্ধান্ত লোৱা বা পৰিচালনা কৰা\nআদি কামত সকলোৰে সহযোগিতা থকাটো দৰকাৰ৷ প্রতিৱেশীসকলৰ মাজত থকা সমতা, একতা, উদাৰতা আৰু\nসহযোগিতাৰ মনোভাৱে সমাজখন সুচাৰুৰূপে পৰিচালনা কৰাত সহায় কৰে।",
+  "confidence": {
+    "word_count": 153,
+    "mean": 90.62,
+    "median": 95.78,
+    "minimum": 13.41,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.224,
+  "page_elapsed_seconds": 3.823,
+  "peak_process_tree_rss_bytes": 294223872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

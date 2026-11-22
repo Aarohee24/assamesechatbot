@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চাহ বাগিচা অঞ্চল-_\nঅঞ্চলতে চাহ বাগিচা দেখা যায়। অসমত গিৰ 0;\nঅধীনত চাহ বাগান আছে। বাগিচাত পুৰুষ- ঢম\nমহিলা উভয়ে শ্রমিক হিচাপে কাম কৰে। ঢ,\nতেওঁলোকে বাগিচাৰ কুমলীয়া পাত চিঙা,\nউদ্যোগলৈ বস্তু অনা-নিয়া কৰা, যন্ত্ৰ পাতি\nচলোৱা আদি বিভিন্ন কামৰ লগত জড়িত।\nতেওঁলোকে বাগানত শ্রম কৰি পোৱা উপাৰ্জনৰ দ্বাৰা জীবিকা নিৰ্বাহ কৰে। তেওঁলোকৰ বাবে স্কুলৰ\nব্যৱস্থাও আছে। চাহ বাগিচাৰ পৰিচালকৰ অধীনত কাম-কাজবোৰ চলি থাকে। বৰ্তমান শিক্ষা-দীক্ষাৰ\nক্ষেত্ৰত চাহ শ্রমিকসকল আগবাঢ়ি গৈছে।\n॥১৮৮৷৪৮৷৷\n\nকোনো এটা অঞ্চলৰ প্রাকৃতিক পৰিৱেশে মানুহৰ জীৱন ধাৰণৰ প্রণালীত কেনেদৰে প্রভাৱ\nপেলাই লিখা ৷\nজানিলওঁআহা--\nগাঁও অঞ্চলৰ বেছিসংখ্যক লোকেই কৃষি-কৰ্ম, কুটাৰ শিল্প, মীন পালন, হাঁহ-কুকুৰা পালন\nআদিৰ ওপৰত নিৰ্ভৰ কৰি সীমিত সা-সুবিধাৰে সমাজ পাতি বাস কৰে। অসমৰ ভৈয়াম আৰু\nপাহাৰ দুয়ো ঠাইতে গাঁওবোৰ আছে।\nশিল্প বাণিজ্য, চাকৰি, ব্যৱসায় আদিৰ সুবিধা থকা আৰু উন্নত শিক্ষা, চিকিৎসা, যাতায়াত,\nবিজুলী, পানী আদিৰ ব্যৱস্থা থকা ঘন জনবসতিপূৰ্ণ অঞ্চলসমূহেই হ’ল চহৰ অঞ্চল। অসমত\nভৈয়াম আৰু পাহাৰ দুয়ো ঠাইতে চহৰ অঞ্চল আছে।\n\n  (শিক্ষকে সহায় কৰিব)\n\nতুমি বাস কৰা ঠাইখনৰ ৫ টা পৰিয়ালৰ সদস্যসকলৰ জীৱনধাৰণৰ প্রণালী (কেনেকুৱা কৰ্মত জড়িত\nহৈ আছে) তাৰ তথ্য সংগ্ৰহ কৰা আৰু তলৰ তালিকাখনৰ আৰ্হি অনুসৰি নিজৰ বহীত লিখা ।\n\nত্ৰুঃ জিলাৰ নাম গাঁও/নগৰ/পাহাৰ/চৰ৷ কৃষিকৰ্মত জড়িত ৷ চাকৰিজীৱী ব্যৱসায়, অন্যান্য\n\nনং                       /চাই বাগান অঞ্চল        লোকৰ সংখ্যা আৰু৷লোকৰ সংখ্যা\nইত্যাদি       তেওঁলোকে কি কি\nশস্যৰ খেতি কৰে",
+  "confidence": {
+    "word_count": 204,
+    "mean": 87.96,
+    "median": 95.53,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.932,
+  "page_elapsed_seconds": 4.627,
+  "peak_process_tree_rss_bytes": 201060352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

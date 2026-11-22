@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(গ) শংকৰদেৱৰ পদফাকিত পুনৰাবৃত্তি হোৱা৷ শব্দাংশটো লিখা\n৷৷ জানো আহা--\n\nহেন শুনি জাম্বৰন্ত।\nধাইলা মহা বলবন্ত ।।\nযেতিয়া.-পথ৷ৰ থাকে\nৰ’দত শুকাই\n\nইয়াত থকা পথাৰ শব্দটো বিশেষ্য পদ। ইয়াৰ বিশেষণ পদৰ ৰূপটো হ’ল পথৰুৰা।\n\n// ১১৷ তলত দিয়া বিশেষ্য পদবোৰৰ বিশেষণ পদৰ ৰূপটো লিখা আৰু সেই শব্দৰ প্ৰয়োগেৰে\nবাক্য গঠন কুৰি তলৰ তালিকাখন পূৰ কৰা--\n\nবিশেষ্য     বিশেষণ              ৰাক্য\n\nঘৰ     ঘৰুৱা       ঘৰুৱা কাম-কাজবোৰ নিয়াৰিকৈ কৰিবা।\nসাৰ\nনিথৰ\nভাগৰ\nজাবৰ\n\n।    ১০ পঢ়া আৰু লিখা।\n(ক) তলত দিয়া পদ্যফাকিত বাৰে বাৰে উচ্চাৰিত হোৱা ধ্বনিটো লিখা।\nবগাকৈ বগলী বহলাই বহিছে\nবলুকাত বিয়লি বেলা,\nবকুল বাগৰিছে ববচা বনতে\nবুটলি বিলাওঁগৈ ব’লা।\n(খ) তলত দিয়া পদ্যফাকিত পুনৰাবৃত্তি হোৱা ধ্বনিটো লিখা।\nইমান পানীৰ টোপ\nভালপাওঁ ৰিম বিম\nগীতহে শুনিব।",
+  "confidence": {
+    "word_count": 112,
+    "mean": 86.63,
+    "median": 93.3,
+    "minimum": 0.16,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.388,
+  "page_elapsed_seconds": 2.851,
+  "peak_process_tree_rss_bytes": 285450240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

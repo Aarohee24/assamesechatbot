@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 149,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্খ\n\nৰ,\n\nৰ,\n\nউপ-অৰ্হতা\n\nজ্ৰিয়া-\nকলাপৰ নম্বৰ\n\n€1.1\n\n€-1.5\n\n€-2.1\n\n;-2.2\n€-2.3\n\n€-3.1\n\n4.2\n\nৰ\n\n৷্স৷ পাঠৰ মূল বিন্দুসমূহ চিনাক্ত কৰি ক'ব৷১,\n\nআৰু প্রয়োজন সাপেক্ষে বহলাই লিখিব\nপাৰিব।\n\nঞ্স৷ পাঠত উল্লেখ থকা কৃষি সঁজুলি চিনাক্ত\nকৰি অংকন কৰিব পাৰিব।\n\nঞ্জ যুৰীয়া শব্দ চিনাক্ত কৰি লিখিব পাৰিব।\n\nজসি অস্ত্যধ্বনি মিল থকা শব্দ লিখিব পাৰিব।\n\nঞ্স সমাজত প্ৰচলিত বিভিন্ন লোক উৎসৱৰ\nবিষয়ে ধাৰণা কৰি লিখনৰ জৰিয়তে\nপ্রকাশ কৰিব পাৰিব।\n\nক্সস বিভিন্ন অঞ্চলত ব্যৱহাৰ কৰা ভাষাৰ\nকথিত ৰূপ জানি লিখনৰ জৰিয়তে\nপ্রকাশ কৰিব পাৰিব।\n\nঞ্স বিভিন্ন সামাজিক পৰিবেশ সমূহ ধাৰণা\nকৰি লিখনৰ জৰিয়তে প্রকাশ কৰিব\nপাৰি।\n\nছ্সশব্দৰ অৰ্থ বুজি বাক্য ৰচনা কৰিব\nপাৰিব।\n\nছল পাগটোত থকা বিশেষ্য আৰু ক্ৰিয়া\nপদবোৰৰ মান্যৰূপবোৰ লিখিব পাৰিব।\n\nক্ল পদবোৰত যুক্ত হৈ থকা বিভক্তিবোৰ\nবাছি উলিয়াই লিখিব পাৰিব।\n\n্সস বিভিন্ন উৎসৰপৰ৷ সমল সংগ্ৰহ কৰি\nগীত গাব আৰু লিখিব পাৰিব।\n\n১০\n\n১২,১৪\n\n১৩",
+  "confidence": {
+    "word_count": 134,
+    "mean": 83.53,
+    "median": 94.8,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.544,
+  "page_elapsed_seconds": 2.942,
+  "peak_process_tree_rss_bytes": 222793728,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

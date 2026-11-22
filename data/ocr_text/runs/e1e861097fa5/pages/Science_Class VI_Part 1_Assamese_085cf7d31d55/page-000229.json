@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 229,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কিয় বালিৰ তলত জমা হৈছে? বোকামাটিখিনি পানীৰ লগত কিয় মিহলি হৈ আছে? ।\n\nৰ\n\nবোকামাটি-পানীৰ ভৰটো কেনেদৰে শিলঙটিৰ পৰা পৃথক কৰিবা?! বোকামাটি -\nপানীৰ ভৰটো দুদিনমান ৰাখি থলৈ কি হ’ব?                     ,\n\n৬ _ _ _,________,__,_ ,; ; ;,;,;\n\n1. পৰীক্ষাটো প্রকল্প আকাৰে সম্পাদন কৰা। নিৰ্দেশনা তালিকা নং 6.]ৰ প্রতিটো\nপৰ্যায়ৰ ফটো সংলগ্ন কৰি জমা দিয়া।\n\n2. মা-দেউতাৰ লগত খেলা খেল ঃকীহ হ’লে তুলসীৰ ৰস বা আদাৰ ৰস খাইছানে?\nমা-দেউতাৰ সহায়ত তুলসী বা আদা খুন্দি তাৰ ৰস এখন কাপোৰেৰে চেপি উলিওৱা\n\n3. তোমাৰ অঞ্চলত কৰা অধ্যয়ন ঃ তোমাৰ ঘৰত তুমি নিজে উপাদানবোৰ (কি কি\nপদ্ধতিৰে পৃথক কৰা তাৰ এখন তালিকা প্রস্তুত কৰা। তোমাৰ মা-দেউতাই কি কি পৃথক\nকৰে তাৰ এখন তালিকা কৰা। তোমাৰ বিদ্যালয়ৰ চাৰিজন ছাত্ৰ-ছাত্ৰীৰ এটা দল হৈ\nতোমাৰ অঞ্চলৰ বিভিন্ন পৰিয়ালে কি কি ধৰণৰ পৃথকীকৰণ পদ্ধতি ব্যৱহাৰ কৰে তাৰ\n\n_]              [\n\nএক অধ্যয়ন কৰা।",
+  "confidence": {
+    "word_count": 135,
+    "mean": 85.24,
+    "median": 95.71,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.733,
+  "page_elapsed_seconds": 3.004,
+  "peak_process_tree_rss_bytes": 298602496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

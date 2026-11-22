@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 59,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ--_ জ্ঞান সম্প্ৰসাৰণ\n\n১০। নাটিকাখনিৰ প্রথম দৃশ্যৰ লগত থকা ছবিখন চোৰা আৰু ছবিখনত দেখা কথাখিনি\nবৰ্ণনা কৰা।\n\n১১। পঢ়োঁ আহা -=\nকদমণি গাঁও নিবাসী ৩৫ বছৰীয়া কুলেন চন্দ্ৰ দাসে কৃষিকৰ্ম কৰি জীৱিকা নিৰ্বাহ\nকৰে। সেইদিনা দেওবাৰ, তেওঁ পুৱতিনিশা ওচৰৰে বিলত মাছ মাৰিবলৈ গৈছিল। মাছ\nমাৰি থাকোঁতে হঠাতে তেওঁক বিষাক্ত সাপে দংশন কৰিলে। তেওঁ লৰালৰিকৈ ঘৰলৈ\nআহি কথাটো পৰিয়ালক জনালে। ঘৰখনত হুৱা-দুৱা লাগিল। ককায়েকে ততাতৈয়াকৈ\nওজাক মাতি আনি জৰা-ফুঁকা আৰম্ভ কৰিলে। পিছে লাহে লাহে ৰোগীৰ অৱস্থা\nবেয়াৰ ফাললৈ ঢাল খালে৷ সৰ্প দংশনৰ বাতৰি গোটেই গাঁৱতে বিয়পি পৰিল। স্থানীয়\nপ্রাথমিক বিদ্যালয়ৰ শিক্ষক অৰ্জুন শৰ্মাই কথাটো শুনি দাসৰ ঘৰলৈ আহিল। তেখেতে\nলগে লগে ১০৮ সেৱাক মাতি দাসক চিকিৎসালয়লৈ নিয়াৰ ব্যৱস্থা কৰিলে।\nচিকিৎসালয়ত চিকিৎসকৰ আশাসুধীয়া চেষ্টাৰ ফলত দাসৰ স্বাস্থ্য ক্ৰমে ভাললৈ\nআহিবলৈ ধৰিলে। আজিৰ যুগতো এনেধৰণে জৰা-ফুঁকা কৰা কাৰ্যৰ বাবে দাসৰ\nপৰিয়ালক সকলোৱে সমালোচনা কৰিলে।\n\n১২। তোমাৰ গাঁৰত বা ওচৰচুবুৰীয়াই এনেধৰণৰ সমস্যা (সৰ্প দংশন, জণ্ডিচ, বসন্ত)\nআদিত পৰিলে তুমি কেনে ধৰণৰ মতামত আগবঢ়াবা আৰু কি ধৰণে সহায় কৰিবা\nকোৱা।\n\n১৩। তুমি নিশ্চয় ভাওনা, ভ্ৰাম্যমাণ থিয়েটাৰৰ নাটক আৰু দূৰদৰ্শনৰ নাটক বা ধাৰাবাহিক\n\nচাইছা। তুমি চাই আনন্দ লভা এনে নাটকসমূহৰ এখন তালিকা প্রস্তুত কৰা।\nঘঁবপ্রকল্প\n\n১৪। বিদ্যালয়ৰ গ্ৰীষ্মকালীন শিবিৰত’ অনুষ্ঠিত হোৱা বিভিন্ন অনুষ্ঠানৰ (চিত্ৰাংকন, নৃত্যগীত,\nঅভিনয়, আবৃত্তি আদিৰ) বিষয়ে বৰ্ণনা কৰি এখন প্ৰতিৰেদন প্রস্তুত কৰা।",
+  "confidence": {
+    "word_count": 199,
+    "mean": 92.63,
+    "median": 95.75,
+    "minimum": 18.4,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.995,
+  "page_elapsed_seconds": 3.25,
+  "peak_process_tree_rss_bytes": 297328640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

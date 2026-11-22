@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কজ্ৰিয়া-কলাপ\n\n১)\n২)\n৩)\n\nপাঠটো শুদ্ধ উচ্চাৰণেৰে খোকোজা নলগাকৈ পঢ়া।\nপাঠটো পঢ়ি তুমি বুজি নোপোৱা শব্দবোৰৰ অৰ্থ অভিধান বা শব্দ সম্ভাৰ চাই লিখা।\nতলৰ বাক্যশাৰী পঢ়ি কোনে, কেতিয়া, কিয় আপ্রাণ চেষ্টা কৰিছিল কোৱা আৰু লিখা।\n\n“বিভিন্ন ধৰণেৰে ছোৱালীজনীৰ মনত সাহস আৰু আত্মবিশ্বাস জগাই তুলিবলৈ তেখেতসকলে\nআপ্ৰাণ চেষ্টা কৰিছিল।”\n\nপাঠটো পঢ়ি উপযুক্ত শব্দ আৰু চন খালী ঠাইত বহুওৱা।\n\nমৃত্যু হয়:.....১.- এৰ চনত।\n\n(ঘ)..,\"১..%.॥৷ ভালকৈ উপলব্ধি কৰিছিল যে বিশেষ প্রয়োজন সম্পন্ন ব্যক্তিসকলৰ বাবে ধন-\nবিততকৈ মৰম, ............ আৰু ............... বেছি প্ৰয়োজন৷\n\n৫) মহীয়সী নাৰীগৰাকীৰ জীৱন বৃতান্ত তোমাৰ কথাৰে লিখা।\n৬) দলত আলোচনা কৰি উত্তৰ লিখা।\n\n“চুলিভানে গ্ৰাহাম বেলৰ পৰা শিকা কৌশলটো অতি মৰমেৰে হেলেন কেলাৰকো শিকাই দিলে।”\n(ক) চুলিভান বুলি ইয়াত কাৰ কথা কোৱা হৈছে?\n\n(গ) চুলিভানে গ্ৰাহাম বেলৰ পৰা কি শিকিছিল?\n\n(ঘ) চুলিভানে হেলেনক কি শিকাইছিল?",
+  "confidence": {
+    "word_count": 125,
+    "mean": 89.52,
+    "median": 95.48,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.837,
+  "page_elapsed_seconds": 3.241,
+  "peak_process_tree_rss_bytes": 241401856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

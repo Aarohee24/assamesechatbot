@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 30,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1,609 00 101 06002 101106219081101116,\n\n[] /০ছা(% 2.1:\n+ ঘ্ব1]] 016 |)211]139101] 1011] চ001[ 6801]121, 811811662 6 90021 01\n৮০001 ০1899 11) 90116 9100])8.\n\nখ\n\n[]11021 016 ৪0]|)21191011 01 ৮0001\" 0(58011219, ঘ181{( 8 116810% 10169 01\n2810621].\n\n000921\"96 16 \"669 81)0 01109 11] 116 2810621].\n০06 001] {]16111811]1269 8110 08108 0116 0198111911]]9 11} ৮001 110060001\n\n(:011600 ||21] 128%৮6০৪, 110 ণ21'9 8110 00921%6 721]].\n\nৰ ৬ ৬ ৬\n\n00 1]]8%). 16000 ]]6 1]81]1698 8110 16 111[011118.001] 80000 116\n01898111911]19 {]18{ ৮00 00921%46 60% 091116 16 1[0111]8{ |)[0%1060 11] {116\n10]1]0%1116 18[021629.\n\n[81216 2.1 : ৬৪11009 111(0111]180101]1 80000 810111]8.|9\n\n]3009211]%}                5111811/0616               0800]              (:0100110}] সষধ]]169\n\n[81216 2.2 : ৬৪110009 111[0111]1801011 80200 |)[811[3\n\nখলা]              511811/015      118.1,          ১০০10/101       ১০০৫৪ 816\n168%৮29 6০ _=>৪০০            91]]8||\n811811660\n০01]0|2801]%}\n\n০00 ০81] 11101006 11] 116 (8016 ৪11) (৮]2)6 01 018581]191]] 00921960 11] 016\n28102]. স্ব 118.0 ৮0100 [1846 16811100% 00921\"41116 116 08108 %000 ]18%খ6 ০0116 100\n1010} |18{ 1616 816 ৮৪11009 ])69 01 01981]191]19 11] 0101 21] ঘ1101]621]1{ 80110.\n8|| 11686 01881]191]9 816 16.61160 100 89 101001%6০1\"91(%'.",
+  "confidence": {
+    "word_count": 67,
+    "mean": 46.1,
+    "median": 47.71,
+    "minimum": 0.0,
+    "maximum": 91.69
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4116,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.538,
+  "page_elapsed_seconds": 3.798,
+  "peak_process_tree_rss_bytes": 320471040,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

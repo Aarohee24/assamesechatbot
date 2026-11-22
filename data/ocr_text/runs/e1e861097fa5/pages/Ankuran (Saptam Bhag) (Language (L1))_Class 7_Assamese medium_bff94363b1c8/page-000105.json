@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক-পাঠভিত্তিক ক্ৰিয়া\nক্ৰিয়া-কলাপ\n১। পাঠটো শুদ্ধ উচ্চাৰণেৰে আৰু নাটকীয় ভংগীৰে পঢ়া।\n২। পাঠটো পঢ়ি কাহিনীটো চমুকৈ কোৱা।\n৩। পাঠটোৰ আধাৰত সংলাপখিনি ভগাই ভগাই কোৱা।\n৪। তলৰ শব্দসমূহৰ অৰ্থ কীড় চিন দি মিলোৱা।\n\nশব্দ                                    অৰ্থ\nনুচুটে               নদন-বদন, ধনে-জনে পৰিপূৰ্ণ\nৰৰৈয়া               কোনো শব্দ বা ওজৰ-আপন্তি নকৰাকৈ\nডাল-দৰিদ্ৰ          জঁপ৷,ঢাকনি থকা বেতেৰে তৈয়াৰ কৰ৷ কাপোৰ-কানি ৰাখিব\nপৰা এবিধ যতন\nবেজবেজাই         জাকৈ (বাঁহেৰে সজা তিনিকোণীয়া মাছ মৰা সঁজুলি)\nসুৰসুৰকৈ            নকমে\nজকাই              অতি দৃুখীয়া\nপেটাৰি                 শুকাই-ক্ষীণাই মৰাৰ নিচিনা হোৱা\n৫। উত্তৰ দিয়া।\n\n(ক) নিধনীৰামৰ ঘৰ ক’ত আছিল?\n(খ) নিধনীৰাম অভাৱী আছিল নেকি?\n(গ) মানুহজনে কাটি থকা গছজোপাৰ নাম কি?\n(ঘ) হালোৱা মানুহজনৰ নাম কি আছিল?\n৬। কোনে, কাক কৈছিল কোৱা\n(ক) ‘এই জোপা কি গছহে ককাই?’\n(খ) ‘পাৰোঁতোন--- নিজৰা ৷”\n(গ) ‘মোৰ নাম মৰা’\n\nখম পাঠটোৰ নাটা ৰূপ দি ছাত্ৰ-ছাত্ৰীৰ হতুৱাই অভিনয় কৰাব ।\n\n€2>\"",
+  "confidence": {
+    "word_count": 129,
+    "mean": 89.04,
+    "median": 93.14,
+    "minimum": 19.44,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.254,
+  "page_elapsed_seconds": 2.477,
+  "peak_process_tree_rss_bytes": 287821824,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

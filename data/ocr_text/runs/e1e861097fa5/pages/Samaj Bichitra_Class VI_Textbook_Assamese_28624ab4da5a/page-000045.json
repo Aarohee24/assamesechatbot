@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কালি- ২,৭৭,৯৬০ বৰ্গ কিলোমিটাৰ)। জাপানৰ ৰাজধানী ট’কিঅ’।\n\nজাপান দ্বীপপুঞ্জ প্ৰশান্ত মহাসাগৰত অৱস্থিত। ইয়াৰ উত্তৰে আছে ছাখালিন দ্বীপ, কুৰিল দ্বীপ আৰু\nওখ’টস্ক সাগৰ, দক্ষিণে টাইৱান আৰু পূব চীন সাগৰ, পূবে প্ৰশান্ত মহাসাগৰ আৰু পশ্চিমে জাপান সাগৰ আৰু\nকোৰিয়া প্রণালী। দেশখনৰ মুঠ মাটিকালি ৩,৭৭,৯৭৪ বৰ্গ কিলোমিটাৰ।\n\n৪8.২.১ দেশ হিচাপে জাপানৰ বিশেষত্বঃ\nএখন দেশ হিচাপে জাপানৰ বহুতো বিশেষত্ব বা বিশেষ ধৰণৰ বৈশিষ্ট্য আছে। তাৰ ভিতৰত তলত\n\nউল্লেখ কৰা কেইটা প্রধান--\n\n১. ই এখন সম্পূৰ্ণভাৱে দ্বীপ-দেশ (][918110 (\"00110\") প্ৰায় ১৪,০০০ দ্বীপৰ সমষ্টি জাপান। ইয়াৰে প্রায় ২৫০\nটা দ্বীপত জনবসতি আছে।\n\n২. বহুতো দ্বীপৰ সমষ্টি হোৱাৰ কাৰণে দেশখনৰ উপকূলৰ দৈৰ্ঘ্য প্রায় ২৯,৭৫১ কিলোমিটাৰ৷ কেউদিশে\nসাগৰ-মহাসাগৰ থকাৰ কাৰণে জাপান সামুদ্ৰিক সম্পদত চহকী।\n\n৩. জাপান এখন পৰ্বত-পাহাৰে আগুৰা দেশ। দেশখনত সমতলৰ পৰিমাণ মুঠ মাটিকালিৰ মাত্ৰ ১৫ শতাংশ।\nসেয়েহে কৃষিভূমি তেনেই কম।\n\nজাপান\n\nচিত্ৰ 8৪.৪ £ জাপান\n\nদেশ-মহাদেশৰ কথা ঃ জাপান",
+  "confidence": {
+    "word_count": 133,
+    "mean": 89.74,
+    "median": 95.78,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 15 diacritics",
+        "Detected 15 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.748,
+  "page_elapsed_seconds": 3.126,
+  "peak_process_tree_rss_bytes": 318517248,
+  "tesseract_warnings": [
+    "Detected 15 diacritics",
+    "Detected 15 diacritics"
+  ],
+  "processed_this_run": true
+}

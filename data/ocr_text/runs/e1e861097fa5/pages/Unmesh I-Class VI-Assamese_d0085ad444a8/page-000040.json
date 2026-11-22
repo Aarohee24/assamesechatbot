@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অংগ । পৰিয়ালটোৰ সকলো সদস্যৰ সুখ-শাস্তিৰ বাবে আমি আমাৰ চৌপাশৰ পৰিৱেশ সুন্দৰকৈ ৰাখিবই লাগিব।\nপৰিৱেশ ৰক্ষ্সৰ বাবে গছপুলি ৰোপণ হ’ল অন্যতম উপায় । গছে জীৱকুলক আশয়, খাদ্য আদিকে ধৰি বিভিন্ন\nপ্ৰকাৰে সহায় কৰে। পাঠটিত গছপুলি ৰোৱাটো এক উৎসৱ হিচাপে প্রতিপন় কৰিবলৈ প্রয়াস কৰা হৈছে।\n\n(ঘোষকে ক’ব--- মাননীয় ৰাইজ, আজিৰপৰা বন মহোৎসৱ আৰভ হৈছে। আমাৰচুবুৰিৰ মইনাহঁতে  র।\n\nবন মহোৎসৱ কেনেকৈ পালন কৰিবলৈ ওলাইছে এয়া চাওকচোন)                                               ৬,\nপ্ৰথম দৃশ্য\n(পঢ়া কোঠাৰ টেবুলত মননে গুণ্গুণকৈ গান এটা গাই ছবি আঁকি আছে। তেনেতে তাৰ   ৰ\n\n। লগতে ষষ্ঠ শ্ৰেণীত পঢ়া সুমনা আৰু ৰিতুপন সোমাই আহিব!)\n\n=              আছ.\nৰং আহে পাখি মেলিম্ছ                  = এ.\nৰং আহে পাখি মেলি                           ্‌\n\nওলালে সৌ নতুন বেলি\nআহা সবে ৰং মেলালৈ যাওঁ ।\n(সুমনা আৰু ৰিতুপন সোমাই আহে)\n\n8০\n\n< ===",
+  "confidence": {
+    "word_count": 122,
+    "mean": 81.74,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 36 diacritics",
+        "Detected 36 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.698,
+  "page_elapsed_seconds": 3.45,
+  "peak_process_tree_rss_bytes": 285872128,
+  "tesseract_warnings": [
+    "Detected 36 diacritics",
+    "Detected 36 diacritics"
+  ],
+  "processed_this_run": true
+}

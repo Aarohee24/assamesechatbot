@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 60,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ২\nখবৰৰ টোপোলা\n\n৷ দিনে-নিশাই আমাৰ চৌপাশে নানা ধৰণৰ ঘটনা ঘটি আছে। তাৰে দুই-এটাৰ বাদে সকলো ঘটনাৰ খবৰ আমি !\n৷ নাপাওঁ।দেশ- বিদেশৰ বিভিন্ন জনা আৰু নজনা খবৰবোৰ আমাক বাতৰি-কাকতে যোগান ধৰে। ই কেৱল বাতৰিয়েই !\n! ৷ যোগান নধৰে; আমাৰ জ্ঞানো চহকী কৰে। বাতৰি কাকতত প্রকাশিত খবৰৰ টোপোলা এটি চাওঁ আহা--     ্‌\n\nশাওণ মাহ। কেইবাদিনো নেৰানেপেৰাকৈ বৰষুণ দিয়াৰ পাছত আজি ৰ’দ\nওলাইছে। ৰত্নাৰ দেউতাকে বাতৰি-কাকতখন লৈ পিৰালিত বহিছে।৷তেওঁ কাকতখন\nএমূৰৰপৰা পঢ়ি গৈছে। হঠাৎ এটা বাতৰিত তেওঁৰ চকু পৰিল। সেই বাতৰিটোত ৰত্নাৰ\nনামটো দেখি তাইক চিঞৰি মাতিলে--“আইজনী, এইফালে আহাচোন, তুমি পুৰস্কাৰ\nপোৱা বাতৰিটো আজিৰ কাকতত ওলাইছে। আহাচোন,চোৱাহি।।\", তাই উধাতু খাই\nদৌৰি আহিল। ৰত্নাই কাকতখন দেউতাকৰ হাতৰপৰা তুলি ল’লৈ ৷ বৰ আগ্ৰহেৰে তাই\nনিজৰ বাতৰিটো পঢ়িলে। তাই কাকতখনত থকা আন কেইটিম৷ন বাতৰিও পঢ়িলে।\n\nআশ\n\n[লস্সস্ময          স্ৰ্ত্ম স্     সঞলসস্-=             ভ্্মম্য\nৰ\n\n্সসসংসমমমমসসসসসসসসসসসসসসসসসমসমৱসসমমমমসমসসমসজসসসমসসমসজসমসমসসমমসমমসসমসমমমসমমসমমসজসজসসসমসসজসসমমসজসজসস:সসসসমসসসজসসসজসমসজসমসসমমসজসমসসমসজসসসসমসংজসসসসজসংসংসসসৱস সৱ সং;স১\n\nগু দিডিধ৯ড৯৯৮৯9%94559%৬44৯০১০৬%\n\nস্পন্দন ১ | তৃতীয় শ্ৰেণী               ৬০",
+  "confidence": {
+    "word_count": 141,
+    "mean": 81.77,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 24 diacritics",
+        "Detected 24 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.987,
+  "page_elapsed_seconds": 5.252,
+  "peak_process_tree_rss_bytes": 225841152,
+  "tesseract_warnings": [
+    "Detected 24 diacritics",
+    "Detected 24 diacritics"
+  ],
+  "processed_this_run": true
+}

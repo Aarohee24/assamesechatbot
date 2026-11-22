@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী -৩\n\n১) তলৰ প্ৰশ্নবোৰৰ উত্তৰ দিয়া--\n\n‘(ক) সপ্তসিন্ধু বুলিলে ভাৰত উপমহাদেশৰ কোনটো অঞ্চলক বুজোৱা হৈছিল?\n\n(খ) ভাৰত উপমহাদেশ বুলিলে বৰ্তমান কোনটো অঞ্চলক বুজায়?\n\n(গ) অশোকে ভাৰতক বুজাবলৈ শিলালিপিত কোনটো শব্দ ব্যৱহাৰ কৰিছিল?\n\n(ঘ) প্রাচীন গ্ৰীকসকলে ভাৰতক বুজাবলৈ কি শব্দ ব্যৱহাৰ কৰিছিল?\n\n(৬) প্রাচীন চীনাসকলে ভাৰতক কি বুলি কৈছিল?\n\n(চ) ভাৰতৰ কোনটো অঞ্চলক ‘ভাৰতম’ বুলি কোৱা হৈছিল?\n২)ভাৰত’ শব্দটো কিদৰে আহিল বৰ্ণনা কৰা।                                 খং\n৩) ইণ্ডিয়া নামটোৰ উৎপত্তি বৰ্ণনা কৰা।                              //\n\nথাৰণা চিত্ৰ (00160[){ \"19[)) $\n\nঅ বি\n\nপৰিৱাজক        টু          ভ্ৰমি ফুৰা মানুহ\nভাৰতউ          ৰণ              পাকিস্তান,বাংলাদেশ,আফগানিস্তান,ভূটান আৰু নেপালক একেলগে\n\n/ ($ _ (বুজাবলৈ ভাৰত উপমহাদেশ শব্দৰ ব্যৱহাৰ কৰা হয়।\n\nইতিহাস লিখনত সময় গণনা, উৎস আৰু ভাৰতবৰ্ষ",
+  "confidence": {
+    "word_count": 75,
+    "mean": 88.23,
+    "median": 95.32,
+    "minimum": 3.95,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2482,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.011,
+  "page_elapsed_seconds": 3.966,
+  "peak_process_tree_rss_bytes": 304607232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

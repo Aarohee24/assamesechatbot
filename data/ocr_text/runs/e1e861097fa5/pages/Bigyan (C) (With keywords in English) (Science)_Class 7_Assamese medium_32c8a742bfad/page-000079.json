@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 79,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মূল শব্দ (]<6%ছ%ছ01\"09)\n\n(0|1211]108| ০]1811662)                    ((:1\"৬908||1980101])                    (]১|]]\"9108] 011801662)\nৰাসায়নিক বিক্ৰিয়া           দস্তালেপন            মামৰে ধৰা\n\n(0:]1211]108| 16800101])                     (8]%;811198001])                             (]২০0৪90116)\nতোমালোকে কি শিকিলা ('%}}3{ ৮000 ]}3%6০ 16317)\n\n৷৷ পৰিৱৰ্তন দুই ধৰণৰ হ'ব পাৰে, ভৌতিক আৰু ৰাসায়নিক।\n৷৷ পদাৰ্থৰ ভৌতিক ধৰ্মবোৰৰ পৰিৱৰ্তনেই হ’ল ভৌতিক পৰিৱৰ্তন।\n\nএই পৰিৱৰ্তনত কোনো নতুন পদাৰ্থৰ উৎপন্ন নহয়। এই পৰিৱৰ্তনবোৰ উভয়মুখী হ'ব পাৰে।\n৷৷ ৰাসায়নিক পৰিৱৰ্তনত নতুন পদাৰ্থ উৎপন্ন হয়।\n\n৷ স্ফটিকীকৰণৰ দ্বাৰা কিছুমান পদাৰ্থ সিহঁতৰ দ্ৰৱৰপৰা বিশুদ্ধ অৱস্থাত আহৰণ কৰিব পাৰি।\n\nঅনুশীলনী (]' মণ্\"09০৪)\n\n(1) তলৰ প্রক্ৰিয়াবোৰত জড়িত হোৱা পৰিৱৰ্তনবোৰ ভৌতিক আৰু ৰাসায়নিক পৰিৱৰ্তন হিচাপে\nশ্ৰেণীবিভাজন কৰা।\n\n(৪) সালোকসংশ্লেষণ\n\n(৮) পানীত চেনি দ্ৰৱীভূত কৰাটো\n\n(০) কয়লাৰ দহন\n\n(৫) মমৰ গলন।\n\n(০) এলুমিনিয়াম ধাতু কোবাই এলুমিনিয়ামৰ পাত তৈয়াৰ কৰাটো।\n\n()) খাদ্যৰ পাচন ক্ৰিয়া\n(2) তলৰ উক্তিবোৰ সঁচা নে মিছা উল্লেখ কৰা। যদি কোনো উক্তি মিছ| হয়, শুদ্ধ উক্তিটো তোমাৰ\n\nবহীত লিখা ৷\n\n(8) কাঠ এডাল কাটি টুকুৰা টুকুৰ কৰাটো ৰাসায়নিক পৰিৱৰ্তন। (সঁচা/মিছা)\n\n(৮) পাতৰ পৰা সাৰ প্রস্তুত হোৱা প্রক্ৰিয়াটো এটা ভৌতিক পৰিৱৰ্তন। (সঁচা/মিছা)\n\n(০) দস্তালেপিত লোৰ নলীত সহজে মামৰে নধৰে। (সঁচা/মিছা)\n\n(0) লো আৰু মামৰ একেবিধ পদাৰ্থ। (সঁচা/মিছা)\n\n(০) জলীয় ভাপ ঘনীভূত হোৱাটো ৰাসায়নিক পৰিৱৰ্তন নহয় (সঁচা/মিছা)\n\n65",
+  "confidence": {
+    "word_count": 178,
+    "mean": 84.35,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.783,
+  "page_elapsed_seconds": 3.015,
+  "peak_process_tree_rss_bytes": 300068864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

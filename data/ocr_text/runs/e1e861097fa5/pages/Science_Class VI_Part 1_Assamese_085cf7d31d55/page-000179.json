@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 179,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পদাৰ্থ কি? উদাহৰণসহ ব্যাখ্যা কৰা।\nকি দুটা ধৰ্মৰ সহায়ত আমি ক’ব পাৰো যে শিল এবিধ পদাৰ্থ?\nচাৰিবিধ দ্রব্যৰ নাম লিখা যাৰ সহায়ত গিলাচ তৈয়াৰ কৰিব পাৰি।\nজ্যোতি কি?\nতলৰ বাক্যবোৰ শুদ্ধনে অশুদ্ধ লিখা।\n\n(৪) কাঠ স্বচ্ছ, কিন্তু কাচ অস্বচ্ছ ।\n\n(৮) কাঠৰ গুড়ি পানীত দ্ৰৱীভূত হয়।\n\n(০) পানীত নিমখ দ্ৰৱীভূত হয়।\n\n(0) কাঠৰ টুকুৰা পানীত ওপঙে।\n\n(০) নাৰিকলৰ তেল পানীত দ্ৰৱীভূত হয় ।\n\n()) গ্লিছাৰিন পানীত দ্ৰৱীভূত হয়।\n\n(৪) তাম আৰু লো জ্যোতিমান দ্ৰব্য।\n\n(})) বায়ু স্বচ্ছ।\n\n8. তলত দিয়া বস্তুবোৰৰ লগত দ্রব্যবোৰৰ মিলোৱা, যিবোৰৰ পৰা বস্তুটো তৈয়াৰ কৰা হয়?\nবস্তু\n\nদ্ৰব্য\n\nটোকা বহী                             কপাহ\nকাঠ\nকাচ\n\nত *%* তড\n\nগজাল\nচকী\nগিলাচ     কাগজ\n\nসূতা                      লো\n\n9. প্লীষ্টিকেৰে তৈয়াৰী পাঁচবিধ বস্তুৰ নাম লিখা।\n\n10. খালী ঠাই পূৰ কৰা -\n1) একেটা বস্তু বিভন্ন ____ৰে গঠিত হ'ব পাৰে।\n}}) বস্তুবোৰক ভাগ কৰা পদ্ধতিটোক        বুলি কোৱা হয়।\n}}}) বস্তু এটাত থকা পদাৰ্থৰ পৰিমাণেই হ’ল বস্তুটেৰ - |\n]ঘ) বস্তু এটাই যিমান ঠাই আগুৰে সেয়ে বস্তুটোৰ ।\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,র",
+  "confidence": {
+    "word_count": 168,
+    "mean": 80.83,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.667,
+  "page_elapsed_seconds": 2.978,
+  "peak_process_tree_rss_bytes": 297664512,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

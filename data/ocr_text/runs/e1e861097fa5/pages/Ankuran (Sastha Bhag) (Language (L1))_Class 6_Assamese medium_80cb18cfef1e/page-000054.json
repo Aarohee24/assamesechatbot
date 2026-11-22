@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 54,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৭) শব্দবোৰৰ স্বৰসন্ধি, ব্যঞ্জনসন্ধি আৰু বিসৰ্গসন্ধি নিৰ্ণয় কৰি তালিকাভুক্ত কৰা।\n\nউদ্‌গতি (উৎ + গতি)                   সংস্কৃত (সম্‌ + কৃত)\n\nজনৈক (জন + এক)         গঙ্গোৰ্মি (গঙ্গা + উৰ্মি)\n\nপ্রত্যুত্তৰ (প্রতি + উত্তৰ)     লোকাচাৰ (লোক + আচাৰ)\n\nদেৱেশ্বৰ (দেৱ + ইশ্বৰ)      নিস্বাৰ্থ (নিঃ + স্বাৰ্থ)\n\nদুৰ্নীতি (দুঃ + নীতি)       উল্লাস (উৎ + লাস)\n\nপ্রত্যেক (প্রতি + এক)                তপোবন (তপঃ + বন)\nস্বৰসন্ধি          ব্যঞ্জনসন্ধি৷         বিসৰ্গসন্ধি\nজনৈক            উদ্‌গতি            দুনীতি\n\n৮) পাঠত সুস্বাদু আৰু সুমিষ্ট শব্দ দুটা আছে। এনেধৰণৰ ‘সু’ উপসৰ্গযুক্ত পাঁচটা শব্দ লিখি\nউলিওৱা।\n\nগ --- জ্ঞান সম্প্ৰসাৰণ\n\nজানো আহা\n\n‘মিত্ৰামিত্ৰ'ক ‘নাট’ নুবুলি ‘নাটিক|” বোলা হৈছে। ‘নাটিকা’ হ’ল ‘নাট’ৰ ক্ষুদ্ৰ ৰূপ।‘নাট’ত থকা\nপূৰ্ণ আখ্যান বা কাহিনীৰ পৰিৱৰ্তে ‘নাটিকা’ত খণ্ডিত কাহিনী বা ঘটনাৰ বিকাশ ঘটোৱা হয়।\nনাট+ইকাস্নাটিকা ৷ এনেদৰে-‘-ইকা’ প্রত্যয়যুক্ত ৰূপবোৰে ক্ষুদ্ৰত্ব বুজায়। আমি আমাৰ ব্যাৱহাৰিক\nজীৱনত এনে ক্ষুদ্ৰাৰ্থবোধক শব্দ প্রায়ে পাই থাকৌ।\n\n৯) তলত দিয়া শব্দবোৰৰ ক্ষুদ্ৰাৰ্থবোধক ৰূপবোৰ লিখি অৰ্থ উল্লেখ কৰা।\nকণ - কণিকা, ক্ষুদ্ৰকণা, সৰু সৰু টোপাল।  মণি-\nপুস্তক-                 কথা-\nপত্ৰ-                  লতা-",
+  "confidence": {
+    "word_count": 149,
+    "mean": 89.55,
+    "median": 93.28,
+    "minimum": 25.28,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.178,
+  "page_elapsed_seconds": 3.589,
+  "peak_process_tree_rss_bytes": 254902272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

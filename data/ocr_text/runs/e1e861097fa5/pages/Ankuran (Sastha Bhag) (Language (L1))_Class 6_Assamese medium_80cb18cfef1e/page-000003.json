@@ -1,0 +1,68 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 3,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "হি\n\n৷\" অংকুৰণ\n\n(পাঠ্য তথা অভ্যসন পুথি)\nষষ্ঠ শ্রেণীৰ বাবে\n\nপ্ৰস্তুতকৰ্তা\n\nনাম  ভ্্ভীৰভককভতভকভতকভভতকভকভভতভীভভভভকভভভভকীভকভভকতভকভতকভতভকভকভতভকভভভভ ভকত ভক ভকৰ ভকতক ভকত কভতভকভতকভভকভকভভতকভ ভকত কভতভকভকভতভকভতভভীভকভতভভতভকতকীকভকভভী ভকত ভকত ভকত ভভভতকভভী ভকত কভতভকভতকভতভকভককতকতত\n(শ্রেণী ও৬৮০০৬৪০০০৬৩৬৬৩৩০০০৩০৩৮৩০০৪৩০০০৩০০৩৩০৪০৩০০৮৩০৩০৪৩শাখা ৬৩০৩৬৬৩০৬৩৩৬০০৪৬৪০৩৩০৬৪০০৬৩৩০০০০০৩৩৩৩০০০৩ ৰোল নম্বৰ ৩ক০৬৩৩০০৬০০০০৬০৩৬০৬৩৬ক৩৬৩৩০৩৬০০০%০০৩\nওতজও০৮৩ত৬ততভভওৱওভ০ত০০৩তভভতহওচতততত৪ওতততৱতচ৬ততত৬ত৬৩৩৪ত৩তততত৬৭৩তড৪৩৬০৩ত০৩৩৫৫০৪০৩৩৩০০৩০৩তত৮ চন ও৩৫৪৪০৩০০৪৩ত৬৩৪৩৪৬৬৬০ত৪৩ত০৩৪০৩০ত০ত৪০৩০০২৫৩\n\nৰ\n\nশিক্ষা (প্ৰাথমিক) বিভাগ, অসম চৰকাৰ",
+  "confidence": {
+    "word_count": 43,
+    "mean": 46.55,
+    "median": 43.54,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9944,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 7 diacritics",
+        "Detected 7 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.947,
+  "page_elapsed_seconds": 3.446,
+  "peak_process_tree_rss_bytes": 274673664,
+  "tesseract_warnings": [
+    "Detected 7 diacritics",
+    "Detected 7 diacritics"
+  ],
+  "processed_this_run": true
+}

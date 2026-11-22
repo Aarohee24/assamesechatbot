@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত            ১৭\n\nপ্র £-- গরগরা করা কি?\n\nউ £-_ ওজুও গোছলে গরগরা করা ছুম্নত। কিন্তু রোজা অবস্থায় করিতে\nনাই। গরগরার জন্য ডানহাত দ্বার্লা কুল্লি করিতে হয়।\n\nপ্ৰ $-- নাকের ভিতৱরে পানী ঢালার পদ্ধতি কি র্লাপ?\n\nউ £-=- ডান হাতে পানী লইয়া নাকের ভিতৱরে ঢালিবে এবং স্বাসের\nসাহায্যে জলকে উপর দিকে উঠাইয়া লয়। কিন্তু এত টুকু নিক্ষেপ করিতে\nহুইবেনা যাহাতে মস্তিদ্ক পৰ্যন্ত অল উঠিয়া যায়। বলোজাদার ব্যক্তি শুধু হাত\nদ্বারা নাকের ভিতরে জল পৌছাইবে। শ্বাস দ্বারা জল উপরে উঠাইবেনা। অজুর\nমযোে কুল্সি করা নাকের মধ্যে জল দেওয়া ছুন্নতে মোরাক্কাদা।\n\nপ্ৰ £-- দাড়ীর কোন অংশ খেলাল করা সুন্নত?\n\nউ £-- দাড়ীর নীচের এবং আভ্যস্তীণ কেশগুলী খেলাল করা সুন্নত।\nএবং যে কেশগুলী মুখমণ্ডলের চমের সহিত জড়িত এইগুলী ধৌত করা\nফরজ।\n\nপ্ৰ $_- আঙ্গুলিগুলি কিভাবে খেলাল করিতে হয়?\n\nউ ঃ--_ হাতের আঙ্গুলি এইভাবে খেলাল করিতে হহইরে যে এক হাতের\nআদঙ্গুলিগুলি আঙ্গুলির মধ্যে ঢুকাইয়া নড়াচড়া করিতে এবং পায়ের আঙ্গুলিগুলি\nহাতের কনিষ্ঠ অঙ্গুলি দ্বারা খেলাল করিতে হইবে। এবং ডান পায়ের কনিষ্ঠ\nআঙ্গুলি হইতে আতরুম্ভ করিয়া বাম পায়ের কনিষ্ঠ আঙ্গুলি পৰ্যন্ত ক্ৰমান্বয়ে\nখেলাল করিতে হইবে।\n\nপ্ৰ £-_- সমগ্ৰ মাথাল কি ভাবে মুছ্হ করিতে হয়?\n\nউ ঃ--_- উভয় হাত জল দ্বারা সিক্ত কনর্লিয়া মাথার উভয়দিকে কপালের\nকেশের জায়গার উপর রাখিতে হইবে এবং হাতের পাতাকে আঙ্গুলিসহ পিছন\nদিকে মাথার মিশ্নভাগ পৰ্যন্ত লইয়া যাইতে হইবে এবং লক্ষ্য র্রাখিতে হইবে\nযে সমগ্ৰ মাথার উপর হাত চালু হইয়াছে।\n\nপ্র £-_ কৰ্ণদ্বয় মুছেহ করার জন্য নৃতন জল লইতে হইবে কি নাঃ\n\nউ ঃ-- না, মাথা মুছেহ করিবার জন্য যে জল লণ্ডয়া হইয়াছিল কাণ\nমুছেহের জন্য তাহাই যথেষ্ট। কাণের আজ্যন্তরীণ ভাগ আঙ্গুলির দ্বারা মুছেহ\nকরিতে হয়। কাণের বহিৰ্ভাগ বৃদ্ধ আঙ্গুল দ্বানা মুছেহ করিতে হয়।",
+  "confidence": {
+    "word_count": 260,
+    "mean": 82.56,
+    "median": 91.25,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.764,
+  "page_elapsed_seconds": 2.96,
+  "peak_process_tree_rss_bytes": 247242752,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 135,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১. তলৰ প্রশ্নবোৰৰ উত্তৰ দিয়া--\n\n(ক) তৰাজান গীৱৰ লোকসকলে কিদৰে জীৱন-নিৰ্বাই কৰে ?\n\n(খ) তোমাৰ গাঁও অথবা চহৰত সৰ্বাধিক প্রচলিত অৰ্থনৈতিক কামৰ উদাহৰণ দিয়া।\n\n(গ) তুমি আৰু তোমাৰ পৰিয়ালৰ লোক জড়িত থকা অন্ততঃ তিনিটা অৰ্থনৈতিক কাৰ্য লিখা।\n২. অৰ্থনৈতিক কাৰ্য আৰু অনা-অৰ্থনৈতিক কাৰ্যৰ মাজত থকা পাৰ্থক্য কি? প্ৰত্যেকটো কাৰ্য\n\nউদাহৰণমসহ ব্যাখ্যা কৰা।\n৩. তোমালোকৰ নিজৰ এলেকাত প্ৰচলিত অন৷-অর্থনৈতিক কাৰ্যৰ এটা উদাহৰণ দিয়া। সেই কাৰ্যটোক কিয়\n\nঅনা-অৰ্থনৈতিক কাৰ্য হিচাপে বিবেচনা কৰা হৈছে? সমাজৰ কল্যাণৰ হকে সেই কাৰ্যই কি অৰিহণা\nযোগাব লিখা।\n\n১৫.১.১ প্রাথমিক খণ্ড ঃ\n\nধান, মাহ আদি শস্য, গছ-গছনি, ফলমূল আদি। কিছুমান বস্তু জীৱ-জস্তুৰপৰা পোৱা যায়, যেনে, মাছ, মাংস,\nগাখীৰ আদি। কয়ল৷, খনিজ তেল আদিৰ দৰে অন্য বহুতো প্রয়োজনীয় বস্তু ভূ-গৰ্ভৰপৰা আহৰণ কৰা হয়। এই\n\nসম্পদসমূহ প্রকৃতিৰপৰা প্রত্যক্ষভাৱে উপলব্ধ হোৱাৰ বাবেই প্ৰাথমিক খণ্ডৰ অন্তর্ভুক্ত। প্রকৃতিৰপৰা পোৱা\nবস্তুবোৰক অৰ্থনীতিত প্রাথমিক সম্পদ বুলি কোৱা হয়। কাৰণ প্ৰায়বিলাক বস্তুৰ উৎপাদনৰ ভিত্তি বা উৎস হৈছে\nপ্রকৃতি। আদিতে দৈনন্দিন জীৱনত ব্যৱহৃত খাদ্য বস্তু আৰু প্রয়োজনীয় সামগ্ৰীসমূহ প্রকৃতিৰ পৰা আহৰণ কৰাৰ\nক্ষেত্ৰত কিছু সীমাবদ্ধতা আছিল। বিজ্ঞান আৰু প্ৰযুক্তিবিদ্যাৰ প্ৰসাৰৰ লগে লগে এইবোৰ আহৰণ কৰাৰ বিভিন্ন\nউপায় উদ্ভাৱন হ’ল আৰু নতুন নতুন সামগ্ৰীৰ প্রচলন হ’বলৈ ধৰিলে, যেনে, কৃষিজাত সামগ্ৰী, দুগ্ধজাত দ্রব্য,\nমৎস্য উৎপাদন, বনজ সম্পদ ইত্যাদি।\n\n১২৩",
+  "confidence": {
+    "word_count": 190,
+    "mean": 90.13,
+    "median": 94.93,
+    "minimum": 35.7,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.413,
+  "page_elapsed_seconds": 3.899,
+  "peak_process_tree_rss_bytes": 288575488,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

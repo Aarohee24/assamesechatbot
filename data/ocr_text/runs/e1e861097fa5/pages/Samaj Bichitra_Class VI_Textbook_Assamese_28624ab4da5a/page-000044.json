@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 44,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 8৪.২ ঃ এন্টাৰ্জটিকাত থকা ভাৰতৰ মৈত্ৰী গৰেষণা কেন্দ্ৰ\n\n১. তলৰ প্রশ্নবোৰৰ উত্তৰ দিয়া-\n\n(ক) পৃথিৱীৰ মহাদেশবোৰৰ নাম কি কি?\n(খ) সম্পূৰ্ণৰূপে দক্ষিণ গোলাৰ্ধত পৰা মহাদেশখনৰ নাম কি?\n(গ) পৃথিৱীৰ দীৰ্ঘতম পৰ্বতমালাৰ নাম কি?\n(ঘ) পৃথিৱীৰ আটাইতকৈ ডাঙৰ মৰুভূমি কোনখন?\n(৬) পৃথিৱীৰ আটাইতকৈ দীঘল নদীখনৰ নাম কি?\n(চ) পৃথিৱীৰ আটাইতকৈ বহল নদীখনৰ নাম কি?\n(ছ) পৃথিৱীৰ আটাইতকৈ ডাঙৰ মহাদেশখনৰ নাম কি?\n২. চমুটোকা লিখা-\n(ক) এছিয়া মহাদেশ (খ) ইউৰোপ মহাদেশ\n(গ) আফিকা মহাদেশ (ঘ্ব) উত্তৰ আমেৰিকা\n\n৪.২ এছিয়া মহাদেশত          লাব\nপূব সীমাত অৱস্থিত জাপান    ১\nএখন বিশেষ দেশ৷ এই / '; ৬,\nদ্বীপৰ সমষ্টি। তাৰ ভিতৰত =.\n\nহ’কাইডো       1০০০)                                        সু\nহন্ছু (]]0109|]0),                  টু         ৰ\n\n(91100) আৰু   তে\n\n(0800) -এই চাৰিটা দ্বীপ         7\n\nপ্রধান। দেশখনৰ দ্বীপসমূহৰ | সাংকেতিক চিহ্ন\nতোকৈ ডাঙৰ (মাটি      চিত্ৰ ৪.৩ এছিয়া মহাদেশত জাপান\n\n              দেশ-মহাদেশৰ কথা ঃ জাপান",
+  "confidence": {
+    "word_count": 130,
+    "mean": 83.14,
+    "median": 92.69,
+    "minimum": 3.45,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 42 diacritics",
+        "Detected 42 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.808,
+  "page_elapsed_seconds": 3.249,
+  "peak_process_tree_rss_bytes": 316358656,
+  "tesseract_warnings": [
+    "Detected 42 diacritics",
+    "Detected 42 diacritics"
+  ],
+  "processed_this_run": true
+}

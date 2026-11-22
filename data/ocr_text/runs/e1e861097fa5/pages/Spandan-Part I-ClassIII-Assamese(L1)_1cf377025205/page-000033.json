@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "==                ( জ্ঞানসম্প্ৰাৰণ _)\n//\" ৫।পাঠটোত পোৱা মাছ তিনিবিধৰ বাহিৰে আন কি কি মাছৰ নাম জানা লিখা আৰু\nসেইবোৰ বাকলি থকা আৰু বাকলি নথকা হিচাপে ভাগে ভাগে লিখা।\n\nমাছবোৰৰ নাম       বাকলি থকা         বাকলি নথকা\nৰ ৬। উত্তৰ লিখা ---\n(ক) সৰুকণে মাছ ধৰিবলৈ বৰশী লৈ গৈছিল। বৰশীৰ বাহিৰে আৰু কিকি সঁজুলিৰে\nমাছ ধৰিব পাৰি?\n(খ) বগলীৰ বাহিৰে আন কি কি চৰায়ে মাছ ধৰি খায়?\n\n223 ৭। তলত দিয়া দফাটো পঢ়া আৰু সিপিঠিত দিয়া প্ৰশ্নবোৰৰ উত্তৰ লিখা--\n\nআজি বৰ ঠাণ্ডা পৰিছে।\nছাত্ৰ-ছাত্ৰীসকলে আজি ৰ’দত বহি >\nখোৱাৰ কথা আলচ কৰিছে। এনেতে লি\nবিৰতিৰ ঘণ্টা বাজি উঠিল । সকলোৱে\nশ্ৰেণীকোঠাৰপৰা শাৰীপাতি ওলাই\nধুই ল’লে,।তাৰ পাছত মধ্যাহ্ন ভোজনৰ ৷\nবাবে তেওঁলোক,ৰূ’দত বহি ল’লে।\n\nআজিৰংখাদ্য-তালিকাত নু.\nআছে। সেইবাবে ৰান্ধনীয়ে ‘পোষণ _\nবাগিচা’ৰ পৰা পুৰৈ শাক, ভেণ্ডি আৰু ধুন্দুলি আদি আনি ৰান্ধিছে। সকলোৱে মিলি শাক,\nকি? এই কথাটো তেওঁলোকে বিজ্ঞানৰ শিক্ষকক সুধিবলৈ থিৰাং কৰিলে। এনেতে\nটংটংকৈ শ্ৰেণী:ঘণ্টাটো বাজি উঠিল।\n\nঅধ্যায় ২৪% খাদ্য",
+  "confidence": {
+    "word_count": 147,
+    "mean": 87.09,
+    "median": 95.66,
+    "minimum": 17.01,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.881,
+  "page_elapsed_seconds": 5.0,
+  "peak_process_tree_rss_bytes": 217739264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

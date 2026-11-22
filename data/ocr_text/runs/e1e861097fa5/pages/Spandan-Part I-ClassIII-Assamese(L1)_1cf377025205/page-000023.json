@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 23,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "= জেনননন)     টি\n\nৰ -১৷ আলোচনা কৰোঁ আৰু লিখোঁ আহা -_\nক) ভেবেলাই কি দোমাহীত শহুৰেকৰ ঘৰলৈ বুলি ওলাইছিল?\nখ) ভেবেলাই কেতিয়া শহুৰৰ ঘৰ পাইছিল?\nগ) ভেবেলাই শহুৰ-শাহুয়েকক আঁতি-গুৰি মাৰি কি কৈছিল?\nঘ) ভেবেলাই টিঙনা-ঘৰত কিয় সোমোবলগীয়া হৈছিল?            ৷\n\nৰ ২।তলৰ প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 2 চিনটো প্ৰ কৰা।\n* ভেবেলাই--\n(ক) টেকেলিৰ পানী খাইছিল।\n(খ) লোটাৰ পানী খাইছিল।\n(গ) বাটিৰ পানী খাইছিল।             |\n(ঘ) কলহৰ পানী খাইছিল।            ১) ঞে) প্লে) মদে)\n* ভেবেলাই দোমাইত শহুৰেকৰ ঘৰলৈ যাওঁতে ভাৰব্ৰান্ধি কি কি নিছিল?\n(ক) দৈৰ টেকেলি আৰু,গুৰৰ টেকেলি\n(খ) দৈৰ টেকেলি আৰুকলৰ আযব়ি\n\n(গ) গুড়ৰ টেকেলি: আৰু কলৰ আষি\n\n(ঘ) গুড়ৰ,ট্রকেলি আৰু গানীৰ কলহ       কে) ঞে) গে) থ্বে)\nঠঠ ৩।৷ তলৰ যিটো বাক্যই কাষৰ বাকচত দিয়া পদ্যত ব্যৱহাৰ হোৱা বাক্যাংশৰ অৰ্থ প্ৰকাশ কৰিছে,\n\nতাৰ'লগত মিলোৱা।\nঙ বান্দৰটো চকুৰ পচাৰতে গছত উঠিল।           (৬ ক’লে আঁতি-গুৰি মাৰি)\nঙ শিক্ষকে পাঠটো আদিৰ পৰা অন্তলৈ বুজাই দিলে।     (৬ ভাৰ কৰিনিলে _)\n৬ খেতিয়কজনে কাণ-মাৰিৰে ডাঙৰি কঢ়িয়াইছে।      (৬ একে কোবে গৈ _)\n৬ বাটৰুৱাজনে সন্মুখত বাঘ দেখি আচৰিত হ’ল।      (৬ পেট ধৰিলে টানি _)\n\n৬ ভোজত দঁকচি খাই কণবাপু গেৰেউ-গেঁথেউ হ’ল।    (* হেৰাল মুখৰ মাত _)\n\nঅধ্যায় ২ঃ খাদ্য",
+  "confidence": {
+    "word_count": 185,
+    "mean": 80.34,
+    "median": 92.26,
+    "minimum": 1.09,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.381,
+  "page_elapsed_seconds": 5.467,
+  "peak_process_tree_rss_bytes": 232099840,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

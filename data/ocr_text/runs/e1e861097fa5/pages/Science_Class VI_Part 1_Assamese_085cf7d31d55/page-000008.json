@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 8,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১, ডিজিটেল বিষয়বস্তু ডপলৰ্ধ৷\n৬  কৰিবলৈ কেনেদৰে  ণ্)\n\n01517/% ()1[ং ('006 ব্যৱহাৰ কৰিব  [| 'ম্ভভাভে\n\n০ =\n\n[ ‘=\n> 2০959৷০৮৪%\n॥২5170.9০%৬.17/0}}                                                          ৬\nলা                                                                      ১ / =\nআপোনাৰ মোবাইলৰ ব্ৰাউজাৰত 0119118.80%.[] টাইপ                       00812 [2]8%.১০0016 ত [)[|<৯][1/, 936810]) কৰক আৰু\nকৰক আৰু 18]) 60001} স্পৰ্শ কৰক ।\n\n/])]) টো ডাউনলড কৰিবলৈ ]1198]] 1300001৷ টো স্পৰ্শ কৰক\n\nমোবাইলত 00]২ং €:006 ব্যৱহাৰ কৰি কেনেকৈ ডিজিটেল বিষয়বস্তু ডপলব্ধ কৰিব পাৰি\n\n{ ০==    ষ\n\n'৬৬০100776 0 0]1518/%\n00005 ০৬৮ সিডজিনও৫ (3790396\n\nভোগা ৭                                                                                                                                 হা\n[1;                                                                                              |                       ৰ €6 ,)\nঅগ্ৰাধিকাৰ দিয়া           আপোনাৰ ভূমিকা        োং 2006 ১০৪]         প্ৰৱেশ অনুমোদন পাঠ্যপুথিৰ 01২ 000০ত 00]ং 0:006 সম্পৰ্কিত\nভাষাটোক নিৰ্বাচন কৰৰ বাছনি কৰক- ছাত্ৰ) কৰিবলৈ 01২ ক’ড্ৰ\n\nকৰক আৰু এপ          080100618, কেন্দ্ৰীভূত/ হৈ থকা বিষয়বস্তু প্ৰদৰ্শন\n\nশিক্ষক/অন্য   আইকনটোত স্পৰ্শ কৰক ব্যৱহাৰৰ অনুমতি দিয়ক দৃষ্টিপাত (}\"0009) কৰক কৰিবলৈ ক্লিক কৰক\n\n12691000]) অত 0)|ং €:006 ব্যৱহাৰ কৰি ডিজিটেল বিষয়বস্তু কেনেদৰে উপলব্ধ কৰিব পাৰি\n\n$\n07590802                ৰন |                       জীল                                ত\n\n0]২ং €:006ৰ তলত আপুনি ছটা        আপোনাৰ ব্ৰাউজাৰত         ৬ অংকৰ ডায়েল ক’ডটো        ডপলৰ্ধ বিষয়বস্তুৰ তালিকা\nঅংকৰিশিষ্ট সংখ্যাটো                  [10005://9145110.92০%.1/05/021             আপোনাৰ [)6910.0])ৰ                       নিৰীক্ষণ কৰক আৰু নিজৰ\n(ডায়েল কোড) দেখিব                         টাইপ কৰক\n\nচাৰ্চৰাৰডালত লিখক       পছন্দৰ বিষয়বস্তুত ক্লিক কৰক",
+  "confidence": {
+    "word_count": 182,
+    "mean": 65.53,
+    "median": 88.39,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.844,
+  "page_elapsed_seconds": 4.462,
+  "peak_process_tree_rss_bytes": 272781312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

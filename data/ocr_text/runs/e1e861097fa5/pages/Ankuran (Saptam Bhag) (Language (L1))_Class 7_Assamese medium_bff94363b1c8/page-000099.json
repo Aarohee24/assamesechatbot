@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 99,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৫। যিকোনো শুভ কাৰ্য বা অনুষ্ঠানৰ শুভাৰম্ভ এজোপা গছপুলি ৰোপণেৰে কৰিব পাৰি।\nতোমালোকে জন্মদিনৰ দিনাও একোটিকৈ গছপুলি ৰোপণ কৰিবা। জন্মদিনৰ বাহিৰে\nআৰু কি কি শুভদিনত গছ ৰোপণ কৰিব পাৰি দলত আলোচনা কৰি এখন আঁচনি\n(পৰিকল্পনা) প্রস্তুত কৰা।\n\nগছপুলি ৰোপণ কৰা আঁচনি --\nতাৰিখ           উৎসৱ/উপলক্ষ্য\nঘ-- প্রকল্প\n১৬। তুমি থকা ঠাইখনৰ ওচৰে-পাজৰে থকা গছএছনিবোৰৰ নামৰ এখন তালিকা প্রস্তুত\nকৰা। যদি তোমালোকৰ ওচৰত গছবোৰ নাথাকিলেহেঁতেন, তেতিয়া কেনেকুৱা\nহ’লহেঁতেন দলত আলোচনা কৰি লিখা।\n\n১৭। গছ সংৰক্ষণৰ বাবে পাঁচটা শ্লোগান প্ৰস্তুত কৰ৷।\n\n১৮। ড‘ণ ভবেন্দ্ৰনাথ শইকীয়াই ৰচন৷ কৰা শিশু-সাহিত্যসমূহ আৰু তেওঁ পৰিচালনা কৰা\nকথা ছবিৰ নাম সংগ্ৰহ কৰি এখন তালিকা প্রস্তুত কৰা।\n\nঞ  ছাত-ছাতীক দলীয়ভাৱে ফ্লোগানসমূহ প্রভত কৰাত সহায় কৰিব।",
+  "confidence": {
+    "word_count": 106,
+    "mean": 87.47,
+    "median": 93.52,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 1.979,
+  "page_elapsed_seconds": 2.186,
+  "peak_process_tree_rss_bytes": 291024896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

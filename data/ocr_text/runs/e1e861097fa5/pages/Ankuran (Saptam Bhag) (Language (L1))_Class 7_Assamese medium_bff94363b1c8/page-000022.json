@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা--\n\n৷ % জীয়েক-জোঁৱায়েকে কাপোৰখন সযত্লে ৰাখিলে ।\n\n৷ 5৯% এটা মন্ত্ৰ নপঢ়াকৈ কাপোৰখনত কোনোবাই হাত দিলে চকুৰ পচাৰতে সি!\nচৰাইলৈ ৰূপান্তৰিত হ’ব।                  }\n\n% জীয়েক আৰু জোঁৱায়েক ঘৰৰ গৰাকী হ’ল।                ্‌\nওপৰৰ বাক্য কেইটাত ডাঙৰ হৰফৰ পদকেইটাই কিবা কাম (কাৰ্য) হোৱা বা কৰ\nবুজাইছে।\n\nএনেদৰে--                                     |\nযি পদে কোনো কাম (কাৰ্য) সম্পাদন কৰা বা নকৰা বুজায় তাক ক্ৰিয়াপদ বোলে\n\nক্ৰিয়াপদ দুবিধ ঃ সমাপিকা আৰু অসমাপিকা ক্ৰিয়া।\nযি ক্ৰিয়াই বাক্য সম্পূৰ্ণ কৰে, তাক সমাপিকা ক্ৰিয়া বোলে। যেনে--\n(১) জীয়েক-জোঁৱায়েকে কাপোৰখন সযত্নে ৰাখিলে।\n(২) এটা মন্ত্ৰ নপঢ়াকৈ কাপোৰখনত কোনোবাই হাত দিলে চকুৰ পচাৰতে সি\nচৰাইলৈ ৰূপান্তৰিত হ’ব।\nওপৰৰ বাক্যটোত ডাঙৰ হৰফেৰে লিখা ‘নপঢ়াকৈ’ আৰু ‘দিলে’ পদদু\nসম্পূৰ্ণ অৰ্থ প্ৰকাশ কৰিব পৰা নাই।                       ৷\nএনেদৰে, যি ক্ৰিয়াই বাক্যৰ অৰ্থ সম্পূৰ্ণ কৰিব নোৱাৰে, সেই ক্ৰিয়াক অসমাপিৰ\nক্ৰিয়া বোলে।\n\n৬। - পাঠটো ভালদৰে পঢ়ি দুটাকৈ সমাপিকা আৰু অসমাপিকা ক্ৰিয়াযুক্ত বাক্য বাকচটোত\nভৰোৰ৷।",
+  "confidence": {
+    "word_count": 139,
+    "mean": 85.16,
+    "median": 93.19,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.501,
+  "page_elapsed_seconds": 2.809,
+  "peak_process_tree_rss_bytes": 289681408,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

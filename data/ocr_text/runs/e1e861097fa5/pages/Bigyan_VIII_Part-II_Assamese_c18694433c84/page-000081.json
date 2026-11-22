@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 81,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জ্ৰিয়াকলাপ 12.38\n\nলেন্স নতুবা এটা অণুৱীক্ষণ যন্ত্ৰ ব্যৱহাৰ\nকৰি সেইবোৰ পৰ্যৱেক্ষণ কৰা। হাইড্ৰাৰ\nদেহৰ পৰা ওলাই অহা যিকোনো\nউখহা অংশবোৰ চোৱা। বিভিন্ন\nশ্নাইডত তোমালোকে দেখা উখহা\nঅংশবোৰৰ সংখ্যা গণনা কৰা আৰু\nউখহা অংশবোৰৰ আকাৰ লিখি ৰাখা।\nতোমালোকে হাইড্ৰাৰ ছবি যেনেদৰে\nদেখিছা সেইদৰে আঁকা। চিত্ৰ -|12.11ৰ\nসৈতে ইয়াক তুলনা কৰা।\n\nপ্রতিটো হাইড্রাত এটা বা বহুত উখহা অংশ\nথাকিব পাৰে। সেইবোৰ উখহা অংশৰ পৰা নতুন\nজীৱৰ বিকাশ হয় আৰু সেইবোৰক মুকুল বোলে।\nইষ্টৰ মুকুলৰ কথা মনত পেলোৱা। হাইড্ৰাৰ মুকুলৰ\nপৰাও একক পিতৃ বা মাতৃ মুকুলৰ পৰা নতুন জীৱৰ\nবিকাশ হয়। একক পিতৃ বা মাতৃৰ পৰা হোৱা এই\nধৰণৰ প্রজননক অযৌন প্রজনন বোলে। যিহেতু\nহাইড্ৰাৰ মুকুলৰ পৰা নতুন জীৱৰ বিকাশ হয়। সেয়েহে\nএইধৰণৰ অযৌন প্রজননক মুকুলন বোলে।\n\nঅযৌন প্ৰজননৰ আন এটা পদ্ধতি এমিবাত\nদেখা যায়। এইটো কেনেকৈ হয় আমি চাওঁ আহা।\n\nতোমালোকে ইতিমধ্যে এমিবাৰ গঠনৰ বিষয়ে\nশিকিছা। মনত পেলোৱা যে এমিবা এটা এককোষী\nজীৱ [চিত্ৰ 12.12 (৪0)]। কোষকেন্দ্ৰটো দুটা\nকৌোষকেন্দ্ৰত বিভক্ত হৈ প্ৰজনন প্ৰক্ৰিয়াটো আৰম্ভ কৰে\n[চিত্র 12.12 (০)] ৷ ইয়াৰ পিছতে দেহটো দুটা ভাগত\nবিভক্ত হয়, প্ৰতিটো অংশই এটা কোষকেন্দ্ৰ গ্ৰহণ কৰে\n[চিত্ৰ 12.12 (০)]। শেষত এটা পিতৃ এমিবাৰ পৰা\nদুটা এমিবাব সৃষ্টি হয় [চিত্ৰ 12.12 (0)]।\n\nচিত্ৰ 12.11 হাইড্ৰাৰ মুকুল\n\n(৪)\n\n(0)\n\n(০)\n\nসৃষ্টি হোৱা এমিবা\n(৫)\n\nচিত্ৰ 12.12 : এমিবাৰ দ্বৈত বিভাজন\n\n__ প্রাণীৰ প্ৰজনন / 1২৮৷৷২০)0\"110খ [{খ %খা[%[/1.9",
+  "confidence": {
+    "word_count": 209,
+    "mean": 83.98,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.144,
+  "page_elapsed_seconds": 3.442,
+  "peak_process_tree_rss_bytes": 313675776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

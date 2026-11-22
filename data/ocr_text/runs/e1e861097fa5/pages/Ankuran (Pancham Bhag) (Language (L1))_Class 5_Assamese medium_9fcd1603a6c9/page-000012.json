@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 12,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-হ্ =\n\n(ক) গীতটিত ‘ম’ আখৰটো ২০ বাৰ ব্যৱহাৰ হৈছে। ‘ৰ’ আখৰটো কেইবাৰ ব্যৱহাৰ\nহৈছে?\n\n(খ) গীতটিত ’-কাৰ।(স্বৰ) চিনটো ৪০ বাৰ ব্যৱহাৰ হৈছে। ইয়াত কোনটো কাৰ\n(স্বৰ) চিন এবাৰো ব্যৱহাৰ হোৱা নাই?\n\n(গ) গীতটিত থকা ‘ৰ’ আৰু ‘ৰে’ -ৰে শেষ হোৱা শব্দবোৰ লিখা।\n\n্‌র্‌ উত্তৰ দিয়া।\n\nৰ-ৰে শেষ হোৱা          ৰে -ৰে শেষ হোৱ৷\nআ[ন]মা|ৰ             ঘূৰে\nদে   ৰ               ৰে\nমা।ৰ           আমা |বে\nদি    ৰ           হা    ৰে\nণ!।ৰ             ই |ৰে\nৰ           আ    ৰে\nভা   ৰ               ৰে\nধুৰ        ভা      ৰে\nপা    ৰ        লৌ     ৰে\nৰূ।প|।ৰ      ম |ৰ |ম |বো|ৰি\n\nখ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nৰা  গীতটিৰ পৰা -কাৰ (স্বৰ) চিন যোগ হৈ ৰূপৰ পৰিৱৰ্তন ঘটা আখৰবোৰ বিচাৰি\n=>-- উলিয়াই লিখা আৰু সেইবোৰত কি কি কাৰ (স্বৰ) চিন যোগ হৈছে ভাঙি দেখুওৱা।\n\nযেনে-ৰূপহী > ৰূ > ৰু ৰ + উ কাৰ\n\n[কত গীতটিত থকা যুক্তাক্ষৰযুক্ত শব্দবিলাকৰ যুক্তাক্ষৰবোৰ ভাঙি দেখুওৱা আৰু\n“= সেইবোৰৰ প্রতিটোৰে দুটাকৈ নতুন শব্দ লিখা।\nযেনে- বিনন্দীয়া -> ন্দ > ন + দ আনন্দ, সুন্দৰ\n\nও_ঞস নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী\n(৩)",
+  "confidence": {
+    "word_count": 159,
+    "mean": 84.81,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.055,
+  "page_elapsed_seconds": 3.416,
+  "peak_process_tree_rss_bytes": 272752640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

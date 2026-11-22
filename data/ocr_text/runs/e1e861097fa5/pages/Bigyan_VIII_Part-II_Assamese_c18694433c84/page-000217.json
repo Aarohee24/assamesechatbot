@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 217,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 17.4; নাইলন আঁহৰ ব্যৱহাৰ\n\nনাইলন ব্যৱহাৰ কৰা হয় (চিত্ৰ-17.4)। নাইলন\nসূতা এডাল আচলতে তীখাৰ তীৰ এডালতকৈ বেছি\nশক্তিশালী।\n\nজ্ৰিয়াকলাপ 17.1\n\nচেপনিৰে সৈতে এডাল লোৰ গছা লোৱা৷ প্রীয় 60\nচে. মি. দৈৰ্ঘ্যৰ এডাল কপাহৰ সূতা লোৱা। চিত্ৰ\n17.5ত দেখুওৱাৰদৰে ইয়াক গছাখনতবান্ধাযাতেই\n\nমুক্তভাবে ওলমি থাকিব পাৰে। সূতাডাল মুক্ত\n\nচিত্ৰ 17.5: চেপনিৰ পৰা ওলমি থকা সৃতা এডালৰ\nসৈতে লোৰ এডাল গছা\n\nইয়াৰ ওপৰত দগা ৰাখিব পাৰি। সুতাডাল ছিঙি\nযোৱালৈকে এটাৰ পাছত এটাকে দগা ৰাখা। এই\nওজনে সুতাডালৰ শক্তি সূচায়। উণ, পলিয়েষ্টাৰ,\nৰেচম আৰু নাইলনৰ সূতাৰ সৈতে ক্ৰিয়াকলাপটো\nপুনৰাই কৰা। তালিকা 17.2ত দেখুওৱাৰ দৰে\nতথ্যবোৰ তালিকাভুক্ত কৰা। শক্তি অনুযায়ী উৰ্দ্ধ\nক্ৰমত সৃতাবোৰ সজোৱা।\n\nপৰ্যবেক্ষণ তালিকা 17.2\n\nকপাহ\n\n1\n\n|       উণ\n\n3.      ৰেচম\n4      নাইলন\nতোমালোকে আঁহবোৰ ওলোমাবলৈ বেৰত মাৰি\nথোৱা গজাল বা হাকোটা ব্যৱহাৰ কৰিব পাৰা আৰু\nএইবোৰৰ শেষ মূৰটোত একোটা পলিথিনৰ মোনা\nব্যৱহাৰ কৰিব পাৰা দগাৰ সলনি তোমালোকে\nএকে আকাৰৰ মাৰ্বল (বা শিলগুটি) ব্যৱহাৰ কৰিব\nপাৰা।\n\n(সাৱধানতা ঃ মনত ৰাখিবা যে সকলোবোৰ সূতা\nসম দৈৰ্ঘ্যৰ আৰু সমান ডাঠ হোৱাটো উচিত।)\n\nপলিয়েষ্টাৰ হৈছে আন এবিধ সাংশ্লেষিক আঁহ। এই\nনপৰে। ই খটখটীয়া হৈ থাকে আৰু ইয়াক ধুবলৈও\nসহজ। গতিকে, পিন্ধনৰ সামগ্ৰী বনাবলৈ এইবিধ আঁহ\nঅতি উপযুক্ত। তোমালোকে পলিয়েষ্টাবৰ চোলা আৰু\nআন পোছাক পিন্ধা মানুহ নিশ্চয় দেখিছা। টেৰিলিন\nহৈছে এবিধ জনপ্ৰিয় পলিয়েষ্টাৰ ইয়াক টানি অতি\nদৰে ব’ব পাৰি।\n\nসাংশ্লেষিক আঁহ আৰুপ্লাষ্টিক / ৪খণ['[][;][[0' }7[[81২};9 %1খ1) }}][.৪][[05 7",
+  "confidence": {
+    "word_count": 212,
+    "mean": 86.45,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.345,
+  "page_elapsed_seconds": 3.639,
+  "peak_process_tree_rss_bytes": 314499072,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 121,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰাগত গাই যায়। পালিসকলে খুঁটি-তাল বজাই সেই ‘দিহা’ দোহাৰে আৰু ভৰিৰে তাল\nৰাখি থাকে। গীতৰ লগে লগে ওজাই বিভিন্ন অংগ-ভংগীৰে নাচে। পালিসকলৰ মাজত\nএজন মুখ্য পালিও থাকে। তেওঁ ওজাৰ সোঁ-হাতস্বৰূপ। তেওঁক ডাইনা-পালি বোলে।\nডাইনা-পালিজন প্ৰধানকৈ সুৰসিক হয়। পালিসকলৰ লগত গীত গোৱাৰ উপৰি তেওঁ\nধেমেলীয়া কথাৰ অৱতাৰণা কৰি হাস্যৰসৰ সৃষ্টি কৰে। সময়ে সময়ে তেওঁ ওজাৰ সৈতে\nকথোপকথনত ভাগ লয় আৰু আখ্যানৰ জটিল কথাবোৰ ঘৰুৱাভাৱে দৰ্শকৰ সন্মুখত\nদাঙি ধৰে।\n\nওজা-পালিয়ে পৰিধান কৰা সাজ-পাৰ অতি সাধাৰণ। সকলো সদস্যই চুৰিয়া-চোলা\nপিন্ধে আৰু ডিঙিত চেলেং লয়। কেৱল ওজাই মূৰত পাণ্ডৰি মাৰে। পালিসকলে সোঁ-\nহাতত একোযোৰ খুঁটি-তাল মেৰিয়াই লয়।\n\nওজা-পালি কেইবা প্রকাৰৰো আছে। ইয়াৰ\nভিতৰত সুকনানী বা সুকনাৰায়ণী গোৱা ওজা-পালি,\nবিয়াহৰ বা ব্যাস গোৱা ওজা-পালি, ভাইৰা বা\nভাৱৰীয়া বা ৰামায়ণ গোৱা -ওজা-পালি, বৈষ্ণ্ৱী\nওজা, তুকুৰীয়া ওজা, আপী ওজা আদি উল্লেখযোগ্য।\n\nমহাপুৰুষ শংকৰদেৱেও নৱবৈষ্ণৱ ধৰ্ম প্ৰচাৰৰ\nঅৰ্থে মাজে-সময়ে ওজা-পালিৰ সহায় লৈছিল।\nতেতিয়াৰে পৰা অসমৰ সত্ৰসমূহত ওজা-পালি নৃত্য\nপ্রচলিতহৈ আহিছে। সকলো প্রকাৰৰ ওজা-পালিয়ে\nআমাৰ লোক-সমাজত ধৰ্মীয় শিক্ষাৰ লগতে নৈতিক\nশিক্ষাও প্রচাৰ কৰি আহিছে। এনেদৰে ওজা-পালিৰ\nনিচিনা লোক-নাট্য অনুষ্ঠানে অসমীয়া সাহিত্য-\nসংস্কৃতিৰ ভঁৰাল চহকী কৰিছে।\n\n১১২",
+  "confidence": {
+    "word_count": 167,
+    "mean": 92.76,
+    "median": 93.27,
+    "minimum": 60.37,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.825,
+  "page_elapsed_seconds": 4.246,
+  "peak_process_tree_rss_bytes": 245497856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৭                         স্ত,ন্ধ, স্তব, স্ফু,ত্ব,হৃ\nশিৱসাগৰ ভ্ৰমণ\n\nপ্ৰসিদ্ধ চহৰ শিৱসাগৰ ভ্ৰমণ কৰিবলৈ ওলাল। দুয়োৰে মনত বৰ স্ফুৰ্তি। দুদিনমান আগৰ\nপৰাই দুয়ো নিজৰ লাগতিয়াল বস্তু বাহানিবোৰ যোগাৰ কৰিলে।\n\nনিৰ্দিষ্ট দিনত তেওঁলোকে\nবাছেৰে শিৱসাগৰ অভিমুখে যাত্রা\nআৰম্ভ কৰিলে। তেওঁলোকে বাছৰ\n৷ গৈ থাকিল। সন্ধিয়াৰ সময়ত\n৷ শিৱসাগৰ পালেগৈ। তেওঁলোকে\n- ৰিক্সাৰে আহি মহাক-মাহীয়েকৰ\n\nঘৰ পালেহি।\n\nপাছদিনা পুৱা চাহ-জলপান খাই সাম্তনাইত মহাকৰ সৈতে ঘৰৰ পৰা ওলাল।\nঅনিল আৰু সাম্তবনাই লগত একোখনকৈ টোকাবহী ল’লে। তেওঁলোকে শিৱসাগৰৰ প্রাচীন\nকীৰ্তি চিহ্নবোৰ চাব। সেইবোৰৰ বিষয়ে টোকাবহীত লিখি থ’ব। কাৰণ অনিলে দিনলিপি\nলিখে। সাম্বনাই বিদ্যালয়ৰ আলোচনীত দিবলৈ এটি ভ্ৰমণ কাহিনী লিখিব। ঠাইবোৰ চাওঁতে\nমহাকে কথাবোৰ ভালদৰে বুজাই কৈ\nগ’ল। আহোমসকলৰ ছশবছৰীয়া ৰাজত্ব\nকালৰ বহুতো কীৰ্তি আৰু স্মৃতিচিহ্ন এই\nশিৱসাগৰত আছে। আহোম যুগৰ প্রথম\nৰাজধানী চৰাইদেউ আছিল। বিশাল\nকলে, ‘এই পুখুৰীটো স্বৰ্গদেউ শিৱসিংহৰ =  মম =\n\nপুখুৰীটোৰ পাৰত থকা বৃহৎ আকাৰৰ",
+  "confidence": {
+    "word_count": 132,
+    "mean": 86.69,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 42 diacritics",
+        "Detected 42 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.931,
+  "page_elapsed_seconds": 3.262,
+  "peak_process_tree_rss_bytes": 247652352,
+  "tesseract_warnings": [
+    "Detected 42 diacritics",
+    "Detected 42 diacritics"
+  ],
+  "processed_this_run": true
+}

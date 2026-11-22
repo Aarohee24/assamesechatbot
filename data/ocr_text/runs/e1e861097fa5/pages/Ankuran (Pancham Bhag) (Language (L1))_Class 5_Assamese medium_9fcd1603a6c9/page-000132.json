@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 132,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "= কোনো ক্ৰিয়াৰ কাম কৰোঁতা বুজোৱা - ওঁতা (পুংলিংগ) আৰু - ‘অঁতী (স্ত্ৰীলিংগ\nবাচক) প্রত্যয়ত চন্দ্ৰবিন্দু যোগ হয়। যেনে--\n\nপুংলিংগ           স্ত্ৰীলিংগ\nকৰোঁতা            কৰঁতী\nকওঁতা                কৰ্বঁতী ইত্যাদি\n\n০ কৃদন্ত- ‘ওঁতে’ত চন্দ্ৰবিন্দু হয়। যেনে-- কওঁতে, থওঁতে, গৈ থাকোঁতে ইত্যাদি।\nওপৰত উল্লেখ কৰা চন্দ্ৰবিন্দুৰ বিধিকেইটা ভালদৰে জানিলেও বানান শুদ্ধ হ’ব।\n\nউদাহৰণত দেখুৱাৰ দৰে তলৰ শব্দবিলাকৰ অৰ্থ প্রকাশ হোৱাকৈ বাক্য সাজা।\n\nযেনে--\nভৰি--- ভৰিত দুখ পোৱা বাবে ৰাজুৰ খোজ কাঢ়িবলৈ অসুবিধা হৈছে।\nভৰি--- বাগিচাখন ফুলেৰে ভৰি পৰিছে।\n\nশব্দ\n\nশব্দ        অৰ্থ\n\nসজা        চৰাই আদি থোৱা কাঠীৰ সঁজুলি বা বাহ\n\nসজা        আনলোকৰ দ্বাৰা নিৰ্মাণ কৰা; তৈয়াৰ কৰা\n\nফল         কোনো কাৰ্যৰ পৰিণতি\n\nফল         গছৰ গুটি              ৰ\nৰং         আনন্দ      , ‘*প্ৰটী\n\nৰং          বৰণ",
+  "confidence": {
+    "word_count": 105,
+    "mean": 87.59,
+    "median": 93.26,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 9 diacritics",
+        "Detected 9 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.616,
+  "page_elapsed_seconds": 2.949,
+  "peak_process_tree_rss_bytes": 240701440,
+  "tesseract_warnings": [
+    "Detected 9 diacritics",
+    "Detected 9 diacritics"
+  ],
+  "processed_this_run": true
+}

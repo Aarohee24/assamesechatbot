@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(}, ২১। তলত দিয়া গীতটি গাওঁ আহা--\nজীৱনে মৰণে মই\nচিৰদিন অসমীয়া\nঅসমীয়া দেহে-প্রাণে মই\nমই অসমৰে অসমীয়া\nমৰিলেও বৰি ল’ম\nঅসমৰ অমিয়া মৰণ।\nঅসমৰ হকে যুঁজি\n\nধৰ্ম মোৰ জাতি মোৰ  ।/\n\nঅসমীয়া প্রাণৰ আপোন।, =}?\nকথা মোৰ, গীত মোৰ     দি    |\n\nকথা- চৈয়দ আব্দুল মালিক\nকণ্ঠ - সংগীতা বৰঠাকুৰ\n\nসুৰ - ভবেন বৰঠাকুৰ          ।\n==                                ৰ]\n\n।  =\n‘ৰ ২২। অসমৰ কেইগৰাকীমান বীৰ-বীৰাংগনাৰ নাম আৰু ফটো সংগ্ৰহ কৰি এটি এলবাম\n\nপ্রস্তুত কৰা। সেই ব্যক্তিসকলৰ চমু পৰিচয় লিখা।\n২৩ । দেশপ্ৰেমমূলক কবিতা আৰু গীত সংগ্ৰহ কৰি এখন হাতে লিখা সংকলন প্রস্তুত\n\nকৰা।",
+  "confidence": {
+    "word_count": 92,
+    "mean": 86.5,
+    "median": 96.14,
+    "minimum": 2.88,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.184,
+  "page_elapsed_seconds": 2.916,
+  "peak_process_tree_rss_bytes": 273469440,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

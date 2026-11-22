@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "নলিনী বালা দেৱী (১৮৯৮-১৯৭৭)\nঅসমৰ মহিলা কবিসকলৰ ভিতৰত নলিনী বালা দেৱী এগৰাকী\n\nপ্ৰতিষ্ঠিত কবি। তেখেতৰ জন্ম বৰপেটাত। তেখেত স্বাধীনতা সংগ্রামী\nকৰ্মবীৰ নবীনচন্দ্ৰ বৰদলৈৰ জীয়ৰী। অকালতে স্বামীক হেৰুৱাই\n\nতেখেতে কাব্য-চৰ্চাত মন দিছিল। ‘সন্ধিয়াৰ সুৰ’, ‘সপোনৰ সুৰ', ৮\n\nক্ঁ\n\n‘পৰশমণি’ আদি হ’ল তেখেতৰ উল্লেখযোগ্য কবিতাৰ পুথি।\nআত্মজীৱনী আৰু দেউতাকৰ জীৱনীও লিখি থৈ গৈছে। ‘পদ্মশ্ৰী’ সন্মান লাভ কৰা\nকবি নলিনী বালা দেৱী আমাৰ চিৰনমস্য।\n\nক--পাঠভিত্তিক ক্ৰিয়া\nক্ৰিয়া-কলাপ\n\n১। শুদ্ধ উচ্চাৰণেৰে ‘জনমভূমি’ কবিতাংশ আবৃত্তি কৰা।\n২। কৰিতাংশ শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়া।\n৩। উত্তৰ দিয়া।\n(ক) কবিয়ে কাৰ কোলাত প্রথমে চকু মেলাৰ কথা কৈছে?\n(খ) কবিৰ ভাগৰুৱা আত্মাই কোন ঠাইত শেষ জিৰণি ল’বলৈ ইচ্ছা প্রকাশ কৰিছে?\n(গ) কবিয়ে পখী হৈ ক’ত বাহ ল’ম বুলি কৈছে?\n(ঘ) কবিয়ে হিমালয় পৰ্বতৰ ক’ত আৰু কি হৈ ৰ’ব বুলি কৈছে?\n\n৪। উদাহৰণত দিয়াৰ দৰে কবিতাটোৰ পৰা অন্ত্যমিল থকা শব্দবোৰ বাছি লিখা।\n\nউদাহৰণ $  পুৱাত                         সন্ধিয়াত\n\nণঞ্জ্ শুদ্ধ উচ্চাৰণেৰে কবিতাংশ আবৃতি কৰি শুনাব । ছাত্ৰ-ছাত্ৰীকো আবৃতি কৰিবলৈ দিব।",
+  "confidence": {
+    "word_count": 149,
+    "mean": 88.58,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium-page-000037.png",
+  "page_image_sha256": "8349552c9cd66bfb84444260b6492c75500c209401a30692cf94d0507bafe546",
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.576,
+  "page_elapsed_seconds": 2.839,
+  "peak_process_tree_rss_bytes": 146198528,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

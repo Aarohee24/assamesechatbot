@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ কজ্ৰিয়া-কলাপ |\n\nিত্লমা৷\n\nৰ্্পা১। তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0) বৃত্তটো পূৰ কৰা --\nঞ্জ কবিতাটোত আমাৰ দেশৰ ‘মূৰৰ মুকুট’ বুলি কাৰ কথা কৈছে?\n\n(ক) লুইতৰ         (গ) হিমালয়ৰ\n(খ) দেৱভূমিৰ       (ঘ) পাটকাইৰ\nক্)থে) গঞ্) ঘে)\n\nঞ্জ কবিয়ে আমাৰ দেশক দেৱভূমিৰ লগত কিয় তুলনা কৰিছে?\n(ক) হিমালয় পৰ্বত আমাৰ দেশৰ শিৰত মুকুট হিচাপে থকাৰ বাবে।\n(খ) আমাৰ দেশখন ধনে-ধানে, ৰূপে-ৰসে-গীতে ভৰি থকাৰ বাবে।\n(গ) পুৰাণ, মহাভাৰতত আমাৰ দেশখনক দেৱভূমিৰূপে বৰ্ণনা কৰাৰ বাবে।\n(ঘ) আমাৰ দেশখন পাহাৰ-পৰ্বত, নদ-নদী আদিৰে ভৰি থকাৰ বাবে।\n\nক্)ে তে গে ঞ্রে\n\n(}};২। তুমি ওপৰৰ দ্বিতীয় প্রশ্নৰ উত্তৰটো কিয় শুদ্ধ বুলি বাছি ল’লা ? সহপাঠীৰ লগত আলোচনা\nকৰি কোৱা।\n\n// ৩। তলত দিয়া প্রশ্নকেইটাৰ উত্তৰ লিখা\n\n(ক) কবিয়ে কোন ঠাইত অৰুণ উদয় হয় বুলি উল্লেখ কৰিছে?\n(খ) কবিয়ে অমৃতধাৰা ক’ত বৈছে বুলি কৈছে?\n\n(গ) কিহে অসমী আইৰ গাৰ জেউতি চৰায়?\n\n(ঘ) দেৱভূমি বুলি কবিয়ে কোনখন ঠাইৰ কথা কৈছে?\n\n(৬) কবিয়ে অসমী আয়ে কিহৰ সাতসৰী পিন্ধা বুলি কৈছে ?\n\nৰ ৪ । কবিয়ে আমাৰ দেশখনক কি কি কাৰণত স্বৰ্গতকৈও অধিক বুলি কৈছে--আলোচনা\nকৰি বহলাই লিখা।",
+  "confidence": {
+    "word_count": 170,
+    "mean": 87.55,
+    "median": 94.76,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.938,
+  "page_elapsed_seconds": 3.406,
+  "peak_process_tree_rss_bytes": 257941504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

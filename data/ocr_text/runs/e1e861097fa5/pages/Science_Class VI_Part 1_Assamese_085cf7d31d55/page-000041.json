@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে উদ্যান এখন ভ্ৰমণ কৰি কিছু\nতথ্য গোটাইছিল৷া। উদ্ভিদৰ বিভিন্ন প্রকাৰ দেখা\nপাইছিলা। নহয়নে? কিছুমান গছ ওখ, কাণ্ড মোটা\nআৰু টান। এইবোৰত ডাল-পাত, ঠাল-ঠেঙুলি\nঅনেক, এনে উদ্ভিদবোৰক বৃক্ষ বোলে। কিছুমান\nউদ্ভিদৰ কাণ্ড টান হ’লেও গা-গছ বেছি মোটা নহয়।\nএনে উদ্ভিদৰ ডাল-পাত মাটিৰ পৰা বেছি উচ্চতাত\nনাথাকে। এইবোৰ গুল্ম জাতীয় উদ্ভিদ। জৱা ফুল\nগুল্ম জাতীয়, নহয়নে? কিছুমান উদ্ভিদ চাপৰ, কাণ্ড\nলেহুকা আৰু ক্ষীণ। এইবোৰ তৃণ জাতীয়। ঘাঁহ,\nধান আদি তৃণজাতীয় উদ্ভিদ। তামোল গছত পাণ\nবগোৱা দেখিছানে ? পাণ, লাও, কোমোৰা আদিবোৰ\nকোনো আশ্ৰয়ত বগায়। এনেবোৰ আৰোহী লতা ৷\nকিছুমান উদ্ভিদ মাটিত বগায় । এনেবোৰ হ’ল লতা\nজাতীয় ।\n\nচ্র্রি 2.3; বিভিন্ন প্রকাৰৰ উড্জিদ\n\n(0128111511] 3110] [}100]ঘ61\"9]{%/\nজীৱ আৰু জৈৰ বৈচিত্ৰ্য",
+  "confidence": {
+    "word_count": 109,
+    "mean": 88.9,
+    "median": 94.95,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.549,
+  "page_elapsed_seconds": 3.061,
+  "peak_process_tree_rss_bytes": 363982848,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

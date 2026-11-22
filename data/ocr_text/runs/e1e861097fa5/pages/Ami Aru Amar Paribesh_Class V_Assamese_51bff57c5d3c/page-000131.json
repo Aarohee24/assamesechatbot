@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ- ১৬\nৰ                                   446 ৰি\n\nআমাৰ ভাৰতবৰ্ষ এখন বিশাল দেশ। বিশাল ভাৰতবৰ্ষৰ উত্তৰ-পূব কোণত আমাৰ অসম\nৰাজ্যখন অৱস্থিত। অসমৰ কাষতে থকা আন কেইখন ৰাজ্য হ’ল == অৰুণাচল প্ৰদেশ,\nমণিপুৰ,মেঘালয়, মিজোৰাম, নাগালেণ্ড আৰু ত্ৰিপুৰা । এই কেইখন আমাৰ চুবুৰীয়া ৰাজ্য । অসমকে\nধৰি এই সাতোখন ৰাজ্যক সাতভনীৰ দেশ বোলা হয়। ভাৰতৰ উত্তৰ-পূব কোণত অৱস্থিত হোৱা\nবাবে এইকেইখন ৰাজ্যক একেলগে উত্তৰ-পূব ভাৰত বা উত্তৰ-পূৰ্বাঞ্চল বুলিও কোৱা হয়। ২০০২\nচনত উন্নয়ন পৰিকল্পনাৰ সুবিধাৰ্থে ছিকিম ৰাজ্যকো উত্তৰ-পূৰ্বাঞ্চলৰ ভিতৰুৱা কৰা হৈছে।\n\nভাৰতবৰ্ষত উত্তৰ-পূব\n\nভাৰতৰ অৱস্থান                    ৰ:                 ্ু শ                      ং\nও                প্র দে বক /=* = এঞা            পঃ                পূঃ\nত                                      শ            টী",
+  "confidence": {
+    "word_count": 96,
+    "mean": 84.25,
+    "median": 95.12,
+    "minimum": 7.1,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.129,
+  "page_elapsed_seconds": 2.737,
+  "peak_process_tree_rss_bytes": 251281408,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

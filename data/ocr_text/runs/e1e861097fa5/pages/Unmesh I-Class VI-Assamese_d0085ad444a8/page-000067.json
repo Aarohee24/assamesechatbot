@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ জানো আহা--\nপাঠটোত থকা ‘প্রৱণতা’ আৰু ‘মানসিকতা’এই শব্দ দুটা গুণবাচক বিশেষ্য। শব্দকেইটা কেনেকৈ\nগঠন হৈছে চাওঁ আহা-- প্রৱণ + তা = প্ৰৱণতা      মানসিক + তা = মানসিকতা\nইয়াৰ ‘প্রৱণ’ আৰু ‘মানসিক’ শব্দ দুটা হৈছে মূল শব্দ। মূল শব্দৰ পাছত ‘-তা’ প্রত্যয় যোগ হৈ\nএকো একোটা অৰ্থপূৰ্ণ ৰূপ গঠিত হৈছে।\n\nঠ্ঠাৰ্চ। উদাহৰণৰ দৰে তলত দিয়া শব্দকেইটাৰ গুণবাচক বিশেষ্য ৰূপটো লিখা।\n\nসৰল _\"৷' সৰলতা      দুৰ্বন _\n\nনৰম _'\"_*     ভ ব্হ্হূ্‌।\n\nঠৰ ৯ ৷ পাঠটোত -বোৰ, -বিলাক, -সমূহ, -খিনি,-সকল আদি যোগ হৈ বহুবচন বুজোৱা শব্দবোৰ\nবিচাৰি উলিয়াই লিখা।\n\n(জানি থওঁ আহা--\nবঢট্ুণ্ডি ৰাছেল ঃ বট্টুণ্ডি আৰ্থৰ উইলিয়াম ৰাছেল এজন প্ৰসিদ্ধ মানৱতাবাদী ইংৰাজ\nদাৰ্শনিক। তেওঁ এজন গণিতজ্ঞ হোৱাৰ লগতে নোবেল বঁটাগ্রাপ্ত সাহিত্যিক।\n\n==\n\n[(বাপুকণ আৰু আইমণি দুয়ো ষষ্ঠ শ্ৰেণীত পঢ়ে। এদিন ৰাতিপুৱাই দুয়ো খৰধৰকৈ বিদ্যালয়লৈ বুলি\nওলাই গ’ল। সেইদিনা সিহঁতৰ পৰীক্ষা আছিল। নিৰ্দিষ্ট সময়ত বিদ্যালয়ৰ ফালে যোৱা বাছখনো\nআহি পালেহি। তেনেতে বাছখনৰ সন্মুখেৰে এটি মেকুৰী দৌৰ মাৰি পাৰ হৈ গ’ল। তাকে দেখি\nবাপুকণ ৰৈ গ’ল আৰু আইমণিকো ৰ’বলৈ ক’লে। যাত্ৰাৰ সময়ত সন্মুখেৰে মেকুৰী পাৰ হৈ গ’লে\n\n১9% 55 পাৰে--- এই কথা সি তাৰ খুৰাকৰ মুখৰপৰা শুনিছিল। কথাষাৰ সি আইমণিক ক’লে\n_ঠ",
+  "confidence": {
+    "word_count": 178,
+    "mean": 83.52,
+    "median": 93.18,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.648,
+  "page_elapsed_seconds": 5.839,
+  "peak_process_tree_rss_bytes": 284319744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

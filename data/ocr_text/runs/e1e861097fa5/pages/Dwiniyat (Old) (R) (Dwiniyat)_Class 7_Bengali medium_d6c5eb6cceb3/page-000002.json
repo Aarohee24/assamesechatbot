@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তৃতীয় খণ্ড\n(সপ্তম শ্ৰেণির জন্য)\n\nমৌলানা আৰু মোঃ আংনূর\n\nশিক্ষা (প্রাথমিক) বিভাগ, অসম সরকার",
+  "confidence": {
+    "word_count": 14,
+    "mean": 86.86,
+    "median": 93.26,
+    "minimum": 11.63,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 0.9988,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 0.649,
+  "page_elapsed_seconds": 0.786,
+  "peak_process_tree_rss_bytes": 206864384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

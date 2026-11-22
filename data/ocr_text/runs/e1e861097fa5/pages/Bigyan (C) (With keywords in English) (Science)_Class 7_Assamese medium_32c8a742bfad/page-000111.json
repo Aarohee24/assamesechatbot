@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 111,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাষৰ আৰু বাগিচাৰপৰা সংগ্ৰহ\nকৰা মাটিৰ নমুনাবোৰত কিয় কিছুমান\nপ্লাষ্টিকৰ বস্তুৰ টুকুৰা আৰু\nপলিথিন বেগ পাওঁ।\n\n9.2 মাটিৰ চমু বিৱৰণ (৪011 ])1\"0016) ?\n\nমাটি কিছুমান নিৰ্দিষ্ট তৰপে(][)150110{ 18219)\nৰে গঠিত। এই তৰপবোৰ কিদৰে সজ্জিত হৈ থাকে\nতাক জানিবলৈ তলত দিয়া ক্ৰিয়াকলাপটো কৰা।\n\nত্ৰিয়াকলাপ (/১৫খ%৮) 9.2\n\nঅলপ মাটি লোৱা। মাটিৰ চপৰাবোৰ হাতেৰে\nভাঙি গুড়ি কৰা। এটা কীচৰ গিলাচৰ এক তৃতীয়াংশ\nপানীৰে পূৰ কৰা। এতিয়া এমুঠি মাটিৰ গুড়ি তাত\nমিহলোৱা। মাটিখিনি যাতে ভালদৰে পানীত মিহলি\nহয়। তাৰ বাবে মাৰি এডালেৰে লৰাই দিয়া। এতিয়া\nইয়াক লৰচৰ নকৰাকৈ কিছুসময়ৰ বাবে থৈ দিয়া\n(চিত্ৰ 9.2)। তাৰ পাছত, ইয়াক পৰ্যৱেক্ষণ কৰি তলৰ\n\nবতাহ, ধুমুহা আৰু ঘূৰ্ণিবতাহ\n\n(018%46])\n\nচিত্ৰ 9.2 মাটিৰ তৰপসমূহ\n(][,8%219 01 901])\n\n৬ঙ তোমালোকে বাৰু কীচৰ গিলাচৰ ভিতৰত বিভিন্ন\n\n৬ এই তৰপবোৰ দেখুৱাই এখন চিত্ৰ অংকন কৰা।\n৬ পানীত গছৰ পচা পাত কিছুমান বা মৃত প্রাণীৰ\n\nমাটিত থকা পচা মৃত পদাৰ্থকে হিউমাছ\n([]01]]09) বুলি কোৱা হয়।\n\nতোমালোকে সম্ভৱতঃ জানা যে বতাহ, পানী আৰু\nজলবায়ুৰ ক্ৰিয়াৰ ফলত শিল ভাঙি মাটি উৎপন্ন হয়।\nএই প্ৰক্ৰিয়াটোক বিচুণীভবন (ঘ০৪1218) বুলি\nকোৱা হয়। যিকোনো মাটিৰ প্রকৃতি, উৎপন্ন হোৱা\nশিলৰ প্রকাৰ আৰু তাত গজা গছ-গছনিৰ প্রকাৰৰ\nওপৰত নিৰ্ভৰ কৰে।\n\nমাটিৰ বিভিন্ন তৰপবোৰ মাজেৰে কৰা উলম্ব\nছেদনক (20081 ৪০০00) মাটিৰ পাৰ্শ্ব-চিত্ৰ\n(9501] 1)\"0012) বুলি কোৱা হয়। প্রতিটো তৰপৰ\nমসৃণতা (]০%0019) (গাঁথনি), ৰং, বহু গভীৰতা আৰু\n\n9",
+  "confidence": {
+    "word_count": 205,
+    "mean": 86.42,
+    "median": 94.36,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.995,
+  "page_elapsed_seconds": 3.344,
+  "peak_process_tree_rss_bytes": 291147776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

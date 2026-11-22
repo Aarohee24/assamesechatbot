@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 151,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত্ৰিয়া-কলাপটোৰপৰা\nনিশ্চয় জানিব পাৰিলা যে একেটা\nবস্তু বিভিন্ন দ্ৰব্যৰে গঠিত হ'ব\nপাৰে। তেনেদৰে একেটা দ্ৰব্যৰে\nবিভিন্ন বস্তু তৈয়াৰ কৰিব পাৰি।\n\nবস্তুবোৰক এনেকৈ ভাগ\n\nকৰা পদ্ধতিটোকে শ্ৰেণীবিভাজন\nবোলে। একেদৰে দ্রব্যবোৰকো\nবিভক্ত কৰিব পাৰি। তোমাৰ\nমাৰাই কেৰাহীত আঞ্জা ৰান্ধে।        চিত্ৰ 3.3 : মাৰাই আঙঠা ৰাঘিছে\nকেৰাহী ধাতুৰে নিৰ্মিত। বাঁহৰ চুঙাতো ভাত-আঞ্জা ৰান্ধিব পাৰি। কিন্তু একেটা বাঁহৰ চুঙাত\nসদায় ভাত-আঞ্জা ৰান্ধিব পাৰি জানো? নিশ্চয় নোৱাৰি, পুৰি যাব। তুমি কটাৰীৰে ফল-মূল\nকাটিছানে? কটাৰীখন সাধাৰণতে লোৰে নিৰ্মিত। কটাৰীখন কাঠ বা বীহেৰে প্রস্তুত কৰিব\nপাৰিনে?\n\nধাতুৰ কেৰাহীটো সদায় ব্যৱহাৰ কৰিলেও পুৰি নাযায়, সেয়া ধাতুৰ ধৰ্ম। আনহাতে\nবাঁহৰ চুঙাটো পুৰি যায়। সেয়াও বাহৰ ধৰ্ম। লোৰ কটাৰীখন যথেষ্ট কঠিন। কিন্তু বাঁহৰ\nকটাৰীখন তেনে নহয়। সেয়াও লো আৰু বাঁহৰ ধৰ্ম\n\nআমি গিলাচেৰে পানী খাওঁ। গিলাচ প্রস্তুত কৰিবলৈ কি কি দ্ৰব্য ব্যৱহাৰ কৰা হয়\n\nবাৰু?\n\n[] ভিরয়া-কলাপ 5.3:\nকি কি দ্ৰব্যৰে প্রস্তুত কৰা গিলাচ তুমি দেখিছা লিখাচোন।\n\n$--\n= মশ্ৰাা0চঘোহ\nশ্  )[070007%\nল% _\"%)\n\nচিত্র 5.4 : গিলাচ তৈয়াৰ কৰিবলৈ বাৱহাৰ কৰা দ্রবা\n\nউঁ = য়তেততত তত তত তত তত ০০০,০০০ ০০০,০০০, ০,০০,০০০,্)",
+  "confidence": {
+    "word_count": 165,
+    "mean": 78.74,
+    "median": 93.25,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.238,
+  "page_elapsed_seconds": 3.674,
+  "peak_process_tree_rss_bytes": 296370176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

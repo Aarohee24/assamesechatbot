@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা--\n\nবৰগীতটো তাল, মান ৰক্ষা কৰি গাব পাৰিব\n\nবৰগীতত থকা ব্ৰজাৱলী ভাষাটো পঢ়ি বুজিব পাৰিব\n\nপাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\n\nপ্রাচীন শব্দৰ লগত পৰিচয় হ'ব পাৰিব\n\nকঠিন শব্দৰ অৰ্থ অভিধান চাই জানিব পাৰিব\n\nবৰগীতটোৰ বিষয়বস্তু উপলব্ধি কৰি ৰাতিপুৱাৰ প্রাকৃতিক দৃশ্য অনুভৱ কৰিব পাৰিব\n\nএডাল দাৰি আৰু দুডাল দাৰিৰ প্রয়োগলৈ লক্ষ্য ৰাখি বৰগীতটো শুদ্ধকৈ পঢ়াৰ কৌশল আয়ত্ত\nকৰিব পাৰিব\n\nএকে শব্দৰে ভিন ভিন অৰ্থ বুজোৱা শব্দ জানিব পাৰিব\n\n৬ $₹ $₹৬₹৬*৬৩৫৬ক ২৫\n\nৰ\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন-_\n\nবৰগীতটো শুদ্ধ | বৰগীতটো | পাঠভিত্তিক | বৰগীতটোৰ | প্লসংগ-সংগতি | ছবি পৰ্যৱেক্ষণ\nবৰগীত ৷ আৰু স্পষ্টকৈ  শুদ্ধকৈ গাব প্রশ্নৰ উত্তৰ  মূলভাব _ লগাই ব্যাখ্যা । কৰি বৰ্ণনা\n\nপঢ়িব পৰা  পৰা দিব পৰা লিখিব পৰা | কৰিব পৰা কৰিব পৰা\nভষা    ব্ৰজাৱলী ভাষাত লিখা\n\nঅধ্যয়ন | একে অৰ্থ বুজোৱা    বাক্য আধুনিক    এটা শব্দত প্রকাশ     পূৰ্বসৰ্গ লগ লগাই\n\n(যযাবহাবিক শব্দ বুজি ক'ব আৰু  অসমীয়ালৈ ৰূপান্তৰ    কৰিব পৰা     নতুন শব্দ গঠন কৰিব\n\nব্ৰজাৱলী ভাষাত লিখা\n\nজ্ঞান      নিজৰ অভিজ্ঞতা\nসম্প্ৰসৰণ | প্রকাশ কৰিব পৰা       ৰক পঢ়ি বুজি\n\nবৰগীত সংগ্ৰহ | বৰগীতত ব্যৱহাৰ\nপ্রকল্প       কৰি শ্ৰেণীত পাঠ ৷ হোৱা বাদ্য-যন্ত্ৰ ছবি\nকৰি শুনাব পৰা | সংগ্ৰহ কৰিব পৰা\n\nণঞ্- অহৰ্তা আয়ভহ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ * চিন দিব । অহতা আয়ভ নোহোৱা শিকাৰং:ক আতিৰিজ্ঞ্ভাৱে\n\nশিকাই পুনৰ মূল্যায়ন কৰিব।\nবচ)\"",
+  "confidence": {
+    "word_count": 211,
+    "mean": 84.45,
+    "median": 95.6,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.786,
+  "page_elapsed_seconds": 3.007,
+  "peak_process_tree_rss_bytes": 284069888,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

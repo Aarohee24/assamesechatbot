@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 103,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাৰ্ব'হাইড্ৰেট                     মিলেট\nঅভাৱজনিত ৰোগ     খনিজ পদাৰ্থ\nস্নেহ পদাৰ্থ                       পৰিপোষক\nফুড মাইল         বেৰি-বেৰি\n\nআয়'ডিনযুক্ত লৱণ            কুকুৰীকণা\n\nতোমালোকে কি শিকিলা?\n\n* খাদ্যই শক্তি প্রদান কৰে, ৰোগৰ পৰা দেহ সুৰক্ষা দিয়ে, বিকাশত সহায় কৰে, দেহ\nমেৰামতি কৰে আৰু আমাৰ শৰীৰক ৰক্ষণাবেক্ষণ কৰে।\n\nঞ আমাৰ খাদ্যৰ মুখ্য পৰিপোষকবোৰ হৈছে কাৰ্ব'হাইড্ৰেট, প্ৰ‘টিন, স্নেহপদাৰ্থ,\nভিটামিন, খনিজ লৱণ, আঁহযুক্ত খাদ্য আৰু পানী।\n\n কাৰ্ব':হাইড্ৰেট আৰু-স্নেহপদাথৰ্ক শক্তিদায়ক খাদ্য বোলে। প্ৰ'টিনক শৰীৰ বৰ্দ্ধক\n\nখাদ্য আৰু ভিটামিন আৰু খনিজ পদাৰ্থক সুৰক্ষামূলক খাদ্য বোলে।\nঞ$ যি আহাৰত সকলো অত্যাৱশ্যকীয় পৰিপোষক সঠিক পৰিমাণৰ লগতে পৰ্যাপ্ত\nৰুক্ষাহাৰ আৰু পানী থাকে তাকে সুষম আহাৰ বোলে।\n\nঞ্ু আহাৰত পৰিপোষকৰ দীৰ্ঘদিনীয়া অভাৱৰ ফলত অভাৱজনিত ৰোগ হয়।\n\nঞ জাংক ফুড খালে মেদবহুলতা আৰু অভাৱজনিত ৰোগ হয়, কিয়নো সেইবোৰত\n\nৰ বতঞ্ৰ  এ\n\nচেনি আৰু অস্বাস্থ্যকৰ স্নেহপদাথৰ্ৰ পৰিমাণ অধিক৷ জাংক ফুডত ভিটামিন, খনিজ\n\nলৱণ আৰু আঁহযুক্ত খাদ্যৰ পৰিমাণ কম।\n\nভূততেঁততততত তত তত তত ০০০০০ তত ০০০০ত ০০,০০০০০০০,০০,০০, ০,কে)",
+  "confidence": {
+    "word_count": 140,
+    "mean": 79.58,
+    "median": 93.62,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.737,
+  "page_elapsed_seconds": 3.022,
+  "peak_process_tree_rss_bytes": 310763520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

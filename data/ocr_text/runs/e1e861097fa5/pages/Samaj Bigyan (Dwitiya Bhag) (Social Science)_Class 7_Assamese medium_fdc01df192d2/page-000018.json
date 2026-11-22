@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ক) দুখন ঠাইৰ দ্ৰাঘিমাংশ যথাক্ৰমে ৫২” পূব আৰু ৯৮% পূব। ঠাই দুখনৰ স্থানীয় সময়ৰ ব্যৱধান উলিওৱা।\n\nসমাধান\nদুয়োখন ঠাই গ্ৰীনিজৰ পূবে অৱস্থিত। সেয়ে ঠাই দুখনৰ দ্ৰাঘিমাংশৰ পাৰ্থক্য হ’ব, ৯৮%-৫২%= ৪৬“\nএতেকে,ঠাই দুখনৰ স্থানীয় সময়ৰ পাৰ্থক্য হ’ব--\n৪৬%১৪ মিনিট\n= ১৮৪ মিনিট\n= ১৮৪ + ৬০ মিনিট\n= ৩ ঘণ্টা ৪ মিনিট\nঠাই দুখনৰ স্থানীয় সময়ৰ ব্যৱধান হ’ব ৩ ঘণ্টা ৪ মিনিট।\n\n(খ) দুখন ঠাইৰ স্থানীয় সময় যথাক্ৰমে ৰাতিপুৱা ৪ বজা আৰু, ৰাতিপুৱা ১০ বজা। ঠাই দুখনৰ দ্ৰাঘিমাংশৰ\nব্যৱধান নিৰ্ণয় কৰা।\n\nসমাধান\n\nঠাই দুখনৰ স্থানীয় সময়ৰ ব্যৱধান হ’ব--\n১০-৪ বজা =৬ ঘণ্টা\nএতেকে ঠাই দুখনৰ দ্ৰাঘিমাংশৰ ব্যৱধান হ’ব,\n১৫”%৬৬ = ৯০%\n\nঠাই দুখনৰ দ্ৰাঘিমাংশৰ ব্যৱধান হ’ব ৯০% ।\n\n(গ) দুখন ঠাইৰ দ্ৰাঘিমাংশ ক্ৰমে ৭৫৭ পূব আৰু ৪৫% পশ্চিম। ঠাই দুখনৰ দ্ৰাঘিমাংশৰ পাৰ্থক্যৰ লগতে\nগ্ৰীনিজত দুপৰীয়া ১২ বাজিলে ঠাই দুখনত কেইটা বাজিব উলিওৱা\n\nসমাধান ঃ\n\nপ্রথম ঠাইখন ৭৫\" পূব,অৰ্থাৎ গ্ৰীনিজৰ ৭৫ পূবে আৰু দ্বিতীয়খন ঠাই ৪৫ পশ্চিম,অৰ্থাৎ গ্ৰীনিজৰ ৪৫\" পশ্চিমে\n\nঅৱস্থিত।\nএতেকে, ঠাই দুখনৰ দ্ৰাঘিমাংশৰ পাৰ্থক্য হ’ব-৭৫%+৪৫৭=১২০%\nএতিয়া প্ৰথমখন ঠাইৰ স্থানীয় সময় হ’ব- ৭৫%%৪ মিনিট = ৩০০ মিনিট\nঅৰ্থাৎ ৩০০+৬০ মিনিট = ৫ ঘণ্টা\nএতেকে গ্ৰীনিজত দুপৰীয়া ১২ বাজিলে প্ৰথমখন ঠাইত আবেলি ৫ বাজিব।\nআকৌ দ্বিতীয়খন ঠাইৰ স্থানীয় সময় হ’ব-",
+  "confidence": {
+    "word_count": 188,
+    "mean": 87.94,
+    "median": 95.52,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.386,
+  "page_elapsed_seconds": 3.913,
+  "peak_process_tree_rss_bytes": 294240256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

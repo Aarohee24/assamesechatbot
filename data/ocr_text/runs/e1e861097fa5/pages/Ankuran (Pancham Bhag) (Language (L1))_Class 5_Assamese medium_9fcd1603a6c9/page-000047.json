@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 47,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডক্টৰ বাণীকান্ত কাকতি\n\nবাটৰ কাষৰ ঘৰটোলৈ\nআঙুলিয়াই দৰ্যা-পৰায়ণ মানুহ\nদুজনমানে বেমাৰ দেখুৱাবলৈ অহা\nমানুহকেইজনক হাঁহি হাঁহি\nক’লে-- “যোৱা, সৌজন নতুন\nডাক্তৰ আহিছে, তেওঁৰ চিকিৎসা বৰ\nভাল।” তেওঁলোকৰ কথামতে\nমানুহকেইজন কাষৰ ঘৰটোৰ ফালে\n\nআগবাঢ়ি গ’ল। তেওঁলোকক অনুকৰণ কৰিয়ে পাছলৈ নতুন ডাক্তৰৰ ওচৰলৈ চিকিৎসা\nবিচাৰি মানুহৰ সোঁত ববলৈ ধৰিলে। ডাক্তৰ বুলি ভবা এই ব্যক্তিগৰাকীয়ে হ’ল ডক্টৰ\nবাণীকান্ত কাকতি। তেখেতে বুজিলে যে ডক্টৰেট ডিগ্ৰী লাভ কৰাৰ কাৰণে কিছুমান\nমানুহে স্সৰ্যাতে সহজ-সৰল মানুহ কিছুমানক ৰোগীৰ ৰূপত তেখেতৰ ঘৰলৈ পঠিয়াইছে।\nএই কথা ধৰিব পাৰি বাণীকান্ত কাকতিয়ে জোকৰ মুখত চূণ দিবলৈ বিচাৰিলে। সেয়েহে\nতেখেতে ডাক্তৰৰ ভূমিকা পালন কৰিবলৈ হোমিওপেথিক চিকিৎসাৰ পুথি কেইখনমান\nকিনি আনি পঢ়িবলৈ আৰম্ভ কৰিলে। তেখেত আছিল সৰুৰে পৰা দৃঢ়মনা আৰু\nআত্মসন্মানবোধসম্পন্ন ব্যক্তি। জীৱনৰ কোনো পৰিস্থিতিতে তেখেতে হাৰ মানিব খোজা\nনাছিল। গতিকে কম দিনৰ ভিতৰতে এই চিকিৎসা পদ্ধতিৰ অ, আ, ক, খ আয়ত্ত কৰি\nল’লে। পাছলৈ ৰোগীক বিধিমতে বিধানো দিলে। তেখেতৰ মনৰ দৃঢ়তা দেখি কৌতুক\nকৰাসকলেও তবধ মানিলে আৰু তেখেতৰ প্রতি তেওঁলোকৰ শ্ৰদ্ধাৰ ভাব জাগি উঠিল।\n\nবাণীকান্ত কাকতিয়ে ‘আছামিজ, ইটচ্‌ ফৰ্মেচন এণ্ড ডেভেলপমেন্ট’ (অসমীয়া\nভাষাৰ গঠন আৰু বিকাশ’) নামৰ গৱেষণা গ্ৰন্থখনৰ বাবে ডক্টৰেট ডিগ্ৰী লাভ কৰিছিল।\nসেই সময়ত ডক্টৰেট ডিগ্ৰী লাভ কৰা৷ লোকৰ সংখ্যা আঙুলিৰ আগত লেখিব পৰা আছিল।",
+  "confidence": {
+    "word_count": 185,
+    "mean": 92.38,
+    "median": 95.94,
+    "minimum": 12.36,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 14 diacritics",
+        "Detected 14 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.145,
+  "page_elapsed_seconds": 4.615,
+  "peak_process_tree_rss_bytes": 274292736,
+  "tesseract_warnings": [
+    "Detected 14 diacritics",
+    "Detected 14 diacritics"
+  ],
+  "processed_this_run": true
+}

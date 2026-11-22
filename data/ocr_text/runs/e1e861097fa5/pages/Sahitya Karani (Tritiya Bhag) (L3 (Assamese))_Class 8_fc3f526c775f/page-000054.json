@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 54,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৬                 মাকণৰ চিঠি                   স্তৰ, ঞ্চ,স্ক,স্ম স্ননগ্ল\n\nস্কুলৰ চৌহদত কাঠ মিস্ত্ৰি এজনে কাঠৰ আচবাব সাজি আছিল। জিৰণি পৰত\nমাকণে মিস্ত্ৰিজনৰ ওচৰত থিয় হৈ বেঞ্চ সজা কাম চাবলৈ ধৰিলে। সেই সময়ত প্রধান\nশিক্ষকজন মিস্ত্ৰিজনৰ ওচৰলৈ আহিল। তেওঁক দেখি মিস্ত্ৰিজনে এখিলা কাগজ উলিয়াই\nদি ক’লৈ -- ‘ছাৰ, এতিয়ালৈ কৰা কামৰ বাবদ মই পাবলগীয়া পইচাৰ এয়া হিচাপ ৷” প্ৰধান\nশিক্ষকগৰাকীয়ে কাগজখন চাই মিস্ত্ৰিজনক টকা কেইটামান দিলে। ইয়াকে দেখি মাকণে\nবিস্ময় মানিলে। ঘৰত তায়ো কাম কৰি মাকক সহায় কৰি দিয়ে; তায়ো তেনেহ’”লৈ মাকৰ\nপৰা পইচা বিচাৰিব পাৰে দেখোন।\n\nস্কুল ছুটাৰ পাছত মাকণ ঘৰলৈ উভতিল ৷ মাকে বাঢ়ি দিয়া ভাতকেইটা তাই খৰধৰকৈ\nখালে। ৰাহি হোৱা খোৱা বস্তুখিনি তাই ঢাকি-ুকি সামৰি থ’লে। ভাত খোৱা বাচনখিনিও\nধুলে আৰু কোঠালিটো সাৰি অঁটালে। তাৰ পাছত মাকণ নিজৰ পঢ়া মেজলৈ গ’ল আৰু\nএখিলা কাগজত তাই কৰা কামৰ বিৱৰণ দি মাকলৈ এই বুলি লিখিলে -=\n\n‘কাম কৰিলে যে পইচা পায়, মই আজিহে জানিলোঁ। ময়ো ঘৰত কৰা কামৰ বাবে\nপইচা পাব লাগে। বাচন ধোৱাৰ বাবে এটকা আৰু ঘৰ সৰাৰ বাবে দুটকা, মুঠতে তিনি টকা\nমোক দিবা৷ মই আজি কৰা কামৰ বাবদ পাবলগীয়া পইচাৰ হিচাপ দি এই চিঠিখন দিলোঁ ৷\nনমস্কাৰ ল’বা’”।\n\nমাকণ",
+  "confidence": {
+    "word_count": 180,
+    "mean": 90.58,
+    "median": 95.84,
+    "minimum": 24.12,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.024,
+  "page_elapsed_seconds": 3.341,
+  "peak_process_tree_rss_bytes": 241582080,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

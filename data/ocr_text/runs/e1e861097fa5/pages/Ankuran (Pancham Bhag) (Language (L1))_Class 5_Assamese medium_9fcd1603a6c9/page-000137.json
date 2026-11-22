@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 137,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দ                অৰ্থ                   শব্দ                অৰ্থ\nৰি                                           ্ধ\nজেপ    - পকেট, চোলা বা ঠেঙা আদিত লগাই\nদিয়া মোনা                        নি          পৃথিৱী\nজেউতি = জ্যোতি, পোহৰ, দীপ্তি, কান্তি       ধৰফৰাই    ইফাল সিফালকৈ লুটি-বাগৰ মাৰি\nজনপ্ৰিয় - লোকপ্ৰিয়, সকলো মানুহৰে প্রিয় বা           ফুৰি, কষ্ট পাই হাত ভৰি এছাৰি,\nভাল লগা                                     ছটফটাই\nড                                           ন\nডাইনা-পালি- ওজা-পালি অনুষ্ঠানত ওজাৰ প্রধান                                                ,\nসহায়ক পালি; ওজাৰ সোঁহাত স্বৰূপ      নিধন           হত্যা, বধ, বিনাশ, সংহাৰ, মৰণ, মৃত্যু\nপালি                           নিষ্ঠা         দৃঢ় আস্থা, গভীৰ অনুৰাগ, শ্ৰদ্ধা,\nত                                                     অত্যধিক মনোযোগ বা ভক্তি\nতিৰস্কাৰ - গালি, নিন্দা, বিতণ্ডা, অপমান           নিগৰি        লাহে লাহে ওলাই বৈ পৰি (পানী),\nতৃপ্তি _- সন্তোষ, ঘাইকৈ খোৱা-লোৱাৰ পৰা           ম্ৰপৰ্জূঞ্চেৰীলৈ বৈ\nশুৱনি হোৱা     !                             সামান্য পৰিমাণ বা ক্ষুদ্ৰঅংশ চাই তাৰ\nততালিকে - তৎক্ষণাৎ                                      পৰা হোৱা ধাৰণা\nথ                        নিৰাশ        আশাহীন, আশাপূৰ নোহোৱা\nদ্‌                        নিঃশেষ - শেষ বা বাকী নথকা, সমুদায়, সম্পূৰ্ণ,\nদুৰ্বল  - বলহীন, শক্তিহীন, নিৰ্বলী, বল                  পূৰা                  সম্পূ\nনাইকিয়া                                              |\nদৃঢ়মনা - ডাঠ মনা, সংকল্প এৰি নিদিয়া          নম্ৰ          শান্ত,নত, দৌ খাই থকা; অহংকাৰ শূন্য\nদিশ        - পূব, পশ্চিম আদি ফাল                   নিমগ্ন            ডুব যোৱা, ভাবি থকা\nদশ = (()া কত, পা                  নিৰহংকাৰী - অহংকাৰ নোহোৱা, গৰ্ব নথকা,\nদৃঢ়তাসম্পন্ন- ডাঠ মনৰ, সংকল্পত অলৰ-অচৰ,                আত্মাভিমানী নোহোৱা\nনেৰানেপেৰা\nদৰিদ্ৰ - দুখীয়া, গৰীব, দীন                  দিক|         পৰিঞ্কাৰ, নিৰ্মল\nদৃঢ়তা     - কঠিনতা,অলৰ-অচৰ      গুণ,     নৈতিক       নীতি সম্বন্ধীয়, নীতিগত\nসংকল্পৱদ্ধতা\nদোহাৰে - পুনৰাবৃত্তি কৰে, পুনৰ কয়, ওজাই\n\nগোৱাৰ পিছত গীতৰ যি ভাগ\nসকলোৱে আকৌ ঘূৰাই গায়",
+  "confidence": {
+    "word_count": 214,
+    "mean": 87.69,
+    "median": 95.79,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.104,
+  "page_elapsed_seconds": 3.431,
+  "peak_process_tree_rss_bytes": 247951360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

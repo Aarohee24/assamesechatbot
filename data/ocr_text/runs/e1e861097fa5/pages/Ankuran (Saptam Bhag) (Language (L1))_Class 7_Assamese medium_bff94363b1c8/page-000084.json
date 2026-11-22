@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 84,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৩। আহোম ৰজাৰ দিনৰ কি কি কীৰ্তি চিহ্ন আমি এতিয়াও দেখিবলৈ পাওঁ, নামবোৰ লিখা।\n\n১৪। এই পাঠটোৰ আৰু ‘অ’ মোৰ আপোনাৰ দেশ’ গীতটিৰ লেখকজনৰ নাম লিখি\nতেখেতৰ দেশ-সেৱাৰ বিষয়ে কেইশাৰীমান বাক্য লিখা।\n\nজানো আহা\n\nমালিতা ঃ\n\nমালিতা এবিধ থলুৱা ভাষাত গঢ় লৈ উঠা কাহিনী গীত। মানুহৰ মুখে মুখে চলি অহা এই\nগীতবোৰে সমাজ-জীৱনক সামগ্ৰিকভাৱে প্রতিফলিত কৰে। সংগীত ধৰ্মিতাই ইয়াৰ প্রাণস্বৰূপ।\nতোমালোকে পঞ্চম শ্ৰেণীৰ পাঠ্যপুথিত পোৱা ‘ফুল কৌৱৰৰ গীত’ এটি জনপ্ৰিয় মালিতা।\nসবাহ ঃ\n\nসবাহ হৈছে ধৰ্মীয় অথবা সামাজিক বিশেষত্ব থকা এটি অনুষ্ঠান। সাধাৰণতে এক নিৰ্দিষ্ট\nসময়ত আৰু নিৰ্দিষ্ট দিনত এই সবাহ পতা হয়৷ যেনে-গৰখীয়া সবাহ, গোপিনী সবাহ, অপেশ্বৰী\nসবাহ ইত্যাদি।\nক্ৰীড়া-কৌতুক ঃ\n\nক্ৰীড়া-কৌতুকক খেল-ধেমালি নামেৰে জনা যায়। অসমৰ সকলো জাতি-জনগোষ্ঠীৰ মাজত\nঅতি প্ৰিয় বহুতো থলুৱা খেল-ধেমালি আছে। যেনে--- কণী যুঁজ, কাঁড় খেল, ৰছী টনা, কড়ী,\nচেংগুটি,ঘিলা খেল,নাও খেল ইত্যাদি।\n\nঘ-- প্রকল্প\n১৫। তোমাৰ জিলাত থকা মন্দিৰ, দৌল আৰু দেৰালয়ৰ তথ্য সংগ্ৰহ কৰি এখন তালিকা\nপ্ৰস্তুত কৰ৷।\n১৬। ছবি দুখন পৰ্যৱেক্ষণ কৰা আৰু প্রতিখন ছবিৰ বিষয়ে একোটাকৈ টোকা লিখা।\n\n= - ১৫ নং কি্‌্যা-কলাপটো কৰাওতে সহায় কৰিব।\nণঞ্্- ১৬নংক্রিয়া-কলাপটো কৰাওঁতে ছবি কেইখন চাই প্ৰতিজন ছাত্ৰ-ছাত্ৰীক প্ৰথমে ক’বলৈ দিব আৰু একোটাকৈ টোকা লিখিবলৈ দিব ।",
+  "confidence": {
+    "word_count": 183,
+    "mean": 87.89,
+    "median": 95.13,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.936,
+  "page_elapsed_seconds": 3.274,
+  "peak_process_tree_rss_bytes": 289120256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

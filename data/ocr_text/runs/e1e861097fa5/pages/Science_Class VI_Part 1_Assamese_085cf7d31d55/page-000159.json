@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 159,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কিছুমান বস্তুৰ মাজেৰে আমি দেখা পাওঁ; যেনে-- বায়ু, কাচ আৰু পলিথিন। যি বস্তু\nবা দ্রব্যৰ মাজেৰে আমি দেখা পাওঁ সেয়া হ’ল স্বচ্ছ বস্তু বা স্বচ্ছ দ্ৰব্য। আনহাতে যি বস্তু বা\nদ্রব্যৰ মাজেৰে আমি দেখা নাপাওঁ তাক অস্বচ্ছ বস্তু বা অস্বচ্ছ দ্ৰব্য বোলা হয়।\n\n[] কভিরয়াকলাপ 5.6:\n\nদুখিলা বগা ডাঠ কাগজ আৰু এটা টৰ্চ লাইট লোৱা। এখিলা কাগজত অলপ কেৰাচিন\nতেল মচি লোৱা। টৰ্চ লাইটটো জ্বলোৱা। এতিয়া তেল লগোৱা আৰু নলগোৱা প্রতিখিলা\nকাগজৰ মাজেৰে টৰ্চৰ বাল্বটো চোৱা। কি দেখিলা?\n\n(৪) এখন বগা কাগজৰ মাজেৰে টৰ্চৰ পোহৰ (৮) তেলসনা কাগজৰ মাজেৰে টৰ্চৰ পোহৰ\nচিত্ৰ 57 : অস্বচ্ছ আৰু টী স্বচ্ছ বসু\n\nতেল নঘঁহা কাগজখনেৰে বাল্বটো দেখা নোপোৱা। এই কাগজখন অস্বচ্ছ৷ তেল\nলগা কাগজখনৰ মাজেৰে বাল্বটো দেখিছানে? যদি দেখিছ| স্পষ্টকৈ দেখিছানে? তেল লগা\nকাগজৰ মাজেৰে বস্তু বা দ্রব্য স্পষ্টকৈ দেখা পোৱা নাযায়। যাৰ মাজেৰে আমি স্পষ্টকৈ দেখা\nনাপাওঁ, তাক অৰ্ধস্বচ্ছ বা ্ষৎ স্বচ্ছ বস্তু নতুবা অৰ্ধস্বচ্ছ বা সষৎ স্বচ্ছ দ্রব্য বোলা হয়।\nতলৰ দিয়া চিত্ৰত /, 13, (\" ৰে চিহ্নিত কৰা বস্তুবোৰক স্বচ্ছ, অস্বচ্‌ আৰু ই্টাষৎ স্বচ্ছ হিচাপে\nচিনাক্ত কৰি লিখা ৷",
+  "confidence": {
+    "word_count": 169,
+    "mean": 87.57,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.786,
+  "page_elapsed_seconds": 3.194,
+  "peak_process_tree_rss_bytes": 305553408,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

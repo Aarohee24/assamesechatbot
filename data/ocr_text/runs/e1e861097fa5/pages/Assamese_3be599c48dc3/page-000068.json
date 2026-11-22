@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 68,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সাধাৰণ তুলাচনী প্রস্তুত কৰি নিৰ্দ্ধাৰিত ওজনৰ\nসহায়ত বস্তু ওজন কৰা। নিৰ্দ্ধাৰিত ওজনৰ\nএকক নাথাকিলে-ইু কেজিৰ দাইলৰ পেকেট,\n২০০ গ্ৰামৰ নিমখৰ পেকেট বা ১০০ গ্ৰামৰ\nবিস্কুট্ৰ পেকেট ব্যৱহাৰ কৰিব পাৰি।\n\nঞ নতুন কৌশলেৰে ওজনৰ একক ব্যৱহাৰ কৰা,\nযেনে--_- ৫০০ গ্ৰামৰ এটা পেকেটৰ পৰিৱৰ্তে\n২ টা ২৫০ গ্ৰামৰ একে পেকেট ব্যৱহাৰ কৰা\nবা সম ওজনৰ শিলগুটি ব্যৱহাৰ কৰা।\n\nঞ্ড পাত্ৰৰ ধাৰণ ক্ষমতা নিৰ্ণয় কৰিবলৈ ছাত্ৰ\nছাত্ৰীসকলে নিজে মাপক পাত্ৰ প্রস্তুত কৰিব।\nউদাহৰণস্বৰূপে, এটা বটলৰ ধাৰণ ক্ষমতা\n২০০ মিলিলিটাৰ ৷ এটা জগ বা পাত্ৰত কিমান\nপানী আছে জানিবলৈ এই ২০০ মিলিলিটাৰ\nবটলটোৰ সহায় ল’ব পাৰে।\n\n৬ কেলেণ্ডাৰ পৰ্যৱেক্ষণ কৰি আৰু এবছৰত\nকিমান সপ্তাহ আৰু কিমান মাহ থাকে জনা।\nছাত্ৰ-ছাত্ৰীক প্রতি মাহত থকা দিন আৰু মাহৰ\nতাৰিখৰ লগত থকা সম্পৰ্ক পৰ্যবেক্ষণ\nকৰিবলৈ দিয়া।\n\n৬ পৰিৱেশত পোৱা আকৃতি আৰু সংখ্যাৰ\nচানেকি চাবলৈ দিয়া আৰু এনেধৰণৰ চানেকি\nসাজি বিস্তৃত কৰিবলৈ দিয়া।\n\n৬ ছাত্ৰ-ছাত্ৰীয়ে পৰিৱেশৰ পৰা তথ্য সংগ্ৰহ কৰি\nইয়াৰ ওপৰত অৰ্থপূৰ্ণ ফলাফল উলিয়াবলৈ\nদিয়া। এই অভিজ্ঞতাৰ পৰা ছাত্ৰ-ছাত্ৰীয়ে\nতথ্যৰ ব্যৱহাৰ জনাত গুৰত্ব দিব।\n\n আলোচনী, বাতৰি কাকতত দিয়া তথ্য,\nৰেখাচিত্ৰ ইত্যাদি চাই এইবিলাক ব্যাখ্যা কৰা।\n\nযাবলৈ ভাল পাওঁ। জ্ৈষ, সৰ\n\nস্ত্ু (; \"=   ৰ                   ৰ ৷\n৮: ২==.১৮৭2== ও ৬ ্ন্হ্দু",
+  "confidence": {
+    "word_count": 176,
+    "mean": 88.74,
+    "median": 95.9,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.749,
+  "page_elapsed_seconds": 2.974,
+  "peak_process_tree_rss_bytes": 323780608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

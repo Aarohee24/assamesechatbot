@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 163,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বজ্ৰ-ৰোধক পৰিবাহী দণ্ড ঃ                          15.7 ভূমিকম্প ঃ\n\nবজ্ৰপাতৰ পৰা অট্টালিকাবোৰক ৰক্ষা কৰিবলৈ ব্যৱহাৰ তোমালোকে ধুমুহা ঢেৰেকনি আৰু বজ্ৰপাতৰ কথা\nকৰা সঁজুলিবিধ হৈছে বজ্ঞ ৰোধক পৰিবাহী দণ্ড। শিকিলা। সপ্তম শ্ৰেণীত তোমালোকে ঘ্বৰ্ণিবতাহৰ\nঅট্টালিকা নিৰ্মাণৰ সময়ত তাতোকৈ ওখ এডাল ধাতুৰ বিষয়ে পঢ়িছিলা। এই প্রাকৃতিক ঘটনাবোৰে মানুহৰ\nদণ্ড ঘৰটোৰ বেৰত সংলগ্ন কৰা হয়। দণ্ডৰ এটা মূৰ জীৱন আৰু সম্পত্তিৰ বিস্তৰ ক্ষতি কৰিব পাৰে।\n15.7 চিত্ৰত দেখুৱাৰ দৰে মুক্ত অৱস্থাত ৰখা হয় আৰু সৌভাগ্যক্ৰমে এইবোৰৰ আগজাননী কিছু পৰিমাণে\nআনটো মূৰ মাটিৰ বহু তললৈ পুতি থোৱা হয়। এই পাব পাৰি। বতৰ বিজ্ঞান বিভাগে কোনো স্থানত ধুমুহা\nদণ্ডই বিদ্যুৎ আধান সহজে ভূ-পৃষ্ঠলৈ কঢ়িয়াই নিয়ে। ঢেৰেকনিৰ সম্পৰ্কে আগজাননী দি সতৰ্ক কৰি দিব\nঘৰ আদি নিৰ্মাণৰ সময়ত ব্যৱহাৰ কৰা ধাতুৰ পাৰে।\n\nস্তম্ভ, বিদ্যুতৰ তাৰ আৰু পানীৰ পাইপেও আমাক কিছু    ধুমুহা ঢেৰেকনি হ’লে বজ্ৰপাত আৰু ঘূৰ্ণিবতাহৰ\nপৰিমাণে ৰক্ষা কৰে। কিন্তু ধুমুহা ঢেৰেকনিৰ সময়ত সম্ভাৱনা থাকে। গতিকে এই ঘটনাবোৰৰ পৰা হ’ব পৰা\nকেতিয়াও সেইবোৰ নুচুবা।           অনিষ্টৰ পৰা ৰক্ষা পাবলৈ সময় পোৱা যায়।\n\nবজ্ৰ-ৰোধক\nপৰিবাহী দণ্ড\n\nচিত্ৰ 15.7 : বজ্ৰ-ৰোধক পৰিবাহী দণ্ড",
+  "confidence": {
+    "word_count": 161,
+    "mean": 91.96,
+    "median": 95.86,
+    "minimum": 29.59,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.983,
+  "page_elapsed_seconds": 3.273,
+  "peak_process_tree_rss_bytes": 307986432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

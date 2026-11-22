@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জেঠাই-- তুমি ঠিকেই ধৰিছা; আৰু কি জানা, মানুহে খোৱা প্রায়বোৰ খাদ্যকে দুয়ো\nখায়। কুকুৰ আৰু মেকুৰী উভয়ৰে কিন্তু বুদ্ধি চোকা। ইহঁতৰ ঘ্ৰাণ শক্তিও\nতীক্ষ্ু। দুয়ো চিকাৰী প্ৰাণী। ইহঁতে সহজে পোহ মানে। কুকুৰ বৰ প্রভুভক্ত আৰু\nবিশ্বাসী। ই অতি সতৰ্কতাৰে গৃহস্থৰ ঘৰত পহৰা দিয়ে। গছৰ পাত সৰি পৰাৰ শব্দ\nশুনিও ইহঁতে ভুকিবলৈ ধৰে। আজি-কালি চোৰ-ডকাইত ধৰা কাৰ্যত পুলিচেও\nকুকুৰ ব্যৱহাৰ কৰে। অৱশ্যে মেকুৰী তেনেকুৱা নহয়। মেকুৰীয়ে উম লগা কোমল\nঠাইত শুবলৈ ভাল পায়। এন্দুৰ, নিগনি আদি মাৰি গৃহস্থৰ উপকাৰো সাধন কৰে।\nঅকুমণি-- তাৰমানে জেঠাই, ইহঁত আমাৰ উপকাৰী জন্তু?\nজেঠাই -- হয়, ইহঁত মানুহৰ বৰ উপকাৰী। এতিয়া ইহঁত শুব। আমিও অলপ জিৰণি\nলওঁগৈ ব’লা।\n(অকুমণি জেঠায়েকৰ লগত ঘৰৰ ভিতৰলৈ সোমাই গ’ল। ভতুৱা আৰু খকুৱায়ো\nখৰিয়াল সামৰি টোপনি মাৰিবলৈ ধৰিলে।)\n\nক্ৰিয়া-কলাপ\n\n(0 পাঠত থকা চৰিত্ৰসমূহৰ লগত পৰিচয় হোৱা।\n\nভতুৱা -=- এটা শকত-আৱত ধেকুৰা কুকুৰ।\nখঁকুৱা -- এটা লুভীয়া বোন্দা, বোন্দা মানে মতা মেকুৰী।\nজেঠাই -=- অকুমণিৰ মাকৰ বায়েক, গাঁওবুঢ়াৰ ঘৈণীয়েক।\nঅকুমণি -- গিৰীহঁতনী (জেঠাই)ৰ ভতিজাক",
+  "confidence": {
+    "word_count": 152,
+    "mean": 90.83,
+    "median": 93.3,
+    "minimum": 13.49,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.375,
+  "page_elapsed_seconds": 3.808,
+  "peak_process_tree_rss_bytes": 241520640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

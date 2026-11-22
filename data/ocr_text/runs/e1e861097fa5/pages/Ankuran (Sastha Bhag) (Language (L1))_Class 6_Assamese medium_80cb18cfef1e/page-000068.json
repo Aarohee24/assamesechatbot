@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 68,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "হৰিভক্ত কটুৱাল (১৯৩৫-১৯৮০ চন)--- বহুমুখী প্ৰতিভাসম্পন্ন নেপালী কবি হৰিভক্ত কটুৱাল৷\nঅষ্টম শ্ৰেণীত পঢ়ি থকা সময়তে স্বাধীনতা আন্দোলনত অংশগ্ৰহণ কৰিছিল।\nতেখেত একাধাৰে কবি, গীতিকাৰ, নাট্যকাৰ, অভিনেতা আৰু চিত্ৰকৰ আছিল।\nতেখেতৰ কেইখনমান উল্লেখযোগ্য গ্ৰন্থ হ’ল--- (১) সমব্না (গীতি সংগ্ৰহ),\n“=/-*| (২) সুধা, (৩) য়ো জিন্দগী খৈ কে জিন্দগী আৰু (৪) বদনাম মেৰ| আঁখাহৰু।\n\n==\" --\"\" ডি সগৰ স্বৰ্ণপদক, শ্ৰেষ্ঠ কবি পুৰস্কাৰ আদি সন্মান লাভ কৰিছিল।\n\nহাৱাড দেনিচন মোমিন (১৯১৩ চন) -- গাৰো জাতিলৈ গৌৰৱ কঢ়িয়াই অনা আৰু প্রথম এম.\nএ. পাছ কৰা গাৰো মানুহজনৰ নাম হ’ল শিক্ষাবিদ হাৱাড দেনিচন মোমিন।\nতেখেতৰ পিতৃৰ নাম দেনিচন মাৰাক আৰু মাতৃৰ নাম এলিছ মোমিন | তেখেতে\nবহুত কিতাপ লিখিছিল। তাৰ ভিতৰত অন্যতম হ’ল--- (১) আচিক খুৰাং (২)\nমেচিক আৰো তামাখু (৩) দোখুৱা (৪) নাংখো গিছিক ৰাগেন (৫) ছেংৱতি\n(৬) দোমাছিখনি গীত (৭) বিলছিগিতাল আৰু (৮) কবিতা ৷ ৰবীন্দ্ৰনাথ ঠাকুৰৰ\nকিতাপ তৱলিশ্নৰানো ভাৰে অনুবাদ কৰিছিল। সেই কাৰণে তেখেতক “নতুন যুগৰ\nগাৰো জাতিৰ লিখক” বুলি কোৱা হয়।\n\nজানো আহা\n\n‘জোনাকী’ কাকতৰ জৰিয়তে অসমীয়া সাহিত্যত ৰোমাণ্টিক যুগৰ সূচনা হয়। ‘জোনাকী'ৰ সম্পাদক\nচন্দ্ৰ কুমাৰ আগৰৱালাৰ উপৰি আন দুজন ঘাই হোতা আছিল লক্ষ্মীনাথ বেজবৰুৱা আৰু হেমচন্দ্ৰ\nগোস্বামী ।অসমীয়া সাহিত্যত এই তিনিওগৰাকী ‘জোনাকীৰ ত্ৰিমূৰ্তি’ ৰূপে খ্যাত । এই তিনিওগৰাকী\nকবি-সাহিত্যিকে অসমীয়া সাহিত্য জগতত ৰোমাণ্টিক আন্দোলনৰ পাতনি মেলে।\n\nঞ তুমি জনা তিনিগৰাকী সাহিত্যিকৰ চমু পৰিচয় সংগ্ৰহ কৰি লিখা আৰু শ্ৰেণীকোঠাত পঢ়ি\nশুনোৱা।",
+  "confidence": {
+    "word_count": 209,
+    "mean": 87.12,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 42 diacritics",
+        "Detected 42 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.234,
+  "page_elapsed_seconds": 4.672,
+  "peak_process_tree_rss_bytes": 248438784,
+  "tesseract_warnings": [
+    "Detected 42 diacritics",
+    "Detected 42 diacritics"
+  ],
+  "processed_this_run": true
+}

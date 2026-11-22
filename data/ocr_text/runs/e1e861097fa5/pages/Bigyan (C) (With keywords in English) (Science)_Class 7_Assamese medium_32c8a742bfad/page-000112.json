@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 112,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰাসায়নিক সংযুক্তি বেলেগ বেলেগ হয়। এই\nতৰপবোৰক স্তৰ ([]01120009) বুলি কোৱা হয়। (চিত্র\n9.3)।\n\nপোষক দ্রব্যৰ যোগান ধৰে। এই তৰপটো সাধাৰণতে\nকোমল, ছিদ্ৰযুক্ত (01009) আৰু ই বহুত পানী ধৰি\nৰাখিব পাৰে।\n\nক-ত্তৰ (/১*-]1011201])\n\nখ-স্তৰ (]}-]011201])\n\nগ-স্তৰ ((471011201])\n\nশৈল সংস্তৰ\n(1১6010019)\n\nচিত্ৰ 9.3 মাটিৰ পাৰ্শ্ব-চিত্ৰ\n(৪9011 |)[101]12)\n\nআমি সাধাৰণতে মাটিৰ ওপৰৰ তৰপটোহে দেখা\nখন্দা খাল এটাৰ কাষটো লক্ষ্য কৰিলে, আমি মাটিৰ\nভিতৰৰ তৰপবোৰো দেখিবলৈ পাম। এনেকুৱা এটা\nদৃশ্যই আমাক সেই ঠাইৰ মাটিৰ পাৰ্শ্ব-চিত্ৰৰ পৰ্যবেক্ষণত\nসহায় কৰে। নাদ বা কুঁৱা খান্দি থাকোতে বা ঘৰৰ\nভেটিৰ নিৰ্মাণকাৰ্য চলি থকা সময়তো মাটিৰ পাৰ্শ্ব-\nচিত্ৰ দেখা পাব পাৰোঁ৷ পাহাৰীয়া ৰাস্তাৰ কাষত বা থিয়\nনদীৰ কাষতো ইয়াক দেখা পোৱা যায়।\n\nসাধাৰণতে আটাইতকৈ ওপৰৰ স্তৰটো ডাঠ\nৰঙৰ হয়, কাৰণ ই হিউমাছ আৰু খনিজ পদাৰ্থৰে\n([/1]218]9) সমৃদ্ধ৷ হিউমাছে মাটি সাৰম্বা\n(০0169) কৰে আৰু বৃদ্ধি হৈ থকা উদ্ভিদক\n\n98\n\nইয়াক শীৰ্ষ মৃত্তিকা ([0) 9০}}) বা কসস্তৰ\n(/১-|0112010) বোলে।\nপ্রাণী আৰু গুবৰুৱাৰ দৰে বহুতো জীৱৰ বাসস্থান। সৰু\nসৰু উদ্ভিদৰ শিপাবোৰ এই তৰপটোৱে ধৰি থাকে।\n\nইয়াৰ পিছৰ তৰপটোত হিউমাছৰ পৰিমাণ কম\nকিন্তু খনিজ পদাৰ্থৰ পৰিমাণ অধিক। এই তৰপটো\nসাধাৰণতে কঠিন আৰু বৰ আটিল আৰু ইয়াক খ-স্তৰ\n(]১4]0112010) বা মধ্য তৰপ ([|9[100]16 18%21)\nবোলে।\n\nতৃতীয় তৰপটো হ’ল গ-স্তৰ (৫-410112010}), ই\nফাট আৰু গাঁতযুক্ত সৰু শিলৰ টুকুৰাৰ দ্বাৰা গঠিত। এই\nস্তৰটোৰ তলতে শৈল সংস্তৰ (৮০0৫ 10019) থাকে, ই\nঅতি কঠিন আৰু ইয়াক খন্দা বৰ কনষ্টকৰ।\n\nবিজ্ঞান",
+  "confidence": {
+    "word_count": 213,
+    "mean": 84.47,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.017,
+  "page_elapsed_seconds": 3.377,
+  "peak_process_tree_rss_bytes": 290930688,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

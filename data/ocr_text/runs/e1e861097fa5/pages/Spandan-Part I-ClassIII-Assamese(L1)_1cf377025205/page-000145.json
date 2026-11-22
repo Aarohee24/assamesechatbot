@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 145,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ মালে খেলিমেলিকৈ দিয়া আছে। তাৰে প্ৰথম ফাকিৰ তলত\nসিহঁতৰ মূল পদ্যটোত থকা স্থান বুজোৱা সংখ্যাটো দিয়া আছে। দ্বিতীয় ফাকিৰো শব্দৰ ===\"\nতলত স্থানাংকবোৰ লিখি সংখ্যাৰ ক্ৰমত সজাই মাতি শুনোৰা--\n\n১   8৪      ৩   ২         ৰ\nতুলি ঢউ ৰূপোবালী          =\nজু   ঙ   ৫\nদিনতে নাশ    ৰাতি অন্ধকাৰ\nদীপালীৰ হয়, এনুৱা\n\n€_ ভক্িভ্ধায়ন __))\n\n/৩।ক) পাঠটোত উল্লেখ থকা'তলৰ শব্দবোৰক অৰ্থৰ সৈতে মিলোৰা। লগতে অভিধান\nচাই কাষৰ খালী, ঠাইত একে অৰ্থ বুজোৰা এটাকৈ শব্দ লিখা।\n\nপাঠত উল্লিখিত শব্দ             অৰ্থ\nসিংহবাহিনী                      কিসক নিনি বান\nচৰণ                                        গো এ্ৰলনত্ফণনদদতদনতিতনন\nগোসাঁই                         মচ ৯=ড39535393935393394555\nঅন্ধকাৰ                         তক .95স5\nস্মান                                        আন্ধ৷ৰ ১৬৯: ৯৷:১১:ত১:৪০১৷১১%৷\n\nঅধ্যায় ১০ ঃ উৎসৱ-পাৰ্বণ",
+  "confidence": {
+    "word_count": 97,
+    "mean": 71.88,
+    "median": 90.71,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.405,
+  "page_elapsed_seconds": 4.297,
+  "peak_process_tree_rss_bytes": 225218560,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

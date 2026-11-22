@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 14,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ ১.২ £ সৌৰজগত\n\n_ সূৰ্যৰ বহিঃপৃষ্ঠৰ উষ্ণতা প্ৰায় ৫৬০০ ডিগ্ৰী, চেলচিয়াছ আৰু\nঅন্তঃভাগৰ উষ্ণতা প্ৰায় ১.৫ কোটি ডিগ্ৰী চেলচিয়াছ\n\nসূৰ্যৰ ৰশ্মিৰ ২০০ কোটি ভাগৰ মাত্র -এক ভাগহে\nয়        পৃথিবী আহি পায়\n\nপৃথিবীতকৈ সূৰ্য ৩:৩ লাখ গুণে ডাঙৰ\n\nসূৰ্যৰ নিচিনা আকাৰত মধ্যমীয়া নক্ষবৱৰ আয়ুস সাধাৰণতে\n১০০০ কোটি বছৰ\n\nচিত্ৰ ১.৩ ঃ সূৰ্য\n\nউৎসঃ ]1{])9://119900.89510.,118958,50%/])]8112081\"%/ 8.০9116209001118.00.]) 077]\n\nগ্ৰহবোৰে সূৰ্যক আৰু উপগ্রবোৰে নিজ-নিজ গ্ৰহক প্রদক্ষিণ কৰা\nপথবোৰক কম্ষপথ (00610) বোলে। সৌৰজগতত গ্ৰহ আৰু নক্ষত্ৰৰ\nউপৰি আৰু বহুতো সৰু-বৰ সদস্য আছে (9০901 300169)। উপগ্ৰহ\n(981]11166), ধুমকেতু বা নেজাল তৰা (৫0000), উল্কা বা পপীয়া তৰা\n(\"[206019), গ্ৰহাণুপুঞ্জ (/॥॥৪(৮৮০10) আদি সেইবোৰৰ ভিতৰত পৰে।\nআমি নিশাৰ আকাশত দেখা চন্দ্ৰ বা জোনটো হৈছে উপগ্ৰহৰ উদাহৰণ ।\nচন্দ্ৰ হৈছে পৃথিৱীৰ একমাত্ৰ উপগ্ৰহ চন্দ্ৰটো সূৰ্যৰ তুলনাত বহুণ্ডণে সৰু\nযদিও পৃথিৱীৰ যথেষ্ট ওচৰত থকা বাবে পৃথিৱীৰপৰা চন্দ্ৰ আৰু সূৰ্য\nদুয়োটাকে আকাৰত প্রায় সমান যেন দেখি। বুধ আৰু শুক্ৰ গ্ৰহক বাদ দি\nআন গ্রহসমূহৰে৷ দুই বা ততোধিক উপগ্ৰহ আছে।\n\n                                        আমাৰ পৃথিৱী",
+  "confidence": {
+    "word_count": 150,
+    "mean": 81.76,
+    "median": 93.17,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.71,
+  "page_elapsed_seconds": 3.149,
+  "peak_process_tree_rss_bytes": 288366592,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

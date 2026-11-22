@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১২          ছীনিয়াত\n\n২২ । হজৰত ছুআইব (আঃ)        ২৪ | শেষ নবী হজৰত মুইন্মদ (ছঃ)\n২৩ | হজৰত সঁছা (আঃ)\nকোৰআন মজীদত আছে-\nঅৰ্থাৎ- ‘এনে কোনো সম্প্ৰদায় নাই, যাৰ ওচৰলৈ কোনো সতর্ককাৰী অহা\nনাছিল।’ (ছুৰা ফাতিব, কুকু -৩)।\nএই আয়াতৰ পৰা বুজা যায় যে, আল্লাহতাআলাই প্ৰতিখন দেশ আৰু\nপ্ৰত্যেক সম্প্ৰদায়ৰ ওচৰলৈ সৎপথ প্ৰদৰ্শনৰ বাবে দূত প্ৰেৰণ কৰিছিল।\nপ্ৰশ্নম-ভাৰতবৰ্ষলৈও পয়গান্বৰ বা দূত প্ৰেৰিত হৈছিল নেকি?\nউত্ত ৰ- কোৰআন মজীদৰ আয়াতৰ দ্বাৰা বুজা যায় যে, পৃথিৱীৰ প্ৰত্যেক\nজাতিৰ বাবেই একোজনকৈ পথ প্ৰদৰ্শক ((5১'__ = ) আৰু সতৰ্ককাৰী\n(৮_+4০--)) প্ৰেৰিত হৈছিল; তেনেক্ষেত্ৰত ভাৰতবৰ্ষতো কোনো নবী বা\nদূতৰ আগমন ঘটাতো অসম্তৱ নহয়।\nপ্ৰশ্ম- শ্ৰকৃষ্ণ, শ্ৰী ৰামচন্দ্ৰ আদি মহাপুৰুষসকলক আল্লাহৰ শ্ৰেৰিত দূত বুলি\nক’ব পাৰি নেকি?\nউত্তৰ- তেওঁলোকক শপ্ৰেথিত দূত হোৱাৰ কোনো প্ৰমাণ নাই। আল্লাহ্তাআলাই\nএই দায়িত্ব তেওঁৰ পছন্দনীয় বিশেষ ব্যক্তিৰ ওপৰত অৰ্পণ কৰে। উপযুক্ত\nপ্ৰমাণ অবিহনে আমি নিজ অভিকুচি অনুসৰি কোনো মহাপুৰুষক নবী বা\nপ্ৰেৰিত দূত বুলি মানি ল’ব নোৱাৰো।\nআমি যদি নিজ অভিকুচি অনুযায়ী কোনোবাক ৰাষ্ট্ৰপতিৰ প্ৰতিনিধি বা\nৰাজ্যপাল হিচাবে গ্ৰহণ কৰো আকু তেওঁ যদি ৰাষ্ট্পতিৰ দ্বাৰা মনোনীত\nহোৱা নাই, তেন্তে আমি ৰাষ্ট্ৰৰ ওচৰত এটি ডাঙৰ অপৰাধ কৰা হ’ব।\nকোৰআন মজীদ আৰু হাদীছৰ দ্বাৰা যিসকল মহীপুৰ্ুষ পয়গাম্বৰ\nবুলি প্ৰমাণিত হৈছে, তেওঁলোককহে আমি নবী বুলি বিশ্বাস আৰু অনুসৰণ\nকৰিব পাৰো ।",
+  "confidence": {
+    "word_count": 196,
+    "mean": 85.17,
+    "median": 93.22,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.274,
+  "page_elapsed_seconds": 2.413,
+  "peak_process_tree_rss_bytes": 244609024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

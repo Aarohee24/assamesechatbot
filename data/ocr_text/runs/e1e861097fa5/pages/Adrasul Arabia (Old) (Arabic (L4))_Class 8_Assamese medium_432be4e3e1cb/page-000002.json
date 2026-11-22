@@ -1,0 +1,67 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আৰবী পাঠ\n\nপ্রথম ভাগ\n\n(অষ্টম শ্ৰেণীৰ বাবে)\n\nপাঠ্যপুথিপ্ৰস্তুতকাৰী সকল ঃ\nড০ ৰায়না খানম মজুমদাৰ\n(ৰিডাৰ, গুৱাহাটী বিশ্ববিদ্যালয়)\nমোঃআতাউৰ ৰহমান\n(মূৰবী অধ্যাপক, আৰবী-ফাটী বিভাগ, কটন মহাবিদ্যালয়)\nড০ ফজলুৰ ৰহমান\n(প্ৰবক্তা, আৰবী বিভাগ, কটন মহাবিদ্যালয়)",
+  "confidence": {
+    "word_count": 33,
+    "mean": 82.84,
+    "median": 93.9,
+    "minimum": 18.01,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 35 diacritics",
+        "Detected 35 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.748,
+  "page_elapsed_seconds": 2.02,
+  "peak_process_tree_rss_bytes": 1220816896,
+  "tesseract_warnings": [
+    "Detected 35 diacritics",
+    "Detected 35 diacritics"
+  ],
+  "processed_this_run": true
+}

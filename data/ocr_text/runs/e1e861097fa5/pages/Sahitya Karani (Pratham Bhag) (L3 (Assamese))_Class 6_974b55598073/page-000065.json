@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nঞ্জ পৰ পৰা * লৈ বৰ্ণসমূহ চিনি পোৱা\n\nঞ্চ পব পৰা * লৈ বৰ্ণসমূহ পঢ়িব পৰা আৰু লিখিব পৰা\n\nঞ এ ‘কাৰৰ পৰা ও ‘0’ -কাৰ (স্বৰ) চিন লৈকে চিনি পঢ়িব আৰু লিখিব পৰা|\n\nঞ্চ শব্দৰ আগত, মাজত আৰু শেষত থাকিলেও এই -কাৰ (স্বৰ) চিন সমূহ বিচাৰি উলিয়াব পৰা|\nঞ্জ পৰব পৰা * লৈ বৰ্ণ আৰু ‘('- কাৰ (স্বৰ) চিনৰ পৰা ‘ট' - কাৰ (স্বৰ) চিনলৈ শব্দত চিনি পাই পঢ়িব আৰু লিখিব পৰা|\nঞ্চ শব্দ গগন কৰিব পৰা|\nঞ্জ চাই চাই লিখিব পৰা|\nঞ্চ শুনি শুনি লিখিব পৰা\nঞ্জ স্বৰবৰ্ণমালা আৰু ব্যঞ্জনবৰ্ণমালা লিখিব পৰা\n\nঞ্চ পূৰ্ণমাত্ৰা, মাত্ৰাহীন আৰু অৰ্ধমাত্ৰা বৰ্ণৰ বিষয়ে জনা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nংগ-ভংগী কৰি\nব্যঞ্জনবৰ্ণৰ গীত | শুনি শুনি গাব পৰা অংগ ভংগী কৰি  নিজে নিজে গাব\nৰ     পৰা\nব্যঞ্জনবৰ্ণসমূহ প | আখৰসমূহ ছবিৰ | আখৰ চিনি পঢ়িব |-পূৰ্ণমাত্ৰা, মাত্ৰাহীন\nৰ পৰা ‘লৈ | সহায়ত চিনি পোৱা | আৰু লিখিব পৰা  তাৰি  শব্দ ক'ব পৰা | শব্দ গঠন কৰিব পৰা\nজানিব পৰা\n‘০ কাৰৰ পৰা ‘0]'| 6০ থৈ 61, দে কাৰৰ । শব্দ গঠন কৰি\n2  লগত পৰিচয় আৰু | পঢ়িব আৰু লিখিব\nউচ্চাৰণ কৰিব পাৰিব  পাৰিব\nবস্তুৰ নামৰ ভিতৰত | ছবি চাই শব্দ ক'ব | শব্দত থকা\nশব্দ  থকা আখৰ চিনিব পৰা  পৰা   আখৰসমুহযাহি শুনি শুনি লিখিব পৰা\nপৰা\n\nূঞূ অহতা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ লৈ ১ চিন দিব ৷ অহৃতা\n\nআয়ভ নোহোৱা শিকাৰচক আতিৰিভভাবে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 237,
+    "mean": 83.86,
+    "median": 93.77,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.812,
+  "page_elapsed_seconds": 3.119,
+  "peak_process_tree_rss_bytes": 270794752,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

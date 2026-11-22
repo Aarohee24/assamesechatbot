@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আশ্রয় ল’লে। অমৰাৱতীৰ অধিপতি দেৱৰাজ ইন্দ্ৰ আৰু\nতেওঁৰ মাদৈ শচীদেৱীৰ দুখ-দুৰ্গতিৰ সীমা নোহোৱা হ’ল।\nবৃত্ৰাসুৰ স্বৰ্গৰ সিংহাসনত বহিল। অমৰাৱতীত থকা\nপাৰিজাত ফুল আৰু মনোহৰ মন্দাকিনী নৈৰ গৰাকী\nহ’ল অসুৰবিলাক।\n\nদেৱতাসকলে আন উপায় নাপাই মহাদেৱৰ ওচৰ\nচাপিল। মহাদেউ গৌসায়ে তেওঁলোকক বৃত্ৰাসুৰৰ\nকেনেকৈ মৃত্যু হ'ব পাৰে সেই কথা কৈ দিলে। তাকে\nশুনি তেওঁলোকৰ মুখলৈ যেনিবা পানী আহিল।\n\nকৈলাসপতিৰ উপদেশ মতে দেৱতাসকলে অলকানন্দা\nনৈৰ পাৰলৈ গ’ল। তাত মহামুনি দধীচিয়ে আশ্ৰম পাতি\nআছিল। দেৱতাসকলে মুনিৰ আগত দুখৰ কথা বিৱৰি\nক’লে। অন্তৰ্যামী মুনিয়ে সকলেো৷ কথাৰ ভেদ পাই হীঁহি উত্তৰ দিলে-- ‘বৰ সুখৰ বাতৰি।\nদয়াময়ৰ দান--- এই দেহেৰে সজকাম কৰিবলৈ পোৱাটো\nভাগ্যৰ কথা৷ মোৰ পৰা কাৰে তিলমানো উপকাৰ হ’লেও ষষ্ঠ\nমোৰ জীৱন ধন্য হ'ব। মোৰ সাতপুৰুষৰ উদ্ধাৰ হ'ব।\nপৰোপকাৰ পৰম ধৰ্ম। মই কিহেৰে পৰোপকাৰ কৰিম।\nআগবাঢ়ি আহা, তোমালোকক লাগে মানে হাড় লোৱাহি ৷’\nএইদৰে কৈ মুনিবৰে সাধনাৰ বলেৰে হাঁহি হীহি দেহত্যাগ\nকৰিলে।\n\nদধীচি মুনিৰ হাড় দি তাৰে দেৱতাসকলে বিশ্বকৰ্মাৰ\nহতুৱাই বজ্ৰ তৈয়াৰ কৰালে আৰু সেই বজ্ৰৰেই ইন্দ্ৰ ৰজাই যুদ্ধ কৰি বৃত্ৰাসুৰক বধ কৰিলে।\nদেৱতাসকলে পুনৰ স্বৰ্গ অধিকাৰ কৰিলে।\n\nউৎস $ নতুন সাহিত্য সোপান, তৃতীয় ভাগ, পৃষ্ঠা- ২১-২৩ হৰিনাৰায়ণ দভবৰচণ্ৱা, সাহিতাৰতুৰ দ্বাৰা সংগৃহীত,\nপ্রৰকাশক- জ্যোতীজ্দ্ৰ নাৰায়ণ দত্তবৰুৱা ।",
+  "confidence": {
+    "word_count": 181,
+    "mean": 88.38,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.312,
+  "page_elapsed_seconds": 3.633,
+  "peak_process_tree_rss_bytes": 226054144,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

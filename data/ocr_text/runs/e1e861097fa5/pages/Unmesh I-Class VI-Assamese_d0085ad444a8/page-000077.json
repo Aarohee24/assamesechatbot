@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "===\n\n2  গ্ৰ  ম\n\nৰ ১৩। ত্ৰিয়াকলাপ নং ১২-ত থকা গল্পটোৰ সহায়ত তলত দিয়া তালিকাখন পূৰ কৰা\nগল্পৰ নাম                  9১\n\n০১০\n\nঢ়\n\nৰ ১৪। যিকোনো এজন গল্পকাৰৰ গল্প সংগ্ৰহ কৰি পঢ়া। তাৰে যিকোনো এটা গল্পৰপৰা\nকি শিকিলা লিখা ৷\n\n১৫। পাঠৰ লগত সংযোজিত 01২ ক’ড স্কেন কৰি ড’ ভবেন্দ্ৰনাথ শইকীয়াৰ ‘শান্ত-শিষ্ট   |\nহৃষ্ট-পুষ্ট মহাদুষ্ট'ৰ আটাইকেইটা কাণ্ডৰ ভিডিঅ’ সহপাঠীৰ সৈতে একেলগে [|\nচোৱা। তোমালোকৰ অনুভৱ সহপাঠীৰ লগত আলোচনা কৰা।          ৰ\n\nদৈ          কত        ক্ৰিয়া-কলাপৰ |নিজাবৰীয়াকৈ শিক্ষকৰ সহায়ত নিদানমূলক শিক্ষাৰ\nঅৰ্হতা      উপ-অৰ্হঁতা       \">   ৰ  মিৰ  চিতে\n\n৫1.1 ৷ পাঠটোৰ মূল বিন্দুসমূহ চিনাক্ত কৰি ক’ব৷১, ২, 8, ৫, ৬,\nআৰু লিখিব পাৰিব।            ৭,১১,১২,১৩\n€-2.3 |* সামাজিক পৰিবেশৰ বিভিন্ন দিশ সম্পৰ্কে|১০\nধাৰণা কৰি লিখনৰ জৰিয়তে প্ৰকাশ কৰিব\nপাৰিব।\n€4-3.1 * নতুন শব্দৰ অৰ্থ বুজিবলৈ অভিধান ব্যৱহাৰ ৷৩\nকৰিব পাৰিব।\nজানিব।\nঙছ বিভক্তি আৰু বিভক্তিৰ চিনসমূহ জানি চিনাক্ত ৯\nকৰিব পাৰিব।\n€-4.2 * বিভিন্ন সমলৰ পৰা তথ্য সংগ্ৰহ কৰি প্রকল্পৰ ১৪\nকাম কৰিব পাৰিব।             ১৫\nদ্‌ প্রকল্পৰ বাবে বৈদ্যুতিন মাধ্যম ফলপ্ৰসূভাৱে\nব্যৱহাৰ কৰিব পাৰিব।                                            /\n\n|\n\nৰ",
+  "confidence": {
+    "word_count": 80,
+    "mean": 74.37,
+    "median": 90.93,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.422,
+  "page_elapsed_seconds": 5.868,
+  "peak_process_tree_rss_bytes": 276758528,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

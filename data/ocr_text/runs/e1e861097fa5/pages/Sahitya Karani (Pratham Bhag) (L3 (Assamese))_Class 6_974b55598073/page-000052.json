@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 52,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২১। সলনি হোৱা ৰূপ লিখোঁ আহা--\n\nগু            ণ্ু            ৰু            ৰু           ৰূ           ৰা\nগুৰ                 গুটি                ৰুটী                 ৰুমাল\nগুৰ                            গুৰ                           আবু:                           ৰাপক\n\n২২। ব্যঞ্জনবৰ্ণৰ লগত কাৰ (স্বৰ) চিন লগাই উচ্চাৰণ কৰি লিখোঁ আহা--\n\nঅ|আ(}ই |ই|উ ৷উ (৷২খ|৷এ)৷ এ|৷ও ৷ও\nদ্। || সি ।, |, |২}।৫।|লৈ ঘনে |নে\nক৷কা|[কি|কী৷কু।কু।৷কৃ|।কে| কৈ৷কো| কৌ\nখ\n\nম্ম\n\nৰ  ৰী  ৰে  ৰৌ\nল\n\nব্‌\n\nন্‌\n\nত তি  ত\n\nট\n\nগ\n\nথ\n\nকু প্রতোক ছাত্ৰ-ছাতীক কাযৰটো কৰাত সহায় কৰিব।",
+  "confidence": {
+    "word_count": 70,
+    "mean": 73.63,
+    "median": 85.78,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 1.842,
+  "page_elapsed_seconds": 2.111,
+  "peak_process_tree_rss_bytes": 277536768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

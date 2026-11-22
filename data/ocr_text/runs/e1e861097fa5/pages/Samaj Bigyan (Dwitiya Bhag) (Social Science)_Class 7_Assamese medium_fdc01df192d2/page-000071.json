@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 71,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বনজ সম্পদত চহকী আমাৰ ৰাজ্যখনত বৰ্তমান সময়ত বিভিন্ন ধৰণৰ আন্তঃগাঠনিৰ সম্প্ৰসাৰণৰ বাবে বননি\nধ্বংসৰ সন্মুখীন হ’বলগীয়াত পৰিছে। কিন্তু সেই অনুপাতে আমি বৃক্ষৰোপণ কৰা নাই। অৱশ্যে, বৰ্তমান সময়ত ৰাজ্য\nচৰকাৰে সীমামূৰীয়া অঞ্চলসমূহকে ধৰি বিভিন্ন বনাঞ্চলসমূহ ৰক্ষণাবেক্ষণৰ বাবে নানান পদক্ষেপ হাতত লৈছে।\nব্যক্তিগতভাবেও আমি বনাঞ্চল বৃদ্ধিত পদক্ষেপ লব পাৰো। নিজে পঢ়া বিদ্যালয়খনেই হওঁক বা নিজৰ গাঁও খনৰ\nৰাস্তাৰ কাষতে হওঁক তোমালোকেও একক বা দলীয় প্ৰচেষ্টাত বৃক্ষৰোপণ কাৰ্যসূচী হাতত ল’ব পাৰা।\n\nউত্তৰ লিখা ঃ\n৪ তোমাৰ অঞ্চলত থকা তিনিবিধ চিৰসেউজীয়া উদ্ভিদৰ নাম।\n৪ তোমাৰ অঞ্চলত পোৱা তিনিবিধ পৰ্ণপাতী উদ্ভিদৰ নাম।\n৪ উদ্ভিদৰ সংখ্যা বৃদ্ধি আৰু বন্যপ্ৰাণী সংৰক্ষণৰ ৩টা উপায় ।\n৪ অসমত থকা কেইবিধমান বিৰল প্ৰজাতিৰ প্রাণীৰ নাম।\n&€ অসমৰ দুটা ব্যঘ্ৰ প্রকল্পৰ নাম।\n\nখনিজ সম্পদ 2\n\nঅসমৰ ভুগৰ্ভত কয়লা, খাৰুৱাতেল, প্রাকৃতিক গেছ, চূণশিল, ছিলিমেনাইট, এছবেচ্‌টছ আদি খনিজ সম্পদ\nপোৱা যায়। ১৮৮৯ চনত ইংৰাজসকলে ভাৰতৰ ভিতৰতে প্ৰথমতে ডিগবৈত খাৰুৱা তেলৰ সন্ধান পায়। বৰ্তমান\nনাহৰকটীয়া, হুগ্জীজান, মৰাণ, ৰুদ্ৰসাগৰ, গেলেকী, বৰহোলা, লাকুৱা, দিহিং উপত্যকা আদি ঠাইৰ তেলৰ পুঙৰ পৰা\nখাৰুৱা তেল আহৰণ কৰা হয়। এই পুংসমূহৰপৰা খাৰুৱা তেলৰ উপৰি প্রাকৃতিক গেছো আহৰণ কৰা হয়। অ’এন জি\n\nখনিজ সম্পদৰ বিতৰণ, অসম\n\nৰণ                                খ্‌        2                                    সাংকেতিক চিহ্ন\nলি         /                                     পঞ্চ খাৰুৱা তেল\nদঃ                                (             ন                                             ঞ্চ কয়লা\n(১ ৫১            (আনুমানিক মাপনি) __ *“ শিল\nচ্ৰ5\nচিত্ৰঃ ৭১",
+  "confidence": {
+    "word_count": 200,
+    "mean": 85.59,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.845,
+  "page_elapsed_seconds": 4.464,
+  "peak_process_tree_rss_bytes": 240234496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

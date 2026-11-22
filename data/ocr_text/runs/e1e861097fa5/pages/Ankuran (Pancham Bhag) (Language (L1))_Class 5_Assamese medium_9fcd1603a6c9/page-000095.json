@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 95,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনাগতবিধাতাৰ কথা শুনি\n\nপ্রত্যুৎপন্নমতিয়ে ক’লে --\n“আপুনি সঁচা কথাকেই কৈছে।\nময়ো এই বিল এৰি অতি শীঘ্ৰে =\nযোৱাটোকেই উচিত হ’ব বুলি\nভাবোঁ। কিয়নো, যাৰ জীয়াই থকাৰ\nউপায় থাকে, তেওঁ কিহৰ মোহত\nবিনাশ হ'ব? ‘পিতৃ-পিতামহৰ কুঁৱা’\nবুলি ভবা কাপুৰুষসকলেহে খাৰুৱা\n\nঅনাগতবিধাতা আৰু প্রৰত্যুৎপন্নমতিৰ কথা শুনি ভাত =- “জাৱা ত= স:স্লীষা\n“তোমালোকে আলোচনা কৰা কথাবোৰ বৰ ভাল লগা নাই৷ যদি আয়ুস শেষ হয় তেনেহ’লৈ\nঅন্য ঠাইলৈ গ’লেও মৃত্যু হ’বই । বনত বিসৰ্জন দি অহাজনো জীয়াই থাকে আৰু ঘৰত\nসুৰক্ষিতভাৱে থকাজনৰো বিনাশ হয়। আমাৰ সমাজত সাধাৰণতে কোৱা হয় ==\nমুখৰ কথাতেই পিতৃ-পিতামহৰ এই বিলখন এৰি যোৱাটো যুক্তিযুক্ত বুলি নাভাবোঁ। গতিকে\nমই ক’লৈকো নাযাওঁ। তোমালোকে যি ভাল বুলি ভাবা তাকেই কৰা।”\n\nযদ্ভৱিষ্যৰ এনেকুৱা আঁকোৰ-গোঁজ মনোভাব দেখি তেওঁক এৰি অনাগতবিধাতা\nআৰু প্রত্যুৎপন্নমতি নিজৰ নিজৰ পৰিয়ালবৰ্গৰে সৈতে আন বিললৈ গুচি গ’ল। পাছদিনাখন\nপুৱা মাছমৰীয়াসকলে আহি বিলত জাল পেলালে৷ তেওঁলোকে জালেৰে মাছ মাৰি গোটেই\nবিলখন ঘোদালি পেলালে আৰু যদ্ভবৱিষ্যৰ লগতে থকা অন্যান্য মাছবোৰকো জালেৰে\nধৰি ঘৰলৈ লৈ গ’ল।\n\n“সাৱধানৰ মৰণ নাই৷” বিপদ অহাৰ আগতেই সাৱধান হোৱা অনাগতবিধাতা আৰু\nপ্রত্যুৎপন্নমতি সুখেৰে জীয়াই থাকিল, কিন্তু বিপদৰ কথা নাভাবি হাত সাৱটি থকা যদ্ভৱিষ্য\nবিনাশ হ’ল।\n\n(এই সাধুটো পঞ্চতন্বৰ পৰা লোৱা হৈছে)",
+  "confidence": {
+    "word_count": 181,
+    "mean": 89.05,
+    "median": 95.76,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 25 diacritics",
+        "Detected 25 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.902,
+  "page_elapsed_seconds": 4.435,
+  "peak_process_tree_rss_bytes": 247336960,
+  "tesseract_warnings": [
+    "Detected 25 diacritics",
+    "Detected 25 diacritics"
+  ],
+  "processed_this_run": true
+}

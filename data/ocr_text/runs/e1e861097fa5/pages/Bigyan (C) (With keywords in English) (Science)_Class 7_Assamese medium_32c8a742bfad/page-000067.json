@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তালিকা (00800 5.4\n\n1          চেম্পু (লঘু দ্ৰৱ) (511807]200)\n2              নেমুৰ ৰস\n3         ছ’ডা পানী (9০08 ৪2)\n4         ছ’ডিয়াম হাইড্ৰ’জেন কাৰ্বনেটৰ দ্ৰৱ\nৰু         ভিনেগাৰ (1116881\")\n6    চেনিৰ দ্ৰৱ\n7    খোৱা লৱণৰ দ্ৰৱ\nৰঙীণ হোৱালৈকে মিশ্ৰণটো ([[1ম016) কিছুসময় প্রহেলিকাই তোমালোকৰ বাবে তলত এটা সাঁথৰ\nথৈ দিয়া । ৰঙীণ (৫0100160) পানীখিনিক সূচক দিছে।\n([110108001) হিচাপে ব্যৱহাৰ কৰা। তালিকা 5.4ত           কফি মুগা আৰু সোৱাদত তিতা\nউল্লেখ থকা প্রতিটো দ্ৰৱত পাঁচটোপালকৈ এই সূচক     ই বাৰু অন্ননে?\nযোগ কৰা।                                                                               নে এটা ক্ষাৰকহে?\nআম্লিক (/১০1010), ক্ষাৰকীয় (/%]1.]1\"2) আৰু            নকৰাকৈ কোনো পৰীক্ষা\nপ্ৰশম দ্ৰৱবোৰত (]খণ০0008| 90100) সূচক যোগ        নিদিবা ইয়াৰ উত্তৰ,\nআন্নিক দ্ৰৱক (/*০০1০ 9010001})) ডাঠ গুলপীয়া        দিয়া নাই একো সদুত্তৰ\n([[8821118) বৰণলৈ আৰু ক্ষাৰকীয় দ্ৰৱক (/%]18]1116                      =\n৪0]10001}) সেউজীয়া বৰণলৈ পৰিৱৰ্তন কৰে।              ৬.       প. (১৫%) 54\n\nনিজৰ বিদ্যালয়খনৰ পৰীক্ষাগাৰ ([.8601801%9) বা\nওচৰৰ বিদ্যালয়ৰ পৰা তলত দিয়া ৰাসায়নিক দ্রব্যবোৰ\n(0]1210108] 1180211819) আনিবলৈ শিক্ষকক অনুৰোধ\nগোটা (৯০10) বেকিং ছ'ডা শুকান       কৰা হ'ল ঃ হাইড্রক্লৰিক (]])0100]10110) এছিড,\nলিটমাছ (1) ]}{01108) কাগজত        ছালফিউৰিক (9701)|10110) এছিড, নাইট্ৰিক (]খ}৷1০0)\nব্যৱহাৰ কৰি মই একে ফলাফল নাপাও               এছিড, এছিটিক (/০০০০) এছিড, ছ'ডিয়াম হাইড্ৰ'ক্সাইড\nদেখোঁন ৷ কিন্তু বাৰু?        ই       (900100]1 ]]9010স102), এমনিয়াম হাইস্র'ক্সাইড\nন       (/00]00]]0]]] ]])0[08102), কেলছিয়াম হাইড্ৰ'ক্সাইড\n(0৪81মে017} ]1)0103102) (চূণপানী)। প্ৰত্যেকটো দ্ৰৱতে\nতিনিওটা সূচকৰ ফল পৰীক্ষা কৰি চোৱা। তালিকা 5.5ত\nতোমালোকৰ পৰ্যৱেক্ষণসমূহ লিখিবা।\n\nতালিকা (00317) 5.5\n\n-          লঘু হাইড্ৰ'ক্লৰিক এছিড\n\nঅল্প, ক্ষক আৰু লৱণ                                                                       53",
+  "confidence": {
+    "word_count": 210,
+    "mean": 74.24,
+    "median": 92.05,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.292,
+  "page_elapsed_seconds": 3.583,
+  "peak_process_tree_rss_bytes": 298668032,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

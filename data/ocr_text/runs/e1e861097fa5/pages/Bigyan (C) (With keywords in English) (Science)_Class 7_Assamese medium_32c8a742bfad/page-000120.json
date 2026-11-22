@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 120,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(9) মাটিৰ প্রদূষণ আৰু মাটিৰ খহনীয়া কিদৰে বোধ কৰিব পাৰি ব্যাখ্যা কৰা।\n(10) তলত দিয়া শব্দ শৃংখলটো উল্লেখিত ইংগিতৰ সহায়ত সমাধান কৰা।\n\nঠ/।%%\n\nপৰ\nৰ\nৰরৰ্ৰ\n\n২\n\nহই\n২২২\n\n২২\n\n০০ ২\n\nৰ\n\n(1) ডাঙৰ আৰু মিহি কণিকাৰ পৰিমাণ প্ৰায় সমান থকা মাটিৰ প্রকাৰটো\n(3) মাটিৰ আটাইতকৈ ওপৰৰ ভৰটোৰ এটা বৈশিষ্ট্য\n(5) দোমোজা মাটিত বালি, বোকাৰ বাহিৰেও থকা আনবিধ উপাদান\n\nপঠালিকৈ ঃ\n(2) মাটিত থকা পচা পদাৰ্থ\n(8) কম পৰিমাণৰ হিউমাছ আৰু অধিক পৰিমাণৰ খনিজ পদাৰ্থ থকা মাটিৰ তৰপটো\n(6) হিউমাছ আৰু যি কণিকাৰ মিশ্ৰণক মাটি বুলি কোৱা হয় সি\n\nবিস্তাৰিত শিকন--- ত্ৰিয়াকলাপ আৰু প্ৰকল্প (][' (60060 ],691711116-- /*৫1ঘ10169 গ00 ]\"1\"0}]6069)\n\n(1) প্ৰজ্ঞানে পোৱা মাটি আৰু কেঁচা মাটিৰ মাজত থকা পাৰ্থক্য জানিব বিচাৰিছে। মাটিৰ কলহ তৈয়াৰ কৰা\nমাটি মূৰ্তি তৈয়াৰ কৰিবলৈ ব্যৱহাৰ কৰা মাটিতকৈ কেনেকৈ বেলেগ অনুসন্ধান কৰা।\n\n106                                             বিজ্ঞান",
+  "confidence": {
+    "word_count": 130,
+    "mean": 84.96,
+    "median": 95.92,
+    "minimum": 3.29,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.334,
+  "page_elapsed_seconds": 2.564,
+  "peak_process_tree_rss_bytes": 295641088,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

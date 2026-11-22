@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 54,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্ট ১ ৷ তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0 বৃত্তটো পূৰ কৰা--\n\n৪ ৰ’দত গছৰ সেউজী পাতবোৰ কিদৰে থাকে?\n(ক) হীঁহি থাকে      (গ) নাচি থাকে\n(খ) দোঁ খাই থাকে     (ঘ) ওফোন্দ পাতি থাকে\nক্) ঞে) গে) মে\nঞ্জ কবিয়ে কবিতাটোত কি গণিব নোৱৰাৰ কথা কৈছে?\n(ক) পানীৰ টোপ      (গ) সেউজী পাত\n(খ) ঘাঁহ-বন     (ঘ) _পূবালী বতাহ\nকে) ঞে) ৫) থে)\n্ঠ ২।শব্দ-অৰ্থ মিলাওঁ আহা--\nশব্দ           অর্থ\nদৌ খাই         বাহিৰলৈ\nওফোৌন্দ         ওপঙে\nবাজলে’         বেঁকা হৈ মূৰ তল কৰি\nভাহে          ঠেহ\n\nঠ/* ৩। তলত দিয়া প্ৰশ্নবোৰৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) কবিয়ে পথাৰ আৰু গছৰ সেউজী পাতবোৰ ৰ’দত কেনেদৰে থাকে বুলি কৈছে?\n(খ) কবিয়ে পানীৰ টোপালবোৰ কিয় গণি শেষ কৰিব নোৱাৰোঁ৷ বুলি কৈছে?\n(গ) কবিয়ে কি গীত শুনি ভাল পায়?\n(ঘ) কবিতাটোত কোনে কোনে হীহে, ওফোন্দ পাতে আৰু চকুপানী টোকে\n\nবুলি কৈছে?\n\n(৬) কবিয়ে কাগজৰ নাও কেতিয়া আৰু ক’ত মেলি দিয়ে?\n(চ) কবিয়ে কোনে, ক’ত আৰু কি হৈ ভাহে বুলি কৈছে?\n\n| ইট্‌\"",
+  "confidence": {
+    "word_count": 154,
+    "mean": 84.81,
+    "median": 95.42,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.708,
+  "page_elapsed_seconds": 3.16,
+  "peak_process_tree_rss_bytes": 286568448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

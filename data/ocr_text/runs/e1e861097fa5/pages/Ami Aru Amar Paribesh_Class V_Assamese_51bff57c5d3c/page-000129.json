@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 129,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কম্পিউটাৰ এটাৰ মুখ্য কাম হ’ল, যোগাযোগ স্থাপন কৰা। কম্পিউটাৰৰ সহায়ত আমি কেনেকৈ\nযোগাযোগ স্থাপন কৰিব পাৰোঁ জানি লওঁ আহা-\n\nইণ্টাৰনেট\n\nওপৰৰ ছবিখনলৈ মন কৰা৷ ছবিখনত কেইবাটাও কম্পিউটাৰ ইটোৰ লগত সিটো সংযোগ হৈ\nএখন জালি তৈয়াৰ কৰা নাইনে? এনেদৰে যেতিয়া বহুকেইটা কম্পিউটাৰৰ মাজত সংযোগ স্থাপন\nকৰা হয় তেতিয়া এখন মকৰাৰ জালৰ দৰে জালিকাৰ সৃষ্টি হয়। এই জালকে ইংৰাজীত নেটৱৰ্ক\nবুলি কোৱা হয়।\n\nগোটেই পৃথিৱীব্যাপী অসংখ্য কম্পিউটাৰ সংযোগ কৰি এক বিশাল যোগাযোগ ব্যবস্থা\nগঠন কৰা হৈছে। এই যোগাযোগ ব্যৰস্থাই হৈছে ইণ্টাৰনেট। ইণ্টাৰনেট হৈছে\nআধুনিক যুগৰ আটাইতকৈ উন্নত যোগাযোগ ব্যবস্থা। কৃত্ৰিম উপগ্ৰহৰ সহায়ত এই\nযোগাযোগ ব্যবস্থা সম্ভৱ হৈছে।\n\nইণ্টাৰনেট সংযোগ থকা কম্পিউটাৰৰপৰ৷া আমাৰ কি সুবিধা হৈছে, সেই বিষয়ে জানি লওঁ আহা-\nগু আমি দেশ-বিদেশৰ খবৰ পাব পাৰোঁ৷\nগু দূৰ-দূৰণিত থকা লোকসকলৰ লগত ঘৰত বহিয়েই যোগাযোগ কৰিব পাৰোঁ৷\nণ্ড বিভিন্ন তথ্য পাব পাৰোঁ।\nগু ৰে’ল আৰু বিমানৰ সময়সূচী জানিব পাৰোঁ আৰু আগতীয়াকৈ টিকট সংগ্ৰহ কৰিব পাৰোঁ৷\n\n১১৯",
+  "confidence": {
+    "word_count": 143,
+    "mean": 90.1,
+    "median": 96.21,
+    "minimum": 15.97,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.517,
+  "page_elapsed_seconds": 3.097,
+  "peak_process_tree_rss_bytes": 251842560,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

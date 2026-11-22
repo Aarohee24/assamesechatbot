@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 140,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বাকলি, পাত, বেলৰ আঠা, হেঙুল, হাইতাল, মিঠাতেলৰ চাকিৰ ছাঁই, নীল গছ আদিৰপৰা এই ৰং\nপ্রস্তুত কৰা হয়। এনেদৰে প্রস্তুত কৰা মুখাসমূহ বৰ্তমান সময়ত ভাওনাৰ উপৰি উৎসৱ-পাৰ্বণ, সভা-\n\nসমিতি, ঘৰ-দুৱাৰ সজোৱা, উপহাৰ হিচাপে দিয়া আদি কামতো ব্যৱহাৰ কৰা হয়।\n\n== এন্ত\n\nবৰমুখা বা ছোঁ মুখা\n\n'/ ১১। তোমাৰ ভাললগা কেইখনমান মুখাৰ নাম উল্লেখ কৰা। সেই মুখাকেইখন তোমাৰ কিয়\n\nভাল লাগে কোৱা আৰু লিখা।\n\n৷ জানো আহা--\nমাটি আখৰা ঃ মাটি আখৰা সত্ৰীয়া নৃত্যৰ\nপ্রাথমিক পাঠ। মাটি আখৰাৰদ্বাৰা সত্ৰীয়া\nন-শিকাৰু এজনৰ শৰীৰটো সত্ৰীয়া নৃত্যৰ\nকৰিব পৰাকৈ শৰীৰটোক সাজু কৰি তোলে।\nমানুহৰ শাৰীৰিক আৰু মানসিক\nসুস্বাসথ্যৰ বাবে মাটি আখৰা বৰ উপযোগী।\nমাটি আখৰাসমূহৰ যোগাসনৰ লগত বহুখিনি\nমিল আছে। ইয়াৰ লগত খোল, তাল, বাঁহী\nআদি লোকবাদ্য সংগত কৰা হয়।\n\n১৪০",
+  "confidence": {
+    "word_count": 116,
+    "mean": 89.78,
+    "median": 96.03,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.275,
+  "page_elapsed_seconds": 2.867,
+  "peak_process_tree_rss_bytes": 225959936,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,63 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 186,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "13. 17676270179 071 1}}6 7001008076 0/ 5011 [0/06671, 176 77007770627\" 0/ 10)767\"5 170];\n06 010676771. '1}')\" 10.770 106 ৫০%1}70776077159 ($100051077068) 0/ 17656 10)767\"5.\n\n৮0০00 118৮6 ০০1811]]) 18|21] .507\"001 (12170118062). [[ 19 ৪8 1]1ম0016 01\n12101] ]0106, \"8021, ৪80 8110 ৪0881, ১111]1|81[%৮, ০6 01110] (68. স্]]1]1 189 8180\n8 1]01স00162. '[]16 ০01112011211.8 0128. 816 স্8121, 1]]1||৩, 90981 8110 168 1281, ]1[]\n1800, 1]80]} (৮])69 01 1]]1%000169 816 01216 8100110 09.\n\n|\n্ব/৪0থো\"                                                                            ৭০]           ১৪] ৪02া'\n\n[] / ১০ ৮া(% 6.1:\n\n])}[[61'61]{ (%৮])65 01 ]]}}%(001\"69\n]%[1স [01698 ৪816 €2ঘ৮ণা[ ছ/|]1616, /%\n\n98|8019 8 1]]1স0016. ১০৪ স্8(21\"18 8190                                চু\n\n8 1]]]স%016. /1০ 98|80 810 95০8 স৪(৮1                    ্‌\n\n{76 ৪811]16 1]]]স(016.? ]]0\"%ম ০৪1] ৮০\n\n18991 1686 1]]1স000169?2\n\nছ]]3{0 *%৮০ [খ০০0?\n\nঘ্ব্৪(21, ১৪10, ১৪110, €00101196 011\n*%]13000 1)0 ?\n\n1. ][)[8ছরম 8 (80612 89 9]10ঘমা] |0210ঘ%,\n\n1           ০৪], স্৪ো\"              ০০]10, ]10010                  ১০10012\n\n2. (4000962 0 50090811069 1011] 116 800৮6 |19[00 1118|06 8 1]]1স0001'62.\n\n3. [২6০০0 016 (৮[)69 01 90090801069 000 ০1096 ৪8110 {1611 9082 11] 16\n18012.\n\n4. [[1ম% 0 501090811069. 4০6 স]126012[\" 16% 816 ৪010012 01110/.",
+  "confidence": {
+    "word_count": 138,
+    "mean": 42.14,
+    "median": 42.06,
+    "minimum": 0.0,
+    "maximum": 95.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2333,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.231,
+  "page_elapsed_seconds": 3.622,
+  "peak_process_tree_rss_bytes": 304742400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

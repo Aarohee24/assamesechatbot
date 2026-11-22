@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 115,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n\n৬ শব্দৰ অৰ্থ শিকি বাক্যত প্রয়োগ কৰিব পৰা\n\n৬ মাজুলী সম্পৰ্কে সম্যক ধাৰণা লাভ কৰা\n\n৬ সত্ৰীয়া সংস্কৃতিৰ বিষয়ে প্রাথমিক ধাৰণা লাভ কৰা\n\n৬ মাজুলীৰ দৰে বৰপেটাও যে সত্ৰীয়া সংস্কৃতিৰ কেন্দ্ৰ, সেই সম্পৰ্কে জনা\n৬ বৰপেটা কবিতাটি পঢ়ি তেনেধৰণৰ আন কবিতা পঢ়িবলৈ আগ্ৰহী হোৱা\n\n৬ যুৰীয়া শব্দ লিখিব পৰা\n৬ সমাৰ্থক শব্দ লিখিব পৰা\n৩ সম্বন্ধবাচক বিশেষ্যত পুৰুষবাচক বিভক্তিৰ ব্যৱহাৰ শিকা\n৬ উপযুক্ত পুৰুষবাচক বিভক্তিৰে খালী ঠাই পূৰ কৰিব পৰা\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nহিনী| শমণ কাহিনী পঢ়ি | মাজুলীৰ বিষয়ে জনা পাঠভিত্তিক প্রশ্নৰ উত্তৰ| নতুন শব্দৰ অৰ্থ\nন্‌মণ     বুজি পোৱা           ক’ব আৰু লিখিব পৰা।   জনা\nভাষা                সম্বন্ধবাচক বিশেষ্যত | উপযুক্ত পুৰুষবাচক | বাক্য ৰচনা\nঅধ্যয়ন   যুৰীয়া কু    সূমুমুক ন   পুৰুষবাচক বিভক্তিৰ |বিভক্তিৰে খালী ঠাই | কৰিব পৰা\n(ব্যাৱহাৰিক| লিখিব পৰা    লিখিব পৰা             কৰিব\nব্যাকৰণ)                   লয়োগ লগা   =  ৰ\n\nসত্ৰীয়া সংস্কৃতিৰ ৷! সত্ৰীয়া সংস্কৃতিৰ | ‘বৰপেটা’ কবিতাটি\nসম্বৰ বিষয়ে প্রাথমিক | অন্যতম কেন্দ্ৰ বৰপেটাৰ পঢ়ি আৰু তেনে কবিতা\nধাৰণা পোৱা | বিষয়ে অৱগত হোৱা ৷পঢ়িবলৈ আগ্ৰহী হোৱা\n\nকাগজ, কুহিলা আদিৰে চৰাই, বান্দৰ, বাঘ\n\nনিলি     আদিৰ মুখা প্রস্তুত কৰিব জনা\n\n= অহৰ্তা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লে ১ চিন দিব।\nঅহৰ্তা আয়ভ নোহোৱা শিকাৰচ্ক অতিৰিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 209,
+    "mean": 86.63,
+    "median": 95.87,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.04,
+  "page_elapsed_seconds": 3.364,
+  "peak_process_tree_rss_bytes": 245301248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

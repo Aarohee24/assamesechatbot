@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪) অসমীয়া ভাষাত স্থানীয় জনগোষ্ঠীৰ ভাষাৰ উপাদান কেনেকৈ সোমাল লিখা।\n\nখ -ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৫) উপযুক্ত যতি চিহ্নৰে তলৰ বাক্যটো নতুনকৈ লিখা।\n\nভাষাৰ উপাদান মানে কি খুড়া নয়নাই সুধিলে খুড়াকে উত্তৰ দিলে ধ্বনি ৰূপ শব্দ বাক্য\nআদিয়েই ভাষাৰ উপাদান\n\n৬) তলত দিয়া বিশেষণ পদবোৰ বিশেষ্য পদলৈ নিয়া।\nসুন্দৰ         প্রচলিত       স্থানীয়\n\nৰচিত পৰিৱৰ্তিত বিকশিত\nজানো আহা\n\nঅসমীয়া ভাষাত কিছুমান শব্দ সংস্কৃতৰ পৰা পোনপটীয়াকৈ সোমাইছে। উচ্চাৰণৰ ক্ষেত্ৰত\nপাৰ্থক্য থাকিলেও এইবোৰ শব্দ লিখাৰ ধৰণ সংস্কৃতৰ লগত একে৷ এইবোৰক তৎসম শব্দ বোলে;\n‘তৎসম’মানে হ’ল ‘তাৰ সমান’, অৰ্থাৎ সংস্কৃতৰ সমান। যেনে--- প্রাচীন, আৰ্য, জন্ম, মধ্য, সম্ৰাট,\n\nআন কিছুমান শব্দ সংস্কৃতৰ পৰা আহিলেও অসমীয়া ভাষাৰ উচ্চাৰণ-ৰীতিৰ দ্বাৰা এইবোৰ\nসৰল হৈ পৰিছে। এনে শব্দবিলাকক অৰ্থ-তৎসম শব্দ বোলে; যেনে--- ধৰম, কৰম, মৰম, যঁতৰ,\nচেনেহ ইত্যাদি।\n\nকিছুমান শব্দই সংস্কৃতৰ পৰা প্রাকৃত আৰু অপভ্ৰংশৰ স্তৰ অতিক্ৰম কৰি অসমীয়াত প্রৱেশ\nকৰোঁতে ইয়াৰ মূল ৰূপ হেৰুৱাই বেলেগ ৰূপ ল’লে। এইবোৰকে তদ্ভৱ শব্দ বোলে; ‘তদ্ভৱ’ মানে\n‘তাৰ পৰা’ অৰ্থাৎ সংস্কৃতৰ পৰা হোৱা। যেনে--- হাত, ঘৰ, গছ ইত্যাদি।\n\nঅসমীয়া ভাষাৰ বহুতো শব্দ থলুৱা আৰ্য-ভিন্ন ভাষা-পৰিয়ালৰ ভাষাসমূহৰ পৰা আহিছে।\nযেনে--- বুৰঞ্জী, তামোল, হাজো, বিহামপুৰ, ভাংনা, পাগলাদিয়া, মেকুৰী, জহা,জহামাল, খিলঞ্জীয়া\nইত্যাদি।\n\nঅসমীয়া ভাষাত বিদেশী মূলৰ অগণন শব্দ পোৱা যায়; যেনে--- কাগজ, কলম, পিয়লা\n(ফাচী, আৰবী মূলৰ), স্কুল, কলেজ, স্কেল, লংপেন্ট, স্কাৰ্ট (ইংৰাজী); চাবি, কবি, বাল্টি, গামলা\n(পৰ্টুগীজ); কুপন, ৰেস্তোৰী (ফৰাচী); লিচু (চীনা) ইত্যাদি৷",
+  "confidence": {
+    "word_count": 208,
+    "mean": 91.03,
+    "median": 94.81,
+    "minimum": 0.71,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.148,
+  "page_elapsed_seconds": 4.548,
+  "peak_process_tree_rss_bytes": 284037120,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

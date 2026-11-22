@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 107,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "7. শুদ্ধ উত্তৰৰ গোলটো সম্পূণকৈ পূৰ কৰা -\n(1) তলত দিয়া কোনটো ভিটামিন [) ৰ অভাৱত হয়?\n\n(8) দৃষ্টিশক্তি কমি যোৱা\n\n(৮০) বেৰি বেৰি\n(0) স্কা্    ৫)1৫)|৫)|৫১)\n(0) ৰিকেট\n(11) তলত দিয়া কোনটো ৰোগ ভিটামিন (: ৰ অভাৱত হয়?\n(8) দৃষ্টিশক্তি কমি যোৱা\n(৮) স্কাৰ্ভি\n(0) ৰিকেট    ৫)|৫১৷৫৫১)\n(0) ৰক্তহীনতা\n(1}}) তলত দিয়া কোনটো ভিটামিন /* ৰ অভাৱত হয়?\n\n(8) দৃষ্টিশক্তি কমি যোৱা\n(৮০) হাড় আৰু দাঁত ক্ষয় যোৱা\n\n(0) বেৰি বেৰি   ৫)1৮)|৫2১|৫)\n\n(0) স্কাৰ্ভি\n(1ঘ) তলত দিয়া কোনটো ৰোগ লোৰ অভাৱত হয়?\n\n(৪) ৰক্তহীনতা\n\n(0) দৃষ্টিশক্তি কমি যোৱা\n\nখৃ)   2[2[2|2\n\n(0) স্কাৰ্ভি\n\n8. তলত দিয়া উপাদান সমৃদ্ধ খাদ্যবোৰৰ প্রতিটোৰে দুটাকৈ নাম উল্লেখ কৰা।\n(৪8) স্নেহপদাৰ্থ\n(0) শ্বেতসাৰ\n(0০) আঁহজাতীয় খাদ্য\n(0) প্ৰ'টিন",
+  "confidence": {
+    "word_count": 113,
+    "mean": 86.07,
+    "median": 95.55,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.446,
+  "page_elapsed_seconds": 2.728,
+  "peak_process_tree_rss_bytes": 253870080,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জজ. $ এয়া চোৱা, পুখুৰীটো ডাঙৰ হৈ গ’ল।\n\nকপৌ ; বাঃ, বাঃ! পুখুৰীটোচোন সঁচাকৈয়ে ডাঙৰ হৈ গ’ল!      =-=-=--\n(ইয়াৰ পাছত কপৌটো পুখুৰীলৈ সোমাই যাব আৰু এইদৰে গীত গাব।)\n\nলগৰীয়া ঃ (সুৰ লগাই ক’ব) পদুম ফুলৰ চকা।\n\nকপৌ ; (হাতদুখন তললৈ কৰি আঁঠু চুই পানীৰ জোখ দেখুৱাই দিব আৰু গাব)\n\nইমান ইমান পানী\nলগৰীয়া ঃ গংগাৰাণী।\nকপৌ ইমান ইমান বোকা।(লগৰীয়াহঁতে হাতত ধৰাধৰিকৈ থিয় দিব৷ আৰু কপৌৱে, হি,\n\nগাব)\n\nলগৰীয়া ঃ (সুৰ লগ৷ই ক’ৰ) পদুম ফুলৰ চকা।\n\nলগৰীয়া ঃ (হাত জোকাৰি).নিদিবা, নিদিবা।\n\nকপৌ “ওলাই যাও, যাওঁ”\n\nলগৰীয়া ৪ নাযাবা,নাযাবা।\n\n(এইদৰে দুবাৰমান খেলি কপৌজনী পুখুৰীৰপৰা ওলাই যাবলৈ বিচাৰিব আৰু লগৰীয়াহঁতে\nওলাই যাবলৈ নিদিব।)\n\nকপৌ $ তোমালোকৰ কাণদুখন কোনে নিলে?\n\nলগৰীয়া £ কোনে নিলে? কোনে নিলে?\n\n(লগৰীয়াহঁতে হাত এৰি নিজৰ কাণ খেপিয়াই চালে, সেই ছেগতে কপৌজনী ওলাই গ’ল।\nলগৰীয়াহঁতে ‘কু কু’ বুলি কপৌৰ পিছ ল’লে)\n\n[পথি কপৌ কু কু..খেলটো তোমালোকৰ অঞ্চলত এনেকৈয়ে খেলেনে? যদি নেখেলে, তেনেহ’লে কি কি মিল আৰু অমিল আছে আলোচনা কৰা।\n\n৪৫.          অধ্যায় ৩ ঃ খেল-ধেমালি",
+  "confidence": {
+    "word_count": 155,
+    "mean": 86.28,
+    "median": 93.3,
+    "minimum": 1.11,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 16 diacritics",
+        "Detected 16 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.709,
+  "page_elapsed_seconds": 4.674,
+  "peak_process_tree_rss_bytes": 222146560,
+  "tesseract_warnings": [
+    "Detected 16 diacritics",
+    "Detected 16 diacritics"
+  ],
+  "processed_this_run": true
+}

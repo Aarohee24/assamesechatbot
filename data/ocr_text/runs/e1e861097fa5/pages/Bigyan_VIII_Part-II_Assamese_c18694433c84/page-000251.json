@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 251,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(৪8) গ্ৰেট বিয়েৰ বা সপ্তৰ্বিমণ্ডল (0) অৰিঅ’ন বা কালপুৰুষ (০) কেশ্বিঅ’পিয়া বা কাশ্যপী (8) লিঅ’ মেজৰ\n\nচিত্ৰ 18.11 : নিশাৰ আকাশৰ কেইটামান তাৰকাপৃ্ড\n\nইয়াক বিগ ডিপাৰ, গ্ৰেট বিয়েৰ বা সপ্তৰ্ষিমণ্ডল\nবুলিও জনা যায়।\n\nএই তাৰকাপুঞ্জত সাতটা বিশিষ্ট তৰা থাকে।\nইয়াক এখন হেতা নাইবা এটা ডাঙৰ প্রশ্নবোধক চিনৰ\nদৰে দেখা যায়। হেতাখনৰ নালৰ ফালে তিনিটা আৰু\nবাটিৰ ফালে চাৰিটা তৰা থাকে (চিত্ৰ1 8.12)\n\nচিত্ৰ 18.12 : পুৰণিকালত পানী খাবলৈ ব্যৱহাৰ কৰা\nহেতা\n\nত্ৰিয়াকলাপ 18.6\n\nএই তাৰকাপুঞ্জটো কেইঘণ্টামানৰ বাবে\nপৰ্যবেক্ষণ কৰ৷। ইয়াৰ আকৃতিৰ কিবা পৰিৱৰ্তন\nহোৱা, দেখা পাইছানে? ইয়াৰ অৱস্থানৰ কিবা\nপৰিৱৰ্তন চকুত পৰিছেনে?\n\nদেখিবা যে তাৰকাপুঞ্জটোৰ আকৃতি একেই\nথাকে।\n\nতুমি আৰু গম পাবা যে তাৰকাপুঞ্জটোৱে\nআকাশত পূবৰ পৰা পশ্চিমলৈ গৈ থকা যেন লাগে।\n\n* সহায়ত ধ্ৰুৱ তৰাৰ অৱস্থান নিৰ্ণয় কৰিব\nপাৰি।\n\nত্ৰিয়াকলা৷প 18.7\n\nএই ক্ৰিয়াকলাপটো জহকালিৰ চন্দ্ৰবিহীন\nপৰিষ্কাৰ ৰাতি প্রায় 9.00 বজাত কৰিব লাগে।\nআকাশৰ উত্তৰ দিশলৈ দৃষ্টি নিক্ষেপ কৰা আৰু\nসপ্তৰ্ষিমণ্ডলটো চিনাক্ত কৰা। এই ক্ষেত্ৰত তুমি ঘৰৰ\nবয়োজ্যেষ্ঠজনৰ সহায় ল’ব পাৰা।\n\nতৰা আৰু সৌৰজগত /৪71/%1২5 &খা) []]]}; 901.41২ ৪৮97]\n\n236.",
+  "confidence": {
+    "word_count": 160,
+    "mean": 87.55,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.835,
+  "page_elapsed_seconds": 3.11,
+  "peak_process_tree_rss_bytes": 308334592,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

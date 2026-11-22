@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 187,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বি:দ্ৰ: সংগহ কৰা মাটিৰ নমুনাৰ ওপৰত ভিতি কৰি কেতিয়াবা মাত্ৰ দুটা জৰ পাব পাৰা।এই\nস্তৰ দুটাত থকা উপাদানসমূহ (দ্ৰবাবোৰ) চিনাক্ত কৰিবলৈ চেষ্টা কৰ|।\n\nচৰ্বত নিশ্চয় খাইছা। ই হ’ল নেমুৰ ৰস, পানী, নিমখ আৰু চেনীৰ মিশ্রৰ। একেধৰণে\nআমি খোৱা চাহো এটা মিশ্রৰ। চাহত থকা উপাদানবোৰ হ’ল পানী, গাখীৰ, চেনী আৰু\nচাহপাত। মিশএ্রৰ এনেকুৱা বহুতো উদাহৰণ আমাৰ চাৰিওফালে আছে।\n\nপৰ্বত\n\nপানী নিম  সোণ     মাটি. নিমখ-পানী\n[] ক্ৰিয়া-কলাপ 6.1:\nমিশ্ৰৰ বিভিন্ন প্রকাৰ\nআমি যিফালেই চাওঁ সেইফালেই মিশ্ৰ দেখা\nপাওঁ। চালাদ হ’ল এক মিশ্ৰ। স৷গৰৰ পানীখিনিও\nমিশ্ৰ ৷ কিন্তু চালাদ আৰু সাগৰৰ পানী একে ধৰণৰ\nমিশ্ৰ হয় জানো? আমি মিশ্ৰবোৰ কি ধৰণে বিভক্ত\nকিকি বস্তু লাগিব?\nকি কৰিবা?\n\n1. তলত দেখুওৱা ধৰণে এখন তালিকা বনোৱা\n\n1      নিমখ, পানী         গোটা, জুলীয়া             দ্ৰৱণীয়\n2\n3\n\n2. ওপৰৰ সামপ্ৰীবোৰৰ যিকোনো দুটা লোৱা আৰু তালিকাখন পুৰোৱা।\n\n3. বাছি লোৱা দ্রব্য দুটাৰ অৱস্থা (গোটা/জুলীয়া) তালিকাভুক্ত কৰা। দ্রব্য দুটা দ্ৰৱণীয়\nহয় নে নহয় লিখি ৰাখা।৷",
+  "confidence": {
+    "word_count": 145,
+    "mean": 85.53,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.625,
+  "page_elapsed_seconds": 2.983,
+  "peak_process_tree_rss_bytes": 304689152,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 84,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1}১691029 ০৪1001]]৮01829, 88 8110 1)10161118 {11616 816 90176 00121\n1]0071621](9 |1|(6 ঘ1[81]]11]]9 817011]111218]9 111 001\" 1000. 10811]1119 01 ]1112121]{\n11109 816 13101) 02% 011621621]{ 11807169, '][]696 816 ঘ1(80]]]]] /%*, খ1(81]1]]1] ]},\nছা1081]]]]} (2, ছা(81]]11] ]) 2600. ][৬[1]12618|৪ 11101002 ০810101]], 1101], 1001116 600.\n\n']]}6 9001069 01 01696 ঘ1(811]11]]19 816 9]]10\"ঘ]] 11] ]\"16 3.5\n\n120171160 00070                               140126\n\n(07761\n\n18126\n\n(060১8560677;\n\n01111                                                         11}\n\n\"18 3.5 ১ ৩০৮৫০ ৪০০০০ 0/ ]৮1107771775",
+  "confidence": {
+    "word_count": 61,
+    "mean": 44.46,
+    "median": 39.23,
+    "minimum": 0.0,
+    "maximum": 95.41
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3097,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.14,
+  "page_elapsed_seconds": 2.691,
+  "peak_process_tree_rss_bytes": 345739264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

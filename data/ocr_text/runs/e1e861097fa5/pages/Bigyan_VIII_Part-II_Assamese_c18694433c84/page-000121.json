@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 121,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অধ্যায়\n\n14\n\nশব্দ\n\n51225\n\nতোমালোকে কেনেকৈ গম পোৱা? কোনোবাই দৰ্জাত\nটুকুৰিয়ালে বা ঘণ্টাৰ শব্দ শুনিলে গম পোৱা যে\nকোনমেোৰ। তোন৷লৈে৷কৰ পদুলিৰ ওচৰত ৰৈ আছে।\nবেছিভাগ সময়তেই মাত্ৰ খোজৰ শব্দ শুনিয়েই বুজি\nপোৱা যে কোনোবা এজন তোমাৰ ওচৰলৈ আহি\nআছে।\n\nতোমালোকে নিশ্চয় লুকা-ভাকু খেলিছা। এই\nখেলত এজনৰ চকু কাপোৰেৰে বান্ধি দিয়া হয় আৰু\nতেওঁ বাকীবোৰক ধৰিব লাগে। কেনেকৈনো চকু বান্ধি\nথোৱাজনে তেওঁৰ নিচেই ওচৰত থকাজনৰ গম ধৰিব\nপাৰে?\n\nশব্দই আমাৰ জীৱনত এক গুৰুত্বপূৰ্ণ ভূমিকা\nপালন কৰে। এজনে আনজনৰ সৈতে যোগাযোগ\nকৰাত ই আমাক সহায় কৰে। আমি আমাৰ চাৰিওফালে\nবিভিন্ন ধৰণৰ শব্দ শুনিবলৈ পাওঁ।\n\nতোমালোকে তোমালোকৰ চাৰিওফালে শুনা\nশব্দসমূহৰ এখন তালিকা প্রস্তুত কৰা।\n\nতোমালোকৰ বিদ্যালয়ৰ সংগীত কক্ষত বাহী,\nতবলা, হাৰম’নিয়াম আদি বাদ্যযন্ত্ই সৃষ্টি কৰা শব্দবোৰ\nতোমালোকে শুনিছা (চিত্ৰ-14.1) নিশ্চয়।\n\nশব্দৰ সৃষ্টি কেনেকৈ হয়? এঠাইৰ পৰা আন\nঠাইলৈ ই.কেনেকৈ সঞ্চাৰিত হয়? আমি কেনেকৈ\nশব্দ শুনো? কিছুমান শব্দ আন কিছুমানতকৈ ডাঙৰ\nহয় কিয়? এনে ধৰণৰ প্ৰশ্নসমূহ আমি এই অধ্যায়ত\nআলোচনা কৰিম।\n\n_ শব্দ / ৪000)   9\n\n106",
+  "confidence": {
+    "word_count": 153,
+    "mean": 88.97,
+    "median": 95.93,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.869,
+  "page_elapsed_seconds": 3.16,
+  "peak_process_tree_rss_bytes": 256126976,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 75,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঢু ক্ৰিয়াকলাপ       ক-- পাঠভিত্তিক   ক্ৰিয়া\n\nগা} পাঠটো শুদ্ধ উচ্চাৰণেৰে পঢ়া।\n\nএটি) উত্তৰ দিয়া।\n(ক) আদিম মানুহে ক’ত বাস কৰিছিল? তেওঁলোকে ৰঙীন ছবি ক’ত আঁকিছিল?\n(খ) সূৰ্যৰ পোহৰত কেইটা ৰং থাকে? সেই ৰংকেইটাৰ নাম কি কি?\n(গ) আমি বস্তু এটা কেতিয়া দেখোঁ ? আন্ধাৰত থকা বস্তু দেখা নোপোৱাৰ কাৰণ কি?\n(ঘ) বগা ৰং কেনেকৈ সৃষ্টি হয়? চক পেঞ্চিলডাল বগা দেখাৰ কাৰণ কি?\n(৬) মানুহে দেখাৰ দৰে সকলো প্রাণীয়ে ৰংবোৰ নেদেখে ৷ ৰং দেখা পোৱা প্রাণীবোৰ\n\nকিকি?\nত] কাৰকি ৰংমিলোৱা।\n=” ==\n* আকাশখন         ক’লা\n* গছৰ পাত         হালধীয়া\n* গাখীৰ          নীলা\n* সৰিয়হৰ ফুল        বেঙুনীয়া\n* চুলিটাৰি          সেউজীয়া\n* বেঙেনা         বগা\n খালী ঠাই পূৰ কৰা।\n(ক) ঘঁৰিয়ালে বোলে সকলো বস্তুৰে ৰং         দেখে।\n(খ) আটাইকেইটা ৰঙৰ পোহৰ শুহি লোৱা বস্তুক আমি        দেখোঁ।\n(গ) ৰঙৰ ৰহস্য ভেদ কৰা বিজ্ঞানীজনৰ নাম         ্‌\n সঁচা নে মিছা লিখা।\n== (ক) আদিম মানুহৰ ৰঙৰ প্রতি আকৰ্ষণ আছিল।\n(খ) আথোণ মাহৰ পথাৰ সেউজীয়া।\n\nূ্!ম নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 150,
+    "mean": 89.39,
+    "median": 95.8,
+    "minimum": 0.52,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.175,
+  "page_elapsed_seconds": 3.533,
+  "peak_process_tree_rss_bytes": 243462144,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

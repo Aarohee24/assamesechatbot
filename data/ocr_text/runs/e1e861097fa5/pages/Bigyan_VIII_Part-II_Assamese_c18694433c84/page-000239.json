@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 239,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আটাইবোৰ নভোমণ্ডলীয় বস্তু একে প্রকৃতিৰনে ?\nএই বিষয়ে পঢ়োঁ আহা।\n\n18.1 চন্দ্ৰ ঃ\nজ্ৰিয়াকলাপ 18.1\n\nএকেৰাহে একাধিক নিশা চন্দ্ৰটো নিৰীক্ষণ\nকৰা। এটা পূৰ্ণিমাৰ পৰা পৰৱৰ্তী পূৰ্ণিমালৈ\nএই নিৰীক্ষণ অব্যাহত ৰখাটো বাঞ্ছনীয়। টোকা\nবহীত প্রতি নিশা চন্দ্ৰৰ ছবি আঁকা আৰু ছবিৰ\nতলে তলে পূৰ্ণিমাৰ দিনাখনৰ পৰা দিনটো\nউল্লেখ কৰা। তদুপৰি, প্রতিদিনে আকাশৰ কোন\nঅংশত প্বে নে পশ্চিম) চন্দ্ৰটো দেখা যায়\nতাকো টুকি ৰাখিবা।\nচন্দ্ৰৰ আকৃতি প্রতিদিনে সলনি হৈছেনে? এনে\nদিন পাইছা নেকি যিদিনা চন্দ্ৰৰ আকৃতি সম্পূৰ্ণ ঘূৰণীয়া\nযেন লাগে? এনে দিনো গৈছে নেকি যে পৰিষ্কাৰ\nআকাশ সত্ত্বেও চন্দ্ৰ অদৃশ্য?\nযিদিনা চন্দ্ৰৰ সম্পূৰ্ণ থালখন দৃশ্যমান হয় সিদিনা\nপূৰ্ণিমা হয়। ইয়াৰ পাছত প্রতি নিশা চন্দ্ৰৰ উজ্জ্বল\nঅংশটোৰ আকাৰ ক্ৰমান্বয়ে কমি আহে। পঞ্চদশ দিনত\n\nচন্দ্ৰটো দেখা নোপোৱা হয়। এই দিনটোক অমাৱস্যা\nবোলে। ইয়াৰ পৰৱৰ্তী দিনটোত চন্দ্ৰৰ এটা ক্ষুদ্ৰ\nঅংশহে দেখা পোৱা যায়। ইয়াক কীচিজোন বোলে।\nতাৰ পাছৰ প্ৰতিদিনেই চন্দ্ৰৰ আকাৰ বাঢ়ে। পুনৰাই\nপঞ্চদশ দিনাখন চন্দ্ৰৰ পূৰ্ণাৱয়ব দেখা যায়।\n\nএমাহৰ ভিতৰত দেখা চন্দ্ৰৰ উজ্জ্বল অংশৰ\nবিভিন্ন পৰ্যায়ক চন্দ্ৰকলা বোলে (চিত্ৰ-18.2)।\n\nচিত্ৰ 18.2 : চন্দ্ৰৰ বিভিন্ন পৰ্যায়",
+  "confidence": {
+    "word_count": 161,
+    "mean": 91.25,
+    "median": 94.13,
+    "minimum": 12.89,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.702,
+  "page_elapsed_seconds": 2.984,
+  "peak_process_tree_rss_bytes": 313184256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

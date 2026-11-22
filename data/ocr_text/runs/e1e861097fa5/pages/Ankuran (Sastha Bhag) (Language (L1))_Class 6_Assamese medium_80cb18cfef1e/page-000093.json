@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 93,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ -ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৭) তলৰ শব্দবোৰ সন্ধি ভাঙি পঢ়ৌ আহা।\n\nহিমাচল = হিম + অচল    পৰীক্ষা = পৰি + কক্ষ\nবিদ্যালয় = বিদ্যা + আলয়    অত্যাচাৰ = অতি +, আচাৰ\nহিমালয় = হিম + আলয়    যথেষ্ট = যথা + ইষ্ট\nমণীন্দ্ৰ = মণি + ইন্ত্ৰ     যথোপযুক্ত = যথা + উপযুক্ত\nঅতীন্দ্ৰিয় = অতি + ইইন্ধিবিয়    নাৱিক / = নৌ + ইক\n\n৯) পাতখিলাত থকা শব্দবোৰ অভিধানৰ দৰে বৰ্ণমালাৰ ভ্ৰুমত সজোবা। প্ৰয়োজন হ’লে\nশিক্ষকৰ সহায় ল’বা।\n\nউদাহৰণ--- অধ্যক্ষ, অবাক, আনুষ্ঠানিক, আপ্রাণ",
+  "confidence": {
+    "word_count": 82,
+    "mean": 86.23,
+    "median": 95.55,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 23 diacritics",
+        "Detected 23 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.13,
+  "page_elapsed_seconds": 2.472,
+  "peak_process_tree_rss_bytes": 238936064,
+  "tesseract_warnings": [
+    "Detected 23 diacritics",
+    "Detected 23 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বিত্ব বৰ্জন কৰা হৈছে।\n\nপূৰ্ব প্ৰচলিত ৰূপ       সৰলীকৃত ৰূপ\nউদাহৰণ -_     অপূৰ্ব্ব     ==    অপূৰ্ব\n\nকৰ্ম্ম  = কৰ্ম\n\nঠ/ ১৬ তনু দিয়া শব্দৰেইটাৰ সৰলীকৃত ৰূপটো লিখা।\n\nকীৰ্ত্তন __-=  শৰ্ম্মা ==\n\nদুৰ্বল __-- অ্জ্জুন - ৷৷\nক্্দ্দে -- পৰ্ব্বত __-=\n\n(ৰ ১৫ ৷ পদ্যটোত পোৱা স্ত্ৰীলিংগ বুজোৱা ‘অসমা’শব্দটোৰ আহিত আন শব্দ গঠন কৰৌ আহা--\n৷ জানো আহা--\nকবিয়ে কবিতাটোত ‘অপূৰ্ব্ব’ শব্দটোৰ ব্যৱহাৰ কৰিছে। ব্যাকৰণৰ সূত্ৰমতে ‘ৰ'ৰ লগত যুক্ত\nহ’লে ব্যঞ্জন বৰ্ণটো দ্বিত্ব হয়। বৰ্তমান সময়ত ভাষাৰ সৰলীকৰণৰ উদ্দেশ্য আগত ৰাখি এই",
+  "confidence": {
+    "word_count": 79,
+    "mean": 78.33,
+    "median": 90.54,
+    "minimum": 12.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.011,
+  "page_elapsed_seconds": 2.6,
+  "peak_process_tree_rss_bytes": 273698816,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

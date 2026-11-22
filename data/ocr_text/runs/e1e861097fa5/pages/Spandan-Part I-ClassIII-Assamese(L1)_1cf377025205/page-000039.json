@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 39,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "== = হ,       ৰণ\n\n=== তৰ\n\nএ ৩। ক) ডাঙৰ হৰফৰ পদবোৰৰ অৰ্থ অনুমান কৰি আঁচ টানি মিলোৱা।\nবিদ্যালয়-সপ্তাহ হ’ল প্রতিভা প্ৰদৰ্শনৰ মঞ্চ ----/৬ ভউয\nখেলপথাৰত বেডমিন্টনৰ একক প্রতিযোগিতা চলি আছে।  সৰ\n\nমিনতি বৰুৱা বাইদেউ বেগাবেগিকৈ ওচৰলৈ আহিল।\nপ্রাঞ্জলহঁতৰ বিদ্যালয়খনত আজি উখল-মাখল পৰিবেশ। = (ড্ৰেৰৰকৈ >\n\nঠ/ খ) উদ্বোধন মানে কোনো কাম মুকলি বা আৰম্ভণি কৰা। উদ্বোধন কৰোঁতাজন হ’ল-_\nউদ্বোধক ৷ বিভিন্ন কিতাপ-পত্ৰ উন্মোচন কৰোতাজনক উন্মোচক বোলে।\nএতিয়া আমি তলৰ ‘ক’ অংশৰ লগত ‘খ’ অংশ মিললাওঁ আহা--_\n\n‘কক’ অংশ                            খ' অঃ:\n\nশিক্ষাদান কৰোঁতাজন               পৰিচালক\nপৰিচালনা কৰাজন               শিক্ষক\nপাঠ কৰোঁতাজন                  খেতিয়ক\nখেতি কৰাজন                   পাঠক\n\n3 ৪। ক) তলৰ শব্দবোৰ পঢ়ো আহা--\n\nপঞ্চম  বঞ্চিত কুঞ্চিত\n\nইঞ্জিন       গুঞ্জন       আঞ্জা\n\nঅধ্যায় ৩ ঃ খেল-ধেমালি",
+  "confidence": {
+    "word_count": 110,
+    "mean": 77.94,
+    "median": 92.2,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.093,
+  "page_elapsed_seconds": 3.967,
+  "peak_process_tree_rss_bytes": 220139520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

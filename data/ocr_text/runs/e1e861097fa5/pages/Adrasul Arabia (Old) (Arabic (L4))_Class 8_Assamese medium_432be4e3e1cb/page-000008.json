@@ -1,0 +1,61 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 8,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এই পাঠ্যপৃথিৰ উল্লেখ্যযোগ্য বৈশিষ্ট হৈছে ই শিক্ষাৰ্থীকেন্দ্ৰিক, অৰ্হ'তাভিত্তিক,\nআনন্দদায়ক আৰু কাৰ্যভিত্তিক। পাঠসমূহ আকৰ্ষণীয় কৰিবলৈ প্ৰয়োজন সাপেক্ষে ছবিৰ সংযোজন\nকৰা হৈছে আৰু ক্ৰিয়া-কলাপ সমূহ এনেদৰে উপস্থাপন কৰা হৈছে যাতে ছাত্ৰ-ছাত্ৰীৰ কল্পনা শক্তি,\nসূজনীশীল প্রতিভা, একাগ্ৰতা, ধৈৰ্য্য, পৰস্পৰ সহযোগিতাৰ মনোভাৱ, স্বাধীনতাৰ প্রমূল্য আৰু\nঅন্যান্য মূল্যবোধৰ বিকাশ সাধিত হয়। ছাত্ৰ-ছাত্ৰীৰ মান অনুসাৰে ভাষা প্ৰয়োগৰ ক্ষেত্ৰত গুৰুত্ব\n\"আৰোপ কৰাৰ লগতে ব্যাকৰণৰ ব্যৱহাৰিক দিশৰ ক্ষেত্রতো গুৰুত্ন দি ভাষাৰ সাৱলীলতা আৰু\nশুদ্ধতা পাৰ্যমানে ৰক্ষা কৰিবলৈ যত্ন কৰা হৈছে। ছাত্ৰ-ছাত্ৰীসকলে যাতে কেৱল মুখস্থ কৰিয়েই পাঠ\nআহৰণ নকৰে তাৰ বাবে বোধ, কৌশল আদিত গুৰুত্ব দি জ্ৰিয়া-কলাপ সন্নিবিষ্ট কৰা হৈছে।\n!     পৃথিখনত প্রতিষ্ঠিত সাহিত্যিকৰ কিছু ৰচনা অষ্টম শ্রেণীৰ উপযোগীকৈ সজাই-পৰাই সন্নিবিষ্ট\n‘কৰা হৈছে। এই সুযোগতে সেইসকল সাহিত্যিকলৈ আমাৰ আন্তৰিক শ্ৰদ্ধা আৰু কৃতজ্ঞতা জ্ঞাপন\nকৰিলে| ৷ পুথিখনত অনিচ্ছাকৃত ভুল-ভ্ৰান্তি থাকিব পাৰে। সদাশয় ব্যক্তিয়ে সেইবোৰ আঙুলিয়াই\nদিলে পৰবৰ্তী সংস্কৰণত তাৰ শুধৰণি কৰা হ'ব।\n\nসদৌ শেষত এই কিতাপৰ পাণ্ডলিপি প্ৰস্তুত কৰাৰ ক্ষেত্ৰত ওৱাহাটী বিশ্ববিদ্যালয়ৰ আৰবী\nবিভাগৰ সূৰবী অধ্যাপক এ.বি.এ. মতিন চাহাৰে পূনৰিক্ষণ কাৰ্য্য সম্পাদন কৰি দিয়াৰ বাবে\n\nড‘ ৰায়না খানম মজুমদাৰ\nঘোঃ আতাউৰ ৰহমান\nডষ্ট ফজলুৰ ৰহমান",
+  "confidence": {
+    "word_count": 54,
+    "mean": 86.69,
+    "median": 93.29,
+    "minimum": 33.42,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.95,
+  "page_elapsed_seconds": 3.19,
+  "peak_process_tree_rss_bytes": 1212243968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 14,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(উদাহৰণৰ আহিত লিখা): ৮৯)| ৯ ৰ এ 1 ০\n\n(\n\n_এ))\n\nএ৮াচব্ৰদভ:৪:৪স্ক্ + ০   এছৰ তখন লি ২৬%) ৰড   4৯5%৯:৯55৯, =) + =\n\n78939 == +  ১০০৮৮ = + >  £3:4853, এটিও ইট 47\n\nৰু    ঞৰ+্তু     পাত\n\nঢু = চে+কীডে | ১ ন্ড দন?\" %্এি দেন, = > \"+ (১\n(=)\n\n; )7\" ন == $এ.   {০0% 7 = )\"- :004\nমাম1\";.৮৭%% ==  +ৰ্ধ্জৰ্ণ ২-৯  7) তেতশ |\"৷\nতলী শ এক ;% == ০  4-  ==  টন =\nবা ৰ 4   \"3: | )এ৯%=,7 ৮৭ কষ) $৯৬\n\n:)62)1 9124 :য2৮41। ৩}*1 03১4 + 15)}\n\n(উদাহৰণৰ আৰ্হিত প্রতিটি শব্দক ইয়াৰ সংশ্লিষ্ট বৰ্ণৰ সৈতে সংযোগ কৰা)\n\nতত দৰ্ত্ু\n\nকোল লৰে\nপে\n\n| ;+২.৮ *%.,\nতাত\n\n১১৪\n\n  : (৩\n\n42.7 =992৫6\n\nবৰ ম্স্পিি\n\n৮3১১১১%০(৷)।==\n\n82%)\n\nশুই পু পটি পু তন দুই তাই\n\nৰ",
+  "confidence": {
+    "word_count": 80,
+    "mean": 36.85,
+    "median": 34.84,
+    "minimum": 0.0,
+    "maximum": 93.3
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9998,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.935,
+  "page_elapsed_seconds": 3.175,
+  "peak_process_tree_rss_bytes": 1118867456,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 12,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\n\nশব্দ        অৰ্থ    শব্দ    অৰ্থ\nধ্ৰু (ধ্ৰুপদ, ধ্ৰ্ৱপদ) ঃধুৰা, গীতৰ দোহাৰ, ৷ বেণু - বাঁহী, মুৰুলী\nযিবোৰ মাজে মাজে ৷ সকালে == পুৱা\nপুনৰাবৃত্তি হয়     মেলিয়ো -- মুকলি কৰা, মেলা\nতেজৰে -=- এৰা, ত্যাগ কৰা৷    কহয় -= কয়\nকমলাপতি -= লক্ষ্মীপতি, বিষ্ণু, ভগৱান |মাই -- আই, মা\nপৰভাত == প্ৰভাত, পুৱা      বলৰাম -= আ্ৰীকৃষ্ণৰ ককায়েকৰ নাম\nনিন্দ _-- নিদ্ৰা, টোপনি, ঘুমটি নন্দ -- শ্ৰীকৃষ্ণৰপিতৃ\nচান্দ _-=_ চন্দ্র, জেন       পাল -- গৰু, ম'হ আদিৰ জাক\nপেখোঁ == দেখোঁ, চাওঁ     ত _ কবি চা নাম ৰা\n-ম্ষ্ট তাত খ্ন  ডাণ +!\nহাহ্বালাৱে __ হেম্বেলিয়ায়     ত্ৰিজগত -- স্ব, মৰ্ত্য আৰু পাতাল\nধেনু _ -- পোৱালী হোৱা গাই, বিদুৰ -_ আঁতৰা, অধিক দূৰত থকা\nখীৰতী গাই     তিমিৰ -= আন্ধাৰ, তমসা\nতুৱা/তেৰি == তোৰ /তোমাৰ    উৰায় -= উৰে\nগোৱিন্দ -= জীকৃষ্ণৰ অন্য এটা নাম |ব্ৰজবধু -- ব্ৰজধামৰ বোৱাৰী\nধৱলী -= বগা বৰণ      বাথান --- গৰু আৰু ম’হৰ খুঁটি\nবৰণ    -_ বৰ্ণ,ৰং          গোৱাল --- গৰু, ম’হৰ প্রতিপালক\nশতপত্ৰ -= পদুম            লাগে তাকে দিব পৰ৷ গাই\nবিকশিত == ফুলা, প্ৰস্ফুটিত    শিঙা -- শিঙেৰে সজা ফুঁ দি বজোৱা\nভ্ৰমম __-= ভোমোৰা     বাজ   মো\nদধি   = দৈ      “/ _|/ৰাখোৱাল--- ৰখীয়া, গৰখীয়া\nগুণ   -_ যশস্যা,স্বভাৱ, ধৰ্ম | ডাকে -_ মাতে\nআসিল _ -=- আহিল      লৈয়া -=- লৈ\nপতি _ == স্বামী          ফেৰিয়া -- ফালি\nবৎস   -= পোৱালী        গেল -- গ’ল\nলৱনু _-= মাখন, লনী    বিদূৰ -- অধিক দূৰত থকা\n\n>>\"",
+  "confidence": {
+    "word_count": 221,
+    "mean": 73.53,
+    "median": 86.45,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 10 diacritics",
+        "Detected 10 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.34,
+  "page_elapsed_seconds": 4.13,
+  "peak_process_tree_rss_bytes": 281149440,
+  "tesseract_warnings": [
+    "Detected 10 diacritics",
+    "Detected 10 diacritics"
+  ],
+  "processed_this_run": true
+}

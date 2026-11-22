@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 122,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৬) তলৰ শব্দবোৰৰ পৰা শুদ্ধ বানানবোৰ বাছি উলিয়াই লিখা।\n\nকলিতাণী, কমাৰণী, তঅধিস্থান,৷ পৰিহায, গৱেষণা,\nউত্তীৰ্ণ,        অৰ্জন,        প্রশিক্ষণ\n\n9৪ ূএ]8এ4.এ৷৮৮৷\n\nজানি থোৱা\n\nমেডাম কুৰী--- ফৰাচী বিজ্ঞানী মেডাম কুৰীৰ আচল নাম মাৰিয়া ছক্লোডউস্কা ৷\nপোলেণ্ডৰ ৰাজধানী ৱাৰ্ছোত ১৮৬৭ চনত তেখেতৰ জন্ম হৈছিল। অভাৱ-\nঅনাটন আৰু নানান দুৰ্যোগৰ মাজেৰে সোণৰ পদকেৰে বিভূষিত হৈ ১৮৮২\nচনত মেডাম কুৰী (মাৰিয়া) বিদ্যালয়ৰ শেষ পৰীক্ষাত উত্তীৰ্ণ হয়। স্বামী পিয়েৰে\nকুৰীৰ সৈতে ৰেডিয়াম আৱিষ্কাৰ কৰাৰ কাৰণে তেখেতে যুটীয়াভাৱে ন’বেল\nপুৰস্কাৰ লাভ কৰে। ১৯১১ চনত ৰসায়ন বিজ্ঞানলৈ আগবঢ়াৱো অৱদানৰ বাবে\nপুনৰায় ন’বেল বঁটা লাভ কৰে। দুবাৰকৈ ন’বেল বঁটা পোৱা তেখেতেই একমাত্ৰ মহিলা বিজ্ঞানী ।\n\nমেডাম কুৰীয়ে আৱিষ্কাৰ কৰা ৰেডিয়াম চিকিৎসা বিজ্ঞানৰ বাবে এক গুৰুত্বপূৰ্ণ আৱিষ্কাৰ।\nছালৰ ৰোগ নিৰাময়ৰ বাবে ৰেডিয়ামৰ বিকিৰণ ক্ষমতাক ব্যৱহাৰ কৰিব পাৰি।\n\n৭) বৰ্ণজালখনৰ পৰা বৰ্ণ আনি বিজ্ঞানীৰ নাম লিখা।\n\nমা ।[নি|আ৷মা৷মে|উ ৷লি|ও\nৰা|ই|।নু[ন|জ|উপীঁক|মি৷লা\nকে|ক|গে৷নি৷ষ্টা |ম |ট।ন\nলভি নিঙব্যোকোৰ ছন\nষ্ট।ন[৷ৰু৷ই!প্র |জে]চে\nউদাহৰণ-_ আৰ্কিমিডডচ | ফে। ন | চ [সা |[ন।]দ\n\nত্/\nত্্/\n//",
+  "confidence": {
+    "word_count": 148,
+    "mean": 82.45,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.917,
+  "page_elapsed_seconds": 4.325,
+  "peak_process_tree_rss_bytes": 243011584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

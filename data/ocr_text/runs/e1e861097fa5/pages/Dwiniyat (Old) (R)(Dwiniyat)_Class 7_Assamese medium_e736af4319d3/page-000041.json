@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দীনিয়াত        ৩৫\n\nসমপ্্ুম অধ্যায়\n\nতাহাৰত বা পৱরিত্ৰতা\n\nপৱিত্ৰতা ইছলামৰ এটা গুৰুত্বপূৰ্ণ বিষয়, যিটো অবিহনে ইছলামৰ কোনো\nশাৰীৰিক, মানসিক আৰু আৰ্থিক কাম সিদ্ধ হ'ব নোৱাৰে। পরিত্ৰতাত থকা\nআল্লাহৰ এটা ডাঙৰ এবাদত। কোৰআন মজীদ আৰু হাদীছত ইয়াৰ বহুত বৰ্ণনা\nআছে।\nপ্ৰশ্ন-অজু নোহোৱা অৱস্থাত নামাজ সিদ্ধনে?\nউত্তৰ- বিনা অজুৱে নামাজ পঢ়া মহাপাপ ।\nপ্ৰশ্ন-নামাজৰ বাবে অজুৰ প্ৰয়োজন হোৱাৰ আৱরশ্যকতাৰ প্ৰমাণ কি\nউল্তৰ- কোৰআন মজীদত নামাজৰ আগতে পবিত্ৰ হৈ লোৱাৰ নিৰ্দেশ আছে-\n\n148 21 71)| 2]1 |দ-ত 1211 41 তেন 42119\n| স্দলপ ঠ ডেঠনাশ্)। ড। দৃশিতিলল |) ৯০৩\n= টেঞলিল। তো দেখিত)? (গিলল4 42)\nইয়াৰ ওপৰিও হজৰত মহম্মদ (ছঃ)এ কৈছে-\n> %$ল=)। 32.) 2৮৯\nঅৰ্থাৎ- পৱিত্ৰতাই নামাজৰ চাবি।\n\nঅজুৰ ফৰজসমূহ\n\nপ্ৰশ্ন-কি পৰিমাণ ধুলে পৱিত্ৰ হোৱা বুলি ক’ব পাৰি?\n\nউত্তৰ- অংগৰ ওপবেদি পানী বৈ গৈ দুই এটোপালকৈ সৰি পৰিলে ধোৱা বুলি\nক’ব পলাৰি। ইয়াতকৈ কম হ’লে ধোৱা বুলি ক’ব নোৱাৰি। যেনে- কোনোবাই\nহাত তিয়াই মুখমণ্ডলৰ ওপৰেদি বুলাই আনিলে নাইবা ইমান কম পানীৰে\nমুখমণ্ডল ধূলে যে, সেই পানী মুখতে লাগি থাকিলে, কিন্তু পানীৰ টোপাল\nসৰি নপৰিল, তেতিয়া অজু সিদ্ধ নহ’ব।",
+  "confidence": {
+    "word_count": 165,
+    "mean": 75.93,
+    "median": 92.14,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.477,
+  "page_elapsed_seconds": 2.598,
+  "peak_process_tree_rss_bytes": 241299456,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

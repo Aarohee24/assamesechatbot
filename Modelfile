@@ -1,0 +1,5 @@
+FROM ./models/assamese-q4_k_m.gguf
+
+PARAMETER num_ctx 4096
+PARAMETER num_predict 512
+PARAMETER temperature 0.4

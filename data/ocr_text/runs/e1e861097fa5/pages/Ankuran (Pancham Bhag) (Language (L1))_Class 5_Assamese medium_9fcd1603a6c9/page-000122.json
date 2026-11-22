@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 122,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তলত সুকনানী ওজাই গোৱা পদৰ এটি নমুনা দিয়া হৈছে। তোমালোকে কোনো\nজনা লোকৰ সহায়ত গাবলৈ শিকিবা।\n\nদিহা ।।\n\nপদ ।।\n\nদাৰুণ বিধি কি লেখিলা আমাৰ কপালে।\nদাৰুণ বিধি কি লেখিলা মোৰে।।\n\nপ্রভু প্রভু বুলি বেউলা ডাক চাৰি বোলে।\nডাক দিলা দেৱসৱে মেৰৰ উপৰে।।\nনাকান্দা নাকান্দা তুমি বেউলা সুন্দৰী।\nঅৱশ্যে পাইবা লখাইক গৈলে দেৱপুৰী।।\nদেৱগণ বচন বেউলা নুশুনিল কাণে।\n\nহা প্রভু হা প্রভু বুলি বেউলাই কান্দে।।\nনা হইল মাস পক্ষ দিন অষ্ট চাৰি।\n\nকাল ৰাত্ৰিত পদ্মাৱতী মোক কৈল বাৰী।।\nবিষাদ ভাবিয়া বেউলা কৰয় ত্ৰুন্দন।\nশুনিতে উপজে দুখ শুনে যিবা জন।।\nকোন দোষে প্রভু মোৰ হৈল দৰিশন।\nতুমি অবিহনে মই জীম কিবা কাৰণ।।\nহা প্রভু হা প্ৰভু আমাক এৰি গৈলা তুমি কোথা।\nকোন দোষে মোৰ কৈল এমন অৱস্থা।।\n\nঞঞস ছাত্ৰ-ছাত্ৰীক গোৱাবলৈ চেষ্টা কৰিব।\n\n(উৎস - অসমীয়া লোক-নাটা পৰম্পৰা, ডঃ শৈলেন ভৰালী,পৃষ্ঠা-- ১১৯, গুৱাহাটী বিশ্ববিদ্যালয়,\n\nপ্রকাশক - বাণী প্রকাশ প্ৰাইভেট লিমিটেড)",
+  "confidence": {
+    "word_count": 138,
+    "mean": 90.38,
+    "median": 93.3,
+    "minimum": 23.01,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.836,
+  "page_elapsed_seconds": 3.197,
+  "peak_process_tree_rss_bytes": 243625984,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

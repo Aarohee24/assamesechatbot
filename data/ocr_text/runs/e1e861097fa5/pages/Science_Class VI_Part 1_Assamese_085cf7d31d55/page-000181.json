@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 181,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "11, বস্তু বা দ্রব্যৰ ধৰ্মৰ ভিত্তি কৰি মিলোৱা। মনত ৰাখিবা কিছুমান বস্তু বা পদাৰ্থৰ একাধিক\n\nধৰ্ম থাকিব পাৰে।\nবস্তু বা পদাৰ্থ               ধৰ্ম\nকাচৰ বটল           অস্বচ্ছ\nকাঠৰ টুকুৰা           স্বচ্ছ\nনিমখ             জ্যোতিমান\n\n12. তোমাক যদি এখন মজবুত, পাতল আৰু দীৰ্ঘস্থায়ী বেঞ্চ তৈয়াৰ কৰিবলৈ কোৱা হয়,\nতেন্তে তুমি কোনবিধ দ্রব্য নিৰ্বাচন কৰিবা আৰু দ্রব্যৰ কোনবোৰ ধৰ্মক অগ্ৰাধিকাৰ দিবা?\n\n13. কিছুমান দ্রব্য গোটাই লোৱা যেনে, বালি, নিমখ, নেমু ৰস, ইত্যাদি। এতিয়া এটা গিলাচত\nপানীলৈ এটা এটাকৈ মিহলাই চোৱা, কোনবোৰ বস্তু পানীত মিহলি হয় এখন তালিকা বনাই\nলিপিৱদ্ধ কৰা।\n\n14.\n\n2 কিল গ্রাম দগা\n\nওপৰৰ ছবি দুটা তলৰ তুলাচনীখনৰ সঠিক স্থানত অংকন কৰা।",
+  "confidence": {
+    "word_count": 98,
+    "mean": 92.62,
+    "median": 96.11,
+    "minimum": 24.17,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.205,
+  "page_elapsed_seconds": 2.565,
+  "peak_process_tree_rss_bytes": 296030208,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,152 @@
+{
+  "created_at": "2026-11-01T05:38:01+05:30",
+  "split_unit": "source book",
+  "dataset_type": "automatically filtered OCR; not human-reviewed or error-free",
+  "tokenizer": {
+    "status": "exact",
+    "tokenizer_repository": "ptrdvn/kakugo-3B-asm",
+    "tokenizer_revision": "a6a854a0a680c4c57ec026df014f8f5964da8721",
+    "tokenizer_path": "checkpoints\\kakugo-tokenizer",
+    "tokenizer_class": "GPT2Tokenizer",
+    "vocabulary_size": 100352,
+    "error": null
+  },
+  "books": [
+    {
+      "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+      "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 37,
+      "characters": 22144,
+      "tokens": 25184
+    },
+    {
+      "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+      "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+      "split": "validation",
+      "accepted_pages": 135,
+      "characters": 178090,
+      "tokens": 249289
+    },
+    {
+      "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+      "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 137,
+      "characters": 126547,
+      "tokens": 168847
+    },
+    {
+      "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+      "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 142,
+      "characters": 167389,
+      "tokens": 227881
+    },
+    {
+      "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+      "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 135,
+      "characters": 145220,
+      "tokens": 200976
+    },
+    {
+      "book": "Assamese.pdf",
+      "source_relative_path": "data/books/Assamese.pdf",
+      "split": "train",
+      "accepted_pages": 103,
+      "characters": 186680,
+      "tokens": 266167
+    },
+    {
+      "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+      "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 242,
+      "characters": 430320,
+      "tokens": 555067
+    },
+    {
+      "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+      "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+      "split": "train",
+      "accepted_pages": 139,
+      "characters": 205011,
+      "tokens": 277847
+    },
+    {
+      "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+      "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+      "split": "train",
+      "accepted_pages": 1,
+      "characters": 1159,
+      "tokens": 1703
+    },
+    {
+      "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+      "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 61,
+      "characters": 68682,
+      "tokens": 94702
+    },
+    {
+      "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+      "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+      "split": "train",
+      "accepted_pages": 77,
+      "characters": 44725,
+      "tokens": 58144
+    },
+    {
+      "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+      "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+      "split": "train",
+      "accepted_pages": 83,
+      "characters": 66295,
+      "tokens": 88619
+    },
+    {
+      "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+      "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+      "split": "validation",
+      "accepted_pages": 136,
+      "characters": 204053,
+      "tokens": 283186
+    },
+    {
+      "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+      "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+      "split": "train",
+      "accepted_pages": 221,
+      "characters": 401018,
+      "tokens": 566404
+    },
+    {
+      "book": "Science_Class VI_Part 1_Assamese.pdf",
+      "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+      "split": "train",
+      "accepted_pages": 130,
+      "characters": 150917,
+      "tokens": 206603
+    },
+    {
+      "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+      "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+      "split": "validation",
+      "accepted_pages": 131,
+      "characters": 131228,
+      "tokens": 171443
+    },
+    {
+      "book": "Unmesh I-Class VI-Assamese.pdf",
+      "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+      "split": "train",
+      "accepted_pages": 148,
+      "characters": 158297,
+      "tokens": 216801
+    }
+  ]
+}

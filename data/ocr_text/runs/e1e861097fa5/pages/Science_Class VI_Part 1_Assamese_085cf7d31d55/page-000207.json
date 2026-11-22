@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 207,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "' ফিল্টাৰ কাগজ : ফিল্টাৰ কাগজ বা ফিল্টাৰ পেপাৰ হ’ল কাগজেৰে নিৰ্মিত অতি সৰু,\nছিদ্ৰযুক্ত চালনী। অতি ক্ষুদ্ৰ কণিকা এনে চালনীৰে পৃথক অৰ্থাৎ পৰিস্জাৱণ কৰিব পাৰি।।\n৷ সাধাৰণ কাগজ এই কামত ব্যৱহাৰ কৰিব পাৰিবানে? কিয়?             |\n\nঘৰত পানী পৰিষ্কাৰ কৰিবৰ বাবে ফিল্টাৰ\nব্যৱহাৰ কৰা হয় (চিত্ৰ-6.11)। এনে ফিল্টাৰত\nচেৰামিক নামৰ পদাৰ্থৰে নিৰ্মিত দণ্ড থাকে। এই\nদণ্ডত কিছুমান ক্ষুদ্ৰ ক্ষুদ্ৰ ছিদ্ৰ থাকে। পানীত থকা\nঅশুদ্ধিবোৰ এই ছিদ্ৰবোৰৰ মাজেদি পাৰ হৈ যাব\nনোৱাৰে। কেৱল পানীখিনিহে বা যিবোৰ খনিজ\nএই ছিদ্ৰবোৰতকৈ সৰু, সেইবোৰহে সৰকি যাব\nপাৰে। মন কৰিবা এই ক্ষুদ্ৰ কণিকাবোৰ ইমানেই\nসৰু যে আমি খালী চকুৰে নেদেখো। পৰিষ্কাৰ\nখাব পৰা পানী ফিল্টাৰটোৰ তলৰ অংশত ৰখা\nপাত্ৰত জমা হৈ থাকে।\n\nপৰিস্ৰাৱণ পদ্ধতিটো ঘৰতে গাখীৰৰ পৰা\nপনিৰ প্রস্তুতিত ব্যৱহৃত হয়। গাখীৰ গৰম কৰি\nথাকোতে অলপ নেমুৰস যোগ কৰিলে গাখীৰৰ\nপৰা গোটা পনিৰ সৃষ্টি হয়। তোমালোকে এনে\nহোৱা দেখিছা ছাগে। এই -মিশ্ৰটো হ'ব পানী    চ্ৱি 6.11 : পানী ফিল্টাৰ\nআৰু পনিৰৰ মিশ্ৰ ৷ এখন মিহি কাপোৰ বা চেকনী ব্যৱহাৰ কৰি পনিৰখিনি পানীৰ পৰা পৃথক\nকৰিব পাৰি (চিত্ৰ 6.12) । তোমালোকে নিজে এই কাৰ্যটো কৰি চাব পাৰা।\n\n(৪) উতলা গাখীৰত\nনেমুৰ ৰস দিছে\n\n(০) পনিৰ আৰু পানীৰ\nমিশ্ৰ (অৱক্ষেপণ)\n\nচিত্ৰ 6.12 : গাখীৰৰ পৰা পনিৰ পৃথকীকৰণ\n\nভৰৰ ৰৰৰৰৰৰৰৰৰৰ =",
+  "confidence": {
+    "word_count": 193,
+    "mean": 89.21,
+    "median": 94.97,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.256,
+  "page_elapsed_seconds": 3.674,
+  "peak_process_tree_rss_bytes": 300519424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

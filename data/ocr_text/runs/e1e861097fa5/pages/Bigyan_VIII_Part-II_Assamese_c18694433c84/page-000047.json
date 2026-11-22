@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 47,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তালিকা 11.1 : সংৰক্ষণৰ বাবে সংৰক্ষিত অঞ্চলসমূহ\n\nসংৰক্ষিত অঞ্চল    ৰাষ্ট্ৰীয় উদ্যান      অভয়াৰণ্য     জীৱমণ্ডল সংৰক্ষিত\nঅঞ্চল\nমোৰ জিলাত\nমোৰ ৰাজ্যত\nমোৰ দেশত\n\nচিত্ৰ 11.1 : পাঁচমাৰী জীৱমণ্ডল সংৰক্ষিত অঞ্চল\n\nজ্ৰিয়াকলাপ 11.4\n\nতোমালোকৰ অঞ্চলৰ জীৱ বৈচিত্ৰ্য বিশ্নিত কৰা\nকাৰকসমূহৰ তালিকা. কৰা। এই কাৰকবোৰৰ\nকিছুমান আৰু মানুহৰ ক্ৰিয়াকলাপৰ বাবে\nঅজানিতে জীৱ বৈচিত্ৰ্য হানি হ’ব পাৰে। মানুহে\nকৰা কাৰ্যসমূহৰ তালিকা কৰা। এইবোৰ কেনেকৈ\nৰোধ কৰিব পাৰি? তোমালোকৰ শ্রেণীত\nআলোচনা কৰা আৰু তোমালোকৰ বহীত চমুকৈ\nএখন প্ৰতিবেদন লিখা ।\n\n11.5 উদ্ভিদকুল আৰু প্ৰাণীকুল ঃ\n\nজীৱমণ্ডল সংৰক্ষিত অঞ্চলত ল’ৰা-ছোৱালীবোৰে\nবনাঞ্চলৰ সেউজ সম্পদৰ গুণাৱলী উপলব্ধি কৰিলে।\n\n_ উদ্ভিদ আৰু প্ৰাণীৰ সংৰক্ষণ / €01খ9ংছ/]101খ 0771.%খণ'9 খা) খাখা/%া.9\n\nতেওঁলোকে ওখ চেণ্ুন গছবোৰ আৰু অৰণ্যত চৰি থকা\nপ্রাণীবোৰ দেখি অতি আনন্দিত হ’ল। প্রহেলিকাই এটা\nশহা পহু দেখিলে আৰু তাক ধৰিবলৈ ইচ্ছা কৰিলে।\nতাই তাৰ পিছত দৌৰিবলৈ আৰম্ভ কৰাত অধ্যাপক\nআহমদে তাইক বাধা দিলে। তেওঁ বুজাই দিলে যে\nপ্রাণীবোৰে সিহঁতৰ নিজৰ আৱাসস্থলীত সুকলমে\nআৰু সুখেৰে থাকিব বিচাৰে। আমি সিহঁতক আমনি\nদিব নালাগে। কৃষ্ণ দাসে ব্যাখ্যা কৰি ক’লে যে কিছুমান\nনিৰ্দিষ্ট প্ৰাণী আৰু উদ্ভিদ কিছুমান নিৰ্দিষ্ট অঞ্চলতহে\nথাকে। এই নিৰ্দিষ্ট অঞ্চলত পোৱা উদ্ভিদ আৰু প্রাণীক,\nসেই অঞ্চলবোৰৰ উদ্ভিদকুল আৰু প্ৰাণীকুল হিচাপে\nজনা যায়।",
+  "confidence": {
+    "word_count": 181,
+    "mean": 87.83,
+    "median": 95.71,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.989,
+  "page_elapsed_seconds": 3.31,
+  "peak_process_tree_rss_bytes": 335323136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

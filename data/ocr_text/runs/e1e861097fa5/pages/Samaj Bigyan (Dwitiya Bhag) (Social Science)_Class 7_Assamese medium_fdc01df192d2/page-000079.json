@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 79,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আৰু ৮৮ পূব দ্ৰাঘিমাংশৰপৰা ৮৮%৫৫/পূব দ্ৰাঘিমাংশৰ মাজত অৱস্থিত। এই ৰাজ্যখন উত্তৰ-পূব ভাৰতৰ মুঠ সাতখন\nৰাজ্যৰপৰা পশ্চিমত পৃথকে আছে।\n\n৬ ৰাজ্যৰ ৰাজধানী\n\n। (আনুমানিক মাপনি)\n\nচিত্ৰ ৪৮.১ মানচিত্ৰ\nউত্তৰ-পূব ভাৰতক তিনিওফালে পৰ্বত আৰু পাহাৰে আবৰি আছে। পশ্চিম ফালৰ ঠেক সমতল অংশটোৱে\n\nউত্তৰ-পূব অঞ্চলক ভাৰত ভূখণ্ডৰ সৈতে সংযোগ কৰিছে। এই অংশটো প্রায় ২২ কিল’মিটাৰ বহল। এই অংশটোক\nচিকেন নেক (0:010161) ]46০1) বুলি কোৱা হয়।\n\nউত্তৰ-পূব ভাৰতৰ ৰাজ্যবোৰৰ উল্লেখযোগ্য পৰ্যটন স্থল ঃ\n\nৰাজ্য | মুঠ মাটিকালি (বঃকিঃ) | জিলাৰ সংখ্যা | ৰাজধানী       পৰ্যটন স্থল\nঅসম                     ৭৮,৪৩৮                       ৩৪             দিছপুৰ           কাজিৰঙা, শিৱসাগৰ\nঅৰুণাচল                ৮৩,৭৪৩                         ১৬              ইটানগৰ          টাৱাং, তেজু\nমণিপুৰ                      ২২,৩২৭                           ১৬               ইম্ফল               ঠোবাল, উখৰুল, লকটক হৃদ\nমিজোৰাম      ২৯,০৮১         ১১     আইজল | লুঙলেই\nমেঘালয়      ২২,৮২৯         ১১     শ্বিলং     চেৰাপুঞ্জী, উমিয়াম হদ, এলিফেন্ট\nজলপ্ৰপাত\nনগালেণ্ড                   ১৬,৫৭৯                         ১২              কহিমা             জাফো শৃংগ, জুকু ভেলী\nত্ৰিপুৰা      ১০,৪৮৬       ৮     আগৰতলা | নীৰমহল প্ৰসাদ\nচিকিম                         ৭,০৯৬                          ৪                  গেংটক            নাথুলা পাছ, চমগো হৃদ",
+  "confidence": {
+    "word_count": 139,
+    "mean": 90.06,
+    "median": 94.79,
+    "minimum": 14.71,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.245,
+  "page_elapsed_seconds": 3.932,
+  "peak_process_tree_rss_bytes": 234598400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

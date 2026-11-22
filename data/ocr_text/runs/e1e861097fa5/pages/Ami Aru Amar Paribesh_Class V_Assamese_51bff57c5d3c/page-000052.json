@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 52,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চূণশিল\n\nচূণশিল অসমৰ আন এবিধ খনিজ সম্পদ। ডিমা-হাছাও জিলাৰ উমৰাংছু আৰু কাৰ্বি আংলং\nজিলাৰ কয়লাজান আৰু ডিলাই পাহাৰত চূণশিল পোৱা যায়। বিলাতী মাটি প্রস্তুত কৰিবলৈ চূণশিল\nব্যৱহাৰ কৰা হয়। বোকাজানৰ বিলাতী মাটিৰ উদ্যোগত কয়লাজানৰ পৰা অনা চূণশিল ব্যৱহাৰ কৰা\nহয়।চূণশিলৰপৰা চকপেঞ্চিল, দাঁত ঘঁহা দ্রব্য, ৰং আদি প্রস্তুত কৰা হয়।\n\nপ্রাকৃতিক সম্পদবোৰ আমাৰ ৰাজ্যত মজুত থকাৰ বাবে এইবোৰৰ ব্যৱহাৰ সহজসাধ্য হৈছে।\nএই সম্পদবোৰে আমাৰ দেশক উদ্যোগীকৰণত সহায় কৰি আমাৰ জীৱন-ধাৰণৰ মান উন্নত কৰিছে।\nকেঁচামাল আৰু উৎপাদিত সামগ্ৰীসমূহ দেশ-বিদেশলৈ ৰণ্ডানি কৰি চৰকাৰে ৰাজহ সংগ্ৰহ কৰাৰ\nফলত আমাৰ ৰাজ্যখন অৰ্থনৈতিকভাৱে লাভান্বিত হৈছে। এই প্ৰাকৃতিক সম্পদবোৰৰ সঠিক ব্যৱহাৰ\nকৰাটো সকলোৰে কাম্য।\nসিপিঠিত উল্লেখ কৰা ‘খনিজ সম্পদ’ৰ কথাখিনিৰ ওপৰত ভিত্তি কৰি লিখা-\n\n৬ অসমৰ খাৰুৱা তেল থকা ঠাইবোৰৰ নাম-_\n\n৬ কয়লা থকা ঠাইবোৰহ’ল-=\n\n৬ চুণশিল থকা ঠাইবোৰ হ’ল-_\n৩।জলজ সম্পদ\n\nব্ৰহ্মপুত্ৰ আৰু বৰাক অসমৰ দুখন প্রধান -নৈ। এই নৈ দুখনৰ\nবহুতো উপনৈ আছে। এই নৈ-উপনৈবোৰত জাহাজঘাট, ফেৰীঘাট\nআদি গঢ়ি উঠিছে। এখন ঠাইৰপৰা আন এখন ঠাইলৈ অহা-যোৱা\nকৰিবলৈ আৰু বস্তু-বাহানি কঢ়িয়াবলৈ মানুহে জল পৰিবহণ ব্যৱস্থাৰ\nসুযোগ গ্ৰহণ কৰিছে। ব্ৰহ্মপুত্ৰ নৈত পোৱা শিহু হ’ল পৃথিৱীৰ এবিধ\nবিৰল প্রজাতিৰ জলজ প্রাণী।",
+  "confidence": {
+    "word_count": 173,
+    "mean": 89.78,
+    "median": 94.43,
+    "minimum": 12.78,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.228,
+  "page_elapsed_seconds": 3.772,
+  "peak_process_tree_rss_bytes": 209530880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

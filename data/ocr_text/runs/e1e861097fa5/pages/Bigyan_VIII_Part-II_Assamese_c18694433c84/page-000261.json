@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 261,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত্ৰিয়াকলাপ 18.10\n\nবুধ হ’ল সূৰ্যৰ নিকটতম আৰু সৌৰজগতৰ ক্ষুদ্ৰতম\nগ্ৰহ। বুধ সূৰ্যৰ অতি ওচৰত অৱস্থিত বাবে বেছিভাগ\nসময়তেই ই সূৰ্য-ৰশ্মিৰ আলোকত লুকাই থাকে। ফলত\nবুধৰ দৰ্শন দুৰ্লভ । তথাপিও সূৰ্যাস্তৰ ঠিক পাছতেই বা\nসূৰ্যোদয়ৰ আগমুহূৰ্তত দিগন্তৰ ওচৰত ইয়াক দেখা ইয়াৰ অর্থ এয়ে নেকি যে শুক্ৰুত\n\nযায়। গতিকে গছ-গছনি বা ওখ ওখ ঘৰৰ দ্বাৰ দিগন্তৰ       ৷  1 চাক পূৰে\nসূৰ্যাস্ত হয়?\nদৃশ্য বাধাগ্ৰস্ত ন'ইলে বুধৰ নিৰীক্ষণ সম্ভৱ হৈ উঠে।\nবুধৰ কোনো নিজা উপগ্ৰহ নাই।                     সুবিধা পালে এটা দূৰবীক্ষণ যন্তৰ সহায়েৰে\n\nশুক্ৰক নিৰীক্ষণ কৰ৷। দেখিবা যে শুক্ৰয়ো চন্দ্ৰৰ দৰে\nকলা প্ৰদৰ্শন কৰে (চিত্ৰ 1 8.20)\n\nশুক্ৰ পৃথিৱীৰ আটাইতকৈ ওচৰৰ গ্ৰহ ৷ নিশাৰ আকাশৰ\nইয়েই আটাইতকৈ উজ্জ্বল জ্যোতিষ্ক\n\nকেতিয়াবা শুক্ৰক পূব আকাশত, সূৰ্যোদয়ৰ\nআগে আগে দেখা পোৱা যায়। কেতিয়াবা ই পশ্চিম\nআকাশত সূৰ্যাস্তৰ ঠিক পাছতেই দেখা দিয়ে। গতিকে\nইয়াক প্রায়েই পুৱতি তৰা বা সন্ধ্যা তৰা বুলি কোৱা হয়;\nযদিও ই প্রকৃততে তৰা নহয়। ৰাতিৰ আকাশত শুক্ৰক\nবিচাৰি উলিওৱা ।               পৃথিৱী সৌৰজগতৰ একমাত্র গ্ৰহ য’ত জীৱৰ\n\nশুক্ৰৰ কোনো নিজা চন্দ্ৰ বা উপগ্ৰহ নাই। শুক্ৰই অৱস্থিতি আছে। কিছুমান অনুকূল পৰিৱেশৰ বাবে\n\nথৱীত জীৱৰ সৃষ্টি আৰু তাৰ নিৰন্তৰ বিকাশ সম্ভৱ\nনিজৰ অক্ষ সাপেক্ষে অলপ ব্যতিক্ৰমী ধৰণে ঘূৰে।    পৃথি     +\nঘুৰে।ই হৈছে। সূৰ্য আৰু পৃথিৱীৰ মাজত থকা যথোচিত\n\nপূবৰ পৰা পশ্চিমলৈ ঘূৰে, কিন্তু পৃথিৱীয়ে পশ্চিমৰ দূৰত্বই হৈছে এনেবোৰ অনুকূল অৱস্থান অন্যতম,\nপৰা পূবলৈ ঘূৰে।\n\nতৰা আৰু সৌৰজগত / 911২5 খা) []][} 501.1২ ৪%9]0;[]                                                                                                246.",
+  "confidence": {
+    "word_count": 217,
+    "mean": 83.54,
+    "median": 95.33,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.284,
+  "page_elapsed_seconds": 3.594,
+  "peak_process_tree_rss_bytes": 236879872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

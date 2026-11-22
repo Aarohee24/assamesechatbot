@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১ উত্তৰ লিখা---\n(ক) পৰিৱেশ প্ৰদূষণ মানে কি বুজা ?\n(খ) প্রদূষণ কেই প্রকাৰৰ আৰু কি কি?\n(গ) বায়ু প্ৰদূষণৰ দুটা কাৰণ লিখা।\n(ঘ) পানী প্রদূষণে কি কি দিশত প্রভাৱ পেলাব পাৰে যিকোনো দুটা দিশ উল্লেখ কৰা।\n(৬) মাটি প্রদূষণৰ দুটা কাৰণ উল্লেখ কৰা।\n(চ) পৰিৱেশত শব্দ প্ৰদূষণ কেনেদৰে সৃষ্টি হয়?\n২ ।খালী ঠাই পূৰ কৰ৷--\n(ক) পৰিৱেশ প্রদূষিত কৰা পদাৰ্থবোৰক.......------------১----৮বুলি কোৱা হয়।\n(খ) ইন্ধন জ্বলালে বায়ুমণ্ডলত......--------১-১১১১১১-১১১১০-,গেছৰ পৰিমাণ বাঢ়ি যায়।\n(গ) কৃষি কাৰ্যত ৰাসায়নিক সাৰৰ সলনি.............%..      সাৰ ব্যৱহাৰ কৰিব লাগে।\n(ঘ) শব্দ প্ৰদূষণৰ ফলত মানুহৰ...................-শক্তি কমি যাব পাৰে।\n(৬) পৰিৱেশৰ সকলোবোৰ উপাদান.....----১---------কৰি ৰখা আমাৰ সকলোৰে দায়িত্ব ৷\n\n৩।তলৰ বাক্যবোৰ শুদ্ধকৈ লিখা--\n\n(ক) যান-বাহনৰপৰা নিৰ্গত হোৱা ধোঁৱাই বায়ু প্ৰদূষিত নকৰে।\n\n(খ) উদ্যোগৰ ওচৰে পাজৰে গছপুলি ৰোপণ কৰিব নালাগে।\n\n(গ) সৌৰশক্তিৰ পৰিৱৰ্তে কয়লা, পেট্ৰ’ল আদি ইন্ধন হিচাপে ব্যৱহাৰ কৰিব লাগে।\n(ঘ) পুনৰাৱৰ্তন প্রক্ৰিয়াৰে পৰিৱেশ প্ৰদূষণ ৰোধ কৰিব নোৱাৰি।\n\n(৬) বৰষুণৰ পানী সংৰক্ষণ কৰিব নালাগে।\n\n৪ বায়ু প্ৰদূষণ ৰোধ কৰাৰ বাবে ল’ব পৰা দুটা ব্যৱস্থা উল্লেখ কৰা৷\n\n৫ ৷ পানীপপ্রদূষণ ৰোধ কৰিব পৰা যিকোনো তিনিটা ব্যৱস্থা উল্লেখ কৰা৷\n\n৬ মাটি প্ৰদূষণ কেনেদৰে ৰোধ কৰিব পাৰি লিখা ৷\n\n৭ ৷ শব্দ প্ৰদূষণৰ ফলত কি কি সমস্যাৰ সৃষ্টি হ’ব পাৰে?\n\nএ ৫.4...",
+  "confidence": {
+    "word_count": 191,
+    "mean": 85.24,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.997,
+  "page_elapsed_seconds": 3.224,
+  "peak_process_tree_rss_bytes": 240513024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

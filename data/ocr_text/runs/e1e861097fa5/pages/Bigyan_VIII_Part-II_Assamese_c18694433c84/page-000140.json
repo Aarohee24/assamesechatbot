@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 140,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ছ*%]}9038716 {1})6 []91\"1]1% 01 [খ01962\n\n120 00 1]ত়0 ৷ 018{1)16921106 01 6%02991%462 110182\n1] {]}6 90110011011169 1118) ০8096 1]]80[]% ]168]]]\n1618160.[)1100121])8. ][.8€ 01 9169]), 11)[)212108101]\n(]16]}) 61000 ])[26990162), 811স16) 8110 1]]18]1]}\n17016 1168[{]1 01901021\"9 1118 026 ০৪80920 00% 1101962\n1201[00101]. /* ]))21901] স্/]10 19 6ম8])0960 10 8৪ 1000\n90010 ০0110110009]) 1718) 2620 1211120181\") 01\"\n\n62%6210 |)211118.7 21] 1111281111]21]{ 01 116811116,\n\n[%163901\"69 (0 ]}}]}}{ [খ 0196 1\"১0]]01 101]\n\n'[0 ০0110:01 110182, স্%০ 1]]09{ ০0110\"0] 16 9001.029\n01 110192. ][]0%% ০৪11 {17189 66 801016৮60? [701\n019 91121101116 02%910628 11090 066 111918||60 ]]]\n\n811ণসে:810, 211911129, 08118|201{ ৮০]]101629. []10090718]\n\n1]80]11169 8110 1101])6 81)])|1811029.\n\n]]0% ০৪1 16 110196 ]20||001011 66\n০0110\"0]1120 111 8 126910621]018| 3168.?\n|]\n\n€০011000060 ৪8%) [|\"01]] 911) 1691021108| 8168.\n\n110019%. ০|22180101019 11096 ৮6\n]তৈ0196 1)0000]116 11100907129 9]10010 066 ৪60 0])\n৪ঘ্ম8%) |\"01]] 900]) 81689. [186 01 800017100112\n10119 9110010 0662 1]]1]1171920. '][/ 810 1110910\n৪৮9(21]9 9]10010 06 101] 8( 10% ৬০]011]169. [1669\n17090 06 ])1811(60 810118 016 10808 ৪8110 8100110\n001]011169 00 ০00 00%} 01] {]16:9001109 16801\n076 169102118, {109 16000116 1]6 ]]80]]][0|\n\n21608 01 11016 1)0][00010].",
+  "confidence": {
+    "word_count": 175,
+    "mean": 39.91,
+    "median": 38.25,
+    "minimum": 0.0,
+    "maximum": 93.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.5112,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.201,
+  "page_elapsed_seconds": 3.491,
+  "peak_process_tree_rss_bytes": 263016448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

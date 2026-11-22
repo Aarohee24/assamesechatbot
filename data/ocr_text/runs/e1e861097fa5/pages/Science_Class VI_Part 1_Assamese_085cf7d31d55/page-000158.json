@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 158,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্ব%য6 ০৪01 966 01008]] 90106 ০00|16008, ৪0]] 89 811, 91899 8110\n120112116. '[]16 06|162009 01'1]82118.]9 {]1010089]] ড্]]10]] 6 ০৪810 ৪66 816 ০৪81160.\n{1\"9119])2%1\"61]1{ 00600 01 1]18.2118|. (011 {116 01121 18010, 00609 011]8.211819\n11008] ড]01]] স্/6 ০৪8101100 966 816 .০৪81160 0])80.06 0016003 01' 1]802118|.\n\n[] / ২৫০৫ ]( 5.6:\n\n[8] (0 11669 01 {|}10]< স্]1(26 |)8])21' 110 8, (0160])]19]]{. ১০৪]৩ 0116\n৪911662{ ৷] 1210921126. ]0[\"] 011 016 0160]] ]19]0. ]খ্‌০0\" 100] ৪ 016 10160]]\n116]1{ 0010 110009]] (116 |)8])26[ 3081|060 স্1{]1 [210962116. ']']]21] 0\") 10 ৪66.762\n0010 {]010008]] (16 |)8])21, 1100 908160 111 10610962116.\n\n8) '][016])]196]]0 0010089]] ড]]1(6 [28])61. 809) ][0160]]|[19]1{ 0]1100089]] 01160 1)8[)21..\n\"198. 53.7: €900006 0700 .17\"077910006711.00762015\n\n৮00} স্1]] 110006 8016 (0 966 6 0010 01008]1 016 %]]1(6 |)8])61, '[]]19 |)8])61'\n19 0])78002. 120 ৮000 ৪66 16 0010 01008] 116 01160 )8|261} [98 10 681\"\n৮1910]67? ০0 স্1|] 966 {16 0010 1008] {116 01160 |)8]|)21, 00010 ০16৪811%/.\n000|16009 01 1]1812118|9 11008] |}}|] 6. ০৪101100 966 00609 ০1691] ৮ 816\n০৪|160 1\"9119]0106711{ 00}1609 01'1118.0211819.\n\n1.00] 80 116.190016 91211 06|0\"%% 8110 91000) 0176 0016009 /%, 1}, € 89\n0128.002, [8119|28121]{ 8110. 0181191006211{.",
+  "confidence": {
+    "word_count": 177,
+    "mean": 42.99,
+    "median": 43.16,
+    "minimum": 0.0,
+    "maximum": 93.2
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3374,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.659,
+  "page_elapsed_seconds": 4.094,
+  "peak_process_tree_rss_bytes": 308113408,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

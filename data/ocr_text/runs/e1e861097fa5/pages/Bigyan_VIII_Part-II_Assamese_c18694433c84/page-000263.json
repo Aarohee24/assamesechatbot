@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 263,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বায়ুমণ্ডল আৰু অ’জনৰ আৱৰণ আছে।\n\nযত্নপৰ হ’ব লাগে যাতে পৃথিৱীৰ\nজীৱজগতৰ কোনো অনিষ্ট নহয়।\n\nদেখা যায়। ইয়াৰ কাৰণ হল ভূপৃষ্ঠৰ পানী আৰু\nমাটিভাগৰ পৰা হোৱা পোহৰৰ প্রতিফলন।\n\nপৃথিৱীৰ, আৱৰ্তনৰ অক্ষ তাৰ কক্ষপথৰ তলৰ\nলগত লম্বভাৱে নাথাকে। এই হেলনীয়া অৱস্থাটোৰ\nবাবেই পৃথিৱীত খুৰ পৰিৱৰ্তন হয়। পৃথিৱীৰ মাত্ৰ\nএটাহে চন্দ্ৰ আছে।\n\nমংগল\nপৃথিৱীৰ কক্ষপথৰ ব হৰ্ভাগৰ প্রথম গ্ৰহটোৱেই হৈছে\nমংগল। ইয়াক ই্ষৎ ৰঙা দেখা৷ যায়, গতিকে ইয়াক\n\nতুমি পৃথিৱীৰ বিষুবৰেখাৰ বিষয়ে নিশ্চয় জানা।\nবিষুবৰেখাৰ সমতলখনক বিষুবীয় সমতল বোলে\n(চিত্ৰ-18.21)। যিখন সমতলেদি পৃথিৱীয়ে সূৰ্যৰ\nচাৰিওফালে পৰিভ্ৰমণ কৰে তাক কক্ষীয় সমতল\nবোলে (চিত্ৰ-18.21)। এই সমতল দুখন পৰস্পৰে\n23.5০ কোণত হেলনীয়া হৈ থাকে। ইয়াৰ অৰ্থ এয়ে\nযে পৃথিবীৰ অক্ষই ইয়াৰ কক্ষীয় সমতলৰ লগত\n66.5০ কোণ কৰি থাকে।\n\nউত্তৰ\n\nচিত্ৰ 18.21 : পৃথিৱীখনে হেলনীয়া অক্ষৰ ওপৰত\nআৱৰ্তন কৰে\n\nৰঙা গ্ৰহও বোলে৷ মংগলৰ দুটা সৰু প্রাকৃতিক উপগ্ৰহ পৃথিৱী সুমুৱাই থ’ব পাৰি। কিন্তু বৃহস্পতিৰ ভৰ\n\nআছে।                  পৃথিৱীৰ ভৰৰ প্রায় 318 গুণহে। ই নিজৰ অক্ষত\nৰ [_\n\nদ্ৰুতগতিৰে আৱৰ্তন কৰে।\nবৃহস্পতি গ্ৰহটো সৌৰজগতৰ আটাইতকৈ ডাঙৰ গ্রহ।\nই ইমানেই বিশাল যে ইয়াৰ ভিতৰত প্রায় 1300 খন\n\nমই নতুন কথা এটা ভাবিছোঁ! যদি এটা\nডাঙৰ বলত 1300 টা মটৰমাহ একেলগে\nভৰাই ল’ব পৰা যায় তেন্তে বলটোৱে\nবৃহস্পতি গ্ৰহ বুজাব আৰু এটা মটৰমাহে\nপৃথিৱীখন বুজাব।\n\nতৰা আৰু সৌৰজগত /৪7'%1২9 %!খা) [']][[; 901.1২ ৪৮97]\n\n248.",
+  "confidence": {
+    "word_count": 202,
+    "mean": 86.83,
+    "median": 94.52,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.282,
+  "page_elapsed_seconds": 3.603,
+  "peak_process_tree_rss_bytes": 238182400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 11,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমাৰ চৌপাশ       নতন ওমলা গীত              ===\n\nআমি আমাৰ চৌপাশত থকা কিছুমান বস্তু দেখা পাওঁ আৰু কিছুমান দেখা নাপাওঁ। নেদেখা বস্তুবোৰে কৰা\nকামবোৰৰ বিষয়ে জানিবলৈ আমাৰ মনত আগ্ৰহ জন্মে । এই গীতটিৰ জৰিয়তে গীতিকাৰৰ মনত উদয় হোৱা\nসীথৰধৰ্মী তেনে কিছু কথাই প্রকাশ পাইছে।\n\nএনৈ|,?|৩ আৰু পাটৌ৷ আহা৷\n\nঅধ্যায় ১ |   পাঠ ১     ৰ\nনঙুন\n\nউৎস ঃ গীতিকাৰ--- ড নিৰ্মলপ্রভা বৰদলৈ, সংগ্ৰহ-_ ‘শিশু সাহিত্য সম্ভাৰ’ (৪ৰ্থ প্রকাশ, মাৰ্চ ২০২৩), ১৯৭ নং পৃষ্ঠা, ‘নতুন ওমলা গীত'ৰ প্রথম _\n_ তিনিটা স্তৱক । প্রকাশক--_ ‘শিশু সাহিত্য ন্যাস’।\n\n[২ *  প্রথমে আপুনি সুৰ আৰু লয়     ৰক্ষা কৰি গীতটি গাই শুনাব। তথ্য প্রযুক্তিৰ সহায় ল’ব।\n* তাৰ পিছত আপোনাৰ লগত হাএ- ছাত্ৰীসকলকো আওৰাবলৈ দিব।\nশেষত ছাত্ৰ-ছাত্ৰীসকলক দলীয় আৰু এককভাৱে গাবলৈ দিব।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী                   ১১",
+  "confidence": {
+    "word_count": 121,
+    "mean": 86.99,
+    "median": 95.05,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 124 diacritics",
+        "Detected 124 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.197,
+  "page_elapsed_seconds": 4.681,
+  "peak_process_tree_rss_bytes": 255172608,
+  "tesseract_warnings": [
+    "Detected 124 diacritics",
+    "Detected 124 diacritics"
+  ],
+  "processed_this_run": true
+}

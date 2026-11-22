@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 176,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1]0ঘষ%া] 8৪9 '][1'8119100621]{ 00160 01 0'8119100621]1{ 11]180211818.\n\nঞ$ ১০116 1]080(6118|93 816 9010012 111 821, 001] {]16 0161 |18110 স্]11162\n\n৪0116 1]8.0211819 816 111190100162 11] স/ ৪21\",\nঞ ১০0]6 00609 911}]< 11) 8121 8110 9011]16 00609 11081.\nঞ ']]}6 ৮০]01116 01 811 00|160019 6 [2৯8০০ 10 00000128.\n\n+ ']]}6 80000110( 01 1]180(21' ])69621][ 1[] 811 00160 19 16 11899 01 ]16\n\n00160.\n\n+ /%]৮]116 1801189 17899 81]0 ৮0101]16 19 1]18021.,\n\n{',চমু61\"€196\n\n1]. [)8|1]ল2ো0 (06 ০11016 01 16 ০0160 81]19সঘম 621\n\n(1) '[]6 9])৯8০০ 0000]2160. 0%া 1]8(2118| 19 ০৪||৮৫\n\n(৪) [৭021                             (0) [8993\n(০) ৬0100]                             (0) ৫০৪           [তা্গতাত্যে\n\n(11) ্ব]}10]] 19 01 1]6 10]10%]1126 19 \"8119])8121]{ ?\n(৪) ঘ্%%০00                               (0) 01899\n\n(০) ][\"0]]                                (0) ]}8]|)21'         [টো [০9৫\n1]]) ্ব/]]10]] 0116 101]0'সম11]16 19 [8119100621]{ ?\n(৪) ]011]0121\"                           (0) [9[1[101\"        1800) ০)।]))\n(০) 01160 )8])21'                    (0) ১৮৮০০] 21899\n1ঘ) ]\"1]|]10 00016 000.016 1011] 10]10ঘম 1116.\n(৪) 0010                                  (0) /%1[]1]]]]]10]]]\n(০) €021'                           (0) 138106000 |&)|৮)(০)।0])\n\n2. স]]10]] 01 016 10110]116, 0016009 816 ৪010012 11] ৪2 8110 ্]]1]] 816\n111801010]62 11] %৮৪61.,\n\n8) ০০681\"                     6) €000100{0011\n০) ১৪000                      0) ]]0106%7\n\n2) €]18[|৩])0\"%৮021             1) 18106 ])0\".021'.\n2) ১৪]",
+  "confidence": {
+    "word_count": 174,
+    "mean": 44.72,
+    "median": 39.97,
+    "minimum": 0.0,
+    "maximum": 96.15
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4384,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.596,
+  "page_elapsed_seconds": 3.839,
+  "peak_process_tree_rss_bytes": 300552192,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

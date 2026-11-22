@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 98,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪। চমু উত্তৰ লিখা (৪০ টামান শব্দৰ ভিতৰত)\n(ক) জনসংখ্যা হ্াস-বৃদ্ধি কি কি কাৰণত হ’ব পাৰে?\n(খ) ভাৰতৰ জলবায়ু নিৰ্ধাৰণ কৰা কাৰক সমূহ কি কি?\n(গ) ভাৰতৰ ক’ত ক’ত চিৰসেউজীয়া উদ্ভিদ পোৱা যায়?\n(ঘ) ভাৰতত কপাহ খেতি হোৱা ঠাইসমূহ কি কি?\n\n৫ ৷ উত্তৰ লিখা (৮০টা মান শব্দৰ ভিতৰত)\n\n(ক) ভাৰতৰ জলবায়ুৰ ওপৰত দক্ষিণ-পশ্চিম মৌচুমী বতাহৰ প্রভাৱ সম্পৰ্কে মানচিত্ৰৰ সহায়ত বুজাই\nলিখা।\n\n(খ) ভিন ভিন খেতিৰ বাবে ভিন ভিন জলবায়ুৰ প্ৰয়োজন --- ব্যাখ্যা কৰা।\n\n(গ) মৌচুমীয় উদ্ভিদৰ বাবে কেনেধৰণৰ জলবায়ুৰ প্ৰয়োজন? মৌচুমীয় উদ্ভিদৰ উদাহৰণ দি ভাৰতৰ ক’ত ক’ত\nসেইবোৰ পোৱা যায় উল্লেখ কৰা।\n\n(ঘ) ধানখেতিৰ বাবে কেনেকুৱা জলবায়ুৰ প্ৰয়োজন ? ভাৰতৰ ধানখেতি প্রধান ৰাজ্যবোৰৰ নাম উল্লেখ কৰা।\n(৬) জনসংখ্যা বৃদ্ধিয়ে আমাৰ দেশত কি কি সমস্যাৰ সৃষ্টি কৰিছে আলোচনা কৰা৷\n\nকণ্++ক++",
+  "confidence": {
+    "word_count": 120,
+    "mean": 90.6,
+    "median": 96.21,
+    "minimum": 12.96,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.576,
+  "page_elapsed_seconds": 3.007,
+  "peak_process_tree_rss_bytes": 220348416,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

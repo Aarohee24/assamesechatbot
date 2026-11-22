@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 90,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\n৬৬ দিব্যাংগ মানে অক্ষম নহয়; তেওঁলোক অন্য ধৰণে সক্ষম।\n\n৬ সকলো দিব্যাংগ বা বিশেষভাৱে সক্ষম লোক প্রাণৱৰন্ত আৰু মৌলিক শক্তিৰ অধিকাৰী ।\n\n৬ বাধাগ্রস্ততা বা দিব্যাংগ বিষয়টো পুতৌ বা সহানুভূতিৰ বিষয় নহয়; ই হ’ল মানৱ\nঅধিকাৰ আৰু সামাজিক সহ-অৱস্থানৰ লগত জড়িত বিষয়।\n\nঞ শাৰীৰিক বা মানসিক দুয়োক্ষেত্ৰতে বিশেষভাৱে সক্ষম লোকৰ স্থিতি অতি স্বাভাৱিক\nবুলি মানি ল’লেহে দিব্যাংগসকলৰ প্ৰতি সুবিচাৰ কৰা হ’ব।\n\nঞ্ড দিব্যাংগসকলৰ বাবে বাধামুক্ত পৰিৱেশ গঢ়ি তোলাটো অতি প্রয়োজন।\n\nঞ্ড তথ্য, দৃষ্টিভংগী আৰু পৰিৱেশ ইত্যাদিৰ ক্ষেত্রত দিব্যাংগসকল যি প্রতিবন্ধকতাৰ\nসন্মুখীন হয় তাক উপলব্ধি কৰি আঁতৰ কৰিব লাগিব।\n\n       ক--পাঠভিত্তিক ক্ৰিয়া\n১। পাঠটোৰ তিনিওটা খণ্ড মনোযোগেৰে পঢ়া আৰু তলৰ প্রশ্নৰিলাকৰ উত্তৰ দিয়৷।\n(ক) সৰুকালত প্ৰিন্সি গগৈয়ে ওচৰ-চুবুৰীয়া আৰু সমাজৰ পৰা কেনে ব্যৱহাৰ পাইছিল?\n(খ) বিদ্যালয়ত নাম ভৰ্তি কৰোঁতে প্ৰিন্সি গগৈ কি সমস্যাৰ সন্মুখীন হৈছিল?\n(গ) পঢ়া-শুনাৰ লগতে প্ৰিন্স গগৈৰ কি কি বিষয়ত ৰাপ আছে?\n(ঘ) দুৰ্ঘটনাত পতিত হোৱাৰ পাছত জুলী বৰুৱাৰ মনত কি ভাব জাগি উঠিছিল?\n(৬) সংগ্ৰামজ্যোতিয়ে ক’ত চিত্ৰকলাৰ প্রাৰম্ভিক শিক্ষা লাভ কৰিছিল?\n(চ) সংগ্ৰামজ্যোতি কি বিষয়ত পাৰদৰ্শী?\n(ছ) ‘আপোনাৰ দৰে মোৰো দুখন হাত আছিল’-__কবিতাটি কোনে ৰচনা কৰিছিল?\nউত্তৰ লিখা।\n২। (ক) কোনখন বিদ্যালয়ে প্ৰিন্স গগৈক আঁকোৱালি লৈছিল?\n(খ) ‘এজোপা বৰগছ হৈ ছাঁ দিব বিচাৰোঁ”।\n\n৩। সংগ্ৰামজ্যোতিয়ে বৰ্ণময় আৰু প্ৰ৷ণৰন্ত ৰূপত চিত্ৰ অংকন কৰি নিজে কেনেকৈ সফলতা\nঅৰ্জন কৰিলে সেই বিষয়ে লিখা।",
+  "confidence": {
+    "word_count": 204,
+    "mean": 89.84,
+    "median": 94.96,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.046,
+  "page_elapsed_seconds": 3.283,
+  "peak_process_tree_rss_bytes": 290934784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

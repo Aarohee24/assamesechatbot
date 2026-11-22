@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 102,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঢ\nটু\nহি\n\n|।\n4,\n\n৷\n3\n\n৷\n\nবায়ুপ্রৱাহ\n\nচিত্ৰ 8.11 ঘূৰ্ণিবতাহৰ সৃষ্টি\n\n(][\"011]80101] 01 8 ০%০10112)\n\nপ]]0]]]]}]]]]||।।\n\n৷\n\n(]]}6 696 018 ০%৮০10102)\n\nচিত্ৰ 813 ঘূৰ্ণিবতাহৰ ফলত ওপৰলৈ উঠি\nঅহা জলত্তম্ভ (]২191116 ./৪2[' ০০]01]]1} ০8৪0960\n60% ৪ ০0112)\n\nসৌজন্য ঃ ভাৰতীয় বতৰ বিজ্ঞান বিভাগ, নতুন দিল্লী\n\n8.6 ঘূৰ্ণিবতাহৰ ধ্বংস লীলা\n\n(1)651\"0.00]101] €৪0960 ])% €%'1011698)\n\nঘূৰ্ণিবতাহে অতি প্রলয়ংকৰী ৰূপ ধাৰণ কৰিব\nপাৰে। ধুমুহা শতাধিক কিলোমিটাৰ দূৰত্বত থাকিলেও\nকোবাল বতাহে উপকূললৈ পানী ঠেলি পঠিয়াব পাৰে।\nএইবোৰেই হ’ল আসন্ন ঘূৰ্ণিবতাহৰ প্রথম আগজাননী\n(][110108001]})। বতাহৰ দ্বাৰা সৃষ্টি হোৱা পানীৰ ঢৌ\nইমানেই শক্তিশালী হয় যে কোনো মানুহেই তাৰ পৰা\nনিস্তাৰ নাপায়।\n\nঘূৰ্ণিবতাহৰ চকুৰ নিম্নচাপে কেন্দ্ৰস্থ পানী ওপৰলৈ\nউঠায়। উৰ্ধাগামী পানীস্তম্ভৰ উচ্চতা 3-12 মিটাৰ\nপৰ্যন্ত হ’ব পাৰে (চিত্র 8.13)। ই উপকূল (91101)\n\n88\n\nঅভিমুখী পানীৰ প্রাচীৰ এখনৰ ৰূপ ধাৰণ কৰে।\nফলত উপকূলীয় নিম্ন অঞ্চলবোৰত সাগৰৰ পানী\nসোমাই জীৱন আৰু সম্পদৰ বিস্তৰ ক্ষতিসাধন\nকৰে। তদুপৰি ই মাটিৰ উৰ্বৰতাও (['ণ৷0]10))\nহাস কৰে।\n\nনেৰানেপেৰা প্রবল বৰষুণে বানপানীৰ অৱস্থাৰ\nঅধিক অৱনতি ঘটাব পাৰে।\n\nঘূৰ্ণিবতাহ সংসৰ্গী তীৱ্ৰবেগী বতাহে ঘৰ-দুৱাৰ,\nদূৰভাষ (']'6120]101162) আৰু অন্যান্য যোগাযোগ\nব্যৱস্থা, গছ-গছনি আদি বিনষ্ট কৰিব পাৰে; লগতে\nজীৱন আৰু সম্পত্তিৰ প্রভূত ক্ষতি সাধন কৰিব\nপাৰে।",
+  "confidence": {
+    "word_count": 178,
+    "mean": 80.78,
+    "median": 93.25,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.117,
+  "page_elapsed_seconds": 3.5,
+  "peak_process_tree_rss_bytes": 293838848,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

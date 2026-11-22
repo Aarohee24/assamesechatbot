@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ ন” ৰসক ৰচনা কৰা তলৰ গীতটি লগে ভাগে গাওঁ আহা--\n\nজিলিকা পাখিৰে                                                                  এলভ্বঁ\nজিলিকা পাখিৰে\nঅ’... অ’. অ’...\nঅ’... অ’.. অ’...\nঅ’ সোণ ম’ৰা চৰাই\nঅ’ সোণ ম’ৰা চৰাই                                                              হে\nৰঙা সেউজীয়া,তৰা ফুটুকীয়া         জুৰিটিৰ পাৰতে নাচ ঠেৱে ধৰি '_\nৰঙা সেউজীয়া, তৰা ফুটুকীয়া                   জুৰিটিৰ পাৰতে নাচ ঠেৱে ধৰি\nতোৰে গোট গাঁৱতে                              তোৰে মৰমতে\nঅ’... অ’.. অ’...                           মাৰোঁ...\nঅ’... অ’.. অ’...                          মাৰোঁ..;\nঅ’ সোণ ম’ৰা চৰাই                            অ’সোণ ম’ৰা চৰাই\nঅ’ সোণ ম’ৰা চৰাই            অ’ সোণ ম’ৰা চৰাই\nউৎস ঃ ড০ হীৰেন গোঁহাইৰ দ্বাৰা সম্পাদিত ‘জ্যোতিপ্ৰসাদ ৰচনাৱলী” (২০ ডিচেম্বৰ, ২০০৩), ৭০৩ নম্বৰপৃষ্টা। প্ৰকাশকঃ\nঅসম প্রকাশন পৰিষদ ।\n23 ১০।পঢ়া-_\nগছ-গছনি ধ্বংস কুৰি মানুহে নিজে নিজৰ ক্ষতি কৰি\n\nআছে। এই ভয়ানক ক্ষতি ৰোধ কৰিবলৈ আমি কি কৰা উচিত?\nগছ-গছনি ধ্বংস কৰা মানুহৰ অভাৱ নাই। কিন্তু তোমালোকে\nকেতিয়াবা. গছপুলি ৰোপণ কৰি অৰণ্য গঢ়ি তোলা মানুহৰ\nনাম শুনিছানে ? তেনে এগৰাকী মহান ব্যক্তিৰ নাম হৈছে যাদৱ\nপায়েং। তেখেতৰ জন্ম হৈছিল যোৰহাট জিলাত। পায়েঙে\nব্ৰহ্মপুত্ৰৰ চাপৰিত গছপুলি ৰোপণ কৰি এখন ডাঙৰ অৰণ্য গঢ়ি তুলিছে। তেখেতে\nগঢ়া অৰণ্যখনৰ নাম হৈছে ‘মুলাই-কাঠনি’। তেখেতক দিল্লীৰ জৱাহৰলাল নেহৰু\nবিশ্ববিদ্যালয়ে ‘অৰণ্য-মানৱ’ উপাধি প্ৰদান কৰিছে। ২০১৫ খ্ৰীষ্টাব্দত ভাৰত চৰকাৰে\nতেখেতক ‘পদ্মত্ৰী’ সন্মানেৰে সন্মানিত কৰিছে।যাদৱ পায়েং এগৰাকী বিশ্ববিখ্যাত\n\nপৰিৱেশ কৰ্মী\n৮৫.                  অধ্যায় ৬৪ জীৱনী",
+  "confidence": {
+    "word_count": 192,
+    "mean": 82.59,
+    "median": 94.9,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.317,
+  "page_elapsed_seconds": 5.27,
+  "peak_process_tree_rss_bytes": 225509376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

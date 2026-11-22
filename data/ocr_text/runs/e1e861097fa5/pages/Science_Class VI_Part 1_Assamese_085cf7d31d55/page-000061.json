@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 61,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ’ড'ডেণ্ড্ৰণ হৈছে সুন্দৰ, চকুত লগা এবিধ উজ্জ্বল ফুল। পৰ্বতৰ শিখৰত তীব্ৰ বতাহ\nসহ্য কৰিবলৈ নীলগিৰি পৰ্বতৰ ৰ’ড ডেণ্ডুণবোৰৰ উচ্চতা কম আৰু পাতবোৰ সৰু। অৱশ্যে,\nহিমালয়ৰ পৰ্বতৰ ওচৰৰ ৰ’ড'ডেণ্ডৰণবোৰ অধিক ওখ হয়। সেয়েহে, ৰ’ড'ডেণ্ড্ৰণৰ দৰে\nউদ্ভিদসমূহেও স্থানীয় পৰিস্থিতি সহ্য কৰিবলৈ বিভিন্ন স্থানত স্বতন্ত্ৰ বৈশিষ্ট্য প্ৰদৰ্শন কৰিব\nপাৰে।\n\nচিত্ৰ 2.14 (0); নীলগিৰি পবৰ্তত পোৱা , চিত্র 2.14 (0); হিমালয় পবৰ্তৰ\nৰ’ড'ডেঙণ                         আশে-পাশে পোৱা ৰ’ড'ডেঙণ\n\n“                                                         -\nঅসমৰ গঁড়ি সংৰক্ষণ\n\nসংৰক্ষণে নাটকীয় সফলতা লাভ কৰিছে। 1908 চনত কাজিৰঙাৰ গঁড়ৰ সংখ্যা 12 টালৈ\nহাস পাইছিল। তাৰ পিছতো, প্রাথমিকভাৱে কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানত সংশ্লিষ্ট কৰ্তৃপক্ষই\nকৰা প্রচেষ্টাৰ ফলত অসমে এক খঙ্ৰাযুক্ত গঁড় সংৰক্ষণত উল্লেখযোগ্য সফলতা অৰ্জন\nকৰিছে। কাজিৰঙাত এই প্ৰজাতিৰ বিশ্বৰ যথেষ্ট সংখ্যক গঁড় বাস কৰে। চোৰাং চিকাৰী\nবিৰোধী ব্যবস্থা, স্থানীয় সম্প্ৰদায়ৰ অংশগ্ৰহণ আৰু বাসস্থানৰ সম্প্ৰসাৰণৰ জৰিয়তে\nঅসমত গঁড়ৰ সংখ্যা 1960 চনত 600 ৰ পৰা আজি 4,000 ৰো অধিকলৈ বৃদ্ধি পাইছে।\nঅসমত গঁড়ৰ সংখ্যা 1980 চনত 1,500 ৰ পৰা আজি 4,014 লৈ বৃদ্ধি পাইছে। জব্দ কৰা\nগঁড়ৰ খড়্গ জ্বলোৱাৰ দৰে পদক্ষেপৰ লগতে চোৰাং চিকাৰীৰ বিৰুদ্ধে শূন্য সহনশীলতা\nনীতিৰ ফলত অসমখন বন্যপ্ৰাণী সংৰক্ষণৰ ক্ষেত্ৰত বিশ্বৰ আগশাৰীৰ ৰাজ্যত পৰিণত",
+  "confidence": {
+    "word_count": 171,
+    "mean": 89.9,
+    "median": 95.39,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.983,
+  "page_elapsed_seconds": 3.39,
+  "peak_process_tree_rss_bytes": 359268352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

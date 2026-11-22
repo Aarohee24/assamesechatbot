@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 207,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী £\n\n১।\n\n২\n\n=\n\nঞ্ট|\n\nএ\n\nচমু উত্তৰ লিখা--\n\n(ক) বিধানসভাৰ সদস্যসকলক কোনে নিৰ্বাচিত কৰে?\n(খ) শাসক দল মানে কি?\n\n(গ) দেশত মধ্যকালীন নিৰ্বাচন কেতিয়া হয়?\n\n(ঘ) ৰাজ্য বিধানসভাৰ কাৰ্যকাল কিমান বছৰ?\n\n(ঙ) দুটা ৰাষ্ট্ৰীয় দলৰ নাম উল্লেখ কৰা?\n\n(চ) অসমৰ উল্লেখযোগ্য আঞ্চলিক দল এটাৰ নাম লিখা ৷\n\nউত্তৰ লিখা--\n\n(ক) ভাৰতৰ নিৰ্বাচনী প্রক্ৰিয়াটো কেনেধৰণৰ? বৰ্ণনা কৰা৷\n(খ) গণতন্ত্ৰত ৰাজনৈতিক দলৰ কাৰ্যাৱলীসমূহ কি কি?\n\n(গ) গণতন্ত্ৰত বিৰোধী দলে কেনেকৈ চৰকাৰক নিয়ন্ত্ৰণ কৰে?\n(ঘ) গণতন্ত্ৰত নিৰ্বাচনৰ প্রয়োজনীয়তা আছে নে? যুক্তি দৰ্শোৱা।\n\nশুদ্ধ উত্তৰটো বাছি উলিওৱা---\n\n(ক) ভাৰতৰ উপৰাষ্ট্ৰপতি প্ৰত্যক্ষ/পৰোক্ষভাৱে নিৰ্বাচিত হয়।\n(খ) লোকসভাৰ সদস্য সংখ্যা ৫৪৫/১২৬ জন |\n(গ) তেলেগু দেশম পাটী এটা আঞ্চলিক/ৰাষ্ট্ৰীয় দল।\n(ঘ) মুখ্যমন্ত্ৰীক ৰাজ্যপাল/ৰাষ্ট্ৰপতিয়ে নিযুক্তি দিয়ে।\n(৬) বিধানসভাৰ কাৰ্যকাল ৭/৫ বছৰ।\n\nচমুটোকা লিখা--\n\n(ক) সাৰ্বজনীন প্লাপ্তবয়স্ক ভোটাধিকাৰ\n\n(খ) নিৰ্বাচনী আয়োগ\n\n(গ) ৰাজনৈতিক দল।\n\nপ্ৰকল্প ঃ\n\nশিক্ষক/অভিভাৱকৰ সহায় লৈ ২০১৬ চনৰ অসম ৰাজ্যিক বিধানসভা নিৰ্বাচনত প্রত্দ্বিন্দ্ধিতা কৰা ৰাজনৈতিক\nদলসমূহৰ কোনে কিমান আসন লাভ কৰিলে উল্লেখ কৰি এখন তালিকা প্রস্তুত কৰা। উক্ত তালিকাৰ ভিক্তিত\nকোনটো দলে চৰকাৰ গঠন কৰিবপৰা যোগ্যতা অৰ্জন কৰিলে নিৰ্ণয় কৰা।\n\nকককককক",
+  "confidence": {
+    "word_count": 167,
+    "mean": 87.85,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.536,
+  "page_elapsed_seconds": 4.049,
+  "peak_process_tree_rss_bytes": 225878016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

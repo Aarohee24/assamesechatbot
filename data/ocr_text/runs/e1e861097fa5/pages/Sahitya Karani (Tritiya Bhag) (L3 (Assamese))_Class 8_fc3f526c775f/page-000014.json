@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 14,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সোণণুটিৰ ভৰত হাতৰ ধৰে শিৰামূৰি,\n\nজাক দাৱনীৰ জিৰণি গীতে পথাৰ ধৰে জুৰি\nসৰু সৰু চৰাইবোৰে\nলাজত পলাই উৰা মাৰে\n\nধান ফালি ফালি।।\n\nধানৰ পাতে কাটে\n\nতেজ ডোঙা পাতে।\nতেওঁতো আমাৰ দুখ নাই\n\nউলাহেৰে গীত গাওঁ মন সঁফুৰা খুলি।।\n\nৰচনা-- ৰণ্দ বৰন্ৱা\n(উৎস-অসমীয়া প্রিয় গীত, সৰস্বতী প্রকাশন, পঞ্চম প্রকাশ ২০১১, গীত--_ পকা ধানৰ মাজে মাজে)\n১১। উত্তৰ দিয়া --\n\n(ক) গীতটিত ‘সৰু সৰু আলি’ ক’ত আছে বুলি কৈছে?\n\n(খ) কাঁচি কোনে হাতত তুলি লয়?\n\n(গ) আলিত পৰি গীত কোনে জোৰে?\n\n(ঘ) ধানৰ গোছত মুঠি মৰাৰ আগতে দাৱনীয়ে কি কৰে?\n\n১২। পঢ়োঁ আহা--\n\nপ্লাবন আৰু অমৃতা ভায়েক-ভনীয়েক। প্লাৱন অষ্টম আৰু অমৃতা ষষ্ঠ শ্ৰেণীত পঢ়ে।\nসিহঁত মাক-দেউতাকৰ লগত গুৱাহাটী মহানগৰীত থাকে। এইবাৰ আঘোণ মাহত সিহঁত\nগাৱৰ মূল ঘৰলৈ ‘ন-খোৱা’ খাবলৈ গৈছিল। পৰিয়ালৰ আন সদস্যসকলো একগোট হৈছিল।\nপথাৰৰ ন-ধানৰ চাউল, বাৰীৰ শাক-পাচলিৰে ‘ন-খোৱা’ৰ যোগাৰ কৰিছিল। খুৰাকে\nপুৱাতেই পুখুৰীত মাছ মাৰিছিল। চোতালতে গাঁৱৰ ৰাইজে মিলি ভোজ ৰান্ধিছিল। তালৈ\nওচৰ-চুবুৰীয়াকো নিমন্ত্ৰণ কৰিছিল। সকলোৱে আনন্দেৰে চোতালত একেলগে ভোজ খাইছিল।",
+  "confidence": {
+    "word_count": 152,
+    "mean": 90.52,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.793,
+  "page_elapsed_seconds": 3.073,
+  "peak_process_tree_rss_bytes": 240132096,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

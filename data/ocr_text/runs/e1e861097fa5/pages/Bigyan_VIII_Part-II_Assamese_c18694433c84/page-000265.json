@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 265,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 18.22 : বৃহস্পতি আৰু ইয়াৰ চাৰিটা ডাঙৰ উপগ্ৰহ\n\nবৃহস্পতিৰ কেইবাটাও উপগ্ৰহ আছে। ইয়াৰ   ঙ      শনি\nচাৰিওফালে কিছুমান পাতল আঙঠিও দেখা যায়। [ভু\n\nবৃহস্পতিক সহজেই চিনাক্ত কৰিব পাৰি কাৰণ ই যথেষ্ট - পাছত শনি যাৰ বৰণ হালধীয়া ৷ ইয়াৰ অপৰূপ আঙঠিৰ\nউজ্জ্বল। দূৰবীক্ষণ যন্ত্ৰেৰে নিৰীক্ষণ কৰিলে তাৰ চাৰিটা বাবে ই সৌৰজগতত এক সুকীয়া স্থান পাইছে। এই\nডাঙৰ উপগ্ৰহও দেখা পাবা। (চিত্র 8.22)।           আঙঠিসমূহ খালী চকুৰে দেখা পোৱা নাযায়।\n\n“আমি যদি শনি গ্ৰহটো এটা\n\nডাঙৰ পুখুৰীত থকা বুলি ভাবোঁ,\nতেনেহ’”লৈ ই ওপঙি থাকিব।\n(চ্ত্ৰ- 18.23\n\nচিত্ৰ 18.23 : শনি পানীতকৈ কম ঘন\n\nতৰা আৰু সৌৰজগত / 911২5 খা) []][} 501.1২ ৪%9]0;[]                                                                                                250.",
+  "confidence": {
+    "word_count": 101,
+    "mean": 83.62,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.196,
+  "page_elapsed_seconds": 2.475,
+  "peak_process_tree_rss_bytes": 238731264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঠৰ         (খ) “তাৰে এখনত কিনিলে বাবুলে\n\nএটকাৰে এটা হাতী;\nৰতন বপুৰা ভেবা লাগি ৰ’ল\nকথাৰ পাকত ঘাটি।”\nয়ায়,\n৷ জানো আহা--\n‘ক’অংশ                                   ‘খ’অংশ\nখায়                                          নাখায়\nদিয়ে                                         নিদিয়ে\nখেলে                                        নেখেলে\n\nওপৰৰ ‘ক’অংশত থকা ক্ৰিয়াসমূহে কোনো এটা কাৰ্য কৰা, হোৱা, থকা আদি অৰ্থ বুজাইছে।\nসেইদৰে ‘খ’ অংশত থকা ক্ৰিয়াসমূহে কোনো কাৰ্য নকৰা, নোহোৱা, নথকা আদি অৰ্থ বুজাইছে।\nএনেদৰে কোনো এটা কাম হোৱা বা মোহোৱাৰ ওপৰত ভিত্তি কৰি ক্ৰিয়া পদক দুটা ভাগত ভগাব\nপাৰি-- (ক) সদৰ্থক ক্ৰিয়া আৰু (খ) নঞৰ্থক ক্ৰিয়া।\n\nসদৰ্থক ক্ৰিয়াৰূপৰ আগত ন-পূৰ্বসৰ্গ যোগ দি নঞৰ্থক ৰূপ কৰা হয়। সদৰ্থক ক্ৰিয়াটোৰ\nপ্রথম স্বৰৰ ৰূপ অনুসৰি নঞৰ্থক ‘ন’-ৰ লগত থকা স্বৰটো সলনি হয়।\n\n“ৰ ৬।কবিতাটিত থকা নঞৰ্থক ৰূপবোৰ বাছি উলিয়াই লিখা।\n\n৭৷ ৰতন বপুৰা ভৈবা লাগি ৰ’ল\n\nকথাৰ পাকত ঘাটি।”\n‘ঘাটি’ শব্দটোৱে বাক্য ভেদে বেলেগ বেলেগ অৰ্থ প্রকাশ কৰে। তলৰ বাক্যকেইটালৈ\nমন কৰা আৰু ‘ঘাটি’ শব্দটোৱে কোনটো বাক্যত কি অৰ্থ প্রকাশ কৰিছে লিখা।\n\n(ক) বেপাৰত ৰমেনৰ পঞ্চাশ টকা ঘাটি হ’ল।\n(খ) শৰাইঘাটত আহোম সৈন্যই ঘাটি পাতিছিল।\n\nএকেদৰে ‘পাক’ শব্দটোৱেও বাক্য ভেদে বেলেগ বেলেগ অৰ্থ প্রকাশ কৰে। অভিধান চাই\nশব্দটোৰ অৰ্থবোৰ জানি লোৱা আৰু বাক্যত কি অৰ্থ প্রকাশ কৰে লিখা।\n\nআঘথৰঘৰৰৰেেৰেেভভেভেভেেভৌেৌৌৰূক মভতভভভভভৰভৰছৰতৰকৰৰঞৰৰৰৰতৰ",
+  "confidence": {
+    "word_count": 179,
+    "mean": 87.23,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.151,
+  "page_elapsed_seconds": 3.589,
+  "peak_process_tree_rss_bytes": 269430784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

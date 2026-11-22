@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 126,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ন                         ধূমপানে হাওঁফাওঁৰ ক্ষতি কৰে। ধূমপানৰ লগত ককট\nপৰিৱৰ্তন হোৱাৰ বিষয়ে শিকাৰ পাছত, ল’ৰা-ছোৱালী  ৰা      ৷ ইয়াক এৰাই চলাটো উচিত।\n\nসকলে এখন বক্ষ প্ৰসাৰণ (00680 680811910[1])\n\nপ্রতিযোগিতাত অংশগ্ৰহণ কৰিলে। প্রত্যেক গৰাকীয়ে শ্ৰেণীত তোমালোকৰ সহপাঠীসকলৰ লগত এই\nকিমান বেছিকৈ তেওঁৰ বক্ষগহ্ৰৰ প্রসাৰণ কৰিব পাৰে ক্ৰিয়াকলাপটো কৰি কেনে লাগিব বাৰু?\nতাক লৈ গৰ্ব কৰিছিল।\n\nনাসিকা গহুৰ\nগ্ৰসনী                                                                                                   (]খ৪98| |)89988০)\n(]১]181\"ঠ1]স)\nমুখ গন্থৰ\n(018| ০৪৮1)\n(][180])68)\nহীওফীও\n\n(];01169)               ।         মু\nকামিহাড়\n\n(1২16৪)\n\nমধ্যচ্ছদা\n(1)18])]189]])\n\n|\n\nচিত্ৰ 10. 4 মানুহৰ শ্বসনতন্ত্ৰ ([]01]81] 1০9]118001'7 ৪৮52]])\n\nআমাৰ চাৰিওফালৰ বায়ুত বিভিন্ন ধৰণৰ অবাঞ্ছিত পদাৰ্থৰ কণিকা যেনে- ধোঁৱা (91012), ধূলিকণা ([>)090),\nফুলৰ ৰেণু (],0]190)) আদি মিহলি হৈ থাকে। যেতিয়া আমি উশাহ লওঁ, আমাৰ নাসিকা গহূৰত থকা নোমে এই\nকণিকাবোৰ ধৰি ৰাখে। কেতিয়াবা অৱশ্যে এই কণিকাবোৰে নাসিকা গহ্ৰৰ নোমবোৰ অতিক্ৰম কৰি ভিতৰলৈ\nসোমাই যায়। তেতিয়া এই কণিকাবোৰে নাসিকা গহূৰৰ ভিতৰৰ আৱৰণটো উত্তেজিত কৰি তোলে, ফলস্বৰূপে\nআমাৰ হাঁচি আহে। হীঁচিয়ে এই অবাঞ্ছিত কণিকাবোৰক উশাহত লোৱা বায়ুৰ পৰা উলিয়াই পঠিয়ায় আৰু ধূলি\nমুক্ত পৰিষ্কাৰ বায়ু আমাৰ শৰীৰত সোমায়।\n\nযত্ন ল’বা ঃ যেতিয়া তোমালোকে হাঁচি মাৰা, তোমালোকৰ নাকটো ঢাকি ৰাখিবা, যাতে উলিয়াই দিয়া অবাঞ্ছিত\nকণিকাবোৰ আন এজনৰ উশাহত সোমাই নাযায়।\n\n112",
+  "confidence": {
+    "word_count": 179,
+    "mean": 83.33,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.902,
+  "page_elapsed_seconds": 3.274,
+  "peak_process_tree_rss_bytes": 291278848,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

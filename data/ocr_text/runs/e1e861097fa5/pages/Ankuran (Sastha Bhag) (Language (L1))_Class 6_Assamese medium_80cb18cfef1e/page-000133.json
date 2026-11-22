@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 133,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ -- জ্ঞান সম্প্ৰসাৰণ\n\n৯) তলৰ চিঠিখন পঢ়া আৰু প্ৰশ্নসমূহৰ উত্তৰ লিখা।\n\nশ্ৰীহৰি           গুৱাহাটী\nমৰ্্নী,                      ২১-০৫-২০১৷\nমোৰ আশীবাৰ্দ এহণ কৰিবা । আশাকৰোঁ মাৰাৰ লগতে মুনু আৰু তুমি\nকুশলে আছা । ভগৱানৰ কৃপাত ময়ো ভালে আছোঁ । তোমাৰ চিঠিখন পঢ়ি সন্তোষ পালোঁ\nতুমি বাক্যবোৰ শুদ্ধকৈ লিখিব পাৰিছা, কেৱল দুই-এঠাইত বানান ভুল কৰিছ৷।বানান\n লিখাৰ ক্ষেত্ৰত সদায় সাৱধান হ’বা । সন্দেহ থাকিলে অভিধানৰ সহায় ল’বা।\nচাকৰিৰ সংকণস্তত যদিও মই গুৱাহাটীত আছোঁহি, তথাপি'অনবৰতে তোমালোকৰ\nতেওঁৰ যথেষ্ট কষ্টও হৈছে। মুনু আৰু তুমি মাৰাক ঘৰচ্ৱা কাম-বনত সহায় কৰি দিবা। তেওঁ\n\nনাথাকিবা ৷\nতোমালোকৰ দিতীয় গোট মূল্যায়ন ওচৰ চাপিছে বুলি তুমি চিঠিত উল্লেখ কৰিছা,\nতোমালোক দুয়ো ভালদৰে পঢ়া-শুনা কৰিবা । তুমি মুনুৰ বায়েক যেতিয়া মুনুৰ পঢ়া-শুনাতো\nমাজে মাজে চকু দিবা । গণিতৰ অনুশীলন নিতৌ কৰিবা আৰু মুনুকো কৰিবলৈ দিবা ।\nমাজনী, তোমালোকৰ বিদ্যালয়ত স্কাউট আৰু গাইডৰ শাখা খুলিছে বুলি জানি\nআনন্দ পালোঁ ৷ পাৰিলে মুনু আৰু তুমি ব্ৰদমে ‘কাব’ আৰু ‘গাইড’ হিচাপে সদস্যভুক্ত হ’বা।\n‘আজিলৈ সামৰোঁ ৷ শেষত তোমালোক দুয়ো মোৰ আশীবাৰ্দ আৰু মৰম ল’বা৷\n|,  মাৰাক মোৰ মৰম দিবা!\n\nহবি;  _ওআ\n\nক) চিঠিখন মাজনীলৈ কোনে লিখিছে?\n\nখ) মুনু আৰু মাজনীৰ মাজত কি সম্বন্ধ ?\n\nগ) চিঠিখন পঢ়ি মুনু ল’ৰা নে ছোৱালী চিনাক্ত কৰা।\n\nঘ) চিঠিখনত কোনটো বিষয় সদায় অনুশীলন কৰাৰ কথা কোৱা হৈছে?\nঙ) বানান লিখোঁতে কিহৰ সহায় ল’ব লাগে?",
+  "confidence": {
+    "word_count": 204,
+    "mean": 85.55,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 279 diacritics",
+        "Detected 279 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.27,
+  "page_elapsed_seconds": 4.739,
+  "peak_process_tree_rss_bytes": 242696192,
+  "tesseract_warnings": [
+    "Detected 279 diacritics",
+    "Detected 279 diacritics"
+  ],
+  "processed_this_run": true
+}

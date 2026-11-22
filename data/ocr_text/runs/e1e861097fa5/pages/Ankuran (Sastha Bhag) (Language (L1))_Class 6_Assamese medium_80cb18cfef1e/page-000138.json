@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 138,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মহো-হো গীতটোৰ মূল কথাখিনি মান্য অসমীয়াৰ ৰূপত জানো আহা।\n\nঅ’হৰি               হিদল ভাই অ’          বাঁহৰ পাত চিকি মিকি\n\nমহো-হো                টেপৰ পোৰা খায়          আমাক দিব সিকি সিকি\n\nমহ মাৰিবলৈ টাঙোন ল        টেপৰত নহ’ল লোণ        হাল বালে সীৰলু দি\n\nমহ গ’ল কুন্কুনাই           চাউল কড়ি একো দোণ       মৈ দিলে পাটে\n\nহিদল গছত গা ঘহোঁতে      চাউল নিদি দিলে কড়ি      মহৰ মাকক পাৰ কৰালোঁ\n\nহিদল পৰিল              ইহঁতৰ ঘৰত লৰি-চৰি        বুঢ়াদিয়াৰ ঘাটে।।\nআমাক দিব টকা\n\nমহো-হো গীতটো শুদ্ধ উচ্চাৰণেৰে পদ্য হিচাপে পঢ়া আৰু আটায়ে মিলি অংগ-ভংগীৰে\n\nপৰিৱেশন কৰা।\n\nপাঠত দিয়া মহো-হো গীতটোৰ অন্ত্যধ্বনি মিল থকা শব্দবোৰ বাছি উলিয়াই লিখা।\nউদাহৰণ--- হৌ-লউ\n\nপাঠত দিয়া মহো-হো গীতটোত দুবিধ কৃষি-সঁজুলিৰ নাম আছে। সঁজুলি দুবিধ কি কি?\n\nসঁজুলি দুবিধৰ ছবি আঁকা।\n\nউত্তৰ দিয়া।\n\n(ক) মহ মাৰিবলৈ চেমনীয়াহঁতে হাতে হাতে কি লৈছে?\n\n(খ) হিদাল গছত গা ঘহাওঁতে কি হ’ল?\n\n(গ) মহ খেদিবলৈ যোৱা ল’ৰাহঁতক গৃহস্থই চাউলৰ সলনি কি দিছে?\n\n(ঘ)‘টাকা’আৰু ‘সিকি’মানে কি?\n\n(৬) মহো-হো গীতটোত উল্লেখ থকা নৈখনৰ নাম লিখা ৷\n\n<ঞ্স মালিতা, বিছগীত, বনগীত আদিৰ উদাহৰণ দি ছাত্ৰ-ছাত্ৰীক বুজাই দিব যে আন লোকগীত কিছুমানৰ দৰে\n\nপাঠত দিয়া মহো-হো গীতটোৰো সকলো পংক্তিৰ অথৰ মাজত সংগতি স্থাপন কৰিব নোৱাৰি। প্রায়বোৰ\nলোকগীততে কেৱল অসন্তামিল আৰু ছন্দ ৰহ্মাৰ বাবে কেতবোৰ ওপৰঞ্চি পংক্তি সংযোগ কৰা হয়।",
+  "confidence": {
+    "word_count": 190,
+    "mean": 91.69,
+    "median": 95.41,
+    "minimum": 13.47,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.604,
+  "page_elapsed_seconds": 3.969,
+  "peak_process_tree_rss_bytes": 246104064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

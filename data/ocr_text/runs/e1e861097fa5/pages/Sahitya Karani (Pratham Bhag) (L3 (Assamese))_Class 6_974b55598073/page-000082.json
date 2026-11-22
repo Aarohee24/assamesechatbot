@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৫\n\nপাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nঞ্জ পদ্য আৰু গদ্য সলসলীয়াকৈ পঢ়িব পৰা\nঙ ছবি চাই সাধু ক’ব পৰা\nঙ পদ্যৰ কথাখিনি গদ্যত ক’ব পৰা।\nঞ্জ পাঠভিত্তিক প্ৰশ্নৰ উত্তৰ দিব পৰা\nষ্চ তিনিটা বা চাৰিটা আখবযুক্ত শব্দ পঢ়িব আৰু লিখিব পৰা\nচুটি চুটি বাক্য পঢ়িব আৰু গঠন কৰিব পৰা\nঙ শব্দ গগন কৰিব পৰা\nঞ্জ খালী ঠাই পূৰ কৰি বাক্য গঠন কৰিব পৰা\nঞ্জ শুনি শুনি শব্দ লিখিব পৰা, চাই চাই শব্দ লিখিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nপদ্য/গদ্য | পঢ়িবপৰা | পদ্যৰকথাখিনি । সলসলীয়াকৈ | পাঠভিত্তিক উত্তৰ\n\nগদ্যতক'ৰপৰা | ঢ়িবপৰা     দিব পৰা\n\nছবিৰে | হুবিচাই | ছববিচাইবৰ্ণনা | প্ৰশ্ন উত্তৰ দিব\n\nসাধু        কাহিনী সাধু       কৰিবণীৰা             পৰা\nক'ব পৰা\n\nশব্দ    পঢ়িব পৰ|    লিখিব পৰা = | গঠন কৰিব পৰা | ছবি ঢাই শব্দ\nপঢ়িব আৰু\nলিখিব পৰা\n\nবাকা     পঢ়িব পৰা | গঠন কৰিব পৰা | ছবিচাইবাক্য | খালী ঠাই পূৰ\n|                    ক’ব আৰু     কৰি বাক্য\nলিখিব পৰা    লিখিব পৰা\n\nলম অহতা আয়ত হ’লে ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ১ চিন দিব। অহতা আয়ত্ত\nনোহোৱা শিকাব আতিৰজ্্ভাৱে শিকাই পুনৰ মুল্যায়ন কবিব।",
+  "confidence": {
+    "word_count": 176,
+    "mean": 82.69,
+    "median": 93.78,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.346,
+  "page_elapsed_seconds": 2.623,
+  "peak_process_tree_rss_bytes": 258842624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

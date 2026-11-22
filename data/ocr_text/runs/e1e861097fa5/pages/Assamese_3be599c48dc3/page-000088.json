@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 88,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আদি তৈয়াৰ কৰা (যেনে--- সৰি পৰা গছৰ শুকান\nপাত/ফুল, মাটি, শিলগুটি আদি সংগ্ৰহ কৰা আৰু\nবাচন-বৰ্তন, প্রাণী, চৰাই, যান-বাহন আদি তৈয়াৰ\nকৰা; খালী জুইশলা বাকচেৰে আচবাব প্রস্তুত কৰা\nইত্যাদি)।\nক্স চৌপাশৰ ঘৰচীয়া প্রাণী, চৰাই তথা অন্যান্য\nপ্রাণী আৰু সিহঁতৰ পোৱালীৰ সৈতে থকা সম্বন্ধৰ\nবিষয়ে হোৱা অভিজ্ঞতাৰ বিষয়ে নিজৰ মতামত\nঙঁ ধৰা।\n\nক্স৷ দলীয় কাৰ্যত সক্ৰিয়ভাৱে অংশগ্ৰহণ কৰা\nএকেলগে কাম কৰা, কামত আগভাগ লোৱা,\nআলোচনা কৰা, সহযোগিতাৰে কাম কৰা, নেতৃত্ব\nদিয়া আদি গুণসমূহ আহৰণ কৰা। (উদাহৰণ\nস্বৰূপে-- বিভিন্ন ভিতৰত খেলা খেল/খেল\nপথাৰত খেলা খেল/স্থানীয় খেল তথা বিভিন্ন\nঅনুসন্ধান কাৰ্য, প্রকল্প আদিত অংশগ্ৰহণ কৰা,\nচৌপাশে থকা গছপুলি/চৰাই/প্রাণী আদিৰ যত্ন\nলোৱা।)\n\nক্ল কিছুমান লিঙ্গভিত্তিক ধাৰণা বা বৈষম্য\n(যেনে--- আহাৰ গ্রহণ, স্বাস্থ্যৰ যত্ন বিদ্যালয়লৈ\nযোৱাৰ সুবিধা গ্ৰহণ আদিত) পুৰুষ/মহিলা সদস্যৰ\nসমান অধিকাৰ, বৃদ্ধলোক আৰু বিশেষভাৱে সক্ষম\nব্যক্তিৰ প্ৰয়োজন আদি সম্পৰ্কে প্রশ্ন উত্থাপন কৰা,\nআলোচনা কৰা আৰু এইবোৰৰ বিষয়ে জটিলভাৱে\nচিন্তা কৰা৷। নিজৰ ঘৰত, বিদ্যালয়ত, চুবুৰীৰ\nএনেধৰণৰ পৰিস্থিতিৰ লগত জড়িত তেনে\nঅভিজ্ঞতা বা কাৰ্যকলাপত প্ৰতিফলিত কৰিব পৰা ।\nক্ল পাঠ্যপুথিৰ উপৰি অন্যান্য সমল যেনে-=\nছবি, পোষ্টাৰ, নামফলক, কিতাপ, বাতৰি-কাকতৰ\nবা স্পৰ্শ কৰি বুজিব পৰা৷ সমল, তথ্যচিত্ৰৰ পৰা\nআহৰণ কৰা সমল, পুথিভৰালৰ কিতাপ আদি\nঅধ্যয়ন কৰা।\n\nযাবলৈ ভাল পাও। ভৈ 72. সৰ\nশ্ত\nঙুয 97",
+  "confidence": {
+    "word_count": 189,
+    "mean": 88.69,
+    "median": 95.74,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.92,
+  "page_elapsed_seconds": 3.161,
+  "peak_process_tree_rss_bytes": 303333376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

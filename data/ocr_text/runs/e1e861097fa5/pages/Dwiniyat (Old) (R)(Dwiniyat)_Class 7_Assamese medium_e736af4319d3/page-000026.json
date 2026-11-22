@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২০5\n\nদ্বীনিয়াত\n\nএইদৰে তিনিবাৰ পঢ়িবলৈ ক’লে আৰ তিনিও বাৰ তেখেতে পঢ়িব\nনেজানো বুলি ক’লে। তাৰ পিচত হজৰত জিন্ৰাইল (আঃ)এ ছুৰা\nআলাকৰ পৰা তলত উল্লেখ কৰা আয়াতবোৰ পঢ়ি গ’'ল।\n\n(তে = \"|. (4৮\nহজৰত জিব্ৰাইল (আঃ)এ পঢ়াৰ পিচত হজবত ৰছুলে মকবুল\n\n(ছঃ)এ শুনি এই আয়াতকেইটা পঢ়িলে। কোবআন মজীদৰ ভিতৰত দুবা\nআলাকৰ এই আয়াতকেইটাই সৰ্ব প্ৰথমে নাজিল হৈছিল।\n\nপ্ৰশ্ন- যদি কোৰআন মজীদৰ অৱবণ ছুৰা আলাকৰ প্ৰথম আয়াত কেইটাবেই\nআবস্ভ হৈছিল, তেনেহ”লে কোৰআন মজীদ এতিয়া যি অৱস্থাত লিখিত হৈছে\nতেনে অৱস্থাত কোৰআন মজীদ অৱতীৰ্ণ হোৱা নাছিল নেকি?\n\nউ'ত্তৰ- এতিয়া যি অৱস্থাত কোৰআন মজ্ীদ লিপিবদ্ধ হৈ আছে, সেই\n\nঅৱস্থাত কোবৰআন মজীদ নাজিল হোৱা নাছিল। আৱশ্যক অনুযায়ী\nসময়ে সময়ে কোৰআন মজীদৰ আয়াতবোৰ অৱতীৰ্ণ হৈছিল। কোনো\nএটা ছুৰা অৱতীৰ্ণ হ’লেই ইয়াৰ কোনটো ছুৰাৰ আগত বা পিচত লিখিব\nলাগিব সেইটো হজৰত মহস্মদ (ছঃ)এ বুজাই দিছিল। এক বা একাধিক\nআয়াত অৱতীৰ্ণ হোৱাৰ পিচত হজৰত মহন্মদ (ছঃ)এ বুজাই দিছিল -\nএই আয়াত কেইটা অমুক দছুৰাৰ অমুক আয়াতৰ পিচত আৰু অমুক\nআয়াতৰ আগত লিখি লোৱা ৷” কোৰআন মজীদ যদিও বৰ্তমান অৱস্থাত\nলিখিত হোৱা ধৰণে নাজিল হোৱা নাছিল তথাপিও হজৰত মহস্মদ\n(ছঃ)ৰ নিদেশ মৰ্মে বৰ্ত মান অৱস্থাত থকাৰ নিচিনাকৈয়ে কোৰআন\nমজ্ীদ লিখিত হৈছিল।\n\nপ্ৰশ্ন- হজৰত মহন্মদ (ছঃ)এ কোৰআন মজীদখন বি ক্ৰম অনুযায়ী সজাইছিল,",
+  "confidence": {
+    "word_count": 31,
+    "mean": 79.76,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.533,
+  "page_elapsed_seconds": 2.662,
+  "peak_process_tree_rss_bytes": 250511360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

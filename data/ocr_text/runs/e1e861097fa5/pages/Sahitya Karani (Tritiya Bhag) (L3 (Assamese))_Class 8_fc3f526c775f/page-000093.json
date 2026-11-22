@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 93,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ক) শ্রৱণে কাক ভাৰ বান্ধি তীৰ্থলৈ নিছিল?\n(খ) শৱণে কি কামক কৰ্তব্য বুলি ভাবিছিল?\n(গ) পিতৃ-মাতৃৰ কাৰণে কৰা কষ্টক কিয় কষ্ট বুলি ভবা নাছিল ?\n\n১২। অসমীয়ালৈ অনুবাদ কৰা।\n\n']]126111811]16 01001 582 19 /*৪৪৪1]]. 0]'স8]1180119 0|16 061986290 01৮ 01/১9981]7.\n']]161619 8 06189 14621\" 111 /*৪৪৪1]]. '[']126 1181116 01 16 [1421 19 16 131811]8|200'8. '[|6\n118018| 9021121\"% 01 /১৪৪৪1]] 19 ৮০1) 268.00110]. ']\"|16 ']<81118]] ৮ 8' (211]])|2 19 9100]-\n8601.010 016 111]100]) 01 ]খ৷]8.18],\n\n১৩। স্থান বিশেষে আমি আইক মা, আম্মা, বৌটি, মাই আদিৰে সম্বোধন কৰি মাতোঁ।\nতোমালোকৰ ঠাইত আইক কোনে কি সম্বোধনেৰে মাতে জানি লৈ লিখা।\n\n১৪। আই, মা, জননীক লৈ ৰচনা কৰা পদ্য/কবিতা/গা৷ন সংগ্ৰহ কৰি শ্রেনীকোঠাত\nউপস্থাপন কৰা।\n\n১৫। কেঁচুৱাক ওমলাবলৈ ব্যৱহাৰ কৰা খেলৰ সামঞ্জীবোৰৰ তালিকা এখন প্ৰস্তুত কৰা।\n\n= অনুবাদ কাযৰ্টো কৰাওঁতে সহায় কৰিব।\n= নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 131,
+    "mean": 73.29,
+    "median": 90.85,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9999,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.573,
+  "page_elapsed_seconds": 2.819,
+  "peak_process_tree_rss_bytes": 258867200,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

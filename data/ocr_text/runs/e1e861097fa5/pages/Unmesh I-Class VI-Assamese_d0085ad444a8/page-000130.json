@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 130,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আদিয়ে লোক-বিশ্বাস সৃষ্টি কৰে। লোক-বিশ্বাসে যুক্তিৰ সলনি পৰম্পৰাকহে অধিক গুৰত্ব দিয়ে।\nসাধুকথাসমূহৰ দৰেই লোক-বিশ্বাসৰ আধাৰত গঢ় লৈ উঠা ভেকুলী বিয়াৰ নামসমূহো লোক-সাহিত্যৰ\nঅন্তৰ্গত। বাস্তৱ অৰ্থত ভেকুলী আৰু বৰষুণৰ কোনো প্রত্যক্ষ সম্পৰ্ক নাই। কিন্তু ভেকুলী বিয়া পাতিলে\nবৰষুণ দিয়ে বুলি লোকসমাজে বিশ্বাস কৰে। সেই লোকবিশ্বাস অনুসৰি খেতিৰ বতৰত বৰকৈ খৰাং\nহ’লে মানুহে ভেকুলীৰ বিয়া পাতে। এই বিয়াত এহাল ভেকুলী ধৰি আনি দৰা আৰু কইনা হিচাপে\nমানুহৰ ঘৰত থয়। তাৰ পাছত দৰা আৰু কইনা ঘৰে যথা নিয়মে পানী তুলি, নোৱাই-ধোৱাই, নাম-গুণ\nগাই বিয়া পাতে। তলত ভেকুলী বিয়াত গোৱা এফাকি বিয়ানাম তুলি দিয়া হ’ল--=\n\nআহে ইন্দ্ৰদেৱে\nবতাহ বৰষুণত তিতি;\n\nস্বৰ্গৰ অপেচৰী\n\nনামি আহিছে\n\nউৎসঃ ড’ লীলা গগৈৰ ‘অসমীয়া লোক-সাহিত্যৰ ৰূপৰেখা’, প্রথম প্ৰকাশ, ২০০৭, বনলতা, ডিব্ৰিগড়-১, পৃষ্ঠা-_ ৯৪\n\nঠৰ ১৪৷ তোমাৰ পৰিয়াল তথা সমাজৰ লোকসকলে পৰিধান কৰা সাজ-পোছাকৰ নাম তলত দিয়া\nতালিকাখনত লিখা\n\nঠৰ ১৫। ভেকুলীৰ বিয়া পাতিলে যিদৰে বৰষুণ দিয়ে বুলি লোক-বিশ্বাস আছে; ঠিক তেনে ধৰণৰ\nকি কি লোক-বিশ্বাস তোমাৰ অঞ্চলত প্রচলিত হৈ আছে অভিভাৱক আৰু শিক্ষকৰ লগত\nআলোচনা কৰি লিখা ৷\n\n(১৩০,",
+  "confidence": {
+    "word_count": 160,
+    "mean": 90.36,
+    "median": 95.77,
+    "minimum": 10.06,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.74,
+  "page_elapsed_seconds": 3.205,
+  "peak_process_tree_rss_bytes": 195596288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

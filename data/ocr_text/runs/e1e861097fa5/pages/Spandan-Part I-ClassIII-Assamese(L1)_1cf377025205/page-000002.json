@@ -1,0 +1,62 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "+),\n\n১, ডিজিটেল বিষয়বস্তু উপলব্ধ\n01২ €.006 ব্যৱহাৰ কৰিব স্স\n\n01511/%\n\nষট৮ 3০০3৩ ৮৬%\n\n৬\n\n৮৮৫%||\n\nড্‌ষ+লচ =!                             চু বচা\n000812 218) ১0016 ত [)[1<5]]/ 56৪1.01) কৰক আৰু\n\nআপোনাৰ মোবাইলৰ ব্ৰাডজজাৰত 011€8118.60%.11) টাইপ\nকৰক আৰু 18) 00007} স্পৰ্শ কৰক ।                                  /]})[}; টো ডাউনলড কৰিবলৈ ][11518]] 3001) টো স্পৰ্শ কৰক\n\nবঠা ==\n\nলী\n[ন\n\nকু, । মুটি সমকভলস্জ্দমম\" পমি, শি সস ডনৰ ড্ৰ\nন [==\n\n=\n\n৮৬০৮গল 00 মেজৰ\n\nগত তত                     ঢ়\n\n=                                ৷\n\nনল = ্্জ্ছললত |\nতত    অঞ্লদন              ==>-্ ৰক ্--\nছী\n৷           জলদ ত ওজ্লেগগা\nসচহন5৯৫৪2    ||         লা\n\n[লি                 |                            [ৰ\n\"< ঙ 7/*\"_৬ গ্ুকক্/”ূৰ্বু3 />,;র} 5 ./>,< গ৬' /৮< ৬\nঅগ্ৰাধিকাৰ দিয়া          আপোনাৰ ভূমিকা       01২ 0002 ১০৪]        প্ৰৱেশ অনুমোদন পাঠ্যপুথিৰ 0]২ং 0002ত 01২ 0006 সম্পৰ্কিত\nভাষাটোক নিৰ্বাচন কৰক _ বাছনি কৰক-ছাত্ৰ) কৰিবলৈ 0২ ক'ডৰ     কৰক আৰু এপ  (০9001218 কেন্দ্ৰীভূত হৈ থকা বিষয়বস্তু প্ৰদৰ্শন\nশিক্ষক/অন্য      আইকনটোত স্পৰ্শ কৰক ব্যৱহাৰৰ অনুমতি দিয়ক দৃষ্টিপাত (]\"0005) কৰক  কৰিবলৈ ক্লিক কৰক\n1)691400]) অত 0)]২ €:006 ব্যৱহাৰ কৰি ডিজিটেল বিষয়বস্তু কেনেদৰে উপলব্ধ কৰিব পাৰি\n[==\n7590)02       ০              ঢ়                ৰে\n3.33    = -ভ' [[ [||\nকৈ            =---=\n0]}২ 0006ৰ তলত আপুনি ছটা        আপোনাৰ ব্ৰাউজাৰত        ৬ অংকৰ ডায়েল ক’ডটো       'সপলব্ধ বিষয়বস্তুৰ তালিকা\nঅংকবিশিষ্ট সংখ্যাটো               |10095://9]1145110,990%,07/05/961           আপোনাৰ [)০91000])ৰ                  নিৰীক্ষণ কৰক আৰু নিজৰ\n(ডায়েল কোড) দেখিব                    টাইপ কৰক                  চাৰ্চবাৰডালত লিখক            পছন্দৰ বিষয়বস্তুত ক্লিক কৰক",
+  "confidence": {
+    "word_count": 205,
+    "mean": 58.76,
+    "median": 69.88,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2599,
+  "image_height": 3426,
+  "ocr_elapsed_seconds": 4.549,
+  "page_elapsed_seconds": 5.32,
+  "peak_process_tree_rss_bytes": 313540608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

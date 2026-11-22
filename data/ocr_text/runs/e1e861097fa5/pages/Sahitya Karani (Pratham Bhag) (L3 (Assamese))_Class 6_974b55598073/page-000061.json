@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 61,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪৩। ব্যঞ্জনবৰ্ণমাল৷ (ক-ফলা)খন পঢ়া আৰু লিখা।\n\nজানো আহা\n\nঅসমীয়া ভাষাত অনুস্বৰ (ং) বৰ্ণৰে আৰম্ভ হোৱা কোনো শব্দ নাই। ই শব্দৰ মাজত\nবা শেষতহে বহে। যেনে, = শংখ, কংস, ৰংঘৰ, কাৰেংঘৰ (মাজত)। সেইদৰে ৰং,\nখং, কলং, দলং (শেষত)। যিবিলাক শব্দত অনুস্বৰটো শেষত থাকে-সেইবোৰ শব্দত\nবিভক্তি যোগ হ’লে অনুস্বৰটো ‘৬’ লৈ ৰূপান্তৰিত হয়। যেনে,- ৰং +এৰে = ৰঙেৰে,\nখং + অত = খঙত, দলং + এদি = দলঙেদি। কিন্তু অনুস্বৰ মাজত থাকিলে সেই\nপৰিৱৰ্তন নহয়। যেনে = কংসই।\n\nলেল শিকাকক বৃজাই ক’ব।\n\n== নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 85,
+    "mean": 89.95,
+    "median": 93.29,
+    "minimum": 24.86,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.018,
+  "page_elapsed_seconds": 2.267,
+  "peak_process_tree_rss_bytes": 267595776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

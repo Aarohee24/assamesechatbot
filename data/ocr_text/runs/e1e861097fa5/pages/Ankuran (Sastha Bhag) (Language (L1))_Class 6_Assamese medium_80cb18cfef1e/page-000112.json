@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 112,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ -- ভাষা অধ্যয়ন (ব্যাবহাৰিক ব্যাকৰণ)\n\nজানো আহা\n\nঅসমীয়া ভাষাৰ মা, দেউতা, আই, পিতা, ককা, আইতা, মামী, পেহা, ককাই আদি সম্বন্ধবাচক\nবিশেষ্যত পুৰুষবাচক বিভক্তি লগোৱা হয়। অইন ভাষাত তেনে নহয়।\nযেনে--- তোমাৰ মাৰা (মা + ৰা)।\n\nপুৰুষ তিনিটা £ প্রথম পুৰুষ, দ্বিতীয় বা মধ্যম পুৰুষ আৰু তৃতীয় পুৰুষ।\nপ্রথম পুৰুষ £ মই, আমি।\nদ্বিতীয় পুৰুষ £ তই, তুমি, তহঁত, তোমালোক।\n\nঅতি মান্য দ্বিতীয় পুৰুষ ‘আপুনি/আপোনালোক'ৰ নিজা পুৰুষবাচক বিভক্তি নাই; তৃতীয়\nপুৰুষৰ বিভক্তিহে গ্ৰহণ কৰে। যেনে-- আপোনাৰ মাক।\n\nসম্বন্ধবাচক বিশেষ্যত যুক্ত পুৰুষবাচক বিভক্তি\n\nসম্বন্ধবাচক শব্দ প্রথম পুৰুষ দ্বিতীয় পুৰুষ (তুচ্চ) দ্বিতীয় পুৰুষ (মান্য) তৃতীয় পুৰুষ\nআকাৰান্ত    গল      ন      নৰা       ন\n\n(পেহা)                           (পেহাৰ)          (পেহাৰা)           (পেহাক)\nঅন্য স্বৰান্ত          ৰ              -এৰ               -এৰা               -এক\n\n(বাই)                          (বায়েৰ)          (বায়েৰা)           (বায়েক)\n\n৭) উপযুক্ত পুৰ্ষবাচক বিভক্তিৰে বাক্য পূৰ কৰা।\n(ক) ছাৰ, আপোনাৰ দেউতা      কোন আছিল?\n(খ) গৈ বাইদেৱে ক’লে-- “তগৰ, তোমাৰ মা\n(গ) তোৰ ককা       ৰ বয়স কিমান হ’ল?\n(ঘ) তোমাৰ পেহী        ক চিনি পাওঁ?\n(৬) প্রভাতৰ আইতা       _ আহিব।\n\n৮) পাঠৰ পৰা যুৰীয়া শব্দবোৰ বিচাৰি লিখা।\n\nযেনে-- খলা-বমা |\n\nআহিছে।”\n\n১০২",
+  "confidence": {
+    "word_count": 163,
+    "mean": 86.46,
+    "median": 93.11,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium-page-000112.png",
+  "page_image_sha256": "f466041a0a0749599a63065a80c87e7d1e6f40d0bd8f10db0355d65c8b4e30dc",
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.115,
+  "page_elapsed_seconds": 3.449,
+  "peak_process_tree_rss_bytes": 147705856,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

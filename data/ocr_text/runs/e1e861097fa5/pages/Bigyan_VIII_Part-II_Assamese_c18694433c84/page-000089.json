@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 89,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "10. তলত দিয়া ইংগিতবোৰ ব্যৱহাৰ কৰি শব্দ শৃংখলটো সম্পূৰ্ণ কৰা।\nথিয়কৈ -\n1) পখিলা, ভেকুলী আদিৰ নিচিনা জীৱৰ জীৱনচক্ৰত\nক্ৰমে পলু অথবা লালুকীৰ পৰা বহুতো পৰিবৰ্তনৰ\nমাজেৰে পূৰ্ণাংতা অৱস্থালৈ সলনি হোৱা প্রক্রিয়া।       1\n2) ইষ্ট, হাইড্ৰা আদিত মুকুলৰ দ্বাৰা হোৱা প্রজনন।\n5) পোৱালি জগোৱা প্রাণী।\nপথালিকৈ -\n3) এবিধ জৰায়ুজ প্রাণী।                   কু\n4) যৌন প্ৰজননত জননকোষ মিলিত হৈ গঠন কৰা\nকোষ।          নু হৰ\n6) যি প্রক্ৰিয়াৰ দ্বাৰা প্ৰজাতি এটাই নিজৰ প্রজাতিৰ\nজীৱ সৃষ্টি কৰে বা জন্ম দিয়ে।\n\n1. এখন কুকুৰাৰ পাম পৰিদৰ্শন কৰা। পামখনৰ প্রবন্ধকৰ লগত কথা পাতা আৰু তলত দিয়া\nপ্রশ্নসমূহৰ উত্তৰ উলিয়াবলৈ চেষ্টা কৰা।\n\n(৪8) কুকুৰা পাম এখনত থকা কণী দিয়া কুকুৰা আৰু ব্ৰইলাৰ কুকুৰা কি?\n(৮) কুকুৰাই অনিষিক্ত কণী পাৰেনে?\n\n(০) তোমালোকে নিষিক্ত আৰু অনিষিক্ত কণী কেনেকৈ পাবা?\n\n(0) আমি দোকানত পোৱা কণীবোৰ নিষিক্ত নে অনিষিক্ত?\n\n(০) তোমালোকে নিষিক্ত কণী খাব পাৰানে?\n\n()) পুষ্টিৰ ফালৰ পৰা নিৰ্দিষ্ট আৰু অনিষিক্ত কণীৰ কিবা পাৰ্থক্য আছেনে?\n\n__ প্ৰাণীৰ প্ৰজনন / ৷২চাসং0])00'[[0খ ]{খ এখাখা[.9",
+  "confidence": {
+    "word_count": 153,
+    "mean": 88.6,
+    "median": 94.86,
+    "minimum": 2.89,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.598,
+  "page_elapsed_seconds": 2.863,
+  "peak_process_tree_rss_bytes": 323371008,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

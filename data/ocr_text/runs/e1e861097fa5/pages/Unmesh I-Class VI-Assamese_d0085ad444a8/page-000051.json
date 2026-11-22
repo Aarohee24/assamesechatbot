@@ -1,0 +1,62 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 51,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷\n\nচি\n\nচি\n\nউপ-অৰ্হতা\n\nজ্ৰিয়া-কলাপৰ\n\n২\n\n01.1\n\n01.4\n\n0; 1.5\n\n02.1\n\n€-2.3\n\n0-৯\n\n€-5.3\n\n* পাঠটোৰ মূল বিন্দুসমূহ চিনাক্ত কৰি\nক’ব আৰু লিখিব পৰা।\n\nঙ দফা লিখিব পাৰিব।\n\nঙ অভিনয় কৰিব পাৰিব।\n\nঙ সংগৃহীত সমল ব্যৱহাৰ কৰি এলবাম\nপ্রস্তুত কৰিব পাৰিব।\n\nঙ নিজে কৰা পৰিৱেশ সজাগতামূলক\nকাৰ্যৰ পৰিৱৰ্তন অনুধাৱন কৰি লিখনৰ\nজৰিয়তে প্রকাশ কৰিব পাৰিব।\n\nঙ নতুন শব্দৰ অৰ্থ জানিবলৈ অভিধান\nব্যৱহাৰ কৰিব পাৰিব।\n\n৷ নিৰ্দিষ্টতাবাচক প্রত্যয় কথন আৰু\nলিখনত প্রয়োগ কৰিব পাৰিব।\n\nঙ বাক্য ৰচনা কৰিব পাৰিব।\n\nঙ পদ শ্ৰেণীভুক্ত কৰিব পাৰিব।\n\nঙ উপযুক্ত ভাষা আৰু শৈলী ব্যৱহাৰ কৰি\nকবিতা আৰু নাটক লিখিব পাৰিব।\n\n১,২,৪,৫,৬,\n৭,৮,৯\n\n১৮\n\n১৪\n\n১১৯\n\n২০, ২১\n\n১৩\n\n১৭\n২০\n\n১০\n\nটু\n\n১১\n\n১৫, ১৬",
+  "confidence": {
+    "word_count": 110,
+    "mean": 82.11,
+    "median": 93.26,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Unmesh I-Class VI-Assamese-page-000051.png",
+  "page_image_sha256": "452232e5f7fe6c3962078ea36fac81d9094373ed7dc118e548d8b872f65b0832",
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 1.983,
+  "page_elapsed_seconds": 2.375,
+  "peak_process_tree_rss_bytes": 140005376,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

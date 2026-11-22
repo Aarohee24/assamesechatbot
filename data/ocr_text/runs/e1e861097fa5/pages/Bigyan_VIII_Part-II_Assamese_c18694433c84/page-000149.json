@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 149,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "6. তোমাৰ অঞ্চলত শব্দ প্ৰদূষণৰ উৎসসমূহ চিনাক্ত কৰা। তোমাৰ পিতৃ-মাতৃ, বন্ধু-বান্ধৱ আৰু ওচৰ\nচুবুৰীয়াৰে সৈতে আলোচনা কৰা। শব্দ প্ৰদূষণ কেনেকৈ নিয়ন্তণ কৰিব পাৰি তাৰ পৰামৰ্শ দিয়া। সৰু\nটোকা এটা প্রস্তুত কৰা আৰু শ্ৰেণী কোঠাত পঢ়ি শুনোৱা ।\n\nতলত উল্লেখ কৰ৷ ৱেবছাইটবোৰত এই অধ্যায়ৰ লগত সম্পৰ্ক থকা বিষয়বস্তুৰ বিষয়ে অধিক\n\nপঢ়িবলৈ পাবা।\n\n৬ অস্্দম])]]\"910980189910011].0011]/01898/9010]110/900110000.]]]][\n\n৬ 1168.110 %90[]8%01]08.0011/]168111]9,.]]]]]\n\n৬ অ,্া্ম,]81(818116.001]1 101]8]0018116\n\n৬ ছ্ঘম,(217110/0011]/81010169/]168111]6.]]]]]]\n\n৬ ছ*্দ,০৪118962.018.10/621]/0]161769/9012110629/])])}9108/118111|2866.1]]]\nত\"                                                                                                                        /\n৷   ৃ\n\nহায়দৰাবাদৰ ওচৰত অৱস্থিত গোলকোণ্ডা দুৰ্গ ভাৰতবৰ্ষৰ মনোমোহা দুৰ্গসমূহৰ ভিতৰত অন্যতম। বহু\nবিস্ময়কৰ অভিযান্ত্ৰিক আৰু স্থপতিকলাৰ বাবে ই বিখ্যাত। তাৰ ভিতৰত ইয়াৰ পানী যোগান ব্যৱস্থা\nউল্লেখযোগ্য। কিন্তু, দুৰ্গৰ প্ৰৱেশদ্বাৰৰ কাষত অবস্থিত গম্বুজটো সম্ভবতঃ আটাইতকৈ আশ্চৰ্যজনক।\nগন্বুজটোৰ তলৰ এক নিৰ্দিষ্ট স্থানত হাতচাপৰি বজালে অনুৰণনৰ সৃষ্টি হৈ প্ৰায় এক কিল’মিটাৰ ওপৰৰ\nগন্থুজটোৰ শীৰ্ষবিন্দুত ইয়াক শুনিবলৈ পোৱা যায়। সতকীকৰণৰ ব্যৱস্থা হিচাপে এনে কৌশলৰ উদ্ভাৱন\nকৰা হৈছিল। ৰখীয়াই দুৰ্গৰ বাহিৰত কাৰোবাৰ সন্দেহজনক চাল চলন দেখিলে গন্বুজটোৰ তলৰ নিৰ্দিষ্ট\n\nস্থানত চাপৰি বজাই দিছিল আৰু লগে লগে ভিতৰত থকা সৈন্যসকল শত্ৰুৰ পৰ৷ হ’ব পৰা সম্ভাব্য বিপদ\nসম্বন্ধে সজাগ হৈছিল।",
+  "confidence": {
+    "word_count": 159,
+    "mean": 85.07,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.222,
+  "page_elapsed_seconds": 3.485,
+  "peak_process_tree_rss_bytes": 272629760,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

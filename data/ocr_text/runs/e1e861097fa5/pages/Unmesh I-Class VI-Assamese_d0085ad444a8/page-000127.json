@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৭। “আগ-পাছ নুগুণি কাম কৰিলে নিজৰে বিপদ হয়।” শিক্ষকৰ সহায় লৈ সাধুটোৰ আধাৰত\nকথাষাৰৰ তাৎপৰ্য ব্যাখ্যা কৰ৷।\n\n৷ জানো আহা--\n\n“এদিন ভেকুলী-ৰজাই মিতিৰৰ ঘৰলৈ বুলি গৈ থাকৌতে বাটত এখন শিলৰ পাহাৰ পালে। সি\nইটো শিলৰপৰা সিটো শিললৈ জঁপিয়াই যাওঁতে শিলৰ খোৰোঙত শুই থকা এডাল ফেটীসাপৰ বৰ\nখং উঠিল।”\n\nওপৰৰ বাক্য দুটাত পোৱা ‘থাকৌতে’ আৰু ‘যাওঁতে পদ দুটি কেনেকৈ গঠন হৈছে চাওঁ আহা--\n\nযাওঁতে -> যা +ওঁতে\n\nদুয়োটা বাক্যতে একাধিক ক্ৰিয়া পদ আছে। ইয়াত এটাৰ কাম চলি থকা সময়তে আন এটি\nক্ৰিয়াৰ কাম সংঘটিত হৈছে। ওপৰৰ প্রথম বাক্যত ‘গৈ থকা” ক্ৰিয়াৰ কাম চলি থাকৌতে ‘পালে’\nক্ৰিয়া সংঘটিত হৈছে। ঠিক তেনেদৰে দ্বিতীয় বাক্যত ‘জঁপিয়াই যোৱ|’কাম শেষ নৌহওঁতেই ‘উঠিল’\nক্ৰিয়াৰ কাম সম্পন্ন হৈছে।\n\nকোনো এটা ক্ৰিয়া চলি থকাৰ সময়ত আন এটা ক্ৰিয়া সংঘটিত হ’লে, চলি থকা ক্ৰিয়াৰ মূলত\n‘ওতে’ কৃদন্ত প্ৰত্যয় যোগ হয়।\n\n(ক) তলাটে৷ খুলিবলৈ _ __ চাবিপাট পৰি গ’ল। (লৈ + ওতে)\n(খ) কিতাপখন = * চাই ল’বা। (দি + ওঁতে)\n(গ).-. কামটো ._. _ কিছু সময় লাগিব। (কৰ্‌ + ওতে)\n\n(ঘ) ভাত _. _ কথা নাপাতিবা। (খা + ওঁতে)\nৰ 3। তলত দিয়া শব্দবোৰ ভাঙি লিখা আৰু সেই শব্দবোৰ প্ৰয়োগ কৰি একোটাকৈ বাক্য লিখা।\n(ক) পঢ়োতে =>      +      =                             |\n(খ) বহৌতে =>      +     =                          |\n(গ) শোওঁতে-=>    +    ==                  !\n(ঘ) গাওঁতে =>     4     =                        !\n\n(ঙ৬) হাহোতে-         +",
+  "confidence": {
+    "word_count": 210,
+    "mean": 85.63,
+    "median": 93.12,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.77,
+  "page_elapsed_seconds": 4.215,
+  "peak_process_tree_rss_bytes": 212185088,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

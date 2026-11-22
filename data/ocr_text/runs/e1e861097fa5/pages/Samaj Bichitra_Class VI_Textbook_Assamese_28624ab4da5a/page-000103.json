@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 103,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কোনো চেতনা বা এঁশ্বৰিক উপস্থিতিৰ স্বীকৃতি দিয়ে। ক্লাছ    ৰ:\n\nৰূপত পূজা কৰে, যেনে, মেঘালয়ৰ মাউফ্লাং অৰণ্যক [=\nতাৰ বাসিন্দাসকলে পরিত্ৰ (98০০০) বুলি গণ্য কৰে।\nতেওঁলোকে এই অৰণ্যত কোনো ধৰণৰ আৰৱৰ্জ\nনেপেলায় আৰু অৰণ্যৰপৰা একো বস্তু ছিঙি বা কাটি\nনানে।\n\n== - আইটি এ\n\nউপাসনাৰ এই বৈচিত্ৰ্যৰ মাজতো হিন্দু ধৰ্মৰ\nৰূপ,হিচাপে ড'নি আৰু চন্দ্ৰৰ ৰূপ হিচাপে প'ল’ ক\nৰ                            সংযুক্তভাৱে ড’নিপ’ল” ৰূপত পূজা কৰে। আনহতে\n\nচিত্ৰ ১০.১৩ ঃ মেঘালয়ৰ মাউফ্লাং পৱিত্ৰ অৰণ্য\n\nগাৰোসকলে ‘তাতাৰা ৰাবুগা’ ক বিশ্বৰ সৃষ্টিকৰ্তা ৰূগত আৰু মুগ্ডা\nআৰু চাঁওতাল আদিবাসীসকলে সমগ্ৰ পৃথিৱীখনৰ সৃষ্টি কৰ্তা হিচাপে\nচিংবংগাক পূজা কৰে।\n\nভাৰতৰ বিভিন্ন প্ৰান্তৰ পৰিপ্ৰেক্ষিতত এনে বহু উদাহৰণ\nপোৱা যায়। আমাৰ উভ্ৰুষধ্‌ক্লুণলীতো ভ্ন-বিঙ্ট্‌ জনজাতিৰ\nএকোজনকৈ পৰম উপাস্য, দেৱতা আছে। আৰম্ভণিৰ পৰাই বৈদিক\nহিন্দু আৰু জনজাতীয় বিশ্বাস পদ্ধতিৰ মাজত পাৰস্পৰিক প্রভাৱ\n\nগণ্য কৰি ই্টশ্বৰৰ স্থান দিয়ে।                          চিত্ৰ ১০.১৪? ডৰ্নিপ’ল’ৰ প্রতীক\nঅনুশীলনী -৫\n১) তলৰ প্ৰশ্নবোৰৰ উত্তৰ দিয়া--\n(ক) জনজাতি বুলিলে কি বুজা?\n\n(খ) জনজাতিবোৰৰ অতীতৰ বিষয়ে কোনবোৰ উৎসৰপৰা জানিব পাৰো?\n(গ) ডনিপ’ল’ৰ উপাসনা কোন জনগোষ্ঠীৰ লোকে কৰে?\n(ঘ) জনজাতীয় বিশ্বাসে মূলতঃ কাক সলমশ্বৰৰ স্থান দিয়ে?\n(৬) মুণ্ডা আৰু চাঁওতাল আদিবাসীসকলে কাক উপাসনা কৰে?\n২) ভাৰতৰ জনজাতীয় বিশ্বাসসমূহৰ বিষয়ে চমুকৈ বৰ্ণনা কৰা।\n\nভাৰতীয় সংস্কৃতিৰ ভেটি",
+  "confidence": {
+    "word_count": 183,
+    "mean": 81.85,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2482,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 4.056,
+  "page_elapsed_seconds": 5.176,
+  "peak_process_tree_rss_bytes": 290648064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

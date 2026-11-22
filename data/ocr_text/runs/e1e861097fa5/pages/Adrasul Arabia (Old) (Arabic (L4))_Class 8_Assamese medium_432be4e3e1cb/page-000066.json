@@ -1,0 +1,69 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 66,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-৮১)4৩\n.আৰবীত উত্তৰ দিয়া) : ২; 74] -!\nএ ,০-)০-এ| ())\n71১7 ০৮% 4!এ]} 4== (}পী())\n4৮453 ৬) ৫= ৫)\n$ ২ ৰ = + বুটি)\n₹ 4-4)১4৯)| (9 ২42০০ ) ৮০১০০ + (2)\n\n₹ .০)০০41 )\"%19 তে) ৷\n= কেশ} = চৰে = বৰিব চিকি = কঠ = = = শুক)\n\n: দুষ্টক ৩০% ১৯০ ()- এ 9 ৰা\n(উপযুক্ত শব্দ বাছিলৈ বাক্যবোৰৰ খালীঠাই পূৰণ কৰা)\n\n= দ্েশদদ = =০৯] = (9\n,-*(৮* (1)\n‘= 2৫১ (\")\n\n|",
+  "confidence": {
+    "word_count": 79,
+    "mean": 42.43,
+    "median": 40.02,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 76 diacritics",
+        "Detected 76 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium-page-000066.png",
+  "page_image_sha256": "97205c5b91a912765f133b32c0eb68b0e87667b2346e4498511de2b71817f2f4",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.092,
+  "page_elapsed_seconds": 2.357,
+  "peak_process_tree_rss_bytes": 146685952,
+  "tesseract_warnings": [
+    "Detected 76 diacritics",
+    "Detected 76 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9954,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 61,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "2. এটাৰ পৰা আনটোক পৃথক কৰা।\n(৪) বন্যপ্ৰাণী অভয়াৰণ্য আৰু জীৱমণ্ডল সংৰক্ষিত অঞ্চল।\n\n(০) চিৰিয়াখানা আৰু অভয়াৰণ্য।\n(০) বিপন্ন আৰু বিলুপ্ত প্ৰজাতি।\n\n(0) ভউদ্ভিদকুল আৰু প্রাণীকুল।\nঢ    3. বনাঞ্চল ধ্বংসৰ প্রভাৱ তলত দিয়াবোৰত কেনেদৰে পৰে আলোচনা কৰা।\nলে             (৪) বন্য প্রাণী\n1ম            (০0) পৰিৱেশ\nডি          (৩০) গাঁও (গ্রাম্য অঞ্চল)\n(৫) নগৰ (নগৰীয়া অঞ্চল)\n(০) পৃথিৱী\n() উত্তৰ প্ৰজন্ম\n4. কি হ’ব পাৰে যদি-\n\n(৪) আমি গছ কাটি গৈ থাকো,\n(০) প্ৰাণীৰ আৱাসস্থলী বিশ্নিত হয়,\n(০) মাটিৰ ওপৰৰ স্তৰ মুকলি কৈ থাকে।\n5. চমুকৈ উত্তৰ দিয়া\n(৪) জীৱ বৈচিত্য্যক আমি কিয় সংৰক্ষণ কৰিব লাগে?\n(০) সংৰক্ষিত বনাঞ্চল বন্যপ্ৰাণীৰ বাবে সম্পূৰ্ণভাৱে সুৰক্ষিত নহয়, কিয়?\n(০) কিছুমান জনজাতি বনাঞ্চলৰ ওপৰত নিৰ্ভৰশীল, কেনেকৈ?\n(0) বনাঞ্চল ধ্বংসৰ কাৰণ আৰু পৰিণতি কি?\n(০) ৰেড ডেটা বুক কি?\n(0) পৰিভ্ৰমণ বুলিলে কি বুজা?\n6. কাৰখানাৰ নিতৌ বৰ্ধিত চাহিদা পূৰাবলৈ আৰু আৱাসিক অঞ্চল বৃদ্ধিৰ বাবে অবিৰতভাৱে গছ কটা\nহৈছে। ইয়াৰ বাবে গছ কটাটো উচিতনে? আলোচনা কৰা আৰু এটি চমুটোকা প্রস্তুত কৰা।\n7. নিজৰ অঞ্চলৰ সেউজ সম্পদক প্রতিপালন কৰাৰ বাবে তোমালোকে কেনেধৰণৰ বৰঙণি\nআগবঢ়াবা ? তোমালোকে গ্রহণ কৰা কাৰ্যৰ এখন তালিকা প্রস্তুত কৰা।\n8. বনাঞ্চল ধ্বংসই কেনেদৰে বৰষুণৰ পৰিমাণ হ্রাস কৰে, বুজাই লিখা।\n9. তোমাৰ ৰাজ্যত থকা ৰাষ্ট্ৰীয় উদ্যানবোৰ বিচাৰি উলিওৱা ৷ ভাৰতৰ মেপত সেইবোৰ বাছি উলিওৱা\nআৰু সিহঁতৰ অৱস্থান দেখুওৱা।\n10. কাগজ কিয় বচাব লাগে? কাগজ বচোৱাৰ বিভিন্ন উপায়ৰ তালিকা এখন প্রস্তুত কৰা।",
+  "confidence": {
+    "word_count": 215,
+    "mean": 89.76,
+    "median": 95.0,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.161,
+  "page_elapsed_seconds": 3.436,
+  "peak_process_tree_rss_bytes": 333082624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

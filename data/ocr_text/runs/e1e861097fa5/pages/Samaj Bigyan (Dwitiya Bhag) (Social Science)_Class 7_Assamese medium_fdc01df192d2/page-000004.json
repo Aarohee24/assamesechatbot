@@ -1,0 +1,62 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১//[/%] ]3][][খ/%[খ : ])ংঘখম]][][%/% ]}]]/4/৮(}3 : /+ [6%00001<\" 101 01899 খ']] 1]] /৬৪৪৪11]1696 06%610])60 &\n812[10%৮60 0% ০৫:]২'][', /$৪৪৪1]], ক্ষ়্1{]] ]1]1811018|] 901)])01{ 01 ১১/১, /১৪৪811] 81101)2010|1981160 0%া 016 /*৪৪৪]]]\n\n১08৮৮ [60001 1\")\"0000001) 8110 11\"00]108101) (:01[2018101] [,1]]160, 00;ম8]11801 011 26]18|{ 01 00%. 01\nআছ                                                                                         ২চ712.%0:24\n\n%]] 116]109 16961\"%460] : ]খ0০ 12]2[00000101] ]]] 81]}%) [01[1]] 01 {]]19 000], 1]} স/|]]012 01\" 11] |)81{ (০%০০])[{ 101\"\n\n01161 0008.001 11) 0110108| 81010129 01'12%12\"%5) 18) 026 1118062 1100 1121 810011011280011 1|\"0]] {])6\n০০])%1[189]1{ 8001]10110129.\n\nগ্ৰন্থস্বত্ব    £$ ৰাজ্যিক শিক্ষা-গৰেষণা আৰু প্ৰশিক্ষণ পৰিষদ, অসম\nপ্রথম প্ৰকাশ £ঃ ২০১১ ইংচন\n\nদ্বিতীয় প্ৰকাশ £ ২০১২ ইং চন (পুনৰীক্ষিত)\n\nতৃতীয় প্ৰকাশ £ ২০১৩ ইং চন\n\nচতুৰ্থ প্ৰকাশ ঃ ২০১৪ ইং চন\n\nপঞ্চম প্ৰকাশ 9  ২০১৫ ইং চন\n\nষষ্ঠ প্ৰকশ £ঃ ২০১৬ ইংচন\n\nসপ্তম প্ৰকাশ £; ২০১৭ ইং চন\n\nঅষ্টম প্ৰকাশ £ঃ ২০১৮ হইংচন\n\nনৱম প্ৰকাশ ২০১৯ ইং চন\n\nদশম প্রকাশ £ঃ ২০২০ ইংচন\n\nএকাদশ প্রকাশ £$ ২০২১ ইং চন\n\n$ /70 0951[ কাগজত মুদ্ৰিত পাঠ্যপুথি।\nৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্ৰকাশিত পাঠ্যপুথি।\n\nমুদ্ৰক     £ অনুৰাগ প্ৰিণ্টাৰ্চ",
+  "confidence": {
+    "word_count": 169,
+    "mean": 58.58,
+    "median": 66.08,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9979,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.001,
+  "page_elapsed_seconds": 3.36,
+  "peak_process_tree_rss_bytes": 293965824,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

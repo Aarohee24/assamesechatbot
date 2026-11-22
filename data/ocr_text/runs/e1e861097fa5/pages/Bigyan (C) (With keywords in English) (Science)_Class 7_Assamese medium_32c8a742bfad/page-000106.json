@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 106,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দুটা অঞ্চলৰ মাজৰ উষ্ণতা পাৰ্থক্য\n\n৮\nবায়ুত পৰিচালনৰ সূত্ৰপাত কৰে\n\nর্খ\nগৰম বায়ু ওপৰলৈ উঠি যায়, ফলত এটা নিম্নচাপ অঞ্চলৰ সৃষ্টি হয়।\n\n৬\nশীতল বায়ু নিম্নচাপ অঞ্চললৈ ব’বলৈ আৰম্ভ কৰে।\n\nখ\nগৰম বায়ু ওপৰলৈ গৈ শীতল হয় আৰু পানীৰ বাষ্প ঘনীভূত হৈ মেঘৰ গঠন হয়।\n\n৬\nমেঘত থকা পানীৰ ডাঙৰ টোপালবোৰ বৰষুণ, শিল বৰষুণ বা হিম হিচাপে ভূপতিত হয়।\n\nৰু\nঅধোগামী বৰষুণৰ টোপাল আৰু উৰ্ধ্বগামী বায়ুৰ প্ৰৱল গতিৰ বাবে বিজুলী ঢেৰেকনিৰ সৈতে\nধুমুহাৰ সৃষ্টি হয়।\n\n্খ\nবতৰৰ কেতবোৰ পৰিস্থিতিত ধুমুহাই ঘূৰ্ণিবতাহৰ ৰূপ ল’ব পাৰে।\n\nঅনুশীলনী (]''ণ\"969)\n\n(1) তলৰ উক্তিবোৰত থকা খালী ঠাই পূৰ্ণ কৰা ঃ\n(৪) বতাহ হ’ল বায়ুৰ           অবস্থা।\n\n(2) কোনো এখন ঠাইৰ বতাহৰ দিশ নিৰ্ণয় কৰিব পৰা দুটা পদ্ধতিৰ নাম লিখা।\n\n(3) তোমাৰ দুটা অভিজ্ঞতা উল্লেখ কৰা য’ত বায়ুৰ চাপৰ প্রমাণ পোৱা গৈছিল। (পাঠ্যপুথিত দিয়াবোৰৰ\nবাহিৰে)\n\n(4) তুমি এটা ঘৰ কিনিব বিচাৰিছা ৷ খিৰিকী থকা কিন্তু ভেণ্টিলেটৰ নথকা ঘৰ কিনিব বিচাৰিবানে ? তোমাৰ\nউত্তৰৰ ব্যাখ্যা আগবঢ়োৱা ৷\n\n(5) ওলমি থকা বেনাৰ বা হৰ্ডিঙত ফুটা ৰখাৰ কাৰণ দৰ্শোৱা।\n(6) তোমাৰ গাও বা চহৰত ঘূৰ্ণিবতাহ আহিলে ওচৰ চুবুৰীয়াক কিদৰে সহায় কৰিবা?\n(7) ঘূৰ্ণিবতাহে সৃষ্টি কৰা অৱস্থাৰ লগত মোকাবিলা কৰিবলৈ কেনে ধৰণৰ আগতীয়া পৰিকল্পনাৰ আৱশ্যক ?\n(8) তলৰ কোনখন ঠাই ঘূৰ্ণিবতাহৰ কোপত পৰাৰ সম্ভাৱনা নাই--\n(}) চেন্নাই (}}) মাঙ্গালুৰু (মাঙ্গালোৰ) (}}}) অমৃতসৰ (1*) পুৰী\n\n92                      বিজ্ঞান",
+  "confidence": {
+    "word_count": 205,
+    "mean": 88.71,
+    "median": 95.93,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.864,
+  "page_elapsed_seconds": 3.105,
+  "peak_process_tree_rss_bytes": 298029056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

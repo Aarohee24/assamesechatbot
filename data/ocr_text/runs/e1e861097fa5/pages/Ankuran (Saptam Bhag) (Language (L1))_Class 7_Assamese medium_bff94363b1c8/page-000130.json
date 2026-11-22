@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 130,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১২। দলত আলোচনা কৰি কোৱৰা।\n(ক) জল পৰিবহণৰ ক্ষেত্ৰত নাৰে আম৷ক কেনেদৰে সহায় কৰে?\n(খ) তলত দিয়া ছবিবোৰত কি কি দেখিছ৷?\n\nবিলত নগৰ হয়, নগৰত নৈ বয়......-.---০১০০০০০০০০০০০০০০৬\n\nতোমালোকে প্রাকৃতিক দুৰ্যোগ’ পাঠটোত কেনেদৰে ভূমিকম্পৰ ফলত পাহাৰো যে বিল\nহৈছে সেই কথা পাইছা ৷ ‘চানডুবি’ বিলখনো তেনেকৈয়ে সৃষ্টি হৈছে। আজিকালি অৱশ্যে\nমানুহেও পাহাৰ কাটি সমভূমি কৰিছে আৰু খাল-বিল পুতি নগৰ কৰিছে।\n\n১৩। তোমালোকৰ ওচৰে পাজৰে খাল-বিল পুতি, পাহাৰ কাটি মানুহে ঘৰ-দুৱাৰ সজাৰ\n\nফলত কি কি সুবিধা-অসুবিধা হোৱা দেখিছা, দলত আলোচনা কৰি লিখা।\nঘঁ প্রকল্প\n১৪। শিৱসাগৰ জিলাৰ ৰজাদিনীয়া কীৰ্তি চিহ্নসমূহৰ ছবি সংগ্ৰহ কৰি এলবাম প্রস্তুত কৰা।\n\n১৫। স্বদেশপ্ৰেমমূলক আৰু বুৰঞ্জীমূলক কবিতা সংগ্ৰহ কৰি লিখা। লগতে কবিতাৰ নাম\nআৰু কবিৰ পৰিচয় লিখা।\n\n42",
+  "confidence": {
+    "word_count": 110,
+    "mean": 87.77,
+    "median": 93.79,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 2.697,
+  "page_elapsed_seconds": 4.272,
+  "peak_process_tree_rss_bytes": 282656768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

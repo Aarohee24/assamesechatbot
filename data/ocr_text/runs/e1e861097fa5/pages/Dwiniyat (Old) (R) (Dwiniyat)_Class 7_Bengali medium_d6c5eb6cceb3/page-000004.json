@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভূমিকা\n\nটৰকাবে'\"ছ্নৱৰ্তন কৰা “শিক্ষাৰ অধিকাৰ আইন ২০০৯” অনুদ্লধি আমাৰ দেশৰ\nবিদ্যালয়সমৃগ্ুৰ পাঠ্যক্ৰমৰ পুনৰগঠন আৰু উন্নয়ন সাধন কৰা ু্হু্‌ছে। নতুন পাঠ্যক্ৰম\nঅনুসৰি শিশুম্ আকৃষ্ট কৰিব পৰাকৈ আকৰ্ষণীয় ৰক্ত প্রস্তুত কৰা প্রাথমিক\nমুদ্ৰণ আৰু প্রকাণনৰ দিশত নিখুঁত আকুল ডিচ্চমান সম্পন্ন পাঠ্যপুথি প্রকাশ\nপ্ৰণয়ন আৰু প্রকাশন নিগশতূ বিশেষ লক্ষ| আৰু উদ্দেশ্য । মূলতঃ এই উদ্দেশ্যৰে\nঅসম চৰকাৰে ১৯৭২ চনত স্মুই নিগম গঠন কৰিছিল। তেতিয়াৰ পৰা নিগমে\nচৰকাৰৰ পৃষ্ঠপোষকতাত অসম ঢনণ্জুক্লাৰে ১৯৮৬ চনৰপৰা প্ৰৱৰ্তন কৰা বিনামূলীয়া\nপাঠ্যপুথি যোগানৰ আঁচনিসমৰ্ম নিগমে সফলতাৰে ৰূপায়ণ কৰি আহিছে।\nউল্লেখযোগ্য যে ২০%১ চনবপস্মশ্বিনামূলীয়া পাঠ্যপুথি কেন্দ্ৰীয়ভাৱে একে\nসফলভাৱে প্ৰেৰণ কৰি হা হৈছে। এইবাৰোদ্ভৃফলতাবে পাঠ্যপুথি যোগান ধৰাৰ\nবাবে সকলো প্ৰচেষ্ট৷/£।তত লোৱা হেছে।\nকৰি তোলাৰ বব অসম চৰকাৰে যিবিলাক অভিলাষী আঁচনি গ্ৰহণ কৰিছে, তাৰ\nভিতৰতে ‘ক/শৰণীৰ পৰা দশম শ্ৰেণীলৈ বিনামূলীয়াঙ্ৈ পাঠ্যপুথি যোগান ধৰাটো\nহৈছে এক ঢ্ন্‌শেষ কাৰ্যসূচী । শৈক্ষিক বিপ্লৱৰ পৰিৱৰ্তগতু এই ধাৰাত সংলগ্ন হৈ\nঅসম ৰব বক পাঠ্যপুথি প্ৰণয়ন আৰু প্ৰকাশন নিগম লিমি  নিজকে ধন্য\nমানিছে আঢচন্দি সকলো প্ৰত্যাহ্লান নেওচি আগবাঢ়ি যাবৰ বাবে সংডন্ল্লবদ্ধ হৈছে।\n\nঅধ্যক্ষ,\nঅসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু\nপ্রকাশন নিগম লিমিটেড, গুৱাহাটী",
+  "confidence": {
+    "word_count": 164,
+    "mean": 77.16,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.16,
+  "page_elapsed_seconds": 2.35,
+  "peak_process_tree_rss_bytes": 217522176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

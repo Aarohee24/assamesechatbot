@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 137,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কেঁচুৱাৰ মাত প্ৰাপ্তবয়স্ক মানুহৰ মাতেৰে সৈতে\nতুলনা কৰা। কিবা পাৰ্থক্য পাইছানে? মাত দুটা সমান\nতীব্ৰতাৰ হ’লেও সিহঁত যেন কিবা প্রকাৰে পৃথক,\nকেনেকৈ হয় চাওঁ আহা।\n\nশিক্ষাগুৰুৰ মাততকৈ বেলেগ হয\nএম.\nকম্পনাংকই শব্দৰ তীক্ষ্ণতা বা টিংটিঙনি\nনিৰূপণ কৰে। এটা কম্পনৰ কম্পনাংক বেছি হ’লে,\nশব্দটো টিংটিঙিয়া আৰু তাৰ তীক্ষুতা বেছি বুলি কওঁ।\nকম্পনাংক কম হ’লে শব্দৰ তীক্ষুতা কম বুলি কওঁ।\nউদাহৰণস্বৰূপে, এটা. ঢোলৰ কম্পনৰ কম্পনাংক\nকম।\n\nশব্দৰ তীব্ৰতা তাৰ বিস্তাৰৰ ওপৰত নিৰ্ভৰশীল।\nকম্পনৰ বিস্তাৰ বেছি হ’লে, সৃষ্টি হোৱা শব্দ ডাঙৰ\nহয়। বিস্তাৰ কম হ’লে সৃষ্টি হোৱা শব্দ দুৰ্বল হয়।     চিত্ৰ 14.18 : কম্পনাংকই শব্দৰ তীক্ষুতা নিৰূপণ\n\nকৰে",
+  "confidence": {
+    "word_count": 95,
+    "mean": 89.08,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.139,
+  "page_elapsed_seconds": 2.415,
+  "peak_process_tree_rss_bytes": 256827392,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

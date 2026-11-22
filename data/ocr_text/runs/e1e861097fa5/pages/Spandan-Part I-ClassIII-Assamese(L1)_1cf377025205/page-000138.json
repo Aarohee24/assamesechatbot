@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 138,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "// গ) ‘উপভোগ’ শব্দটোত 'উপ’'ৰ লগত ‘ভোগ’ শব্দটো লগ লাগিছে। এতিয়া ‘উপ’ সজ\n\n=== ৰূপৰ পিছত বেলেগ বেলেগ শব্দ লগ লগাই খালী ঠাইত লিখা আৰু সেই শব্দটো\nব্যৱহাৰ কৰি একোটা বাক্য কোৱা--\n\n2 \">\n\n= ঁ ==\n\n==\n\nএঁঁঁঁকি\n\n= ====-=\n\n// ঘ) তোমালোকে পাঠটোত কেইটামান যুৰীয়া শব্দ পাঁইছা। যেনে--সাজ-পাৰ,\nগীত-মাত। সেইদৰে তলৰ বাকচ দুটাত দিয়া যুৰীয়া,শব্দবোৰ পূৰোৰা--\n\nখেতি -- বাতি _ _} *& | $*৯ ... -=- বোল\nকাগজ-___\".............ভ ৬৬ | এষ <...---মালহ\nকাম: =. .এতঞাফক ৰি |)-= শুনি\n\nচোৱা __\" এ৫. উপ থিয়\" |/ণ |) এন-- বহল\n\n৪ শব্দৰ খেল খেলোঁ আহা--\n\nপাঠত বিচাৰি,.এনে এটা চাৰি আখৰীয়া শব্দ লিখা, যাৰ\n১ মআৰু ২ য় আখৰ মিলি =-=- চেচা বুজায়।\n১ ম আৰু ৪ ্থ আখৰ মিলি -=- স্বভাৱ বুজায়।\n২ য় আৰু ৪ ্থ আখৰ মিলি =-= ওপৰৰ বিপৰীত অৰ্থ বুজায়।\n৩ য় আৰু ১ ম আখৰ মিলি == ভাৰতৰ এখন ঠাইৰ নাম।\n\n১ ম, ২ য় আৰু ৪ৰ্থ আখৰ মিলি --- ঠাণ্ডা বুজায়।\n\nউত্তৰ $\n\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 130,
+    "mean": 75.75,
+    "median": 92.5,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.718,
+  "page_elapsed_seconds": 4.616,
+  "peak_process_tree_rss_bytes": 224878592,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

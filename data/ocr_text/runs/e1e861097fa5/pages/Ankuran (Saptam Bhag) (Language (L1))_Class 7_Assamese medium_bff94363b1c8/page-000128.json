@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 128,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮। পাঠৰ পৰা অন্ত্যধ্বনিৰ মিল থকা শব্দবোৰ লিখা।\nউদাহৰণ == দেশ -       বেশ      ===\n\n৯। ‘কক’ অংশত দিয়৷ শব্দবোৰ ‘খ’ অংশৰ অৰ্থৰ লগত মিলোৱা।\n\n‘ক’ অং           \"খ’ অংশ\nভটীয়নী            শক্তিপোৱা\nবল পোৱা             তল ওপৰ হোৱা বা কৰা\nমাৰ-নাও             বহুলোকে একেলগে কৰা হাই-উৰুমি\nওলট্‌-পালট্‌         নিৰ্মাণ কৰা, প্রস্তুত কৰা\nবিদেশী            নৈৰ ভাটি বা নামনিলৈ বৈ থকা\nশিৰ              পৰদেশৰ, যিটো নিজৰ দেশৰ নহয়\nকোঢ়াল            এলেহুৱা, বন বাৰী নকৰি বহি থকা মানুহ\nসাজ            এখনৰ দাঁতিত আন এখন বান্ধি লোৱা যোৰ-নাও\nধোদ             মূৰ\n\nখ--ভাষা অধ্যয়ন (ব্যাৰহাৰিক ব্যাকৰণ)\n১০। উদাহৰণটোৰ দৰে বিশেষ্যৰ পৰা বিশেষণ পদলৈ নিয়৷ --\n\nৰ\n\nবিশেষ্য\n\nউদাহৰণ\n\nবিদেশ\n\nস্বদেশ\n\nদেশ\n\nপৰদেশ\n\nসুখ\n\nবিশেষণ ] | বিশেষ্য --      বিশেষণ |\nবিদেশী        কপাহ | ==\n\nজঁকানা <=\n\nগোলাপ] --=\n\nব্দাম। -=-\n\nদুখ      ূ_-",
+  "confidence": {
+    "word_count": 27,
+    "mean": 80.68,
+    "median": 90.32,
+    "minimum": 14.06,
+    "maximum": 96.65
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.664,
+  "page_elapsed_seconds": 2.871,
+  "peak_process_tree_rss_bytes": 283844608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

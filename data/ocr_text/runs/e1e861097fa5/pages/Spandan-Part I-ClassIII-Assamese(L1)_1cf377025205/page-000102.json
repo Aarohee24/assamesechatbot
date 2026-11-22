@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 102,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উহ্য মা\nৰ“ ১ । আলোচনা কৰোঁ আৰু লিখোঁ আহা--\nক) কিহৰ বাবে অম্লানহঁত সপৰিয়ালে ওলাই গৈছিল?\nখ) “আহি গ’ল, আহি গ’ল! ..”--এই কথাষাৰ কোনে কৈছিল?\nগ) গাড়ীখনৰ দুৱাৰ খুলিবলৈ গৈ পেহাকে কিয় বিমোৰত পৰিছিল?\nঘ) অম্লানৰ মাকে জোঁৱায়েকক কি কৈছিল?\nঙ ) গাড়ীৰপৰা বয়-বস্তুবোৰ নমোৱাৰ পাছত শান্তাই কিয় কান্দিছিল?\nচ) বনভোজথলীত দেখা বেনাৰখনত কি লিখা আছিল?\nঠ/ ২।ক) পাঠত পোৱা উদ্ভিদ আৰু জন্তু শব্দ দুটাত থকা যুক্তাক্ষৰ দুটাৰে বেলৈগ\nবেলেগ শব্দ লিখোঁ আৰু পঢ়ো আহা --\nড্জ| * [ঢ্ল| + ঢৰ্্া এদঙি্ৰ\n\nঠ/ খ) তলত দাগ দিয়া পদবোৰ ভাঙি দেখুওৱা <-\n\nবুলে\n্হ্ত\n\n-=--=>=-\n\nএখন হাবিৰ কথা   ল্লরি | -[ঢ% ে ।-\nযতি ॥ }{{,\n\n/%/* গ) পাঠত থকা সম্বন্ধবাচক পুংলিংগ আৰু স্ত্ৰীলিংগ বুজোৱা পদবোৰ তালিকাভুক্ত কৰা।\n\nপুৎলিংগ               স্ত্ৰীলিংগ                 পুংলিংগ               স্ৰীলিংগ\nদেউতা           মা\n\nস্পন্দন ১ | তৃতীয় শ্রেণী           কবুহহত৷",
+  "confidence": {
+    "word_count": 130,
+    "mean": 75.64,
+    "median": 92.78,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.787,
+  "page_elapsed_seconds": 4.812,
+  "peak_process_tree_rss_bytes": 223965184,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 216,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[81160] 56])91\"901011\n\n[*1801189]15 1'60011\"60 - ১৪110, 11\"01] }]]}129১ 1]18.21160 3110 9 ])1606 01 [)9])61',\n\n[916 ৪ 1]1%0016 01 98110 80110 110]1]\n1]]1]169 011 ৪8 ])1606 01 )8])21', 0ম 01111               98100 + 1107] ]]]11186\n8 11]811620 11681\" 00 ]]]9 1]]1স00126. ঘ']]8{\n00 ৮00. 00821%922? [01] ]|]]169 ০]1]116 0\n16 11]188911620 8110 1161106 920 ৪6]2818.020.\n:011600 16 1101] ]]]]169 11] ৪ 1606 01\n18261. ]1২86])68{ 119 ৪৫011) || ৪]|| 16\n1101] ]]]11169 816 ৪6০])818060 11101]] 16\n৪8110. ০৪110 ঘ্ধ1|| 1610811] 011 016 ])8][)61'.\n[[01] 19 90080020, 07 1]1861120. ১০ 1101] 19\n০৪]160 8, 1]82112010 90090811062. ]}}0{ 98110\n18100 8008.020 0%া 171861120 8110 90 1019 8\n1101]47]896112010 801081811062. '[']]]189 1]60100\n01 ৪6281.80101]1 01 1]188611200 ৪901081081106289\n1|01]] 1101141]88112600 1]]8(211819 10911]\n8 11891160[ 18 ]৩7র10স1]1] 89 1118861120010\n৪০|)81.81011].\n\n][[] 11100907129, 1101]. [)16069 816        ৷                      ৷\n৪22818060 11\"011] 0]121\"111812119]5 6% 119; 4118. 6.16 + ১০৮০৫/017071 ০0\n1]20700 (]\"16.6.17).                             177097761710 1770167\"10195.770771 50770\n\n1\"18. 6.17 ১ 1.117196 0/ 1607৮} 7109776110 70701627\"1015 171 1770101517\"1625\n_/}\"0771 01}067\" 77701627\"1015",
+  "confidence": {
+    "word_count": 158,
+    "mean": 42.55,
+    "median": 38.39,
+    "minimum": 0.0,
+    "maximum": 95.27
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.372,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.054,
+  "page_elapsed_seconds": 3.491,
+  "peak_process_tree_rss_bytes": 303607808,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

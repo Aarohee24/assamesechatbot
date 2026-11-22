@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৩। ন-খোৱাৰ কাৰণে কি কি বস্তুৰ যোগাৰ কৰা হয়?\n\n১৪। ধান আৰু চাউলৰ পৰা প্ৰস্তুত কৰা কেইবিধমান খাদ্য বস্তুৰ নাম লিখা।\n\nজানো আহা\n\nভাওনা ঃ-_ ভাওনা মহাপুৰুষ খ্ৰীমন্ত শংকৰদেৱৰ অপূৰ্ব সৃষ্টি। ভাওনা হ’ল এবিধ\nপৰিৱেশিত নাট্যকলা। ৰামায়ণ আৰু মহাভাৰতৰ সৰু সৰু কাহিনীয়ে ইয়াৰ বিষয়বস্তু।\nসামাজিক নীতিবোধ গঠনত ভাওনাই বিশেষ ভূমিকা লয়। ভাওনাৰ জৰিয়তে সকলোৱে\nআমোদ লভিব পাৰে। কল্পনা শক্তিৰ বিকাশতো ইয়াৰ গুৰুত্ব অপৰিসীম। ভাওনা\nঅসমীয়া জাতিৰ এক বিশিষ্ট সাংস্কৃতিক সমল।\n\n১৫। ছবিকেইখন চোৱা আৰু সেইবোৰৰ বিষয়ে জানি লৈ লিখা।\n\nঘ-- প্ৰকল্প\n১৬। ওচৰৰ গাঁও এখনলৈ গৈ তাত পোৱা অভিজ্ঞতা বৰ্ণন কৰ৷।\n= ৬ নি-খোৱা’ উৎসৱ সম্পর্কে আভাস দিব।     ৬ ১৮৫নং কাৰ্যটো কৰাওঁতে সহায় কৰিব।",
+  "confidence": {
+    "word_count": 104,
+    "mean": 89.0,
+    "median": 93.29,
+    "minimum": 10.94,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.34,
+  "page_elapsed_seconds": 2.62,
+  "peak_process_tree_rss_bytes": 239427584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

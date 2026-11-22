@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৪) দলত আলোচনা কৰি কাষৰ বাকচৰ ভিতৰত থকা শব্দ খটুৱাই তলৰ দফাটো সম্পূৰ্ণ কৰা।\n\nনয়ন এজন ..................... ল’ৰা। পিচে সি ..................... কাপোৰ পিন্ধি | গল্‌গলীয়া\nসল্সলীয়া\nভাল নাপায়। তাৰ কাম-কাজবোৰ ........................ ৷ কাম কৰোঁতে সি    ৬\nচল্চলীয়|\nন নকৰে। কোনো কথাতে তাৰ ..................... অৱস্থা নহয়।   পৰিপাটি\nশনি তাৰ-মনৰ ভাৰি =০%=%%দ%%০০৪%৮৯৭৯%৯৮৪ কৈ প্রকাশ কৰিব পাৰে। তাৰ _| ৰং চঙীয়া\nমাতটোও ............১১১১১১, । এদিন এখন সভাত সি ছহিদসকলৰ বিষয়ে | তজ্বজীয়া\nকৈ আছিল। তাৰ ভাষণ শুনি লগৰীয়াৰ চকু _...................-এ%৷ হৈছিল।      &&\nখপ্‌্জপ্‌\n\n* পাঁচটা ধেমেলীয়া কবিতা সংগ্ৰহ কৰা। সেই কবিতাৰ নাম আৰু কবি পৰিচয় দি এখন প্ৰাচীৰ\nপত্ৰিকা প্ৰস্তুত কৰা আৰু সকলোৱে পঢ়িব পৰাকৈ শ্ৰেণীকোঠাৰ বেৰত আঁৰি থোৱা।\n\n* দেনন্দিন জীৱনত কথা কওঁতে সচৰাচৰ ব্যৱহাৰ কৰা বিশটাকৈ বিশেষ্য পদ আৰু অনুৰূপ\nশব্দ তলৰ তালিকাত লিখা।\n\nবিশেষ্যপদ =         অনুৰূপ শব্দ",
+  "confidence": {
+    "word_count": 127,
+    "mean": 84.62,
+    "median": 93.26,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.769,
+  "page_elapsed_seconds": 3.072,
+  "peak_process_tree_rss_bytes": 244191232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

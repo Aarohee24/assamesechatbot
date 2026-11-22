@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[0\n\n(গ) মৌ-মাখিয়ে হেনো ৰঙা ৰং ধৰিব নোৱাৰে।\n(ঘ) কিছুমান চৰায়েও আমাৰ দৰে ৰং চিনি পায়।\n(৬) মানুহে অতিবেঙুনীয়া ৰংটোও দেখে।\n\nখ --- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nতলত আঁচ দিয়া যুক্তাক্ষৰকেইটা ভাঙি দেখুওৱা।\n\nপেঞ্চিল,        বিজ্ঞানী,        চিম্পাঞ্জী,        বায়ুমণ্ডল\n\nপাঠটোত ৰঙা, ৰঙীন, নীলা, সেউজীয়া, সোণোৰালী আদি বিশেষণবোৰে কি\nকি পদৰ গুণ বুজাইছে লিখা।\n\nতলত অৰর্থৰে সৈতে শব্দ দিয়া হৈছে। সেই শব্দবোৰেৰে বাক্য সাজা।\nৰং (আনন্দ, ধেমালি) --\n\nৰং (বৰণ) --=\n\nবহুৰঙী (কেইবা ৰঙৰ) --\n\nৰঙীন (ৰংযুক্ত) --\n\nৰঙিল (ৰং বোলোৱা) ---\n\nৰঙিলী (ৰঙিয়াল তিৰোতা) --\n\nৰঙালী (আনন্দপূৰ্ণ, ধেমেলীয়া, ব’হাগ বিহু) -_\n\nৰঙিয়াল (আমোদী, ৰং লগোৱা, আনন্দময়) --\n\nৰঙচুৱা (অলপ ৰঙা বৰণৰ) --\n\nৰংচঙীয়া (বিবিধ বৰণৰ সাজ-সজ্জা) --\n\nৰং-ধেমালি (আমোদ-প্রমোদ, মনৰ আনন্দৰ কাৰণে কৰা ধেমালি) -=\nৰং-ৰহইছ (হাঁহি-ধেমালি, ৰগৰ) --\n\nলস নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 122,
+    "mean": 87.55,
+    "median": 93.16,
+    "minimum": 13.63,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.489,
+  "page_elapsed_seconds": 3.866,
+  "peak_process_tree_rss_bytes": 242618368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 97,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে আলুৰ চিপচ্‌ খাই ভাল পোৱা নেকি? এই খাদ্যবোৰ সোৱাদলগা কিন্তু\nআমাৰ স্বাস্থ্যৰ বাবে ক্ষতিকাৰক। এইবোৰ হৈছে অস্বাস্থ্যকৰ স্নেহপদাৰ্থ থকা ভজা খাদ্য।\nএইবোৰ বেছিকৈ খোৱাটো আমাৰ স্বাস্থ্যৰ কাৰণে ক্ষতিকাৰক। কেণ্ডিবাৰ আৰু চেনিযুক্ত\nপানীয়তো উচ্চ মাত্ৰাত শৰ্কৰা থাকে। এই খাদ্যবোৰত ভিটামিন, খনিজ লৱণ আৰু আহঁযুক্ত\nখাদ্য কম থাকে। এই ধৰণৰ খাদ্যক ‘জাংক ফুড’ বুলি কোৱা হয়। বেছিকৈ জাংক ফুড সেৱন\nকৰা এজন ব্যক্তিয়ে মেদবহছলতাত আৰু ভিটামিনৰ অভাৱজনিত ৰোগত ভুগিব পাৰে।\n\nএটা স্বাস্থ্যবান শৰীৰ পাবলৈ আমি সুষম আহাৰ খোৱা উচিত আৰু জাংক ফুড\nপৰিহাৰ কৰিব লাগে।\n\n[] ক্ৰিয়া-কলাপ 3.5:\nতোমালোকে এসপ্ডাহত কি কি খাদ্যখোৱা তাৰ তালিকা এখন ক্ৰিয়া-কলাপ 3.1 ত\nকৰিছিলা। এতিয়া তোমালোকৰ বৃদ্ধি আৰু বিকাশৰ বাবে যিবোৰ উপাদান লাগে সেই\nসকলোবোৰ তালিকাখনত অন্তর্ভুক্ত হৈছেনে নাই পৰ্যবেক্ষণ কৰ৷। যদি হোৱা নাই\nতেনেহলে আৰু কি খাদ্য লাগিব লিখা।\n\n[] ক্ৰিয়া-কলাপ 3.6:\n\nতলত এটা আলুৰ ৱেফাৰৰ পেকেট আৰু এটা তেল নিদিয়াকৈ ভজা বুটমাহৰ\nপেকেটৰ পোষক দ্ৰব্য সমূহ দিয়া আছে। তোমালোকে পঢ়ি দুয়োটা পেকেটত থকা\nপৌষ্টিক তথ্য সমূহৰ তুলনা কৰা\n\nতালিকা 3.6: পৌষ্টিক দ্ৰব্যৰ তুলনা\n\nশক্তি               536.0 10081              শক্তি               355 10081\n\nচৰ্বি               35.08              চৰ্বি              6.26.8\n\nকাৰ্ব’হাইড্ৰেট           53.08          কাৰ্ব'হাইড্ৰেট         58.586\n\nপ্রটিন               7.08              প্রটিন             18.64 8\n\nআইহঁযুক্ত খাদ্য          4.88         আইহঁযুক্ত খাদ্য         16.885\n\nওপৰত দিয়া খাদ্য সামগ্ৰীৰ পৰিপোষকবোৰৰ তুলনা কৰি তুমি কোনবিধ খাদ্যখোৱা উচিত\nবুলি ভাবা আৰু কিয়?\n\nভূততেঁততততত তত তত তত ০০০০০ তত ০০০০ত ০০,০০০০০০০,০০,০০, ০,লে)",
+  "confidence": {
+    "word_count": 211,
+    "mean": 84.95,
+    "median": 93.31,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.513,
+  "page_elapsed_seconds": 3.895,
+  "peak_process_tree_rss_bytes": 317710336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

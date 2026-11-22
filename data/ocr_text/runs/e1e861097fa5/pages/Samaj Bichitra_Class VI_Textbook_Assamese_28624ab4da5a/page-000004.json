@@ -1,0 +1,62 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০.%[[.%<} }}[(']]]['[]$/১ : ৮খ%৮,$])[;5]] ]}]])[;5]](00]$ ৪./%[]/%<} |7/%1[ং][0']] /%/ £ /% (6স|-\n12001 101\" 01899 ৬ ][ 111 /*৪৪৪111292 11]160101]1 026%610]260. 60%) ০0:]+]২], /১৪৪৪.17]7,\n৪812])[0%4620. 00% ])6 004, 01 /১৪৪৪1]] 8110 ])0[0[19])60 [0% ]16 /১৪৪৪1]) ১0৪0০\n\n'[6%00001< ]\"/\"0000.00101] ৪9110 [200]1090101] (701]2018.101] [.[0]., 30%8]|1801 01]\n\n126]18]1{ 01 070. 01 /১৪৪৪]]].                                        ]\"]২]:]\" []\"/ং]]0)0)]<\n\n/%]] 110]1(59 1\"6861\"460] : ]}খ0 16])[000000101] 1[] ৪11) [011]] 01 {]}}19 60013. 11] ৬%/|101]2\n01 11] ])801[[( (6১%০০])[ [01[' 01161 000080101] 1]] ম11108.[ 81010129 01\" 16%16%%9), 18%) 126\n18062 \"%1{|]10100[ ঘা ]{[21] 8.00|]1011281101] [11\"01]] 1]16 ])00]19]]121',\n\nগ্ৰন্থস্বত্ব    রু   ৰাজ্যিক শিক্ষা-শৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ, অসম\nপ্রথম প্ৰকাশ ৪    ২০২৪\n£ {?{0095%[ কাগজত মুদ্ৰিত পাণ্ঠযপুথি\nপ্রকাশক     £ _, অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন\nআৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি\n\nকুমাৰপাৰা, গুৱাহাটী-৯",
+  "confidence": {
+    "word_count": 121,
+    "mean": 49.63,
+    "median": 44.17,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9733,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3376,
+  "ocr_elapsed_seconds": 3.187,
+  "page_elapsed_seconds": 7.577,
+  "peak_process_tree_rss_bytes": 261373952,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

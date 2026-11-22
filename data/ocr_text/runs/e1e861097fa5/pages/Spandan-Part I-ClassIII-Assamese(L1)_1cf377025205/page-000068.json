@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 68,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গু চা\n\n(জ্ৰিয়াকলাপ\n\n==-====স_\n\nৰ ১। আলোচনা কৰোঁ আৰু লিখোঁ আহা---\nক) ঘৰবোৰ কোনে সাজে বুলি কবিয়ে কৈছে?\nখ) মিস্ত্ৰিয়ে ঘৰৰ বাহিৰে আন কি কি সাজে?\nগ) কবিৰ দেউতাকে চোলাবোৰ ক’ৰপৰা আনি দিয়ে?\nৰ     ঘ) আকাশ গঢ়োঁতা খনিকৰজনক চিনি পালে কবিয়ে কি সুধিলেহেঁতেনঃ\nঙ) কবিয়ে আকাশ গঢ়োতা খনিকৰ বুলি কাক বুজাইছে?\n\n/* ২। কবিৰ মনত উদয় হোৱা উত্তৰ নোপোৱা প্ৰশ্নবোৰৰ কাষত থকা৷ ‘6’ চিনটো\n\nপূৰোৱা -_\n\nক) ধুনীয়া আকাশখন কোনে সাজে?\n\nখ) চোলাবোৰ বজাৰৰপৰা কোনে আনি দিয়ে?\n\nগ) ধুনীয়া আকাশখনত কোনে তৰা আঁকি দিয়ে?\nঘ) ফুলবোৰে ৰঙা-নীলা চোলাবোৰ ক’ত পায়?\nঙ) আকাশ গঢ়োঁতা খনিকৰজন কোন?\n\nচ) ফুলবোৰক চোলা কোনে,কিনি দিয়ে?\n\n2262 ভঞ&&০ =\n\n3 ৩। (ক) পঢ়ো আহ৷:-=\n\nঘৰবোৰ হেনো      সাজে মিস্ত্ৰিয়ে\nআৰু সাজে মেজ চকী,\n\n91] }\n\nনিৰস্তু        শাস্ত্ৰ        শাস্ত্ৰী\nজানো আহা--\nমিস্ত্ৰি--স্্ঞ> স্্‌+তৃ্‌+ৰ\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 130,
+    "mean": 82.5,
+    "median": 93.11,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.776,
+  "page_elapsed_seconds": 4.668,
+  "peak_process_tree_rss_bytes": 225636352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]) সম]]ব]\"্ছ/%']' : []ৰ]]']\" ), ]3]{ /%/)%(83' ;-_]\"|})00]; [00[' (\"1৭85 \"4\" [] 00['|]1৮ []|9]।\nদিি]।9559, \"00101 560.11] %35301103%, ছখা]]|0]1] })%' [গা0], ]70]]810] /*%]] ['])0)1010]]]|][%/,\n8][)])[0%; 2 |) ||10৮ ]}000] 0)[ 5040011031) ]\"0]0101101, ১%8320] গ0]0] [)1]]}]19}]0%0]\n]}%' ]']106 চি3সগ্ৰা]1 5130 \"]তখ1}}0%0]; |)[000101]00] আ0| |) ।1})]10:|107] (\"0[])%0[3110]]\n[]}1]}[20, (310%%3101[1,                                           ঢচা]ক]] []]]ন000]ধ\n\n4৯1] ]].2]}153 16307 2}, : ]খ0) 11')11000101101] 1] 0]! |{)]]]] 10|'1]]}9 |)080];, ||] খ%]]1)|(\n00011] [)থ[ (2ঢ%খ০০])} [0] |)[10[ (]010)[30101), 1}]] 01]110:9], 8আ[|110]109 0007 10% 10737, ]]]8/\n[2 10]060 ছঘ|[]]0)1}} ছছ]|[|00} 800|]]0)[1 73110], [|[)]]] 1]]0 []11])]19]10,\n\nটু    £ অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু\nপ্ৰকাশন নিগম লিমিটেড্‌, গুৱাহাটী\n\nপ্রথম প্ৰকাশ       ১৯৯৫\n\nপ্ৰথম প্ৰকাশ     $ ১৯৯৯ (ফেব্ৰুৱাৰী), ১৯৯৯ (ডিচেম্বৰ), ২০০৪, ২০০৫,\n২০০৬, ২০০৭, ২০2৮, ২০০৯, ২০ %০, ২০১০১ %, ২০১৩২,\n২০৬৩ত\n\nত্ৰয়োদশ তাউৰণ }॥} ২০১৪\n\n-\n\nঅসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে\nঅসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু প্ৰকাশন নিগম\nলিমিটেডৰ দ্বাৰা প্ৰকাশিত পাঠ্যপুথি।\n\n্\n\nজনমভূমি প্ৰেছ প্ৰাঃ লিঃ\nগুৱাহাটী-১৬\n\n1)",
+  "confidence": {
+    "word_count": 126,
+    "mean": 45.22,
+    "median": 39.11,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9863,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1254,
+  "image_height": 2131,
+  "ocr_elapsed_seconds": 2.28,
+  "page_elapsed_seconds": 2.377,
+  "peak_process_tree_rss_bytes": 237666304,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৩             দধীচি মুনি           স্তত্ৰস্তুক্ৰদ্ধজ\n\n(পৰোপকাৰ পৰম ধৰ্ম)\n\nআগৰ দিনত এবাৰ দেৱতা আৰু অসুৰবিলাকে সাগৰ মথি অমৃত উলিয়াইছিল।\nঅমৃত খালে কোনো মানুহ বুঢ়া নহয়, নমৰেও।\nদেৱতাসকল সাধাৰণতে বুধিয়ক--- কিন্তু দুৰ্বল অসুৰবিলাক হ’লে ভোদা-- অথচ\n\nদুৰ্দান্ত। দেৱতাসকলে অসুৰক অলপো ভাগ নিদিয়াকৈ গোটেইখিনি অমৃত খাই পেলালে।\nঅসুৰবিলাকৰ ৰজা বৃত্ৰাসুৰ। তেওঁ বৰ প্ৰতাপী ৰজা আছিল। বহুদিন তপ কৰাৰ পাছত তেওঁ\nসদাশিৱৰ বৰ পাইছিল যে কোনো ত্যাগী মহাপুৰুষৰ দেহৰ হাড়েৰে তৈয়াৰ কৰা অস্ত্ৰৰ\nপ্ৰহাৰতহে তেওঁৰ মৰণ হ’ব। এনেই অঘাইতং অসুৰ, তাতে আকৌ এনেহেন বৰ! বৃত্ৰাসুৰক\nপায় কোনে? ধিন্দাও-ধিতাও কৰি নাচিবলৈ ধৰিলে।\n\nদেৱতাসকলে ছল-চক্ৰমন্ত কৰি অমৃতৰ ভাগ নিদিয়াৰ বাবে অসুৰবিলাকৰ বৰ খং\nউঠিল। এইটো কাৰণ লৈয়েই শেষত দুয়ো পক্ষৰ মাজত তায়া ময়া যুদ্ধ আৰম্ভ হ’ল। সেয়ে\nনাম পালে দেৱাসুৰ যুদ্ধ।\n\nদেৱতাসকলে যুদ্ধত ঘাটি, স্বৰ্গৰপৰা খেদা খাই আহি পৃথিৱীৰ হাবিয়ে-বননিয়ে",
+  "confidence": {
+    "word_count": 124,
+    "mean": 90.42,
+    "median": 95.88,
+    "minimum": 8.57,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.649,
+  "page_elapsed_seconds": 2.969,
+  "peak_process_tree_rss_bytes": 223973376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

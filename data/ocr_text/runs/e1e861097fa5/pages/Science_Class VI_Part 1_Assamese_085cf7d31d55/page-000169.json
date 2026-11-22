@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 169,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে জানানে?\nকেতিয়াবা সাধাৰণ ভাষাত ভৰৰ বাবে ওজন বাৱহাৰ কৰা হয় । কাৰণ ইয়াক ওজন কৰি\nনিঘারৰৰণ কৰা হয় । ওপৰৰ শ্ৰেণীত তোমালোকে ভৰ আৰু ওজন আৰু ইহঁতৰ সন্পৰকৰ্ৰ\nবিষয়ে অধিক জানিব পাৰিবা ।\n\n5.2.7 আয়তন\n\nযি কোনো বস্তুৱে কিছু ঠাই আগুৰে। তোমালোকৰ ঘৰতে চোৱাচোন।৷ বাকচ, আলমাৰী,\nক্ৰিকেট বেট, বল ইত্যাদিৰ প্ৰত্যেকেই কিছু ঠাই অধিকাৰ কৰি থকা নাইনে? স্কুললৈ অনা\nতোমাৰ বেগটোৱেও কিছু ঠাই আগুৰে। সেই কাৰণে তুমি বহা বেঞ্চখনত বেগটো থ’লে\nআমে বহিব নোৱাৰিব। একেদৰে তোন৷লে৷কবৰ শ্ৰেণীকোঠা বা ঘৰটোৱেও ঠাই আগশগুৰে।\nশ্ৰেণীকোঠাতকৈ ঘৰটোৱে নিশ্চয় বেছি ঠাই আগুৰে, নহয় জানো ? বস্তু এটাই যিখিনি ঠাই\nআগুৰে সেয়ে বস্তুটোৰ আয়তন।\n\n[] কজ্ৰিয়া-কলাপ 5.11:\n\nএটা পৰীক্ষা কৰাচোন। পৰীক্ষাটোৰ বাবে তোমাক লাগিব দুটা কাচৰ গিলাচ, এটা\nনেমুটেঙা আৰু এজগ পানী৷ এটা গিলাচৰ মুখলৈকে পানী ভৰোৱা ৷ এতিয়া গিলাচটোত\nনেমুটেঙাটো ভৰাই দিয়া। কি দেখিলা ? গিলাচৰপৰা কিছু পানী পৰি গ’ল, নহয় জানো?\nআনটো গিলাচ পানীৰে পূৰ্ণ কৰা। পানীপূৰ্ণ গিলাচটোত আৰু অধিক পানী ঢালিবলৈ\nচেষ্টা কৰা। কি হ’ব? নিশ্চয় কৈ কিছু পানী ওলাই যাব।\n\nচিত্র 5.11(0) ১: নেমুটেঙাৰ আয়তন          চিত্র 35.110) : পানীৰ আয়তন\n\nপ্রথম গিলাচটোত নেমুটেঙাটো ভৰাই দিওঁতে পানী কিয় পৰি গ’ল? কাৰণ\nনেমুটেঙাটোৱে গিলাচৰ ভিতৰৰ কিছু ঠাই আগুৰি ল’লে৷ নেমুটেঙাটোৱে যিখিনি ঠাই আগুৰি\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,08)",
+  "confidence": {
+    "word_count": 204,
+    "mean": 82.68,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.348,
+  "page_elapsed_seconds": 3.746,
+  "peak_process_tree_rss_bytes": 303718400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

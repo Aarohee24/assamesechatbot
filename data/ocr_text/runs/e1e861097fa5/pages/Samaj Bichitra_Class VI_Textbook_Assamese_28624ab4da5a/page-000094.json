@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 94,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বৃহদেশ্বৰ মন্দিৰ                 তামিলনাডু\n\nসূৰ্য মন্দিৰ                    উৰিষ্যা\n\nবিৰুপাক্ষ মন্দিৰ                  কৰ্ণাটক\n\nমিনাক্ষী মন্দিৰ                       তামিলনাডু\n\nলিংগৰাজ মন্দিৰ                       ওড়িছা\n\nঅজন্তা আৰু ইলোৰা গুহাসমূহ        মহাৰাষ্ট\n\nসাঁচিৰ বৌদ্ধ স্তপসমূহ              মধ্যপ্ৰদেশ\n\nসাৰনাথৰ স্তম্ভ                উত্তৰ প্ৰদেশ         _্ঘ্‌কে\nঅনুশীলনী -৪\n\nতলত দিয়া প্রশ্নবোৰৰ উত্তৰ লিখা--\n\n(ক) গুপ্তযুগক কিয় সোণালী যুগ বুলি কোৱা হৈছিল?\n\n(খ) কালিদাসে লিখা তিনিখন নাটকৰ নাম লিখা ।\n\n(গ) বৰ্তমানৰ নাম প্ৰয়াগৰাজ প্ৰশস্তিৰ লেখক কোন-আছিল?\n\n(ঘ) দ্বিতীয় চন্দ্ৰগুপ্তৰ সভাসদ অমৰসিংহই ৰচনা কৰা অভিধানখনৰ নাম কি?\n(ঙ) দক্ষিণ ভাৰতত কি কি ভাষাত নাটক, কবিতা আদি ৰচনা কৰা হৈছিল?\n\nধাৰণা চিত্ৰ (-000০[){1191)) 9\n\nউত্তৰ ভাৰতত শাসন কৰা কেইটামান প্রধান ৰাজবংশ\n                   |\nমৌৰ্য              শূংগ                কথ্‌                চেদী                 গুপ্ত\nদৃক্ষিণ ভাৰতত শাসন কৰা কেইটামান প্রধান ৰাজবংশ\nন-আলি                |\nপল্লৱ; = পাণ্ড           চোল          চেৰা            চালুক্য সাতবাহন\n\nপ্রাচীন ভাৰতৰ ৰাজবংশ আৰু সমাজ",
+  "confidence": {
+    "word_count": 119,
+    "mean": 85.11,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.363,
+  "page_elapsed_seconds": 2.616,
+  "peak_process_tree_rss_bytes": 296497152,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 116,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুজ্ঞাৰ বিভক্তি\nদ্বিতীয় পুৰুষ              তৃতীয় পুৰুষ\nলি                তুচ্ছাৰ্থত বা অনাদৰ | আদৰ অৰ্থত| সি, আপুনি,\nঅর্থত             তুমি,            তেখেত\nতই, তহঁত        তোমালোক\nনিত্য বৰ্তমান | অ                   আ         অক বা ওক\nকাল আৰু\nভৱিষ্যত কাল | ইবি                    ইবা          ইব\nদ্বিতীয় পুৰুষ               তৃতীয় পুৰুষ\nকাল             তুচ্ছাৰ্থত বা অনাদৰ| আদৰ অৰ্থত\nঅৰ্থত\nনিত্য বৰ্তমান       ল,ৰ          লোৱা       লওক, হওক\nকাল                  ক,হ                 ৰোৱা                ৰওক\nকোৱা            কওক\nহোৱা\nভৱিষ্যত কাল         ল’বি,ৰ’বি          ল'বা ল'ব\nকাৰ্বি, হ’বি           ৰবা      ৰ'ব\nক’বা      ক’ব\nহ’বা      হ’ব\n\n৷  ‘গা’আৰু ‘খা’ ক্ৰিয়াপদকেইটা (অনুজ্ঞা)ত বিভক্তি যোগ কৰি নিত্য বৰ্তমান আৰু\n=== ভৱিষ্যত কালৰ ৰূপত লিখা।\n(অনুজ্ঞাৰ নিত্য বৰৰ্মান কালৰ দ্বিতীয় পুৰজত্ধখৰ আদৰ অথত আঁ যোগ হোৱাৰ কথা পৰন্পৰাগত\nব্যাকৰণত আছে। আধুনিক অসমীয়াত চন্দ্ৰবিন্দু (>) টো উঠি গৈছে।)\n্ী তলৰ শব্দকেইটাৰে বাক্য ৰচনা কৰা।\n= হিয়ামন ধুই পখালি দৃঢ়তা নিকা",
+  "confidence": {
+    "word_count": 124,
+    "mean": 83.88,
+    "median": 93.16,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.822,
+  "page_elapsed_seconds": 3.132,
+  "peak_process_tree_rss_bytes": 242872320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,68 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৭। তলৰ ছবিখন চোৱা আৰু তাত প্রকাশ পোৱা কথাখিনি কোৱা।\n\n4১% ্ঠ/         =\n\nৰ      ৱৰ্্\nন সাম্দধন ৰি ৬ ২১৮ ৮. (২ ক\n' \"ছান,\n\nভ্ক্-\n\nঢ্ % = =\nন বং ৰ   92 (৪৯১    ছঞগ।১৯ দে।।১৯ “বিট\nঢ়                     খ-- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n(ক) শব্দৰ আগত ত্ৰি’শব্দ লগাই নতুন শব্দ গঠন কৰা আৰু অৰ্থ জানি লোৱা।\nজগত | ত্ৰিজগত           শূল\nভুজ                         কোণ\nকাল                         নয়ন\n\n(খ) তলত দিয়া শব্দবোৰৰ আগত ‘বি’ পূৰ্বসৰ্গ লগ লগাই সেইবোৰেৰে অৰ্থ প্ৰকাশক\nএকোটা বাক্য ৰচনা কৰা।\n\nমুখ,     দূৰ,     কিৰণ,   নন্দ\n৯। তলৰ ব্ৰজাৱলী ভাষাত লিখা বাক্য চাৰিশাৰী আধুনিক অসমীয়ালৈ ৰূপান্তৰ কৰা।\n(ক) ৰয়নী বিদূৰ দিশ ধৱলী বৰণ।    (খ) শতপত্ৰ বিকশিত ভ্ৰমৰ উৰায়।\n(গ) দাম-সুদাম ডাকে তেৰি লৈয়া নাম। (ঘ) ক্ষীৰ লৱনু লৈয়া শিঙা বেত বেণু ।\n১০। এটা শব্দত প্ৰকাশ কৰা।\n\nগৰু বন্ধা ঠাই    -__। যিজন সকলোৰে মাজতপ্রিয় ==\nযিয়ে ৰাতি নেদেখে -=---৷| যাক সহজে লাভ কৰিব নোৱাৰি == ৷\nযিজনে সকলো জানে--_-। যিজনে বিষ্ণুক উপাসনা কৰে ===]\n\n<€2>>",
+  "confidence": {
+    "word_count": 25,
+    "mean": 57.73,
+    "median": 63.48,
+    "minimum": 0.0,
+    "maximum": 96.74
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 159 diacritics",
+        "Detected 159 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.127,
+  "page_elapsed_seconds": 3.561,
+  "peak_process_tree_rss_bytes": 281665536,
+  "tesseract_warnings": [
+    "Detected 159 diacritics",
+    "Detected 159 diacritics"
+  ],
+  "processed_this_run": true
+}

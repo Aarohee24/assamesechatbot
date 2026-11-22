@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৫। বৃত্তৰ পৰা শব্দ আনি এটা শব্দত প্রকাশ কৰা।\n\nজালেৰে মাছ মৰা মানুহ\nৰোগীক চিকিৎসা কৰা ঠাই\nবনত থাকে যি\nজলত জন্ম হয় যাৰ\n\n৬। যুক্তাক্ষৰ ভাঙি পঢ়োঁ আৰু লিখোঁ আহা--\n\nবিন্ধা  ন্ধ ন+ধ নই ধই-ব্ধ\nকন্ট  নষ্ট ষ-ট  ষই টই--ষ্ট\n\n৭। দলত আলোচনা কৰি শব্দ গঠন কৰি সেই শব্দৰে বাক্য গঠন কৰা।\n\nস+ক   কি বৰ আন শগি নাম আঙ্কৰ।\nঅস্কাৰ|--- অস্কাৰ এবিধ আন্তৰ্জাতিক বোলছবি বঁটা\n\nনদ  গ্ত্‌\nন7 ধ  ঢ়",
+  "confidence": {
+    "word_count": 75,
+    "mean": 79.8,
+    "median": 94.88,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8-page-000076.png",
+  "page_image_sha256": "8d7e2b1bb15bb8be9bc26b8c342724e9febd2a200eed96a0b5e87da5eee29d41",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.717,
+  "page_elapsed_seconds": 1.936,
+  "peak_process_tree_rss_bytes": 149508096,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

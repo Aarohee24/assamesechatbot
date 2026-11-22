@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 88,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চৰকাৰৰ সহযোগত অসমত কিছুমান উদ্যোগ গঢ় লৈ উঠিছে। তলৰ তালিকাখনৰ পৰা\nঅসমৰ বিভিন্ন জিলাত থকা কিছুমান উদ্যোগৰ নাম, তাত ব্যৱহৃত কেঁচামাল আৰু উৎপাদিত\nসামগ্ৰীবোৰৰ নাম জানি লও আহা--_\n\nকেঁচামাল  উদ্যোগ     উৎপাদিত সামগ্ৰী    ক’তআছে\nনেফথেলিন,ৰন্ধন গেছ          নুনমাটি,বঙাইগী৷ও\n\nপ্রাকৃতিক গেছ গেছপ্লাণ্ট      বিদ্যুৎ শক্তি           কঁঠালগুৰি\n\nপানী      শক্তি উদ্যোগ বিদ্যুৎশক্তি (জলবিদ্যুৎ) ভউমৰাংছু’(কপিলী),\nকাৰ্বি লাংপি\n\nপ্রাকৃতিক গেছ শক্তি উদ্যোগ বিদ্যুৎ শক্তি           নামৰূপ\n\nচূণশিল    বিলাতী মাটি _ বিলাতী মাটি           বোকাজান\n\nপ্রাকৃতিক গেছ সাৰ উদ্যোগ     ৰাসায়নিক সাৰ            নামৰূপ\n\nখাৰুৱা তেল পেট্ৰ’কেমিকেলছ প’লিয়েষ্টাৰ, পলিথিন    বঙাইগাঁও\nমৰাপাট মৰাপাট উদ্যোগ থৈলা৷,কাপেট, বেগ,ৰছী শিলঘাট\n\nদলগত কাৰ্য (শিক্ষকে সহায় কৰিব)\n> তোমালোকৰ অঞ্চলত থকা প্রাকৃতিক সম্পদসমূহৰ এখন তালিকা প্রস্তুত কৰা।\n\n>> তোমালোকৰ অঞ্চলত কি কি কেঁচামাল ব্যৱহাৰ কৰি কি কি উদ্যোগ গঢ়ি উঠিছে লিখা ।\nজানিলওঁ আহা--\n\nগু ১৮৬৬ চনত বৃটিছেপ্রৰথম অসমত খাৰুৱা তেল আৱিষ্কাৰ কৰিছিল।\n\nগু ১৮২৫চনত অসমত প্ৰথম কয়লা খনিৰ আবিষ্কাৰ হৈছিল।\n\n১৮৩৭ চনত অসমত প্রথমখন চাহ বাগিচা স্থাপন হৈছিল।\n\n€ ১৯৫৮ চনত বৰুৱাবামুণ গাঁৱত চেনি উদ্যোগ স্থাপন হৈছিল।\nএখন দেশত মজুত থকা কেঁচামালৰ ওপৰত ভিত্তি কৰিয়েই কিছুমান উদ্যোগ গঢ়ি উঠে। কেতিয়াবা\nপ্রাকৃতিক সম্পদ মজুত থাকিলেও কোনো এখন ঠাইত উদ্যোগ গঢ়ি উঠা সম্ভৱ নহ’বও পাৰে।",
+  "confidence": {
+    "word_count": 175,
+    "mean": 86.47,
+    "median": 94.98,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.268,
+  "page_elapsed_seconds": 3.571,
+  "peak_process_tree_rss_bytes": 238931968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

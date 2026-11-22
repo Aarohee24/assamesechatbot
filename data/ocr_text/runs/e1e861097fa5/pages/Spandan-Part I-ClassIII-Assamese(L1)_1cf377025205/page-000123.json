@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 123,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[ঘনকৰ জল হম\n\n(ক) পুৱা-গধূলি খোজকঢ়া _ (গ) বিয়লি পঢ়াৰ আগতে প্ৰাৰ্থনা কৰা৷\n\n(খ) ৰাতিপুৱা খেলা      (ঘ) কচৰৎ কৰা      কে) ঞে) গে ভ্ষে\nৰ + “আজি কাহিলিপুৱাতে সি চৰাই-চিৰিকটিৰ মাত শুনি সাৰ পালে।”--ইয়াত\n\nকাহিলিপুৰা শব্দটোৱে কোনটো অৰ্থ বুজাইছে?\n\n(ক) ধলপুৱা          (গ) বেলি মাৰ যোৱা               ণ্ৰ\n\n(খ) বিছনাৰ পৰা উঠা     (ঘ) বেলি উঠা      বে). হেট গে দ্বে| +=\nঠ/ + প্রাতঃল্ৰমণত সাধাৰণতে তলৰ কোনটো কাম কৰা হয়?\n\n(ক) পানী খোৱা        (ক) চকু মোহৰা\n\n(ক) খোজকঢ়া         (ক) শুই উঠা       কে শ্রৰ গে) থ্বে)\n\n23=৩। ক) তোমালোকে পাঠত ‘ৰাস্তা’ আৰু ‘বস্তু’ এই শব্দদুটা পাইছা। এই যুক্তাক্ষৰ থকা\nআন কিছুমান শব্দ পঢ়ি চাওঁ আহা--\n\nৰাস্তা বস্তা বাস্তৱ সস্তা\nবস্তু স্তুপ স্তুতি প্রস্তুত\n\nখ) তলৰ ‘চন্দ্ৰ: আৰু ইন্দ্ৰ’ শব্দ দুটাৰ লগত আন আন শব্দ লগ লগাই নতুন শব্দ\n\nলিখোঁ আহা--\nউদ্দাহৰণ% চন্দ্ৰ=_* চন্দ্ৰবিন্দু, .....................\nইন্দ্ৰ --> ইন্দ্ৰজাল, .................\nঠ//৪ ৷ তলৰ বাক্যবোৰৰ পদবোৰ সানমিহলিকৈ দিয়া আছে। সেইবোৰ সঠিক ক্ৰমত\nসজাই বাক্য লিখা---\n\nউদাহৰণ ঃ ঘৰলৈ ৰাস্তাৰপৰা আহিলে আটায়ে। => ৰাস্তাৰপৰা আটায়ে ঘৰলৈ আহিলে।\nদাঁত মাজে শুবলৈ যোৱাৰ আগত। =\nচিপ্‌চৰ লাৰু-পিঠা সলনি সি খায়। =>\nসি প্রাৰ্থণা পঢ়াৰ কৰে আগত। =\nপেট নাখায় পূৰাই সি কেতিয়াও। =>\n\n১২৩,           অধ্যায় ৯ ঃ স্বাস্থ্য আৰু সু-অভ্যাস",
+  "confidence": {
+    "word_count": 189,
+    "mean": 79.67,
+    "median": 92.37,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.253,
+  "page_elapsed_seconds": 5.301,
+  "peak_process_tree_rss_bytes": 223834112,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্গীনিয়াত           =>\n\nসেইটো তেখেতৰ অভিপ্ৰায় অনুসৰি সজাইছিল নে আল্লাহতাআলাৰ\nনিৰ্দেশ অনুযায়ী সজাইছিল?\n\nউত্তৰ- হজৰত জিব্ৰাইল (আঃ)এ ছুৰাবোৰৰ সংখ্যা, আৰম্ভণী, শেষ আৰু\nপ্ৰত্যেক ছুৰাৰ আয়াতৰ সংখ্যা, আৰম্ভণী, শেষ আৰু গোটেই খন\nকোৰআন মজীদৰ অৱস্থা আল্লাহতাআলাৰ পৰা অৱগত হৈ হজৰত\nমহস্মদ (ছঃ)ক শিকাই দিছিল। সেই মৰ্মে তেখেতে লিপিবদ্ধ কৰাইছিল।\nশেষত আমি হজৰত মহম্মদ (ছঃ)ৰ পৰা জানিব পাৰিছো।\n\nপ্ৰশ্ন- কোৰআন মজীদ অদসতীৰ্ণ হোৱা আজি ১৪০০ বছৰ অতীত হৈ গ’ল;\nবৰ্তমান কোৰআন মজ্ঞীদখনেই হজৰত মহস্মদ (ছঃ)ৰ প্ৰতি অৱতীৰ্ণ\nহোৱা কোৰআন মজ্ঞীদ তাৰ প্ৰমাণ কি?\n\nউত্ত ৰ- বৰ্তমানৰ কোৰআন মজীদখনেই যে, হজৰত মহম্মদ (ছঃ)ৰ প্ৰতি\nঅৱতীৰ্ণ হোৱা কোৰআন মজীদ 'তাৰ বহু প্ৰমাণ আছে। কেইটামান সহজ\nপ্ৰমাণ উল্লেখ কৰা হ’ল।\n১ ৷ কোৰআন মজীদৰ মুতাৱাতিৰ (/_)1 $_ =*) হজৰত মহম্মদ (ছঃ)ৰ\nযুগৰ পৰাই আজিলৈকে কোৰআন মজীদখন কোনো প্রৰৰিবৰ্তন\nনোহোৱাকৈ লিপিবদ্ধ হৈ আহিছে। নিৰ্ভুল আৰু কোনো ধৰণৰ সন্দেহ\nনোহোৱাকৈ আজিলৈ কোৰআন মজীদ প্ৰকাশ হৈ আছে।\n\nপ্ৰশ্ম- মুতাৱাতিৰ (771 $=*+) আৰু তৱাতুৰ (71 }7) মানে কি?\n\nউত্তৰ- যিটো বিষয় নিঃসন্দেহ্ত আৰু অতি নিৰ্ভৰ যোগ্য তাকে মুত্যৱাতিৰ\nবোলে। এই বিষয়টো নিৰ্ভৰ যোগ্াযভাবে যুগে যুগে লিপিবদ্ধ হৈ অহাকে\nতৱাতুৰ বোলে৷\n\nহজৰত মহম্মদ (ছঃ)ৰ যুগৰ পৰাই ইমান বেছি সংখ্যক লোকে এই\n\nকোৰআন মজীদৰ প্ৰতিলিপি লিখি আহিছে, ইয়াক পঢ়ি আৰু পঢ়ুৱাই\nআহিছে যে, এজন সাধাৰণ জ্ঞানবুদ্ধিৰ মানুহেও ইয়াক মিছা বুলি ধাৰণা\nকৰাটো সম্ভৱ নহয়।",
+  "confidence": {
+    "word_count": 202,
+    "mean": 84.59,
+    "median": 92.7,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.516,
+  "page_elapsed_seconds": 2.632,
+  "peak_process_tree_rss_bytes": 250015744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

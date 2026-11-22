@@ -1,0 +1,63 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 44,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[গ[001%[ 0} 31625 05597] \"0 5]]{}%% 1] |} []]0' [018 |[) |)|0'%% |\n\n=                         ডু] 001.10 4%খ11.}\"51.5 =\n| ন ৪৭০৮০)\n[ভল্ল [|];\n\n8501৮ 091৮6 07| []}2 |0[চভ|[এ [00] য0]0]18]8, |]16\n]2 81% ো00[গৌ| |র%'5 ঘ্য| ]7||৮%, প]]}0105 9010]\n[া}|1৮]25 18} [01291 0810 15% দে |], দি || 0]|1ল9\nদুবলা], 018110718| [স[|05, [0]609])]1 \"6116 52%;\n\n216., গছ [ঠাব|26০12809| 0285, [0৮ সেঞ৪2াসখিব 10 |\n\n[0] গ[= ঘান] আ্ৰা0]3[5 ]}| ৬৪%} 11] ||18] গছিল,\nএছ} 113\n\n11.4 |}105[)})01\"0' [২০৪৫0]\"%0\n']}1|0[চ1 3|00][]2%. %%খ ||} [)00|93500' %|]0[130| 00081\n\n| ।8. [)3[5 ত ||65 0|05[)|}606. 1[1656017%6\n\nব0\"08, |[15[|[1ন। |)7ন5 ॥10%])|]]]% [|18|| |)]05[)|1016\n\n1040\" 5]]'%; 5 1]]৮6 \"ঘ8[19%' 01] [)|ট্[|[5; র[]|ঢ008|5\n\n00080. |]]101010001]]91119 [8 71219.[]} ]0}|10] 111 8]]\nচ6391\"%485 জ16.1]18 80235 11)688])1, ]{' 00052)\"; [10]\n0 170001%:51[%, %৪ড খুব} ঘৰ] 8%%819 ]]8 8169,\n[]৮8 [105[|।৪৮0৮৪ [চ৪চেোছচও |16||7 10; ]]10]]|[0]]\n[16 [7]8)0]।% ত[5|[}; 8010] 011|[01[6.1[ 1|]|}[}} ][6]1]. /%\n1|[05]0]]া6চ 1|658[%6 []8% ৪180) জ00|[][[] 1(ঠ[]1৮র\n[যচা 3105 || 01. ]]]2 |) :]]]]]27|7 [1105])|} 606\n][২2৪21%6চ শেঁ.1591519 0[ 1016. 019110012| |] ]; [10164]\n৪ )|)।}}}% 071] |%খ%) %||0]1[6 50010111207723, 11016\n[3001 হো)0 ]000]]]]]0]|] {]\"12. 1].] )\n\n2৪,",
+  "confidence": {
+    "word_count": 133,
+    "mean": 20.83,
+    "median": 17.35,
+    "minimum": 0.0,
+    "maximum": 78.53
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2374,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 3.765,
+  "page_elapsed_seconds": 4.013,
+  "peak_process_tree_rss_bytes": 325185536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

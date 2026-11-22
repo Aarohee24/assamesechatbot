@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 111,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাৰতৰ স্বাধীনতা আন্দোলন আৰু অসম\n\nআমাৰ ভাৰত এখন স্বাধীন দেশ। ভাৰতৰ প্রাকৃতিক,\nসামাজিক, সাংস্কৃতিক পৰিৱেশ অতি মনোমোহা। আমি\nসকলোৱে আমাৰ দেশখনক লৈ গৌৰৱবোধ কৰোঁ। পিছে\nআমাৰ দেশখন ১৯৪৭ চনৰ ১৪ আগষ্টলৈকে স্বাধীন নাছিল।\nবৃটিছ শাসনৰ অধীনত আছিল।\n\nপ্রাচীন কালত ভাৰত এখন অতি চহকী দেশ আছিল।\nবিভিন্ন দেশৰ সৈতে ইয়াৰ বাণিজ্যিক সম্পৰ্ক আছিল।\nসেইসময়ত ভাৰত কপাহী কাপোৰ, ৰেচম, সোণ,ৰূপ,মছলা\nআদিৰ বাবে বিখ্যাত আছিল। সেইবাবে বিদেশৰ বহুতো\nলোক বেপাৰ-বাণিজ্যৰ উদ্দেশ্যে ভাৰতলৈ আহিছিল। তাৰ ভিতৰত ইংৰাজসকলে ভাৰতত\nএকচেটিয়া বেপাৰ কৰিবলৈ সক্ষম হৈছিল। বেপ৷ৰ-বাণিজ্যত উন্নতি কৰাৰ লগে লগে তেওঁলোকে\nদেশখনক নিজৰ দখললৈ আনি শাসন কৰিবলৈ লয়। কিন্তু বৃটিছসকল শাসনত অধিষ্ঠিত হোৱাৰে\nপৰাই ভাৰতীয় লোকসকলে তেওঁলোকৰ কাৰ্যকলাপক সহজভাৱে মানি ল’ব পৰা নাছিল। কাৰণ\nভাৰতীয় লোকসকল বহুসময়ত বৃটিছৰ অন্যায়-অত্যাচাৰৰ বলি হ’বলগীয়া হৈছিল। নিজৰ দেশতেই\nনিজৰ অধিকাৰ সাব্যস্ত কৰিব নোৱাৰিছিল। ফলত ভাৰতীয় লোকসকলে অসন্তুষ্ট হৈ বৃটিছ শাসনৰ\nবিৰুদ্ধে প্ৰতিবাদ কৰিবলগীয়া হৈছিল। এনেকৈ আমাৰ দেশৰ স্বাধীনতাৰ হকে বৃটিছৰ শাসনৰ বিৰুদ্ধে\nকৰা যুঁজ বা বিদ্ৰোহসমূহেই আছিল আমাৰ স্বাধীনতা আন্দোলনৰ আৰম্ভণি। এই আন্দোলন এটা\nসময়ত গোটেই দেশজুৰি বিয়পি পৰিছিল।\n\nইংৰাজসকলৰ হাতৰপৰা ভাৰতবৰ্ষক স্বাধীন কৰিবলৈ আমাৰ দেশৰ বহুতো লোকে আন্দোলনত\nনামি পৰিছিল৷ তেখেতসকলৰ ভিতৰত মহাত্মা গান্ধী, জৱাহৰলাল নেহৰু, সুভাষচন্দ্ৰ বসু, সৰোজিনী",
+  "confidence": {
+    "word_count": 180,
+    "mean": 92.33,
+    "median": 96.12,
+    "minimum": 24.2,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.217,
+  "page_elapsed_seconds": 3.775,
+  "peak_process_tree_rss_bytes": 245039104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

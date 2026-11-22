@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 221,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী\n\n1. শুদ্ধ উত্তৰৰ গোলটো সম্পূৰ্ণকৈ পূৰ কৰা ।\n(1) তলৰ কোনটো মিশ্ৰ হাতেৰে পৃথক কৰিব পাৰি?\n(8) নিমখ আৰু বালি\n(৮) কাঠৰ গুড়ি আৰু লোৰ গুড়ি\n(০) চাউল আৰু শিলগুটি    ৫%|৫)|৩৫\n(0) কৰ্পূৰ আৰু বালি\n({}) দাইল বা মাহ ধুওঁতে কোনটো পদ্ধতি আমি ব্যৱহাৰ কৰো?\n(8) মৰণা মৰা\n(০) হাতেৰে বচা\n(০) চালনীৰে চলা                 ৫১৫৩৪\n(0) আস্ৰাৱণ\n(0{}) লো আৰু কয়লাৰ গুড়ি পৃথকীকৰণৰ বাবে উপযুক্ত পদ্ধতি হ’ল -\n(৪) বাষ্পীভৱন\n(০) মৰণা মৰা\n(০) চুম্বকীয় পৃথকীকৰণ              ৫)|৮)|৫১|0)\n(0) আস্ৰাৱণ\n(1৮) চাহৰ পৰ৷ চাহপাত তলৰ কোনটো পদ্ধতিৰে পৃথক কৰা হয়?\n(8) মৰণা মৰা\n(0) হাতেৰে বহা\n(০) চালনীৰে চলা                 ঠে[2[ত2[ঠে\n(0) পৰিম্ৰাবণ\n\n(৪8) পানীত থকা বোকা                      1. চুম্বকীয় পৃথকীকৰণ\n\n(০) বোকাপানীত থকা ফিট্‌কিৰি       11. জৰা বা ‘বী’-দিয়া\n\n(০) উচ্চ বেগত মিশ্ৰটো ঘূৰোৱা               }}}.পৰিস্ৰাৱণৰ পিছত বাষ্পীভৱন\n(0) বাদামৰ তেল আৰু পানী                 1৮. পৰিস্ৰাৱণ\n\n(০) বালি আৰু লোৰ গুড়ি                    ঘ,মঠন\n\n()) পানীত দ্ৰৱীভূত নিমখ                   ঘা. আস্ৰাৱণ",
+  "confidence": {
+    "word_count": 144,
+    "mean": 85.03,
+    "median": 93.97,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.578,
+  "page_elapsed_seconds": 2.882,
+  "peak_process_tree_rss_bytes": 297115648,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তামোল আৰু নাৰিকলৰ\nপাতবোৰলৈ চোৱা,\nচালে চকু ৰোৱা।\nবুকুত মোৰ উমাল পাখি\nকিছু ৰঙচুৱা,\nডেউকাৰ আগছোৱা\nহালধি বোলোৱা।\nঠোঁট আৰু চকুৰ মণি\nবাদামী ৰঙৰ,\nআকাৰত সৰু মই\nকামত ডাঙৰ।\n\nমই টোকোৰা চৰাই। আমি জাক পাতি থাকৌ। আমাৰ ভিন ভিন জাত আছে। জাত\nঅনুসৰি আমাৰ পাখিৰ বৰণ আৰু গঠন অলপ হ’লেও বেলেগ। ভাৰতৰ প্রায় সকলো\nঅঞ্চলতে আমি বাস কৰোঁ। ধান, মাহ, সৰিয়হ আদি শস্যবোৰ আমাৰ খাদ্য। ফল-মূল,\nকীট-পতংগ, বনৰীয়া ঘাঁহ-বনৰ গুটি আদিও আমাৰ প্রিয় আহাৰ।\n\nনাৰিকল, তামোল, খেজুৰ, তাল আদি ওখ আৰু দীঘল পাত থকা গছত আমি বাহ\nসাজোঁ। পিছে আমি সেইবোৰৰ ফল নাখাওঁ। তলমুৱাকৈ ৰখা টেকেলিটোৰ দৰে ওলমি\nথকা আমাৰ বাহবোৰ দেখিছানে ? গছৰ দীঘল দীঘল পাতবোৰৰ পৰা আমি বাহ সজা আঁহ\n\nবাহটো আমি মজবুতকৈ সাজিবলৈ চেষ্টা কৰোঁ। উণ সূতাৰে চুৱেটাৰ গোঁঠাৰ দৰে",
+  "confidence": {
+    "word_count": 123,
+    "mean": 92.89,
+    "median": 96.03,
+    "minimum": 5.81,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.652,
+  "page_elapsed_seconds": 2.989,
+  "peak_process_tree_rss_bytes": 239665152,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

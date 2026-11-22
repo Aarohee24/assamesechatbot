@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৭\n\nৰি    গীত            দৰি পা\nভ্জজলৰলিলদমামা কাঠৰ পৰী ঘোঁৰা          দ্্টিতি চৰিলে\n\nৰ“ ৰ            উৰি যাওঁ উৰি যাওঁ কৰিল,\n\nকাঠৰ পখী ঘোঁৰা    এৰি ফুলকোঁৱৰে\nমুখেৰে বজালে শঁখা,\n\nসেউতী মালতী     তগৰ গুটিমালী\nসৱেও ধৰিলে পোখা।\n\nকাঠৰ পখী ঘোঁৰা    এৰি ফুলকোঁৱৰে\nসৱালৈ মাৰিলে শাল,\n\nসেউতী মালতী     তগৰ গুটিমালী\nসৱেও মেলিলে ডাল।",
+  "confidence": {
+    "word_count": 49,
+    "mean": 83.74,
+    "median": 95.91,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 1.881,
+  "page_elapsed_seconds": 2.32,
+  "peak_process_tree_rss_bytes": 235851776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

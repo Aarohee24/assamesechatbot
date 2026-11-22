@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 69,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অংগসমূহ বিচাৰি উলিয়াই প্রজনন প্রক্ৰিয়াৰ বিষয়ে\nঅধ্যয়ন কৰোঁ আহা।\n\nপুং প্ৰজনন অংগ\n\nপুং প্ৰজনন অংগৰ অংশসমূহ হ'ল- এযোৰ অণ্ডকোষ,\nদুডাল শুক্ৰবাহী নলীআৰু এটি লিংগ (চিত্ৰ-|2.1)।\nঅণ্ডকোষে পুংজনন কোষ উৎপন্ন কৰে, যিবোৰক\nশুক্ৰাণু বোলে। অণ্ডকোষে লাখ লাখ শুক্ৰাণু উৎপন্ন\nকৰে। চিত্ৰ ৷2.2ত দেখুওৱা শুক্ৰলণণুৰ চিত্ৰটো\nচোৱাচোন। যদিও শুক্ৰণণুবোৰৰ আকাৰ বৰ সৰু,\nপ্রত্যেকৰে এটা মূৰ, এটা মধ্য অংশ আৰু এডাল\nনেজ থাকে। এইটো এটা একক কোষ যেন দেখিনে?\nআচলতে, এটা একক কোষত সাধাৰণতে থকা কোষৰ\nসকলোবোৰ অংশই প্ৰত্যেকটো শুত্ৰণণুতো থাকে বাবে\nশুত্ৰণণু এটা এককোষী।\n\nলিংগ\n\nঅণ্ডকোষ\n\nচিত্ৰ 12.1: মানুহৰ পুং প্ৰজনন অংগ\n\nমধ্য অংশ\n\nচিত্ৰ 12.2 : মানুহৰ শুক্ৰাণু\n\nএটা শুত্ৰমণুৰ নেজডালৰ কাম কি?\n\nস্ত্ৰীপ্ৰজনন অংগ\n\nস্ত্ৰী প্ৰজনন অংগৰ অংশ সমূহ হৈছে- এযোৰ ডিম্বাশয়,\nদুডাল ডিম্ববাহী নলী আৰু এটা জৰায়ু (চিত্ৰ-1 2.3)।\nডিম্বাশয়ে স্বীজনন কোষ উৎপন্ন কৰে। ইয়াক ডিম্বক\nবা ডিম্বাণু বোলে (চিত্র-12.4)।\n\nডিম্ববাহী নলী\n\nচিত্ৰ 12.3 : মানুহৰ স্ত্ৰী ্ৰজনন অংগ",
+  "confidence": {
+    "word_count": 140,
+    "mean": 87.31,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.585,
+  "page_elapsed_seconds": 2.867,
+  "peak_process_tree_rss_bytes": 324329472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

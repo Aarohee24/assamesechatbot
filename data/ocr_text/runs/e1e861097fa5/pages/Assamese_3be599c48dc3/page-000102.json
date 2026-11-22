@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 102,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বৰ্ণনা কৰিব পাৰিব।\n\nক্্স৷ বিজ্ঞানৰ আৱিষ্কাৰৰ কাহিনীসমূহ আলোচনা আৰু\nপ্রশংসা কৰিব পাৰিব।\n\nপ্লল৷ বৈজ্ঞানিক ধাৰণাসমূহ যেনে অন্পব্যৱহাৰত\nল’বলগীয়া সাৱধানতা, মাটিৰ পৰীক্ষা আৰু\nসাৱধানতা, অংগজ বংশ বিস্তাৰৰ দ্বাৰা শস্য\nৰোপণ, দুই বা তাতোধিক বৈদ্যুতিক কোষ\nসঠিকভাৱে সংযোজন কৰা, দুৰ্যোগৰ প্রাক্‌ আৰু\nপশ্চাৎকালীন সময়ত ল’বলগীয়া উপযুক্ত\nব্যৱস্থা, প্ৰদূষিত পানী শোধন কৰি পুনৰ ব্যৱহাৰ\nইত্যাদি দৈনন্দিন জীৱনত প্ৰয়োগ কৰিব পাৰিব।\n\nক্ল পৰিবেশ সংৰক্ষণৰ চেষ্টা কৰিব, যেনে-ৰাজহুৱা\nব্যৱহাৰ হাস,মাটিৰ খহনীয়া ৰোধৰ বাবে গছপুলি\nৰোপন, প্রাকৃতিক সম্পদৰ অধিক ব্যৱহাৰৰ\nফলত হ'ব পৰা পৰিণতিৰ বিষয়ে মানুহৰ মাজত\nসজাগতা অনা ইত্যাদি।\nআৰ্হিপ্লরস্তুত কৰণত সৃজনশীলতাৰ প্ৰদৰ্শন কৰিব\nপাৰিব।\n\nষ্স৷ সততা, যথাৰ্থতা, সহযোগিতা, ভয়মুক্ত আৰু\nপক্ষপাতিত্ব মুক্ত আদি মূল্যবোধ দাঙি ধৰিব\nপাৰিব।",
+  "confidence": {
+    "word_count": 103,
+    "mean": 86.39,
+    "median": 95.98,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.054,
+  "page_elapsed_seconds": 2.268,
+  "peak_process_tree_rss_bytes": 273522688,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

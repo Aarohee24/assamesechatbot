@@ -1,0 +1,62 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "//] %ী২0) /%%/[/']২ং ]2/\"া[২]]}]।+১5]] : ]281|[-]]]]: /% (2%0০00[< ০0[]| ছ/01]00001ং 101\" ০1899 -থ\n৫26%০10])60 06% ০0:]7]২.]', /*৪৪৪1]], 01008] স\"01]98]10])29 812[20%4620 0% 16 00ঘ৮211011]1611{ 01 /১৪৪৪]1]]\n8100 12700119]1)60 0% 016 /*৪৪৪8011 ০1806 '['6ম00001 1\"100000101] 8110 17010]108.0011 (:01|)018.001] ][,11]]1060,\n\n000ঘ8|118{01 011 02]18|{ 01 (30%. 01 /১৪৪৪17].\n]\"]ং]?]+? []\"১[\"]ক00]<\n\n%]] 1192]](9 1'6961\"%6€0 : 0 12]10000010]] ]]] ৪1]) 10111] 01019 000], }1) 11012 01\" 11] |)81\"[ (০৯.০০])( 101\"\n0161 0001080101] 11} গ110108| 8100129 01716%162\"%9), 1118৮ 661111806 \"ঘ্1{]1000{ ছ্পা[|1{(21] 810011011278101] 1|0]]]\n1612001191121,\n\nগ্ৰন্থস্বত্ব            $        ৰাজ্যিক শিক্ষা-গৱেষণা আৰু প্রশিক্ষণ পৰিষদ,অসম\n\nপ্ৰথম প্রকাশ      £ ২০১২ ইং চন\n\nপৰৱৰ্তী প্ৰকশ $; ২০১৩-২০২০\n\nদশম প্রকাশ       ৪ ২০২১ (পুনৰীক্ষিত)\n\nএকাদশ প্রকাশ $ ২০২২\n\nদ্বাদশ প্ৰকাশ _ $; ২০২৩\n\n$ _; 70 091/[ কাগজত মুদ্ৰিত পাঠ্যপুথি।\n\nপ্রকাশক          ৪        অসম চৰকাৰৰদ্বাৰ৷ বিনামূলীয়াকৈ বিতৰণৰ বাবে\nঅসমৰাজ্যিক পাঠ্যপুথি প্রণয়ন আৰুপ্রকাশন নিগম লিমিটেডৰ\nদ্বাৰা প্ৰকাশিত পাঠ্যপুথি ৷\n\nমুদ্ৰক             ৪        পি. পি. পাব্লিকেশ্যন এণ্ড গ্ৰাফিকছ্‌\n\nবিৰকুচি, নাৰেঙ্গী, গুৱাহাটী -৭৮১১৭১",
+  "confidence": {
+    "word_count": 73,
+    "mean": 32.8,
+    "median": 23.9,
+    "minimum": 0.0,
+    "maximum": 95.7
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9919,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 5.588,
+  "page_elapsed_seconds": 5.986,
+  "peak_process_tree_rss_bytes": 213045248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

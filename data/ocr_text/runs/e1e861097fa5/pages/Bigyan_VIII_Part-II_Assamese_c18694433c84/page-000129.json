@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 129,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "থাকিলে সৃষ্টি হোৱা মাতৰ গুণাগুণ স্বৰতন্ত্ৰী ঢলা আৰু\nশকত হৈ থাকিলে সৃষ্টি হোৱা মাততকৈ পৃথক হয়।\n\nস্বৰতন্ত্ৰীয়ে কিদৰে কাম কৰে আমি চাওঁ আহা।\nক্ৰিয়াকলাপ 14.6\n\nএকে আকাৰৰ দুটুকুৰা ৰবৰৰ পটি লোৱা৷ এটুকুৰাৰ\n\nওপৰত আন টুকুৰ৷ থে সিহঁতক জোৰকৈ টানি ধৰা৷ কিছু আঁতৰত থিয় হৈ থকা লগৰীয়াক মাতিলে তেওঁ\nএতিয়া ৰবৰ দুটুকুৰাৰ মাজেৰে ফুৰাই দিয়া [চিত্ৰ তোমাৰ মাত শুনিবলৈ পাব। কিদৰে তেওঁৰ ওচৰলৈ\n14.9 (8) ]। টানি ৰখা ৰৱৰ দুটুকুৰাৰ মাজেৰে বায়ু শব্দ সঞ্চাৰিত হয়?\n\nপাৰ হৈ গ’লে এটা শব্দৰ সৃষ্টি হয়। তোমালোকে\n\nঠেক ছিদ্ৰযুক্ত কাগজ এখনো ল’ব পাৰা আৰু   ক্ৰিয়াকলাপ 14.7\n\n[চিত্র 14.9 (৮)ত দেখুওৱাৰ দৰে তোমালোকৰ\n\nআঙুলিৰে ধৰি লোৱা। ছিদ্ৰৰ মাজেৰে ফুৱাই দি\nশব্দটো মন কৰা। আমাৰ স্বৰতন্ত্ৰীয়ে একেধৰণেৰে\nশব্দৰ সৃষ্টি কৰে।\n\nএটা ধাতুৰ গিলাচ লোৱা। ই শুকান হোৱাতো\nনিশ্চিত কৰা। ইয়াৰ ভিতৰত এটা চেল ফোন\nথোৱা ৷ (মনত ৰাখিব (যে৷চেল ফোনটো পানীৰ\n\nসংস্পশলৈ আনিব\" নালাগে।) তোমাৰ বন্ধুক\nআন এটা চেল ফোনেৰে এই ফোনটোলৈ ফোন\nকৰিবলৈ দিয়া। ফোনৰ শব্দটো মন দি শুনা।\n\nএতিয়া তোমাৰ দুয়োখন হাতেৰে\nগিলাচটোৰ ওপৰৰ ঘেৰটো আৱৰি ধৰা (চিত্ৰ-\n14.10)। তোমাৰ হাত দুখনৰ মাজৰ মুকলি\nঅংশত মুখখন ৰাখা। তোমাৰ বন্ধুক পুনৰ ফোন\nকৰিবলৈ কোৱা। মুখেৰে পাত্ৰটোৰ পৰা বায়ু শুহি\nআনা আৰু ফোনৰ শব্দলৈকো মন দিয়া।\n\n(0)\n\nচিত্ৰ 14.9 (৪), (0) : স্বৰতন্ত্ৰীৰ কাৰ্য পদ্ধতি        চিত্ৰ 14.10 : সঞ্চাৰিত হ’বলৈ শব্দক মাধ্যমৰ প্রয়োজন\n\n_ শব্দ/৪00খ}))  ;                                                  014",
+  "confidence": {
+    "word_count": 210,
+    "mean": 86.92,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.44,
+  "page_elapsed_seconds": 3.76,
+  "peak_process_tree_rss_bytes": 258048000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৯। তুমি প্রস্তুত কৰা গ্ৰন্থৰ তালিকাখনৰপৰা তোমাৰ ভাল লগা গ্ৰন্থখনৰ বিষয়ে লিখা আৰু\n\nঅংশগ্ৰহণ কৰিব।\n\n(ক) অসম গ্থমেলাখন ৷ কেতিয়াৰপৰা আৰম্ভ হ'ব?\n\n(খ) গ্ৰন্থমেলাখন ক’ত অনুষ্ঠিত হ’ব?\n\n(গ) গ্ৰন্থমেলাখন কেইবজাৰপৰা কেইবজালৈ খোলা থাকিব?\n(ঘ) গ্ৰন্থমেলাখনত কিমান শতাংশ ৰেহাই দিছে?\n\n(৬) গ্ৰন্থমেলাখনত কিমানখন বিপণীয়ে অংশ গ্ৰহণ কৰিব?\n\nঠৰ ৮। তুমি বিদ্যালয়ৰ পুথিভঁৰালত থকা কি কি কিতাপ পঢ়িছ৷ তাৰ এখন তালিকা প্রস্তুত কৰা।\nশ্ৰেণীত পঢ়ি শুনোৱা --\n৪ গ্ৰন্থৰ নামঃ\nঞ্জ লেখক/সংকলকৰ নামঃ\n৬ গ্ৰন্থখন ভাল লগাৰ কাৰণ ঃ\nঞ গ্ৰন্থখনৰপৰা শিকিবলগীয়া $\n(১০ প'্টাৰখন পঢ়া আৰু প্ৰশনবেইটাৰ উত্তৰ দিয়া \"_'\n॥          ১৫-২২ নবেম্বৰ, ২০২৫        {  |\n7 স্থান ঃঅসম পশু চিকিৎসা মহাবিদ্যালয় খেলপথাৰ, খানাপাৰা, গুৰ        /\n7 গ্ৰন্থমেলা খোলা থকাৰ সময়ঃ    পুৱা ১০ বজাৰপৰা         দল\nহি      তে) পৰ্যায়ৰ দুই শতাধিক গ্ৰন্থ বিপণীয়ে           ্‌\n\nঢ়",
+  "confidence": {
+    "word_count": 89,
+    "mean": 83.85,
+    "median": 91.59,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 45 diacritics",
+        "Detected 45 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.801,
+  "page_elapsed_seconds": 3.473,
+  "peak_process_tree_rss_bytes": 286740480,
+  "tesseract_warnings": [
+    "Detected 45 diacritics",
+    "Detected 45 diacritics"
+  ],
+  "processed_this_run": true
+}

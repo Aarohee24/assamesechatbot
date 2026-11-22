@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 23,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মাৰ্বলতে আমি বাস কৰোঁ। আমাৰ লগতে আৰু যে কিমান ধৰণৰ জীৱ আছে ! জীৱবোৰৰ\nভিতৰত আকৌ বহুতো উদ্ভিদ আৰু বহুতো প্রাণী আছে! পৃথিৱীত জীৱৰ কেনেকৈ সৃষ্টি হ’ল\nবাৰু? তুমি নিশ্চয় বহিঃবিশ্বৰ প্রাণী বা ‘এলিয়েন’ৰ কথা শুনিছা ৷ সঁচাকৈয়ে কোনোৱা গ্রহত\n‘এলিয়েন’ আছে নেকি? বিজ্ঞানীসকলে এই সম্বন্ধেও অধ্যয়ন কৰি আছে।\n\nচিত্ৰ 1.11: নীলা মাবৰ্ল আৰু এলিয়েনবোৰ । মহাকাশচাৰীসকলে পৃথিৱীখনক\nএটা নীলা মাবৰ্লৰ দৰে দেখে\n\nজীৱৰ উপৰি পৃথিৱীখনত আৰু বহু ধৰণৰ পদাৰ্থ আছে। ঘৰতে চাবাচোন - চাউল,\nদাইল, চেনি, নিমখ, গাখীৰ, তেল, কাগজ, কলম, পেঞ্চিল, কটাৰী, কীহী-বাতি ইত্যাদি\nকিমান যে বস্তু বা পদাৰ্থ আছে! চাউল বেলেগ পদাৰ্থ, দাইল বেলেগ পদাৰ্থ; অৰ্থাৎ প্রতিটোৱে\nবেলেগ বেলেগ পদাৰ্থ। কিয় বেলেগ বেলেগ হ’ল? প্রতিবিধ পদাৰ্থ কিহেৰে গঠিত? আকৌ\nধৰা, চেনিৰ লগত বালি মিহলি হ’ল। ইহঁতক কেনেদৰে পৃথক কৰিবা? বিজ্ঞানত ইয়াৰ\nসমাধানো পাবা।\n\nসাগৰত জাহাজ চলে। জাহাজখন\nকোন দিশত যাব লাগিব সেয়া নাবিকে\nকেনেদৰে নিৰ্ধাৰণ কৰে জানানে? তেওঁলোকে\nকম্পাছ নামৰ এবিধ সঁজুলি ব্যৱহাৰ কৰে।\nকম্পাছত চুম্বক থাকে। এই চুম্বকডালেই\nকম্পাছৰ মূল বস্তু। এডাল চুম্বক মুক্তভাৱে\nওলোমাই ৰাখিলে ইয়াৰ এটা মূৰে উত্তৰ আৰু\n\nআনটো মূৰে দক্ষিণ পোনাই থাকে। ফলত\nদিশ নিৰ্ণয় সহজ হয়। চুম্বক সম্বন্ধে আৰু বহুত\nজানিবলগীয়া কথা আছে। উদাহৰণ স্বৰূপে,",
+  "confidence": {
+    "word_count": 184,
+    "mean": 91.67,
+    "median": 95.68,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.152,
+  "page_elapsed_seconds": 3.641,
+  "peak_process_tree_rss_bytes": 306057216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

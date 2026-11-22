@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 107,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "| , আমাৰ বায়ুমণ্ডলত থকা বিভিন্ন ধৰণৰ বীজ্াণুৱে শৰীৰত প্রৱেশ কৰি নানা ৰোগৰ সৃষ্টি কৰে। এই ৰোগবোৰৰ ৷ ॥,\n৷ লগত পৰিঞ্কাৰ-পৰিচ্ছরতাৰ কথাও জড়িত হৈ থাকে। পাঠটোৰ যোগেদি শিক্ষা্ীৰ স্বাহা স-্পকীয় সজাগতা ৷\n'| | বৃদ্ধি হ’ব। পাঠটিত লেখকে টন্‌ছিল৷ইটিছৰ দৰে ৰোগ এটাক কেনেকৈ কাহিনীৰ জৰিয়তে বণনা কৰিছে চাও\n| তআহাচোন।                                              ।\n৷৷ মাইনু স্কুললৈ যোৱা নাই।                                      |\nতাইৰ জ্বৰ আৰু ডিঙিৰ\nবিষ। ডাক্তৰ পেহীয়ে\nমাইনুক ঠাণ্ডা বস্তু খোৱা\nএকেবাৰে বন্ধ কৰি দিছে।\nখাবলগীয়া    হোৱাত\nমাইনুৰ বৰ অশান্তি হৈছে।\nমাইনুৰ অৱস্থা দেখি\nমুনটি আৰু জোনটিৰো\nমন বেয়া। পিছে সিহঁত\nদুটাই দুখ পালে কিনো\nহ’ব! ভনীয়েকক দিনটোৰ\nভিতৰত এবাৰ জোকাবলৈ নেপালে সিহঁতহালৰ মনেই নভৰে। সেইকাৰণে মুনটিয়ে\n   স্কুলৰপৰা আহিয়েই মাইনুৱে শুনাকৈ চিঞৰি চিঞৰি জোনটিক ক’লে-- “জোনটি, নয়ন\n|\n\nখুৰাই আজি আইচক্ৰীম খুওৱাৰ কথা আছিল নহয়! ব’লা খুৰাৰ ওচৰলৈ যাওঁ ৷”\nমুনটিৰ কথাৰ সুৰতে সুৰ মিলাই জোনটিয়েও প্রায় ডাঙৰকৈ ক’লে-- “হয় নেকি মুনটি!\nব’লা, আজি যে ইমান গৰম পৰিছে! মই কিন্তু দুটা আইচক্ৰীম খাম!”\n\nমুনটি আৰু জোনটিক নয়ন খুৰাই আইচক্ৰাম খুৱাব বুলি শুনি মাইনু ৰ’ব নোৱাৰিলে৷\n\n৷ ১০৭:\n\nহু",
+  "confidence": {
+    "word_count": 166,
+    "mean": 85.54,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.465,
+  "page_elapsed_seconds": 6.044,
+  "peak_process_tree_rss_bytes": 260812800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

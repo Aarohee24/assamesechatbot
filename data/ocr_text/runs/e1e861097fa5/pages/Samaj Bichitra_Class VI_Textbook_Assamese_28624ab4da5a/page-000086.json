@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তেওঁ যদিও মৌৰ্যসকলক আঁতৰাই শাসন কৰিছিল, শুংগসকলে কেৱল মৌৰ্য সাম্ৰাজ্যৰ অন্তৰ্ভুক্ত এটা সৰু\nঅঞ্চলতহে নিজৰ শাসন চলাবলৈ সক্ষম হৈছিল। এই বংশৰ শেষৰ ৰজাজন আছিল দেৱভূতি বা দেৱভূমি।\n\nসাংকে৷৩তক\n[ঢ়] শৃংগ বংশৰ দ্বাৰা শাসিত\n[=3 নদী           অঞ্চল\n\n|        শৃংগ বংশৰ সময়ৰ ভাৰত\n\nউৎসঃ  ক্।|৩[060|8.018\n\nচিত্ৰ ৯৫  পুৰামিৰনূভ\nচত্ৰ ৯.৪ £ শুংগ বংশৰ সময়ৰ ভাৰত                কটা মূৰ্ত্তি\n\n৯.১.৩ কম্ব আৰু চেদী বংশ ঃ\n\nশুংগসসকলৰে এজন মন্ত্ৰী বসুদেৱে ষড়যন্ত্ৰ কৰি দেৱভূতিক সিংহাসনচ্যুত কৰি কথ্ব নামেৰে এটি নতুন\nবংশ স্থাপন কৰে। তেওঁলোকে ৭৫ খৰীষ্টপূৰ্বৰপৰা ৩০ খ্ৰীষ্টপূৰ্বলৈ শাসন কৰিছিল। মগধত কথ্বসকলৰ পাছত মিত্ৰ\nবংশৰ লোকসকলে কিছুদিন শাসন কৰে। সেই একে সময়তে খ্ৰীষ্টপূৰ্ব প্ৰথম শতিকাৰ শেষৰফালে মহামেঘবাহন\n\nনামৰ এজন ৰজাই কলিংগ (বৰ্তমানৰ উৰিষ্যাত) অঞ্চলত চেদী বা চেত ৰাজবংশ প্রতিষ্ঠা কৰিছিল।\n\nউৎসঃ সা৷190})০018.08\n\nূঞলল্ল\nউৎসঃ নাকৰ 015\n\nচিত্ৰ ৯.৭ % চেদী বংশৰ সময়ত খোদিত উদয়গিৰি গুহা\n\nসময়ৰ মুদ্ৰা\n\n৯.১.৪ গুপ্ত বংশ ঃ\nউত্তৰ ভাৰতত শাসন কৰা আন এটা শক্তিশালী ৰাজবংশ আছিল গুপ্ত বংশ। বৰ্তমানৰ উত্তৰ প্রদেশ,\nবিহাৰ, মধ্যপ্ৰদেশ আৰু আন কিছু অংশ সামৰি গুপ্ত সাম্ৰাজ্য বিস্তৃত হৈ আছিল। আ্ৰীগুপ্তক এই বংশৰ প্রথমগৰাকী\nসম্ৰাট বুলি ধৰা হয় যদিও তেওঁৰ বিষয়ে আমি বিশদ বিৱৰণ নাপাওঁ। গুপ্ত বংশৰ প্ৰথমগৰাকী শক্তিশালী ৰজা\nআছিল প্রথম চন্দ্ৰগুপ্ত। তেওঁৰ পাছৰজন সম্ৰাট আছিল সমুদ্ৰগুণ্ত।\nপ্রাচীন ভাৰতৰ ৰাজবংশ আৰু সমাজ",
+  "confidence": {
+    "word_count": 194,
+    "mean": 84.84,
+    "median": 93.31,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 58 diacritics",
+        "Detected 58 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.862,
+  "page_elapsed_seconds": 4.462,
+  "peak_process_tree_rss_bytes": 306401280,
+  "tesseract_warnings": [
+    "Detected 58 diacritics",
+    "Detected 58 diacritics"
+  ],
+  "processed_this_run": true
+}

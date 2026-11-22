@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 103,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১১\n\nঅমলপ্ৰভা দাস\n\nআমাৰ দেশত পুৰুষৰ লগতে সমানে দেশৰ হকে কাম কৰা অনেক নাৰীৰ\nবিষয়ে আমি পঢ়িবলৈ পাওঁ। তেওঁলোকে সমাজৰ পৰম্পৰা ভাঙি নিজৰ প্রতিভাৰে সমাজৰ\nউন্নতিৰ হকে বহু কাম কৰি গৈছে। তেনে মহিলাসকলৰ ভিতৰৰে এগৰাকী হ’ল অমলপ্ৰভা\nআচাৰ্য বিনোৱাজীৰ আদৰ্শতেই নিজকে বিলীন কৰি দিছিল।\nএক               সৰুৰে পৰাই নিজৰ ঘৰখনতে\nঅমলপ্রভা দাসে সমাজ সেৱা\nতথা দেশসেৱাৰ এটি পৰিৱেশ\nপাইছিল। পঢ়া-শুনাত তেখেত\nবৰ চোকা আছিল। সেইবুলি\nঅমলপশ্ুরভা দাস অনবৰতে\nকিতাপ-পত্ৰ পঢ়ি থকা বিধৰো\nনাছিল। স্কুল ছুটীৰ পিছত ঘৰলৈ\nগৈ মাক দেউতাকক কামত\n০. ডি           | কৰি তেখেতে বৰ আনন্দ\nপাইছিল। পঢ়া-শুনাৰ লগতে নাচ-গানতো তেখেত পাৰ্গত আছিল ।\nমহাত্মা গান্ধীৰ অসহযোগ আন্দোলনৰ সময়ত অমলপ্রভা দাসৰ পৰিয়ালে\nপৰম নিষ্ঠাৰে যঁতৰত সূতা কটা কাম কৰিছিল। ১০ বছৰীয়া অমলপ্রভা দাসেও সূতা\nকাটিবলৈ শিকিলে ৷ সেই যে সৃতা কাটিবলৈ শিকিলে, গোটেই জীৱন তেখেতে আজৰি\nতেখেতে সূতা কাটিছিল।",
+  "confidence": {
+    "word_count": 131,
+    "mean": 91.33,
+    "median": 95.62,
+    "minimum": 6.45,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.31,
+  "page_elapsed_seconds": 3.743,
+  "peak_process_tree_rss_bytes": 246468608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৬। অভিজ্ঞজনৰ লগত কথা পাতি যিকোনো এবিধ লোকগীত (যেনে--- বিয়ানাম, আইনাম, টোকাৰী\n\nগীত, দেহ-বিচাৰৰ গীত, মহখেদা গীত, বিহুনাম আদি) সংগ্ৰহ কৰা।\n১৭। চাৰি-পাঁচজনকৈ সৰু-সৰু গোটত ভাগ হোৱা আৰু সীথৰ সংগ্ৰহ কৰা। সেই সাথৰসমূহ\nলিপিবদ্ধ কৰি বিদ্যালয়ত আজৰি পৰত এটা গোটে আন এটা গোটক সোধা।\n\n৷্খ\n\nশিক্ষকৰ\n\nত:\n\n€.-3.1\n\n4.2\n\n\"১৭\n\nপৰিৱেশৰ দিশ সম্পৰ্কে ধাৰণা কৰি\nকথন আৰু লিখনৰ জৰিয়তে প্রকাশ\nকৰিব পাৰিব।\n\nঞনতুন শব্দবোৰ অৰ্থৰ সৈতে মিলাই\nলিখিব পাৰিব।\n\nঞ্স৷ ওঁতে- প্ৰত্যয় লগ লগাই শব্দ গঠন কৰি\nবাক্য সাজিৰ পাৰিব।\n\nঞ্স পাঠটোত থকা সৰ্বনাম পদবোৰ বিচাৰি\nউলিয়াই লিখিব পাৰিব।\n\nক্ল যোজক অব্যয় ব্যৱহাৰ কৰি বাক্য\nসম্পূৰ্ণ কৰিব পাৰিব।\n\nঞ্সস বিভিন্ন সমলৰপৰা তথ্য সংগ্ৰহ কৰি\nপ্রকল্পৰ কাম কৰিব পাৰিব।\n\nষ্সস বিভিন্ন উৎসৰপৰা সাঁথৰ সংগ্ৰহ কৰি\nসুধিব আৰু উত্তৰ দিব পাৰিব।\n\nষ্সস সীথৰ ভাঙি ক’ব আৰু লিখিব পাৰিব।\n\n90\n\n১০\n\n১৫\n\n১৬\n\n=>\n\nঅৰ্হতা       উপ-অৰ্হতা       ক্ৰিয়া-কলাপৰ| নিজাববীয়াকৈ       নিদানমূলক\nনৰৰ    পাৰিছে (| সহীয়ত | শিক্ষাৰ পাছত\nপাৰিছে | পাৰিছে\n' 1.1 ছ্স পাঠৰ মূল বিন্দুসমূহ চিনাক্ত কৰি ক'ব৷১, ২, ৪\nআৰু প্ৰয়োজন সাপেক্ষে বহলাই লিখিব! ৫,৬\nপাৰিব।\n€:-2.3 ছ্ল বিভিন্ন সামাজিক আৰু সাংস্কৃতিক | ১২, ১৩, ১৪",
+  "confidence": {
+    "word_count": 50,
+    "mean": 82.95,
+    "median": 94.09,
+    "minimum": 0.25,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.358,
+  "page_elapsed_seconds": 5.511,
+  "peak_process_tree_rss_bytes": 197636096,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

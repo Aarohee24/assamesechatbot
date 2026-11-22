@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঞ  তলৰ বাক্যবোৰ পাঠৰ কথাৰ লগত মিলাই শুদ্ধকৈ লিখা।\n(ক) সৰ্বধনু নামৰ ৰজাজনে চৰাইৰ মঙহ খাবলৈ বেয়া পাইছিল।\n\n(খ) ৰজা সৰ্বধনুৱে মধুকৰ নামৰ যুৱকজনক খং কৰা নাছিল।\n(গ) কীট-পতংগবোৰে খেতি-বাতি ৰক্ষা কৰে।\n(ঘ) ৰজা মধুকৰে সৰ্বধনু ৰজাক চিনি নাপালে।\n\nখ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nগু $?, যুক্তাক্ষৰ ভাঙি পঢ়োঁ আৰু লিখোঁ আহা\n\nম্ব ন + ৰৱ নই বই শ্ব_ = অন্বেষণ অম্বেষা\nজ্ভ ব + জ বই জই জ্ত --= অন্ত  কুম্ভ\nগ্ গ + ব. গই ৰই গ্বথ -- দিখ্বিজয় দিথিিদিগ|\nক কঞকৰ+ ৱ, কই ৱই ক₹ক -পক্ষ পক্ষায্ন\n\nন + ৱ নই ৰৱব্রই ন্ব\nব +জ বই জই জ্ঞ\nগ + রৱ গই বই গ্ব\nক + ৱ কই ৱব্রই ক্্‌\n\nভেম নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 118,
+    "mean": 74.24,
+    "median": 91.08,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.519,
+  "page_elapsed_seconds": 2.821,
+  "peak_process_tree_rss_bytes": 272633856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

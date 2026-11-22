@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 61,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিজ্ঞান আৰু প্ৰযুক্তিবিদ্যাৰ জখলাৰে মানুহে উন্নতিৰ শিখৰত আৰোহণ কৰিছে। তাৰ পাছতো সমাজৰ সকলো\nমানুহৰ মাজত সেই অনুপাতে বৈজ্ঞানিক মানসিকতা গঢ় লৈ উঠা নাই। ইয়াৰ অত্তৰালত কিছুমান অঙ্ধবিশ্বাসে\nঅহৰহ কিয়া কৰি আছে। আমাৰ সমাজখনক এই অৱাবিশ্বাস আৰু কৃু-সংস্মাৰৰপৰা মুক্ত কৰা আতি প্ৰয়োজন\nতাৰবাবে সমাজৰ প্রতিজন বান্ক্ৰি একোটা বৈজ্ঞানিক মন থকাটো বাঙুগ্নীয় । মানুহৰ মাজত এই বৈজ্ঞানিক\n\nমানসিকতা কেনেধৰণেৰে গঢ় দিব পাৰি সেই বিষয়ে পাঠটিত আভাস দিয়া হৈছে।            }\n\nমানুহ স্বাভাৱিকতেই অনুসন্ধিৎসু। কিন্তু আমি সকলো সময়তে আমাৰ এই অনুসন্ধিৎসু\nমনটোক কামত নলগাওঁ ৷ আমাৰ সমাজত পূৰ্বৰেপৰ৷ বহুতো ৰীতি-নীতি ‘পায়-নাপায়’ৰ ৰূপত\nচলি আহিছে। এই ‘পায়-নাপায়’বোৰৰ বেছিভাগেই কেৱল অন্ধবিশ্বাস আৰু কু-সংস্কাৰ।\nঅৱশ্যে, ইয়াৰ মাজত কিছুমান বৈজ্ঞানিক ভিত্তি থকা৷ কথাও আছে। আনে কৈছে বাবেই গ্রহণ\nনকৰি আমি যদি আমাৰ অনুসন্ধিৎসু মনেৰে প্রতিটো কথা চালি-জাৰি চাই কিয় পায় অথবা\nকিয় নাপায় চিন্তা কৰিহে সিদ্ধান্ত লওঁ, তেতিয়া আমাৰ এটা বৈজ্ঞানিক মন থকাটো বুজাব।\nআমাৰ বৈজ্ঞানিক মনটোৱে শুদ্ধ বুলি দেখুৱাই দিয়া পথটোৱেদি যদি আমি আগুৱাই যাওঁ--\nসেয়া হ’ব আমাৰ বৈজ্ঞানিক মানসিকতা।\n\nপুৰণি বহুতো ৰীতি-\nনীতিৰ সৈতে অৱশ্যে\nবৈজ্ঞানিক কাৰণো জড়িত হৈ\nআছে। উদাহৰণস্বৰূপে, পূৰ্বতে\nবাহিৰত ফুৰি-চাকি অহাৰ\nপাছত পাকঘৰত সোমাবলৈ\nদিয়া হোৱা নাছিল। এইটো\nকিন্তু কু-সংস্কাৰ নহয়। ইয়াৰ\nধূলি-মাকতিকে আদি কৰি ৷\nবিভিন্ন বীজাণু লাগি আহিব\nপাৰে। গতিকে সেয়া সলাই",
+  "confidence": {
+    "word_count": 192,
+    "mean": 88.88,
+    "median": 94.48,
+    "minimum": 0.97,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.647,
+  "page_elapsed_seconds": 4.258,
+  "peak_process_tree_rss_bytes": 286093312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

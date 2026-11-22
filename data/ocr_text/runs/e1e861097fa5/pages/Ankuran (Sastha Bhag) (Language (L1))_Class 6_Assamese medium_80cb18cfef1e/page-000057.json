@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\n৬ শিশু উপযোগী নাটিকা বা আন পুথি শুদ্ধকৈ পঢ়ি বুজিব পৰা\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n৬ নাটকৰ সংলাপ শুনি বুজি পোৱা\n৬ নাটকীয় ভংগীৰে সংলাপ ক'ব পৰা\n৬ উপদেশমূলক কথা শুনি সাৰমৰ্ম উপলব্ধি কৰিব পৰা\n৬ মূল্যবোধ সম্পকীয় আলোচনাত অংশ লৈ নিজৰ বক্তব্য প্রকাশ কৰিব পৰা\nঞ সংলাপ আদি ৰচনা কৰিব পৰা\n]      সন্ধিৰ বিষয়ে ধাৰণা লাভ কৰা\n৬ উপসৰ্গৰ যোগত সৃষ্টি হোৱা বেলেগ বেলেগ শব্দ ভাবি উলিয়াব পৰা\n৬ বন্যপ্ৰাণীৰ প্রতি প্রেম, সদাচাৰ, ন্যায়-পৰায়ণতা আদি মনোভাব গঢ়ি উঠা\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nনাটিকাৰ         নাটিকাৰ          নাটকৰ\nনাটিকা      সংলাপবোৰ | অন্তর্নিহিত ভাব | চৰিত্ৰসমূহৰ\nনাটকীয়ভাৱে | উপলব্ধি কৰিব চাৰিত্ৰিক পাৰ্থক্য\nপঢ়িব পৰা          পৰা         বুজি পোৱা\nভাষা        সন্ধিৰ বিষয়ে | নিৰ্দিষ্ট উপসৰ্গৰ | সন্ধি চিনাক্ত (স্বৰ\nভূ          যোগত          নে ব্যঞ্জন নে\nব্যাকৰণ)                          শব্দ ক'ব পৰা       কৰিব পৰা\nজ্ঞান   এষ অঙ্কীয়া নাটৰ | সংলাপ ৰচনা   সজণ্ডণৰ প্রতি আকৃষ্ট | জীৱ-জন্তুৰ\nহোৱা            হোৱা৷                                                   ওপজা\nবিষয়ে লিখিব পৰা\n\n= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলৈ তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ * চিন দিব ।\n\nঅহৰ্তা আয়ভ নোহোৱা শিকাৰচ্ক অতিৰিভ্ভাৱে শিকাই পুনৰ মুল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 180,
+    "mean": 84.42,
+    "median": 95.48,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.604,
+  "page_elapsed_seconds": 2.892,
+  "peak_process_tree_rss_bytes": 244518912,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

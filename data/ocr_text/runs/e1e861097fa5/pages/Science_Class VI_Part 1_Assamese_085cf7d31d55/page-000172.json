@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 172,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1৯20629 ৪11 00০00])% 928০০? 12028 ৪811\" |>08929 11899 (281) 811\" 06 1685810620 8৪\n17802? [.6{ 09 0110000{ 0৮% ])2110111]1116 ৪011]16 80০101ঘ10129.\n\n[] / ০ চা(ছ 5.12:\n\n[8106 ৪ 91899 001]0121, ৪ ]81662 001 (0/707710), 8 ])1606 01 )8])21'\n৪8110 8021. ])া[' ]16 001]0]21\" [)0])91[). 1১896 16 |)1606 01 ]|)8]|)21' 8{\n1118102 00000] 01 16 01110121\" 091116 2001]]. ]\"1]| {116 00%] ড্1{]] স/৪061..\n']\"0[1] 116 011]0121 0128106 00 1) 80110 96211{]) |)[699 1{ 11100 16 ছ৮৪(621..\n0০\", 8106 000 1016 [00111[0]21' 8110 00921\"%46 {116 [1606 01])8[)61', ১0161 ]16\n128|221 19 110 61.\n\nশ্]]৮ 0101]\"{( ||16 সত/8(61 01 16 00%] 00001160 16 ]|)8|])2[} ][]]6\n10110121, স্]]10]] 9]1)[|)681'9 211|)%, স/৪৪ 80008]]%৮ 10]]] 11] 811, 511106 ৪811\n00600012169 16 9])8০০ 11191062 16 01110]21, 8৪61\" ০০0]10.1100 16801] {]16\n\n128])61\".\n\n118. 5.14: 417\" ০৫৫%0165 50026\n\n[] /%৫০৫]( ছ 5.13:\n\n]\"01' 0019 80014] ৮001 16001121]2118 816 - ৪ 0618.60 1001008]], ৪.\n08181106 8110 .901116 98110.\n\n]12]806. 116 0618060 100008|| 01) {6 161{ |)8[] 01 16 08|81106 ৪89\n৪110ত]. [|] ]\"16 5.15(8). ()1]] 116 119]]{ |)8[), ])0{ 98110 ঠ18008|]% 1]| 16\n1)0111(21'19.81189119 {116 27210 1]]181\"|২. /%{ {]}19 98262, স্/০ 1]]8৮ ৪8% ]18{1111899\n0116 [60008] 19 6008 10 180 01 16 98110 011 {])6 ])81].\n\n][11180260.\n\n106006608|| /৮'0০ 81]\n\n1)218068.; £2/০10 1118\"                                                                               5৪110.\n\n10008                |                    হু",
+  "confidence": {
+    "word_count": 207,
+    "mean": 41.14,
+    "median": 40.07,
+    "minimum": 0.0,
+    "maximum": 95.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3785,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.584,
+  "page_elapsed_seconds": 3.974,
+  "peak_process_tree_rss_bytes": 305504256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 155,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (]''৷ণ\"1969)\n\n(1) খালী ঠাই পূৰ কৰা\n(8) উদ্ভিদৰ অংগজ অংশৰ পৰা এজোপা নতুন উদ্ভিদৰ সৃষ্টি হোৱাক ---------- বোলে।\n(০) এপাহ ফুলত পুং বা স্ত্ৰী জনন যিকোনো এটা অংগ থাকিলে এনেকুৱা ফুলক --------- বোলে৷\n(০) একে ধৰণৰ ফুল এপাহৰ পুং কেশৰৰপৰা পৰাগ ৰেণু একেপাহ বা একেধৰণৰ আন এপাহৰ\n(0) পুং আৰু স্ত্ৰী জঅননকোষৰ মিলনক ---------- বোলে।\n(6) বীজৰ বিস্তাৰণ               আৰু              জৰিয়তে হয়।\n(2) অযৌন প্ৰজননৰ বিভিন্ন পদ্ধতিবোৰ বৰ্ণনা কৰাৰ লগতে উদাহৰণ দিয়া।\n(3) যৌন প্রজনন বুলিলে তুমি কি বুজা বহলাই লিখা।৷\n\n(4) অযৌন আৰু যৌন প্রজননৰ মাজৰ প্রধান পাৰ্থক্যসমূহ বৰ্ণনা কৰা।\n(5) এপাহ ফুলৰ প্রজনন অংশসমূহৰ চিত্র অংকন কৰা।\n(6) স্ব-পৰাগযোগ আৰু ইতৰ পৰাগযোগৰ মাজৰ পাৰ্থক্য লিখা।\n\n(7) ফুলৰ নিষেচন প্রক্ৰিয়া কেনেকৈ ঘটে লিখা ৷\n(8) বীজৰ বিস্তাৰণৰ বিভিন্ন প্ৰকাৰবোৰ বৰ্ণনা কৰা।\n(9) |নং স্তম্ভৰ লগত 2নং স্তম্ভ মিলোৱা ঃ\n1নংস্তম্ভ                                    2নং স্তম্ভ\n(৪8) মুকুল                                (1) মেপল\n(৮) চকু                                (}}) সৰ্পিল শেলাই\n(০) বিভাজন                              ({}}) ইষ্ট\n(0) পাখি                               (1৮) পাউৰুটীত হোৱা ভেঁকুৰ\n(9) ৰেণু                                 (ম) আলু\n(ঘ1}) গোলাপ\n(10) শুদ্ধ উত্তৰটোত (*) চিন দিয়া৷\n(8) এজোপা উদ্ভিদৰ প্ৰজনন অংগ হ’ল-_\n\n(0) পাত [0}) কাণ্ড (0}) শিপা (1৮) ফুল\n(৮) পুং আৰু স্ত্ৰী জঅননকোষৰ মিলনক কি বুলি জনা যায়?\n\n(1) নিষেচন (}}) পৰাগযোগ (}}}) প্ৰজনন (1৮) বীজৰ গঠন\n(০) পুৰঠ ডিম্বাশয়ে গঠন কৰে\n\n(0) বীজ (}}) পুংকেশৰ (}}}) স্্ৰীকেশৰ (1৮) ফল\n(0) ৰেণুধাৰী উদ্ভিদ হ’ল\n\n(0) গোলাপ (}}) পাউৰুটীৰ ভেঁকুৰ (}}}) আলু (1৮) আদা\n\nউদ্ভিদৰ প্ৰজনন                                       141",
+  "confidence": {
+    "word_count": 226,
+    "mean": 85.34,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.849,
+  "page_elapsed_seconds": 3.103,
+  "peak_process_tree_rss_bytes": 297541632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

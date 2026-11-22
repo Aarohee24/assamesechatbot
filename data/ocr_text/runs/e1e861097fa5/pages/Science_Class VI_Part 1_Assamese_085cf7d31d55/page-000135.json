@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 135,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "4.4 চুম্বকৰ সংৰক্ষণ\n\nএডাল চুম্বক মুকলিকৈ ৰাখিব নালাগে। চুম্বকৰ মেৰু দুটা বহু দিন মুকলি হৈ থাকিলে\nলাহে লাহে চুম্বকত্ব কমি যায়। সেই কাৰণে চুম্বকক সঠিকভাৱে সংৰক্ষণ কৰিব লাগে।\nচুম্বক আমি কেনেদৰে নষ্ট নোহোৱাকৈ ৰাখিব পাৰোঁ ? দণ্ড চুম্বকৰ ক্ষেত্ৰত দুডাল বা ততোধিক\nচুম্বকৰ বিপৰীত মেৰুবোৰ একে দিশত সমান্তৰালভাৱে ৰাখিব লাগে। কাঠৰ টুকুৰাৰে চুম্বক\nকেইডালক পৃথক কৰি থ’ব লাগে। তদুপৰি দুয়ো মূৰৰ ফালে দুটুকুৰা কোমল লো লগাই\nথ’ব লাগে৷ অশ্বখুৰাকৃতি চুম্বকৰ ক্ষেত্ৰত মেৰুকেইটাত এটুকুৰাকৈ লো লগাই ৰাখিব লাগে।\n\nখ,৩\n\n\"১ { =\n\nপা\n\n|\n\nচিত্ৰ 419 : চুম্বকত্‌ সংৰক্ষণৰ কিছুমান উপায়\n\nচুম্বক গৰম কৰিলে, হাতুৰীৰে কোবালে বা ওপৰৰ পৰা পৰিলে চুম্বকত্ব গুণ হেৰাই যায়।\nকম্পিউটাৰ, দূৰদৰ্শন, ম’বাইল, কম্পেক্ট ডিস্ক (010), ট্ৰেনজিষ্টৰ আদিৰ পৰা চুম্বকক\nআঁতৰাই ৰখা উচিত।\n\n1 আমি বেংকত বাৱহাৰ কৰা ডেবিট বা ক্ৰেডিট কাঙৰ্বোৰত কিছুমান আচ্‌ টনা থাকে। ৷",
+  "confidence": {
+    "word_count": 79,
+    "mean": 91.97,
+    "median": 95.8,
+    "minimum": 16.26,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.658,
+  "page_elapsed_seconds": 3.021,
+  "peak_process_tree_rss_bytes": 274706432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

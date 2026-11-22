@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 123,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কী উত্তৰ দিয়া।\n(ক) ওজা-পালি কি?\n\n(খ) ওজা-পালিৰ মুখ্য পালিজনক কি বোলা হয়?\n(গ) ওজাৰ লগত কোন কোন থাকে?\n\n(গ) ওজা-পালিৰ প্রকাৰবোৰ কি কি?\n\n(ঘ) ওজা-পালি ক’ত ক’ত পৰিৱেশন কৰা দেখা যায়?\n\nএটী চমু উত্তৰ দিয়া।\n\n(ক) ওজা-পালিয়ে পৰিধান কৰা সাজ-পাৰ কেনেকুৱা?\n(খ) ওজা-পালিত ওজাই গোৱা গীতসমূহৰ কাহিনীভাগ ক’ৰ ক’ৰ পৰা লোৱা হয়?\n(গ) ডাইনা-পালিজনৰ প্রধান কাম কি কি?\n\n(ঘ) অনুষ্ঠান পৰিৱেশন কৰোঁতে কোনে কি দায়িত্ব পালন কৰে?\n(৬) মহাপুৰুষ শংকৰদেৱে কিহৰ কাৰণে ওজা-পালিৰ সহায় লৈছিল?\n\nটি, শব্দৰ লগত অৰ্থ মিলাও আহা--\n\nশব্দ                       অৰ্থ\nদোহাৰে                   লৰাই\nসৌষ্ঠৱ                     আকৰ্ষিত\nদোলাই                          বুজিব পৰা\nআকৃষ্ট                     সৌন্দৰ্য\nবোধগম্য                   পুনৰ গায়\n\nকূ স্ নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 102,
+    "mean": 90.5,
+    "median": 95.76,
+    "minimum": 16.57,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.571,
+  "page_elapsed_seconds": 2.896,
+  "peak_process_tree_rss_bytes": 243769344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

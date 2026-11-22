@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 141,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০) শ্ৰেণীকোঠাৰ বাহিৰত শিক্ষকৰ সহায়ত লোক উৎসৱ সম্পৰ্কীয় আকস্মিক বক্তৃতা আৰু কুঁইজ\nপ্রতিযোগিতা পাতা।\n\n১১) তলত উল্লেখ কৰা লোকগীতসমূহৰ যিকোনো দুটাৰ বিষয়ে টোকা যুগুত কৰা। তুমি নিলিখা\nআৰু তোমাৰ সহপাঠীয়ে লিখা বিষয়ৰ টোকা সংগ্ৰহ কৰা আৰু পঢ়া।\n\n(ক) নাওখেলৰ গীত\n(খ) আই সবাহৰ গীত\n(গ) আইনাম\n(ঘ) টোকাৰী গীত\n(৬) গৰখীয়া গীত\n(চ) সুবচনী নাম\n(ছ) হাউখেলৰ গীত\n\nজানো আহা\n\nলোকগীতসমূহ অনাখৰী (নিৰক্ষৰ) গ্ৰাম্য লোকৰ সৃষ্টি । মৌখিক ৰূপত সৃষ্টি হোৱা লোকগীতবোৰ\nযুগে যুগে ইজনৰ মুখৰ পৰ৷| সিজনৰ মুখলৈ বাগৰি আহি আছে। এনেদৰে মুখ-বাগৰি যাওঁতে স্থান,\nকাল, পাত্ৰভেদে গীতবোৰৰ অলপ তাৰতম্য ঘটে । আখৰ চিনি নোপোৱা মানুহৰ এই সুন্দৰ সৃষ্টিবোৰৰ\nমাজত লোকজীৱনৰ সুখ-দুখ, হীহি-কান্দোন, আৱেগ-অনুভূতি নিহিত হৈ থাকে। অনাখৰী\nবুলিব পাৰি। যুগ-যুগান্তৰে চলি অহা এই গীতবোৰ সান্প্ৰতিক কালত লিপিবদ্ধ কৰি পুথি আকাৰে\nছপা কৰা হৈছে। বৰ্তমানো নিৰক্ষৰ লোকসমাজত অলিখিত ৰূপত লোকগীত ৰচিত হৈ আছে।\n\n৬ তোমাৰ অঞ্চলত প্ৰচলিত লোকগীতবোৰ সংগ্ৰহ কৰি লিপিবদ্ধ কৰা আৰু শ্ৰেণীত পৰিৱেশন কৰা।\n\n১৩১",
+  "confidence": {
+    "word_count": 148,
+    "mean": 91.44,
+    "median": 95.65,
+    "minimum": 16.81,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.362,
+  "page_elapsed_seconds": 3.802,
+  "peak_process_tree_rss_bytes": 244191232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 148,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "10211} {])6 9001069 01 11019 ])0[[0]101] 11] ৮001 |008]1[), [)190099 ছঘ্1{]|]1 ৮0001 |)816119,\n1121109 81101116189]007019. ১058629{110 7 00 ০0110\"0|110196 ])0]]0]0 101]. }\"16])81[6 ৪ 0116116]2011\n8110 |)16961]{ 1{ 11] {]6 ০1899.\n\n000. ০81) 1680 1]1016 011 {])6 1618020 00]2109 010 016 100]]0 1116 ৮৮০০৪91(29:\n\n1168]0]].]10 9001] 01109.0011/]168111]6.]]{]]]\n\nদ্য সম.])]] ৮ 91090189910011].,0011/01899/9010]110/900110000.]]0]]]\n\nঘপ ম.]8.|[(8181] 6.0011] 101\" ]8]08018119,\n\nস্ব ঘম্ম থ,(211]]|210/0011]/81\"010129/11681116.]]{]]]|\n\nদ্য ,০8108.6.6.018.]110/61]/{11211169/9016211069/)]1'9109/1118111|28.2 62.1] ]]7\n\n১) €) ) ) ৫)\n\n])]0] ৮00 ]]]0ছ% ?\n\n001001108 101, 11681\" ][])02180080, 19 0116 01 {]}6 11109 11]881)11011]{ 1019 11] [[1018., [[ 19\n\n18111009 101\" 1]]81]% 211861112211119, 8110 8101]110(200018| 1]81\"%6219. 0216 01 ])6 11]180[\"/619 19 16 ৪21\"\n901)])]%৮ 9%৮921]]. ]}0]{, 1)21]18128, 11016 89001]19]]]16.198 8 00116.1168017\" 06 2110.81106 00 16 101\".\n£/% ]18110-018]) 8 8 |)810100181\" |)01]1{ 011021\" 0|126.0011]16 16%৮610218(29 8110 ০৪81] [26 16810 8{ 0762\n1]16]169012011]10 01 {16 1018, 8০০08‘ 13101]160:6 ৪8%. ']']]19 /৪৪ 02%41960 89 8 ঘ৪81]]1116. ৪%৮921]].\n][[ ৪ 50810 ৪৪৮৮ 8 909])101009.1]0€4621]1211{ 0003106 06 1010, ]16 ০18|))760 ৪8 016 ])810100]81\"\n120111{( 011021 16 00176 8110. ]6 ৪1]]]%) 1119106 {]16 101[ 8৮8৪৪ 81210260 100 16 080118621 01 0762\n\n812[2080]01116 21121]]%/.\n\n_/\nবিজ্ঞান / 9ণখণ়ে ৷",
+  "confidence": {
+    "word_count": 180,
+    "mean": 41.35,
+    "median": 37.26,
+    "minimum": 0.0,
+    "maximum": 94.86
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3409,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.41,
+  "page_elapsed_seconds": 3.711,
+  "peak_process_tree_rss_bytes": 271581184,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

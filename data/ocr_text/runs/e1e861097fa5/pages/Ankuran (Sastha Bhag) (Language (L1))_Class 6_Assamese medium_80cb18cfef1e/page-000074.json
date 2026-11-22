@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 74,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৭) দুজনীয়া দলত বিভক্ত হৈ উদাহৰণ চাই অন্ত্যমিল থকা আন আন শব্দ গঠন কৰিবলৈ চেষ্টা কৰা।\n\n|; | ৰণ মম লন\nমুচুক মাচাক ->     ->      ->      ->\nটুপুক টাপাক ->       ->       ->       ->\nকুৰুক কাৰাক ->      ->      ->      ->\nচল্চলীয়া ->      ->      ->      ->\nকিচ্‌কিচীয়া ->    _>    ->    >\n৮) কবিতাকেইফাকি পঢ়া আৰু অনুৰূপ শব্দবোৰত (_>চিন দিয়া।\nফ্েচৰ্ট ভাঙি নিলে\nবৰদৈচিলাই\nৰহিমলাই কান্দি আছে                   ৷\nইনাই বিনাই।                  হী\nচাউল টাউল একো নাই                    ন\nখৰিবোৰো তিতা\nছাগলী টাগলী কেনিগ'ল\n\nজ্োনিজেললি ভি     *স্-\n৯) কবিতাটিত তোমালোকে ‘তিতা’ শব্দটো পাইছ৷া। এই ‘তিতা’ শব্দটোৱে বাক্য ভেদে বেলেগ\n\nবেলেগ অৰ্থ প্ৰকাশ কৰে। তলৰ বাক্য দুটালৈ মন কৰা আৰু ‘তিতা’ শব্দটোৰে কোনটো\nবাক্যত কি অৰ্থ কৰিছে লিখা।\n\n(ক) তিতা কাপোৰবোৰ ৰ’দত দিয়া।\n(খ) পংকজে তিতা বস্তু খাবলৈ বেয়া পায়।",
+  "confidence": {
+    "word_count": 123,
+    "mean": 81.55,
+    "median": 92.18,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium-page-000074.png",
+  "page_image_sha256": "445b469ff5a671fe0d015bf3abd9e3de6d10877476934c8e6f0875dceb342005",
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.672,
+  "page_elapsed_seconds": 3.008,
+  "peak_process_tree_rss_bytes": 147763200,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

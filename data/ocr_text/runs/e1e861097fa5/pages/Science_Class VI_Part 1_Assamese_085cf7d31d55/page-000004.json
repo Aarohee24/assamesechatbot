@@ -1,0 +1,62 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমাৰ বিজ্ঞান//৷৷ 81\" }1]]}91৷ (3 1\"( -]) -/% ]31]1]6081 9012006 16%00001 {1 /১৪৪৪110296 181160886\n8100 ]71]9]19]1 18116088662 101\" (4899-€],06%610]2760 ৮6% ০েম:ং], /১৪৪৪1]], 17>0[0]191]160 [0% 16 /১৯৪৪8]]]\n১0৪০ [50000] 1\"1000001011 &, €01])018.101] ][.1]]1[60, 008]181 011 02178] 01 070৮. 01 /১৪98]]].\n\n]']$]]}, ']1],১%1]]১0)01<\n\nএিএ].], ]ংাো|১5 ]ং1,১].]২৮]}}]) : ]খ০ 16[0100000801] 11] 01} 10]]] 01 019 0600], 11) \"11016 01 1]\n12800 (6৯%০০]){ 101 01161 00008.0011 11) গে10108| 81010169 01[' 16416%9) 1]]18% [0026 11802 ছ৮1||100{ ছঘা||[2]]\n800701178001] 101] 16 ০০])ঘাা18]]{ 80010110629.\n\n(:0])118]1{       র          508৮6 0:0011011 01 1+000800118] ]২০৪০৪1\"0০]] 81710 '[181101116 (০৫:)7]২']\"'), /২৪৪৪8]]].\n\nপ্ৰথম ভাগ              :              2025\n\nপ্রকাশক     ন    অসম চৰকাৰৰ দ্বাৰ৷ বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি প্রণয়ন আৰু\nপ্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি।",
+  "confidence": {
+    "word_count": 82,
+    "mean": 47.61,
+    "median": 48.17,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.903,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.407,
+  "page_elapsed_seconds": 2.73,
+  "peak_process_tree_rss_bytes": 248332288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

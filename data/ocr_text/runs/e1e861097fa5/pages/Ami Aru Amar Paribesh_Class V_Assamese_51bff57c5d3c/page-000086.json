@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ-১০\nআমাৰ উদ্যোগসমূহ\n\nঅসম ৰাজ্যখন কৃষিজাত, বনজ, খনিজ আৰু জলজ সম্পদত চহকী৷ এই সম্পদসমূহৰ ওপৰত\nনিৰ্ভৰ কৰি ৰাজ্যখনত কিছুসংখ্যক শিল্প উদ্যোগ গঢ় লৈ উঠিছে। প্রাকৃতিক সম্পদৰপৰা সাধাৰণতে\nআমি আমাৰ প্রয়োজনীয় কিছুমান সামগ্ৰী প্ৰত্যক্ষভাৱে পাওঁ৷ আমাৰ প্রয়োজনীয় আন কিছুমান সামগ্ৰী\nআছে যিবোৰ আমি প্রকৃতিৰপৰা প্ৰত্যক্ষভাৱে নাপাওঁ৷ এই সামগ্ৰীবোৰ প্রাকৃতিক সূম্পদৰপৰা যন্ত্ৰৰ\nসহায়ত বিশেষ পদ্ধতি প্রয়োগ কৰি তৈয়াৰ কৰি লোৱা হয়। এনেদৰে সামগ্ৰী প্রস্তুত কৰিবৰ বাবে একো\nএকোটা উৎপাদন কেন্দ্ৰ বা উদ্যোগ গঢ়ি উঠে। উদাহৰণস্বৰূপে, কপাহৰপৰা সূতা তৈয়াৰ কৰি\nকাপোৰ, চূণশিলৰপৰা বিলাতী মাটি, কুঁহিয়াৰৰপৰা চেনি, বাঁহৰপৰা কাগজ, মৰাপাটৰপৰা কাপেট,\nবেগ, থৈলা আদি তৈয়াৰ কৰা উদ্যোগ। একেবিধ কেঁচা সামগ্ৰীৰপৰা এটা উদ্যোগত কেইবাবিধো বস্তু\nউৎপাদন কৰিব পাৰি, যেনে-মৰাপাটৰ পৰা ৰছী, বস্তা, থৈলা, কাৰ্পেট আদি তৈয়াৰ কৰা হয়।\n\nচালে লছ              (চু           |\nয়ে                )\n\nপ্ৰকৃতিৰপৰা পোৱা যিবোৰ সামঞ্জী ব্যৱহাৰ কৰি আমাৰ প্ৰয়োজনীয় বস্তুবোৰ উৎপাদন\nকৰা হয় সেইবোৰক কেঁচা সামঞ্জী বা কেঁচামাল বোলে।\nঅসমৰ মাটি চাহ খেতিৰ বাবে উপযোগী। ইয়াত প্ৰচুৰ পৰিমাণে চাহ উৎপাদন হয়। যিহেতু\nকেঁচামালৰ ওপৰত ভিত্তি কৰি উদ্যোগসমূহ গঢ়ি উঠে, সেইবাবে অসমত বহুতো চাহ উদ্যোগ গঢ়ি\nউঠিছে। যোৰহাট জিলাৰ টোকলাই নামৰ ঠাইত চাহৰ গৱেষণা কেন্দ্ৰ আছে। ভাৰতৰপ্রায় ৫০ শতাংশ\nচাহ অসমৰপৰাই উৎপাদন হয়। চাহ উৎপাদনত ভাৰতৰ স্থান পৃথিৱীৰ ভিতৰত প্রথম।",
+  "confidence": {
+    "word_count": 187,
+    "mean": 88.6,
+    "median": 95.11,
+    "minimum": 22.26,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.261,
+  "page_elapsed_seconds": 4.102,
+  "peak_process_tree_rss_bytes": 240095232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

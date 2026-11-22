@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\n৬ কবিতাটি শুদ্ধ আৰু স্পষ্টকৈ পঢ়িব পৰা\n\n৬ লয়, ছন্দৰ লগত সংগতি ৰাখি আবৃত্তি কৰিব পৰা\n৬ কঠিন শব্দৰ অৰ্থ জনা\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n৬ বিহুৰ লগত জড়িত কিছুমান প্রাকৃতিক উপাদান যেনে--- জেতুকা, থেৰেজু, বৰ্হমথুৰিৰ বিষয়ে জনা\n৬ পুংলিংগ আৰু স্ব্ৰীলিংগ শব্দ বাছি উলিয়াব পৰা\n৬ একে ধ্বনিযুক্ত শব্দৰি অৰ্থ প্রকাশ হোৱাকৈ বাক্য ৰচনা কৰিব পৰা\n\n৬ বিহুগীত আৰু বিহুনাচত বজোৱা বাদ্যৰ বিষয়ে জনা\n\n৬ তাঁত-শালত ব্যৱহাৰ হোৱা সঁজুলিৰ বিষয়ে জনা\n৬ বিহুৰ বিষয়ে লিখিব পৰা\n৬ বিভিন্ন উৎসৱৰ নাম জনা,বিহুগীত সংগ্ৰহ কৰি লিখিব পৰা\n৬ আদৰণী ভাষণ লিখিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nকবিতা শুদ্ধ আৰু | আবৃত্ডি কৰিব পৰা | কঠিন শব্দৰ | পাঠভিত্তিক প্রশ্নৰ\nকবিতা স্পষ্টকৈ পঢ়িব পৰা    অৰ্থ জনা | উত্তৰদিব পৰা\nপাঠ\nভাষা  পুংলিংগ আৰু * [বাক্য ৰচনা কৰিব পৰা| শব্দৰ বহুবচন\nঅধ্যয়ন | স্ত্ৰীলিংগ শব্দ বাছি     লিখিব পৰা\n(ব্যাৱহাৰিক | উলিয়াব পৰা\nব্যাকৰণ)\nব’হাগ বিহুত ব্যৱহৃত | বিহুগীত, বিহুনাচৰ | তাত-শালত [বিভিন্ন জনগোষ্ঠীয়| ব’হাগৰ\nসৰ্ব্বত   প্রাকৃতিক   লগত বজোৱা বাদ্যৰ| ব্যৱহৃত সঁজুলিৰ| উৎসৱৰ নাম জনা | ৰূপ বৰ্ণনা\nউপাদানসমূহৰ  বিষয়ে জনা  বিষয়ে জনা     কৰিব পৰা\nবিষয়ে জনা\nবিহুগীত সংগ্ৰহ  আদৰণী ভাষণ\nপ্রকক্প | কৰি লিখিব পৰা  লিখিব পৰা\n<= অহৰ্তা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ * চিন দিব৷\n\nঅহ'্তা আয়ভ নোহোৱা শিকাৰকক অতিৰিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 220,
+    "mean": 87.15,
+    "median": 95.86,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium-page-000037.png",
+  "page_image_sha256": "a47ce244ce36b68ec6c42673a63beb4d39877e1f822b3b4b74f91433a95ad51b",
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.826,
+  "page_elapsed_seconds": 3.116,
+  "peak_process_tree_rss_bytes": 152408064,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

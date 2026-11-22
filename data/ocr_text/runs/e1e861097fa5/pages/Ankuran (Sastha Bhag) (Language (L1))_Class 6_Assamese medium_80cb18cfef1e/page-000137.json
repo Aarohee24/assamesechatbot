@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 137,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কেক\n\nমৈ দিলা পাটে।।\nমহৰ মাকোক পাৰ কইৰ্লু।\nবুঢ়াদিয়াৰ ঘাটে।।\n\n(উৎসঃ ‘বাৰমাহৰ তেৰগীত’ পৃষ্ঠা-১২৩, সন্পাদনা-পএফুক্সপভ গোস্বামী, দ্বিতীয় তাঙৰণ-১৯৯০, প্রকাশক-\nসাহিতা অকাডেমী, নতুন দিল্লী)\n\nগীতটো প্ৰথমে দলগতভাৱে আৰু পাছত এজন এজনকৈ প্রতোককে গাবলৈ দিব। শুদ্ধভাৱে গোৱাত\nছাত্ৰ-ছাত্ৰীক সহায় কৰিব।\n\nগীতটোত থকা স্থানীয় উপভাষাৰ শব্দবোৰৰ মান্য অসমীয়াৰ ৰূপবোৰ জানো আহা।\n\nমাইৰ্বা -- মাৰিবলৈ     টকান _-=- টাঙোন\n\nলউ   --র       গেল  -_ গ’ল\nমহ্মহওঁতে = কুন্্‌কুনাওঁতে    গাছত =--= গছত\n\nগাও   -- গা/শৰীৰ     ঘহাওঁতে == ঘহোতে\n\nহিদেলি -_. -- হিদল      নহল  =--= নহল\n\nনুণ    -= নিমখ/লোণ    নেদি == নিদি\n\nদিলাক   -_- দিলে      আথেৰ == এওঁলোকৰ/হইহঁতৰ\nলৰি-চৰি  -= লৰা-ধপৰাকৈ    সোণাৰ -=- সোণৰ\n\nভালা   -=- ভাল      দেইখ্বা -=- দেখিবলৈ\nচাকাচাকা -=- চক্্‌চকীয়া     টাকা _--=- টকা\n\nচিকিমিকি -- চিক্মিকীয়া    দিবো  --=- দিব\n\nসিৰালে _ --= সীৰলুৰে     সিকি  -- পঁচিশ পইচাৰ মুদ্ৰা\nকইৰ্লু  -- কৰিলোঁ            (এতিয়া অপ্রচলিত)",
+  "confidence": {
+    "word_count": 128,
+    "mean": 71.19,
+    "median": 87.35,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.236,
+  "page_elapsed_seconds": 3.62,
+  "peak_process_tree_rss_bytes": 241598464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

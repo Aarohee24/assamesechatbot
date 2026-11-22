@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 87,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চাহ বাগান                  চাই উদ্যোগ\n\nঅসমত ৮০০ খনতকৈও অধিক ডাঙৰ চাহ বাগান আছে। অসমৰ তিনিচুকীয়া, ডিব্ৰুগড়,\nশিৱসাগৰ, যোৰহাট, গোলাঘাট, শোণিতপুৰ জিলাত বেছি সংখ্যক আৰু দৰং, কামৰূপ জিলাত কম\nসংখ্যক চাহ বাগান আছে। বাগানৰপৰা কুমলীয়া পাত ছিঙি, শুকুৱাই বিশেষ পদ্ধতিৰে মেচিনত\nচাহপাত তৈয়াৰ কৰা হয়। এইদৰে চাহবাগানবোৰক লৈ একো একোটা চাহপাত উৎপাদন কেন্দ্ৰ গঢ়\nলৈ উঠে। ব্যৱসায়িক ভিত্তিত গঢ় লৈ উঠা এই উৎপাদন কেন্দ্ৰবোৰ একো একোটা ক্ষুদ উদ্যোগত\nপৰিণত হয়। এই চাহবাগিচাসমূহত কাম কৰি বহু লক্ষ লোকে জীবিকা নিৰ্বাহ কৰি আছে। অসমৰ\nচাহপাত ভাৰতৰ বিভিন্ন ঠাই আৰু বিদেশলৈও পঠিওৱা হয়। এই চাহপাত বিদেশলৈ ৰণ্ডানি কৰি\nআমাৰদেশ আৰ্থিকভাৱে লাভৱান হৈছে।\n\nঅসমৰ চাহপাতে আন্তৰ্জাতিক বজাৰত স্থান পাবলৈ সক্ষম হৈছে। ইয়াত উৎপন্ন হোৱা\nচাহপাত বিদেশলৈ ৰণ্ডানি কৰি চৰকাৰে বুজন পৰিমাণৰ ৰাজহ সংগ্ৰহ কৰে। অসমৰ সকলো\nউদ্যোগৰ ভিতৰত চাহ উদ্যোগ আটাইতকৈ গুৰুত্বপূৰ্ণ৷\n\nশিক্ষক-শিক্ষয়িত্ৰীৰ সৈতে ক্ষেত্ৰ ্মণ-\n> তোমালোকৰ ওচৰত থকা যি কোনো এটা উদ্যোগলৈ গৈ উদ্যোগটোৰ বিষয়ে চমুকৈ লিখিবলৈ\n\nচেষ্টা কৰ৷ ৷\n\nঅসমৰ স্থানীয় উদ্যোগবোৰত উৎপাদিত\nসামগ্ৰীবৌৰ, যেনে-=- চাহপাত আৰু পাট-মুগাৰ\nকাপোৰে দেশ-বিদেশত সমাদৰ পাইছে। কিন্তু\nএতিয়াও ভাৰতবৰ্ষৰ আন কিছুমান ৰাজ্যৰ তুলনাত\nঅসমত প্রয়োজন অনুসৰি বৃহৎ উদ্যোগ গঢ়ি উঠা\nনাই। ইয়াৰ প্রধান কাৰণসমূহ হ’ল উদ্যোগ এটা গঢ়ি\nউঠিবলৈ প্রয়োজন হোৱা পৰ্যাপ্ত পৰিমাণৰ মূলধন,\nবৃহৎ স্থানীয় বজাৰ, দক্ষ শ্রমিক, উন্নত যাতায়াত\nব্যৱস্থা আদিৰ অভাৱ।",
+  "confidence": {
+    "word_count": 197,
+    "mean": 92.3,
+    "median": 95.95,
+    "minimum": 8.37,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.496,
+  "page_elapsed_seconds": 4.322,
+  "peak_process_tree_rss_bytes": 242810880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

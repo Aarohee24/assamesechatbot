@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অৰ্থাৎ চুম্বকৰ বিপৰীত মেৰুৰ মাজত আকৰ্ষণ আৰু একে মেৰুৰ মাজত বিকৰ্ষণ হয়।\nএডাল দণ্ড চুম্বক সূতাৰ সহায়ত ওলোমাই লোৱা। এই চুম্বকডালৰ ওচৰলৈ আন\nএডাল দণ্ড চুম্বক আনি কেবাবাৰো পৰীক্ষা কৰি চোৱাচোন। প্রতিবাৰতে একেই ফলাফল\n\nপাইছানে?\n\n[] কজিরয়া-কলাপ 4.9 :\nএটা কম্পাছ আৰু এডাল দণ্ড চুম্বক লোৱা। কম্পাছটো ঢেবুলৰ ওপৰত ৰাখা।\n\nএতিয়া এডাল দণ্ড চুম্বকৰ উত্তৰ মেৰু কম্পাছ শলাৰ উত্তৰ মেৰুৰ ওচৰলৈ আনা।\nতেনেদৰে চুম্বকৰ দক্ষিণ মেৰুটো কম্পাছশলাৰ উত্তৰ মেৰুৰ ওচৰলৈ আনা। শলাডালৰ\nঅৱস্থানৰ কি পৰিৱৰ্তন দেখিলা লিখা।\n\nএনেকুৱা কিয় হয় তুমি নিশ্চয় ব্যাখ্যা কৰিব পাৰিবা।\n\nচিত্ৰ 4.16 : চুম্বকৰদ্ধাৰা কন্পাছ শলাৰ বিস্ষেপণ\n\n4.2.6 চুম্বকে অচুম্বকীয় পদাৰ্থৰ মাজেৰেও প্ৰিয়া কৰিব পাৰে\n\n[] ক্রিয়া-কলাপ 4.10:\n\nক্ৰিয়াকলাপ 4.9 ত থকা কম্পাছ আৰু দণ্ড চুম্বকৰ মাজত কাৰ্ড (কাগজ) ৰাখি\nপৰীক্ষাটো কৰা। কিবা পৰিৱৰ্তন দেখিলানে? কাগজৰ সলনি পাতল কাঠৰ টুকুৰা বা\nপ্লাষ্টিকৰ পাতল ফলক ৰাখিও পৰীক্ষাটো কৰি চাব পাৰা। কাগজ, শ্লীষ্টিক বা কাঠৰ টুকুৰাৰ\nমাজেৰেও চুম্বকে আকৰ্ষণ বা বিকৰ্ষণ কৰা দেখিবা অৰ্থাৎ অচুম্বকীয় পদাৰ্থৰ মাজেৰেও\nচুম্বকে ক্ৰিয়া কৰিব পাৰে। ইয়াৰ আন এটা উদাহৰণ ইতিমধ্যে চিত্ৰ 4.5 ত দিয়া হৈছে।\n\nচিত্ৰ 4.17 : অচুম্বকীয় পদাথৰ\nমাজেৰে চুম্বকৰ ক্ৰিয়া\n\n[দল্লললভলকেেনচেভনিনিনিনিিচেচেনেলেচেনঁ45)",
+  "confidence": {
+    "word_count": 175,
+    "mean": 88.42,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.318,
+  "page_elapsed_seconds": 3.726,
+  "peak_process_tree_rss_bytes": 269438976,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

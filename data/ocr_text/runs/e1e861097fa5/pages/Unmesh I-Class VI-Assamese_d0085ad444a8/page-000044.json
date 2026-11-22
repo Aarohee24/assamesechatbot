@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 44,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চায়েৰা $ বৰ মজা লাগিছে দেই।\nগান-তান এটাও গাই যাব\nপৰা হ’লে!\n\nমই লগাই দিম,\nতোমালোকে গাব ।\n(ৰিতৃপনে গান লগায়।\nসকলোৱে গাই গাই ওলাই\nযাব)\n\nযাওঁ ওলাই সকলোটি\nৰোওঁগৈ ব’লা গছৰপুলি\nধৰণীখন সেউজীয়া\nবোলেৰে বোলাওঁ।\n\nফুল ফুলক গছে গছে\nগুটি লাগক বিধে বিধে\nৰঙে-ৰসে ফুলে-ফলে পৃথিৱী সজাওঁ।\n(ল’ৰা-ছোৱালীবিল৷ক ওলাই যোৱাৰ পিছত পট পৰিব ।)\n\nণ্বী\nন\n\n-ঁ কেশদা মহন্ত\n\nউৎস ঃ ড‘’ নৱ কুমাৰ চমুৱা সম্পাদিত, ‘শিশুৰ মৌ-কৌহ কেশদা মহন্তৰ শিশু সাহিত্য সমগ্ৰ’, প্ৰথম সংস্কৰণ,\nজুন, ২০২১, বাপচন্দ্ৰ মহস্ত-কেশদা মহন্ত ট্ৰাষ্ট, যোৰহাট, পৃষ্ঠা নং- ৪২০-৪২৩\n\nনোটিকাখন পাঠাপুথিৰ প্রভুতৰ নীতি আৰু.পাঠৰশিকন ফলাফলৰ প্রতি লদক্ষ্য ৰাখি সামান্য সালসলনি কৰা হৈছে।)\n\nনাট্যকাৰৰ পৰিচয় $ঃ কেশদা মহন্ত (১৯৩৯-২০১৮ খ্ৰীষ্টাব্দ) এগৰাকী\nশিশু উপযোগী গ্ৰন্থ হ’ল-- মহাভাৰতৰ সাধু দুটামান কওঁ, ৰঘুবংশৰ কথা,\nৰামায়ণৰ সাধু দুটামান কওঁ, মৌ-কৌহৰ কৰ্মী প্ৰজা, সেউজী ধৰণী ধুনীয়া\nকথাবস্তুৰ আঁতিগুৰি’ গ্ৰন্থৰ বাবে ২০১০ খ্ৰীষ্টাব্দত ‘সাহিত্য অকাডেমি বঁটা’ লাভ কৰে।",
+  "confidence": {
+    "word_count": 138,
+    "mean": 85.82,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.739,
+  "page_elapsed_seconds": 3.253,
+  "peak_process_tree_rss_bytes": 288600064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

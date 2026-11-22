@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২৪          স্বীনিয়াত\n\nপ্র £-_- জমির মধ্যে প্ৰমাব, সুরা ইত্যাদি পবিত্ৰতা প্ৰবিষ্ট হইলে কিক্পে\nপাক করিতে হয়?\n\nউ ঃ জমি যখন শদ্ধ হইয়া যাইবে এবং নাজাসতের চিহ্ন অথাহ বর্ং\nস্বাদ এবং গোন্ধ লোপ পাইবে, তখন এমনিই পাক হইয়া যাইবে।\n\nপ্র £-- বাসাবাড়ী, মচজিদ ইত্যাদির ইট অথবা প্ৰত্তর খণ্ডের উপর\nনাজাসত লাগিয়া গেলে কি ভাবে পাক করিতে হয়?\n\nউ £ঃ-- ইট এবং প্ৰস্তরখণ্ড যাহা পাকাপাকী ভাবে দেওয়ালে লাগিয়া\nআছে অথ এদিক সেদিক সরানো যায়না--- এইগুলি শুকাইয়া গেলে এবং\nনাজাসতের চিহ্ন লোপ পাইলে পাক হইয়া যায়?\n\nপ্র £-- যে সমস্ত জিনিব ধৌত কনিয়া চিপা যায়না যথা তাম্ৰের আসবাব\nপত্ৰ, ভারী এবং শক্ত ইত্যাদি পাক করিবার পদ্ধতি কি?\n\nউ £-- নাজাছত দৃষ্ট হইয়া থাকিলে তাহা যে কোন উপায়ে বিদূরতি\nকরিয়া এ অপবিত্ৰ বস্তুকে সক্ত মাটি বা মাটি জাতীয় বস্তু দ্বান্না মৰ্দন করিলে\nশৃগাল ইত্যাদির সুমের লালা---সেই ক্ল্প ক্ষেত্ৰে সাতবার মৰ্দন করা বাঞ্ছনীয়।\nনাজাছত দৃষ্ট না হইয়া থাকিলে শুধু মৰ্দন করিলেই পবিত্ৰ হইবে।\n\nমনে বর্লাখা দরকার, উল্লেখিত ক্ষেত্ৰে অল দ্বারা ধৌত করিলে নাপাক\nবস্তু পাক হওয়| দূরের কথা বরং উহার অপবিত্ৰতা সম্প্ৰসারিত হয় সুতরাং,\nমাটি বা মাটি জাতীয় বস্তু দ্বারা মৰ্দন করা অপনিহাৰ্য।",
+  "confidence": {
+    "word_count": 178,
+    "mean": 84.7,
+    "median": 92.44,
+    "minimum": 4.44,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 0.9999,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.014,
+  "page_elapsed_seconds": 2.176,
+  "peak_process_tree_rss_bytes": 248537088,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 89,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উদ্যোগ গঢ়ি উঠাৰ প্ৰধান কাৰকসমূহৰ বিষয়ে জানি লওঁ আহা--\n\nশ্রমিক --                             ভ্ব+-ভূমি\nউন্নত যন্তুপাতি\n(মেচিন)          শক্তি (তাপবিদ্যুৎ আৰু জলবিদ্যুৎ)        মূলধন\n\n€\n\nউদ্যোগ এটা গঢ়ি উঠিবলৈ পৰ্যাপ্ত পৰিমাণৰ কেঁচামালৰ প্রয়োজন ৷\n\nউদ্যোগ এটা প্রতিষ্ঠা কৰিবলৈ ভূমি আৰু প্ৰচুৰ মূলধনৰ প্রয়োজন ৷\n\nকেঁচামালৰপৰা উৎপাদিত সামগ্ৰী প্রস্তুত কৰিবলৈ অধিক সংখ্যক উন্নতমানৰ যন্ত্ৰপাতিৰ\nপ্রয়োজন।\n\nসাধাৰণতে কয়লা (তাপবিদ্যুৎ) আৰু জলবিদ্যুৎ শক্তি ব্যৱহাৰ কৰি উদ্যোগসমূহত কাম-কাজ\nচলোৱা হয়। পশ্চিমবংগ আৰু বিহাৰত কয়লা বেছিকৈ পোৱা যায় বাবে এই দুখন ৰাজ্যৰ\nউদ্যোগসমূহত যন্তুপাতি চলাবলৈ প্ৰধানকৈ কয়লা ব্যৱহাৰ কৰা হয়। আনহাতে যিবোৰ ঠাইত\nকয়লা নাই তাত জলবিদ্যুৎ ব্যৱহাৰ কৰা হয়।\n\nউদ্যোগত উৎপন্ন হোৱা উৎপাদিত সামপ্জী বিক্ৰীৰ বাবে স্থানীয় বজাৰ থকাৰ লগতে দেশ-\nবিদেশৰ বজাৰৰো প্রয়োজন।\n\nকেঁচামাল আৰু -উৎপাদিত সামগ্ৰী কঢ়িওৱা, যন্তুপাতি চলোৱা আদি বিভিন্ন কাৰ্যত শ্রমিকৰ\nপ্রয়োজন হয়। উদ্যোগসমূহত উৎপাদিত সামগ্ৰী তৈয়াৰ কৰিবলৈ বিশেষ কৌশলৰ প্রয়োজন\nহয়।এনে ক্ষেত্রত দক্ষ শ্ৰমিকৰ আৱশ্যক৷\n\nকেঁচামাল আৰু অন্যান্য লাগতিয়াল সামগ্ৰী উদ্যোগলৈ কঢ়িয়াবলৈ আৰু উৎপাদিত সামঙ্রী\nতোমালোকৰ ঘৰত বিজুলীৰ সংযোগ আছেনে? যদি আছে, তেনেহ’লে তোমালোকে ঘৰত\n\nচে =৯\n\nবিজুলী শক্তিক কি কি কামত ব্যৱহাৰ কৰা হয় তাৰ এখন তালিকা প্রস্তুত কৰা।",
+  "confidence": {
+    "word_count": 167,
+    "mean": 87.15,
+    "median": 95.56,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.908,
+  "page_elapsed_seconds": 3.369,
+  "peak_process_tree_rss_bytes": 231698432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

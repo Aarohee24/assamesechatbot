@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১২                 লী\n\nষষ্ঠ শ্ৰেণীৰ ছাত্ৰ-ছাত্ৰীসকলৰ মনত অপাৰ আনন্দ। গৰমৰ বন্ধত সিহঁত পৃথিৱীৰ অন্যতম\nবৃহৎনদীদ্বীপ মাজুলী চাবলৈ যাব। ইতিমধ্যে ছাৰ-বাইদেউসকলে মাজুলীত গৈ থকাৰ ব্যৱস্থাও কৰি\nথৈছে।\n\nবিদ্যালয়ৰ খেল-পথাৰত সমবেত হ’লহি। ইতিমধ্যে আহি পোৱা গাড়ীখনত তেওঁলোক বহি মাজুলীলৈ\nযাত্ৰা আৰম্ভ কৰিলে। তেওঁলোকৰ লগতে শিক্ষক বৰুৱা ছাৰ আৰু গগৈ বাইদেউও গাড়ীত বহিল।\nলাহে লাহে গাড়ীয়ে বিদ্যালয় চৌহদ এৰি মাজুলীলৈ যাবৰ কাৰণে নিমাতীঘাটলৈ আগবাঢ়িল ৷ গগৈ\nবাইদেৱে ছাত্ৰ-ছাত্ৰীৰ লগত ভূপেন\nগাই পৰিৱেশটো অধিক মধুৰ কৰি\nতুলিলে। তাৰ পাছত বাইদেৱে\nমাজুলীৰ প্রলয়ংকাৰী বানপানী আৰু\nগৰাখহনীয়াৰ কথা ক’লে৷ এনেতে বাছ ,\nআহি নিমাতীঘাট পালেহি। ঘাটত যেন\nছাত্ৰ-ছাত্ৰীসকলৰ কাৰণে অপাৰ বিস্ময়\nগোট খাই আছিল। বিশাল ব্ৰহ্মপুত্ৰ\nনীৰৱে-নিতালে বৈ আছে। পাৰত বয়-\nবস্তুৰে অগণন মানুহ। তেওঁলোক গৈ\nফেৰীত বহিল। ফেৰীত বহি তেওঁলোকে দেখিলে গাড়ী, বাইক, চাইকেল আৰু গৰু-ম’হ লৈ অজস্ৰ\nমানুহ ফেৰীত উঠিছে। ফেৰীত উঠিবলৈ পাই ছাত্ৰ-ছাত্ৰীসকলৰ মনত অসীম আনন্দ আৰু উত্তেজনা।",
+  "confidence": {
+    "word_count": 135,
+    "mean": 92.83,
+    "median": 95.24,
+    "minimum": 33.04,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 15 diacritics",
+        "Detected 15 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.26,
+  "page_elapsed_seconds": 3.756,
+  "peak_process_tree_rss_bytes": 241065984,
+  "tesseract_warnings": [
+    "Detected 15 diacritics",
+    "Detected 15 diacritics"
+  ],
+  "processed_this_run": true
+}

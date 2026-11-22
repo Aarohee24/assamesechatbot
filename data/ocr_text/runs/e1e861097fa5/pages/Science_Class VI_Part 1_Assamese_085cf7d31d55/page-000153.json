@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 153,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাগজ বা কাপোৰেৰে গিলাচ প্রস্তুত কৰিলে কি হ’ব বাৰু? গিলাচ প্রস্তুত কৰিবলৈ\nএনেকুৱা দ্রব্য ব্যৱহাৰ কৰিব লাগিব যিয়ে পানী ধৰি ৰাখিব পাৰে।\n\nএবিধ বস্তু প্রস্তুত কৰিবলৈ কি দ্রব্য ল’ব লাগিব, কেনেকৈ স্থিৰ কৰিবা বাৰু? বস্তুবিধৰ\nব্যৱহাৰ আৰু দ্রব্যৰ ধৰ্মৰ ওপৰত নিৰ্ভৰ কৰি, নহয় জানো?\n\n৫৯৪ ৬\n/১৫৯৪তে হু\n/ধঙ বেত\nয়ৰ ৫৯\n\nচিত্র 3.5 + কিছুমান বিভিন্ন ধৰণৰ বস্ত\nকেতিয়াবা এটা বস্তু প্রস্তুত কৰিবলৈ কেইবাটাও দ্রব্য ব্যৱহাৰ হয়। যেনে- কলম\nপ্রস্তুত কৰোতে ধাতু আৰু প্লাষ্টিক ব্যৱহাৰ কৰা হয়।\nওপৰৰ ছবিখন (চিত্ৰ 55) চোৱা ৷ ছবিত থকা বস্তুবোৰক বিভিন্ন ধৰণে শ্ৰেণীবিভাজন\nকৰা। বৰণ, আকৃতি আদি ধৰ্ম বিবেচনা কৰিব পাৰা।\nগতিকে আমি জানিলোঁ৷ যে ধৰ্মৰ ওপৰত নিৰ্ভৰ কৰি বস্তু বা দ্রব্যবোৰৰ শ্ৰেণীবিভাজন\nকৰিব পাৰি।\n\n5.2 দ্রব্যৰ বিভিন্ন ধৰ্ম\nদ্রব্যৰ কিছুমান ধৰ্মৰ বিষয়ে জানো আহা।\n\n5.2.1 বাহ্যিক ৰূপ\n\nনতুন গজাল দেখিছানে? আকৌ কটাৰীৰ ধাৰ থকা ফালটো মন কৰিছানে ? গজাল আৰু\nকটাৰী লো (আইৰন)ৰে তৈয়াৰী। পানী গৰম কৰিবলৈ ঘৰত কেটলি আৰু চছপেন ব্যৱহাৰ\nকৰা হয়। এইবোৰ সাধাৰণতে এলুমিনিয়ামেৰে তৈয়াৰী। গতিকে তুমি জানিলাই যে লো\nআৰু এলুমিনিয়াম দেখাত বেলেগ; অৰ্থাৎ লো আৰু এলুমিনিয়ামৰ বাহ্যিক ৰূপৰ পাৰ্থক্য\nআছে। তামৰ বাহ্যিক ৰূপ বেলেগ; ই ডাঠ মুগা৷ বৰণৰ। তেনেদৰে কাঠ আৰু বাঁহৰ বাহ্যিক\nৰূপো বেলেগ।\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,ৰ)",
+  "confidence": {
+    "word_count": 202,
+    "mean": 84.19,
+    "median": 94.13,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.49,
+  "page_elapsed_seconds": 3.832,
+  "peak_process_tree_rss_bytes": 300916736,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

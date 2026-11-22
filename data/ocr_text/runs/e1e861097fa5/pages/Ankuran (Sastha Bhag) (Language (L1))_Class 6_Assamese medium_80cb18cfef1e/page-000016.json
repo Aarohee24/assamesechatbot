@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 16,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডেকা কালত আকবৰে চিকাৰ কৰি বৰ ভাল পাইছিল। চিকাৰলৈ গ’লে সদায় লগত বীৰবলক\nনিছিল। পিছে সম্ৰাটৰ এই কাৰ্য বীৰবলে পেটে পেটে ভাল নাপাইছিল। কাৰণ অৱসৰ বিনোদনৰ বাবে\nএনেদৰে চিকাৰ কৰিলে অৰণ্যৰ পশু-\nপক্ষী দিনক দিনে কমি যাব। কিন্তু এই\nকথা তেওঁ সম্ৰাটক পোনে পোনে\nক’লে সম্ৰাট বিতুষ্ট হ’ব বুলি ভয়\nকৰিছিল।\n\nএদিন চিকাৰলৈ যাওঁতে দুয়ো\nভাগৰ পলুৱাবলৈ এজোপা গছৰ তলত\nজিৰাইছিল। তেওঁলোকে যিজোপা\nগছৰ তলত বহিছিল, সেই গছজোপাৰ\nডালত পৰি দুটা ফেঁচাই কুৰুলিয়াই\nআছিল। এনে হেন লাগিছিল যেন\nসিহঁতে কথা পাতি আছে।\n\nতাকে দেখি আকবৰে বীৰবলক\nসুধিলে-- “বীৰবল, তুমিতো পশু-\nপক্ষীৰ মাত বুজি পোৱা! কোৱাচোন, এই ফেঁচা দুটাই কি কথা পাতি আছে!”\n\nসুবিধা পাই বীৰবলে অতি মনোযোগেৰে ফেঁচা দুটাৰ কথোপকথন শুনাৰ ভাও জুৰিলে।\n\nকিছুপৰ এনেদৰে শুনি থাকি তেওঁ ক’বলৈ ধৰিলে--- “জাহাপনা, ফেঁচা দুটা দুখন অৰণ্যৰ ৰজা।\nসিহঁতে দুয়োৰে সন্তানৰ মাজত বিয়া পতাৰ কথা আলোচনা কৰি আছে। ৰাজকৌৱৰৰ পিতাকে সুধিছে",
+  "confidence": {
+    "word_count": 139,
+    "mean": 93.76,
+    "median": 96.22,
+    "minimum": 64.41,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.592,
+  "page_elapsed_seconds": 4.17,
+  "peak_process_tree_rss_bytes": 276516864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

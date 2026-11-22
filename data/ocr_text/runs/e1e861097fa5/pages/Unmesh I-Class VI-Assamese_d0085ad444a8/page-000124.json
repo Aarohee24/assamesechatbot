@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এই গীত ভেকুলী-ৰজাৰ কাণত পৰিলত খঙত টিঙিৰি-তুলা হৈ তেওঁ পুনৰ এখন সভাৰ\nআয়োজন কৰিলে। ভেকুলী-ৰজাক ডা-ডাঙৰীয়াসকলে বুজাবলৈ ধৰিলে--- “মহাৰাজ,\nএয়া খাতু বা উৎসৱৰহে গীত। তেওঁলোকে গাইছে গাওক। আমিও জানো উৎসৱৰ আনন্দ\nঅনুভৱ কৰা নাই?” ৰজাই ডা-ডাঙৰীয়াৰ কথা নামানিলে। ফলত ৰজা আৰু প্রজাৰ মাজত\nমতানৈক্য হ’ল। ৰজাই প্রজাৰ ওপৰত প্রতিশোধ লোৱাৰ কথা ভাবিলে। আনফালে ডা-\nডাঙৰীয়াসকলেও ৰজাক সিংহাসনৰপৰা নমোৱাৰ কথা চিন্তা কৰিলে। মুখ ফুটাই কোনেও\nএকো নক’লেও আটাইৰে মনবোৰ গোমা হৈ থাকিল।\n\nএদিন ভেকুলী-ৰজাই মিতিৰৰ ঘৰলৈ বুলি গৈ থাকৌতে বাটত এখন শিলৰ পাহাৰ পালে।\nসি ইটো শিলৰপৰা সিটো শিললৈ জঁপিয়াই যাওঁতে শিলৰ খোৰোঙত শুই থকা এডাল ফেটীসাপৰ\nবৰ খং উঠিল। বাহিৰলৈ ওলাই আহি ভেকুলীটোক ক’লে--- “তই মোৰ ৰাজ্যলৈ আহি এনেকৈ\nভয় খাই পলাবলৈ খোজোঁতেই সাপে ক’লে--“ক’লৈ পলাবি? মোৰ যুঁজাৰুবোৰক মাতিলে\nচাৰিওফালে তোক মুহূৰ্ততে বেৰি ধৰিব।” ভেকুলী-ৰজাই তেতিয়া সাপৰ নেজত ধৰি তাক\n\nসাপৰ মন গলিল। সি সুধিলে--- “বাৰু, কচোন তইনো ক’লৈ আহিছিলি?” ভেকুলী-\nৰজাই ক’লে--“এই পাহাৰখন পাৰ হ’লেই মোৰ মিতিৰৰ ঘৰ। তালৈকে আহিছিলোঁ ৷ মই\nবৰ চিন্তাত আছো ৷”\n\nভেকুলী-ৰজাই পুনৰ ক’বলৈ আৰম্ভ কৰিলে-_- “মোৰ ৰাজ্যৰ প্রজাই মোৰ কথা নুশুনা\nহ’ল। সিহঁতে মোক ৰজা ভাঙিবলৈ বিচাৰিছে। সেয়ে মোক সমৰ্থন দিব পৰা মিতিৰ বিচাৰি\nআহিছিলোঁ ৷” সাপে ক’লে--- “মোৰ সমান শক্তিশালী তুমি কাকো বিচাৰি নোপোৱা। মোকে\n\n১২৪",
+  "confidence": {
+    "word_count": 194,
+    "mean": 91.17,
+    "median": 93.3,
+    "minimum": 29.85,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.776,
+  "page_elapsed_seconds": 4.433,
+  "peak_process_tree_rss_bytes": 233291776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

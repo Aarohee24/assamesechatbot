@@ -1,0 +1,68 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[)0 )01[ 1৩11010 ?\n\n/%০০৫০][1821.0 16 861]] 0]]151110010113|\nা]]80]])2া)| /১০|, 2002, [66 800]\n০001[0|90[% €010108[]01] [0] 8||| 0]]]|0[ল]] 11] ||16 0৮-14\n৮6806 81010[13 10% 3 [1 [1080] 2118] [+ 12]]|\n102 .%11010|6 2 ]=/% 01 |]]6 0]19111|{10].\n\nউড তং\n\n[.0)010..১%]]0)[খ |= খা.|]||[,]{ &\n\n2]{]*%]][,[,(%]}, [খ()1{ [\",%৮%'()[]]{ [|| |\n\n&]} ৭০10\" ]|[*%1.%[খ |ং10,[]] ](})\n\"৮ }|[[0]] /%][.], (2]]{];= /%\"\"খ])\n%%(0)\"%][];.\"{; %]{1, [, \"4 1]1]1.['])\n\n00/6/ 81%.\n17৮66\" (078807,60৪6,,!\n\nচচ় } ৪0835 উন্ৰউ2][9টল |] সা] {; [)[]; 5]]% 7\n= সা 0503, দৰজে [6 বঠা টা ছন পঞ)া|[ক |নাঢাগচলা অজস] চজ]চ 86 গচ] |ঠগোওাল|,\n৷:\n\n=। এত ক৮ [চৰ ]য। 07098]5 26 81005 80] 13 ]] মো 17513] দো 153 লেক] ০53 182 আদা,\n[30% ]00) ৬0853 [লৰ 8 ধ000]0698 |] আৰি 08 20078 ৰসৰ থ08[[.8. 7\n5851 [07কহি 6] | সাতৰ.\n\n(ষটেযাঘৱত দদনেঘ [ঘণুহ -'] লয় চল। 8100:)লা] দে নে]|ওৱে।\n\n]'চ্ষু 8 জজ |}ল 1} ]]; (গেম\n\n1177 80% ছোঁ এ[|ঢান এইদ্ঃ [লগায়৷ [চতে।-\n\nঢুমছমোত্ত সৈযালা জয়৷ [92 108, (ছঁত }|[শ%]]80ন08;,\n\n2:18, 1 ['এট এৰ 1ালঁহ দদগেছোয তশাযতমমোনাদেো[ 81,\n\nচট ]0 \"১0133 =] 500[]]00]58 1] মৰ 0]; 260])87 12] [)|5]]][0]) 1\n॥1158371]95 21} '2:ম]ল5 দুতয়৷ || [8130] = এই 33210 ত\n\nপদ পমূল৷৷৷এডৰ।৪ [গচ এ.\n\n'ল্্৷ ৮৪ 5] এ ালচ7|.; 55 13 1]95 অকমতাশেষ| মিৰ\n\nদিম [2 গু 6-(ছডেঞঃজদেক্ক৷ =%|| হট এন: 478; (ম| আৰাট়া ৪ ভ9.ভ্াত৪ো [দঁ খবায়ো নিত,\n\nযি এডছ এ ড্ৰ",
+  "confidence": {
+    "word_count": 162,
+    "mean": 24.48,
+    "median": 16.09,
+    "minimum": 0.0,
+    "maximum": 91.67
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.8803,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 13 diacritics",
+        "Detected 13 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2578,
+  "image_height": 3426,
+  "ocr_elapsed_seconds": 3.59,
+  "page_elapsed_seconds": 3.816,
+  "peak_process_tree_rss_bytes": 268759040,
+  "tesseract_warnings": [
+    "Detected 13 diacritics",
+    "Detected 13 diacritics"
+  ],
+  "processed_this_run": true
+}

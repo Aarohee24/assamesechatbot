@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 166,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[] / ১৫ ](ছ্ছ 5.10:\n\n[8106 11166 81899 011101219 2০%৪০1[) 01 ]16 911]]1|8|[ 9126, ৪ ||012\nঘ্া861', 11016 98110, 90106 |)600129 8110 8 008|81106. ][811 {116 001]01219 8৪\n/*, } 8110 (2.\n\n]]81]]]] [01]0]21 /* ছা1{]] ৪8110. 511]]1|81| ৮, |]]8]|[ ]]|| [00111019০1\" ]}\nঘ্ম1{|] ৪0261 8110 00110121 (: 11 )>০001269. ][1[{ 16 00166 ০0128 0106 06%\n01016 05 091116 001 1181109. 70293 ্র|[]10]] 0116 ছ্য0010 026 16812 8110\nঘ্ষ্ম|]10]] 0116 0010 06 |19]1(21'.\n\n]ৈ0ছ%7 ছ%০]8]) 006 [011][01219 0981116 06 0811106 3010 ০011]])81\"6 ক্ষধ]{]]\n001\" 20298.\n\n্ব্য1]160121[ 811 00600 19 1168৮ 01 ]12]1(, 10 ০৪/1 606 6827269960 06% 8\n1210]2610)' ০৪||60 18899. []687121' 00160 1189 11016 111899, ছ্|]]1|6 |19](21[\n00609 118৬6 1689 11899.\n\n'][8|06 [0০ 20720) 0011]0121 01 {116 98116 9126. ][\"1]| 0116 স্1{]] 821.\nখৈ0\"%% |1[{ 016 0600] 00100]219 ছ/1{|]] ৮010][ |181109. ঘখ1|ন8৪({ 0৫0 ঠ00 661? ]]]6\n001]0121 11160 স.্1{]) 8৪21\" 19 |168ঘ1621\" 180] 016 210) 0116, 119]]{/ '[]19\n1]768119 ]18{ স্/৪৮21' 8190 11889 11899.",
+  "confidence": {
+    "word_count": 155,
+    "mean": 40.38,
+    "median": 42.36,
+    "minimum": 0.0,
+    "maximum": 94.17
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.2923,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.813,
+  "page_elapsed_seconds": 3.193,
+  "peak_process_tree_rss_bytes": 303824896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 31,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৪                                                      ৰ ' ৰ ।\nবিহু আদৰণি              |]\n\nব’হাগ বিহুৰ সময়ত প্রকৃতি আৰু মানুহ যেন একাত্ম হৈ পৰে; সকলোৰে মন\n\nৰ          প্ৰাণ ৰঙীন হয়।\nএজন ভজ ৪৭৬ ত --৪ড৮৪২ লিপ্ত ৭১৮৪৪\nলৌকিক আচাৰ আৰু প্রকৃতি-শ্ৰীতিৰ এক সম্ধ্ৰীতিৰ বান্ধোন প্ৰতিভাত হৈ উঠিছে।",
+  "confidence": {
+    "word_count": 42,
+    "mean": 69.03,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.055,
+  "page_elapsed_seconds": 2.621,
+  "peak_process_tree_rss_bytes": 272322560,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

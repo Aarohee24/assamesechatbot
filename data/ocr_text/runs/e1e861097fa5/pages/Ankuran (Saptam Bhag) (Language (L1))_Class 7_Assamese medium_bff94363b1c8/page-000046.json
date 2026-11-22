@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫। শংকৰ, তুমি এতিয়াও বিদ্যালয়লৈ যাবলৈ সাজু হোৱা নাই কিয়?’\n-=- কথাষাৰ কোনে, কাক আৰু কিয় কৈছিল?\n\n৬। {উৰাবাতৰিসমূহ সমাজৰ বাবে একপ্রকাৰ সৌচৰা ৰোগ।’\n-= কথাষাৰৰ বিষয়ে দলত আলোচনা কৰি নিজৰ নিজৰ মতামত প্ৰকাশ কৰ৷।\n\nখ--- ভাষা অধ্যয়ন (ব্যাৰহাৰিক ব্যাকৰণ)\n\nজানো আহা\nপায়েং         === পায়েঙৰ\nখং            === খঙৰ\nদলং           -=-- দলঙত\nৰং             === ৰঙৰ\n\nউল্লিখিত শব্দকেইটাত ‘ং” আৰু ‘ঙ’ৰ ব্যৱহাৰ মন কৰিছানে? মূল শব্দটোত ‘ং’ ব্যৱহাৰ\nহৈছে আৰু যিবোৰত বিভক্তি যোগ হৈছে সেইবোৰত ‘ঙ’ ব্যৱহাৰ হৈছে। ‘৬’ হ’ল\nঅনুস্বৰৰ (ং) ব্যঞ্জনান্ত ৰূপ। অনুস্বৰ যদি শব্দৰ মাজত যুক্তৰূপত থাকে, তেতিয়া অনুস্বৰৰ\nপৰিৱৰ্তন নহয়। যেনে = শংকৰ, সংগীতা ইত্যাদি।\n\n৭। তলৰ বাকচত দিয়া শব্দকেইটাৰে বাক্য ৰচনা৷ কৰা।\n\nদলং             ৰং              কলং                শিং\n\n৮। এটা শব্দত প্রকাশ কৰা--\n(ক) যি একেলগে পঢ়ে --=-৷। (খ) যি জানিবলৈ ইচ্ছা কৰে ==_৷\n(গ) গাঁৱৰ মুখিয়াল ----। ৫ে) কাৰো পক্ষ নোলোৱা ===]\n\n(৬) এজনৰ দেহৰ পৰা আন এজনৰ দেহলৈ যোৱা বেমাৰ === |\n্ঞ্ ৬নং প্রশ্নৰ আলমত অন্যান্য উৰাবাতৰিসমূহৰ বিষয়ে আলোচনা কৰিব।",
+  "confidence": {
+    "word_count": 154,
+    "mean": 83.63,
+    "median": 93.16,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.384,
+  "page_elapsed_seconds": 2.597,
+  "peak_process_tree_rss_bytes": 302288896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

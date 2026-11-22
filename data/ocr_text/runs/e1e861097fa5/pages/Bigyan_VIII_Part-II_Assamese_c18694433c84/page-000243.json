@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 243,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 18.5 : কক্ষপথত চন্দ্ৰৰ বিভিন্ন অৱস্থান আৰু তদনুৰূপ চন্দ্ৰকলা\n\nমনত ৰাখিবা যে চন্দ্ৰই পৃথিৱীৰ চাৰিওফালে     অমাৱস্যাৰ পাছত পৃথিৱীৰ পৰা দৃশ্যমান চন্দ্ৰৰ\n\nপৰিভ্ৰমণ কৰে বা পৃথিৱীক প্রদক্ষিণ কৰে। পৃথিৱীয়ে   উজ্জ্বল অংশটোৰ আকাৰ দিনে দিনে বাঢ়িবলৈ ধৰে।\nআকৌ চন্দ্ৰক লগত লৈ সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণ | “<! পূৰ্ণিমাৰ পাছৰ পৰা পৃথিৱীৰ পৰা দেখা\nকৰে (চিত্ৰ 18.6)।                  পোৱা চন্দ্ৰৰ অংশটো প্ৰতিদিনে সৰু হৈ আহে।\n\nএড\n\nৰ\nএ\nন\n\nশুনিবলৈ পাইছোঁ যে চন্দ্ৰৰ পশ্চাদভা\nপৃথিৱীৰ পৰা কেতিয়াও দৃশ্যমান নহয়।\nকথাটো সঁচানে?\n\nচিত্ৰ 18.5: পৃথিৱীয়ে চন্দ্ৰক লগত লৈ সূৰ্যৰ    ক্ৰিয়াকলাপ 18.3\n\nচাৰিওফালে পৰিভ্ৰমণ কৰি আছে               মাটিতপ্ৰায় ! মিটাৰব্যাসৰবৃত্ত এটা আঁকা ৷ বন্ধু এজনক\n\nএইবৃত্তৰ কেন্দ্ৰত থিয় হ'বলৈ কোৱা। এতিয়া তোমাৰ\n\nবন্ধুক এনেদৰে প্ৰদক্ষিণ কৰা যাতে তোমাৰ মুখমণ্ডল\n\nপূৰ্ণিমা আৰু অমাৱস্যাৰ দিনা সূৰ্য, চন্দ্ৰ আৰু সততে তেওঁৰ ফালে মুখ কৰি থাকে। তোমাৰ\n\nপৃথিৱীৰ আপেক্ষিক অৱস্থানসমূহ অনুমান কৰিব [পিঠিফাল তেওঁ দেখিবনে? তোমাৰ এটা প্ৰদক্ষিণত\n\nপাৰিবানে? টোকাবহীত এই অৱস্থানসমূহৰ ছবি আঁক৷ ৷ ৷ কেইটা আৱৰ্তন সম্পূৰ্ণ হ'ল? চন্দ্ৰই পৃথিৱীক এনে\nআকাশৰ কোনটো অংশত পূৰ্ণিমাৰ চন্দ্ৰ দেখা যাব?ঃ |ধৰণেইপ্রদক্ষিণ কৰে।\n\nতৰা আৰু সৌৰজগত /91%1২৪ খা) 1; 501.1২ ৪৮97]                                                                                            228.",
+  "confidence": {
+    "word_count": 170,
+    "mean": 85.57,
+    "median": 93.39,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.902,
+  "page_elapsed_seconds": 3.173,
+  "peak_process_tree_rss_bytes": 313217024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

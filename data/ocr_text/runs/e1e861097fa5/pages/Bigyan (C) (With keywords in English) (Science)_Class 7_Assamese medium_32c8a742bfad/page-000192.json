@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 192,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "15.3 সৌ নে বাওঁ! (]২19]৷0। 01\"1610\n\nতুমি যেতিয়া নিজৰ প্রতিবিম্বটো সমতল দাপোণত\nএকে যেন দেখা যায়নে? দাপোণত গঠন হোৱা\nতোমাৰ প্রতিবিশ্ব আৰু তোমাৰ মাজত থকা এটা\nআমোদজনক পাৰ্থক্য কেতিয়াবা লক্ষ্য কৰিছানে?\nআলোচনা কৰোঁ আহা।\n\nক্ৰিয়াকলাপ (৯1%) 15.4\n\nএখন সমতল দাপোণৰ সন্মুখত থিয় হৈ নিজৰ\nপ্রতিবিম্বটো লক্ষ্য কৰা। তোমাৰ বাঁওখন হাত দাঙা।\nতোমাৰ প্রতিবিম্বই কোনখন হাত দাঙিলে (চিত্ৰ-\n15.8)? এতিয়া তোমাৰ সৌ কাণখন স্পৰ্শ কৰা।\nপ্রতিবিম্বত হাতখনে কোনখন কাণ স্পৰ্শ কৰিলে?\nমনোযোগেৰে লক্ষ্য কৰা। দেখা পাবা যে দাপোণত\n‘সোঁফাল’ক ‘বাঁওফাল’ যেন লাগে আৰু ‘বাঁওফাল’ক\n‘সোঁফাল’ যেন লাগে। মন কৰিবা যে অকল\nওলোটা নেদেখি।\n\nএতিয়া এটুকুৰা কাগজত তোমাৰ নামটো লিখা\n\nচিত্ৰ 15.8 বাঁও হাতখন প্রতিবিম্বত সোঁফালে দেখি\n(][.610118110 8]1)[)681'9 01] {]16 11 9]]1{ 91062\n1]] 116 11882)\n\n178\n\nচিত্ৰ 15.9 এখন এম্বুলেঞ্চ (/%।1 311100181102)\n\nআৰু ইয়াক এখন সমতল দাপোণৰ সন্মুখত ধৰা।\nদাপোণত ইয়াক কেনেকুৱা দেখি?\n\nপ্ৰজ্ঞানে আলিবাটত এখন এম্বুলেন্স\nদেখিছিল। গাড়ীখনৰ সন্মুখ ভাগত\n\"/71া$[]}3[}[./$1খ'8\"' শব্দটো এক আচহুৱা\nধৰণে লিখা দেখি সি আচৰিত হৈছিল।\n\nচিত্ৰ 15.9 ত দেখুওৱাৰ দৰে /1[]3[}1[./]খ('[;\nশব্দটো লিখাৰ কাৰণ এতিয়া বুজি পাইছানে? এনেকৈ\nলিখিলেহে এম্বুলেন্স এখনৰ আগে আগে গৈ থকা\nগাড়ীৰ চালকজনে তেওঁৰ পিছফাললৈ চোৱা দাপোণত\n/%9/]3[][./%)খ৫']8 শব্দটো সঠিকভাৱে পঢ়িব পাৰিব\nআৰু লগে লগে বাট এৰি দিব পাৰিব। এম্বুলেন্সক বাট\nএৰি দিয়াটো আমাৰ সকলোৰে কৰ্তব্য।\n\nস্কুচীৰ বা গাড়ীৰ কাষৰ দাপোণত (১1062\n1]]11101') লক্ষ্যবস্তুৰ প্রতিবিম্ব লক্ষ্যবস্তুতকৈ সৰু\nআকাৰৰ হয়৷ কিয় এনে হয় কেতিয়াবা ভাবি চাইছানে?\n\nবিজ্ঞান",
+  "confidence": {
+    "word_count": 216,
+    "mean": 86.82,
+    "median": 95.72,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.282,
+  "page_elapsed_seconds": 3.68,
+  "peak_process_tree_rss_bytes": 291340288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

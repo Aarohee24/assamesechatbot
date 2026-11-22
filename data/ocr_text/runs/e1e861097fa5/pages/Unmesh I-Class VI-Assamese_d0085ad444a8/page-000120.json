@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 120,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ৯। তলত দিয়া শব্দবোৰৰ বিপৰীতাৰ্থক শব্দবোৰ পাঠৰপৰা বাছি উলিয়াই লিখা।\n\nটি জানো আহা--\nতোমালোকে তলত দিয়া বাক্যটোলৈ মন কৰা-_\nমানুহ মানৱীয় গুণৰ অধিকাৰী নহৈ দানৱ এই গুণৰ অধিকাৰী হ’লৈ মানুহেই লাজ পাব।\n\nবাক্যটোত ‘পাব’ ক্ৰিয়াটোৱে কোনো এটা, কাৰ্য সমাপ্ত হোৱা বুজাইছে। এনেদৰে বাক্য\nসমাপ্ত হোৱা বা সম্পূৰ্ণ কৰা ক্ৰিয়াবোৰক সমাপিকা ক্ৰিয়া বোলে। কিন্তু ‘নহৈ” আৰু ‘হ’লে’ ক্ৰিয়া\nদুটাই বাক্যটো সমাণ্ড বা সম্পূৰ্ণ হোৱা অৰ্থ প্রকাশ কৰিব পৰা নাই। যি ক্ৰিয়াই বাক্য সমাপ্ত বা\nসম্পূৰ্ণ কৰিব নোৱাৰে, সেই ক্ৰিয়াবোৰক অসমাপিকা ক্ৰিয়া বোলে।\n\nঠ/ ১০। গীতটোও্‌ থকা সমালিকী আৰু অসমাপিকা ক্ৰিয়াবোৰ বিচাৰি উলিয়াই লিখা।",
+  "confidence": {
+    "word_count": 93,
+    "mean": 87.95,
+    "median": 93.3,
+    "minimum": 28.43,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.517,
+  "page_elapsed_seconds": 4.627,
+  "peak_process_tree_rss_bytes": 222949376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

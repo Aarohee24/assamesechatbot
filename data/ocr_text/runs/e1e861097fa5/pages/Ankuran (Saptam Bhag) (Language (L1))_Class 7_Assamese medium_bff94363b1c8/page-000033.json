@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মহৰ্ষি পাণিনি ঃ মহৰ্ষি পাণিনিয়ে ‘অষ্টাধ্যায়ী’ নামে সংস্কৃত ভাষাৰ ব্যাকৰণ\nপ্ৰণয়ন কৰে। এই ব্যাকৰণখনেই বিশ্বৰ ভিতৰত স্বীকৃত বিজ্ঞানসন্মত ব্যাকৰণ\nপুথি। জন বেকাচ (10011 83005) নামে এজন বিজ্ঞানীয়ে এই ব্যাকৰণ পুথিখনৰ\n\nভিত্তিত পোন প্ৰথমে তথ্য প্রযুক্তিৰ আহিলা কম্পিউটাৰৰ উপযোগীকৈ ‘কৃত্ৰিম\nভাষা প্রযুক্তি’ নিৰ্মাণ কৰে৷ এই প্ৰযুক্তিক ‘যান্ত্ৰিক ভাষা’বুলি কোৱা হয়। ভাষাটো\nকম্পিউটাৰ জগতত ৪২ (297 ৪৭01405 14011719| [0117)) নামে\nজনাজাত। পাণিনিৰ এই অৱদানৰ বাবে বিশ্বই সদায় ভাৰতবৰ্ষ আৰু সংস্কৃত\nভাষাৰ ওচৰত খ৷ণী হৈ থাকিব।\n\nঘ-- প্রকল্প\n১৪। প্ৰত্যেকজন ছাত্ৰ-ছাত্ৰীয়ে নিজৰ গীৱৰ/ঠাইৰ সকলোৱে জনা এজন ব্যক্তিৰ (লিখা-\nএটা বিষয়ত পাৰ্গত)ৰ বিষয়ে আনক সুধি বা নিজে সেই ব্যক্তিৰ লগত দেখা কৰি\nতেখেতৰ বিষয়ে তথ্য সংগ্ৰহ কৰি লিখিবা।\n\n১৫। ভৱিষ্যতে কোনে কি হ’বলৈ বিচৰা আৰু কিয় হ’ব বিচৰা সেই বিষয়ে লিখা।\n\n= ১৪ নং কাযৰ্টো কৰোঁতে দুজন ছাও/ছাতৰীক লিখাখিনি সংগহ কৰিবলৈ দিব। ভাল আখৰৰ কেইজনমান ছাত/ছাত্ৰীক একে\nজোখৰ কাগজত লিখিবলৈ দিব আৰু এখন হাতেলিখা আলোচনী প্রভত কৰি উলিওৱাত সহায় কৰিব। সেই আলোচনীখন\nজীৱনী সংকলন হিচাপে প্ৰভূত কৰিব।\n\n7 ১৫ নং কাযৰ্টো কৰোঁতে সহায় কৰিব।",
+  "confidence": {
+    "word_count": 160,
+    "mean": 85.29,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.66,
+  "page_elapsed_seconds": 2.972,
+  "peak_process_tree_rss_bytes": 296267776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

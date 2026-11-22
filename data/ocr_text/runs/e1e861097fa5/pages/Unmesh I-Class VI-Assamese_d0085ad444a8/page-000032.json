@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 32,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৩\n\nপুথি অধ্যয়ন\n\n[ অধ্যয়ন এটা সু-অভ্যাস । এই অভ্যাসে এজন মানুহক বৌদ্ধিক আৰু মানসিক দিশত শক্তি\n\nকৰি তোলে । জীৱনত উন্নতি কৰিবলৈ প্রয়োজন হোৱা ওণৰাজি পুথি অধ্যয়নৰ যোগেদি লাভ কৰিব\nপাৰি। এই পাঠটিত পুথি অধ্যয়নৰ গুৰচ্ত আৰু প্ৰয়োজনীয়তাৰ বিষয়ে আলোচনা কৰা৷ হৈছে।\n\nপঢ়া --\nপুথি অধ্যয়ন বিদ্যা উপাৰ্জনৰ এটা ঘাই উপায়। পুথি নপঢ়াকৈ কোনেও ক’তো বিদ্যা\nলাভ কৰিব মোৱাৰে। পুথিৰ বিদ্যা থুপাই থোৱা ধনৰ নিচিনা। আনে থুপাই থোৱা ধন হাতত\n\nপৰিলে ধন আৰ্জনৰ দুখ-কষ্ট ভোগ নকৰাকৈ ধনৰ ফল ভোগ কৰিব পাৰি। সেইদৰে আনে থুপাই\nথোৱা বিদ্যা হাতত পৰিলে বিদ্যা আৰ্জনৰ দুখ-কষ্ট ভোগ নকৰাকৈ বিদ্যাৰ ফল ভোগ কৰিব\nপাৰি। প্রত্যেক পুথি একোজন মানুহৰ থুপাই থোৱা বিদ্যাৰ ভঁৰাল। লিখকে বহুত পুৰুষাৰ্থ কৰি\nসেই ভঁৰাল বান্ধি থয়, আমি কেৱল পুথিখন পঢ়িয়েই তেওঁৰ আৰ্জিত আটাইখিনি বিদ্যা লাভ\nকৰিব পাৰৌ। আনৰ আৰ্জিত বিদ্যা এইদৰে সঞ্চয় নকৰাহেঁতেন, পুৰুষে সকলো কথা নতুনকৈ\nশিকিবলগীয়া হোৱাহেঁতেন মানুহে কেতিয়াও ইমানখিনি উদ্‌গতি কৰিব নোৱাৰিলেহেঁতেন।\nভাপৰ বল আৰু বিজুলীৰ বল পোন প্ৰথমে উলিয়াওঁতে বহুত চিন্তা, বহুত সময় আৰু বহুত ধন\nখৰচ হৈছিল। কিন্তু এতিয়া পুথি পঢ়িয়েই মানুহে তাক ভালকৈ শিকি ল’ব পাৰে।\n\n৩২",
+  "confidence": {
+    "word_count": 173,
+    "mean": 91.65,
+    "median": 96.15,
+    "minimum": 3.85,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.126,
+  "page_elapsed_seconds": 3.888,
+  "peak_process_tree_rss_bytes": 284741632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

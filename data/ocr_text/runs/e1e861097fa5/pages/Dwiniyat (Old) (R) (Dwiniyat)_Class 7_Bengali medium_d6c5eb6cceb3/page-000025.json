@@ -1,0 +1,68 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 25,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২০          দ্বীনিয়াত\n\nপ্ৰ ঃ$-_- কি বর্লকমের নিদ্ৰা দ্বারা ওজু নষ্ট হয়না?\n\nউ ঃ-- দণ্ডায়মান অবস্থায় নিদ্ৰা যাওয়া, কোন জিনিষের উপর নিৰ্তর\nনা কর্লিয়া নিদ্ৰা যাণ্ডয়া, সোজা বসিয়া নিদ্ৰা যাণ্ডয়া, অথবা নামাজের আকারে\nশুইয়া নিদ্ৰা গেলে যেমন চিজদার মধ্যে বা তশহুদ পড়া অবস্থায় নিদ্ৰা গেলে\nওজু নষ্ট হয়না।\n\nপ্র £-- এমন কোন লোক আছে কি যিনি শুইয়া গেলেও্ড তাহার ওজু\nনষ্ট হয়না?\n\n-_ নবী গণে ওজু নিদ্ৰা দ্বারা নষ্ট হয়ন৷, উহা 'তাহাদের বৈশিষ্ট্য।\n3-_- কাহ কাহ বা উচ্চহস্বরে হাসি দিলে নামাজের মধ্যে সকলের\nগওজু কি নষ্ট হয় এবং কাহ বলিতে কি বুব্যায়?\n\nউ £--_ কাহ কাহ এর অৰ্থ বেগে হাসা যে হাসির স্বর আশে পাশের\nলোক শুনিতে পায়। নামাজে কাহ কাহ করিয়া হাসিলে ওজ নষ্ট হইয়া যায়\nনিম্নলিখিত শৰ্ত সাপেক্ষে। (১) হাসি নাতা বয়ঃশলাণ্ড হইতে হইবে কারণ\nঅশ্ৰাপ্ত বয়সের লোকের কাহ কাহ দ্বারা ওজু নষ্ট হয়না। (২) জাগ্ৰত অবস্থায়\nহাসি দিলে কারণ নামাজে তন্দ্ৰাভাব বা নিদ্ৰিত অবস্থা আসিয়া পড়িলে এবং\nসেই অবস্থায় কাহ কাহ করিয়া হাসিলে ওজু নষ্ট হয়না। (৩) ক্লকু এবং\nনামাজে কাহ কাহ করিয়া হাসিলে নামাজ নষ্ট হয়না।\n\nপ্র £-- অপর ব্যক্তির স্থানের দিকে দৃষ্টিপাত ঘটিলে ওজু নষ্ট হইবে\nকি?\n\nউ $-- নিজের অথবা অপরের লজ্জাস্থানের দিকে দৃষ্টিপাত করিলে\nওজু নষ্ট হয়না।\n\nশোছল সংব্ৰণত্ত বিভিন্ন মোছলা\n\nপ্ৰ £_-গোছল কত প্ৰকারের!?\n\nউ £ঃ--_- তিনি প্রকারের যথ| (১) ফরজ (২) ছুন্নত (৩) মোজ্ঞাহাব।\nপ্ৰ ঃ-_ ফরজ গোছলের সংখ্যা কত?\n\nউ ঃ-_ ফরজ গোছল ৩টি। উহার বৰ্ণনা পরবৰ্তী খণ্ডে প্রদত্ত হইবে।\nপ্ৰ :--- সুনলনত গোছলের সংখ্যা কত এবং কি কি?\n\nউ £-- সুমত গোছলের সংখ্যা চার যথা (১) জুসমার নামাজের গোছল",
+  "confidence": {
+    "word_count": 249,
+    "mean": 82.21,
+    "median": 91.75,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 0.9999,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 15 diacritics",
+        "Detected 15 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.826,
+  "page_elapsed_seconds": 2.995,
+  "peak_process_tree_rss_bytes": 248778752,
+  "tesseract_warnings": [
+    "Detected 15 diacritics",
+    "Detected 15 diacritics"
+  ],
+  "processed_this_run": true
+}

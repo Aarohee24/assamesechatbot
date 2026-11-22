@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 89,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৬। অভিনঞ্ন ক্ষৰোঁ আহা--\n(গ্রজৈপা গছৰ ছাঁত জিতু আৰু মিতু বহি ফল খাই থাকিব )\n\nগছ $-      জিতু, মিতু মোৰ ছাঁত বহি কি খাই আছা?\n\nজিতু, গিতু &৪{ গছ ককাই, তোমাৰ পৰাই দেখোন মিঠা ফল লৈছোঁ। তাকে খাই আছোঁ\nআক’।\n\nগছ £-     ঠিক আছে বাৰু। পিছে, ফলৰ বাকলি আৰু গুটি য’তে ত’তে নেপেলাবা\nদেই।\n\nখৰিকটায়া $ঃ বাঃ এইজোপা গছেই ভাল হ'ব।\n(গছৰ ডালত বহি ভাটো এটাই সুহুৰি বজাই থাকি হঠাতে ৰৈ যাব আৰু\nগছক ক'ব)\n\nভাটো £-  গছ ককাই, চোৱাচোন , সৌ খৰিকটীয়া দুজনে দা, কুঠাৰ লৈ এইফালেই\nআহিছে। তোমাক কাটিবলৈ আহিছে নেকি? তোমাক কাটিলে আমি ক’ত\nথাকিম?\n\nগছ:ঃ-   (গছে খৰিকটায়া অহা দেখি ক’ব) মোক তোমালোকে কিয় কাটিব খুজিছা ?\nসিহঁতে বাহ সাজি থাকে। মোৰ ডালতেই চৰাই বিলাকেও আহি খেলা-ধূলা\nকৰে। মইতো তোমালোকে সেৱন কৰা বায়ুও শোধন কৰোঁ। তথাপি মোক\nকাটিবলৈ বিচাৰিছা কিয়?\n(গছত থকা চৰাই-চিৰিকটি, বান্দৰ আটায়ে চিঞৰি উঠিব)\n\nচৰাই-চিৰিকটি £ঃগছজোপা নাকাটিবা, গছজোপা নাকাটিবা, নাকাটিবা\n\nজিতু, মিতৃ ৪; (কান্দি কান্দি) তোমালোকে গছ ককাইক নাকাটিবা ৷ তোমালোক উভতি\nযোৱা। গছ আমাৰ মিতা। (গছক সাৱটি ধৰিব)\n\nখৰিকটীয়া £- _এৰাতো, তোমালোকে ঠিকেই কৈছা।আমাৰ ভুল হৈছিল। আমাক বেয়া\nনাপাবা দেই। আমি যাওঁগৈ । আজিৰ পৰা আমিও তোমালোকৰ লগৰীয়া।\n(খৰিকটীয়া যাবগৈ)\n(আটায়ে একেলগে) £- হাঃ হাঃ হাঃ হাঃ\n\nপ্ৰ                     বাঃ বাঃ বাঃ বাঃ\n\n= ছাত্ৰ-ছাত্ৰীক লৈ শ্েণীকোণাত অভিনয় কৰোৱাব।\n    কল” নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 210,
+    "mean": 89.07,
+    "median": 95.86,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 3.189,
+  "page_elapsed_seconds": 3.494,
+  "peak_process_tree_rss_bytes": 251285504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

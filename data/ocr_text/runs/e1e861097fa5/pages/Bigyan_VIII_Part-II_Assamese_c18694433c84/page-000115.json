@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 115,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী ঃ\n1) অন্তঃআৱী গ্ৰন্থিয়ে দেহৰ পৰিৱৰ্তনৰ বাবে নিঃসৰণ কৰা পদাৰ্থসমূহক কি নামেৰে নামকৰণ\nকৰা হৈছে?\n2) কৈশোৰ কাল কাক বোলে?\n3) মাহেকীয়া খ৷তু চক্র কি? ব্যাখ্যা কৰা।\n4) যৌৱন প্ৰাপ্তিৰ সময়ত হোৱা দেহৰ পৰিৱৰ্তনসমূহৰ তালিকা কৰা।\n5) অন্তঃস্ৰাৱী গ্ৰন্থিসমূহ আৰু নিঃসৰণ কৰা৷ হৰম’ন নামৰ এখন তালিকা দুটা স্তম্ভত প্রস্তুত কৰা।\n6) যৌন হৰম’ন কি? সেইবোৰক কিয় এনে নাম দিয়া হ’ল? সেই হৰম’নবোৰৰ কাৰ্যৰ বৰ্ণনা দিয়া।\n7) উপযুক্ত উক্তিটো বাছি উলিওৱা।\n(8) কিশোৰ-কিশোৰীসকল আহাৰ সম্পৰ্কে সচেতন হোৱা উচিত, কিয়নো\n(1) উপযুক্ত খাদ্যই মগজুৰ বিকাশত সহায় কৰে।\n(11) শৰীৰত হৈ থকা দ্ৰুত বৃদ্ধিৰ বাবে উপযুক্ত আহাৰৰ প্রয়োজন।\n(1{}) কিশোৰ-কিশোৰীসকলৰ সদায় ভোক বেছি।\n(1৮) কিশোৰ-কিশোৰীসকলৰ স্বাদমুকুল অধিক সন্ৰিয়।\n(৮) মহিলাৰ প্রজননৰ বয়স আৰম্ভ হয় তেতিয়া\n(1) যেতিয়া মাহেকীয় ধাতু চক্র আৰম্ভ হয়।\n(11) যেতিয়া স্তনৰ বিকাশ হয়।\n(11) যেতিয়া দেহৰ ওজন বাঢ়ে।\n(1৮) যেতিয়া ওখ হয়।\n(০) কিশোৰ-কিশোৰীৰ যথোপযুক্ত আহাৰ সামগ্ৰী হ’ল\n(1) চিপ্‌ছ, চাওমিন, কে’ক\n(1) ৰুটি, দাইল, শাক-পাচলি\n({1) ভাত, চাওমিন, বাৰ্গাৰ\n(1৮) শাক-পাচলি যুক্ত কাটলেট, চিপছ্‌ আৰু নেমুৰ ৰস।\n8) চমুটোকা লিখা-\n(8) ডিঙিৰ ঘটিকা\n(৮) গৌণ লিংগ চৰিত্র\n(০) জন্মপূৰ্বক লিংগ নিৰ্ণয়\n\nকৈশোৰ প্ৰাপ্তি /1[২চ-১৫[খ6 ][]]}; ০; 0]7.41)201.,[:90খ07;                                                                                                                    100",
+  "confidence": {
+    "word_count": 181,
+    "mean": 84.93,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.183,
+  "page_elapsed_seconds": 3.437,
+  "peak_process_tree_rss_bytes": 308658176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

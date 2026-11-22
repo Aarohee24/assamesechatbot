@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 60,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(4) তলৰ বাক্যবোৰ মিলোৱা ঃ\n\n(৪8) স্থলৰতাহ বলে                          (০) গ্ৰীষ্মকালত\n(০) জলবতাহ বলে                          (0) শীতকালত\n(০) গাঢ় ৰঙৰ বস্ত্ৰ পচন্দ কৰা হয়     (৮) দিনত\n\n(0) পাতল ৰঙৰ বস্ত্ৰ পচন্দ কৰা হয়    (])) ৰাতি\n(5) শীতকালত মাত্ৰ এখন ডাঠ কাপোৰৰ সলনি একাধিক তৰপৰ কাপোৰ পিন্ধিলে আমাৰ শৰীৰ কিয়\nবেছি গৰম হৈ থাকে আলোচনা কৰা।\n(6) তলৰ চিত্ৰ 4.13 টো লক্ষ্য কৰা। পৰিৱহণ, পৰিচলন আৰু বিকিৰণ প্রক্ৰিয়াৰে তাপ সঞ্চালিত হোৱা\nস্থানবোৰ চিহ্নিত কৰা।\n\nচিত্র 4.13\n\n(7) উষ্ণ ([]00 01110802) জলবায়ুৰ অঞ্চলৰ ঘৰবোৰৰ বহিঃবেৰত বগা ৰং দিবলৈ পৰামৰ্শ (/%০%1560)\nদিয়া হয়। ব্যাখ্যা কৰা।\n\n(8) 30৭: ত থকা এক লিটাৰ পানী 50০ (\" ত থকা এক লিটাৰ পানীৰ লগত মিহলি কৰা হ’ল।\nমিশ্ৰণৰ উষ্ণতা হ’ব ==\n(8) 80০                   (০) 50%: ত কৈ বেছি কিন্তু 80০0\" তকৈ কম\n(০) 205                   (0) 30% আৰু 50%; ৰ মাজত\n\n46                      বিজ্ঞান",
+  "confidence": {
+    "word_count": 133,
+    "mean": 88.13,
+    "median": 95.91,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.099,
+  "page_elapsed_seconds": 2.366,
+  "peak_process_tree_rss_bytes": 293470208,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

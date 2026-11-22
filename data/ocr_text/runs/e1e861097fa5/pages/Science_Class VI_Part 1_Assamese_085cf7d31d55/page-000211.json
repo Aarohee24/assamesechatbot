@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 211,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "। তৎক্ষনাৎ চাহ একাপ বনাবলৈ চাহ মোনা ব্যৱহাৰ কৰা হয়।\n। তুমি এনে চাহ মোনা দেখিছা চাগৈ। একাপমান চাহৰ বাবে\n। দৰকাৰী কম পৰিমাণৰ চাহপাতৰ গুড়ি এটা তেনেই সৰু\n। আকাৰৰ মোনাত ভৰাই ৰখা হয়। আগতে পাট, মচলিন আদি\n। মিহি কাপোৰ এই মোনাবোৰ প্রস্তুত কৰিবৰ বাবে ব্যৱহাৰ\n' হৈছিল। পাট আৰু মচলিন কাপোৰ টান বাবে গৰম পানীত\n। চিঙি নাযায়। গৰম পানীতো এই কাপোৰে চাহপাতবোৰ ধৰি\n৷ ফিল্টাৰ কাগজ ব্যৱহাৰ কৰা হয়।\n\nপানী আৰু বালিৰ মিশ্ৰ এটা পৰিম্ৰাবণ পদ্ধতিৰে পৃথক কৰিব পাৰি। এতিয়া, পানী\nআৰু নিমখৰ মিশ্ৰ এটাৰ ক্ষেত্ৰত কি কৰা যাব? এই মিশ্ৰটো পৰিস্ৰাৱণৰ দ্বাৰা পৃথক কৰিব\nপাৰিবানে?\n\n[] ভ্রয়াককলাপ 6.6:\nনিমখ-পানীৰ মিশ্ৰৰ পৃথকীকৰণ।\n\nকি কি বস্তু লাগিব : ক্ৰিয়া-কলা৷প 6.5 ত ব্যৱহৃত কটা বটলৰ টুকুৰা দুটা, নিমখ, পানী,\nএটা গিলাচ, চাকি, টিনৰ পাত্ৰ (নাৰিকল তেলৰ খালী টিনৰ টেমা ল'ব পাৰা) আৰু\nএডাল ষ্টেণ্ড ।\n\nকেনেকৈ কৰিবা :\n\n* গিলাচটোত অলপ পানীলৈ তাত নিমখখিনি দি লৰাই দিয়া।\n\nঞ$ঁ নিমখপানীখিনি চুপিটোত ঢালি ক্ৰিয়া-কলাপ 6.5 ৰ দৰে পৃথক কৰিবলৈ চেষ্টা\nকৰা। নিমখখিনি পৃথক হৈছেনে? কাপোৰত কিবা ৰৈ গৈছে নেকি? কি দেখিলা লিখি\nৰাখ৷৷\n\n৫ বটলৰ তলৰ অংশৰ টুকুৰাটোৰ পৰা নিমখ পানীখিনি টিনৰ পাত্ৰটোত লোৱা।\n+ টিনৰ পাত্ৰটো ষ্টেণ্ডত ৰাখি তলত চাকিটো জ্বলাই দিয়া। পানীখিনি সম্পূৰ্ণ উৰি\nনোযোৱা লৈকে গৰম কৰি থাকা।\n\nঞ টিনৰ পাত্ৰটোৰ ভিতৰত কি দেখিলা লিখি ৰাখা ।",
+  "confidence": {
+    "word_count": 210,
+    "mean": 87.94,
+    "median": 95.39,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.11,
+  "page_elapsed_seconds": 3.496,
+  "peak_process_tree_rss_bytes": 304340992,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

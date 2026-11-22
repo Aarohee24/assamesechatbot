@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 241,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 7.2 (0) : জন্মু-কাশ্মীৰৰ বৰফাবৃত পৰ্বত\n\n7.4 অসমৰ জলবায়ু : কৃষি আৰু দৈনন্দিন,জীবনত ইয়াৰ প্রভাৱ\n\nঅসম আৰু উত্তৰ পূৰ্বাঞ্চলত প্ৰচুৰ পৰিমাণে বৰষুণ হয়। এই অঞ্চলৰ বায়ুৰ আৰ্দ্ৰতা\nবেছি। ক্ৰান্তীয় মৌচুমী জলবায়ুৰ বাবে অসম নাতিশীতোষ্ণ ঠাই৷ সেয়েহে অসমৰ জলবায়ু\nসাধাৰণতে ক্ৰান্তীয় মৌচুমী বৃষ্টিপাত ধৰ্মী। নাতিশীতোষ্ণ জলবায়ু অঞ্চলত হোৱা খাতু\nপৰিৱৰ্তন এই অঞ্চলৰ মানুহেও উপভোগ কৰে।\n\nতোমালোকে জানা যে সকলো উদ্ভিদৰ বৃদ্ধি সূৰ্যৰ পোহৰ, পানী আৰু মাটিৰ ওপৰত\nনিৰ্ভৰশীল৷ গতিকে যিকোনো এখন ঠাইৰ কৃষি সেই ঠাইখনৰ বতৰ, জলবায়ু আৰু মাটিৰ\nওপৰত নিৰ্ভৰশীল হয়। প্ৰীষ্ম, বৰ্ষা, শৰৎ, শীত আদি প্রতিটো খতুত বায়ুৰ চাপ, তাপ, বৰষুণৰ\nপৰিমাণ আদি বেলেগ বেলেগ হয়। অসমতো খাতু অনুসৰি ভিন ভিন খেতি কৰা হয়।\nগ্ৰীষ্ম আৰু বৰ্ষা কালত অসমত দক্ষিণ - পশ্চিম মৌচুমী বতাহৰ ফলত যথেষ্ট বৰষুণ হয়।\nসেই সময়ত বায়ুৰ উষ্ণতাও বেছি হয়। ধান, মৰাপাত আদি খেতিৰ বাবে এনে বতৰ উপযোগী\nহোৱা বাবে অসমত এইবোৰ খেতি কৰা হয়। এইবোৰক খাৰিফ শস্য বোলে। তেনেদৰে\nশৰৎ আৰু শীত খ৷তুৰ আৰম্ভণিতে (খৰাং কালত) ঘেঁহু, মাকৈ, সৰিয়হ আদি ৰবি শস্যৰ\nখেতি কৰা হয়। সাধাৰণতে আলু, পালেং আদি শাক-পাচলিৰ খেতি শীতকালত কৰা হয়\nকিয়নো এনে খেতিৰ বাবে তাপ আৰু পানী কম পৰিমাণে লাগে। এনেকৈয়ে জলবায়ু আৰু\nকৃষিৰ মাজত এটা সু-সম্পৰ্ক আছে।\n\nউচলতেওঁত তত তত তত তত ০০০০০ ০০০০০ ০০০০০, ০০০০,6.90",
+  "confidence": {
+    "word_count": 200,
+    "mean": 85.45,
+    "median": 95.66,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.118,
+  "page_elapsed_seconds": 3.506,
+  "peak_process_tree_rss_bytes": 294191104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

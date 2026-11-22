@@ -1,0 +1,70 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 174,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৬ ১০106 0016008 ০৪01 66 ০118169০0 0% 100011196 1{|] 00121\"\n00160.\n\n৬ ]]]6[6 816 (0 11109 01 ০]181829 - |)091014৮6 ০]1809662\n810016880%46 ০]1819862\n\nঙ্*_]]]১96 011818629 1626] 8010 01]|1](6 011818669 ৪0800 6801]\n00121.\n\nশম ]]]16 ০1600108] ০181829 ])100006০0 06% 10001116 8162\n০৪]160 90800 0]1819629.\n\n৬ 1120 ০1818 1]]0%96, 6 ০0108]     1] 21০00016\n০011621]{.\n\n৬ //1) 61600.090026 18% লে: 0৫2606600 স1120121' 8\n00019 ০11819620 01\"\n\nম ]]])6 [0100698 01 ৩ ৭০৬ ০18182       8 ০1181660\n006160{010 16.281] 119 ০৪||20.   :\n\nকম ]]6 ০:    8016০          6 06866] ০10009\n\n8000           01 ২২        2121] ০10009 ০৪80929\n|]\n2\" ০ ৬ ৪01              তৰ 116 8110 |)10])21\"0%/.\n|       ২৮.        019 ০৪1] [21060 0011011169 11\"01]]\n| 806 1.         ]1071119.\nঙ্৬ /া)             10618 8 9000621] 9]18|৩116. 01 0\"211]0]11]16 01\n\nধী'.,, 19 ০8090 0% ৪ 018001081106 06262]) 119102\n16 281071)9 গে09/.\n\n৬ ][19 110020991012 10 [60100 016 0০০0112106 01 8]\n6৪81\"07008126.\n\n> 1781)008|669 21100 00 ০0০০0[' ৪0 116 060010081169 01\n681\"01*9 ])]869. [1696 60011081169 816 110ঘা। 8৪ ি0|{\n20128.\n\n= 1)269070001৮6 21121) 01 811 ০8100008106 15 11]16890160\n011 016 1ং10]1(21' 90812. '[]16 ০৪81070081৩6 1]689011116 7\n01\" 1016 01] ]২101](61\" 30812 ০৪11 ০8082 ৪6৮216 0801188662\n10 116 8110 1210])6109.\n\n৬ ঘ%)/০ 9]10010 18]06 1116069981'7 )16080000119 (0 [10160\n001961%9629 11\"01]] ০8107008|29.\n\n৩\n\nবিজ্ঞান /৪ণেখচে",
+  "confidence": {
+    "word_count": 201,
+    "mean": 41.84,
+    "median": 37.8,
+    "minimum": 0.0,
+    "maximum": 95.43
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.2727,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 28 diacritics",
+        "Detected 28 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.577,
+  "page_elapsed_seconds": 3.892,
+  "peak_process_tree_rss_bytes": 313384960,
+  "tesseract_warnings": [
+    "Detected 28 diacritics",
+    "Detected 28 diacritics"
+  ],
+  "processed_this_run": true
+}

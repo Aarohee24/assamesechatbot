@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "/%$1ং 3] }/*৮]'][নু : & (6%০০০]৫ }11 /১৪১৪1]1686 10620101]} 101 ০1899 ]]], [60810 ৪100 31210%460 0) 16\n130310. 01 ৪০6০৩1103179/ 00081011, ১১৪৪]]] 3110 000]151160 0) 016. /১৪59]7} 50802 '] 2ম00001 }\"!'0000001)\n8100 })0011080011 €০11201.811017 ][]]]}}/৩0, 00%8]180 011 1)6]13]11 01 (*0%(, 01 /১59৪911],\n\nচন, ][],%][]};0)0)]&\n\n1] 112]15 1০561\"%6€0 : }খ০ 16[0900000}0]1 }}} 11) [017]) 01 {]}1$9 0001, }}} %/}10]6 0 1]}} ৪0 (০%০০](101'\n6060 ৭০০0৪001) }}} সে1008] 3100165 01 16%16%5) ]]}8 ৮ 06 11806 10000 আভা} 02ো) 300101128001\n19]}} 016 00011511621.\n\n€         $ 00] 210[ 01 £১55]}]\nপ্ৰথম প্ৰকাশ    $ ২০০৭\nপৰবতী সংস্কৰণ :ঃ  ২০০৯, ২০১০, ২০১২, ২০১৩, ২০১৪, ২০১৫, ২০১৬, ২০১৭, ২০১৮, ২০১৯,\n২০২০\nঅসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু প্রকাশন নিগম\nলিমিটেডৰ দ্বাৰা প্ৰকাশিত পাঠ্যপুথি।\nমুদ্ৰণ          ঃ মা মনসা প্ৰিন্টাৰ্চ\nজু-ৰোড তিনিআলি\n\nগুৱাহাটী -৩",
+  "confidence": {
+    "word_count": 124,
+    "mean": 51.49,
+    "median": 50.24,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9638,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.503,
+  "page_elapsed_seconds": 2.975,
+  "peak_process_tree_rss_bytes": 1208832000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

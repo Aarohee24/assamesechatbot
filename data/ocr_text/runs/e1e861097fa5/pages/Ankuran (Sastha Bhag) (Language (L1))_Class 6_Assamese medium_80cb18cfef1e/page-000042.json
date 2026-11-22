@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 42,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮)\n\nউত্তৰ দিয়া।\n\n(ক) ভাৰতৰ প্রাচীন বিশ্ববিদ্যালয় দুখনৰ নাম লিখা ।\n\n(খ) লুইতৰ দাঁতিৰ কোন ঠাইত এখন বিশ্ববিদ্যালয় আছিল?\n\n(গ) বশিষ্ঠ আশ্ৰমৰ টোলৰ অধ্যাপকজনৰ নাম কি?\n\n(ঘ) ছাতৰসকলে বছৰত একোবাৰ নগৰলৈ কিয় যাব লগ৷ হৈছিল?\n(৬) গুৰুৰ পৰামৰ্শ কোনজন ছাতৰে গ্ৰহণ কৰিব নোৱাৰিলে?\n\n(চ) প্ৰকৃত গুৰদক্ষিণা কোনে দিব পাৰিলে?\n\nচমু উত্তৰ দিয়া।\n\n(ক) গুৰুৱে ছাতৰসকলক ওচৰলৈ মাতি আনি কি কৈছিল?\n\n(খ) ছাতৰসকলক গুৰুৱে কি উপায়েৰে ধন গোটাই অনাৰ পৰামৰ্শ দিছিল?\n(গ) গুৰুৰ পৰামৰ্শ পাই ছাতৰসকলে কি কৰিলে?\n\n(ঘ) গুৰুৰ অনুমতি পাই সত্যৱতে কি ক’লে?\n\nকোনে কাক কেতিয়া কৈছিল লিখা।\n\n(ক) “বাছাহঁত! মই বুঢ়া হৈ আহিছোঁ। উপাৰ্জনো টুটি আহিছে। তহঁতক ইমানদিনে পঢ়াই\n\n(খ) “আপুনি মাথোন আমাক কৰ্তব্যহে সোঁৱৰাই দিছে। এতিয়া আমি কি উপায়েৰে ধন-সোণ\nগোটাই আনিম, অনুগ্ৰহ কৰি আমাক দিহা লগাই দিয়ক।”\n\n(গ) “আপোনাৰ পৰাই আমি জানিব পাৰিছোঁ, পৃথিৱীত এনে ঠাই নাই, য’ত ইশ্বৰ নাই!”\nসাধুটো নিজৰ কথাৰে চমুকৈ লিখা।\nতলৰ কথাখিনিৰ মূলভাব লিখা ।\n\nসকলোকে দেখে তেওঁ সৰ্বশক্তিমান।\n\nলস কথাখিনি ছাত্-ছাত্ৰীক বুজাই দিব।",
+  "confidence": {
+    "word_count": 153,
+    "mean": 88.97,
+    "median": 95.01,
+    "minimum": 0.62,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.451,
+  "page_elapsed_seconds": 2.726,
+  "peak_process_tree_rss_bytes": 270094336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভি\n\"%প্মূল==্=\n\n(পঢ়া) 51\n1ক.ৰত্ড 5৮. ৮০)|51;  ১31.21 : ১১31৫\n‘> 121৬ ১: -($+44 <\") ১৮%।)/:83 ১}\n‘4 2) ||5১৫; \"গা|- ৯১%} 2) ত; 21 ৩})\n-১8)| 2} ড%৬; 7544 2};\n(শব্দাৰ্থ ) : >]))|(১=+-|*\n\nঅর্থ /_;*%১+ ধশব্দ/”- 2}    অৰ্থ/ + __ শিব্দ/ 4.1\n\nআনদ্দ         2?)          নতুন          ১42-\n\nঅন্তৰ, হিয়া          >\") |. মুখমণ্ডল, চেহেৰা        ১০-)\n\nগলি, সৰু ৰান্তা        -)2>   | আনন্দময়, উৎফুল্লিত | $ 4\nহেন্দোলনি, ওলমি লৰি  ত্ঞা    (মই) চুমা খাওঁ     4\n\nপোহৰ, বিজুলি চাকি       টাঁছ      (মই)আলিংগন কৰোঁ |_ ড৮৷\n\nজগত, পৃথিৱী,         ১১ | (মই) আনন্দত চিঞৰি কওঁ | ১-৯}\n(আমি) ঘূৰিফুৰোঁ :  _))ল>\n\nপুৰ চিৰ চাই পুব পাচ সুবা মৰা\n67",
+  "confidence": {
+    "word_count": 60,
+    "mean": 61.88,
+    "median": 61.39,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9987,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 150 diacritics",
+        "Detected 150 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.51,
+  "page_elapsed_seconds": 3.935,
+  "peak_process_tree_rss_bytes": 181157888,
+  "tesseract_warnings": [
+    "Detected 150 diacritics",
+    "Detected 150 diacritics"
+  ],
+  "processed_this_run": true
+}

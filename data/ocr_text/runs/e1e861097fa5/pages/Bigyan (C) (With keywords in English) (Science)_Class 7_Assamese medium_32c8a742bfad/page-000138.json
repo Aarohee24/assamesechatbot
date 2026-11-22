@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 138,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যদি অক্সিজেনযুক্ত তেজ আৰু কাৰ্বন-ডাই দুটাক অলিন্দ (/1৷01]})) আৰু তলৰ কোঠালি\nঅক্সাইড যুক্ত তেজ পৰস্পৰে মিহলি হৈ পৰে তেতিয়া দুটাক নিলয় (ঘ০৷৷৷1০1০৪) বোলা হয় (চিত্ৰ 11.4)।\nকি হ’ব? হৃদযন্ত্ৰৰ চাৰিটা কোঠালি (]\"001' 1811021) কোঠালিবোৰক বিভক্ত কৰা বেৰে অক্সিজেনযুক্ত আৰু\nয়ে এনেদৰে তেজ মিহলি হোৱাত বাধা দিয়ে। হৃদযন্ত্ৰ কাৰ্বন-ডাই অক্সাইডযুক্ত তেজ মিহলি হোৱাত বাধা\nওপৰৰ কোঠালি ([0])[)6[' 0180116021)                 দিয়ে।\n\n(০৪ ('৪৮৪)                                                                                                  (১0018)\nক্লোমধমনী\n(]>0[1]01181\") 12ে\"})\n(]>0]11]101]80\") ঘ০]]])\nসোঁ অলিন্দ                                                                                                                    বাঁও অলিন্দ\n(][২19]10 ৪1070]]])                                                                                                                      (][,21[ ৪07]101]])\nভাগুক সম্পূৰ্ণভাৱে পৃথক\nফু প্রদান বে) 7;                                                                            বীও নিলঃ\n\n9818.011 ]12 ঘ%৮0 ]18|] ৬০৪)                                                                                                              ([.০1} ঘণ৷৷1০19)\n\n(]২18]10 ঘণা1071212)\n\nচিত্ৰ 11.4 মানুহৰ হৃদযন্ত্ৰ ছেদন (৪০০০০৷৷9 01 ]]0]]181) |)680\"0)\n\nপৰিবহণ বা সংবহন তন্ত্ৰৰ কামবোৰ বুজিবৰ বাবে\nচিত্ৰ 11.3 ত হৃদযন্তৰ সোঁফালৰ পৰা (][\"['0[]} 16\n118]1{ 8102) আৰম্ভ কৰা আৰু কীড় চিহ্ন (/1|\"0\"%3)\nবোৰেৰে আগবাঢ়া। এই কীড় চিহ্নবোৰে হৃদযন্ত্ৰপৰা\nহাওফীওলৈ প্ৰবাহিত হোৱা আৰু হাঁওফাওৰপৰা তেজ\nপুনৰ হৃদযন্ত্ৰলৈ উভতি যোৱাটো\n\n124                                                                                            বিজ্ঞান",
+  "confidence": {
+    "word_count": 142,
+    "mean": 72.11,
+    "median": 92.26,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.489,
+  "page_elapsed_seconds": 2.832,
+  "peak_process_tree_rss_bytes": 292065280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 133,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১৫\nঅর্থনীতি, ইয়াৰ খণ্ডসমূহ আৰু বিনিময়ৰ মাধ্যম\n\nচিত্ৰ ১৫.৪ ? তাঁতশালত পুৰুষ আৰু মহিলাই\nবোৱা-কটা কৰা কাৰ্য\n\nওপৰৰ ছবি কেইখনত তৰাজান গাঁৱৰ কেইটামান দৃশ্য দেখুওৱা হৈছে। বেলিৰ ঘৰ এই তৰাজান\nগাঁৱতে। তাই ষষ্ঠ শ্ৰেণীত পঢ়ে। আজৰি পৰত বেলিয়ে মাক-দেউতাকক খেতিপথাৰত সহায় কৰে। কৃষি কাৰ্য\nবেলিৰ পৰিয়ালটোৰ প্রধান কাম। শস্য উৎপাদনৰ লগতে ৰাহি হোৱা শস্যখিনি বেলিৰ পৰিয়ালে ওচৰতে থকা\nবজাৰত বিক্ৰী কৰে। খেতিৰ বাহিৰেও বেলিহঁতে গৰু আৰু ছাগলী পোহে। গৰুৰ গাখীৰেৰে তেওঁলোকে নিজৰ\nপ্রয়োজন পূৰোৱাৰ লগতে অতিৰিক্ত গাখীৰখিনি ওচৰৰ গাঁৱত বিক্ৰী কৰে।\n\nতৰাজান গাৱৰ কাষেৰে এখন নৈ বৈ গৈছে। গীওখনৰ কিছুমান লোকে নৈত মাছ ধৰে আৰু সেই মাছ\nবজাৰত বিক্ৰী কৰি অৰ্থ উপাৰ্জন কৰে। তৰাজান গাঁৱত এটা সৰু কুটাৰ শিল্পৰ উদ্যোগো আছে। বেলিৰ মাকৰ\n\nঅর্থনীতি, ইয়াৰ খণ্ডসমূহ আৰু বিনিময়ৰ মাধ্যম",
+  "confidence": {
+    "word_count": 120,
+    "mean": 93.37,
+    "median": 96.08,
+    "minimum": 4.2,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.596,
+  "page_elapsed_seconds": 3.135,
+  "peak_process_tree_rss_bytes": 285671424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

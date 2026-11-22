@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বাবে মানুহৰ কাৰ্যকলাপ দায়ী আৰু আন কিছুমানৰ ক্ষেত্ৰত পৃথিৱীৰ আভ্যন্তৰীণ কাৰকসমূহে ক্ৰিয়া কৰে। তেনে\nকিছুমান দুৰ্যোগৰ উদাহৰণ তলত দাঙি ধৰা হ’ল-\n\nৰ     ি   সু\nৰশু বুল\nৰ      ম্‌\nৰ\n\n+? 4৮৫\nনং\n\n_\n\nভূমিস্থলন                       উৎসঃ ||1০0)                                                    চুনামী                       উৎসঃ ৮} 0919.008\n\nজসি পাবি = 7 =গমলন্দলগত হা সস্্চা 90 32792,995993, =   পঙ-এদটৌী কে\n\nডাৱৰ বি                    তং কি; ্‌                     সামুদ্ৰিক দুৰ্যো গ      উৎসঃ (‘3157৩[)00152,০01\n\n১) তলৰ প্রশ্মবোৰৰ উত্তৰ দিয়া-\n(ক) জলমণ্ডল কাক বোলে?\n(খ) পৃথিৱীৰ গভীৰতম অংশৰ নাম কি?\n(গ) সম্পূৰ্ণকৈ মহাদেশৰ মাজত অৱস্থিত এখন সাগৰৰ নাম লিখা।\n(ঘ) নদীৰ উৎস বুলিলে কি বুজা?\n(ঙ) শাখা নৈকি?\n২) চমু টোকা লিখা-\n(ক) সাগৰ-মহাসাগৰ      (খ) নদ-নদী\n(গ) সিক্তভূমি বা আৰ্দ্ৰভূমি     (ঘ) হৃদ\n৩) মানুহৰ ওপৰত ভূ-অৱয়বৰ প্রভাৱ বৰ্ণনা কৰা।",
+  "confidence": {
+    "word_count": 116,
+    "mean": 73.86,
+    "median": 92.12,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.742,
+  "page_elapsed_seconds": 3.878,
+  "peak_process_tree_rss_bytes": 316751872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

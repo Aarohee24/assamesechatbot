@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ-৯\nপাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা --\nঞ্জ কাহিনী শুনি বুজি সজাই ক’ব পৰা\nঞ পাঠভিত্তিক প্রশ্নৰ উত্তৰ ক’ব আৰু লিখিব পৰা\n৬ যুক্তাক্ষৰ পঢ়িব, লিখিব আৰু গঠন কৰিব পৰা\n৬ পাঠৰ বাহিৰৰ দফা পঢ়ি উত্তৰ দিব পৰা\nঞ কামৰ মযদিা উপলব্ধি কৰিব পৰা\nঞ সৰু বৰ কাম কৰা৷ লোকক সন্মান জনাবলৈ শিকা\nঞ্জ আনৰ ভাল কাম আৰু আচৰণক অনুকৰণ কৰা আৰু নিজে নিজৰ কাম কৰাৰ প্রতি অনুপ্ৰাণিত হোৱা\nঙ যুক্তিপূৰ্ণ চিন্তা কৰা, জীৱনৰ লক্ষ্য স্থিৰ কৰা, সিদ্ধান্তত উপনীত হ’ব পৰা\n৬ উৎসৱ, অনুষ্ঠান আদিত কি কি কাম কৰা হয় তাৰ তালিকা প্রস্তুত কৰিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nকাহিনী শুনি বুজি | পঢ়ি বুজি পোৱা | পাঠভিত্তিক প্রশ্নৰ | চমুকৈ কাহিনীটো ক’ব |মহৎ লোকৰ জীৱনী\nকাহিনী    ক’ব পৰা      ? বুজি      উত্তৰ দিব পৰা      পৰা    পঢ়ি অনুপ্রাণিত হোৱা\nনতুন শব্দ   পঢ়িব পৰা    লিখিব পৰা     অৰ্থ জনা   বাক্যত প্রয়োগ কৰিব | অভিধান চাব জনা\n\nঢ্রাৱহাৰিক |বাক্য গঠন কৰিব পৰা | = লিখিব আৰু গঠন _ | সৰু সৰু বাক্য গঠন\n\nব্যাকৰণ            কৰিব পৰা     কৰিব পৰা\n\nজ্ঞান | পাঠৰ বাহিৰৰ দফা | নিজে কৰা কামৰ | ছবি চাই ক’ব পৰা | নিজৰ জীৱনৰ লক্ষ্য\nসম্প্ৰসাৰণ | পঢ়ি বুজি পোৱা  বিষয়ে ক’ব পৰা      সম্পৰ্কে ক’ব পৰা\n\nপ্ৰকল্প [কৰা৷ বিভিন্ন অনুষ্ঠানৰ | কাজৰ তালিকা প্রস্তুত\nজ্ঞান আহৰণ কৰা    কৰিব পৰা\n\n<= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ৯ চিন দিব । অহৰ্তা আয়ভ",
+  "confidence": {
+    "word_count": 225,
+    "mean": 89.81,
+    "median": 96.13,
+    "minimum": 9.91,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.844,
+  "page_elapsed_seconds": 3.107,
+  "peak_process_tree_rss_bytes": 259305472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

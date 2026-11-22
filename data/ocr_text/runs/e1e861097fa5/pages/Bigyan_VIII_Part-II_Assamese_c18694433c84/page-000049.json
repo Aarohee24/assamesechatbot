@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 49,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শাল, চেণ্ডন, আম, জামু, ছিলভাৰ ফাৰ্ন, অৰ্জুন ইত্যাদিবোৰ উদ্ভিদকুল আৰু চিংকাৰা, নীলগাই, সুগৰি পহু,\nফুটুকী হৰিণ, নাহৰফুটুকী বাঘ, বন কুকুৰ, কুকুৰনেচীয়া বাঘ ইত্যাদিবোৰ পাঁচমাৰি জীৱমণ্ডল সংৰক্ষিত অঞ্চলৰ\nপ্রাণীকুলৰ উদাহৰণ (ছবি- 11.2)।\n\n()\nচিত্ৰ 11.2 : (৪8) বন কুকুৰ (৮) ফুটুকী হৰিণ, (০) কুকুৰনেচীয়া বাঘ, (4) নাহৰফুটুকী বাঘ (০) ঢেঁকীয়া () জামু গছ\n\nত্ৰিয়াকলাপ 11.5\n\n11.6 থলুৱা প্ৰজাতি৷\n\nদলটো লাহে লাহে প্রায় গভীৰ অৰণ্যত প্রৱেশ কৰিলে।\nল’ৰা-ছোৱালীসকলে এটা বৰ ডাঙৰ কেকেঁটুৱা দেখি\nআচৰিত হ’ল। কেৰ্কেট্‌ৱাটোৰ এডাল ডাঙৰ ভোবোৰা\nউৎসুক হৈ পৰিল। কৃষ্ণ দাসে ক’লে যে, এইটো এটা\nবিৰাটকায় কেকেঁটুৱা হিচাপে জনাজাত আৰু ই এই\nঅঞ্চলৰ থলুৱা প্ৰজাতি।\n\nথলুৱা প্ৰজাতি হৈছে সেইবোৰ উদ্ভিদ আৰু\nপ্রাণীৰ প্রজাতি যিবোৰ এটা নিৰ্দিষ্ট অঞ্চলতহে\n\n_ উদ্ভিদ আৰু প্ৰাণীৰ সংৰক্ষণ / €0খ9;াংছ][0খ 0 1.খ'5 খা) খা) %]1.8                                                                                               34",
+  "confidence": {
+    "word_count": 121,
+    "mean": 86.35,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.399,
+  "page_elapsed_seconds": 2.687,
+  "peak_process_tree_rss_bytes": 336863232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

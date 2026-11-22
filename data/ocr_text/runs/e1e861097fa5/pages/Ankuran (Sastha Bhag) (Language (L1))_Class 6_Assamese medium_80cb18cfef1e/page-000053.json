@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\nজানো আহা\n\nতোমালোকে আগৰ শ্ৰেণীসমূহত সন্ধিৰ বিষয়ে পাই আহিছা। তৎসম শব্দ সাধনৰ ক্ষেত্ৰত\nসন্ধিৰ গুৰুত্বপূৰ্ণ ভূমিকা আছে। বৰ্ণৰ লগত বৰ্ণৰ মিলনকে সন্ধি বোলা হয়। প্রথম শব্দৰ শেষৰ বৰ্ণ\nআৰু দ্বিতীয় শব্দৰ প্রথম বৰ্ণৰ মিলনৰ ফলত সন্ধিৰ সৃষ্টি হয়। যেনে-\n\nমিত্ৰ + অমিত্ৰ = মিত্ৰামিত্ৰ অ+অ=আ)\n(ম+ই+ত+ৰ+অ+অ+ম+ই+ত+ৰ+অ=ম+ই-+ত+ৰ+আস+ম+ই+তক+ৰ+অ)\nসংস্কৃত ব্যাকৰণৰ নিয়ম অনুসৰি সন্ধি তিনি প্রকাৰৰ  স্বৰসন্ধি, ব্যঞ্জনসন্ধি আৰু বিসৰ্গ সন্ধি।\nস্বৰবৰ্ণৰ লগত স্বৰবৰ্ণৰ মিলনক স্বৰসন্ধি বোলা হয়। যেনে---\n\nসূৰ্য     +         উদয়               তু         সূৰ্যোদয় (অ+উ=ও)\nনীল + উৎপল         = নীলোৎপল(অ+্উ=ও)\nমৰু + উদ্যান          = মৰূদ্যান (উ+্উ=উ)\nপৰ + অধীন          =. পৰাধীন (অ+অসআ)\nব্যঞ্জনবৰ্ণৰ লগত স্বৰবৰ্ণৰ আৰু ব্যঞ্জনবৰ্ণৰ লগত ব্যঞ্জনবৰ্ণৰ মিলনকে ব্যঞ্জনসন্ধি বোলা হয়। যেনে---\nউৎ + নতি             = উন্নতি (ব্য.*ব্য.)\nমৃৎ + ময়              =.“ মৃন্ময় (ব্য.+ ব্য.)\nসৎ_+      আশয়         =      সদাশয় (ব্য.+ স্ব.)\n\nপ্রাকৃ + = এতিহাসিক = প্ৰাগৈতিহাসিক (ব্য.+স্ব.)\nবিসৰ্গ (8)ৰ লগত স্বৰ বা ব্যঞ্জনবৰ্ণৰ সন্ধিকে বিসৰ্গসন্ধি বোলে। যেনে--\nমনঃ + যোগ = মনোযোগ, তিৰঃ + কাৰ = তিৰস্কাৰ\n\n৬) তলৰ শব্দবিলাকৰ সন্ধি ভাঙা আৰু কি সন্ধি লিখা।\n\nমিত্ৰামিত্ৰ                                                        পুৰস্কাৰ\nশুদ্ধাশুদ্ধি                   জগন্নাথ",
+  "confidence": {
+    "word_count": 165,
+    "mean": 83.24,
+    "median": 92.51,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.642,
+  "page_elapsed_seconds": 3.997,
+  "peak_process_tree_rss_bytes": 254578688,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

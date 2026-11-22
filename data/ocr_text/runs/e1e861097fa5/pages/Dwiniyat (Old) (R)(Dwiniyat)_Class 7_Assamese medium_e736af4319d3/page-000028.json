@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ষ্স\n\nজ্নীনিয়াত\n\n২ । হজৰত মহম্মদ (ছঃ)ৰ যুগৰ পৰাই আজিলৈ লাখ লাখ মানুহে\nকোৰআন মজীদখন মুখস্থ (হিফুজ) কৰি ৰখাটো দ্বিতীয় প্ৰমাণ। পৃথিৱীৰ\nএনে কোনো কিতাব নাই যিখন লাখ লাখ মানুহে মুখস্থ কৰি ৰাখিব\nপাৰিছে; কিন্তু কোৰআন মজীদখন লাখ লাখ মানুহৰ বুকুত সুবক্ষিত হৈ\nআছে (42 ১৯=>==)।৷\n৩ । আল্লাহতাআলা নিজেই কোৰআন মজীদৰ হিফাজতকাৰী।\n‘ময়েই কোৰআন মজীদ অৰতীৰ্ণ কৰিছো আৰু ইয়াৰ ৰক্ষকো ময়েই ৷’\nস্বয়ং আল্লাহতাআলাই নিজেই কোৰআন মজীদৰ ৰক্ষণাবেক্ষণৰ\nদায়িত্ব লৈছে আৰু মহাবিচাবৰ (কিয়ামতৰ) দিনলৈকে আল্লাহতাআলাই\nইয়াক সুৰক্ষিত কৰি ৰাখিব।\n8৪ । কোৰআন মজীদতে উল্লেখ আছে-\n\n$73176 9345 গেল এটা শ 54) তে ৩1)\nশেত 40 ০ঠ১52ট গত? 22) ১5০\n(কা = 57) = 234০০\nপৃথিৱীৰ কোনো বিশ্ববিখ্যাত কৰি বা সাহিত্যিকে কোৰআন মজীদৰ দৰে\nএটা আয়াত ৰচনা কৰিবলৈ সমৰ্থ নহ’ব বুলি কোৰআন মজীদেই দাবী\nকৰিছে। সেয়ে কোৰআন মজীদৰ দৰে কোনো এটা বাক্যও আজিলৈকে\n\nকোনোৱে ৰচনা কৰিব পৰা নাই আফু কাহানিও নোৱাৰিব ।\nইয়াৰ দ্বাৰা বুজিব পাৰি যে, এইখনেই হজৰত মহন্মদ (ছঃ)ৰ প্ৰতি\nঅৱতীণ হোৱা কোৰআন মজীদ\n\nদুৰাচাৰ বাৰ",
+  "confidence": {
+    "word_count": 158,
+    "mean": 79.08,
+    "median": 91.33,
+    "minimum": 0.0,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.185,
+  "page_elapsed_seconds": 2.316,
+  "peak_process_tree_rss_bytes": 245923840,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

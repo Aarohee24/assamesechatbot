@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 172,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দূৰত্ব ([)1581102) -__>*\n\nদূৰত্ব ([)150010০2) -__>*\n\nসময় (]11০2)-__->                                 সময় (]02)__>\n\n৬                                   0)\n\nবিস্তাৰিত শিকন -- ক্ৰিয়াকলাপ আৰু প্ৰকল্প ([' (60060 16917)117160-/%0]%10165 31)0 [\"1\"0]16009)\n\n(1) তোমালোকে নিজে সূৰ্য ঘড়ী এটা সাজিব পাৰা আৰু ইয়াৰ সহায়ত দিনটোৰ সময় নিৰূপণ কৰিব পাৰা।\nপ্রথমতে এখন ভূচিত্ৰাৱলীৰ সহায়ত তোমাৰ চহৰখনৰ অক্ষাংশ জানি লোৱা। কাৰ্ডব'ৰ্ড এখন ত্ৰিভুজাকৃতিত\nএনেদৰে কাটা যাতে ইয়াৰ এটা কোণ তোমাৰ ঠাইখনৰ অক্ষাংশৰ সৈতে একে হয় আৰু ইয়াৰ বিপৰীত কোণটো\nএক সমকোণ হয়। এই টুকুৰাটোক সূৰ্য ঘড়ীৰ কটা বা ন’মন (81000]010) বুলি কয়। ইয়াক চিত্ৰ 13.16ত\nদেখুওৱাৰ দৰে এখন ঘূৰণীয়া ব'ৰ্ডৰ এডাল ব্যাসেৰে উলম্বভাৱে সংস্থাপিত কৰা। ঘূৰণীয়া ব’ৰ্ডখনৰ ব্যাসেৰে\nখাজ কাটি ল’লে ন’মনখন লগাবলৈ সহজ হয়।\n\nইয়াৰ পিছত মুকলি ঠাই এটুকুৰা বিচাৰি লোৱা য’ত দিনটোৰ বেছিখিনি সময়তে ৰ’দ পৰে। মাটিত উত্তৰা\nদক্ষিণাকৈ এডাল আঁচ টানি লোৱা। চিত্ৰ 13.16 ত দেখুওৱাৰ দৰে এই সূৰ্য ঘড়ীটো ৰ’দত থোৱা। দিনটোৰ\nযথাসম্ভৱ সোনকালে, ধৰা হওঁক পুৱা 8-00 বজাত ঘূৰণীয়া ব’ৰ্ডখনত ন’মনৰ ছাঁটোৰ শীৰ্ষৰ অৱস্থান চিহ্নিত\nকৰা। ওৰে দিন প্ৰত্যেক ঘন্টাতে ছাঁটোৰ শীৰ্ষৰ অৱস্থান চিহ্নিত কৰা। চিত্র 13.16ত দেখুওৱাৰ দৰে চিহ্নিত কৰা\nপ্রতিটো বিন্দু ন’মনৰ ভূমিৰ কেন্দ্ৰৰ সৈতে সংযোগ কৰি ৰেখা অংকন কৰা। ঘূৰণীয়া ব’ৰ্ডত ৰেখাবোৰ পৰিধি\nপৰ্যন্ত বৰ্ধিত কৰা। এই সূৰ্য ঘড়ীটো তোমালোকে থকা ঠাইৰ দিনৰ ভাগত সময় চাবলৈ ব্যৱহাৰ কৰিব পাৰা।\nমনত ৰাখিবা যে ন’মন সদায় চিত্ৰ 13.16 ত দেখুওৱাৰ দৰে উত্তৰা-দক্ষিণাকৈ লগাব লাগে।\n\n্খ\n\nচিত্ৰ: 13.16\n\n158                                                                                             বিজ্ঞান",
+  "confidence": {
+    "word_count": 213,
+    "mean": 85.55,
+    "median": 93.74,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.943,
+  "page_elapsed_seconds": 3.242,
+  "peak_process_tree_rss_bytes": 301146112,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

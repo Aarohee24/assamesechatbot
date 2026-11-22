@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 95,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰতন          $\n\n১১৮\n\nম্খ;\n\nনব\n\n€\n€\n\nধ\n\nৰ” ১৩।\n\n১৪।\n\nবাৰু, ঠিক আছে; চাই লওঁচোন আগতে।\n(ৰতন আৰু বাবুল দুয়ো পূজাৰ বজাৰখনৰ মাজ পালেগৈ৷ দোকানত ভৰি থকা\nবেলুন, খেলনা আদিবোৰলৈ ৰতনে তধা লাগি চালে।)\n\nবাঃ বাঃ, ইমান বেলুন আৰু খেলনা!\n\n(সেই সময়তে বাবুলে দোকান এখনৰ ওচৰৰপৰা ৰতনলৈ চাই ক’বলৈ ধৰিলে)\nএ ৰতন, চা--- এইটোলৈ চা। মই এটকাতে কিনিলোঁ। দেখিলি?\n\nউৱা! এইটো আকৌ কি? পুতলা হাতীহে দেখোন! মই সঁচা হাতীৰ কথাহে\nভাবিছিলোঁ।\n\nঅ’ আকৌ, মই তোক হাতী বুলিহে কৈছিলোঁ--- সঁচা হাতী নে পুতলা হাতী\nসেইটো কোৱা নাছিলোঁ নহয়। বাজিত জিকিলোঁ৷ দেই৷ ব’ল;তই এতিয়া মোক\nবাদাম ভজা খুৱাব লাগিব। হাঃ হাঃ।\n\nইচ্‌,কি যে হ’ব! ইন্মান বুধিয়ক পুতলা হাতীৰ কথ৷ মই ভবাই নাছিলোঁ ভাই!\n(দুয়ো হীঁহি হীঁহি বাদাম ভজাৰ দোকানলৈ আগুৱাই গ’ল।)\n\nহাতীৰ বিষয়ে দহটা বাক্য লিখ৷৷\nসাঁথৰ ভাঙা আৰু লিখা।\n\nকলগছ হেন ঠেং তাৰ\nটকৌপাতৰ দৰে কাণ,\nআছে দুটা দীঘল দাত\nবাপুৰ জানানে কি নাম?\n\nৰ ১৫ তলত দিয়া ছবিখনৰ চৰিত্ৰকেইটাৰ বাবে সংলাপ লিখা।\n\n।; ক্ৰ",
+  "confidence": {
+    "word_count": 155,
+    "mean": 86.17,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.804,
+  "page_elapsed_seconds": 3.33,
+  "peak_process_tree_rss_bytes": 268345344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

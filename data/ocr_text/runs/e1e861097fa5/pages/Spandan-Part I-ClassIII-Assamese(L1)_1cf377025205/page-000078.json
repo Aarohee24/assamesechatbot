@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 78,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৬ বাঁহেৰে সজা কেইবিধমান সঁজুলিৰ নামৰ তালিকা প্রস্তুত কৰা।\n\nভৰ      খেতি-বাতিৰ সঁজুলি    মাছ ধৰা সঁজুলি      বাদ্যযন্ত\nও__ // ৭।ভাৰৌ আৰু লিখৌ আহা--\nতলৰ সামপ্ৰীবোৰ কিহেৰে সজা হয় লিখা--\n\nধঅ্'৩৬৩৬%৬%১৩০৩৫৬৬৬%৬%%€৬৬৬৩৬৬%৬%৬%%৩৬৬৩৬৩০৩৫৬৫৬৬৬৬%৬%৬৮৬৬%৮০৩৩০৬৬৩০৬৬৬০০৬৬৬৩৩৬৩৩৩৩৩০০৩৩৩৩৩৩৬৩৩৩৩৬৬৩৩৩০৫০০৩৬৬৬৩৬৬৬৩০৬৩৩৩৩৩০৩৩০৩৬৩৩৩৩৩৩৫৩৩৬৬৬৩৩০৩০০৬৬৩৬০৩০৩০০৮\n\nজাগি৷অমূমীয়া সংস্কৃতিৰ স্বাভিমানৰ প্রতীক। জাপি বিভিন্ন প্রকাৰৰ থাকে। সেইবোৰ\nহ’ল বৰদৈয়া জাপি, সৰুদৈয়া জাপি, পানী জাপি, গৰখীয়া জাপি, ফুলাম জাপি আদি। ৷\nজাপি সাজি মানুহে উপাৰ্জনো কৰে। আজিৰ দিনত বিদেশতো জাপিৰ সমাদৰ বাঢ়িছে। :!\n\n৫৩৫৬৬০৬৬৬৬৬৬৬৬৬৬০৬৭২৬৬০১০৬৫৬৬৯%৮৬৬৩৩৩৬১৬৬৬৬৩৬৬৬৫৬৬৬৬৬৩৬১৬১০৬৬০০০০৬০৬৬৬০৬৬৬৬০৬৬৩৬০৩৫৬৬০৫৬৬৬৬৬৬৬৬৬০৬৩০৩০০৩০০৬৬৬৬৬০৬৬৬৬৬৬৩৩৬৬৬৬৩৬৬৬৬৩৩১৬৬৬১০০০\n\nঠঠাৰ্ড । ছবিখন চাই তলৰ দফাটো৷ সম্পূৰ্ণ কৰোঁ আহা--\nশৰৎ এজন খেতিয়ক। তেওঁ\n\nহত৷ ়়জ} ঙজঁজঁজ়জ়ঙজ়7 _ি ] ছ_ ল &{ {| (| য যরতলয৷৷৷॥{{ অ ছি [||\n\nকত] {{ { { [৮  ( (এ (এচ 9\"",
+  "confidence": {
+    "word_count": 101,
+    "mean": 66.59,
+    "median": 89.56,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9998,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.718,
+  "page_elapsed_seconds": 4.697,
+  "peak_process_tree_rss_bytes": 225759232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

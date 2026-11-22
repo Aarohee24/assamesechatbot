@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(3) গাখীৰ দাঁতৰ বিষয়ে অধিক জানিবৰ বাবে তোমাৰ বন্ধু, ওচৰ-চুবুৰীয়া আৰু সহপাঠীৰপৰা তথ্য সংগ্ৰহ\nকৰা। তোমাৰ তথ্যবোৰ তালিকাত সজোৱা। কি দৰে কৰিবা তাৰ এটা নমুনা তলত দিয়া হ’ল।\n\nক্ৰমিক নং | প্রথম দাঁত সৰাৰ | শেষ দাঁত সৰাৰ বয়স | সৰি যোৱা দাঁতৰ | সলনি হোৱা\nবয়স         সংখ্যা  দাঁতৰ সংখ্যা\n\nতঠ৷ 48 ভ০১।১ ৷\n\nকমেও বিশজনমান ল’ৰা-ছোৱালী বিচাৰি লোৱা আৰু কিমান গড় বয়সত সেই ল’ৰ৷-ছোৱালীবোৰৰ গাখীৰ\nদাঁত সৰিছিল জানি লোৱা। তুমি তোমাৰ বন্ধুৰ পৰা সহায় ল’ব পাৰা।\n\nতলত দিয়া ৱেবছাইটত তুমি আৰু বহুতো কথা পঢ়িব পাৰিবা। (৮00. ০৪00 1680 11016 01} 16\n10]10ছ 1116, ০০916.)\nঘ্রশ্ছ্/,|]]268.|[]].]]0 ভছ৮ 9001] ৮ম 01]09.0০011]/8.08171-2 (0 | 4.2 .]]]]]|\n\nতোমালোকে জানিছিলানে ? (])10 ৮00 1010?)\nছাগলীৰ গাখীৰত থকা স্নেহ পদাৰ্থ গৰু গাখীৰত থকা স্নেহ পদাৰ্থতকৈ বহুত সৰল হয়। সেইবাবে ছাগলীৰ\nগাখীৰ (00809 70111, গৰু গাখীৰ (৫2০%’9 1|)তকৈ সহজে হজম কৰিব পাৰি।\n\n23",
+  "confidence": {
+    "word_count": 137,
+    "mean": 79.95,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.369,
+  "page_elapsed_seconds": 2.577,
+  "peak_process_tree_rss_bytes": 306753536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

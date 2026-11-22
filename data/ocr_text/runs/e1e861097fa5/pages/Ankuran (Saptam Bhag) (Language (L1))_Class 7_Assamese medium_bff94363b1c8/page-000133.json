@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 133,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডেন্দ সম্ভাৰ)\n\nঅর্থ                     শব্দ                       অর্থ\n\nইতিহাস--_ পুৰণি কথা; আগেয়ে হৈ যোৱা খ্যাতিমন্ত --যি খ্যাতি লাভ কৰিছে, যাৰ\n\nঘটনাৰ প্রকৃত বিৱৰণ, বুৰঞ্জী         সুনাম বা যশ চাৰিওফালে\n               বিয়পি পৰিছে।\nউজনি --নৈৰ আগলি বা ওপৰফাল, সোঁতৰ\nবিপৰীত ফাল।\nউজনি --উজাই যোৱা।           গুণ      -= যশস্যা, স্বভাৱ।\nউদ্‌গতি --আ্ীবৃদ্ধি, উন্নত অৱস্থা৷       গৌৰৱ    -_ সন্মান, মৰ্যাদা, সম্ম, যশ।\nউন্নতি -_কৃতকাৰ্য, সৌভাগ্য।       গ্ৰহণ    -= লোৱা কাৰ্য\nউহ = --পানীৰ পুং, মাটিৰ তলৰ পৰা\nভ৷৷ধকতে  ওলেো৷ৎ\nখাডাবিকণে পানী ওলোৱা বাট\nউৎক্ষেপণ --জোৰেৰে ওপৰলৈ মাৰি পঠোৱা ঘিট্‌-মিট্‌ --বৰ বেছি আন্ধাৰ, ঘোৰ আন্ধাৰ।\nকাৰ্য।\n\n   (চ)\n\nকৰ্ষণ ---মাটি চাহ কৰা কাৰ্য।    চৰণ  -= ভৰি\nকীৰ্তি --নাম, সুখ্যাতি, যশস্যা।    চহকী  -= ধনী\nকোঢ়াল ---বহুলোকে একেলগে কৰা   চিৰস্মৰণীয় -- সদায় মনত ৰাখিবৰ যোগ্য,\nডাঙৰ হাই বা উৰুমি।         সদায় মনত থকা, কেতিয়াও\n            পাহৰিব নোৱাৰা।\n\nখনিকৰ -- কাঠ, শিল আদি কাটি বা চাঁচি চেনেহ _ মৰ্ম\nমূৰ্ত্তি বা আন বস্তু গঢ়ৌতা,   চৌৱৰ -=- চুঁৱৰী পহুৰ নেজৰ নোম\nমাটিৰ প্রতিমা গঢ়ৌতা।           গোটাই বন্ধা শোটা।",
+  "confidence": {
+    "word_count": 148,
+    "mean": 83.78,
+    "median": 92.81,
+    "minimum": 2.28,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 2.983,
+  "page_elapsed_seconds": 3.968,
+  "peak_process_tree_rss_bytes": 276271104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

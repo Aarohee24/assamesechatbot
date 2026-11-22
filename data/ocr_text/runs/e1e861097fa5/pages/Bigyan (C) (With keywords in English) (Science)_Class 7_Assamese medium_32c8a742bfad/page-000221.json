@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 221,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সেউজীয়া ৰঙৰ নাছিল। পৰিৱেশটো বেছ শান্ত\nআছিল আৰু শীতল বতাহ (৫০০ ৮০০2০) বৈ\nআছিল। ইয়ে ল’ৰা-ছোৱালীবোৰক বেছ সতেজ আৰু\nআনন্দিত কৰি তুলিছিল।\n\nতললৈ নামি আহৌতে, হঠাতে শুনা চৰাইৰ মাত\nআৰু গছৰ ওপৰৰ ডালবোৰৰ পৰা অহা কিছু উচ্চ\nস্বৰৰ শব্দত তেওঁলোক আনন্দিত হৈ উঠিছিল। টিবুৱে\nএইটো ইয়াৰ সাধাৰণ ঘটনা বুলি কৈ তেওঁলোকক\nসহজ হ’বলৈ কৈছিল। ল’ৰা-ছোৱালীবোৰৰ\nউপস্থিতিৰ কথা গম পাই কিছুমান বান্দৰে গছৰ\nওপৰলৈ গৈ তাত থকা চৰাইবোৰক আমনি কৰিছিল।\nপ্রাণীবোৰে মাজে সময়ে আন প্ৰাণীবোৰক সজাগ\nকৰিবলৈ এনে ধৰণৰ সতৰ্কবাণী দি থাকে। আন\nবহুতো প্রাণী যেনে- বন-গাহৰি (3090), মেঠোন\n(31501), ফেউৰা (]8181), কেটেলা পহু (}০1-\n০0116), হাতী আদি অৰণ্যখনৰ গভীৰ অঞ্চলত\nথাকে বুলিও টিবুৱে কৈছিল (চিত্ৰ-17.2)। অধ্যাপক\nআহমেদে সতৰ্ক কৰি দিলে যে ল’ৰা ছোৱালীবোৰ\nগভীৰ অৰণ্যৰ ভিতৰলৈ যোৱা উচিত নহ’ব ।\nপ্রজ্ঞান আৰু প্রহেলিকাই ষষ্ঠ শ্ৰেণীত আৱাসস্থলীৰ\nউদাহৰণ হিচাপে পঢ়া অৰণ্যৰ কথা মনত\nপেলালে(চিত্ৰ-\n\nচিত্ৰ 17.3 আৱাসস্থলী হিচাপে অৰণ্য\n(]\"01690 89 11801081)\n\n17.3)। অৰণ্যই যে বহুতো প্রাণী আৰু উদ্ভিদক\nবসবাস কৰিবলৈ সুবিধা কৰি দিয়ে তাকো এতিয়া\nসিহঁতে দেখিবলৈ পালে।\n\nঅৰণ্য ঃ আমাৰ জীৱন ৰেখা৷\n\n(50016 10168 811111819)\n\n207",
+  "confidence": {
+    "word_count": 167,
+    "mean": 88.46,
+    "median": 95.77,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.059,
+  "page_elapsed_seconds": 3.525,
+  "peak_process_tree_rss_bytes": 290140160,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

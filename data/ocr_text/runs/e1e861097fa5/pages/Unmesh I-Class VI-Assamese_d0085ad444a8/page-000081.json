@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 81,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কে) ২০১১ খ্ৰীষ্টাব্দত          (গ) ২০১৫ খ্ৰীষ্টাব্দত\n(খ) ২০১৭ খ্ৰীষ্টাব্দত                (ঘ) ২০২ঠখ্ৰীষ্টাব্দত\nকে) ৫) ৫) মে)\nঠ/ ২।তলত দিয়া প্ৰশ্নকেইটাৰ উত্তৰ কোৱা আৰু লিখী৷\n(ক) বীৰুবালা ৰাভাৰ কেনেধৰণৰ স্বভাৱে সকলোকে আকৰ্ষিত কৰিছিল?\n(খ) বীৰুালা কিয় শিক্ষকৰ প্ৰিয়পাত্ৰ আছিল?\n(গে) বীৰুবালা ৰাভাৰ লগত ডাইনী বিশ্বাস বিৰোধী অভিযানত অংশগ্ৰহণ কৰা\nসংগঠনটোৰ নাম কি আছিল?\n(ঘ).বীৰুবাল৷ ৰাভাৰ ‘মিছন বীৰুবালা” অভিযানক অসম চৰকাৰে কি হিচাপে\nস্বীকৃতি দিছিল?\n(৬) ৰাজ্য চৰকাৰে বীৰুবালা ৰাভালৈ কি বঁটা আগবঢ়াইছিল?\n(চ) ৷ ভাৰত চৰকাৰে বীৰুবালা ৰাভাক কি সন্মান যাচিছিল?\n৩। তলত দিয়া প্রশ্নবোৰৰ উত্তৰ আলোচনা কৰি কোৱা আৰু লিখা।\n(ক)বীৰুবালা ৰাভাই ডাইনী বিশ্বাসৰ কবলৰপৰা সমাজখন কিয় মুক্ত কৰাৰ পণ লৈছিল?\n(খ) ‘মিছন বীৰুবালা’ অভিযানে ডাইনী বিশ্বাসৰ বিৰুদ্ধে কেনেদৰে কাম কৰিছিল?\n৪। বীৰুবালা ৰাভাৰ জীৱনৰ বিষয়ে দহটা বাক্য লিখা।\n\n৫। অন্ধবিশ্বাসে মানুহক কিদৰে বিপদত পেলায়? দলত আলোচনা কৰা।\n\n(৮১,\n\nৰ ১।তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0ে ৰৃত্তটোপূৰ কৰা--\nঞ্জ কাৰ গাত পৰীয়ে বাহ লৈছিল বুলি দেওধনীয়ে মঙল চাই কৈছিল?\n(ক) ধৰ্মেশ্বৰ ৰাভাৰ গাত          (গ) বিষ্ণুপ্ৰসাদ ৰাভাৰ গাত\n(খ) কুমলী ৰাভাৰ গাত        (ঘ) দয়ালু ৰাভাৰ গাত\nকে) ৫) ৫৮ ঞ&েে\nঞ্জ ‘অসম ডাইনী অপৰাধ (প্ৰতিৰোধ, নিষিদ্ধ আৰু সুৰক্ষা) আইন’ কেতিয়া প্রণয়ন কৰা হৈছিল?",
+  "confidence": {
+    "word_count": 184,
+    "mean": 84.04,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.308,
+  "page_elapsed_seconds": 3.733,
+  "peak_process_tree_rss_bytes": 271855616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

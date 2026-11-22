@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যেনে - ৰূপ    অৰূপ   ৰূপম   মা     মাহী    মহী\nপৰ     পৰম    পৰমা ._,,,\nমৰ       অমৰ     সমৰ 9... ..... - ,...\n\nলে  ‘জন্ম ল’লোঁ৷ ইয়াতেই, ইয়াতে যেন মৰোঁ” বুলি ড” ভূপেন হাজৰিকাই কামনা\nকৰাৰ দৰে কবি নলিনীবালা দেৱীয়েও তেওঁৰ ‘জনমভূমি’ নামৰ কবৰিতাটোত\nনিজৰ জনমভূমিতে মৰাৰ কথা লিখিছে। সেই কবিতাটো সংগ্ৰহ কৰি পঢ়ি চোৱা।\n\n “চিৰ বিনন্দীয়া তোমাৰ সেউজ পৰিবেশ’\n+; অসমৰ চিৰ সেউজ পৰিৱেশ এতিয়া আছে নে?\nযদি নাই তেনেহ’লে কেনেকৈ ই বিনষ্ট হ’ল?\nআলোচনা চক্ৰ পাতি যুক্তি সহকাৰে নিজৰ নিজৰ মত ব্যক্ত কৰা।\n\nূঞস ছাত্ৰ-ছাতীক আলোচনা চক্র পতাত সহায় কৰিব\n\n8 জানো আহা\n\nলখিমী আদৰা (ধানৰ আগ অনা উৎসৱ )-_ খেতি চপোৱাৰ অথে পালিত উৎসৱৰ\nঅংগকাপে পৰস্পৰ৷গত ৰীতি অনুযায়ী গছীধান ঘৰলৈ অনা কায।\n\nসাঙুৰি দিয়া বা খোৱা -- কোনো এঘৰত ধান চপাবলৈ সমূহীয়াকৈ অথচ কোনো\nপাৰিশ্ৰমিক অবিহনে কৰি দিয়া কাম। এই অথতে সাঙুৰি দিয়া মানুহে যি ভোজ-ভাত\nখায় তাকে সাঙুৰি খোৱা বোলে। ইয়াকে সাঁউৰি খোৱাও বোলা হয়।\nন-খোৱা -- নকৈ চপোৱা খাদ্য শসা, বিশেষকৈ নতুন ধানৰ চাউলেৰে লগে-ভাগে\nখোৱা প্ৰীতি ভোজ। সাধাৰণতে পাঙ মাছ-পুঠিৰে ভোজ-ভাতৰ আয়োজন কৰা হয়\nখেতি উঠা উৎসৱ -- পথাৰৰ পৰা খোতি চপোৱা কাযৰ সমাপ্ডি উপলক্ষে আয়োজিত\nউৎসৱ, যত আনন্দ সহকাৰে পৰমজনাৰ প্রতি কৃতজ্ঞতা প্রকাশ কৰা হয়।\n\n&_স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 193,
+    "mean": 85.04,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.888,
+  "page_elapsed_seconds": 4.311,
+  "peak_process_tree_rss_bytes": 275722240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

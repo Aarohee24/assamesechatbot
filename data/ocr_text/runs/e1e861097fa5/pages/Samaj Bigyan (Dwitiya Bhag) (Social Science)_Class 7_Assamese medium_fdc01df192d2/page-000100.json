@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 100,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[ছ]গ্ণদ%\n21962117\n\nশিকনৰ ফলাফল ঃ\n\n৪ মৌৰ্যযুগৰ পৰৱৰ্তী কালছোৱাত ভাৰতবৰ্ষৰ ৰাজনৈতিক পটভূমি সম্পৰ্কে জানিব পাৰিব।\n\n€ দেশীয় সৰু-বৰ ৰাজ্যৰ উত্থান আৰু বিদেশী শক্তিৰ আগমনৰ বিষয়ে জানিব পাৰিব।\n\n৪ দক্ষিণ ভাৰতত সাতবাহন ৰাজ্যৰ আৰ্বিভাৱ আৰু ইতিহাসত এই ৰাজ্যৰ গুৰুত্ব সম্পৰ্কে জানিব পাৰিব।\n৪ ইন্দো-গ্ৰীক আৰু কুষাণসকলৰ সামাজিক ও সাংস্কৃতিক দিশৰ বৰঙণিৰ বিষয়ে জ্ঞান লাভ কৰিব।\n\n€ এই কালছোৱাৰ সাধাৰণ প্রজাৰ জীৱন-ধাৰণ প্রণালী সম্পৰ্কে ব্যাখ্যা কৰিব পাৰিব।\n\nতোমালোকে        মৌৰ্যৰ পৰৱৰ্তী ভাৰতবৰ্ষ\nআগৰ শ্ৰেণীৰ              9, বা\nপাঠ্যপুথিত কেনেকৈ            ্্ু  । ্থ্          উঃ\nশক্তিশালী মৌৰ্য        ন    \"|\"\nসাম্ৰাজ্যৰ পতন              !         সক\nঘটিছিল সেই    নিছিল\" ৮\nলাভ কৰিছা।              ৰিক\n\nউজ্জয়িনী\n\nআমি মৌৰ্যযুগৰ           ৷      ৯     ্‌\nপৰৱৰ্তী কালছোৱাৰ   |          , সাতবাহন সাম্ৰাজ্য\nকৰিম। মৌৰ্যসকলৰ          ৷                প্রমথলোল\nভাৰত বষৰ্ত\nভালেমান সৰু-বৰ          মানচিত্ৰ ১০.১\n\nৰাজ্যৰ উত্থান ঘটিছিল। এনে দেশীয় ৰাজ্যসমূহৰ উপৰি সেই সময়ৰ গ্ৰীক ৰাজ্যৰ বিভিন্ন অংশৰপৰা ইন্দো-গ্ৰীক,\nশক, পাৰ্থিয়ান, কুষাণ আদি বিদেশী শক্তি কিছুমান ভাৰতবৰ্ষলৈ আহি বিভিন্ন স্থানত ৰাজত্ব কৰিছিল। ওপৰৰ মানচিত্ৰ\nখন লক্ষ্য কৰিলে সেই সময়ত ভাৰতত দেশীয় আৰু বিদেশী শক্তিসমূহে গঢ়ি তোলা ৰাজ্যসমূহ চিনাক্ত কৰিব\nপাৰিবা। এই দেশী-বিদেশী বিভিন্ন জাতি জনগোষ্ঠীৰ সমন্বয়ে ভাৰতীয় সমাজ আৰু সাংস্কৃতিক জীৱনৰ ওপৰত যথেষ্ট\nপ্রভাৱ পেলাইছিল।",
+  "confidence": {
+    "word_count": 176,
+    "mean": 84.43,
+    "median": 95.3,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.932,
+  "page_elapsed_seconds": 4.616,
+  "peak_process_tree_rss_bytes": 225705984,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

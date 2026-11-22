@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 109,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ-জ্ঞান সম্প্ৰসাৰণ\n\n১৪। আনে তোমাৰ বিষয়ে কোৱা কোনবোৰ কথাই তোমাৰ গা বেজবেজাই যায় লিখা ?\n\n১৫। অসমৰ খাল-বিল, নৈত মাছ উভৈনদী হৈ আছে। সেইবোৰত উৎসৱ-পাৰ্বণ উপলক্ষে\nৰাইজে সমূহীয়াকৈ মাছ মাৰে। তুমি দেখা (নিজ চকুৰে/দূৰদৰ্শনত/তথ্যচিত্ৰ আদিত)\nতেনেকুৱা মাছ ধৰ৷ উৎসৱৰ বিষয়ে বৰ্ণনা কৰা।\n\n১৬। লখিমীৰ চুলিকোছা| জাঁটলী বা অবিন্যস্ত আছিল। তোমালোকেও তেনেকৈ ৰাখা নেকি?\nযদি নাৰাখা, তেনেহ’লৈ তোমালোকে চুলি, দাঁত, ছাল আদি শৰীৰৰ অংগ-প্রত্যংগবোৰৰ\nকেনেধৰণে যত্ন লোৰা,দলত আলোচনা কৰি লিখা ?\n\n১৭। পুৰণি কালত আমাৰ খেতিয়কসকলে গৰুৰে হাল বাই খেতি কৰিছিল। কিন্তু এতিয়া\nকি কি উপায়েৰে হাল বোৱা, মৰণা মৰা আদি কাম কৰে লিখা।\n\n১৮। শ্ৰেণীকোঠাত তোমালোকে মুক অভিনয় কৰি দেখুওৱা--\n\n(ক) ল’ৰাবোৰে ছোৱালীয়ে কৰা কাম।\n(খ) ছোৱালীবোৰে ল’ৰাই কৰা কাম।\nঘ-- প্ৰকল্প\n১৯। (ক) আমাৰ খেতিয়ক এজনে ব্যৱহাৰ কৰা আহিলা-পাতি নাঙল, যুঁৰলি, মৈ, জবকা,\nদলিমাৰি, জাপি, ৰয়না (কোৰোণা), বিন্ধা আদিৰ ছবি সংগ্ৰহ কৰি এলবাম প্রস্তুত\nকৰা।\n(খ) তলৰ ছবিত দেখা সঁজুলিবোৰৰ নামৰ লগতে তাৰ ব্যৱহাৰ সম্পৰ্কে লিখা--\n\nঠ&                                ৷\n1}                                 {|\n\n(গ) ঢুজককখো গল্প, কবিতা লিখিবলৈ যত্ন কৰা৷ আৰু বাতৰি\nকাকতত প্ৰকাশৰ বাবে মা-দেউতাৰাৰ সহায়ত পঠিয়াই দিয়া।\n\nঞ্চণ ১৯ নং (ক) ক্ৰিয়া-কলাপটো কৰাওঁতে সম্ভৱ হ’লে বাস্তৱ সঁজুলি দেখুৱাব।",
+  "confidence": {
+    "word_count": 178,
+    "mean": 88.31,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.938,
+  "page_elapsed_seconds": 3.218,
+  "peak_process_tree_rss_bytes": 292003840,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

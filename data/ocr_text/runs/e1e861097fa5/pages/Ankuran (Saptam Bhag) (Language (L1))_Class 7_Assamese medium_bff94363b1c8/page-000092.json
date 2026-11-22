@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮। বিশেষভাৱে সক্ষম বা দিব্যাংগসকলৰ প্ৰতি থকা অৱহেলাৰ মনোভাব আঁতৰ কৰিবলৈ\nতুমি কি কি কৰিবা লিখা।\n\nকেইটামান জানিবলগীয়া কথা\n\nঞ ৩ ডিচেম্বৰত ‘আন্তৰ্জাতিক অক্ষম-ব্যক্তিৰ দিৱস’ পালন কৰা হয়।\n\n৬ ‘১৯৯৫ চনৰ আইন’ অনুসৰি বিশেষভাৱে সক্ষম ব্যক্তিয়ে আন ব্যক্তিৰ সমানে সুযোগ,\nসুৰক্ষা, অধিকাৰ লাভ কৰিব আৰু সকলোতে অংশগ্ৰহণ কৰিব পাৰিব।\n\n৬ ৩% ভূমি বিশেষভাৱে সক্ষম ব্যক্তিৰ বাবে সংৰক্ষিত থাকিব।\n\n৬ ৮০% শতাংশতকৈ অধিক অক্ষমতা থকা ১৮ বছৰৰ উৰ্দ্ধৰ লোকৰ বাবে ‘ইন্দিৰা গান্ধী\nজাতীয় অক্ষমতা পেন্সন আঁচনি\"ৰ ব্যৱস্থা কৰা হৈছে।\n\n৬ ‘২০০৬ বিশেষভাৱে ৰাষ্ট্ৰীয় সক্ষম লোকৰ সুৰক্ষা নীতি’ অনুসৰি অক্ষমতাৰ প্রতিৰোধ,\nসুৰক্ষাৰ উপায়, অক্ষম নাৰী আৰু শিশু আদিৰ সংস্থাপন আৰু সুৰক্ষাৰ ব্যৱস্থা লোৱা হৈছে।\n\nঘঁঁপ্রকল্পস\n৯। ধৰা, তোমাৰ বিদ্যালয়ত ছাত্ৰ এজনে ৰাষ্ট্ৰীয় পৰ্যায়ত সংগীত প্ৰতিযোগিতাত পুৰস্কৃত\nহৈছে। তেওঁৰ এই সফলতাৰ কথা জানিবলৈ তুমি তেওঁৰ সাক্ষাৎকাৰ কেনেকৈ\nল’বা৷ তাৰে এটা আৰ্হি প্রস্তুত কৰা।\n১০। শিক্ষা-দীক্ষা, খেলা-ধূলা, সৃষ্টিশীল সাহিত্য, ছবি অঁকা আদিত পাৰদৰ্শিতা দেখুওৱা\nদিব্যাংগ লোকৰ তথ্য সংগ্ৰহ কৰি শ্ৰেণীকোঠাত পঢ়ি শুনোৱা।\n\nএওঁলো৷কৰ লগত আমিও সহযোগ কৰোঁ আহা --",
+  "confidence": {
+    "word_count": 155,
+    "mean": 89.64,
+    "median": 95.73,
+    "minimum": 6.03,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.722,
+  "page_elapsed_seconds": 3.041,
+  "peak_process_tree_rss_bytes": 290881536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

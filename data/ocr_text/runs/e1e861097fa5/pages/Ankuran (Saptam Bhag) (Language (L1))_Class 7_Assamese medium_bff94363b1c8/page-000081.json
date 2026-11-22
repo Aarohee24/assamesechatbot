@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 81,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঙ।\n\nধ৪।\n\n৫\n\n(খ) প্রাচীন কালত আমাৰ ৰাজ্যৰ কোন ছোৱাক সৌমাৰ পীঠ বোলা হৈছিল?\n(গ) ইতিহাসৰ মতে কাৰ ৰাজত্ব কালত আমাৰ ৰাজ্যখনৰ নাম অসম বা অহম হ’ল?\n(ঘ) আমাৰ সকলো শক্তি কিহৰ সেৱাত লগাব লাগিব?\n\n(৬) ইংৰাজ গৱৰ্ণমেণ্টে প্ৰথমে এই দেশৰ নাম ইংৰাজীত কি বুলি লিখিছিল?\n\n(চ) অসমক কোনে ‘অসমৰ দেশ’ বুলি কৈছিল?\n\nউত্তৰ লিখা।\n\n(ক) প্ৰাচীন কামৰূপৰ দক্ষিণ সীমা কোনখিনিলৈকে বিস্তৃত আছিল?\n\n(খ) সৌম্য ৰাজ্যত থকা আৰ্য্য সম্তানসকলক কি বোলা হৈছিল?\n\nগে) সৌমাৰৰ সোমসকলে স্বানজাতীয় লোকসকলক কি বুলি মাতিছিল?\n\n(ঘ) চুকাফা ৰজাই কি পৰ্বত পাৰ হৈ উজনি অসম অধিকাৰ কৰিছিল?\n‘ক’অংশৰ বাকচত থকা শব্দ কেইটাৰ অৰ্থ ‘গ’ অংশৰ বাকচত আছে। এতিয়া তাৰ\nপৰা উপযুক্ত অৰ্থ বিচাৰি ‘খ’ অংশৰ বাকচত লিখা ।\n\nক’অংশ                খ’অংশ                         এ অংশ\nচিৰস্মৰণীয়                                 প্ৰাণপণ চেষ্টা\nকীৰ্তিকলাপ                             গভীৰভাৱে তথ্য বিচাৰি চোৱা, অম্বেষণ\nঅহোপুৰুষাৰ্থ           মাটিৰ তলৰ পৰা পানী ওলোৱাৰ বাট বা বিন্ধা\nঅনুসন্ধান                                                  স্বাধীন\nস্বতন্ত্ৰ                                  ভাল কামৰ পৰিচয়সূচক কাৰ্যাৱলী\nসন্তোষ                                      সদায় মনত ৰাখিবৰ যোগ্য\nউঁহ                                                      আনন্দ, হৰ্ষ\n\nউত্তৰ লিখা।\n\n(ক) অসম নামৰ উৎপত্তি কেনেকৈ হ’ল ?\n\n(খ) বৰ্তমানৰ অসমীয়া জাতিটো কেনেদৰে গঠিত হৈছে?\n\n(গে) অসমীয়া জাতিক এটা আদৰ্শ জাতিৰূপে গঢ়িবলৈ আমি কি কি কৰ৷ উচিত?\n(ঘ) অসমৰ গৌৰৱ বঢ়াবলৈ আমি কি কি কাম কৰিব লাগে?",
+  "confidence": {
+    "word_count": 187,
+    "mean": 88.73,
+    "median": 95.94,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.75,
+  "page_elapsed_seconds": 2.977,
+  "peak_process_tree_rss_bytes": 286957568,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

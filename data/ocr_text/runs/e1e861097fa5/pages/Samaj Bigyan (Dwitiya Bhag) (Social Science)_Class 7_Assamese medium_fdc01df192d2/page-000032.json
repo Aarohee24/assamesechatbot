@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 32,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঞ|\n\nএ\n\nউত্তৰ লিখা ---(১০০টা মান শব্দৰ ভিতৰত)\n\n(ক) পৃথিৱীৰ পৃষ্ঠৰপৰা অভ্যন্তৰ ভাগলৈ প্ৰধান স্তৰ কেইটা আৰু কি কি? চিত্ৰ আঁকি বুজাই লিখা।\n(খ) শিল কেইপ্রকাৰৰ আৰু কি কি বুজাই লিখা ৷\n\n(গ) শিল আৰু মাটিৰ মাজত পাৰ্থক্য বিচাৰ কৰা।\n\n(ঘ) “মাটি অবিহনে গছ-গছনি, জীৱ-জন্তু জীয়াই থাকিব নোৱাৰে”--- কথাষাৰ বুজাই লিখা।\n(ঙ) “মাটি গঠনত জলবায়ুৰ প্রভাৱ অপৰিহাৰ্য” --- কথাষাৰ বুজাই লিখা ৷\n\n(চ) ভূত্বকত পোৱা শিল, মণিক আৰু মাটিৰ মাজত সম্পৰ্ক বিচাৰ কৰা।\n\nতলৰ তালিকাত বিভিন্ন ধৰণৰ শিলৰ নাম দিয়া আছে। সেইবোৰ তালিকাত দিয়া ধৰণে শ্ৰেণীভুক্ত কৰা---\n\nমাৰ্বল, শ্লেট, বালিশিল, গ্রেণাইট, কয়লা, চূণশিল, চক্‌মাটি, নিছ, কংলোমাৰেট, বোকাশিল, চিষ্ট, কোৱাৰ্টযাইট,\nবেছল্ট, গ্রে'।\n\nআগ্নেয় শিল\n\nগেদীয় শিল\n\nৰূপান্তৰিত শিল\n\nঙ|৷\n\nদলত আলোচনা কৰি লিখা--\n(ক) মাটিৰ লগত উদ্ভিদ আৰু প্রাণীজগতৰ সম্বন্ধ কি?\n\n(খ) যদিহে পৃথিৱীৰ উপৰিভাগৰপৰা সাৰুৱা মাটি নোহোৱা হৈ যায়, তেতিয়া কি হ’ব?\n\nকককককক",
+  "confidence": {
+    "word_count": 133,
+    "mean": 85.84,
+    "median": 93.3,
+    "minimum": 11.31,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.931,
+  "page_elapsed_seconds": 3.425,
+  "peak_process_tree_rss_bytes": 265404416,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

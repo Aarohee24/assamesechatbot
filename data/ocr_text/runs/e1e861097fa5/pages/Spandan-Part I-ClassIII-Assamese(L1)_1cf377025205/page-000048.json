@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 48,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৯,\n\n[| জানো আহা --\n\nবিহুৰ সময়ত কণী যুঁজ খেলা তোমালোকে দেখিছানে? কণী-যুঁজ অসমৰ এবিধ\nপৰম্পৰাগত খেল। এই খেলবিধ সাধাৰণতে মাঘৰ বিহুৰ সময়ত খেলে। আমাৰ ৰাজ্যৰ\nবিভিন্ন অঞ্চলত আৰু কিছুমান এনে খেল আছে।\n\nপা\"\n\nখুদ\n\nৰ\n\n_্/৭। দফাটো পঢ়ি তলৰ প্ৰশ্নবোৰৰ উত্তৰ লিখা---\n\nৰ“.   ঘটনাটো ১৯০৪ খ্ৰীষ্টাব্দৰ। সেইবাৰ অলিম্পিক আমেৰিকাত\nঅনুষ্ঠিত হৈছিল। আমেৰিকাৰ দলত জৰ্জ আইজাৰ নামৰ এজন\nখেলুৱৈ আছিল। আইজাৰৰ জন্ম হৈছিল জাৰ্মানীত। সৰুতে এটি\nৰে’ল দুৰ্ঘটনাত তেওঁ বাঁও ভৰিখন হেৰুৱায়। তাৰ পাছত, তেওঁ\nকাঠৰ ভৰি লগাই অলিম্পিকত অংশ গ্রহণ কৰিছিল। আইজাৰে\nতাত ছটাকৈ পদক জয় কৰিছিল। জিমনাষ্ট আইজাৰে তিনিটা সোণ,\nদুটা ৰূপ আৰু এটা ব্ৰঞ্জৰ পদক পাইছিল। অলিম্পিক জিমনাষ্টিক্‌চত\nএনেদৰে পদক জয় কৰা বিশ্বত এনেকুৱা আন কোনো, খেলুৱৈ\nনাই। ১৯০৪ খ্ৰীষ্টাব্দৰ পাছত আইজাৰে আমেৰিকাৰ হৈ আন\nপ্রতিযোগিতাত অংশগ্ৰহণ কৰিছিল।\n\nসাহস আৰু ইচ্ছা থাকিলে সকলো কামতে সফল হ’ব পাৰি।\nজৰ্জ আইজাৰ তাৰ এটা উদাহৰণ ৷\n\nক) জৰ্জ আইজাৰৰ জন্ম:ক’ত হৈছিল?\nখ) আইজাৰে ভৰিখন-হেৰুওৱাৰ পাছতো কিদৰে খেলিছিল?\nগ) কোনো কামত সফল হ’বলৈ হ’লে কি কি গুণ থাকিব লাগে?\n\nঠৰ ৮|তলৰ ছবিসমূহ চাই কোনজন খেলুৱৈ কোনবিধ খেলৰ লগত জড়িত চিনাক্ত কৰি নাম\nলিখোঁ আহা\n\n&\n\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 179,
+    "mean": 86.26,
+    "median": 95.53,
+    "minimum": 5.14,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.667,
+  "page_elapsed_seconds": 5.74,
+  "peak_process_tree_rss_bytes": 225189888,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

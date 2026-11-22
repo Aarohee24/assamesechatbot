@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 83,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(এনেতে গাঁওবুঢ়াৰ ঘৈণীয়েক অৰ্থাৎ গিৰীহঁতনী অকুমণিক লগত লৈ সোমাই আহে।\n\nগিৰীহঁতনীৰ হাতত মজলীয়া আকাৰৰ এটা চৰিয়া। অকুমণিৰ হাতত এটা পানীৰ ঘটী।\n\nভৰিৰ মাজত সোমাব খোজে। ভতুৱায়ো নেজ পাৰি বহি পৰে। গিৰীহঁতনীয়ে পাৰি থোৱা\n\nথাল দুখনত ভাত আৰু মাছ দিয়াত ভতুৱা আৰু খঁকুৱাই খাবলৈ আৰম্ভ কৰে।)\n\nঅকুমণি--- ইহঁতৰ খোৱা পানীখিনি ক’ত দিওঁ জেঠাই?\n\nজেঠাই -- ইহঁতৰ খোৱা শেষ হ’লে থাল দুখনতে ঢালি দিবা।\n\nঅকুমণি--- থালত দিলে সিহঁতে খাব কেনেকৈ?\n\nজেঠাই --- কিয়? কুকুৰ আৰু মেকুৰীয়ে যে পনীয়া বস্তু জিভাৰেহে চেলেকি খায়,সেইটো\nতুমি নাজানা নেকি?\n\nঅকুমণি --- হয় নেকি? মই সঁচাকৈয়ে নাজানিছিলোঁ জেঠাই।\n\nজেঠাই -=- আহা, এতিয়া আমি ভিতৰলৈ যাওঁ । অলপ জিৰণি লওঁ ব’লা।\n\nঅকুমণি -- অলপ ৰ’বচোন জেঠাই ! ইহঁতেনো কেনেকৈ পানী খায় চাই যাওঁ।\n\nজেঠাই -- (অকুমণিয়ে জেঠায়েকৰ কাষতে বহি ল’লে) শুনা অকুমণি, কুকুৰ আৰু\nমেকুৰী উভয়ে ঘৰচীয়া প্রাণী।\n\nঅকুমণি -- তাৰমানে য’তেই মানুহৰ বসতি আছে, ত’তেই কুকুৰ, মেকুৰীৰো বসতি\n\nজেঠাই -- এৰা, তুমি ঠিকেই কৈছা। পৃথিৱীৰ সকলো দেশতেই কুকুৰ আৰু মেকুৰী\nআছে। বনৰীয়া কুকুৰ, মেকুৰীও থকা বুলি শুনিছোঁ। কিন্তু মই হ’লে দেখা\nনাই।\n\nঅকুমণি--- জানে জেঠাই, মই শুনিছোঁ, বৰফৰ দেশতো বোলে কুকুৰ আছে। সিহঁতে\nহেনো শ্লেজগাড়ী নামৰ এবিধ গাড়ীও টানে।\n\nজেঠাই -- অ’ হয় নেকি? তুমি দেখিছোঁ বহুত খবৰেই ৰাখা। চোৱা, চোৱা, সিহঁতে চপ্‌-\nচপাই পানী খাবলৈ আৰম্ভ কৰিলেই। পিছে দুয়োয়ে একেধৰণে পানী খায়।\nএটা কথা জানানে? মেকুৰীয়ে পানীলৈ ভয় কৰে, আনহাতে কুকুৰে আকৌ\nপানীত সাঁতুৰিবও পাৰে। মেকুৰীয়ে গছ বগাব পাৰে, কিন্তু কুকুৰে নোৱাৰে।",
+  "confidence": {
+    "word_count": 226,
+    "mean": 92.52,
+    "median": 93.79,
+    "minimum": 39.44,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.972,
+  "page_elapsed_seconds": 4.355,
+  "peak_process_tree_rss_bytes": 242982912,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

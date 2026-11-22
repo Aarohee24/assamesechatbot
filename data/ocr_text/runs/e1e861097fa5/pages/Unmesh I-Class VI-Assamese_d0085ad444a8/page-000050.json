@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 50,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৮। মাদলৰ চেৱে চেৱে বু্মুইৰ গীতটি লগৈ ভাগে গাই নাচৌ আহা--\nচাহ গাছেৰ মাবে৷ মাবে৷ শিৰিষ গাছেৰ পুলি        ন\nতাৰ মাবে৷ আছে ৰে ভাই কীইচ কাটা আলি,\nৰে পানীৱালা, পানী পিলাতই গলি গলি।\n\nএত বড় বাগানে ধৰাই দিল পাহী\nহাই চানাৱালা, চানা বেচতই গলি গলি ৷(/\n\nত্ৰা না নাইৰে\nনাইৰে গ’\n\nত্রানা নাইৰে নাই\nত্ৰা না নাইৰে\nনাইৰে গ’\n\nত্রানা নাইৰে নাই।\n\nসংগ্ৰাহক ঃ পাপৰি মুণ্ডা\nখোৱাং, ডিব্ৰুগড়।\n\nটি প্ৰম\"         _ -\"াস্য়াচ\n\nৰ ১৯ তোমালোক প্রত্যেকে স্থানীয়ভাৱে পোৱা এজোপা গছৰ পুলি ৰুই প্রতিপালন\nকৰা। প্রতিমাহে পুলিটোৰ বৃদ্ধি লক্ষ্য কৰি টোকাবহীত লিখা।\n২০। তোমাৰ বিদ্যালয় বা ঘৰত থকা গছ-গছনিবোৰৰ নাম লিখি আকৃতিগত মিল থকা\nএকোটিকৈ পাত সংগ্ৰহ কৰি এখন বহীত আঠা লগাই বিদ্যালয়ত জমা দিবা।\n\n[৬ শজযেক ছাৱ-ছৱীক বুমুহৰ গীতটিত নাচিবলৈ শিকাব। প্রয়োজন সাপেক্ষে স্থানীয় অভিজ্ঞ শিল্পীৰ সহায় ল’ব। গীতটিৰ ১\n\nবাবে দৃশ্য-শ্ৰাৱ্য সঁজুলিৰ ব্যৱহাৰ কৰিব। বিদ্যালয়ৰ সভা-সমিতিত নৃত্যটি প্ৰদৰ্শন কৰোৱাৰ ব্যৱস্থা কৰিব।\n\n= === ২২২২",
+  "confidence": {
+    "word_count": 145,
+    "mean": 83.62,
+    "median": 92.87,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.72,
+  "page_elapsed_seconds": 3.317,
+  "peak_process_tree_rss_bytes": 290029568,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

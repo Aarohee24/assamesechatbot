@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 111,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২)\n\nদলত ভাগ হৈ পাঠটো মনোযোগেৰে পঢ়া আৰু তলত উল্লেখ কৰা দিশসমূহ ক’ত আৰু\nকেনেদৰে প্ৰতিফলিত হৈছে--- আলোচনা কৰি লিখা।\n\n-- প্রাকৃতিক দিশ (চৰাই-চিৰিকটি আদি)\n-- সাংস্কৃতিক দিশ\n--_ পুৱাৰ আধ্যাত্মিক দিশ\n\nবিহু, ৰাস উৎসৱ, পালনাম, ভাওনা, সবাহ আদিৰ উপৰি মাজুলীত আৰু কি উৎসৱ পালন\nকৰা হয়?\n\nপাঠটো পঢ়া আৰু লিখা।\n\nক) “কি ক’বা ! ইয়াত মানুহৰ সপোনে পোখা মেলে, কিন্তু বানপানী আৰু গৰাখহনীয়াই সেই\nপোখা মোহাৰি পেলায় ।”-- কথাষাৰ কোনে কি প্ৰসঙ্গত আৰু কিয় কৈছিল?\n\nবেঙেনাআটি, চামগুৰি আদি প্রতিখন সত্ৰৰে সুকীয়া সুকীয়া বৈশিষ্ট্য আছে।”-- কোনখন সত্ৰৰ\nকি কি বৈশিষ্ট্য আছে?\n\n‘মনোৰম মাজুলী’ ভ্ৰমণ কাহিনীটো তোমাৰ আইতা আৰু মাৰা-দেউতাৰাৰ আগত বৰ্ণনা কৰা।\nপাঠত পোৱা কঠিন শব্দবোৰৰ অৰ্থ শব্দ সম্ভাৰ অথবা অভিধান চাই জানি লোৱা।\nমাজুলীৰ বিষয়ে দহটা বাক্য লিখা।\n\nজানো আহা\n\nপ্রাক্‌ শংকৰী যুগৰে পৰা অসমৰ প্রাচীন কবিসকলে সাঁচিপাতত কাব্য লিখিছিল। সাঁচিপাত\n\nহ’ল সাঁচি গছৰ ছাল। এইবোৰ ঘূণে নধৰিবৰ বাবে হেঙুল-হাইতাল বোলাই লিখাৰ উপযোগী\nকৰা হৈছিল।\n\n১০১",
+  "confidence": {
+    "word_count": 147,
+    "mean": 92.06,
+    "median": 96.0,
+    "minimum": 7.75,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.096,
+  "page_elapsed_seconds": 3.454,
+  "peak_process_tree_rss_bytes": 242511872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

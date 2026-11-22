@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 146,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "];; (61060 16817]]116-/%1069 3710 ]\"10]60(9\n\n1. সা৪া1{ 6 1]0910 1001]] 01 ৌ৮001 90100]. 000 1118৮ 8190 ঘছা91[ 11]1091018119 11] ৮0001\n10081). [৪1066 ৪ 1190 01 11109108 111907011]121198. ]খ০৮৮ 00ঘছষ্া} 016 |)81(৪8 01 16962\n111907011121109 |18[ 1018.06 00 1)100006 9000110.\n\n2. _]{[})0018) 8 1]109108] 11190701]1211{, 011]16 100 {]6 ০1899 8110 10621101180802 ]]0ঘম\nঁ00.])|8) 1{.\n\n3. _]6)816 8 19001 181110009 ]110181] 11]091018119 8110 016 11190701]1211{(9 1]16% ])]8%/,\n\n[816 ৪ 10118 01680. ]}21806 ৮001 ]181109 0৮621\" ৮001 6819 8110 920 ৪01160116 10\n12|8০০ 119 01680 11001]0 ৮001\" ])680 8110 |181709. /১91< 1161\" (0 181৩6. {])6 01680 18001\n8110 11010 108 21009 11] 0116 ]]8110. ]খ০ছস৮ 891৩ ]]6|\" 10 018 সম ]121.1]116621\" 8170 1710011]][0\n19]]{] 81011 16 01680 ([\"16. 5.19). €2811 ৮000 ])681' & 101]1116 9010110 ]1]|(6 18001\n8 ]]011021\"? ]খ০\"%৮ 16268 116 ৪০1৮1) ভ]]1]6 81100|1621\" 1116110.9081109 11681\" 60]1 01\n00. 0280] ]16 |1681\" 811) ৪001104\n\n179 14.19\n\n5. ]*[8166 0.00) 02161101169. [7986 {16111 89 9]10ঘযা] 11] [\"196. 5.20. ][8](6 9016 81\n16 (0. 9011169 816 181000.8110 00001) 680০1] 0121. 1.60 0116 01 ৮00 91268]. 0800 {]16\n1621]]811]11116 1166 1)61'90119 |1681\"/ ১০০ ]10' সম 1]]81]'}া 1]1016 111021109 ৮00. ০811 2168.662\n11] 119 ডা. ]}\")])|811] ৮001 0096214810119.\n\n179 14.20",
+  "confidence": {
+    "word_count": 194,
+    "mean": 45.29,
+    "median": 42.12,
+    "minimum": 0.0,
+    "maximum": 95.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4646,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.334,
+  "page_elapsed_seconds": 3.6,
+  "peak_process_tree_rss_bytes": 268181504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

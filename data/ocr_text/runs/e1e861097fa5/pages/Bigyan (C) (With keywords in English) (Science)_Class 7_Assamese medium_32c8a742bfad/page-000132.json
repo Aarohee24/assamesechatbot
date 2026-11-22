@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 132,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (['৷ণ০\"09০৪)\n\n(1) দৌৰ শেষ হোৱাৰ পিছত খেলুৱৈ এজনে সাধাৰণতে লোৱাতকৈ বেছি খৰকৈ আৰু দীঘলীয়াকৈ কিয়\nউশাহ-নিশাহ লয়?\n(2) বায়বীয় আৰু অবায়বীয় শ্বসনৰ সাদৃশ্য আৰু পাৰ্থক্যৰ তালিকা কৰা।\n(3) যেতিয়া আমি উশাহত অতি বেছি ধূলিকণাযুক্ত বায়ু গ্ৰহণ কৰোঁ, তেতিয়া আমি কিয় সঘনাই হীচিয়াও?\n(4) তিনিটা পৰীক্ষানলী লোৱা৷ প্ৰত্যেকটোৰ 3/4 অংশ পানীৰে ভৰাই লোৱা। ‘ক’‘খ’ আৰু ‘গ’নামেৰে লেবেল\nলগাই লোৱা৷ ‘ক’পৰীক্ষানলীত এটা শামুক লোৱা, ‘খ’ পৰীক্ষনলীত এটা জলজ উদ্ভিদ আৰু ‘গ’পৰীক্ষানলীত\nবেছি হ’ব?\n\n(5) সঠিক উত্তৰত চিন দিয়া $\n(৪8) পঁইতাচোৰাৰ শৰীৰলৈ                           ৰ যোগেদি বায়ু সোমাই আহে।\n(}) হীওফাঁও                            (1) ফুল\n(}}}) বায়ু ছিদ্ৰ                           (৮) ছল\n(৮) গধুৰ ব্যায়ামৰ সময়ত আমাৰ ভৰিত জমা হোৱা ----------ৰ বাবে সিৰামুৰি ধৰে।\n(1) কাৰ্বন-ডাই-অক্সাইড               (11) লেক্‌টিক এছিড\n(0}}) এলক’হল                     (1৮) পানী\n(০) এজন প্রাপ্ত বয়স্ক মানুহৰ জিৰণিৰ সময়ত প্রতি মিনিটত স্বাভাবিক উশাহ-নিশাহৰ হাৰৰ গড় বিস্তৃতি\n(1) 9-12               (}) 15-18\n(0}}) 21 - 24            (1৮) 30-33\n(0) নিশাহৰ সময়ত কামিহাড়বোৰ\n(1) বাহিৰলৈ গতি কৰে      ({}) তললৈ গতি কৰে\n({{}) ওপৰলৈ গতি কৰে              (1৮) কোনো ধৰণৰ লৰচৰ নকৰে\n(6) স্তম্ভ 1 ৰ লগত স্তম্ভ 2ৰ বিষয়সমূহ মিলোৱা\nস্তম্ভ 1                       স্তুম্ভ 2\n(৪) ইষ্ট                       (0) কেচু\n(6০) মধ্যচ্ছদা                 ({}) ফুল\n(০) ছাল                      (1}}) এলক’হল\n(0) পাত                       (1৮) বক্ষ গহ্থৰ\n(০) মাছ                      (ঘ) পত্ৰৰন্ব\n(0) ভেকুলী                   (ঘ}) হীওফীও আৰু ছাল\n\n(ঘ1}) শ্বাসনলী\n\n118",
+  "confidence": {
+    "word_count": 204,
+    "mean": 84.74,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.888,
+  "page_elapsed_seconds": 3.153,
+  "peak_process_tree_rss_bytes": 295477248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

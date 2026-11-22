@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 229,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্রাকৃতিক আঁহৰ নিচিনা সাংশ্লেষিক আঁহ আৰু\nপ্লাষ্টিকবোৰো হৈছে বহুসংখ্যক গোটেৰে গঠিত\nপদাৰ্থ যিবোৰক বহুযোগী বুলি কোৱা হয়।\n\nবহুযোগীবোৰ বহু সংখ্যক সৰু সৰু এককেৰে\nগঠিত।\n\nপ্রাকৃতিক আঁহবোৰক উদ্ভিদ আৰু প্রাণীৰ পৰা\nপোৱা যায়, আনহাতে সাংশ্লেষিক, অঁ\n\n* আজিকালি, প্লাষ্টিক অবিহনে জীয়াই থকাৰ কথা\nকল্পনা কৰিব নোৱাৰি। ঘৰতেই হওক বা বাহিৰতে,\nসকলো ঠাইতে প্লাষ্টিক ব্যবহৃত হয়।\n\nপ্লাষ্টিকবোৰে সৃষ্টি কৰা আৱৰ্জনাবোৰ পৰিৱেশ\nহিতৈষী নহয়। দহনত প্লীষ্টিকে বিষাক্ত গেছ\nনিৰ্গত কৰে। মাটিত কৰি দ’ম কৰি থলে সেইবোৰ\nপচন হ’বলৈ বহু বছৰ সময় ল’ব পাৰে। এইটো\nসেইবোৰৰ জৈৱ অপচনশীল প্ৰকৃতিৰ বাবে হয়।\n\nআমি সংশ্লেষিত আঁহ আৰু প্লাষ্টিক এনেদৰে\nব্যৱহাৰ কৰিব লাগে যাতে সেইবোৰৰ ভাল গুণবোৰ\nউপভোগ কৰিব পাৰোঁ আৰু একে সময়তে জীৱ-\nজগতখনৰ পৰিৱেশ সম্পৰ্কীয় বিপদবোৰ কমাব\nপাৰোঁ।\n\n, সাংশ্লেষিক আঁহ আৰুপ্লাষ্টিক / ওখ] ]] [0 চা]]২[};5 %খ]) }?[.৯৪[[097",
+  "confidence": {
+    "word_count": 124,
+    "mean": 88.19,
+    "median": 94.2,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.709,
+  "page_elapsed_seconds": 2.998,
+  "peak_process_tree_rss_bytes": 310509568,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

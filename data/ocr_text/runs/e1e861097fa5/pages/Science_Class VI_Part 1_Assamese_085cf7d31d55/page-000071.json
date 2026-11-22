@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 71,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3. চমু উত্তৰ লিখা।\n(0) আবাসস্থল কাক বোলে?\n(11) জৈৱ বৈচিত্ৰ্য মানে কি বুজা?\n({{}) কেক্‌টাছে মৰুভূমিত জীয়াই থাকিবলৈ কি দৰে অভিযোজন কৰে?\n(1) সমান্তৰাল সিৰাবিন্যাস থকা তিনিবিধ উদ্ভিদৰ উদাহৰণ দিয়া।\n(৮) জৈৱ বৈচিত্ৰ্যৰ গুৰুত্ব লিখা।\n\n(ঘ1) ‘চৰাই জৈৱ বৈচিত্ৰ্যৰ এক প্ৰয়োজনীয় অংশ’ - ব্যাখ্যা কৰা।\n4. শুদ্ধ নে অশুদ্ধ লিখা।\n\n(1) সকলোবোৰ পতংগই আমাৰ বাবে অপকাৰী।\n\n(11) চৰায়ে অৰণ্য বিস্তাৰণত সহায় কৰে।\n\n(}}}) পৰিৱেশৰ সকলো জীৱৰ মাজত কোনে৷ ধৰণৰ পৰস্পৰ সম্পৰ্ক নাই।\n(1৮) জৈৱ বৈচিত্ৰ্যৰ অৱক্ষয়ে পৰিৱেশত প্রভাৱ পেলায়।\n\n(৮) অতিপাত ঠাণ্ডা ঠাইত কোনো জীৱই জীয়াই থাকিব নোৱাৰে।\n\n_]        বিস্তৃত শিকন        [_\n\nঞ*$ ওচৰৰ এখন অৰণ্যৰ এজোপা ডাঙৰ গছ লক্ষ্য কৰা। গছজোপাত থকা বিভিন্ন\nজীৱবোৰ কি কি বিচাৰি উলিওৱা ৷ এখন তালিকা প্রস্তুত কৰা। তোমাৰ শিক্ষকসকলৰ\nমতামত লিখা।\n\nঞ* পৃথিৱীৰ বিভিন্ন পৰিৱেশতন্ত্ৰৰ ছৱি সংগ্ৰহ কৰা। এখন ‘স্ত্ৰেল বুক’ ত এইবোৰ\nলগোৱা।\n\nঞ তুমিচিনিপোৱা কমেও পোন্ধৰটা জীৱ বাছিউলিওৱা ৷ সেইবোৰৰ মাজত সম্পৰ্ক\nকি ভাবি চোৱা। সেইবোৰক সম্পৰ্কৰ মাজত থকা পৰস্পৰ নিৰ্ভৰশীলতাৰ\nবিষয়ে এটা টোকা লিখা। প্রয়োজন হ’লে তোমাৰ শিক্ষকৰ সহায় লোৱা।\n\n_",
+  "confidence": {
+    "word_count": 162,
+    "mean": 86.27,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.732,
+  "page_elapsed_seconds": 3.035,
+  "peak_process_tree_rss_bytes": 356798464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

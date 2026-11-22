@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 141,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দ প্ৰদূষণৰ অপকাৰিতা ঃ\n\nআমাৰ চাৰিওফালে হোৱা অত্যধিক কোলাহলে\nনানা স্বাস্থ্যতনিত সমস্যাৰ সৃষ্টি কৰিব পাৰে বুলি\nতোমালোকে জানানে? টোপনি নোহোৱা, ৰক্তচাপ,\nউদ্বেগ আৰু বহুতো স্বাস্থ্য বিসংগতিৰ কাৰণ শব্দ প্রদূষণ\nহ’ব পাৰে। উচ্চস্বৰৰ শব্দ অবিৰতভাৱে শুনি থাকিলে\nমানুহৰ স্থায়ী অথবা অস্থায়ীৰূপত শ্ৰৱণ বিসংগতি\nঘটিব পাৰে।\n\nশব্দ প্ৰদূষণ নিয়ন্তুণৰ উপায়\n\nকোলাহল নিয়ন্তণ কৰিবলৈ হ’লে, কোলাহলৰ\nউৎসসমূহ নিয়ন্ত্ণ কৰিব লাগিব। এই উদ্দেশ্য কিদৰে\n\nসাধন কৰিব পাৰি? ইয়াৰ বাবে উৰাজাহাজৰ\n\nইঞ্জিন, পৰিৱহণৰ যান- বাহন, উদ্যোগিক যন্ত্ৰপাতি\nআৰু ঘৰুৱা ব্যৱহাৰ্য আহিলাসমূহত ছাইলেন্সাৰ স্থাপন\nকৰিব লাগিব।\n\nআৱাসিক এলেকাত কেনেকৈ শব্দ প্ৰদূষণ\nনিয়ন্তণ কৰিব পাৰি?\n\nসকলো ধৰণৰ হুলস্থুলীয়া কাৰ্য আবাসিক\nঅঞ্চলৰ পৰা দূৰৈত কৰিব লাগিব। কোলাহল সৃষ্টি কৰা\nউদ্যোগসমূহ এই অঞ্চলসমূহৰ পৰা আঁতৰত স্থাপন\nকৰা উচিত। যান-বাহনৰ হৰ্ণৰ ব্যৱহাৰ কমোৱা উচিত।\nটেলিভিছন আৰু সংগীত শুনা যন্তুপাতিবোৰ নিম্ন স্বৰত\nবজোৱা উচিত। পথৰ কাষত আৰু ঘৰৰ চাৰিওফালে\nগছ ৰুই শব্দবোৰৰ তীব্ৰতা কমাব পাৰি আৰু এনেদৰে\nশব্দ প্ৰদূষণৰ কুপ্ৰভাৱ বহু পৰিমাণে কম কৰিব পাৰি।",
+  "confidence": {
+    "word_count": 144,
+    "mean": 90.41,
+    "median": 95.74,
+    "minimum": 4.93,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.703,
+  "page_elapsed_seconds": 2.999,
+  "peak_process_tree_rss_bytes": 260694016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

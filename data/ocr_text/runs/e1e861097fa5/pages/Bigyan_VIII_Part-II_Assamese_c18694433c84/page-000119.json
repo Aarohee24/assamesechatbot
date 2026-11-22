@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 119,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "10) তলৰ তালিকাত ল’ৰা আৰু ছোৱালীৰ বয়স অনুসৰি দেহৰ উচ্চতাৰ তথ্য দিয়া হৈছে। উচ্চতা\nআৰু বয়স অনুসৰি উভয়ৰে একেখন লেখ কাগজতে গ্ৰাফ প্রস্তুত কৰা৷ এই গ্ৰাফৰ পৰা তোমালোকে\n\nকি সিদ্ধান্ত ল’বা?\n\nবয়স ৷! উচ্চতা (চে মি)\n(বছৰ) | ল’ৰা _ ছোৱালী\n0       53       53\n4       96      92\n8      114     110\n12      129     133                ত     ্র     চক 10; 2\n16     150     150\n20     173     165\n\nউচ্চতা (চে মি)\n\n৬ ছোৱালী\n\nত\n\n1) তোমাৰ অগ্ৰজ আত্মীয়ৰ পৰা বাল্য বিবাহ সম্পৰ্কে তেওঁলোকৰ বিধিগত সচেতনতাৰ\nবিষয়ে জানি লোৱা। তোমালোকে নিজেও এই সম্পৰ্কে ইন্টাৰনেট, শিক্ষক-শিক্ষয়িত্ৰী,\nপিতৃ-মাতৃ আৰু চিকিৎসকৰ পৰা তথ্য সংগ্ৰহ কৰিব পাৰা। বাল্য বিবাহ যে দম্পতীৰ বাবে\nক্ষতিকাৰক তাৰ ওপৰত 2 মিনিটৰ এটি বক্তব্য লিখা।\n\n2) [][4//%][)8 ৰ তথ্য বাতৰি কাকত আৰু আলোচনীৰ পৰা সংগ্ৰহ কৰা। 15 ৰ পৰা৷ 20 টা\nবাক্যৰ ভিতৰত []ন[//$[[)9 ৰ বিষয়ে এটি টোকা প্রস্তুত কৰা।\n\n3) লোক-পিয়লমতে আমাৰ দেশত 1000 পুৰুষৰ বিপৰীতে 882 মহিলা আছে। বিচাৰ কৰি\nচোৱা।\n\n(৪) এই নিম্ন অনুপাত সম্পৰ্কে সমাজৰ সচেতনতা কেনেকুৱা? তোমালোকে মনত ৰখা\nউচিত যে ল’ৰা বা ছোৱালী জন্ম হোৱাৰ সম্ভাৱনা সমান।\n\n(৮) ভ্ৰণৰ লিংগ নিৰ্ণয় কৰা পদ্ধতিটো কি আৰু ই কিমান দূৰ উপকাৰী ? ভাৰতবৰ্ষত শিশুৰ\nজন্মপূৰ্ব লিংগ নিৰ্ণয় কৰা পদ্ধতি কিয় বন্ধ কৰা হ’ল?\n\n4) তোমালোকৰ নিজস্ব অভিজ্ঞতাৰ ভিত্তিত প্রজনন সম্পৰ্কে জ্ঞান আহৰণ কৰাৰ গুৰুত্ব কি\nতাৰ ওপৰত এটি চমু টোকা প্রস্তুত কৰা।\n\nঅধিক তথ্যৰ বাবে\n২৬ ঘ্সঘম্ঘম.,(26০119]168|||].016/06211/928008] 116]80]]/\n\n> ছঘ্সমম.81]]18. 8991].018/81118/101012/08(2801\"%/1947.]]{[]]]\n২৬ ছঘ্মঘম.80012906210168|]|].00]]\n\n-২\n\nবৰ",
+  "confidence": {
+    "word_count": 225,
+    "mean": 87.81,
+    "median": 95.89,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.58,
+  "page_elapsed_seconds": 3.863,
+  "peak_process_tree_rss_bytes": 260206592,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

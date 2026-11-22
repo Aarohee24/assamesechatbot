@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(|\n৷৷        খ'\n২৮ এ.   )\n\n৷\n\nচিত্ৰ 2.1: পৃথিৱীৰ বিভিন্ন পৰিৱেশত পোৱা জীৱসমূহ\n\n2.2 জৈৱ বৈচিত্য্যৰ:গুৰ্ত্ব\n\nআমাৰ চাৰিওফালে থকা জীৱবোৰৰ লগত আমাৰ সকলোৰে সম্পৰ্ক আছে।\nতুমি তেনে সম্পৰ্ক মন কৰিছানে? চৰাইৰ লগত শস্যৰ সম্পৰ্ক আছেনে? পখিলাৰ\nলগত ফুলৰ কি সম্পৰ্ক? তোমালোকে জানা যে কিছুমান চৰায়ে শস্য খাদ্য হিচাপে\nখায়, আন কিছুমানে শস্যপথাৰত থিতাপি লোৱা অনিষ্টকাৰী পোক-পতংগক খাই শস্যৰ\nউপকাৰ সাধন কৰে। পখিলাই ফুলৰ মৌ খায় আৰু ইয়াৰ ফলত উদ্ভিদৰ বংশ বৃদ্ধিত\nসহায় হয়। উদ্ভিদৰ ফল কিছুমান প্রাণীৰ প্রধান খাদ্য। ডাঙৰ গছ এজোপাৰ কথা ভাবাচোন।\nতেনে গছত চৰায়ে বাহ সাজি থাকে। গছত থকা পোক-পতংগ চৰায়ে আহাৰ হিচাপে\nখায়। ফলত তেনে জীৱবোৰৰ সংখ্যা নিয়ন্ত্ৰিত অৱস্থাত থাকে। কিছুমান চৰায়ে গছৰ ফল\nখায়। ফলৰ গুটিটো মলৰ লগত ওলাই আন ঠাইত পৰে। গুটিৰ পৰা গছ হয়। এইদৰে\nগছ-গছনিৰ সংখ্যা বাঢ়ে। অৰণ্যৰ বিস্তাৰত এইদৰে চৰাইবোৰে সহায় কৰে। অৰণ্যই\nপ্রাণীবোৰক বাসস্থান দিয়ে। উদ্ভিদে প্রাণীক খাদ্য দিয়ে, উশাহ ল'বলৈ অক্সিজেন যোগান\nধৰে। প্রাণীয়ে নিশাহত কাৰ্বন ডাইঅক্সাইড গেছ এৰি দিয়ে। এই গেছ উদ্ভিদে খাদ্য তৈয়াৰ\nকৰিবলৈ ব্যৱহাৰ কৰে। এনেদৰে আমাৰ পৰিৱেশৰ ভাৰসাম্যতা ৰক্ষা হয় । অৰণ্যৰ দাঁতি -\nকাষৰীয়া ঠাইত কিছুমান জনগোষ্ঠীয় লোক বাস কৰে। তুমি তেনে অঞ্চল ভ্ৰমণ কৰিছানে?",
+  "confidence": {
+    "word_count": 182,
+    "mean": 90.87,
+    "median": 96.08,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.474,
+  "page_elapsed_seconds": 4.034,
+  "peak_process_tree_rss_bytes": 320712704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

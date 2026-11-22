@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মেলি দিওঁ নিজৰাত\nটোৱে ঢৌৱে নাচি নাও\nযায় লাহে লাহে\nনীলা আকাশত যেন\nজোনটি হৈ ভাহে\n||} উসঃ গগনচন্দ্ৰ অৱিকাৰী সম্পভ্ভনতকীত ব্ৰ্্ফ শু-সাহিত্য সমগ্ৰ (প্রথম খঙ), অক্টোবৰ ২০০৩, অধেযা,\n|\n\nগুৱাহাটা-  -৭৮১০০৩  ‘পৃষঠাশ-২৬৮\nৰ\n\nকৰি পৰিচয় ঃ নৱকান্ত বৰুৱা (১৯২৬-২০০২ খ্ৰীষ্টাব্দ) এগৰাকী কবি,\nওপন্যাসিক আৰু শিশু-সাহিত্যিক। ‘এখুদ ককাইদেউ’ ছদ্মনামেৰে তেওঁ\nবহু শিশু-সাহিত্য ৰচনা কৰিছিল। শিয়ালী পালেগৈ ৰতনপুৰ, ভ-ত উ-\nকাৰে ভূ, মাখনৰ কুকুৰা পোৱালী, মই টুনীয়ে টুনটুনাৰ্লোঁ আদি তেখেতৰ\nকেইখনমান শিশু উপযোগী পুথি। এইজনা সাহিত্যিকে ‘ককাদেউতাৰ ৷;\nতদুপৰি তেওঁ ‘অসম প্রকাশন পৰিষদ বঁটা’,‘অসম উপত্যকা বঁটা’ আদিও\nলাভ কৰিছিল। ভাৰত চৰকাৰে তেওঁক ‘পদ্মভূষণ’ সন্মানেৰে বিভূষিত কৰিছিল। তেওঁ অসম\nসাহিত্য সভাৰ সভাপতিৰ আসনো অলংকৃত কৰিছিল।\n\nএ,\n\n= --ক্ক্চক্ীল=---  =\n\n= --ক্ক্চক্ীল=---  =",
+  "confidence": {
+    "word_count": 110,
+    "mean": 80.93,
+    "median": 92.95,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 75 diacritics",
+        "Detected 75 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.59,
+  "page_elapsed_seconds": 3.56,
+  "peak_process_tree_rss_bytes": 286040064,
+  "tesseract_warnings": [
+    "Detected 75 diacritics",
+    "Detected 75 diacritics"
+  ],
+  "processed_this_run": true
+}

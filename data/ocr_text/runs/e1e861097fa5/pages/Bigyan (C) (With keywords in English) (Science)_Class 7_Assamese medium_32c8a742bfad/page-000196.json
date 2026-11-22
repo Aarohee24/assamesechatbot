@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 196,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 15.17 এজন দন্ত চিকিৎসকে ৰোগী পৰীক্ষা\n\n(/% 0610019{ 6স%৪11]1111116 8 |)8{161]()\nপ্ৰজ্ঞানে তাৰ নতুন চাইকেলখনৰ টিলিঙাৰ\nচিক্মিকিয়া পৃষ্ঠাত নিজৰ প্ৰতিবিম্বটো লক্ষ্য কৰিছিল। সি\nদেখিছিল যে তাৰ প্রতিবিম্বটো থিয় আৰু আকাৰত সৰু\n\nঅৱতল\n(00110816 90108০০)\n\nচিত্ৰ 15.18 টৰ্চৰ প্ৰতিফলক\n\n(]২০].০০001\" 018 (010]])\n\nআছিল। টিলিঙাটোও এক ধৰণৰ গোলাকাৰ দাপোণ\nবুলি ভাবিবলৈ সি বাধ্য হৈছিল। এই দাপোনখনৰ\nপ্রকৃতি নিৰ্ণয় কৰিব পাৰিবানে?\n\nমন কৰিব যে টিলিঙাৰ প্রতিফলক পৃষ্ঠখন উত্তল।\nজ্ৰিয়াকলাপ (৯৫%1(%)15.8\n\nঅৱতল দাপোণৰ সলনি উত্তল দাপোণ ব্যবহাৰ\nকৰি ক্ৰিয়াকলাপ 15.7 পুনৰাই কৰা (চিত্ৰ 15.19)।\nতালিকা 15.1 সদৃশ এখন তালিকাত তোমাৰ\nপৰ্যৱেক্ষণবোৰ টুকি থোৱা।\n\nউত্তল দাপোণৰ পৰা কোনো বিশেষ দূৰত্বত লক্ষ্যবস্তু\nএটা থৈ তাৰ সংৎপ্রতিবিম্ব গঠন কৰিব পাৰিনে? লক্ষ্য\nবস্তুতকৈ আকাৰত ডাঙৰ প্রতিবিম্ব দেখিছিলানে?\n\nচিত্ৰ 15.19 এখন উত্তল দাপোণ গঠন কৰা প্রতিবিম্ব\n\n(]1]18262 1011]60 0) & ০0182. 111]11101')\n\nতালিকা 15.1 লক্ষ্যবস্তুৰ বিভিন্ন অৱস্থানৰ বাবে অৱতল দাপে৷ণত গঠন হোৱা প্রতিবিম্ব\n\n([178966 1011]60. 0%া ০01008%62 1]}11101' 101\" 0616001218060 ৪8 01121610{ 01908110629 1]|\"01]] 10)\n\nদাপোণৰপৰা লক্ষ্যবস্তুৰ দূৰত্ব\n\nলক্ষ্যবস্তুতকৈ সৰণডাঙৰ\n\nপ্রতিবিম্বৰ প্ৰকৃতি\nওলোটা৷/ থিয়         সত / অসৎ\n\n50চে-:মি.\n\n40চে.মি.\n\n30চেমি.\n\n20চে.মি.\n\n10চেমি.\n\n5চে-মি.\n\n182",
+  "confidence": {
+    "word_count": 166,
+    "mean": 78.29,
+    "median": 92.7,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.847,
+  "page_elapsed_seconds": 3.231,
+  "peak_process_tree_rss_bytes": 296132608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

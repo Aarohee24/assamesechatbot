@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যিমানেই কষ্টকৰ হওক, মই পাৰিমেই। শিক্ষাৰ বাবে কোনো বয়স নাই!”\n\nকথা মতেই কাম। পাছদিনাৰ পৰাই মোৰ শিক্ষক জীৱনৰ সূত্ৰপাত হ’ল। দেখিলোঁ যে ভাল\nছাত্ৰ-ছাত্ৰীৰ সকলো গুণেই আইতাৰ আছে।\nগৃহকৰ্ম’ণ কৰিবলৈ তেখেতে ক্লান্তি অনুভৱ\nনকৰিছিল একোটা বাক্য মনত ৰাখিবলৈ তেখেতে\nবাৰে বাৰে পঢ়িছিল। পঢ়া হৈ গ’লে মনে মনে\nআওৰাইছিল। ময়েই তেখেতৰ একমাত্ৰ শিক্ষয়িত্ৰী\nআৰু তেখেত আছিল মোৰ একমাত্ৰ ছাত্ৰী।\n\n২_ যথাসময়ত সৰস্বতী পূজা আৰম্ভ হ’ল।\n======= তেতিয়ালৈ ‘কাশীযাত্ৰী’ উপন্যাসখন গ্ৰন্থ হিচাপে\nপ্রকাশ হৈ ওলাইছে। মই গোপনে সেইখন\nকিনিলোঁ। পূজাৰ দিনা আইতাই মোক মণ্ডপলৈ নি এখন টুলৰ ওপৰত বহিবলৈ দিলে। এটা ফ্ৰকৰ\nকাপোৰ মোৰ হাতত দি তেওঁ মোৰ ভৰি স্পৰ্শ\nকৰিলে। মই চক্‌ খাই উঠিলোঁ ৷ কাৰণ মই কেতিয়াও\nডাঙৰে সৰুৰ ভৰি স্পৰ্শ কৰা দেখা নাছিলোঁ৷\n\nআইতাই ক’লে--- “মই মোৰ শিক্ষয়িত্ৰীৰহে\nপঢ়োৱা দৰদী শিক্ষয়িত্ৰীৰ ভৰি চুইছোঁ। তেওঁৰ পৰা\nমই অতি অমূল্য শিক্ষা পাইছৌ আৰু সেই শিক্ষা\nইমানেই কাৰ্যকৰী হৈছে যে মই এতিয়া সাৱলীলভাৱে\nউপন্যাস পঢ়িব পাৰোঁ৷ যি শিক্ষাই আজি মোক পঢ়াৰ\nস্বাধীনতা দিলে, সেই শিক্ষা দান কৰা শিক্ষয়িত্ৰীক মই কিয়বা সন্মান নকৰিম!”\n\nময়ো মোৰ প্রথম ছাত্ৰীগৰাকীক প্রণাম কৰিলোঁ আৰু যিটো পুৰস্কাৰ তেখেতৰ বাবে গোপনে\nকিনি থৈছিলোঁ, সেইটো তেখেতৰ হাতত তুলি দিলোঁ ৷ উপন্যাসখনৰ প্রথম পৃষ্ঠাটো লুটিয়াই আইতাই\nঅনৰ্গল পঢ়ি যাবলৈ ধৰিলে৷ মই বুজি পালোঁ যে মোৰ প্রথম ছাত্ৰীগৰাকী ‘ডিষ্টিংচন’সহ উত্তীৰ্ণ হৈছে।\n\nকাহিনীটোৰ মূল লেখক + সুধা মূৰ্তি (কৰ্ণাটক)\nঅনুবাদক $ অঞ্জন শমা",
+  "confidence": {
+    "word_count": 210,
+    "mean": 90.12,
+    "median": 95.98,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.927,
+  "page_elapsed_seconds": 4.402,
+  "peak_process_tree_rss_bytes": 248401920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

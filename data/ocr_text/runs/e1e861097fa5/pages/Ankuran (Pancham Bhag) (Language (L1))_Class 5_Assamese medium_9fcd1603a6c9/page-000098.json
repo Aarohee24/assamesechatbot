@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 98,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "নিশ্চয় শ্চ শ+চ শই চই শ্চ নিশ্চিত, পশ্চিম\nব্যাথ ঘম্ৰ ঘ+ৰ ঘই ৰই ঘ্ৰ ঘ্ৰাণ,   শীঘে\nসন্ধান ন্ধ ন+ধ নই ধই বন্ধ ৰন্ধন, ৰান্ধনী\nসুন্দৰ ন্দ ন+দ নই দই ন্দ বান্দৰ, মন্দিৰ\nজন্ম ন্ম ন+ম নই মই ন্ম সন্মান, উন্মনা\nসুস্থ স্থ স+থ সই থই স্থ স্থল,  স্থিৰ\n\nঞ্ল” ক, খ, ত, থ, প, ফ আৰু মএই আখৰকেইটাৰ লগতহে ‘স’ যোগ হয় । যেনে-- বয়স্ক, স্খলন,\n\n31, যুক্তাক্ষৰ গঠন কৰি পঢ়োঁ আহা।\nক্কব ক+ক কইকই কক\nন্ন ন-+ন নই নই এন\nশ্চ শ+চ শই দচই. শ্চ\nঘ ঘ-+ৰ ঘইৰই ঘ্ব\nন্ধ ন+ধ নই ধই.‘্ধ\nনদ ন+দ নই দই ন্দ\nনু ন+ম নই মই আত্ম\nস্থ‘ স+থ সই থই স্থ\n\n৷ তলৰ বাক্যবোৰ পঢ়া।\n(ক) বানপানীয়ে মানুহৰ জীৱন বিপন্ন (বিপদগ্ৰস্ত) কৰে।\n(খ) ড‘ ভূপেন হাজৰিকা এজন বিশ্ববিশ্ৰুত (পৃথিৱীৰ সকলোৱে জনা) লোক আছিল।\n\n(গ) চন্দন (এবিধ গছ) এবিধ মূল্যৱান গছ।\n(ঘ) প্রবন্ধ (ৰচনা) লিখা ব্যক্তিক প্রবন্ধকাৰ বুলি কোৱা হয়।",
+  "confidence": {
+    "word_count": 147,
+    "mean": 79.45,
+    "median": 90.56,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.03,
+  "page_elapsed_seconds": 3.346,
+  "peak_process_tree_rss_bytes": 243593216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,68 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৬            ঘ্বীনিয়াত\n\nপ্র £-__- কোন ব্যক্তির হাত যদি কণীর নীচে কাটা থাকে তখন এঁ হাত\nধৌত করা প্ৰয়োজনীয় কিনা?\nউ ঃ--_ যতক্ষণ কণী অথবা উহার নীচের কোন অংশ বাকী থাকিলে\nতখন কণী এবং এঁ নীচের অংশ ধৌত করা ফরজ।\nপ্র £-- ওজুর মধ্যে যদি নিয়ত না করিয়া থাকে তখন কি হইবে?\nউ ঃ-_ ওজুর নিয়ত যদি না করিয়া থাকে যেমন সাগর কিংবা নদীতে\nজল প্ৰবাহিত হইয়া পড়িল এইরপ ক্ষেত্ৰে অজুর কাজ হইয়া যায় এবং এহেন\nপ্র £-= ওজুর নিয়ত কি ভাবে করিতে হয়?\nঃ-- নিয়ত শব্দের অৰ্থ ইচ্ছা করা। যখন ওজু করিতে লাগিবে, তখন\nএই কথা মনে করিবে যে অপবিত্ৰতা দূর করিয়া পবিত্ৰতা সঞ্চয় করিতেছি\nএবং সে নামাজ পরিবার জন্য ওজু করিতেছি, এইরাপ মন বৃত্তিই ওজুর নিয়ত।\nপ্র £-- ওজুর নিয়ত মুখে পাঠ করা প্রয়োজনীয় কি না?\nউ £ঃ-- মুখে পাঠ করা প্ৰয়োজনীয় নহে, তবে মুখে পাঠ করিলেও\nবাধা নাই।\nপ্র £-_ ওজু থাকা অবস্থায় নুতন ওজু করিতে হইলে কি নিয়ত করিতে\nহইবে?\nউ ঃ$-- ওজু থাকা অবস্থায় অজু করার শ্ৰেষ্ঠত্ব এবং পুণ্য লাভের জন্যে\nগ্যক্ষুৰীল লি ম্ন্ধূ,\nপ্র $-- ওজুর মধ্যে বিছমিল্লাহ পুরাপুরি ভাবে পরিতে হয় কি না?\nউ £-- বিছমিল্লাহির রহমানির বরহিম পুরাপুরি ভাবে পড়া যায়।\nঅথবা বিছমিল্লাইল আলিয়িল আজিম' আলহামদু লিল্লাহি আল্লা অলিয়িল\nদিনিল ইছলাম অথবা বিছমিল্লাহে আলহামদুলিল্লাহে এই তিন ভাবে পড়া যায়।\nপ্র £=- মিছওয়াক করা কি? এবং উহার পদ্ধতি কি?\nঃ-_- মিছওয়াক করা ছুন্নতে মোয়াক্কাদা এবং উহাতে খুব বেশী ছণডয়াব\nআছে এবং উহার সাৰ্থকতাও অনেক বেশী। কলকসা বা কডুয়াব বৃক্ষের জড়\nঅথবা কাষ্ঠ খণ্ড দ্বারা মিছওয়াক করিতে হয় যেমন পিলুর জড় লিম কাষ্ঠ\nঅথবা বাবুনার জড়। মিছওয়াক কবিবার পূৰ্বে এবং মিছওয়াক করিবার পরও\nমিছওয়াক ধৌত করিতে হ্য়। প্ৰথমে ডানদিকে পরে বামদিকে মিছও্ুয়াক\nকরিতে হয়। তিনবার মিছওয়াক করা এবং প্ৰত্যেকবার নুতন পানী লণ্ডয়া\nভাল।",
+  "confidence": {
+    "word_count": 278,
+    "mean": 83.42,
+    "median": 91.81,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 10 diacritics",
+        "Detected 10 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.963,
+  "page_elapsed_seconds": 3.134,
+  "peak_process_tree_rss_bytes": 244961280,
+  "tesseract_warnings": [
+    "Detected 10 diacritics",
+    "Detected 10 diacritics"
+  ],
+  "processed_this_run": true
+}

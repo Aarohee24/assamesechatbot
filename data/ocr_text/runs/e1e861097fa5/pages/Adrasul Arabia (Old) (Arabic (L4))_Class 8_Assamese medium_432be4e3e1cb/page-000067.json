@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জি লজীপল=। দিন ন লামচ৭৪।-\nতলি\"; + ১৬ -৬'- ৷). ২.১, 0)\nলি 8 8), ৬ + ত১৯৬ কতি 0)\n*+০.৯%১ - ২০০১৯৬%4| - ৮ = |, (£)\n3 ৰ৮| \"- ১৯) ১৬)\n$243401 ১ 5 044 ঠি ঃ| -\n\n০\nনীৰ আহিছ বানী এপদ কনট\n\nতৌ\n5: ৮",
+  "confidence": {
+    "word_count": 31,
+    "mean": 31.49,
+    "median": 21.16,
+    "minimum": 0.0,
+    "maximum": 85.52
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9985,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 85 diacritics",
+        "Detected 85 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.189,
+  "page_elapsed_seconds": 2.465,
+  "peak_process_tree_rss_bytes": 195571712,
+  "tesseract_warnings": [
+    "Detected 85 diacritics",
+    "Detected 85 diacritics"
+  ],
+  "processed_this_run": true
+}

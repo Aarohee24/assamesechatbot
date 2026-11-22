@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 145,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খেইদ্বা -= খেদিবলৈ         সীৰালে __ == সীৰলুৰে\n\nটাকোন    -= টোকোন/টাঙোন      পাটে     -_ মৈ দিওঁতে ব্যৱহাৰ কৰা\nমোইনল্ল    -- মৰিলোঁ          মহোৰ     __ মহৰ\n\nটেপোল == টেপৰ (টেঙা)       মাকোক = _- মাকক\n\nনুন      -= লোণ            কহন্সু     -_ কৰিলোঁ\n\nজু     = নিদি            আধেলি _ -=--- পঞ্চাশ পইচাৰ মুদ্ৰা\nএনথোৰ == এওঁলোকৰ        সিকি     -_ পঁচিশ পইচাৰ মুদ্ৰা\nঘৰজীয়া ---ঘৰ জোঁৱাই        গোলিৰ _ -= গোহালিৰ\n\nবেটাই     -=- পো                       ৰ\n\nঠৰ ১ ৷ তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 2 বৃত্তটো পূৰ কৰা--\n৪ মহ খেদিবলৈ ল’ৰাহঁতে হাতে হাতে কি লৈছে?\n\n(ক) সোণৰ নাঙল       গে) বাঁহৰ পাত\n(খ) আধেলি         (ঘ) টাঙোন\nকে) ঞে) গে) ঘে\nঞ্ গৃহস্থই মহ খেদিবলৈ যোৱা ল’ৰাহঁতক চাউলৰ সলনি কি দিছে?\n(ক) ক’ড়ি          (গ) সিকি\n(খ) লোণ          (ঘ) টকা\nক্) ঞে ৫) মে\n\n/ ২। তলত দিয়া প্ৰশ্নবোৰৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) “টেপোলত নহল নুন”-_ ইয়াত টেপোল শব্দৰ অৰ্থ কি?\n(খ) মহো-হো গীতটোত উল্লেখ থকা নৈখনৰ নাম কি?\n(গ) গীতটোত ভাল হক, কুশল হক বুলি কোনে কাক আশীৰ্বাদ কৰিছে?\n(ঘ) গীতটোত কোনটো শব্দই ভঁৰালক বুজাইছে?\n\n১৪৫\n\n   ৬ গীতটোত থকা স্থানীয় উপভাষাৰ শব্দবোৰৰ মান্য অসমীয়াৰ ৰূপবোৰ জানো আহা--",
+  "confidence": {
+    "word_count": 178,
+    "mean": 80.69,
+    "median": 92.23,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.769,
+  "page_elapsed_seconds": 4.507,
+  "peak_process_tree_rss_bytes": 227225600,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

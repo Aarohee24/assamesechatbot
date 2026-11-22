@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 231,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1. কিছুমান সাংগ্লেষিক বুলি কোৱা হয় কি!? ব্যাখ্যা কৰা।\n2. শুদ্ধ উত্তৰত \"%/\" চিন দিয়া।\n\nসাংশ্লেষিক আঁহসমূহৰ পৰা ৰেয়ন বেলেগ, কিয়নো-\n\n(৪) ইয়াৰ এটা ৰেচম-সদৃশ ৰূপ আছে।\n\n(০0) ইয়াক কাঠৰ-মণ্ডৰ পৰ৷ পোৱা যায়।\n\n(০) প্ৰাকৃতিক আঁহবোৰৰ দৰে ইয়াৰ আঁহবোৰ ব’ব পাৰি।\n3. উপযুক্ত শব্দৰে খালী ঠাই পূৰ কৰা।\n\n(৪) সাংশ্লেষিক আহবোৰক                     বা                      বুলিও কোৱা হয়।\n(০) সংশ্লেষক আঁহবোৰক                                নামৰ কেঁচামালৰ পৰা সংশ্লেষণ\nকৰা হয়।\n\n(০) সংগ্লেষিক আঁহবোৰৰ দৰেপ্লীষ্টিকো এবিধ\n\nনাইলনৰ আঁহবোৰ যে বৰ শক্তিশালী৷, সেইটো বুজাবলৈ উদাহৰণ দিয়া।\nতাপনমনীয় আৰু তাপদৃঢ় প্লাষ্টিকৰ মাজত থকা পাৰ্থক্য ব্যাখা কৰা।\nতলত দিয়াবোৰ কিয় তাপদৃঢ় গ্লাষ্টিকেৰে বনোৱা হয় ব্যাখ্যা কৰা\n(8) ছছপেনৰ নাল\n\n(৮) _ বিদ্যুতৰ গপ্লাগ/ছুইচ/প্লীগ ব’ৰ্ড\n\nনোৱৰা” হিচাপে শ্ৰেণীভুক্ত কৰা-\n\nটেলিফোনৰ সা-সৰঞ্জাম, গ্লাষ্টিকৰ খেলনা, কুকাৰৰ নাল, কেৰি-ল্লগ, বল-পইন্ট পেন, প্লষ্টিকৰ\n\n9. ৰাণাই গ্ৰীষ্মকালৰ বাবে ছাৰ্ট কিনিব খুজিছে। তেওঁ কপাহী ছাৰ্ট নে সাংশ্লেষিক আঁহেৰে তৈয়াৰী\nছাৰ্ট কিনাটো উচিত হ’ব। কাৰণ দশাই ৰাণাক উপদেশ দিয়া।\n\n10. প্ৰকৃতিগতভাৱে প্লষ্টিকসমূহ যে অ-ক্ষয়কাৰী তাক দেখুৱাবলৈ উদাহৰণ দিয়া।\n11. টুথ ব্ৰাছএডালৰ নাল আৰু নোমবোৰ একে পদাৰ্থৰে তৈয়াৰ কৰাটো উচিত নে? ব্যাখ্যা কৰা।\n12. “পৰাপক্ষত প্লাষ্টিক এৰাই চলিব৷|” - এই পৰামৰ্শৰ ওপৰত মতামত দিয়া।\n\nত ৯৬৯৩ত",
+  "confidence": {
+    "word_count": 177,
+    "mean": 86.24,
+    "median": 92.62,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.964,
+  "page_elapsed_seconds": 3.207,
+  "peak_process_tree_rss_bytes": 314425344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

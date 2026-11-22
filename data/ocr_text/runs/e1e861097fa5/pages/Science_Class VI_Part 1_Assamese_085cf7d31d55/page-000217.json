@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 217,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চুম্বকীয় পৃথকীকৰণ\nপ্রয়োজনীয় সামগ্ৰী - বালি, লোৰ গুড়ি, চুম্বক, কাগজ।\n\nবালি আৰু লোৰ গুড়িবোৰ মিহলাই\nলৈ কাগজ এখনত মেলি থোৱা। এতিয়া\nএটুকুৰা চুম্বক এই মিএ্ৰরটোৰ মাজেদি\nঅগা-পিছা কৰা। কি দেখিলা বাৰু? লোৰ\nগুড়িবোৰ চুম্বকডালত লাগি ধৰিছে। লোৰ\nগুড়িখিনি বেলেগ এখন কাগজত সংগ্ৰহ\nকৰা। এনেদৰে বাৰে বাৰে এই কাৰ্যটো\nকৰি গোটেইখিনি লোৰ গুড়ি পৃথক কৰা।\nবালিখিনি কাগজখনতে থাকি যাব। চুম্বকে\nলো আকৰ্ষণ কৰে। গতিকে লো চুম্বকীয়\nপদাৰ্থ৷ কিন্তু চুম্বকে বালি আকৰ্ষণ নকৰে।\nইয়াক অচুম্বকীয় পদাৰ্থ বোলে। চুম্বকৰ\nসহায়ত অচুম্বকীয় পদাৰ্থ এটাৰ পৰা\nচুম্বকীয় পদাৰ্থ পৃথক কৰাকে চুম্বকীয়\n\nপৃথকীকৰণ বোলে।\n\nউদ্যোগত অন্যান্য সামগ্ৰীৰ মাজৰপৰা\nলোহাৰ টুকুৰাৰ পৃথকীকৰণ, গধুৰ লোৰ     চিত্ৰ 6.16 ; চুম্বকৰ সহায়ত বালিৰ\nটুকুৰা ওপৰলৈ উঠোৱা আদি কাৰ্য এই       পৰা লোৰ ওড়ি পৃথকীকৰণ\nপদ্ধতিৰেই কৰা হয় (চিত্ৰ 6.17)।\n\nচিত্ৰ 6.17 :; উদ্যোগত গধুৰ লোৰ টুকুৰা আন বঙৰ মাজৰ পৰা উঠাই অনা হৈছে\n\n77 +) ৮ ৰহৰ ছি",
+  "confidence": {
+    "word_count": 137,
+    "mean": 87.79,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.652,
+  "page_elapsed_seconds": 3.118,
+  "peak_process_tree_rss_bytes": 302764032,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

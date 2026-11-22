@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]']95 14.1 : [৬] 09109] ][1]151\"01]]161](9 9110\n{]]0]]1\" *]]) \"90110 ]\"91\"(9\n\n]        ৬০০৪               ০0600])60. 90116\n2        ']80]18                506০0060\n111261]7018172\n3         ]\"]016                 /1[' ০০]10]]]{]\n্ব্বত ৪66 ]8{ 8 ঘ10180116 00]1600 |)10000629         লি\n৪0010. [1] ৪01]16 ০৪৪০৪, 16 %৮1018.00118 816 6891]          ৰি\n191012 [0 09. 130{ [1] 1090089629, {]1611[\" 811]]]2|1[002              7\n\n19 ৪0 911]18]] {|18{ স্য6 ০81]1100 926 1217]. ]]0ঘয6খণ2া',          ি্া৷৮ ৮ )৮০0818]{ ]]8খ০ ৪০০1] 16101\n\n০ ০00 ডি 09].                                       (৫)70015), 16 ..9)1010771 (০07747267 207), 8110\n816.79%007 (700001%) 8110 16 /॥07101}. '[]]696\n&ণোঁঘাছে 14.4                                               1]]1907101]7211(9 816 ০01101]01][) 09620 11] 11180] |)81[3\n01 001.০00)\". '[]12982 1]109108] []18900011161109 8162\n911]]])]%) 06282 01\" 9070], (:81] 00] 1181]16 8, ণিছ্ষ\n0]121\"11109108] 1119170111211{9 01 {]]19 (৮])6?\n\n00] (00 ০৪1] 11]8|(6 8 11109108| [1190011]]1261]{.\n\n00)1010771\n\n]৬[8](6 8. ]19001 81]]1]181\" 11]]09108.| 111907011]121109 8110\n\n14071117\"0\n10621]{11%া 0]1611\" ৬1018.0116 |)81(9. /* 6৮% 6%0801]|)129.\n816 ঠ91ঘণ2] 111 [8016 14.1, 0:011016066 016 1698001\n116 801০.                                                         1718 14.6 ১: এ 16\" 77076 77051001 177517077167115\n\n109                                                                                                          বিজ্ঞান /9য0]খ0ছ; ৷",
+  "confidence": {
+    "word_count": 153,
+    "mean": 42.33,
+    "median": 37.86,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.21,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.911,
+  "page_elapsed_seconds": 3.236,
+  "peak_process_tree_rss_bytes": 261414912,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

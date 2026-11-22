@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 273,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ")\n\n)\n\n=\n\nচন্দ্ৰৰ যিটো অংশই সূৰ্যৰ পোহৰ আমাৰ ফালে প্রতিফলিত\nকৰে সেই অংশটোহে আমাৰ দৃষ্টিগোচৰ হয় বাবে\nচন্দ্ৰকলা দেখা যায়।\n\nতৰাবোৰ নভোমগুলীয় বস্তু যিবোৰে নিজা পোহৰ\nবিকিৰণ কৰে। আমাৰ সূৰ্যটোও এটা তৰা।\n\nতৰাবোৰৰ দূৰত্ব আলোকবৰ্ষত প্রকাশ কৰিবলৈ\nসুবিধাজনক।\n\nসৌৰজ:          গ্ৰহাণু, ধূমকেতু\n\n১       চাৰি     ভ্ৰমণ কৰি থকা বস্তু এটাক\n\nপৃথি     প্রাকৃতিক উপগ্ৰহ। আন কিছুমান\n\nকৃত্ৰিম উপগ্ৰহবোৰে পৃথিৱীৰ চাৰিওফালে পৰিভ্ৰমণ কৰি\nথাকে। সেইবোৰ চন্দ্ৰৰ তুলনাত বহু বেছি নিকটবত্তী।\nবতৰৰ আগজাননী, দূৰ সংযোগ আৰু দূৰ সংৱেদনৰ বাবে\nকৃত্ৰিম উপগ্ৰহ ব্যৱহাৰ কৰা হয়।\n\nতৰা আৰু সৌৰজগত / ৪71২9 খা) []}; ৪01.1২ ৪%৮97];%]\n\n258.",
+  "confidence": {
+    "word_count": 90,
+    "mean": 84.64,
+    "median": 93.3,
+    "minimum": 9.53,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.233,
+  "page_elapsed_seconds": 2.478,
+  "peak_process_tree_rss_bytes": 238776320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

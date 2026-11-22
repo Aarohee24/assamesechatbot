@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 142,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-\n\nৰ,\n\nৰ,\n\nউপ-অৰ্হঁতা\n\n1.1\n\n-1.4\n\n€-1.5\n\n€-2.3\n\n€-3.1\n\n€-4.2\n\nৰ\n\nঞ্সস৷ পাঠৰ মূল বিন্দুসমূহ চিনাক্ত কৰি৷১,\n\nক’ব আৰু প্রয়োজন সাপেক্ষে বহলাই\nলিখিব পাৰিব।\n\nঞ্স৷ উপযুক্ত শব্দ আৰু শৈলী ব্যৱহাৰ\nকৰি দিনলেখা লিখিব পাৰিব।\n\nঞ্স বিভিন্ন সমলৰে প্রকল্পৰ বাবে দৃশ্য\nসঁজুলি প্রস্তুত কৰিব পাৰিব।\n\nক্স৷ বিভিন্ন সামাজিক পৰিবেশৰ দিশ\nসম্পৰ্কে ধাৰণা কৰি লিখনৰ জৰিয়তে\nপ্রকাশ কৰিব পাৰিব।\nবিভিন্ন সামাজিক পৰিৱেশ সম্পৰ্ক\nধাৰণা কৰি লিখনৰ জৰিয়তে প্রকাশ\nকৰি প্রকল্প প্রস্তুত কৰিব পাৰিব।\n্স৷নতুন শব্দবোৰৰ অর্থ অভিধান চাই\nবুজি লিখিব পাৰিব৷\n\n৷্স শব্দৰ অৰ্থ বুজি বাক্য.ৰচনা কৰিব\nপাৰিব।\n\nক্ল যোজক অব্যয় ব্যৱহাৰ কৰি বাক্য\nগঠন কৰিব পাৰিব৷\n\nছল সঁথৰ ভাঙি ক’ব আৰু লিখিব\nপাৰিব।\n\n৷্সস বিভিন্ন সমলৰপৰা তথ্য সংগ্ৰহ কৰি\nপ্রকল্পৰ কাম কৰিব পাৰিব।\n\n১৫\n\n১৪\n\n৭,১১\n\n১৩\n\n১০\n\n৯২",
+  "confidence": {
+    "word_count": 118,
+    "mean": 78.66,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.143,
+  "page_elapsed_seconds": 2.55,
+  "peak_process_tree_rss_bytes": 224227328,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

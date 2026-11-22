@@ -1,0 +1,67 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দিলে গাত ৰ’দ পৰিবই, বৰষুণ দিলে মানুহ তিতিবই। তেনেকুৱা মানুহ ক’তো নাই।’\nমন্ত্ৰীয়ে ক’লে, ‘তেনে মানুহ আছে কৌৱৰ! দেশখন ঘূৰি পকি চোৱাচোন” ৰাজকৌৱৰে\nৰ’দ নলগা আৰু বৰষুণ নপৰা মানুহ বিচাৰি ওলাল।\n\nএদিন জেঠমহীয়া ৰ’দত এজন মানুহে অকলে পথাৰত কাম কৰি থকা দেখিলে৷ কোৰ\nসুধিলে, ‘তুমি ইমান ৰূদত\nকিয় কাম কৰি আছা? |,\nমানুহজনে কামৰ পৰা মূৰ\nনোতোলাকৈয়ে ক’লে,\n‘মোৰ এই কামখিনি এই _\nবেলাতে শেষ কৰিব !\nলাগিব। ৰ’দ-বতাহৰ কথা  | /\nআকৌ এদিন ফী ৰ ৰীষ বৰষুণত দেখিলে, ন, এজন মানুহে ভুই কই আছে।\nকোঁৱৰে গৈ সুধিলে--- তুমি এনেকৈ বৰষুণত তিতিছা কিয়?’\n\nমানুহজনে কাম কৰি থাকিয়ে উত্তৰ দিলে, ‘মই এই কণঠীয়াখিনি আজিয়েই ৰুই শেষ\nকৰিব লাগিব। নহ’লৈ কঠীয়াবোৰ শুকাই যাব৷ বৰষুণেই হওক বা বতাহেই আহক কামখিনি\nকৰিবই লাগিব। সময়ত ভূঁই নুৰুলে পৰিয়ালটো পুহিম কেনেকৈ?’\n\nৰজাৰ কোঁৱৰে আহি মন্ত্ৰীক ক’লে, মন্ত্ৰী ডাঙৰীয়া, গাত ৰ’দ নলগা আৰু বৰষুণ",
+  "confidence": {
+    "word_count": 137,
+    "mean": 86.34,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 76 diacritics",
+        "Detected 76 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.826,
+  "page_elapsed_seconds": 3.123,
+  "peak_process_tree_rss_bytes": 226811904,
+  "tesseract_warnings": [
+    "Detected 76 diacritics",
+    "Detected 76 diacritics"
+  ],
+  "processed_this_run": true
+}

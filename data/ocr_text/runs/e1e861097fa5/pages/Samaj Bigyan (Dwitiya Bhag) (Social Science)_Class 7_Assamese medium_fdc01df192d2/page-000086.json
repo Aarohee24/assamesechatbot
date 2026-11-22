@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২|\n\n=\n\nঞ|\n\n(খ) কোনখন ৰাজ্যৰ ঠেক সমভূমি অংশই উত্তৰ-পূব ভাৰতক ভাৰত ভূখণ্ডৰ লগত সংযোগ কৰিছে?\n(গ) উত্তৰ-পূব ভাৰতৰ প্রধান নদী কেইখন আৰু কি কি?\n\n(ঘ) পাহাৰীয়া অঞ্চলতকৈ সমভূমি অঞ্চল কৃষি কাৰ্যত আগবঢ়া কিয়?\n\n(৬) উত্তৰ-পূব ভাৰতৰ কোনখন ৰাজ্য উদ্যোগৰ ক্ষেত্ৰত আগবঢ়া?\n\nপাহাৰীয়া অঞ্চলত কেনে ধৰণে খেতি কৰা হয়? (৫০টা মান শব্দৰ ভিতৰত লিখা)\n\nখালী ঠাই পূৰণ কৰা--\n\n(ক) উত্তৰ-পূব ভাৰতৰ সাতখন ৰাজ্যৰ মুঠ মাটিকালি _ __ _ বৰ্গ কিল’মিটাৰ ।\n\n(খ) ভাৰতৰ উত্তৰ-পূব অঞ্চল -_____ উত্তৰ অক্ষাংশৰ পৰা _ উত্তৰ অক্ষাংশলৈকে বিত্বৃত।\n(গ) ভউত্তৰ-পূব মোচুমী বতাহ - ____ কালত বয়।\n\n(ঘ) উত্তৰ-পূব ভাৰতত মুঠতে _ _ খন ৰাজ্য আছে।\n\nঙ)        উত্তৰ-পূব ভাৰতৰ একেবাৰে দক্ষিণ ফালে থকা ৰাজ্য।\n\nউত্তৰ-পূব ভাৰতৰ মানচিত্ৰ এখন আঁকি তলত দিয়াবোৰ যথাস্থানত বহুওৱা--\n(ক) উত্তৰ-পূব ভাৰতৰ চাৰিসীমা\n\n(খ) ব্ৰহ্মপুত্ৰ আৰু বৰাক নদী\n\n(গ) অসম, মেঘালয়, মণিপুৰৰ ৰাজধানী\n\n(ঘ) নামৰূপ সাৰ কাৰখানা\n\n(৬) পৰ্যটন ক্ষেত্ৰ টাৱাং\n\nককক+ক+ক+\n\n\"৮৪.7",
+  "confidence": {
+    "word_count": 141,
+    "mean": 83.75,
+    "median": 95.8,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.869,
+  "page_elapsed_seconds": 3.329,
+  "peak_process_tree_rss_bytes": 230617088,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

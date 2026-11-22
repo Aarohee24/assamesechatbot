@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত২        ছবীনিয়াত\n\nহ’ব।\n\nপ্ৰশ্ন- কোনোৱে যদি এবছৰ পূৰ্ণ হোৱাত জাকাত আদায় দিয়া নাই, আনহাতে\nতেওঁৰ সকলো সম্পত্তি ধ্বংস হৈ গ’ল তেতিয়া তেওঁ কি কৰিব?\n\nউত্তৰ- এনে অৱস্থাত তেওঁ জাকাত আদায় দিয়াৰ দায়িত্বৰ পৰাও মুক্তি পাব।\n\nপ্ৰশ্নম- এবছৰ পূৰ্ণ হোৱাৰ পাছত বদি কোনোৱে সকলো সম্পত্তি আল্লাহতাআলাৰ\nনামত দান কৰি দিয়ে, তেতিয়া কি কৰা উচিত?\n\nউত্তৰ- ইয়াৰ জাকাত দিয়াও মাফ হৈ যায়।\n\nপ্ৰশ্ন- যদি বছৰ পূৰ্ণ হোৱাৰ পিচত সম্পত্তিৰ কিছু অংশ নষ্ট হৈ যায় বা দান কৰে\nতেতিয়া কি কৰা উচিত?\n\nউত্তৰ- যিখিনি সম্পত্তি নষ্ট হৈছে বা দান কৰা হৈছে সেইখিনিৰ জাকাত দিব\nনালাগে। বাকী থকা খিনিৰ জাকাত দিব লাগিব।\n\nপ্ৰশ্ন-কূপৰ জাকাত কূপেৰে দিব খুজিলে ওজন অনুপাতে নে মূল্য অনপাতে দিয়া\nউচিত?\n\nউত্তৰ- ওজন অনুসৰি দিয়া উচিত। উদাহৰণ স্ববূপে কাৰোবাৰ হাতত এশ টকা\nআছে, এবছৰ অতীত হোৱাৰ পিচত তেওঁ আঢ়ৈ টকা বা দুটকা পঞ্চাশ পইচা\nজাকাত দিব লাগিব। নাইবা আঢ়ৈ তোলা ৰূপ দিব লাগিব। যদি আট্ৈ তোলা\nৰূপৰ মূল্য মাত্ৰ দুটকা হয় আৰু দুটকা জাকাত হিচাবে দিয়ে তেনেহ'লে\nজাকাত আদায় নহ'ব।\n\nপ্ৰশ্ম- ৰূপৰ জাকাত ৱাজিব হ’লে অন্য কোনো বস্তুৰে জাকাত দিব পাৰিনে?\n\nউত্ত ৰ- যি পৰিমাণৰ ৰূপ জাকাত দিয়াটো ৱাজিব হৈছে, সেই খিনিৰ মূল্যৰে\nকাপোৰ, খাদ্য দ্ৰবা আদি বেলেগ বস্তু কিনি দিয়াটো সিদ্ধ\n\nকোন ব্যক্তি জাকাত লোৱাৰ উপযুক্ত (১১%) =০2)৮=-)\n\nপ্ৰশ্ম- মচাৰিফে জাকাত (১ ১5) ৯ _)৷--==) কাক বোলে?\nউ'ত্তৰ- মচাৰিফে জাকাত অথাৎ জাকাত বিসকল ব্যক্তিক দিব পাৰি তাকে",
+  "confidence": {
+    "word_count": 217,
+    "mean": 86.8,
+    "median": 94.45,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.34,
+  "page_elapsed_seconds": 2.469,
+  "peak_process_tree_rss_bytes": 240246784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

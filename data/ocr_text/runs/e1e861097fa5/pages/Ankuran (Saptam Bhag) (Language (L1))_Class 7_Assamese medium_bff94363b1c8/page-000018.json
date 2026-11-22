@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ন ৩০০০                _7ৰ৮ঁ                 ৰ 7                -=ওকৰম        নমচত২\nসাধুকথা শিক্ষা আহৰণৰ অতি ফলপ্ৰসূ উপাদান ৷ সাধুকথাৰ মাধ্যমেৰে নীতিশিক্ষা, মূল্যবোধ, প্ৰচলিত\nসামাজিক ৰীতি-নীতি আদিৰ আভাস পাব পাৰি। ই শিশুৰ কাল্পনিক শক্তি আৰু সৃজনীমূলক প্রতিভাৰ\nউৎকৰ্ষ সাধন কৰে। তদুপৰি, সাধুকথাত জাতি-জনজাতিৰ চলি থকা পৰম্পৰাৰ প্রতিফলন ঘটে। এই\n\nপাঠটোত গাৰো জনজাতিৰ মাজত প্রচলিত পৰম্পৰা সমৃদ্ধ লোক-কথা প্রতিফলিত হৈছে।\n_ তক              যা             -_ \"ছ্ূঁ              ু=ঁ3২৯*৯=\n\nবহু যুগৰ আগৰ কথা৷ আচিক দেশত এজন বৰ চহকী মানুহ আছিল। পৰ্বতীয়া জাতিসমূহৰ\nমাজত কেতবোৰ মাতৃপ্ৰধান জাতি আছে। আচিক দেশৰ লোকসকলো মাতৃপ্রধান জাতি।\nমাতৃপ্রধান সমাজত ছোৱালী পিতৃ-মাতৃৰ সম্পত্তিৰ উত্তৰাধিকাৰী হয়। সেই নিয়ম অনুসৰি\nআচিক দেশৰ চহকী মানুহগৰাকীৰ ছোৱালীজনীও মাক-বাপেকৰ সম্পত্তিৰ উত্তৰাধিকাৰী\nহ’ল। সময়ত এজন দেখনিয়াৰ ডেকাৰ লগত তাইৰ বিয়া পতা হ'ল।\n\n/   ৰ    ’ংৰ্     102 = =, ভঞ'; == ভল বছ দ-ভঞ[চ, | ভঞ'চ, =\n|    9     ৰ্ধ ৬ ২.            ৰ্‌   ৰে\n\nদৰ\n\nবাপেকে ছোৱালীজনীক আন আন সম্পত্তিৰ লগতে এখন কালিকা লগ৷ বনকৰা পাট-\nকাপোৰ দিছিল। জীয়েক-জোঁৱায়েকে কাপোৰখন সযত্নে ৰাখিছিল। ‘এটা মন্ত্ৰ উচ্চাৰণ নকৰাকৈ\nকাপোৰখনত কোনোবাই হাত দিলে চকুৰ পচাৰতে সি চৰাইলৈ ৰূপান্তৰিত হ’ব আৰু কাপোৰখন\nচৰাইৰ পাখি আৰু নেজ হৈ পৰিব’-__ এই কথা বাপেকে ছোৱালীজনীক মনে মনে কৈছিল\nআৰু মন্ত্ৰটোও শিকাই দিছিল। কিন্তু ছোৱালীজনীৰ গিৰিয়েকে এই বিষয়ে একোৱেই গম\nপোৱা নাছিল। কাপোৰখনৰনো কি গুণ, তাকো তেওঁ নাজানিছিল।\n\nৰ ১৯\n\n২হ",
+  "confidence": {
+    "word_count": 59,
+    "mean": 77.92,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.524,
+  "page_elapsed_seconds": 4.062,
+  "peak_process_tree_rss_bytes": 286494720,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

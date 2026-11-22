@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সম্বোধন--- শিৰোনামাৰ তলত চিঠিখনৰ বাঁওফালে আৰম্ভণিতে ‘পূজনীয়া বাইদেউ’ বুলি\nলিখিছে। অৰ্থাৎ চিঠিখন যালৈ লিখিছে তেওঁক সম্বোধন কৰিছে। আমি চিঠি লিখোঁতে\nসচৰাচৰ এনেদৰে সম্বোধন কৰোঁ --=\n\nপিতৃ-মাতৃ বা জ্যেষ্ঠজনক -_ পূজনীয়/পূজনীয়া\nআত্মীয় স্বজন/জ্যেষ্ঠজনক --- শ্রদ্ধেয়/শ্ৰদ্ধেয়া\n\nজ্যেষ্ঠ বিষয়া বা বিভাগীয় প্রধানক --- মহোদয়/মহোদয়া\nসন্মানীয় পদবীত থকাসকলক --- মাননীয়/মাননীয়া\nবন্ধু - বান্ধৱী বা সৰুসকলক --- মৰমৰ/প্ৰিয়\n\nমূল অংশ-- সম্বোধনৰ তলত সাদৰ/সম্ভাষণ জনোৱাৰ পাছত ঘৰৰ আন সদস্যলৈ\nশ্ৰদ্ধা/মৰম জনাই মূল বক্তব্য প্রকাশ কৰিব লাগে। চিঠিৰ এই অংশত নিজৰ খা-খবৰ,\nসুখ-দুখ, আনন্দ-বেদনা, অভাৱ-অভিযোগ, ব্যক্তিগত চিন্তা-ভাৱনা ব্যক্ত কৰিব লাগে।\nএই অংশত যালৈ চিঠি লিখা হয় তেওঁলোকৰ খা-খবৰ সোধাৰ উপৰি নিজৰ পৰিয়াল,\nঅঞ্চল বা বিদ্যালয়ৰ ঘটনা আদিও ব্যক্ত কৰিব পাৰি।\n\nবিদায় সম্ভাষণ/সামৰণি--- চিঠিৰ এই ভাগত সিটো পক্ষৰ উত্তৰ কামনা কৰি পত্ৰ লিখকে\nচিঠিৰ সামৰণি মাৰে।\n\nসদৌ শেষত ইতি, তোমাৰ বন্ধু/বান্ধৱী বুলি নিজৰ নামটো লিখিব লাগে। কিন্তু ব্যক্তি\nবিশেষে সামৰণিৰ সম্বোধন বেলেগ বেলেগ হয়, যেনে---পৰিচিত ব্যক্তি, আত্মীয়-স্বজন,\nবন্ধু-বান্ধৱী আদিৰ বেলিকা ইতি, আপোনাৰ/তোমাৰ/ তোৰ বুলি লিখি নিজৰ নাম চহী\nবা ঘৰত মতা, পৰিচিত নাম লিখিব লাগে।\n\n--= সন্মানীয় ব্যক্তিলৈ লিখা চিঠিত ইতি, আপোনাৰ গুণ-মুগ্ধ,\n-- নিমন্ত্ৰণী-পত্ৰত সচৰাচৰ ইতি, বিনীত/বিনয়াবনত/ভৱদীয়,",
+  "confidence": {
+    "word_count": 170,
+    "mean": 88.27,
+    "median": 93.3,
+    "minimum": 14.72,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.829,
+  "page_elapsed_seconds": 4.244,
+  "peak_process_tree_rss_bytes": 272801792,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 103,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যত ধান, কণী আৰু পোৱালি\nসকলোকে নিলে লগত।\nফৰিং বপুৰা উটি উটি গৈ\nপৰিল পানীৰ পাকত,\nৰাণীৰ আদেশত মাউথখে উটি\nপৰুৱাই ধৰিলে ঠেঙত।\nসুধিলে ৰাণীয়ে-“ফৰিং বোপাই\nহাতযুৰি ক’লে-“ক্ষমা মহাৰাণী,\nভোকতে হ’লোঁ মই চিয়া ।\nএতিয়া বুজিলোঁ সঞ্চয়ৰ বল\nআন গৰ্বতকৈ চৰা,\nকৰিম সঞ্চয় ভাল কামলৈ\nনিশ্চয় আজিৰ পৰা!”\n\n---ওপৰৰ কবিতাটিৰ কোনকেইটা পংক্তিৰ ভাব ‘সঞ্চয়’ কবিতাটিৰ শেষৰ পংক্তি দুটাৰ লগত\nমিলে ভাবি উলিওৱা ৷\n\n---ওপৰৰ কবিতাটিৰ দৰে তোমালোকেও প্রচলিত কাহিনী, সাধুকথা আদিৰ আলমত সঞ্চয়ৰ\nসু-অভ্যাসৰ ভিত্তিত কবিতা ৰচনা কৰা আৰু শিক্ষকক দেখুওৱা।\n\n১৭) মানুহে অলপ অলপকৈ সঞ্চয় কৰা ধনেৰে ভৱিষ্যতে কি কি ভাল কাম কৰিব পাৰে লিখা।\nকি কি সঞ্চয় কৰে, এখন তালিকাত লিখা ৷ প্ৰত্যেকৰে তালিকাবোৰ মিলাই এখন ডাঠ কাগজত লিখি\nউলিওৱা আৰু শ্ৰেণীকোঠাত আঁৰি থোৱা।\n৬ “ওৰে গছতে মৌৱে বাহে ল’লে  ককাই পাৰি দিয়া খাওঁ।।”\nঅসমৰ থলুৱা গীত-মাতত ‘মৌ’ শব্দটোৰ বহুল ব্যৱহাৰ দেখা যায়। তুমিও তেনেধৰণৰ\n‘মৌ’ শব্দটো থকা গীত-মাত সংগ্ৰহ কৰা।\n\n(৯৩)",
+  "confidence": {
+    "word_count": 144,
+    "mean": 90.54,
+    "median": 95.99,
+    "minimum": 24.88,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.061,
+  "page_elapsed_seconds": 3.474,
+  "peak_process_tree_rss_bytes": 242311168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

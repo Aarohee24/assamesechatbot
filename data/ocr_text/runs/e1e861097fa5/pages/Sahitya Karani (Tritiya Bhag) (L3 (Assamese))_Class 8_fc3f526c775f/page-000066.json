@@ -1,0 +1,67 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 66,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মন্দিৰ, শিৱদ’ল, বিষ্ণুদ’ল আৰু দেৱীদ’ল চালে। তাৰপাছত জয়সাগৰ পুখুৰী, জয়দ’ল\nচাবলৈ গ’ল। তেওঁলোকে ৰংঘৰ, তলাতল ঘৰ এই সকলোবোৰ তন্ন-তন্নকৈ চালে। এইবোৰ\nদেখুৱালে। মহাকে ক’লে, ‘মৈদাম হ’ল--আহোম প্ৰথামতে মৃতকক সমাধিস্থ কৰা ঠাই!’\nউভতি অহাৰ আগদিনা তেওঁলোকে আজানপীৰৰ দৰগাহ চালে। এই দৰগাহ দিখৌ\nনৈৰ দাঁতিৰ সৰাণুৰি চাপৰিত। সিহঁতে সময় থকা বাবে কাৰেংঘৰো চালে । আহোম ৰাজত্বৰ\nযুগমীয়া কীৰ্তি আৰু স্মৃতিসমূহ চাই ভাই-ভনী দুয়োৰে বৰ আনন্দ লাগিল। ইতিমধ্যে\nনিজৰ ঘৰলৈ ঘূৰি অহাৰ দিন আহিল৷ আহোঁতে গোলাঘাট জিলাৰ কাজিৰঙা অভয়াৰণ্যখনো\nচোৱাৰ ইচ্ছা আছিল। তাত পৃথিৱী বিখ্যাত এশিঙীয়া গড কি। কিন্তু সময়ৰ নাটনিৰ\nবাবে তেওঁলোকৰ চোৱা নহ’ল।                          জল\n\nজানো৷ আহা\n\n৬ ৰাজ্যৰ প্রাচীন কীৰ্তি চিহ্নসমূহ আমাৰ জাতীয় সম্পদ। এই সম্পদসমূহক আমি\nসংৰক্ষণ কৰাটো আমাৰ দায়িত্ব। আপুৰুগীয়া সম্পদসমূহ পৰিষ্কাৰ-পৰিচ্ছন্ন কৰি\nৰাখিব লাগে।\n\n৬৫ ইয়াৰ বেৰত কোনো ধৰণৰ বেয়া কথা লিখি ইয়াৰ সৌন্দৰ্য হানি কৰিব নালাগে।\nকিয়নো, এই সম্পদসমূহ চাবলৈ দেশ-বিদেশৰ ভ্ৰমণকাৰী আহে। এইবোৰ ৰাজ্যৰ\nগৌৰৱৰ বস্তু।\n\nক্ৰিয়া কলাপ্‌      ক -- পাঠভিত্তিক ক্ৰিয়া\n১। উত্তৰ দিয়া।\nক) ভায়েক-ভনীয়েক দুয়োৰে নাম কি আছিল?\n\nখ) শিৱসাগৰলৈ কোন কোন গৈছিল?\n\n<_স নিৰীক্ষণৰ পিছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 165,
+    "mean": 87.02,
+    "median": 94.84,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 20 diacritics",
+        "Detected 20 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.172,
+  "page_elapsed_seconds": 3.472,
+  "peak_process_tree_rss_bytes": 247566336,
+  "tesseract_warnings": [
+    "Detected 20 diacritics",
+    "Detected 20 diacritics"
+  ],
+  "processed_this_run": true
+}

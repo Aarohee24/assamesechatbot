@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 48,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ -- ভাষা অধ্যয়ন (ব্যোৱহাৰিক ব্যাকৰণ)\n৮। তলৰ শব্দবোৰত থকা যুক্তাক্ষৰবোৰ ভাঙি পঢ়োঁ আহা --\n\nবিচিত্ৰ > ত্র ত +ৰ তই ৰই আত্ব\nউত্তৰ -> তভত্ত ত +ত তই তই ভ্ত\nজন্ম -> ন্ম ন + ম নই মই আম\nবুদ্ধ -> দ্ধ দ + ধ_ দই ধই দ্ব\nমহাত্মা -> ত্ম ত + ম তই মই ত\n৯। যুক্তাক্ষৰ থকা শব্দবোৰ পঢ়োঁ আহা --\n\nবিচিত্ৰ  নক্ষনৰন পত্র _ উত্তৰ _ জন্ম\nসন্মান _ সন্মুখ বুদ্ধৈ _ আত্মা মহাত্মা\n\nজানো আহা\n\n‘ল’ম মই সকলোকে মৰমেৰে জিনি’\n\n‘ল’ম’ শব্দটোলৈ মন কৰা। ইয়াত ল ধাতুৰ লগত ম বিভক্তি যোগ কৰি গঠন কৰা হৈছে।\nএই বাক্যটোত ল’ম শব্দটোৱে ভবিষ্যৎ কাল বুজাইছে। তেনেদৰে হ’ম, ক’ম, যাম ইত্যাদি\nভবিষ্যৎ কালৰ বাবে ব্যৱহাৰ হয়।\n\nউদাহৰণ স্বৰূপে - মই ঘৰলৈ যাম।\nআমি ভাল নাগৰিক হ’ম।\n\n১০। শব্দৰ উচ্চাৰণ আৰু অৰ্থৰ পাৰ্থক্য ৰাখি বাক্য গঠন কৰোঁ আহা -=\n\n                                   <= নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 145,
+    "mean": 82.67,
+    "median": 92.57,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.52,
+  "page_elapsed_seconds": 2.746,
+  "peak_process_tree_rss_bytes": 234889216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

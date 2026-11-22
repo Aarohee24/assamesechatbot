@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 140,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ -- জ্ঞান সম্প্ৰসাৰণ\n\nজানো আহা\n\nখৰালিকালত বহুদিন বৰষুণ নহ’লে মানুহৰ বহুত অসুবিধা হয়। কুঁৱাবোৰ শুকাই যায়, পথাৰত\nপাতি দিয়ে। এনেদৰে ভেকুলীৰ বিয়া পাতিলে বৰষুণ দিয়ে বুলি লোকসমাজে বিশ্বাস কৰে। এই\nবিয়াত মানুহৰ বিয়াৰ প্রায়বোৰ আচাৰ-অনুষ্ঠান সংক্ষিপ্ত ৰূপত পালন কৰা হয়। তলত উজনি\nঅসমত ভেকুলী বিয়াত গোৱা দুফাকিমান বিয়ানাম তুলি দিয়া হ’ল--\n(ক) চোৱা পানী খহুলী ভেকুলীৰ\n\nচোৱা পানী বিয়াখন পাতিছে\n\nচোৱা পানী ৰাইজে বেৰি বেৰি চায় ৰাম ৰাম।।\n\nহৰব াাা]খজো'/া/[/'[) মম]\n\n(গ) চোৱা পানী খহুলী ভেকুলী\n\nচোৱা পানী চুকৰে সুন্দৰী\nচোৱা পানী তোক জানো কিহবাই পালে ৰাম ৰাম।।\n\n৯) তুমি দেখা যি কোনো এটা লোক উৎসৱৰ বিষয়ে বৰ্ণনা কৰা।\n\nপু রঠঠঠঠঠঠঠঠঠঠঠঠাৈ।-|ৰ্ৈনো।ন]ৰৰৰ্ৰ্দঠ]।।।{িি|ৰ্্্দদৰদদদ\n\n%/ লোক উৎসৱৰ লগত জড়িত লোকবিশ্বাসবোৰৰ বৈজ্ঞানিক ভিভি থাককেই বা নাথাককেই, এইবোৰে কিন্তু ্\n/ আমাৰ লোকসমাজক বিচিত্ৰ আৰু বণমিয় কৰি ৰাখিছে। লগতে আনন্দৰ খোৰাকো যোগাইছে। যুগ-বুগাত্তৰৰ }\nপূৰা চলি অহা লোক উৎসৱৰ পতি সন্ধান এদসৰ্ন কৰিবা আৰু এইবোৰক সনৃতিৰ সম্পদ বুলি গণা কৰিবা| )\n\n/%)/%%/%//%;///))//)/////////+////////+//+///////>/////////+/////+/+//ৰৰ",
+  "confidence": {
+    "word_count": 148,
+    "mean": 85.39,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 20 diacritics",
+        "Detected 20 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.202,
+  "page_elapsed_seconds": 4.654,
+  "peak_process_tree_rss_bytes": 244916224,
+  "tesseract_warnings": [
+    "Detected 20 diacritics",
+    "Detected 20 diacritics"
+  ],
+  "processed_this_run": true
+}

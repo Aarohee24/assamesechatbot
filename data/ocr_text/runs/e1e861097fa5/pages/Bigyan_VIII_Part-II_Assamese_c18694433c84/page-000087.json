@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 87,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী ঃ\n\n1, জীৱৰ প্রজননৰ গুৰুত্ব ব্যাখ্যা কৰা।\n2. মানুহৰ নিষেচন প্রক্ৰিয়া বৰ্ণনা কৰা।\n3. উপযুক্ত উত্তৰটো বাছি উলিওৱা\n(8) অন্তঃনিষেচন ঘটে\n(0) স্বীৰ দেহত\n(}}) স্ত্ৰীৰ দেহৰ বাহিৰত\n(}}}) পুৰুষৰ দেহত\n(1৮) পুৰুষৰ দেহৰ বাহিৰত\n(০) লালুকী এটা পূৰ্ণাংগ ভেকুলীলৈ বিকশিত হোৱা প্রক্ৰিয়াটো হ’ল-\n(1) নিষেচন\n(1) ৰূপান্তৰ\n(11) টানকৈ লাগি ধৰা\n(1ঘ) মুকুলন\n(০) এটা যোজনকোষত কোষ কেন্দ্ৰৰ সংখ্যা\n(1) নাথাকে (1) এটা (1) দুটা (1৮) চাৰিটা\n4. নিম্ন লিখিত উত্তৰবোৰত শুদ্ধ হলে (শু) আৰু অশুদ্ধ হ\"তো (অ) লিখিবা।\n(8) ভডিম্বজ প্রাণীয়ে পোৱালি জগায়।\n(৮) প্রতিটো শুকত্ৰমণু এককোষীয়।\n(০) ভেকুলীৰ বহিঃনিষেচন হয়।\n(0) _. এটা জননকোষৰ পৰা এজন নতুন মানুহৰ সৃষ্টি হয়।\n(6) , নিষেচনৰ পিছত পৰা এটা কণী এক কোষ যুক্ত হয়।\n(0) এমিবাই মুকুলনৰ দ্বাৰা বংশ বৃদ্ধি কৰে।\n(&) অযৌন প্রজননতো নিষেচনৰ আৱশ্যক।\n(0) দ্বৈত বিভাজন এটি অযৌন প্ৰজননৰ পদ্ধতি।\n(0) নিষেচনৰ ফলত এটি যোজন কোষৰ গঠন হয়।\n()) এটা ভ্ৰাণ এটা একক কোষেৰে গঠিত।\nএটা যোজন কোষ আৰু এটা গৰ্ভল্ৰণৰ মাজৰ পাৰ্থক্য উল্লেখ কৰা।\nঅযৌন প্রজননৰ সংজ্ঞা দিয়া। প্রাণীৰ অযৌন প্রজননৰ দুটা পদ্ধতি বৰ্ণনা কৰা।\nস্ত্ৰীপ্ৰজনন অংগৰ কোনটো অংশত ভ্ৰূণটো লাগি ধৰে?\nৰূপান্তৰ কি? উদাহৰণ দিয়া।\nঅন্তঃনিষেচন আৰু বহিঃনিষেচনৰ মাজত পাৰ্থক্য উলিওৱা।\n\nলবি পতদদি;। তডটটিি। তউদটদদি পিচি তপটটচিশিপশিচসিপঅিপভশিিি\nসুু্পে, তঞি =রৰপর ঞঞ-ঁৰপি\" পি) শিিিকৰপ এপদ =তডকডৰা  =*৮সপ)১ স =েস\n\n৬5 22% খসৈ 5, ৮\n\n__ প্ৰাণীৰ প্ৰজনন / ৷২চাসং0])00'[[0খ ]{খ এখাখা[.9",
+  "confidence": {
+    "word_count": 216,
+    "mean": 77.45,
+    "median": 92.05,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.155,
+  "page_elapsed_seconds": 3.433,
+  "peak_process_tree_rss_bytes": 328871936,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

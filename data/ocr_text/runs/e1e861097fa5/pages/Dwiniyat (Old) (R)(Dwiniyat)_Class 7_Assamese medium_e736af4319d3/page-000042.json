@@ -1,0 +1,67 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 42,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত       দ্বীনিয়াত\n\nপ্ৰশ্নম-অজুৰ অংগবোৰ কিমানবাৰ ধোৱা ফৰজ ?\n\nউত্তৰ- এবাৰ ধোৱা ফৰজ, তিনিবাৰ ধোৱা চুন্নত তিনিবাৰতকৈ অধিক ধোৱা\nমকৰাহ।\n\nপ্ৰশ্নম- মুখমণ্ডলৰ কিমান অংশ ধোৱা ফৰজ?\n\nউত্তৰ- কপালৰ চুলিৰ গুৰিৰ পৰা থুতুৰীৰ তললৈকে আৰু এখন কাণৰ পৰা\nআনখন কাণৰ লতিলৈকে ধোৱা ফৰজ।\n\nপ্ৰশ্র-অজু কৰোতে অংগৰ সামান্য অংশ শুকান থাকিলে অজু হ'বনে?\n\nউত্তৰ- যদি চুলি এডালৰ পৰিমাণো শুকান থাকে তেনেহ”লে অজুৰ নহ’ব।\n\nপ্ৰশ্ন- কোনো মানুহৰ হাতত ছটা আঙুলি থাকিলে বষ্ঠ আঙুলিটো ধোৱা\nআৱশ্যকনে?\n\nউত্তৰ- ষষ্ঠ আঙুলিটো ধোৱা ফৰজ। এইদৰে বধিত অংগ ধোৱা ফৰজ।\n\nপ্ৰশ্থ- মছেহ (২+====) কৰাৰ অৰ্থ কি?\n\nউত্তৰ- পানীৰে হাত তিয়াই কোনো অংগ মচি দিয়াকে বা পানীৰে তিয়াই দিয়াকে\nমছেহ বোলে।\n\nশ্ৰশ্ন- মূৰ মছেহ কৰিবৰ বাবে নতুন পানী লোৱাৰ প্ৰয়োজন নে হাতত থকা (হাত\nতিতি ৰাই ন বথেচকী\n\nউত্তৰ- নতুনকৈ পানী লোৱা 'ভাল। অৱশ্যে হাত ধোৱাৰ পিচত তিয়া হাতেৰে\nমছেই কৰিলেও হৃত্ম; কিন্তু এবাৰ মছেহ কৰাৰ পিচত নতুনকৈ পানী\nনোলোৱালৈকে অন্য অংগ মছেহ কৰিব নোৱাৰি।\n\nশ্ৰশ্নম- মূৰত বৰষুণৰ কণিকা পৰিলে তাৰ ওপৰেদি শুকান হাত বুলাই নি তিয়াই\nদিলে মছেহ কৰা হ’বনে?\n\nউত্তৰ- এনেদৰে মূৰ মছেহ কৰিলে মছেহ আদায় হ’ব।\n\nপ্ৰশ্ন-অজু কৰোতে চকুৰ ভিতৰৰ অংশ ধোৱা ফৰজনে?\n\nউতল্তৰ-চকু, নাক আৰু মুখৰ ভিতৰৰ অংশ ধোৱা ফৰজ নহয়।\n\nপ্ৰশ্ন- অজুৰ পিচত চুলি খুৰালে, নখ কাটিলে পুনৰ মূৰ মছেহ কৰা, নখ ধোৱা\nপ্ৰয়োজননে?\n\nউভ্তৰ-এইবিলাক পুনৰ ধোৱাৰ প্ৰয়োজন নাই।",
+  "confidence": {
+    "word_count": 204,
+    "mean": 85.48,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 21 diacritics",
+        "Detected 21 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.341,
+  "page_elapsed_seconds": 2.48,
+  "peak_process_tree_rss_bytes": 243445760,
+  "tesseract_warnings": [
+    "Detected 21 diacritics",
+    "Detected 21 diacritics"
+  ],
+  "processed_this_run": true
+}

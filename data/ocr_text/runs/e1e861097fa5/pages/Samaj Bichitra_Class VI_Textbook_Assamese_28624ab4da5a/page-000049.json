@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 49,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উদ্যোগত আগবাঢ়ি গৈছিল।\n\nমেইজী সংবিধান প্রৱৰ্তন কৰাৰ লগে লগে সামাজিক ভেদা-ভেদো কিছু আঁতৰ হৈছিল। চৰকাৰৰ\nউদ্যোগত স্থাপন কৰা বিদ্যালয় আৰু বিশ্ববিদ্যালয়বোৰত পশ্চিমীয়া দেশৰ শিক্ষকৰ হতুৱাই সাহিত্য, বিজ্ঞান\nআৰু গ্ৰবুক্তি-বিদ্যা শিকোৱাৰ ক্ষেত্ৰত অধিক গুৰুত্ব দিয়া হৈছিল। কিছু পৰিমাণে স্তী-শিক্ষাৰো প্রচলন ঘটিছিল।\n\nকী  ন\n৷   ৷  লচ  1}; /£\nৰঃ ন. 1\n\nচিত্ৰ 8৪.১০ ঃ জাপানত প্রথম ৰে’ল চলাৰ ছবি\n\nজানো আহা ঃ\nমেইজী যুগৰ পাছত জাপানত সংঘটিত হোৱা উল্লেখযোগ্য ঘটনাৱলী--\n১৮৯৪ -      চীনৰ লগত যুদ্ধ\n১৯০৪-০৫- ৰাছিয়াৰ লগত যুদ্ধ\n১৯১৪-     প্রথম বিশ্বযুদ্ধত জাপানৰ অংশগ্ৰহণ\n১৯৩৯-        দ্বিতীয় বিশ্বযুদ্ধত জাপানৰ অংশগ্ৰহণ\n১৯৪৫-      দেশৰ হিৰোশ্বিমা আৰু নাগাচাকিত আমেৰিকাৰদ্বাৰা পৰমাণু বোমা নিক্ষেপ\n১৯৪৬-      নতুন সংবিধানৰ প্ৰৱৰ্তন\n১৯৫১-     কেইবাখনো দেশৰ লগত শান্তি-চুক্তি স্বাক্ষৰ\n\n৪8.২.৫ জনসংখ্যা আৰু সমাজ ঃ\n\nজাপান এখন জনবহুল দেশ।\n২০২৩. চনৰ ফেব্ৰুৱাৰী মাহৰ হিচাপ\nঅনুযায়ী জাপানৰ জনসংখ্যা প্রায় ১২৫\nনিযুত। এতিয়াৰপৰা প্রায় ১০০ বছৰ পূৰ্বে\nদেশখনৰ জনসংখ্যা আছিল প্রায় ৫৬\nনিযুত।\n\nজাপানত বয়সীয়াল লোকৰ\nসংখ্যা তুলনামূলকভাৱে বেছি। ৬৫ বছৰ\nবা তাৰ উৰ্দ্ধৰ মানুহে মুঠ জনসংখ্যাৰ প্রায়\n২৯ শতাংশ নিৰূপণ কৰে। আনহাতে ১৪ টিলাৰ   জ্গ্াসপাবাঁ      ড্\nবছৰ বা তাৰ তলৰ বয়সৰ ল’ৰা-ছোৱালী       চ্ঙিও ভন গুহা হৰি",
+  "confidence": {
+    "word_count": 172,
+    "mean": 83.41,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 106 diacritics",
+        "Detected 106 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.437,
+  "page_elapsed_seconds": 3.958,
+  "peak_process_tree_rss_bytes": 316313600,
+  "tesseract_warnings": [
+    "Detected 106 diacritics",
+    "Detected 106 diacritics"
+  ],
+  "processed_this_run": true
+}

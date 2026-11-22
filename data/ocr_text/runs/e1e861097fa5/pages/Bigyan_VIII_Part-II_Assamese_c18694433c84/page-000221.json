@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 221,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জ্ৰিয়াকলাপ 17.2\n\nসাংশ্লেষিক কাপোৰে প্রাকৃতিক কাপোৰতকৈ\nকম/বেছি পানী শোষণ কৰে নে? এই কাপোৰবোৰ\nশুকাবলৈ কম/বেছি সময় লয় নে?\n\nসাংশ্লেষিক কাপোৰৰ বৈশিষ্ট্যসমূহৰ বিষয়ে\nএই ক্ৰিয়াকলাপটোৰ পৰা তোমালোকে কি শিকিলা?\n\nপ্রাকৃতিক কাপোৰৰ তুলনাত এই কাপোৰবোৰৰ\nস্থায়িত্ব, দাম কেনে আৰু যতন কিদৰে লোৱা হয় সেই\n\n17.4 প্লীষ্টিক ঃ\n\nদৈনন্দিন ব্যৱহাৰ কৰা বহুতো প্লাষ্টিক সামগ্ৰীৰ সৈতে\nতোমালোক নিশ্চয় পৰিচিত। এনেধৰণৰ সামগ্ৰীবোৰৰ\nব্যৱহাৰ সহ এখন তালিকা প্রস্তুত কৰা।\n\n(৪)\n\n|  (৮)\n\nচিত্ৰ 17.6 : (0) ৰৈখিক (৮) প্ৰস্থ-সংযোজিত সজ্জা\n\nসাংশ্লেষিক আঁহৰ দৰে প্লাষ্টিকো এবিধ\nবহুযোগী। সকলো প্লাষ্টিকত গোটবোৰ একেধৰণেৰে\nসজ্জিত নহয়। কিছুমানত এইবোৰ ৰৈখিক, আনহাতে\nআনবোৰত এইবোৰ প্রস্থ,-সংযোজিত (চিত্রৰ-1!7.6)।\nচিত্ৰ 177 ত দেখুওৱাৰ দৰে প্লাষ্টিকৰ সামগ্ৰীবোৰ\nসম্ভৱপৰ সকলোবোৰ আকৃতি আৰু আকাৰত পোৱা\nযায়। তোমালোকে কেতিয়াবা ভাবি চাইছানে এইটো\nকেনেকৈ সম্ভৱ হ’ব পাৰে? আচল কথাটো হ’ল এই\nযে প্লাষ্টিক সহজে সাঁচত ঢালিব পাৰি অৰ্থাৎ ইয়াক\nযিকোনো আকৃতি দিব পাৰি। গ্লাষ্টিকবোৰ পুনৰাবৰ্তন\nকৰিব পাৰি, পুনৰ ব্যৱহাৰ কৰিব পাৰি, ৰঙীন কৰিব\nপাৰি, গলাব পাৰি, পাতলা পাত হিচাপে মেৰাব পাৰি\nবা তাীৰলৈ পৰিণত কৰিব পাৰি। সেইবাবে, ইয়াক নানা\nধৰণে ব্যৱহাৰ কৰ৷ হয়।\n\nস্ব ০\n\nচিত্ৰ 17.7: প্লাষ্টিকেৰে তৈয়াৰী বিভিন্ন সামগ্ৰী\n\nএতিয়া তোমালোকে নিজেই প্লাষ্টিকৰ টুকুৰা\nএটা ভাঁজ কৰিবলৈ চেষ্টা কৰা। সকলোবোৰ প্লাষ্টিকৰ\nতোমালোকে দেখিবা যে কিছুমান প্লাষ্টিকক\nপ্লাষ্টিক ভাজ কৰিবলৈ জোৰ দিলে ভাঙি যায়। প্লাষ্টিকৰ\nবটলত গৰম পানী ঢালিলে বটলটো বিকৃত হয়।",
+  "confidence": {
+    "word_count": 203,
+    "mean": 88.67,
+    "median": 93.31,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.415,
+  "page_elapsed_seconds": 3.708,
+  "peak_process_tree_rss_bytes": 314781696,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

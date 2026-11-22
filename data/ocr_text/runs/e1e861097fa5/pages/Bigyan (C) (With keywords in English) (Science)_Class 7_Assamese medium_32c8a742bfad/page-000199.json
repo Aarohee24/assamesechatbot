@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 199,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 15.25 লেন্‌ছৰপৰা বিভিন্ন দূৰত্ব ৰখা লক্ষ্যবস্তুৰ বাবে উত্তল লেন্‌ছে গঠন কৰা প্ৰতিবিম্ব\n(17882 60% ৪ ০0০100%৮60 1219 101 061600 18060 ৪ 01211] 019181106 1101] 11)\n\nচিত্ৰ 15.26 উত্তল লেন্‌ছে গঠন কৰা অসৎ প্রতিবিম্ব\n( 11008] 11]89662 10111]160 07 016 ০01]862স\n1621]09)\n\nলক্ষ্যবস্তুৰ কোনো এক অবস্থানত থিয় আৰু\nবিৱৰ্ধিত প্রতিবিম্ব তুমি দেখিছিলানে (চিত্র 15.26)।\nএই প্ৰতিবিম্বটো পৰ্দাত পেলাব পাৰিবানে?\nপ্রতিবিম্বটো সৎ নে অসৎ ঠিক এইদৰে এখন উত্তল\nলেন্‌ছক বিবৰ্ধক কাচ হিচাপে ব্যৱহাৰ কৰা হয় ।\n\nএকেধৰণে অৱতল লেন্্‌ছৰ দ্বাৰা গঠিত হোৱা\nপ্ৰতিবিস্ববোৰৰ ওপৰত মনোনিৱেশ কৰা ৷ অৱতল লেন্ছৰ\n\nচিত্ৰ 15.27 অৱতল লেন্‌ছে গঠন কৰা প্ৰতিবিম্ব\n(]1]18266 1011]60 0% 8 ০01108%46 1219)\n\nদ্বাৰা গঠিত প্ৰতিবিম্ব সদায় অসৎ, থিয় আৰু\nলক্ষ্যবস্তুতকৈ সৰু হয় (চিত্র 15.27)।\n15.6 সূৰ্যৰ পোহৰ বগা নে ৰঙীন\n\n(১00}]]2]]{-ছ%]}1(6 01\" €01001\"60)?\n\nতোমালোকে কেতিয়াবা আকাশত ৰামধেনু দেখা\nপাইছানে? তোমালোকে বোধহয় জানা যে এজাক বৰষুণৰ\nপাছত যদিহে সূৰ্যটো দিগল্তৰ ওচৰত থাকে তেতিয়াহে\n\n185",
+  "confidence": {
+    "word_count": 142,
+    "mean": 79.03,
+    "median": 93.0,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.806,
+  "page_elapsed_seconds": 3.568,
+  "peak_process_tree_rss_bytes": 292335616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

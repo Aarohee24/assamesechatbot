@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 116,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১৩\n\nআৱিষ্কাৰৰ কাহিনী\n\nঅধ্যৱসায়ৰ দ্বাৰা মানুহে অসাধ্যও সাধন কৰিব পাৰে। অদম্য মানসিক দৃঢ়তা আৰু এ্রবল কমস্পিহা\nথাকিলে মানুহে সৰু ঠাই এখনৰ পৰা গৈ আজউজা্তিক পযাৰয়তো নিজকে প্রতিষ্ঠা কৰিবলৈ সক্ষম হয়।\nওৰম্পসাদ দাস তেনে ব্যক্তিৰ এটি উজ্জ্বল নিদশন। তেখেতে মটৰ গেৰেজত ‘মেকানিক’ৰ যোগালি\nহিচাপে কমর্জীৱন আৰম্ভ কৰি শেষত ৰে’ল-গাড়ীৰ ‘ভেকুৱাম ৱে’ক’ উজ্জাৱনেৰে বিশ্বত এসিন্ধি লাভ\nকৰিলে। এই উদ্ভাৱনৰ ফলত ৰে’ল যাতায়াতত বিশ্বজুৰি নতুন যুগৰ সূচনা হ’ল। পাঠটিৰ জৰিয়তে এই\nমহান বিজ্ঞানীগৰাকীৰ বিষয়ে জানিব পাৰিবা ।\n\n‘অভাৱেই আৱিষ্কাৰৰ মূল’-_ বুলি এষাৰ কথা আছে। অভাৱৰ ক্ষেত্ৰ অনেক৷ কাৰিকৰী দিশত\nপৰিৱহণৰ ইতিহাসত ৰে’ল-গাড়ী,মটৰ-গাড়ী, উৰাজাহাজ আদিৰ উদ্ভাৱন হয়\nযদিও চলাচলৰ ক্ষেত্ৰত উন্নত যন্ত্-পাতি, সা-সৰঞ্জাম আৰু প্ৰায়োগিক কৌশলৰ\nঅভাৱ পৰিলক্ষিত হয়। ৰে’ল-গাড়ীৰ ভ্ৰুমবিকাশত দৃষ্টিগোচৰ হোৱা অভাৱ আৰু\n{| অসুবিধাসমূহ দূৰ কৰিবলৈ উদ্ভাৱকসকলে\nসুচল কৰি তুলিছে।\n\nৰে’ল সেৱা অধিক সুচল আৰু নিৰাপদ কৰিবলৈ\nনেৰানেপেৰা চেষ্টা আৰু কষ্টসাধ্য গৱেষণাৰে ‘ভেকুৱাম ব্ৰে'ক’\nউদ্ভাৱন কৰা বিজ্ঞানীগৰাকী হ’ল গুৰুপ্ৰসাদ দাস। আন্তৰ্জাতিক\nগৌৰৱ।\n\nপ্রযুক্তিবিদ গুৰুপ্ৰসাদ দাসে যাতায়াত ব্যৱস্থাৰ নিৰাপদ আৰু\nসুবিধাজনক দিশটোলৈ লক্ষ্য ৰাখিয়েই ভেকুৱাম বেে’ক উদ্ভাৱন\nকৰে। যন্তু এটা যদি মানুহে প্রয়োজন অনুসাৰে নিয়ন্ত্ৰণ কৰিব\nনোৱাৰে, তেনে যন্ত্ৰ মানুহৰ বিশেষ উপকাৰত নাহে। চলি থকা\nবাহন এখন হঠাতে ৰখাবলৈ বে’কৰ প্রয়োজন হয়। ৰে’ল-গাড়ী",
+  "confidence": {
+    "word_count": 182,
+    "mean": 87.25,
+    "median": 93.3,
+    "minimum": 8.93,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.023,
+  "page_elapsed_seconds": 4.503,
+  "peak_process_tree_rss_bytes": 245284864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

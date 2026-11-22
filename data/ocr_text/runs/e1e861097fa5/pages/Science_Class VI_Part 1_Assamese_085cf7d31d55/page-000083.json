@@ -1,0 +1,67 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 83,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গাখীৰ\n\n“কাঠফুলা খাই পাইছানে?\nকাঠফুলা এবিধ ভেঁকুৰ জাতীয় উদ্ভিদ\nকাঠফুলা উচ্চমানদণ্ডৰ প্ৰটিনৰ এবি\n\n৮\" = = = = -_-২- = _৯>-=--=_--সদ\n\nউপযোগী নহয় ।ইহঁতৰ\n\n৬ == == = == == = = = এশ\n\nতোমালোকে জানানে?            ন\nকিছুমান পোক- পতংগ মানুহে খাদ্য হিচাপে এহণ |৬_  জ্/।\nকৰে। খাদ্যৰূপে এহণ কৰিব পৰা এই পোক-  ন\nপতংগসমূহ যথেষ্ট পৌষ্টিক ওণ সমৃদ্ধ। পোক সত --\n-পতংগসমূহত সাধাৰণতে যথেষ্ট পৰিমাণে প্রটিন,\nচকি, ভিটামিন আৰু খনিজ পদাথ থাকে। ভাৰতৰ\nউতভৰ-পূবাৰ্থ্ব্লৰ কেইবিধমান খাদ্যৰূপে খাব পৰা\nপোক-পতংগৰ প্রজাতি যেনে = পাট, এৰী আৰু\nমুগাপলুৰ লেটা; বাই পোক, উই-চিৰিঙা, মৌ মাখি,\nআমৰলি পৰচ্ৱা, কে, বৰল ইত্যাদি। পতঙ্গ খোৱাৰ\nঅভ্যাসটোক এণ্টম ফৈগী বুলি কোৱা হয়। কিছুমান\nপতঙ্গৰ প্ৰজাতি ঘৰতো পোহা হয় । খাদ্য হিচাপে এহণ\nকৰা পতঙ্গসমূহে স্বাস্থাসন্মত, পুষ্টিকৰ আৰু বহনক্ষম\nখাদাৰ প্ৰচুৰ সভাৱনীয়তাৰ পথ পৰশত, কৰিছে।",
+  "confidence": {
+    "word_count": 128,
+    "mean": 76.84,
+    "median": 90.88,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 158 diacritics",
+        "Detected 158 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.033,
+  "page_elapsed_seconds": 3.49,
+  "peak_process_tree_rss_bytes": 346439680,
+  "tesseract_warnings": [
+    "Detected 158 diacritics",
+    "Detected 158 diacritics"
+  ],
+  "processed_this_run": true
+}

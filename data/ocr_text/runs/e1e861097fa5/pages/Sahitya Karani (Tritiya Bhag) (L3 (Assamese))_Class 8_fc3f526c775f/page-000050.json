@@ -1,0 +1,68 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 50,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিদ্যালয় =     +\nসীমান্ত =     +\nসদানন্দ =     +\nবকাসুৰ =     +\n\nআৰাকজকে\n\nউদাহৰণ -\n\nভাল\n\nদেখি\n\n১২। কৰিতাটোৰ আলমত ভাৰতবৰ্ষৰ বিষয়ে কোৱা৷\n\n= নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 28,
+    "mean": 86.09,
+    "median": 94.77,
+    "minimum": 18.69,
+    "maximum": 96.89
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 15 diacritics",
+        "Detected 15 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8-page-000050.png",
+  "page_image_sha256": "c4d13736f7337292c1a86208dd4d2de52b1a055da81c168b2c71f4b7d1c96574",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.322,
+  "page_elapsed_seconds": 1.52,
+  "peak_process_tree_rss_bytes": 147247104,
+  "tesseract_warnings": [
+    "Detected 15 diacritics",
+    "Detected 15 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

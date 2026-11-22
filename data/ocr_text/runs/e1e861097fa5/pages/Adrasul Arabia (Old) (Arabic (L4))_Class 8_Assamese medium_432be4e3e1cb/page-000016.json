@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 16,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জাৰবীত মূল ২<১)= (হৰ্কত) বা স্বৰচিহ্ন তিনিটা যেনে ?ঃ<-= (=) ২= (<)\nআৰু ২১-৬(=)। এইবোৰক যথাক্ৰমে ১ (ৰফা) ---= (নছব) আৰ, > (জৰ)\nবুলিও কোৱা হয়। ফাচী আৰু উৰ্দু ভাষাত এইবোৰক যথাক্ৰমে ৩=% (পেশ) ১) কং\nআৰু, 2) (জেৰ) বুলি কয়। এইবোৰ চুটি স্বৰচিহ্ন।\n\nবনি ্লটলজ্টোজ্বনলা বটি\n\nজনক\n\n|     ৰু ) )=,    ৰ)\n\nহৈ\n\n- -%.= 44 = ৬০ = =. -  *- -%=- =1- *\n=\n\nস্যাৰ টা স্ু) - ১- ৩০ - ত\nঢ়\nডু\n\n+ * =  ৯ (=  লা হি   + ৫2  দু\nত %4-ঢু=- ১৪০ এইচ তত দেও\n\n6",
+  "confidence": {
+    "word_count": 94,
+    "mean": 46.25,
+    "median": 47.34,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 84 diacritics",
+        "Detected 84 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.071,
+  "page_elapsed_seconds": 2.291,
+  "peak_process_tree_rss_bytes": 1119043584,
+  "tesseract_warnings": [
+    "Detected 84 diacritics",
+    "Detected 84 diacritics"
+  ],
+  "processed_this_run": true
+}

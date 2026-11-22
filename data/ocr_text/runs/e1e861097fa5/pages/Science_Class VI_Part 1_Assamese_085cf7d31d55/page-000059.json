@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 59,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[] ভি্রিয়া-কলাপ 2.9 :\n\nতোমালোকে পুখুৰীত দেখা পোৱা উদ্ভিদ আৰুপ্লাণীৰ এখন তালিকা প্রস্তুত কৰা।\nসেইবোৰৰ আকাৰ, আকৃতি কেনে উল্লেখ কৰিবা ৷ তালিকাখন ছাৰ বা বাইদেউক দেখুৱাবা।\n\nমৰুভূমিৰ প্রাণী উটে কি দৰে\nঅভিযোজন কৰে জানিলা। উদ্ভিদৰ\nবিষয়ে জানো আহা। মৰুভূমিত পোৱা\nউদ্ভিদ হ’ল কেক্‌টাছ। কেক্‌টাছবোৰ\nৰূপান্তৰ। উদ্ভিদজোপাৰ পৰা পানী\nওলাই নাযাবৰ বাবে পাতবোৰ কীইটলৈ\nৰূপান্তৰিত হয়। কেক্‌টাছৰ গা-গছ\nসেউজীয়া। সেইবাবে খাদ্য তৈয়াৰ\nকৰিব পাৰে। কেক্‌টাছৰ কাণ্ড মঙহাল,\nইয়াত পানী জমা হৈ থাকে।            চিত্ৰ 2.12 : কেক্‌টাছ\n\nপৰ্বতৰ ওপৰৰ ওখ ঠাইত থকা৷ গছবোৰে নিজকে পৰিৱেশৰ লগত খাপ খুৱাই লয়।\nএনে ঠাইত শীত কালত তুষাৰ পাত হয়। গছবোৰৰ আকৃতি শংকুৰ দৰে হয়। এনে হ’লে\nবৰফবোৰ সহজে পিছলি নামি আহিব পাৰে। উদাহৰণ - দেৱদাৰু গছ।\n\nচিত্ৰ 2.13 : ওখ পবৰ্তত থকা দেৱদাৰু গছ\n\nভমভঞ্ডতেনঁততত তত তত তত তত, তত তত ০০০০ত ০০০০ত ০০০০০, ০০০০,(30)",
+  "confidence": {
+    "word_count": 132,
+    "mean": 83.18,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.684,
+  "page_elapsed_seconds": 3.248,
+  "peak_process_tree_rss_bytes": 362020864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

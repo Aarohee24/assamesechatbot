@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 49,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "* ১৯১৮ চনত ইংৰাজী (সাহিত্য) বিষয়ত এম. এ. পাছ কৰি কটন কলেজত ইংৰাজী\nঅধ্যাপক হিচাপে নিযুক্ত হয়।\n\n* ১৯২৩ চনত পুনৰবাৰ ইংৰাজী খ-শাখাত (ভাষা বিষয়ত) পৰীক্ষা দি প্রথম শ্ৰেণীৰ\nপ্রথম স্থান অধিকাৰ কৰে।\n\n* ১৯৩৫ চনত কলিকতা বিশ্ববিদ্যালয়ৰ পৰা পি এইচ. ডি. ডিগ্ৰী লাভ কৰিছিল। তাৰ\nআগতে সেই বিশ্ববিদ্যালয়ৰ পৰা কোনো অসমীয়াই এই ডিগ্ৰী লাভ কৰা নাছিল।\n\n* তেখেতে ৰচনা কৰা গ্ৰন্থসমূহ হ’ল--\n\n--= পুৰণি অসমীয়া সাহিত্য  --- পুৰণি কামৰূপৰ ধৰ্মৰ ধাৰা\n--- কলিতা জাতিৰ ইতিবৃত্ত _-- ডা’ মাডাৰ্‌ গডেছ্‌ কামাখ্যা\n\n--_ সাহিত্য আৰু প্রেম   -_ ডা’ বৈষ্ণৱাইট্‌ মিথ্‌ এণ্ড লি’জেণ্ডছ্‌\n-= পখিলা (শিশুৰ বাবে)    -=_ আছামিজ, ইটচ্‌ ফৰ্মেচন এণ্ড ডেভেলপমেন্ট\n(সংগ্ৰহ --বাণীকান্ত কাকতি, ‘জীৱন আৰু কৃতি’, প্রথম প্রকাশ, প্রকাশক--- ভৱানী প্ৰিন্ট এণ্ড পাব্লিকেচনচ্‌)\nকত্ৰিয়া-কলাপ\nক.--_ পাঠভিত্তিক ত্ৰিয়া\n1} পাঠটো শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়া।\nজী উত্তৰ দিয়া।\n\n(ক) নিষ্ঠা আৰু সাধনাৰ ফলত মানুহে কি অৰ্জন কৰিব পাৰে?\n\n(খ) বাণীকান্ত কাকতিয়ে জীৱনৰ বেছিভাগ সময় কি কামত আত্ম-নিয়োগ কৰিছিল?\n(গ) নতুন ডাক্তৰ বুলি কাক কোৱা হৈছে?\n\n(ঘ) তেখেতে কি চিকিৎসা কৰিছিল?\n\n(৬) বাণীকান্ত কাকতিয়ে ডক্টৰেট ডিগ্ৰী লাভ কৰা গ্ৰন্থখনৰ নাম কি?\n\n| 2) ডক্টৰ বাণীকান্ত কাকতিৰ বিষয়ে পাঠটোৰ আলমত লিখা।",
+  "confidence": {
+    "word_count": 179,
+    "mean": 88.83,
+    "median": 95.77,
+    "minimum": 7.88,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.599,
+  "page_elapsed_seconds": 4.01,
+  "peak_process_tree_rss_bytes": 271253504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

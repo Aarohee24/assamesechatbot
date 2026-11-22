@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 83,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গু শাক-পাচলিৰ পেলনীয়া অংশ, ঘৰুৱা আৱৰ্জনা, পেলনীয়া খাদ্য, মলমূত্ৰ আদি আৱৰ্জনাবোৰ\nমাটিত য’তে ত’তে পেলোৱাৰ ফলত সেইবোৰ গেলি-পচি গৈ নানা বীজাণুৰ সৃষ্টি হৈ মাটি\nপ্রদূষিত কৰে।\n\nগু কল-কাৰখানা বা উদ্যোগসমূহৰ পৰা ওলোৱা আৱৰ্জনাবোৰ মুকলিকৈ পেলাই দি মাটিত দ’ম\nকৰাৰ ফলত মাটিৰ উৰ্বৰতা নষ্ট হয়।\n\n টিন আৰু প্লাষ্টিকজাতীয় বস্তু সহজে পচি মাটিত মিহলি হৈ নাযায়। সেইবাবে এইবোৰ মাটিত\nএকেধৰণে থাকি মাটি প্ৰদূষিত কৰে।\n\nগু খেতিপথাৰত শস্য অনিষ্টকাৰী কীট-পতংগ নাশ কৰিবলৈ ৰাসায়নিক কীটনাশক দ্রব্য ব্যৱহাৰ\nকৰা হয়। এইবোৰ উদ্ভিদৰ যোগেদি জীৱৰ দেহত প্রৱেশ কৰি স্বাস্থ্যৰ ক্ষতিসাধন কৰে। এই দ্রব্যৰ\n\nব্যৱহাৰৰ ফলত মাটিত থকা অণুজীৱবোৰৰ মৃত্যু হয়।\n\nআমি বজাৰ কৰিবলৈ গ’লৈ কাপোৰ নাইবা মৰাপাটৰ মোনা লগত লৈ যোৰাৰ অভ্যাস কৰিব\n\nলাগে। কাৰণ এইবোৰে অনিষ্টকাৰী আৱৰ্জনাৰ সৃষ্টি নকৰে। এইবোৰ বাৰে বাৰে ব্যৱহাৰ\n\nকৰিব পাৰি।\n\nদলগত কাৰ্য-\n> তোমালোকৰ চুবুৰিটোৰ তিনিঘৰ মানুহৰপৰা তথ্য সংগ্ৰহ কৰি তলৰ তালিকাখনত লিখা।\n\nগা৷ও/চহৰৰ নাম?\nী|ও/চহৰখনৰ ওচৰেদি বৈ যোৱা নৈ (যদি আছে)?\n\nচুবুৰিটোত কোনো উদ্যোগ ব৷ কাৰখানা আছে নেকি? যদি আছে উদ্যোগৰ আৱৰ্জনাবোৰ\nক’ত পেলায়?\n\nচুবুৰিটোত পৰ্যাপ্ত পৰিমাণৰ গছ গছনি আছে নেকি?\nতথ্যসমূহ                        প্ৰথম ঘৰ দ্বিতীয় ঘৰ তৃতীয় ঘৰ\nপৰিয়ালৰ মুৰব্বীৰ নাম\nখেতি মাটিত কি সাৰপ্ৰয়োগ কৰে?\n\nঘৰৰ জাবৰ-জোঁথৰ ক’ত পেলায়?\n\nঘৰত গছ-গছনি ৰুইছে নে কাটি পেলাইছে?\nসামগ্ৰী কঢ়িয়াই অনা প্লীষ্টিকবোৰ ক’ত পেলায় ?\nখোৱা পানী ক’ৰ পৰা সংগ্ৰহ কৰে?\n\nপানী শোধন কৰি খায়/নাখায় ?\nকিপ্রণালীৰে পানী শোধন কৰে?",
+  "confidence": {
+    "word_count": 209,
+    "mean": 87.34,
+    "median": 95.5,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.525,
+  "page_elapsed_seconds": 3.777,
+  "peak_process_tree_rss_bytes": 246415360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 147,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বস্তুবোৰ\n\n23945%1\n\nস্কুললৈ আহৌতে লগত কি কি বস্তু আনা বাৰু? কিতাপ, বহী, কলম, পেঞ্চিল, ৰবৰ\nআদি, নহয়নে? শ্ৰেণীকোঠাত আকৌ চকী, মেজ, চক পেঞ্চিল, ডাষ্টাৰ, ডেস্ক-বেঞ্চ আদি\nবস্তুবোৰ থাকে। তোমালোকৰ ঘৰতো বহু বস্তু আছে। খোৱা বস্তু, কাপোৰ, বাচন-বৰ্তন, ৰন্ধন\nগেছ, চকী, মেজ, বিচনা আদি বিভিন্ন বস্তু ঘৰত থাকে। ঘৰ আৰু স্কুলৰ চাৰিওফণলেও অজস্ৰ\nবস্তু থাকে।\n\nসকলো বস্তুৰ ৰং আৰু আকৃতি নিশ্চয় একে নহয়। এই বস্তুবোৰ স্পৰ্শ কৰিলে তুমি\nএকে অনুভৱ কৰানে? কিছুমান বস্তু আকৌ আনবোৰতকৈ পাতল নহয়নে বাৰু?\n\nআমি ব্যৱহাৰ কৰা বস্তুবোৰ কিছুমান দ্রব্য (যেনে = কাগজ, কাঠ, কাপোৰ, কাচ, কপাহ\nআদি)ৰে তৈয়াৰী। উদাহৰণ স্বৰূপে, বহীখন কাগজেৰে তৈয়াৰী, এই ক্ষেত্ৰত বহীখন বস্তু;\nকাগজ হ’ল দ্ৰব্য। যিহেৰে বস্তু এটা তৈয়াৰ কৰা হয় সেয়াই হ’ল দ্ৰব্য।\n\n[] জ্ৰিয়া-কলাপ 5.1 :\nতোমাৰ চাৰিওফালে থকা কিছুমান বস্তুৰ তালিকা প্রস্তুত কৰা আৰু সেইবোৰ কি\nদ্ৰব্যৰে তৈয়াৰ কৰা হৈছে লিখা।\nতালিক 5৪.1 : বস্তু আৰু সেইবোৰ কি দ্ৰব্যৰে তৈয়াৰী\n\n5.1 দ্রব্যবোৰৰ কেনেকৈ শ্ৰেণীবিভাজন কৰিব পাৰি?\n\nপাকঘৰৰ বস্তুবোৰ মাৰাই কেনেকৈ ৰাখে মন কৰিছানে? বিস্কুট, মুড়ি, সান্দহ, চাউল,\nদাইল, বুট, চেনি, চাহপাত, হালধি, মিঠাতেল আদি বেলেগ বেলেগ পাত্ৰত থয়। মচলাৰ\nপাত্ৰবোৰ তেওঁ একেলগে ৰাখে। বিভিন্ন দাইলৰ পাত্ৰবোৰো একেলগে থয়। ফলত লগা\nবস্তুটো সহজতে পায়।\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,চে",
+  "confidence": {
+    "word_count": 199,
+    "mean": 85.63,
+    "median": 95.83,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.183,
+  "page_elapsed_seconds": 3.539,
+  "peak_process_tree_rss_bytes": 288272384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 84,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পলে লাসে পললোল লোলে =\n\nম--    ম     কৰা লোকক গীতিকাৰ বোলে। এতিয়া কাষৰ বাকচটোত থকা শব্দকেইটা বাছি\nউলিয়াই কাক কি বোলে খালী ঠাইত লিখা।           ব্ৰায়়\nক) ছবি/চিত্রৰ অংকন কৰা লোক  _ --চিত্রৰকৰ       অটল\nখ) গীতত সুৰ দিয়া লোক      নূতন   সুৰকাৰ\nগ) কবিতা ৰচনা কৰা লোক      ল্ট৬%৮৬প%   কণি\nগা     ঘ) নাটক ৰচনা কৰা লোক      লক ডিদ   চিএকৰ\n=    ৬) গীত গোৱা লোক        ==১&%৬৯১৯,ক০৪%  ‘- গীতিকাৰ\n\n(_ জ্ঞানসম্প্ৰা\"ণ্থ )\n\nৰ ৬। ভাবোঁ, কওঁ আৰু লিখোঁ আহা--\n(ক) জ্যোতিপ্ৰসাদ আগৰৱালাৰ ৰচিত গীতৰ বাহিৰে তুমি:আৰু কাৰ কাৰ গীত শুনি\n(খ) তোমাৰ বিদ্যালয়ত উদ্যাপন কৰা শিল্পী দিৱসত তুমি কি কি কৰা?\n(গ) শিল্পী দিৱসৰ উপৰি তোমালোকৰ বিদ্যালয়ত আৰু কি কি দিৱস পালন কৰা হয়?\n(ঘ) তুমি নিশ্চয় বোলছবি চাইছী'? তুমি চোৱা দুখন বোলছবিৰ নাম কি কি?\n\nঠাৰ ৭ কাৰ গীতক কি বোলে,লিখোঁ আহ|=-\n\nক) জ্যোতিপ্ৰসাদ,আগৰৱালাৰ গীতক       বোলে।\nখ) বিষ্ণু প্ৰমাদ ৰাভাৰ গীতক        বোলে।\nগ) ডণ ভূপেন হাজৰিকাৰ গীতক       বোলে।\n\nঠৰ ৮। তলত অসমৰ কেইজনমান গীতিকাৰৰ ছবি আছে। ডাঙৰৰ সহায়ত ছবিৰ তলত",
+  "confidence": {
+    "word_count": 156,
+    "mean": 78.17,
+    "median": 95.07,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.215,
+  "page_elapsed_seconds": 5.335,
+  "peak_process_tree_rss_bytes": 223334400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

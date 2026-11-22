@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দীীনিয়াত      ৰ                                    ডঃ\n\nসৃষ্টিকৰ্তা।\n\nপ্ৰশ্ম- কদীম ((৮১--৯ ) আৰু ৱাজিবুল ৱজুদ (> >\" }_)1। =--_>\"). ) মানে\nকি?\n\nউত্তৰ- ছিফাতে কদীম মানে আল্লাহ়তাআলা অনঙভ্তকাল বিদ্যমান। তেওঁ সদায়\nআছে আৰু সদায় থাকিব।\n\nপ্ৰশ্ন- হায়াত ( ==\" )মানে কি?\n\nউত্তৰ- হায়াত মানে আল্লাহতাআলা চিৰঞ্জীৱ। তেওঁ অনাদি অনন্তকাল জীৱিত।\n\nপ্ৰশ্ম- কুদ্ৰত ( ==> )-4. ) মানে কি?\n\nউত্তৰ- কুদ্ৰত মানে শক্তি। আল্লাহৃতাআলা এই বিশ্বৰ সকলো বস্ত্র সৃষ্টি, ধ্বংস\nআৰু পুনৰ গঠন কৰাত সামৰ্থবান।\n\nপ্রশ্ম- ছিফতে ইলিম ()'= =-+.>) ৰ অৰ্থ কি?\n\nভউত্তৰ- আল্লাহতাআলা সৰ্বজ্ঞানী। কোনো বস্তু তেওঁৰ অজ্ঞাতে থাকিব নোৱাৰে।\nএন্ধাৰ ৰাতি এটি বালি চাহিৰ গতিও তেওঁ দেখা পায় আৰু ইয়াৰ শব্দ\nশুনিবলৈ পায়। মানুহে মনতে ভবা কথাও তেওঁ জানে।\n\nপ্রশ্নম-ইৰাদা (১১৷)| ) বা অভিপ্ৰায় মানে কি?\n\nভত্তৰ- আল্লাহতাআলাই নিজ ইচ্ছাই জগতৰ সকলো কাম কৰে। তেওঁৰ ইৰাদাৰ\nবাহিৰত কোনো বস্তু নাথাকে ৷ তেওঁ আনৰ দ্বাৰা পৰিচালিত হৈ কোনো কাম\nনকৰে। জগতৰ সকলো বস্তু তেওঁৰ ইচ্ছাতে সৃষ্টি আৰু ধ্বংস হয়।\n\nপ্রশ্ম- ছিফতে ছিমা’ ( £ + === )ৰ অৰ্থ কি?\n\nউতভ্তৰ- আল্লাহতাআলাই সকলো অৱস্থাতে সকলো কথা শুনে। তেওঁ ডাঙৰ শব্দ\nযেনেকৈ শুনে, মূদু শব্দও তেনেকৈ শুনে ৷ ওচৰৰ পৰা যেনেকৈ শুনে, দূৰৈৰ\nপৰাও তেনেকৈ শুনে।\n\nপ্ৰশ্ন- ছিফতে বচৰ ( +=! =-২-= ) মানে কি?\n\nউত্তৰ- ছিফাতে বচৰ মানে দেখা । আল্লাহতাআলাই সৰু-ডাঙৰ সকলো বস্তু বা\nপ্ৰাণীকে দেখে। তেওঁ দূৰৈৰ পৰাও দেখে আৰু ওচৰৰ পৰাও দেখে৷ গভীৰ",
+  "confidence": {
+    "word_count": 212,
+    "mean": 80.3,
+    "median": 92.37,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.302,
+  "page_elapsed_seconds": 2.436,
+  "peak_process_tree_rss_bytes": 242294784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

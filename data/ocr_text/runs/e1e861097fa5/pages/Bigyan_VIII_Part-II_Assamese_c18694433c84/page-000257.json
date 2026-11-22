@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 257,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্র 18.17 : সৌৰজগত (স্কেল মতে নহয়)\n\nৰ\n\nস্য\n\nসূৰ্য আমাৰ আটাইতকৈ ওচৰৰ তৰা। ই অবিৰতভাৱে\nপ্রচূৰ পৰিমাণৰ তাপ আৰু পোহৰ বিকিৰণ কৰি আছে।\n\nপৃথিৱীৰ প্রায় সকলো শক্তিৰ উৎস হ’ল সূৰ্য । দৰাচলতে\nসূৰ্য সকলো গ্ৰহৰেই তাপ আৰু পোহৰৰ মূল উৎস।\n\nগ্ৰহবোৰ দেখাত তৰাৰ দৰেই, কিন্তু সিহঁতৰ নিজা\nপোহৰ নাথাকে। সিহঁতে কেৱল সিহঁতৰ গাত পৰা\nসূৰ্যৰ পোহৰ প্রতিফলিত কৰে। গ্ৰহ আৰু তৰাৰ\nপাৰ্থক্য উলিয়াব পাৰিবানে?\n\nতৰা আৰু গ্ৰহ চিনাক্ত কৰাৰ আটাইতকৈ সহজ\nউপায়টো হৈছে যে তৰাই তিৰ্বিৰ কৰে, কিন্তু গ্ৰহই\nনকৰে। তদুপৰি গ্ৰহবোৰে তৰাবোৰৰ সাপেক্ষে স্থান\nপৰিৱৰ্তন কৰি থাকে।\n\nগ্ৰহই সুনিৰ্দিষ্ট পথেৰে সূৰ্যৰ চাৰিওফালে\nপৰিভ্ৰমণ কৰে। এই পথক কক্ষপথ বোলে। এটা\nসম্পূৰ্ণ পৰিভ্ৰমণৰ কাৰণে প্ৰয়োজন হোৱা সময়কেই\nগ্ৰহৰ পৰিভ্ৰমণ কাল বোলে। সূৰ্যৰ পৰা গ্ৰহৰ দূৰত্ব\nবাঢ়িলে পৰিভ্ৰমণ কালো বাঢ়ে৷",
+  "confidence": {
+    "word_count": 119,
+    "mean": 87.56,
+    "median": 94.57,
+    "minimum": 9.78,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.419,
+  "page_elapsed_seconds": 2.715,
+  "peak_process_tree_rss_bytes": 232759296,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

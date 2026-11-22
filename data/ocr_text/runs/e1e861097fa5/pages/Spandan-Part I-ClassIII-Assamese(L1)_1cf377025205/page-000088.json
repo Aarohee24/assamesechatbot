@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 88,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জা,\n\n=== ব্যক্তিগত স্বাৰ্থ আওকাণ কৰি প্রজাৰ সুখ আৰু সুৰক্ষাৰ কথাত তেওঁ অগ্ৰাধিকাৰ দিছিল।\nঅহল্যাবাইৰ শাসনকাল মাৰাঠা সাম্ৰাজ্যৰ এটা উল্লেখযোগ্য সময়। তেওঁ প্রজাৰ\nহিতৰ বাবে বহু কাম কৰিছিল। তেওঁৰ এনে কামৰ প্রশংসা আন ৰাজ্যলৈও প্রসাৰিত\nহৈছিল।তেওঁ উত্তৰ আৰু মধ্যভাৰতৰ বহু মন্দিৰ নতুনকৈ সজাইছিল। তাৰ ভিতৰত বিখ্যাত\n\nসোমনাথ মন্দিৰ অন্যতম।\n\nএইদৰে প্রায় ত্ৰিশ বছৰ শাসন কৰাৰ পাছত তেওঁৰ মৃত্যু হয়।\n\nলি\n\nভূ\n= ভেমাকলন)\nৰ ১। উত্তৰ দিয়া --\n\nক) অহল্যাবাইৰ জন্ম কোন পৰিয়ালত হৈছিল?\n\nখ) অহল্যাবায়ে মাৰাঠাসকলক কোনখন যুদ্ধত নেতৃত্ব দিছিল?\n\nগ) তেওঁ কিমান বছৰ শাসন কৰিছিল?\n\nঘ) অহল্যাবাইক কোনে ৰাজমাতা বুলি,অভিহিত কৰিছিল?\n\nঙ) স্বামীৰ মৃত্যুৰ পাছত তেওঁ কিয় ৰাজকাৰ্যত্‌ মনোনিৱেশ কৰিছিল?\n\nঠৰ ২। তলৰ প্ৰশ্নবোৰৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক (> চিনটো পূৰ কৰা।\n+ তঅহল্যাবায়ে সকলো কাম কিয় কৰিছিল?\n(ক) প্রজাৰ সুখৰ, বাবে   (গ) ৰাইজৰপৰা প্ৰশংসা পাবৰ বাবে\n(খ) নিজৰ স্বাৰ্থৰ বাবে    (ঘ) মহাৰাণী হ’বৰ বাবে (বক ঞে গে) দে)\n\n* অহুল্যাবায়ে শাসনভাৰ গ্ৰহণ কৰা ৰাজ্যখন আছিল---\n\n(ক) মাৰাঠা     (খ) বিদৰ্ভ\n(গ) ইন্দোৰ     (ঘ) বিজাপুৰ           কে) ঞে গে দে)\n\n( _ ভাষাত্মধ্যয়ম )\n১৯ ৩। তোমালোকে পাঠত জ্ঞান’শব্দটো পাইছা ৷এই শব্দটোত থকা যুক্তাক্ষৰটো ব্যৱহাৰ\nঅজ্ঞ         যজ্ঞ          বিজ্ঞ         জিজ্ঞাসা\nআজ্ঞা       প্রজ্ঞা       সংজ্ঞা      বিজ্ঞান\n\n[৯১ ঘতৰহাৰীসকলক শুদ্ধ উচ্চাৰণেৰে সঠিক গতিত, সাৱলীলভাৱে পঢ়িবলৈ দিব।\n\nম্ৰপ্ছহানৰৰকতো",
+  "confidence": {
+    "word_count": 194,
+    "mean": 82.33,
+    "median": 92.72,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.845,
+  "page_elapsed_seconds": 5.839,
+  "peak_process_tree_rss_bytes": 223522816,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 175,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকেকিশিকিলা\n\n১ কিছুমান বস্তু আন বস্তুৰে ঘঁহি আহিত কৰিব পাৰি।\n\n১ দুই জাতীয় আধান আছে খ৷ণাত্মক আৰু ধনাত্মক আধান।\n\n১ একেজাতীয় আধানে পৰস্পৰ বিকৰ্ষণ কৰে আৰু বিপৰীত\nজাতীয় আধানে পৰস্পৰ আকৰ্ষণ কৰে।\n\n১ ঘৰ্ষণৰ ফলত বস্তুত উৎপন্ন হোৱা আধানক স্থিতিশীল আধান\nবুলি কোৱা হয়।\n\n১ আধানে সমূহীয়া গতি লাভ কৰিলে বিদ্যুৎ প্রবাহৰ সৃষ্টি হয়।\n\n১ বিদ্যুৎবীক্ষণ যন্ত্ৰ সহায়ত কোনো বস্তু আহিত নে অনাহিত\n\nতাক নিৰ্ণয় কৰিব পাৰি।\n\nআহিত বস্তুৰ পৰা পৃথিৱীলৈ আধান বৈ যোৱা প্রক্ৰিয়াটোক\n\nভূমিসংযোগ বোলে।\n\nমেঘৰ মাজত বা মেঘ আৰু পৃথিৱীৰ মাজত বিদ্যুৎক্ষৰণ\n\nহ’লৈ বজ্ৰপাতৰ সৃষ্টি হয়।\n\nবজ্ৰপাতে জীৱন আৰু সম্পত্তি বিনাশ কৰিব পাৰে।\n\nবজ্ৰোধক পৰিবাহী দণ্ডই বজপাতৰ আঘাতৰ পৰা অট্টালিকা\n\nৰক্ষা কৰিব পাৰে।\n\nহঠাতে হোৱা, পৃথিৱীৰ জোকাৰণি বা কঁপনিয়েই হ’ল\n\nভূমিকম্প।\n\nপৃথিৱীৰ খোলাৰ গভীৰ অঞ্চলত হোৱা আলোড়নৰ বাবে\n\nভূমিকম্প হয়।\n\nভূমিকম্পৰ আগজাননী দিয়া সম্ভব নহয়।\n\nপৃথিৱীৰ প্লেটবোৰৰ সীমাস্তৱতী অঞ্চলত ভূমিকম্প হোৱাৰ\n\nপ্রৱণতা বেছি। এই অঞ্চলবোৰক চ্যুতি অঞ্চল বোলে।\n\nভূমিকম্প বিধ্বংসী শক্তি ৰিখ্‌টাৰ স্কেলত জোখা হয়।\n\nৰিখ্‌টাৰ স্কেলত 7 বা তাতকৈ বেছি প্রাৱল্যৰ ভূমিকম্পই\n\nজীৱন আৰু সম্পত্তিৰ বিস্তৰ ক্ষতি কৰিব পাৰে।\n\n১ ভূমিকম্পৰ পৰা নিজকে ৰক্ষা কৰিবলৈ প্ৰয়োজনীয়\nসাৱধানতা অৱলম্বন কৰিব লাগে।\n\n€)  )\n\n) ৫)\n\n)  |\n\n১) ৬)\n\n€\n\n_ কিছুমান প্রাকৃতিক পৰিঘটনা / 90; [খ/][00২/], [শন \"খ0\"খ1চ;খ/%                                                                                  160)",
+  "confidence": {
+    "word_count": 193,
+    "mean": 86.73,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.032,
+  "page_elapsed_seconds": 3.334,
+  "peak_process_tree_rss_bytes": 312561664,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

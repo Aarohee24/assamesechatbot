@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্রাচীন কালত মানুহে প্রাকৃতিক পৰিৱেশতেই নিজকে খাপ খুৱাই চলিছিল। প্রকৃতিৰপৰা পোৱা\nগছৰ ফল-মূল খাইছিল,গছৰ বাকলি পিন্ধিছিল আৰু গুহা বা গছৰ খোৰোং আদিত বাস কৰিছিল। কিন্তু\nসময়ৰ লগে লগে মানুহৰ প্রয়োজন বাঢ়ি আহিল। মানুহে খেতি কৰিবলৈ আৰম্ভ কৰিলে, ঘৰ-দুৱাৰ\nসাজিবলৈ শিকিলে অধিক উৎপাদন কৰি বিভিন্ন উদ্যোগ গঢ়ি তুলিলে। তদুপৰি যোগাযোগ আৰু\nযাতায়াত ব্যৱস্থাও সুচল কৰি তুলিলে ৷ প্রাকৃতিক পৰিৱেশৰ উপাদান, অৰ্থাৎ সম্পদসমূহ ব্যৱহাৰ কৰি\nঘৰ-দুৱাৰ, ৰাস্তা-ঘাট,দলং, উদ্যান আদি নিৰ্মাণ কৰিলে৷ এনেকৈ মানুহে নিজৰ প্রয়োজন অনুসৰি নতুন\nকৌশল প্রয়োগ কৰি নিৰ্মাণ কৰি যোৱাৰ ফলত কৃত্ৰিম পৰিৱেশৰ সৃষ্টি হয়। এইবোৰেই হৈছে মানৱসৃষ্ট\nপৰিৱেশৰ উপাদান ।\n\nতৈয়াৰ কৰা হয়। উদাহৰণস্বৰূপে, ৰাস্তা-খাট সাজিবলৈ প্রয়োজন হোৱা শিল, বালি,\nআল্কতৰা আদি প্ৰকৃতিৰ একো একোটা উপাদান। মানুহৰ এই কাৰ্যৰ ফলত এফালে\nমানৱসৃষ্ট পৰিৱেশৰ উন্নতি হৈছে যদিও আনফালে প্ৰাকৃতিক উপাদানসমূহৰ অত্যধিক\nব্যৱহাৰে সংকটৰ সৃষ্টি কৰিছে।\n\nপ্রাকৃতিক পৰিৱেশ\n> ওপৰৰ ছবি দুখন ভালদৰে পৰ্যৱেক্ষণ কৰি প্রাকৃতিক পৰিৱেশ আৰু মানৱসৃষ্ট পৰিৱেশৰ মাজত\nকি কি পাৰ্থক্য দেখিছা লিখা।\n\nপ্রাকৃতিক আৰু মানৱ সৃষ্ট পৰিৱেশৰ মাজত এক সঠিক ভাৰসাম্য ৰক্ষা কৰাটো অতি প্রয়োজন।\nআমি প্রাকৃতিক পৰিৱেশৰ সম্পদসমূহ উচিত ব্যৱহাৰ কৰিলেহে এটা সুস্থ পৰিৱেশ গঢ়ি উঠিব।\nসেইবাবে আমি আমাৰ প্রাকৃতিক সম্পদসমূহৰ সঠিক ব্যৱহাৰ আৰু সংৰক্ষণ কৰি আমাৰ ভৱিষ্যৎ\nপ্ৰজন্মৰ বাবে চিন্তা কৰা উচিত।\n\n৭.",
+  "confidence": {
+    "word_count": 189,
+    "mean": 90.56,
+    "median": 96.09,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.619,
+  "page_elapsed_seconds": 4.415,
+  "peak_process_tree_rss_bytes": 232697856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

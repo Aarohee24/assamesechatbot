@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী\n\n১ ।উত্তৰলিখা--\n(ক) সামাজিক সমস্যা বুলিলে কি বুজা ?\n(খ) সমাজত একতা গঢ়ি তোলাত কোনবোৰ গুণৰ প্ৰয়োজন হয়?\nগে) সামাজিক সমস্যাবোৰকিকি?\n(ঘ) সামাজিক সমস্যা সৃষ্টিত কোনবোৰ কাৰকে অৰিহণা যোগায়?\n\n২ ।খালী ঠাই পূৰ কৰা---\n(ক) আমি সকলোৱে ------- পাতি বাস কৰোঁ।\n(খ) --------হ’ল সমাজৰ এক শ্ৰেণীৰ মানুহৰ এক ভুল ধাৰণা।\n(গ) সমস্যা দীৰ্ঘদিনলৈ বৰ্তি থাকিলে সমাজত --------- সৃষ্টি হয়।\n(ঘ) ৰাইজৰ সচেতনতা আৰু --------নহ’লে কোনো সমস্যা সমাধান নহয়।\n(৬) লিখা-পঢ়ানজনা লোককে ------- লোক বোলে।\n৩ ।‘ক’অংশৰ লগত ‘খ’অংশ মিলোৱা ---\n\n‘ক’                                                                    ‘্খ’\nঅন্ধবিশ্বাসৰ কোনো                                                             শিশু শ্রমিকৰ সৃষ্টি হয়।\nপৰিয়ালৰ আৰ্থিক অনাটনৰ বাবে               সামাজিক সমস্যা।\nঅন্ধবিশ্বাস,লিংগ-বৈষম্য,শিশু-শ্রমিক আদি                       বৈজ্ঞানিক ভিত্তি নাই।\n\n৪ ।অশুদ্ধ বাক্যবোৰ শুদ্ধকৈ লিখা--\n(ক) গাঁও পঞ্চায়ত আৰু বিভিন্ন স্বেচ্ছাসেৱী সংগঠনসমূহে সামাজিক সমস্যাবোৰ সমাধানত\nসহায় কৰিব পাৰে।\n(খ) কু-সংস্কাৰৰপৰা সমাজৰ ক্ষতি হয়।\n(গ) লিংগ-বৈষম্য হ’ল সমাজৰ এটা সমস্যা।\n(ঘ) নিৰক্ষৰতাই সমাজৰপৰা অন্ধবিশ্বাস আৰু কু-সংস্কাৰ দূৰ কৰিব পাৰে।\n(৬) টকা-পইচাৰ অভাৱ হ’লে ল’ৰা-ছোৱালীবোৰক শ্রমিক সজাই উপাৰ্জন কৰিবলৈ\nদিব লাগে।\n৫ ।চমুটোকা লিখা --\n(ক) অন্ধবিশ্বাস          (খ) কু-সংস্কাৰ        (গে) যৌতুক।\n৬ । সামাজিক সমস্যা সমাধানত একতাৰ ভূমিকা কি লিখা ৷\n\nৰকৰ₹কৰ₹কক₹",
+  "confidence": {
+    "word_count": 170,
+    "mean": 83.59,
+    "median": 92.13,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.672,
+  "page_elapsed_seconds": 2.919,
+  "peak_process_tree_rss_bytes": 245694464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

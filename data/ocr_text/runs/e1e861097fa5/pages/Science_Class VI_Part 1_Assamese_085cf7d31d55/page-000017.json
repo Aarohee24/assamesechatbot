@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চৰায়ে বাৰু কিয় শুই থকা অৱস্থাৰ দৰে উৰে? তেনেদৰে উৰিলে বতাহৰ বাধা কম\nপাব। এয়া হ’ল আনুমানিক সিদ্ধান্ত। গতিকে পৰ্যবেক্ষণৰ পিচত ঘটনা সম্বন্ধে আনুমানিক\nসিদ্ধান্ত কৰিব লাগে। শেষত সিদ্ধান্তটো শুদ্ধ নে অশুদ্ধ পৰীক্ষা কৰিব লাগে। এনেদৰে\nসত্যত উপনীত হ’ব পাৰি। এনে সত্যই হ’ল জ্ঞান।\n\nপৰ্যৱেক্ষণ, আনুমানিক সিদ্ধান্ত আৰু পৰীক্ষা - এই পৰ্যায়কেইটাৰ সমষ্টিয়েই হ’ল\nবিজ্ঞানসন্মত পদ্ধতি। এই পদ্ধতিৰ জৰিয়তে আমি জ্ঞান লাভ কৰিব পাৰোঁ।\n\nবিজ্ঞানসন্মত পদ্ধতি কেবল বিজ্ঞানীৰ বাবেই নহয়- ই সকলোৰে বাবে। আনকি\nনভবাকৈয়ে বিভিন্ন পৰ্যায়ৰ মানুহেও এই পদ্ধতি মানি চলো ৷ উদাহৰনস্বৰূপে তোমাৰ চাইকেলৰ\nচকাত বায়ু নোহোৱা হ’লে চাইকেল ভাল কৰা কাৰিকৰৰ ওচৰলৈ নিয়া। তেওঁ চকা ফুটা বুলি\nঅনুমান কৰে। লগে লগে টিউবটো পানীৰ চৰিয়াত ৰাখি ফুটা থকাটো প্রমাণ কৰে। অৱশেষত\n\nএকেদৰে তোমাৰ জ্বৰ উঠিলে মাৰা-দেউতাৰাই ডাক্তৰৰ ওচৰলৈ নিয়ে। বিভিন্ন\nবেমাৰৰ বাবে জ্বৰ হ’ব পাৰে। ডাক্তৰে তোমাক পৰ্যৱেক্ষণ কৰে। লগে লগে লক্ষণৰ পৰা কি\nবেমাৰৰ বাবে জ্বৰ উঠিছে অনুমান কৰে। পাছত তেজ আদি পৰীক্ষা কৰি প্রকৃত বেমাৰটো ধৰা\nপেলায়।\n\nচিত্র 1.7; চিকিৎসকে স্কাহ্য পৰীক্ষা কৰিছে",
+  "confidence": {
+    "word_count": 157,
+    "mean": 91.71,
+    "median": 95.8,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.754,
+  "page_elapsed_seconds": 3.109,
+  "peak_process_tree_rss_bytes": 298471424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 89,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্ৰশ্নকৰ্তা ঃ এই অদম্য সাহস আৰু মনোবলৰ বাবে আপুনি সঁচাকৈয়ে প্ৰশংসাৰ পাত্ৰ। আপোনাক\nঅশেষ ধ্ন্যবাদ।\n\nজুলী বৰুৱা ঃ ধন্যবাদ।\nসংগ্ৰামজ্যোতি চৌধুৰী (৩)\n\nগুৱাহাটীত থকা সংগ্রামজ্যোতি চৌধুৰী জীৱন সংগ্ৰামৰ এগৰাকী অক্লান্ত সৈনিক। তুলিকাৰ\nযাদুৰে একোটা বিষয়ক জীৱন্ত কৰি তোলা সংগ্ৰামজ্যোতি এজন মুকবধিৰ যুৱক। তেওঁ এখনৰ\nপাছত আন এখন চিত্ৰ বৰ্ণময় আৰু প্ৰাণৱন্ত ৰূপত অংকন কৰি নিজৰ বিৰল প্ৰতিভাৰ পৰিচয়\nদিছে। তেওঁৰ প্ৰতিভাৰ উমান ল’বলৈ আমি তেওঁৰ মাতৃৰ সহায় ল’ব লগা হৈছিল।\n\n‘গুৱাহাটীৰ আটিষ্ট গীন্ড’ত তেওঁ চাৰূকলাৰ পাঁচবহৰীযা্্নীমা ল্ঃমঘছাৰ পাছত\nনিজাববীয়াকৈ ‘চিত্ৰাংকন কলাকেন্দ্ৰ’ খোলে। তাত তেওঁ চিত্ৰকলাৰ শিক্ষাদান কৰে।\nসংগ্ৰামজ্যোতিক সফল চিত্ৰশিল্পী\nহিচাপে গঢ় দিয়া আৰু প্রতিষ্ঠা\nকৰাত মাতৃ শ্ৰীমতী আইমণি\nচৌধুৰীৰ ভূমিকা অপৰিসীম।\nসংগ্ৰামজ্যোতিয়ে এতিয়ালৈকে   ।\nবিভিন্ন চিত্ৰাংকন প্রতিযোগিতাত [৷\nঅংশগ্ৰহণ কৰি সৰ্বভাৰতীয় টু\nপৰ্যায়ত অনেক বঁটা লাভ কৰিছে।\nআনহাতে, পঞ্চম ভাৰতীয় কলা\nপ্রতিযোগিতাত দিব্যাংগসকলৰ\nজীৱন সমৃদ্ধিৰ শিতানত তেওঁ প্রথম পুৰস্কাৰ লাভ কৰে। তদুপৰি, ৰাষ্ট্ৰীয় সংহতিক কলাৰ\nমাধ্যমত মূৰ্ত কৰিবলৈ আয়োজিত কৰা কলা প্ৰদৰ্শনীত অংশগ্ৰহণ কৰি তেওঁ ভূয়সী প্রশংসা\nঅৰ্জন কৰিছে।\n\nতেওঁৰ কলাকৃতিয়ে আন্তঃৰাষ্ট্ৰীয় পৰ্যায়তো বিশেষকৈ জাপান, ফ্ৰান্স আদি দেশত সমাদৰ\nলভিবলৈ সক্ষম হৈছে।\n\nসংগ্ৰামজ্যোতিৰ প্রবল আত্মবিশ্বাস আৰু অতুলনীয় কলা-কীৰ্তিত আমি সকলো গৌৰাৱান্বিত।",
+  "confidence": {
+    "word_count": 172,
+    "mean": 87.9,
+    "median": 94.22,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 45 diacritics",
+        "Detected 45 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.417,
+  "page_elapsed_seconds": 4.72,
+  "peak_process_tree_rss_bytes": 289898496,
+  "tesseract_warnings": [
+    "Detected 45 diacritics",
+    "Detected 45 diacritics"
+  ],
+  "processed_this_run": true
+}

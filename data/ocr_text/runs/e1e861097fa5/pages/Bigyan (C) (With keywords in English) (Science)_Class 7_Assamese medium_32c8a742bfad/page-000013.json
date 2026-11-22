@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আগকথা\nপাতনি\n\nঅধ্যায় 1\nউদ্ভিদৰ পৰিপুষ্টি (খচ]1 001) ০11১10109)\n\nঅধ্যায় 2\nপ্রাণীৰ পৰিপুষ্টি (খ৷৷]100]] 11] /1]}111815)\n\nঅধ্যায় 3\nআঁহৰ পৰা কাপোৰলৈ (10610 [786110)\n\nঅধ্যায় 4\nতাপ ([]680)\n\nঅধ্যায় 5\nঅন্ন, হ্ষৰক আৰু লৱণ (/*০1৫৪, 38869 8110 58109)\n\nঅধ্যায় 6\nভৌতিক আৰু ৰাসায়নিক পৰিৱৰ্তন (])]19108] 81101 0\"])2110108| 0:]18016629)\n\nঅধ্যায়?\nবতৰ, জলবায়ু আৰু জলবায়ুৰ লগত প্রাণীৰ অভিযোজন (দ॥০৪121, €\"]]1]186 9110\n/১0812708010118 01 /%*1]11]18|8 (0 (:]]111]18(2)\n\nঅধ্যায় 8\nবতাহ, ধুমুহা আৰু ঘৃ ্ণবতাহ ('ঘ11109, ৪0011]5 8170 (:%৮০101069)\n\nঅধ্যায় 9\nমাটি (9011)\n\nঅধ্যায় 10\nজীৱৰ শ্বাস-প্রশ্থাস (২০৪[)[!8|01] 1) 01881]191])\n\n11\n\n24\n\n35\n\n49\n\n58\n\n68\n\n80\n\n96\n\n108",
+  "confidence": {
+    "word_count": 94,
+    "mean": 68.47,
+    "median": 89.52,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9997,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.94,
+  "page_elapsed_seconds": 2.17,
+  "peak_process_tree_rss_bytes": 297811968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

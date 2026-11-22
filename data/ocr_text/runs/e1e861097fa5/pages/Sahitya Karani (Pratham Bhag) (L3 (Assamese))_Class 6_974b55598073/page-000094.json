@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 94,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\n\nবাথৌ পূজা-- বড়োসকলৰ ঘাই দেৱতা বাথৌ। বাথৌ পূজাত খেৰাই নাচ নাচে।\nকৰম পূজা -- কৰম পূজা আদিবাসীসকলৰ উৎসৱ ৷ বলন্মুৰ নাচ আদিবাসী সকলৰ\nদলীয় নাচ।\nআলি-আয়ে-লৃগাং -- আলি-আয়ে-লৃগাং মিচিংসকলৰ কৃষি উৎসৱ। এই উৎসৱত\nএনিতম গাই গোমৰাগ নাচে।\n\nইদ     -_ ঙ্ট্দ মুছলমানসকলৰ পৱিত্ৰ উৎসৱ। ই্ীদত সমূহীয়া নামাজ পঢ়া\nহয়। ইজনে-সিজনক ষ্টদ-মোবাৰক জনায়।\n\nবৰদিন    --- বৰদিন যীশুৰ ওপজা দিন। বৰদিনত সমূহীয়া উপাসনা কৰা হয়।\nইজনে সিজনৰ কুশল কামনা কৰে।\n\n১। পঢ়া।\nবিহু          চাকি           ইদ          কঙালী টঙালি\nউৰুকা       ভোগালী পেঁপা কপৌ        যীশু\nবাথৌ           পোহৰ          নামাজ  উপাসন৷ বিহুৱান\n২। বাক্য সাজা।\nবিহু         ই্দ         ৰং          বৰদিন\n\n৩। বাকচৰ পৰা শব্দ আনি শুদ্ধকৈ খালী ঠাইত বহুওৱা।\n\n(ক) যীশুৰ ওপজা দিনটো       হিচাপে পালন কৰা হয়    ণকুৱা\n(খ) কৰমপূজ৷            সকলৰ উৎসৱ।            দিবাসী সদ\n(গ) মুছলমানসকলৰ প্রধান উৎসৱ           !\n\n(ঘ) ৰঙৰ উৎসৱ            |                  বাথৌ বৰদিন\n(৬) বড়োসকলৰ ঘাই দেৱতা            ।\n\nমম” পাঠত পোৱা শব্দবোৰ নিজৰ ভাষাত ক'ব।\n\n       ও নিৰীন্ষ্ণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 145,
+    "mean": 81.51,
+    "median": 92.65,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.735,
+  "page_elapsed_seconds": 3.008,
+  "peak_process_tree_rss_bytes": 247803904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

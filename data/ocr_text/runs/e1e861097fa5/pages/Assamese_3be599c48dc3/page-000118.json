@@ -1,0 +1,67 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 118,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শ্ৰীমতী ললিতা ভুঁঞা, প্ৰৱক্তা, জিলা শিক্ষা আৰু প্রশিক্ষণ প্রতিষ্ঠান, নলবাৰী\nশ্ৰীঅঞ্জন বৰা, জেষ্ঠ প্ৰৱক্তা, আৰু প্ৰশিক্ষণ প্ৰতিষ্ঠান, নগাঁও\nভ্ৰীবীৰেণ ভট্টাচাৰ্য, জেষ্ঠ প্রবক্তা জিলা শিক্ষা আৰু প্ৰশিক্ষণ প্রতিষ্ঠান, কামৰূপ\n\nপৰিবেশ অধ্যয়ন\nড’* সুমনা ৰয়, ৰাজ্যিক শিক্ষা গৱেষনা আৰু প্ৰশিক্ষণ পৰিষদ, অসম, কাহিলিপাৰা\n\nশ্ৰীমতী মিতালী মহন্ত, প্রৱক্তা, জিলা শিক্ষা আৰু প্ৰশিক্ষণ প্ৰতিষ্ঠান, কামৰূপ\n\nবিজ্ঞান\nশ্ৰীমতী ভাৰতী ফুকন, অৱসৰপ্ৰাপ্ত শিক্ষা বিষয়া, অসম মাধ্যমিক শিক্ষা পৰিষদ\n\nভ্ৰীঅলকেশ দত্ত, জ্যেষ্ঠ প্ৰৱক্তা, জিলা শিক্ষা আৰু প্রশিক্ষণ প্রতিষ্ঠান, নগাঁও\nশ্ৰীমতী ডেইজী গগৈ, জেষ্ঠ প্রৱক্তা, জিলা শিক্ষা আৰু প্ৰশিক্ষণ প্রতিষ্ঠান, কামৰূপ\n\nসমাজ অধ্যয়ন\nশ্ৰী গণেশ গোস্বামী, অৱসৰপ্ৰাপ্ত জ্যেষ্ট প্ৰৱক্তা, জিলা শিক্ষা আৰু প্ৰশিক্ষণ প্ৰতিষ্ঠান, বৰপেটা\n\nডঃ অজন্তা ব্ৰহ্ম, ৰাজ্যিক শিক্ষা গৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ, কাহিলিপাৰা, অসম\nশ্ৰীমিতালী বৰা, শিক্ষক, নমাৰ্ল স্কুল, নগাঁও\n\nসহায়ক গোট\n\nভ্ৰীজয়চন্দ্ৰ লহকৰ\n\nশ্ৰাহৰমোহন ডেকা\n\n্ৰীমৃদুল শৰ্মা\n\nশ্ৰীমতী নিশা ইংতি ৰংহাং\n\nডিটিপি\n\nব্ৰধ্ৰুৱজ্যোতি ঠাকুৰীয়া\n\nভ্ৰীবিশ্বজিত চৌধুৰী\n\nছু\n\nআমি বিদ্যালয়লৈ\nৰা ভাল পাও\nৰ",
+  "confidence": {
+    "word_count": 138,
+    "mean": 83.73,
+    "median": 94.08,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 52 diacritics",
+        "Detected 52 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.409,
+  "page_elapsed_seconds": 2.619,
+  "peak_process_tree_rss_bytes": 269541376,
+  "tesseract_warnings": [
+    "Detected 52 diacritics",
+    "Detected 52 diacritics"
+  ],
+  "processed_this_run": true
+}

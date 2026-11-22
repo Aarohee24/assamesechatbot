@@ -1,0 +1,62 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 91,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "\"||\n\nটল’ ্ ৮।ক)বাকচটোৰভিতৰৰ কথাখিনি পঢ়ি তলৰ দফাটোৰ খালী ঠাইবোৰ পূৰ কৰোঁ\n\nআহা--                               ১=\nপিতৃৰ নাম _; ৰাধিকা প্রসাদ বৰুৱা\nজন্ম    $ ১৯০৪ খ্ৰীষ্টাব্দ          র্্ল   হু\nৰচনা কৰা পুথিঃ লখিমী, খেল ভঙা খেল, সোণৰ | | ,           ণ্\nসোলেঙ, লুইত, ময়াপী, গুণগুণনি, | |<.\nসমিধান, ৰূপকৌৱৰৰ কথা, সুৰ,| !-= = <“\nচানেকী, জোনাকী মেল ইত্যাদি।\nমৃত্যু    £ ১৯৬৪ খ্ৰীষ্টাব্দ\nপাৰ্বতি প্রসাদ বৰুৱাৰ জন্ম হৈছিল       খীষ্টাব্দত\nজিলাত। তেখেতৰ পিতৃৰ নাম আছিল         আৰু\nমাতৃৰ নাম আছিল          ৷ তেখেতে\n\nইত্যাদি পুথি ৰচনা কৰিছিল। অসমীয়া সাহিত্য-সংস্কৃতিলৈ\nতেখেতৰ অৰিহণা যথেষ্ট গুৰুত্বপূৰ্ণ৷ ১৯৬৪ খ্ৰীষ্টাব্দৰ ৭ জুনত তেখেতৰ __\n__ হয়। তেখেত, গীতিকবি হিচাপে জনাজাত।\nবিঃদ্ৰপাৰ্বতি প্রসাদ'ৰূৰুৱাই নিজৰ নামটো ওপৰত দিয়া ধৰণে লিখিছিল।\n\nখ) তলত দিয়া তথ্যখিনিৰপৰ৷ ওপৰত দিয়াৰ দৰে ৰাণী গাইডিনলিউৰ বিষয়ে এটি\n\nটোকা লিখ৷--\nনাম     £ ৰাণী গাইডিনলিউ\nপিতৃৰ নাম ঃ লুমুৰাংগৰ\nমাতৃৰ নাম ঃ কেথৰনলিউ\nজন্ম    $ ২৬ জানুৱাৰী, ১৯১৫ খ্ৰীষ্টাব্দ\nজন্মস্থান    ঃ লংগাকৰ, মণিপুৰ\nকৰ্ম      ঃ ভাৰতৰ স্বাধীনতা সংগ্ৰাম অংশগ্ৰহণ।\nমৃত্যু    £ ১৭ জানুৱাৰী, ১৯৯৩ খ্ৰীষ্টাব্দত\n\nঅধ্যায় ৬ ঃ জীৱনী",
+  "confidence": {
+    "word_count": 1,
+    "mean": 43.49,
+    "median": 43.49,
+    "minimum": 43.49,
+    "maximum": 43.49
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.981,
+  "page_elapsed_seconds": 5.056,
+  "peak_process_tree_rss_bytes": 223436800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

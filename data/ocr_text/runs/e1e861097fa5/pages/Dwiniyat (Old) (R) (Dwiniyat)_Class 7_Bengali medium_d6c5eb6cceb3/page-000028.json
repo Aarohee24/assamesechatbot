@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত         ২৩\n\nমুছেহ করা বৈধ। আর যে ক্ষেত্রে উভয় মোজা টোটা হইবে এবং উভয়\nটোটার সমষ্টি তিন অঙ্গুলীর স্থান বরাবর হইবে, তখনও বৈধ কিন্তু যে কোন\nএক মোজার টোটা কিছুতেই তিনি আঙ্গুলীর স্থান বরাবর নহে এক্সপ ক্ষেত্রে\nমোছেহ করা বৈধ।\n\nহকিকি নাজাসত এবং উহার শবিত্ৰতা সম্পৰ্কে\nঅবশিষ্ট মোসলামালা\n\nপ্র ঃ-চামড্ার জিনিষ যেমন মোজা, জুতা, বিছনার উষার ইত্যাদিতে\nযদি দেহ বিশিষ্ট নাজাসত লাগিয়া যায় তবে উহার পাক করার পদ্ধতি কি?\n\nউ ঃ--ভূমি অথবা অপর কোন কিছুর উপর ঘৰ্যণ দিলে পাক হইয়া\nযাইবে যদি ধৰ্ষণ দ্বারা নাজাসতের চিহ্ন এবং দেহলোপ পায়।\n\nপ্ৰ ঃ$-_- এই সব জিনিষের মধ্যে যদি প্ৰসাব, সুরা কিংবা অনুক্লপ কোন\nতন্নল নজাসত লাগিয়া যায় তবে কি ভাবে পাক হইবে?\n\nউ £-- পানী অথবা প্ৰবাহমান কোন বস্ত দ্বারা নাজাসতের চিহ্ন মিশিতে\nপারে, ধৌত করিলে পাক হইবে। অথাৎ দেহ বিশিষ্ট নাজাসত ব্যতিত অন্য\nকোন নাজাসত অথবা অনুক্লপ শত্তু কোন জিনিষের মধ্যে নাজাসত লাগিয়া\nগেলে তাহা পাক করার প্ৰকৃষ্ট উপায় হইল ধৌত করা।\n\nপ্ৰ £-_ চাকু, ছুরি, তরবারী অথবা লোহার কোন বস্তু কিংবা রস্লপা অথবা\nতামার বস্তু না পাক হইলে ধৌত করা ব্যতিরেকে পাক হইবে কি?\n\nউ ঃ--লোহার জিনিষ যখন পরিষ্কার হইবে উহাতে কোন মন্লিচিক|\nঘাকিবেনা র্ল্পা, সোণা, তাম্ৰ, পিতল ইত্যাদি ধাতৃ জাতীয় দ্রব্যের মধ্যে এবং\nসীসা, হাতীর দাঁত অথবা হাড়, চিনা মাটির বানন ইত্যাদি যখন পরিষ্কার থাকিবে\nউহাতে মনিিটিকা থাকিবেনা অথচ যখন কাক্লকাৰ্য খচিত হঁইবেনা তখন এই\nক্লপে ঘৰ্বণ দিতে হয় যায় দ্বারা নাজাসতের চিহ্ন লোপ পায়।\n\nপ্ৰ ঃ কাকুকাৰ্য খচিত না হণওয়ার অৰ্থ কি?\n\nউ ঃ-_ কোন বস্তর দেহে এই কর্ল্প চিত্ৰ না আঁকা যাহার মধ্যে উচ্চতা\nনিম্বতা ব্লহিয়াছে। কারণ এইক্লপ চিত্ৰে ঘৰ্ষণ দিলেও দেণ্ডয়ার পর নাজাসত\nলাগিয়া থাকে তবে শুধু রং দ্বারা প্রস্তুত চিত্র হয় তবে তাহার ঘৰ্ষণ দিলে\nপাক হয়।",
+  "confidence": {
+    "word_count": 272,
+    "mean": 84.64,
+    "median": 92.16,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 3.143,
+  "page_elapsed_seconds": 3.315,
+  "peak_process_tree_rss_bytes": 250249216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

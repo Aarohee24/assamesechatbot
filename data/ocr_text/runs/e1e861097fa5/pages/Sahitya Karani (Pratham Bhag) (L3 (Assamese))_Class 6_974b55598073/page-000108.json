@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\nবনত থকা -- বনৰীয়া\nঘৰত থকা -- ঘৰচীয়া\nমানুহে পোহা -= পোহনীয়া\nমাটি আৰু পানী উভয়তে থকা --উভ\nপানীত চৰা -- জলচৰ\n\n৮। তুমি জনা সাধু এটি কোৱা।\n\n৯। দলত আলোচনা কৰি কাউৰী, মেকুৰী, কুকুৰ, গৰু, ছাগলী আদিয়ে আমাৰ কি কি\nউপকাৰ কৰে কোৱা।\n১০। বাকচৰ পৰা শব্দ আনি খালী ঠাই পূৰ কৰা।\n\n‘গাঁতত, অৰণ্যত, গোহালিত,গছত\n\nউদাহৰণ- মাছ পানীত থাকে।\n(ক) সিংহ\n\nথাকে।    (গ) কাউৰী ---- থাকে।\n\n(খ) শহা-পহু-__-থাকে। ঘে) গৰু ----থাকে।",
+  "confidence": {
+    "word_count": 74,
+    "mean": 86.56,
+    "median": 93.13,
+    "minimum": 0.0,
+    "maximum": 96.86
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 1.776,
+  "page_elapsed_seconds": 2.007,
+  "peak_process_tree_rss_bytes": 233320448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

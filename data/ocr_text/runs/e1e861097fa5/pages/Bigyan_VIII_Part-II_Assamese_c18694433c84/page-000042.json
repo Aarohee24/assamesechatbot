@@ -1,0 +1,63 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 42,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "4৮1199118              116]180], ঘখ]]0] ০০%, [,60]281\"0], €8]2|]১60 1]101)]৬67, ছখ]]] ০৪0, 81]0ছম 10118,          ]ং91710])(][2[\"0)\n1]100100 81000]\n130191]6                 %[001108]1] 509, }]]]]8]9্798 ]১|00; ০681, }]1001009 $]11212017, [,68{1]]101]67         68009, &\n]<৪81111789711}\n1১66001 1]           1)112612010{ 07]7698. 01 1]0]]81'80007. 11109, 121]20181]])[ ঘ]1810118 ]716]2]101]08 | ]খ৪]]ন10]>(]/[6[1\"0)\n1692190]1.,\n1১6])98]1                1100099 [[01]19), 8]]) [%[01)]€), /১৪৪৪11]1696 1[৪০৪৭০, [২])6809 ]/[৭০৪]৮6০,       1315ঘ91180]]\n]116]]181](, 1)]ঘ]116 [)00]ং, }}€61189] '][1821,5911]091\" ৫62০1 202.\n110209560 ক্ষম]]0]]6 ৪91)0001168\n1১01001]2917]          ্৪1]008 []269 01 ]]]81.8001\"7 ]311\"09, 01109 61.                                     ],8]]]}1]]201,\n0]]1] 011]                                                                                                                 1)]120]9]]\n]বৈ00]) 1910]          ]1|2])]180]0, '[18219, ]10]]00 00001], 08020260 1.81]801\" 612.                        10101\n4%811810118                                                                                                                 4%8810118\n\n৬1101) [১€10'%% 0116 [7\"0060060 81\"68.9 9100] 1\"6921\"6৫0 01690 0{ /১৬৪৪1]]\n\nলচ,\n/২া[২0াখ-৫0ন.,1.,[']১])['=]]                                     10}        ])03\n\nচি ৪০ 170000010101\n\n\"=\n4 ন              2-} 3৭0.91\n|]\n\nৱো\n\"\"-\" ৭২00 ন/%][,\n\n][ঠা]0্]]/%খ\n\n]\"[২/1)চ'5]]\n101191129][)31\" (*11)1)011\nডু                                                                                                     তখৈ&০-৯1./&1খা)\nখ][/খা[”0)[২,\n,১}}/[]}) (021.10 41![খ. 41, },$],8$ -\n]১2৯খর0],2&1)835]]                                                                = ল্ঞ-=আষ্=\nতল   (মঞ্জ|008] 3 ]ঘ\n|                                                                                        !         \"\nঘ%|10]]/6 ]}/6\n__ জক ৬360091\"9\n১৫   ;   ক% প[]1চ/0াং৫&                      ।;                                      [3]\n[২০৪০৮৮৫৫ \"01691,\nও                                              %][[27.01২.%1}\n| [-ল শঙীল  ]ীছণঃ\n\n৩27;                                                                                                                                                           বিজ্ঞান /9ূ]খ0ূ\"",
+  "confidence": {
+    "word_count": 134,
+    "mean": 27.26,
+    "median": 26.93,
+    "minimum": 0.0,
+    "maximum": 93.29
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2071,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.48,
+  "page_elapsed_seconds": 3.764,
+  "peak_process_tree_rss_bytes": 324947968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

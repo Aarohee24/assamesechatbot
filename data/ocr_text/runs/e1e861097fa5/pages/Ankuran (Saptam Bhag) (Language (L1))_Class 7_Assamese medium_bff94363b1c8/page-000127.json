@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "8।\n\n৫।\n\n৬। কৰিতাটোৰ মূল কথাখিনি গদ্যত প্ৰকাশ কৰা।\n৭। তলৰ দফাত থকা খালী ঠাই পূৰ কৰা।\n\nউত্তৰ দিয়া\n\n(ক) গড়গাঁও কবিতাটি কোনে ৰচনা কৰিছে?\n\n(খ) গড়গাঁও কবিতাটিৰ ৰচকজনক কি কবি বুলি জনা যায়?\n\n(গ) মাৰ-নাও বুলিলে কি বুজা?\n\n(ঘ) কণবিতাটিত বৰ্ণনা কৰা মতে ৰজাৰ আদেশত হোৱা কেইটামান কামৰ উল্লেখ কৰা।\n\n(৬) গড়গাঁৱৰ কথা শুনি তল যাওঁ বুলি কবিয়ে কিয় কৈছে?\n\nচমু উত্তৰ দিয়া।\n\n(ক) ‘দিখৌৰ সোঁতত যোৱা, ভটীয়নী বল পোৱা, উভতিব খোজে মাৰ-নাও’।\n-= মাৰ-নাও উভতিব খোজাৰ কাৰণ কি?\n\n(খ) ‘ওলট্‌-পালট্‌ দেশ, কথাৰে নহয় শেষ, কটাৰীৰো ডাবে তাৰ কাটে’ বুলি কবিয়ে\nকি বুজাব খুজিছে?\n\n(গ) ‘নাই দিন, নাই ৰাতি, নাই পানী, নাই মাটি, আদেশ মাথোন হয় ‘সাজ’\n-= কবিতাফাকিত থকা ‘সাজ’ শব্দই কি বুজাইছে?\n\n(গে) অহা-যোৱা নাই তাত শেষ,\nজনে জনে ভিন ভিন বেশ।\n\n-=- এই কথাফাকিৰ মাজেৰে কবিয়ে কি বুজাব বিচাৰিছে?\n\n(ক) বিদেশীৰ চকু থিৰ, -- ওখ শিৰ,\nঅহা-যোৱা নাই == শেষ;\nজনে জনে == == বেশ।\n\nইচ্ছা -- স্বৰ্গমহাৰাজ।",
+  "confidence": {
+    "word_count": 152,
+    "mean": 91.15,
+    "median": 95.7,
+    "minimum": 21.37,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.385,
+  "page_elapsed_seconds": 2.642,
+  "peak_process_tree_rss_bytes": 286441472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

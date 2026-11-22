@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 135,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা৷ আহৰণ কৰিবলগীয়া অৰ্হতা\n\n৬ পাঠ শুদ্ধ, স্পষ্ট আৰু সলসলীয়াকৈ পঢ়িব পৰা\n\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n\n৩৬ শব্দৰ অৰ্থ জনা\n\n৬ স্কাউট আৰু গাইডৰ মূল কথাখিনি চমুকৈ লিখিব পৰা\n\n৬ উপযুক্ত শব্দৰে বাক্য সম্পূৰ্ণ কৰিব পৰা\n\n৬ বিশেষ্য পদ আৰু গুণবাচক বিশেষ্য পদ চিনাক্ত কৰিব পৰা\n\n৬ বিপৰীত অৰ্থ বুজোৱা শব্দ জনা\n\n৬ একতাৰ বল যে শক্তিশালী, এই কথা উপলব্ধি কৰিব পৰা|\n\n৬ ক্ষেত্র-ভমণৰ টোকা প্রস্তুত কৰিব পৰা\n\n৬ ৰেডিঅ’ আৰু দূৰদৰ্শনৰ বাতৰি শুনা আৰু চোৱাৰ অভ্যাস গঠন কৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nপ্রবন্ধ পঢ়ি      পাঠভিত্তিক প্রশ্নৰ    শব্দৰ অৰ্থ\nবুজি পোৱা | উত্তৰ দিবপৰা | জনা\n\nপ্রবন্ধ পাঠ\n\nব্যাৱহাৰিক | বাক্য সম্পূৰ্ণ |গুণবাচক বিশেষ্য | বুজোৱা শব্দ\n৷  কৰিব পৰা __| পদ চিনাক্ত কৰা লিখা\n\nব্যাকৰণ)\nজ্ঞান  চিঠি পঢ়ি বুজি | বাতৰি শুনা আৰু| পদ্য/কবিতা\nসম্প্ৰসাৰণ  পোৱা  চোৱাৰ অভ্যাস | লিখিব পৰা\nগঠন হোৱা\nক্ষেত্র-ভমণ কৰি\nপ্ৰকল্প  টোকা প্রস্তুত\nকৰিব পৰা\n\n<= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ ১ চিন দিব।",
+  "confidence": {
+    "word_count": 164,
+    "mean": 89.24,
+    "median": 94.69,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.274,
+  "page_elapsed_seconds": 2.538,
+  "peak_process_tree_rss_bytes": 239894528,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

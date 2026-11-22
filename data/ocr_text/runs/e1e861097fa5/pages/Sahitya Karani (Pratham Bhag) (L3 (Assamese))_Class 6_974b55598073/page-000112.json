@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 112,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৪। ভাবৌ আৰু কও আহা --\nঘৰ, দাঁত, পানী, বিহু, কলম ৷\n\n১৫। তোমাৰ পৰিৱেশ পৰ্যবেক্ষণ কৰি চৰাইৰ নামৰ এখন তালিকা কৰা।\n\n১৬। তোমাৰ নিজৰ ভাষাত লিখা।\n\nতোমাৰ নিজৰ ভাষা\n\nঅসমীয়া\nকাউৰী\nনিগনি\n\nহৰিণ\n\nনধীন [হবৰ\n\nজেন ১৪ নং ক্ৰিয়া-কলাপত আকস্মিক বক্তৃতা পাতি বিষয়সমূহ ক’বলৈ দিব।\n\n<_স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 51,
+    "mean": 81.72,
+    "median": 93.46,
+    "minimum": 0.61,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 1.413,
+  "page_elapsed_seconds": 1.623,
+  "peak_process_tree_rss_bytes": 230326272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

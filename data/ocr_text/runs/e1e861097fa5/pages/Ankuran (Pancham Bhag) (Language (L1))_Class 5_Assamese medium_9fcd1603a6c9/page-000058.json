@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ\n\nহী উত্তৰ দিয়া।\n(ক) ‘জোনাকৰ জেউতি’ পাঠটোত কোনে কালৈ চিঠি লিখিছিল?\n(খ) চিঠিখনত লিখা ভাল খবৰটো কি?       ৮-3\n(গ) পুথিভঁৰালটোৰ নাম কি ৰখা হৈছিল?\n(ঘ) পুথিভঁৰালীজনৰ নাম কি?      ত্স্_ =>\n(৬) পুথিভঁৰালটো কোনে উদ্বোধন কৰিছিল?          ,\n(চ) পুথিভঁৰাললৈ দহখন কিতাপ (কোনে দান কৰিছিল?\n(ছ) মুকুটে নিয়ৰক যেনেতেনে পঢ়িবলৈ কোৱা কিতাপ দুখনৰ নাম কি?\n(জ) প্রাচীন ভাৰতৰ বিখ্যাত পুথিভঁৰালটো থকা বিশ্ববিদ্যালয়খনৰ নাম কি?\n\n“ই আমাৰ মনৰ আকাশ পোহৰাই তুলিব বুলি আশা কৰিছোঁ।” এই বাক্যশাৰী\n\n৪\n\n71  বৰ্তমান সময়ত দেশ-বিদেশৰ বা-বাতৰি বিভিন্ন উপায়েৰে পোৱা যায়। তোমালোকে\n:'-*, কি কি উপায়েৰে দেশ-বিদেশৰ খা-খবৰ পোৱা সেইবোৰৰ নাম লিখা।\n\nষ্ট কি কি গুণৰ বাবে নীলকান্ত দাদাক পুথিভঁৰালী পাতিছিল?",
+  "confidence": {
+    "word_count": 104,
+    "mean": 88.93,
+    "median": 95.98,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.879,
+  "page_elapsed_seconds": 3.274,
+  "peak_process_tree_rss_bytes": 244604928,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

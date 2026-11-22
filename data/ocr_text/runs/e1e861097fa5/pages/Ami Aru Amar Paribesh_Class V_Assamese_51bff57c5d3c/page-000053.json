@@ -1,0 +1,67 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মানচিত্ৰখন চাই ব্ৰহ্মপুত্ৰ আৰু বৰাক নৈৰ উপনৈসমূহৰ নাম লিখা|---\nব্ৰহ্মপুত্ৰনৈৰ উত্তৰ দিশে             ব্ৰহ্মপুত্ৰনৈৰদক্ষিণ দিশে         বৰাকনৈৰ উপনৈসমূহ\nথকা উপনৈসমূহ                     থকা উপনৈসমূহ\n\nনদীৰ সুবিধাজনক স্থানত বান্ধ দি জলবিদ্যুৎ উৎপন্ন কৰা হয়। নৈ-উপনৈসমূহৰ বালি ঘৰ-দুৱাৰ,\nৰাস্তা আদি নি্মণিত ব্যৱহাৰ কৰা হয়। নদীৰ দাঁতিকাষৰীয়া অঞ্চল পলস পৰি সাৰুৱা হয় বাবে খেতি\nকৰাৰ বাবে উপযোগী। ব্ৰহ্মপুত্ৰ আৰু ইয়াৰ কিছু উপনৈৰ পানী পাইপৰ সহায়ত জনসাধাৰণৰ\nব্যৱহাৰৰ বাবে যোগান ধৰা হয়। ভূ-পৃষ্ঠৰ পানীভাগৰ\nকাজ, খেতিপথাৰ, উদ্যোগ আদিত ব্যৱহাৰ হোৱা কিছু নল\nপানী ভূ-গৰ্ভৰপৰা আহৰণ কৰা হয়।                       =\n\nনৈ-উপনৈসমূহৰ উপৰি আমাৰ ৰাজ্যখন অসংখ্য\nখাল-বিল, পুখুৰী আদি জলাশয়েৰে ভৰা, যেনে- দীপৰ\nবিল, চান্দডুবি বিল, চামগুৰি বিল, সোণবিল আদি।\nবিভিন্ন বনৰীয়া প্রাণী, চৰাই-চিৰিকটি আদি লাদ! আৰু পানীৰ বাবে এই জলাশয়বোৰত আশয় লৈ\nথাকে। নৈ-উপনৈ, খাল-বিল আদি জলাশয়বোৰে মাছৰ\nচাহিদা পূৰণ কৰে। কিছুমান লোকে মীনপালন কৰিও\nজীৱিকা নিৰ্বাহ কৰে। নৈ-উপনৈৰ চৰ-চাপৰিবোৰত প্রচুৰ\nপৰিমাণে বিভিন্ন ধৰণৰ শাক-পাচলিৰ খেতি হয়।\n৪। কৃষিজ সম্পদ\n\nমাটিৰ গুণাগুণ আৰু বৰষুণৰ ওপৰত নির্ভৰ কৰি\nঅসমত ভিন ভিন খেতি কৰা হয়। গ্ৰীষ্মকালত অসমত\nযথেষ্ট বৰষুণ হয়। এইসময়ত ধান, মৰাপাট, লাও, জিকা,\nভোল, ঠন ্ূৰ্টীবাতি কৰা হয়। আনহাতে শীতকালত বৰষুণ কম হোৱা বাবে ঘেঁহু,\nগোমধান, সৰিয়হ, আলু, ফুলকবি, বৰাবৰ, অৰ ল    ল্‌\nঅসমত মাটিকঁঠাল, কুঁহিয়াৰ, মধুৰিআম, লিচি তব   ৰ\nকল, কমলা, নাৰিকল আদি ফল-মূলৰ উপৰি\nশাক, তামোল-পাণ আদিৰো খেতি কৰা হয়।\nচাহ অসমৰ প্রধান ৰোপণ খেতি। ইয়াৰ উপৰি!\nকফি,ৰবৰ আদিৰ খেতিও কৰা হয়।",
+  "confidence": {
+    "word_count": 214,
+    "mean": 86.64,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 63 diacritics",
+        "Detected 63 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.765,
+  "page_elapsed_seconds": 4.476,
+  "peak_process_tree_rss_bytes": 215887872,
+  "tesseract_warnings": [
+    "Detected 63 diacritics",
+    "Detected 63 diacritics"
+  ],
+  "processed_this_run": true
+}

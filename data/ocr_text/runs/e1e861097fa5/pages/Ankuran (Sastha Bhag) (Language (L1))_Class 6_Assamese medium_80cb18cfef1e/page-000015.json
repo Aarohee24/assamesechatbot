@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\n৬ কবিতা স্পষ্ট আৰু শুদ্ধকৈ পঢ়িব পৰা আৰু আবৃত্তি কৰিব পৰা\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n৬ কবিতাৰ মূলভাব বুজি লিখিব পৰা\nৰু কঠিন শব্দৰ অৰ্থ বুজি পোৱা\n৬ নঞৰ্থক শব্দ জনা আৰু বাক্য ৰচনা কৰিব পৰা\n৬ বিশেষ্য আৰু বিশেষণ পদ বিচাৰি উলিয়াব পৰা|\n৬ যুৰীয়া শব্দ বিচাৰি উলিয়াব পৰা\n\n৬ নিৰ্দিষ্টতাবাচক প্রত্যয়ৰ প্রয়োগ জনা\n\nঙ সাঁথৰ ভাঙিব পৰা\n\n৬ নৱকান্ত বৰুৱাৰ বিষয়ে জনা আৰু তেখেতে ৰচন| কৰা কবিতা সংগ্ৰহ কৰি আবৃত্তি কৰিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nকবিতাটি শুদ্ধ     লাঠভিত্তিক  কবিতাটিৰ\nকবিতা পাঠ    কবিতাটি আবৃত্তি  ভঁ      কবিতাটিৰ কঠিন\nপঢ়িব পৰা কৰিব পৰা  =  পাৰ শব্দৰ অৰ্থ জনা\nভাষা | নঞৰ্থক শব্দ | বাক্য ৰচনা || বিশেষ্য, বিশেষণ | যুৰীয়া শব্দ বাছি | নিৰ্দিষ্টতাবাচক\nঅধ্যয়ন | গঠন কৰিব | কৰিব পৰা  পদ বাছি  উলিয়াব পৰা | প্রত্যয়ৰ প্রয়োগ\n(ব্যাৱহাৰিক  পৰা৷      উলিয়াব পৰা       জনা\nব্যাকৰণ)\nভন  বিভিন্ন কবিতা ৷ সাঁথৰ ভাঙিব  কৰি নৱকান্ত\nপঢ়ি বুজি পোৱা| :_ পৰা  বৰুৱাৰ বিষয়ে\nসম্প্ৰসাৰণ         জানি ক’ব পৰা\nশিশু-কবিতা সংগ্ৰহ\nপ্রকল্প  কৰি আবৃত্তি\nকৰিব পৰা\n\nকৰস অহৰ্তা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ ১ চিন দিব\n\nঅহ'্তা আয়ভ নোহোৱা শিকাৰক অতিৰিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 196,
+    "mean": 85.45,
+    "median": 95.6,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.348,
+  "page_elapsed_seconds": 3.679,
+  "peak_process_tree_rss_bytes": 278659072,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

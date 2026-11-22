@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(৮) পাচন নোহোৱা আহাৰৰপৰা পানীৰ প্রধানকৈ শোষণ হয়--\n(1) পাকস্থলীত (11) খাদ্য নলীত (111) ক্ষুদ্ৰান্তরত (1) বৃহদন্ত্ৰত\n(4) স্তম্ভ 1 ত দিয়া বিষয়বোৰ স্তম্ভ 2ৰ লগত মিলোৱা ঃ\n\nস্তম্ভ |          স্তম্ভ 2\nখাদ্যৰ উপাদান          পাচনৰ ফলাফল\nকাৰ্ব:হাইড্ৰেট           ফেটি এছিড আৰু গ্লিছাৰল\nপ্রটিন              চেনি\nস্নেহ পদাৰ্থ            এমিন’ এছিড\n(5) ভিলাই কি? সেইবোৰৰ অৱস্থিতি আৰু কাৰ্য কি?\n\n(6) পিত্তৰস ক’ত উৎপন্ন হয়? খাদ্যৰ কোনটো উপাদানক ই হজম কৰায় ?\n(7) ৰোমস্থক প্রাণীয়ে ইজম কৰিব পৰা কিন্তু মানুহে হজম কৰিব নোৱাৰা কাৰ্ব হাইড্ৰেটটোৰ নাম লিখা।\nইয়াৰ কাৰণ কি লিখা।\n(8) আমি কিয় গলুক’জৰ পৰা ততালিকে শক্তি পাওঁ?\n(9) তলত দিয়াবোৰ খাদ্যনলীৰ কোনটো অংশৰ লগত জড়িত---\n(৪8) খাদ্যৰ শোষণত ---------===-\n(০) খাদ্য চোবোৱাত -=-------==_\n(০) বেক্টেৰিয়া ধ্বখস কৰাত =====--====\n(0) খাদ্য সম্পূৰ্ণৰূপে হজম হোৱাত -=-=--------\n(০) মল সৃষ্টি হোৱাত --------_\n(10) এমিবা আৰু মানুহৰ পৰিপুষ্টিৰ মাজত থকা এটাকৈ সাদৃশ্য আৰু পাৰ্থক্য লিখা\n(11) স্তম্ভ 1ৰ বিষয়বোৰৰ লগত ত্তম্ভ 2ৰ উপযুক্ত বিষয়বোৰ মিলোৱা-------\n\nস্তম্ভ |                 স্তম্ভ 2\n(৪8) লালটি গ্ৰন্থি                 (৪) পিত্তৰস নিঃসৰণ হয়\n(0) পাকস্থলী                   (৮) পাচন নোহোৱা খাদ্যৰ সঞ্চয়\n(০) যকৃৎ                       (০) লালটি নিঃসৰণ হয়।\n(0) মলাশয়                      (0) এছিড বাহিৰ কৰে।\n(০) ক্ষুদ্ৰান্                      (০) পাচন সম্পূৰ্ণ হয়।\n() বৃহদন্ত                      (0) পানীৰ শোষণ\n(৪) মল ত্যাগ কৰা\n\n21",
+  "confidence": {
+    "word_count": 194,
+    "mean": 85.15,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.695,
+  "page_elapsed_seconds": 2.958,
+  "peak_process_tree_rss_bytes": 308912128,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

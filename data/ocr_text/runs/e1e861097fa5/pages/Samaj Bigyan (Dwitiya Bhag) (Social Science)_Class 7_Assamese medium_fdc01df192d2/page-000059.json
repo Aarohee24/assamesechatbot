@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 59,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী\n\n১।\n২|\n৩।\n৪!\n\n৫\n\nঙ।\n\n|\n\n৮\n\nসম্পদ বুলিলে কি বুজা ? সম্পদৰ প্রধান ভাগ কেইটা আৰু কি কি লিখা।\n‘মানৱ হৈছে শ্ৰেষ্ঠ জৈৰিক সম্পদ।’ যুক্তি দৰ্শাই লিখা (এশমান শব্দৰ ভিতৰত)।\nতুমি জনা প্রাকৃতিক সম্পদসমূহ কি কি? সেইবোৰৰ সংৰক্ষণ ব্যৱস্থা সম্পৰ্কে চমুকৈ লিখা।\nদীৰ্ঘম্যাদী উন্নয়ন বুলিলে কি বুজা? দীৰ্ঘম্যাদী উন্নয়ন কিয় প্রয়োজন লিখা।\nপাৰ্থক্য লিখি উলিওৱা\n(ক) নবীকৰণক্ষম সম্পদ আৰু অ-নবীকৰণক্ষম সম্পদ\nখে) সৰ্বব্যাপী সম্পদ আৰু স্থানভিত্তিক সম্পদ\n(গ) প্রকৃত সম্পদ আৰু সম্ভাৱনাপূৰ্ণ সম্পদ\nশুদ্ধ উত্তৰটোত [পূ চিন দিয়া---\n(ক) সম্পদ হ’বলৈ হ’লে তলৰ কোনটো প্রাসংগিক নহয়?\n(1) পৰিমাণ ]}) প্রয়োজন পূৰাব পৰা সামগ্ৰী (11) ব্যৱহাৰৰ বাবে উপযোগী\n(খ) তলৰ কোনটো মানৱসৃষ্ট সম্পদ নহয়?\n(1) পৰ্বত-পাহাৰ   (1}) থকা ঘৰ  (}}) জলবিদ্যুৎ\n\nতোমাৰ বাসস্থানৰ চৌপাশে থকা প্রাণী আৰু উদ্ভিদবোৰৰ তালিকা প্রস্তুত কৰা আৰু সেইবোৰৰ সংৰক্ষণ কিয়\nপ্ৰয়োজন লিপিবদ্ধ কৰা।\n\nতলৰ তালিকাখনৰ আলমত স্থানীয় সম্পদসমূহৰ সংৰক্ষণৰ পৰিকল্পনা কৰোঁ আহা\n\nসহযোগ লৈ কৰিব?\n\nকূকীৰাক++ূ+ূ+ক",
+  "confidence": {
+    "word_count": 143,
+    "mean": 87.4,
+    "median": 94.68,
+    "minimum": 1.35,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.159,
+  "page_elapsed_seconds": 3.736,
+  "peak_process_tree_rss_bytes": 236675072,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

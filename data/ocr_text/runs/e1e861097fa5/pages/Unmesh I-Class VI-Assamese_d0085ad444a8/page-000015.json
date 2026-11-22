@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "“ঠাৰ ৭ ‘আমাৰ দেশ’ কবিতাটিত দেশমাতৃৰ সৌন্দৰ্য বৃদ্ধিত তলত দিয়া উপাদানসমূহে কেনেদৰে\n\nঅৰিহণা যোগাইছে তাৰ এখন তালিকা প্রস্তুত কৰা--\nউদাহৰণ | নিবিৰাজহিনালয়ে | মুৰৰমুকুট হৈ জেউতিচৰইছে। |\nছয় খাতুৱে\nপাটকাই পৰ্বতে\nলুইতে\nজান-জুৰিয়ে\nপৰ্বত-পাহাৰে\n\n(ৰ ৮।তলত দিয়া শব্দবোৰৰ লগত ছন্দৰ মিল থকা শব্দৰে খালী ঘৰবোৰ পূৰ কৰা---\n\n+ জ্বল ৰ ন\") (৭)\n\n(2) ৯। শব্দৰ খেল খেলোঁ আহা--\n(ক) পদ্যটোত এনেকুৱা এটি ছয় আখৰীয়া শব্দ আছে, যিটোৰ-_\n\nঙ প্ৰথম আখৰ তিনিটা মিলি পৃথিবী বুজায়।\n৬ শেষৰ তিনিটা মিলি সুন্দৰী বুজায়।\n৬ তৃতীয় আৰু ষষ্ঠ আখৰ মিলি মাখন বুজায়। পাঠটিৰপৰা শব্দটো বিচাৰি উলিয়াই লিখা।\n\nআঘথৰঘৰৰৰেেৰেেভভেভেভেেভৌেৌৌৰূক মভতভভভভভৰভৰছৰতৰকৰৰঞৰৰৰৰতৰ",
+  "confidence": {
+    "word_count": 95,
+    "mean": 79.08,
+    "median": 92.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.355,
+  "page_elapsed_seconds": 2.782,
+  "peak_process_tree_rss_bytes": 275107840,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

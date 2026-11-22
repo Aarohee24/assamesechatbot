@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 118,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "| ৷ ষ্ট কেতিয়াবা তুমি এৰাব নোৱৰা পৰিস্থিতিত বাধ্য হৈ মিছা কথা ক'বলগীয়া\n&1_ == হ’ব পাৰে। তেনে পৰিস্থিতিৰ বিষয়ে কোৱা আৰু লিখা।\n\nকবিয়ে কৈছে-- নিজৰ হিয়া-মনৰ মলি\n\nধুই পখালি ল--\nকোৱা আৰু লিখা।\n\n           ২--অন্\n\n৬ তোমালোকৰ বিদ্যালয় আৰু ওচৰৰ অঞ্চলত থকা বিভিন্ন ভাষা-ভাষী লোকৰ মাজত\nকেনেকৈ মিলা-প্ীতি গঢ় লৈ উঠিছে, বৰ্ণনা কৰি টোকা প্রস্তত কৰা। (সম্ভৱ হ’লে\nকাম-কাজৰ ফটো সংগ্ৰহ কৰি সংযোগ কৰিবা৷)\n\n৬ তোমালোকৰ বিদ্যালয় আৰু ওচৰৰ অঞ্চলত বিভিন্ন ভাষা কোৱা লোক আছে।\nসেই ভাষাবোৰৰ এখনি তালিকা প্রস্তুত কৰা। প্ৰতিটো ভাষাৰে দহটাকৈ শব্দ তলৰ\nতালিকাত লিখা।\n\nঅঞ্চলৰ নাম     ভাষাৰ নাম        শব্দ\n\nকভ্স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 98,
+    "mean": 86.65,
+    "median": 95.57,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.517,
+  "page_elapsed_seconds": 2.838,
+  "peak_process_tree_rss_bytes": 242769920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

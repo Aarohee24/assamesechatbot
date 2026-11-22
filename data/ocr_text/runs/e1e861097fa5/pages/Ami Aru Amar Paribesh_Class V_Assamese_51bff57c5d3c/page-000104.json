@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 104,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাৰতবৰ্ষ এখন বিশাল দেশ। ২৮ খন ৰাজ্য আৰু ৮ খন কেন্দ্ৰীয় শাসিত অঞ্চলেৰে আমাৰ\n\nদেশখন গঠিত ৷ নতুন দিল্লী ভাৰতবৰ্ষৰ ৰাজধানী ।\n\nজানিলওঁ আহা--\n\nৰাজ্যৰনাম           ৰাজধানীৰ নাম         ৰাজ্যৰনাম            ৰাজখধানীৰনাম\nঅসম               দিছপুৰ               ত্ৰিপুৰা                আগৰতলা\nঅৰ‘ুণাচলপ্ৰদেশ      ইটানগৰ               কেৰালা               থিৰুৱনন্তপুৰম\nমেঘালয়               শ্বিলং                   কৰ্ণাটক                 বাংগালুৰু\nমণিপুৰ              ইম্ফল                 গোৱা                 পানাজী\nমিজোৰাম            আইজল               গুজৰাট               গান্ধীনগৰ\nনাগালেণ্ড             ক’হিমা                মহাৰাষ্ট               মুম্বাই\nছিকিম                  গেংটক                  মধ্যপ্রদেশ               ভূপাল\nপশ্চিমবংগ            কলকাতা               উত্তৰপ্ৰদেশ             লঙ্কৌ\nবিহাৰ                  পাটনা                   উত্তৰাখণ্ড                ডেৰাডুন\nব্বাড়খণ্ড              ৰচী                  পঞ্জাব                 চণ্ডীগড়\nউৰিষ্যা              ভূৱনেশ্বৰ             হিমাচলপ্রদেশ         চিমলা\nৰাজস্থান              জয়পুৰ                তামিলনাডু             চেন্নাই\n\nকেন্দ্ৰীয় শাসিত অঞ্চলসমূহৰ নাম                      ৰাজধানীৰনাম\n\nআন্দামাননিকোবৰ দ্বীপপুঞ্জ                         প'র্টবেলেয়াৰ\n\nদাদূৰা আৰুনগৰ হাভেলী আৰু দমন আৰুডিউ        দমন\n\nদিল্লী                                                    নতুন দিল্লী\n\nজন্মু আৰু কাশ্মীৰ                                  আ্ৰীনগৰ (্ৰীষ্ম),জন্মু (শীত)\n\nলাক্ষাদ্বীপ                                         কভাটি\n\nপুডুচেৰী                                        পণ্ডীচেৰী\n\nচণ্ডীগড়                                                 চণ্ডীগড়\n\nলাডাখ                                            লেহ",
+  "confidence": {
+    "word_count": 109,
+    "mean": 80.69,
+    "median": 93.35,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.306,
+  "page_elapsed_seconds": 2.545,
+  "peak_process_tree_rss_bytes": 233943040,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

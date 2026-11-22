@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মূল শব্দ-\n\nগছপুলি         জীৱ          পৰ্যৱেক্ষণ\nমুখ্য মূল         গুচ্ছ মূল        সিৰাবিন্যাস\nমধ্যসিৰা        একবীজপত্ৰী      দ্বিবীজপত্ৰী উদ্ভিদ\nগুল্ম                                 ঘৰ                              আৱাসস্থলী\nশ্ৰেণী বিভাজন | | তণজাতীয় উঙ্জিদ | | ৰাষ্ট্ৰীয় উদ্যান\nঅভিযোজন                     জলা                         সমান্তৰাল\n\nজাল সিৰাবিন্যাস    সিৰাবিন্যাস\n\nতোমালোকে কি শিকিলা ?\n*₹ আমাৰ চাৰিওফালে দেখা পোৱা বিভিন্ন প্ৰকাৰৰ জীৱসমূহ জৈৱ-বৈচিত্ৰ্যৰ\nএক অংশ।\n\n* জৈৱ বৈচিত্ৰ্যৰ বাবে পৃথিবীৰ পৰিৱেশৰ ভাৰসাম্যতা ৰক্ষা হৈছে।\n*₹ চৰায়ে অৰণ্যৰ বিস্তাৰণত সহায় কৰে।\n\n*₹ জীৱবোৰক কিছুমান চাৰিত্ৰিক বৈশিষ্ট্যৰ ওপৰত ভিত্তি কৰি শ্ৰেণী বিভাজন\nকৰা হয়।\n\n*₹ , অৰমদ্য, ৰাষ্ট্ৰীয় উদ্যান আদিয়ে জৈৱ বৈচিত্যযত বৰঙণি যোগায়।\n\n৬. জীৱবোৰে কিছুমান কৌশল অৱলম্বন কৰি পৰিৱেশৰ লগত নিজকে খাপ\nখুৱাই ৰাখে।\n\n*₹ জীৱই যি ঠাইত বাস কৰে তাকে জীৱৰ আৱাসস্থলী বোলে।\n$ পৰিৱেশ ভেদে আবাসস্থলী বেলেগ বেলেগ প্রকাৰৰ হয়।\n+\nৰ\n\nআৱাসস্থলী সমূহে জৈৱ-বৈচিত্ৰ্য চহকী কৰে।\nজৈৱ-বৈচিত্ৰ্য অচুত ৰখাৰ বাবে আমি অৰণ্য সংৰক্ষণ কৰিব লাগে।\n\nভমভঞ্ডতেওঁত তত তত তত তত তত তত ০০০০০ ০০০০০ ০০০০০ ০,০০০,38)",
+  "confidence": {
+    "word_count": 144,
+    "mean": 74.78,
+    "median": 91.74,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.661,
+  "page_elapsed_seconds": 2.951,
+  "peak_process_tree_rss_bytes": 355864576,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

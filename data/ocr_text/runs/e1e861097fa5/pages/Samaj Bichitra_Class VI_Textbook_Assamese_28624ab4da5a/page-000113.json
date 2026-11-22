@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্রণালীৰো পৰিৱৰ্তন ঘটে। তোমালোকে নিজৰ পৰিয়ালতে দেখিছা নিশ্চয় কিদৰে আগৰ সমাজখন কৃষিভিত্তিক\nআছিল কাৰণে সকলোৱে একে ঠাইতে যৌথ পৰিয়াল হিচাপে আছিল। পাছলৈ পৰিয়ালৰ সদস্যৰ সংখ্যা বাঢ়ি\nআহে। সেই কাৰণে জীৱিকাৰ বাবে আন ঠাইলৈ গৈ মানুহে বসবাস কৰিবলগীয়া হয়। ইয়াৰ ফলতেই একক\nপৰিয়ালৰ সংখ্যা বাঢ়িবলৈ ধৰে। এনেদৰে একেলগে বাস নকৰিলেও নিজৰ মাজত আত্মীয়তা থকা পৰিয়ালক\nসম্প্ৰসাৰিত পৰিয়াল বুলি কোৱা হয়। পৰিয়ালৰ গাঁথনিৰ মূল ভেটি হ’ল এজনৰ আনজনৰ প্রতি থকা নিস্বাৰ্থ\nমৰম, আদৰ, যত্ন আৰু সন্মান। পৰিয়াল এটাত তিনি প্রকাৰে সদস্য যোগ হ’ব পাৰে- জন্মসূত্ৰে, বিবাহ সূত্ৰে আৰু\n\nদত্তকসূত্ৰে।\n\nচিত্ৰ ১২.৩ কাতিবিহু\n\nতোমালোকে হয়তো মন কৰিছা যে, আমি পালন কৰা উৎসৱ-পাৰ্বণ, ৰীতি-নীতি, কাম-কাজ আদিৰ\nযোগেদি পৰিয়ালৰ এটা প্ৰজন্মই আনটো প্ৰজন্মলৈ সামাজিক আদৰ্শ, মূল্যবোধ, জীৱন-প্রণালী আদি প্রবাহিত\nকৰে। এনেদৰেই আমাৰ পৰিয়ালসমূহে কৰ্মই ধৰ্ম, ত্যাগ, সেৱা, দান আদি আদৰ্শসমূহ অতীজৰে পৰা গ্ৰহণ কৰি\nআহিছে। এনেবোৰ কাৰণতেই ভাৰতীয় পৰম্পৰাত পৰিয়ালৰ ভূমিকাক অতি উচ্চ স্থান দিয়া হৈছে। ইয়াত\nগোটেই বিশ্বকে এটা পৰিয়াল হিচাপে বিবেচনা কৰা হয়। উপনিষদ আৰু হিতোপদেশত এনে ধাৰণাকেই ‘বসুদৈৱ\n\nঅনুশীলনী -১\n১. তলৰ প্রশ্নবোৰৰ উত্তৰ লিখা--\n(ক) পৰিয়াল বুলিলে কি বুজা?\n(খ) পৰিয়াল এটাত সদস্য কি কি প্রকাৰে যোগ হয়?\n(গ) পৰিয়াল এটা সুচাৰুৰূপে পৰিচালনা কৰিবলৈ সদস্যসকলে কি কৰিব লাগে?\n(ঘ) ভাৰতীয় পৰম্পৰাত পৰিয়াল সম্বন্ধে কি কোৱা হৈছে?\n২. পৰিয়ালৰ পৰা আমি কি কি পাওঁ?",
+  "confidence": {
+    "word_count": 202,
+    "mean": 93.09,
+    "median": 96.12,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.388,
+  "page_elapsed_seconds": 3.933,
+  "peak_process_tree_rss_bytes": 295047168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

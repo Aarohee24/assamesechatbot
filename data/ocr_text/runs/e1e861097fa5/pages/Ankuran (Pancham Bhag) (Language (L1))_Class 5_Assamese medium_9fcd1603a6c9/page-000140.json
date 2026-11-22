@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 140,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দ              অৰ্থ                   শব্দ              অৰ্থ\nশোধালে      পৰিশোধ কৰিলে, গতালে           সংক্ৰান্ত - সম্পৰ্কিত, সম্বন্ধীয়\nশীঘে           বেগাই, সোনকালে                    স্থাপিত - প্ৰতিষ্ঠিত, সজা নাইবা পতা\nস                     সংগ্ৰহ - আহৰণ, সংকলন, একত্ৰীকৰণ, একে\nসেউজ        কলপতীয়া বৰণৰ                                  ঠাই কৰা, একগোট কৰা\nসমাৱেশ    একেলগে স্থিতি, বহুত লোক একে ৷! সবে    - সকলোৱে, আটায়ে\nঠাইত গোটখোৱা কাৰ্য, সমাগম, |! সবালৈ - সকলেলৈ, আটাইলৈ\nসন্মিলন                       সোণোৱালী - সোণ বৰণীয়া, সোণৰ বন কৰা,সোণৰ\nফুল বছা\nসঁচ       খেতিৰ কাৰণে ৰখা গুটি, কঠীয়া, সুৰক্ষিত =. ভালকৈ থোৱা বা ৰখা,সকলো ধৰণৰ\nবিধান, বীজ                                       বিপদ-আপদ আৰু ক্ষতিৰ\nসম্ভাৱনাৰ পৰা বচাই ৰখা\n, তুষ্ট,        খঙে\nসম্ভস্        পৰিতৃপ্ত, তুষ্ট, সম্তোষযুক্ত, ভালপোৱা    স্বাৱলম্বী - নিজে নিজক সহায় কৰোঁতা,\nসহানুভূতি - সমবেদনা, আনৰ সুখত সুখী আৰু                    আত্মনিৰ্ভৰশীল\nআনৰ দুখত দুখী হোৱা ভাৱ       স্বৰূপ    - প্রকৃত ছবি, যথাৰ্থ ৰূপ\nসম্বোধন     নাম বা সম্বন্ধ ধৰি মতা কাৰ্য, কোনো | য্বাচ্ছন্দ্য = - সুখ-সুবিধা, কোনো অভাৱ বা অস্বত্তি\nনোহোৱা অৱস্থা\nলোকক মাতোঁতে ব্যৱহাৰ কৰা শব্দ,   সৰস    - ৰসাল, জোল থকা, মিঠা সোৱাদৰ\nমাত লগোৱা কাৰ্য                সৌষ্ঠৱ - সুগঠন, সুৰূপ, উৎকৰ্ষ\nসামৰণি       শেষ, সমাপ্তি, অন্ত, উপসংহাৰ, ৷ সঞ্চালল - চালনা, লৰোৱা কাৰ্য\nসমাপন                       সাউৎকৰে - বেগতে, একে চিপতে, একে চোঁচাই\nসাধনা        সিদ্ধি লাভৰ কাৰণে কৰা একাগ্র                       হ্‌\nপ্রচেষ্টা; আৰাধনা, উপাসনা, গভীৰ    হিত      \"_ উপকাৰ, ভাল, মংগল\n্রকাম্ভিব                     হাত-বাউল দি - দূৰৈত থকা মানুহক হাতেৰে\nসুখ্যাতি      সুনাম, যশস্যা                              সংকেত দি (মতা)",
+  "confidence": {
+    "word_count": 191,
+    "mean": 87.47,
+    "median": 95.04,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.021,
+  "page_elapsed_seconds": 3.382,
+  "peak_process_tree_rss_bytes": 253419520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

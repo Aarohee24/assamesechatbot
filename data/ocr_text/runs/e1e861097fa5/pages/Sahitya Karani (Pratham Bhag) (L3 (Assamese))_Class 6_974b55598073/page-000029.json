@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৭। পঢ়োঁ আৰু চাই চাই লিখোঁ আহা--\nককা     ককাই    উঘ৷\n\nগছ\nৰাও কাগজ কচ  কাছ\nচাক  জকা জাক উকা\n\nৱী\n\n{ইকাৰ আৰুণী-কটীকাৰৰ লগত চিনাকি\n\n1\n\nকল কে) কাণ   (ক)৷ কিতপ (কক)\n\nছবিৰ নাম কওঁ আহা--\n\nজানো আহা\n\nকল বুলি কওঁতে ক-ৰ লগত উচ্চাৰিত হোৱা অ-ধ্বনিৰ বাবে কোনো চিন বা -কাৰ নাই । কাণ বুলি\nকওঁতে ক-ৰ লগত উচ্চাৰিত হোৱা আ-ধ্বনিৰ বাবে 1’-আকাৰ চিন আছে। কিতাপ বুলি কওঁতে\nক-ৰ লগত ই-ধ্বনি উচ্চাৰিত হৈছে আৰু সেই ধ্বনিৰ বাবে ক-ৰ আগত চিনটো আছে।\nসেইদৰে চকী বুলি কওঁতে ক-ৰ লগত ই্টা-ধ্বনি উচ্চাৰিত হৈছে, সেই ধ্বনি বুজাবলৈ ক-ৰ\nপাছত লী’ চিনটো দিয়া হৈছে।\n\nই-ৰ পৰা ৰূপ লোৱা চিনটোক ই কাৰ ()) আৰু\n\nঙ্জ-ৰ পৰা শ’ৰূপ লোৱা চিনটো ষী কাৰ |) বোলা হয়।\n\n==  নিৰীক্ষ্ণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 122,
+    "mean": 84.24,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6-page-000029.png",
+  "page_image_sha256": "09ead376716746a9664ec68bc4130fda620bfda0214eebde08b7372d8a9dccb9",
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.117,
+  "page_elapsed_seconds": 2.352,
+  "peak_process_tree_rss_bytes": 150126592,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

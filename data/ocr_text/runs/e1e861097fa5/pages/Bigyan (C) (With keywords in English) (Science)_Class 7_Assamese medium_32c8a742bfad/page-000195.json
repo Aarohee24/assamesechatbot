@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 195,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 15.15 অৱতল দাপোণে সৃষ্টি কৰা সৎ প্ৰতিবিম্ব\n([২০৪| 117896629 1011]720 0০%) 8 ০01008%46 11101\")\n\nওপৰত জ্বলি থকা মমবাতি এডাল থোৱা। শিখাৰ\nপ্রতিবিম্ব পৰ্দাৰ ওপৰত পাবলৈ যত্নপৰ হোৱা।\nশিখাৰ স্পষ্ট প্রতিবিম্ব নোপোৱা পৰ্যন্ত পৰ্দাখনৰ\nঅবস্থান সলনি কৰি থাকা। এইটো নিশ্চিত কৰিবা যে\n\nচিত্ৰ 15.16 অৱতল দাপোণে গঠন কৰা\nঅসং প্রতিবিম্ব (ঘ1'008 11886 1011]60\n60% ০01108%6 1]]11101')\n\nপোহৰ\n\nপৰ্দাখনে মমবাতিৰ পোহৰ দাপোণত পৰাত বাধা\nনিদিয়ে। এই প্রতিবিম্বটো সৎ নে অসৎ? ই শিখাটোৰ\nসমান আকাৰৰ নে?\n\nএতিয়া মমবাতিডাল দাপোণৰ ওচৰলৈ আনা\nআৰু ইয়াক বিভিন্ন দূৰত্বত স্থাপন কৰা। প্রতিবাৰতেই\nপৰ্দাত প্রতিবিম্ব পাবলৈ চেষ্টা কৰা। তোমাৰ পৰ্যবেক্ষণ\nতালিকা 15.1ত টুকি থোৱা।মমবাতিডাল দাপোণখনৰ\nএকেবাৰে ওচৰত থকা অৱস্থাত প্রতিবিম্বটো পৰ্দাত\nপোৱা সম্তৱ হ’বনে (চিত্র 15.16)?\n\nআমি গম পালোঁ যে অৱতল দাপোণৰ দ্বাৰা গঠন\nহোৱা প্ৰতিবিম্ব লক্ষ্যবস্তুতকৈ আকাৰত ডাঙৰ অথবা\nসৰু হ’ব পাৰে। তদুপৰি প্রতিবিমস্ব সৎ অথবা অসৎ হ’ব\nপাৰে।\n\nঅৱতল দাপোণ বিভিন্ন কামত ব্যৱহাৰ হয়।\nচিকিৎসকে চকু, কাণ, নাক আৰু ডিঙি পৰীক্ষা\nকৰোঁতে অৱতল দাপোণ ব্যৱহাৰ কৰা তোমালোকে\nনিশ্চয় দেখিছা । দন্ত চিকিৎসক ([)2100813) সকলেও\nদাঁতৰ পৰিবৰ্ধিত প্রতিবিম্ব চাবলৈকে অৱতল দাপোণ\nব্যৱহাৰ কৰে চিত্ৰ (15.17)। টৰ্চ, মটৰ-গাড়ী আৰু\nস্কুটীৰৰ হেডলাইটৰ প্রতিফলক (]২০]০০৮০৷৷৪)\nঅৱতল (0\"01008%৮62) আকৃতিৰ (চিত্ৰ 15.18)।\n\n181",
+  "confidence": {
+    "word_count": 182,
+    "mean": 83.27,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.936,
+  "page_elapsed_seconds": 3.43,
+  "peak_process_tree_rss_bytes": 291840000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

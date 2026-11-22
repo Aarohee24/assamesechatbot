@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঘৈখ|<)৷২/%/খ : ২/%৮1/%[/] 817,৯০6 -/*/7|7026019.60 [26)[40077-8/0114900|4 01\" 019.55 ||, ॥৭ /৩০৪৷]1656,\n0০%/6৷0260 91770169416%/6010%/ 562ু5147, /৩5৪77, 01000|7 %/0115170|25 9170 9|[70%খ০0]0 |ঠ2%/ ॥৭০ 60%.\n0./%১5০থ]] 9170 [200|151760 |2%/ 76 /৬৩১০৪ৌথ৷৷৷ 58.6 715১%00900|<4127000011017 & |>10|108.0017 €0120800]\n[10.,601%/9|180.0171 |06|179|[ 01 60%. 01 /২55৪থ1.                          ঢাল 'া]['চঢসণো]00া[ং\n\n1 ০1115 1২'৪5৮চা৷২৬৮৮6৷9 :14016070000007 ৭ 11৮ 90 1]] 01 05 6001, ॥৭ ৮/|10|6 010 [297\n(6%0600.01 61161 000.8007 ৭ 0110098| 9100165 07 169|6%/5), 78% 66 17806 ঘ/||7০0[ ঘণ[|[(6]]\n8.0070115890017 110] {16 52214], /%০৪5ণ্ৰাা].\n\nগন্থস্বত্ব         £ ৰাজ্যিক শিক্ষা-গৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ,অসম\nপ্ৰথম প্ৰকাশ ৪ ২০১৯ইংচন\nদ্বিতীয় প্ৰকাশ ঃ ২০২০ইংচন\nতৃতীয় প্ৰকাশ ঃ ২০২১ ইং চন\n$ 70091 কাগজত মুদিত পাঠ্যপুথি ৷\nপ্রকাশক    ঃ অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন\nআৰুপ্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি ৷\nমুদ্ৰক           ঃ হিন্দুস্থান অফ্‌চেট প্ৰাঃলিঃ\n\nবামুণীমৈদাম, গুৱাহাটী-২১",
+  "confidence": {
+    "word_count": 127,
+    "mean": 53.19,
+    "median": 51.97,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.993,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.669,
+  "page_elapsed_seconds": 3.089,
+  "peak_process_tree_rss_bytes": 267018240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

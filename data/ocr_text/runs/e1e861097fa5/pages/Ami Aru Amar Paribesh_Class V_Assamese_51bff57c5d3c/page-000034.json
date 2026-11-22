@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 34,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এই ছবিবোৰত প্ৰাকৃতিকভাৱে তৈয়াৰ কৰা বিভিন্ন বৰণৰ ৰং ষক্ল্লা৷\nবোলাই অতি আকৰ্ষণীয় কৰি তুলিছিল। মধ্যপ্ৰদেশৰ ভূপালৰ _\nঅঁকা এনেধৰণৰ বিভিন্ন ছবি এতিয়াও দেখিবলৈ পোৱা যায়। [_\nশিলেই সেই যুগত ব্যৱহৃত প্রধান সঁজুলি আছিল বাবে সেই\nসময়ছোৱাক শিলৰ যুগ বুলি কোৱা হয়।\n\nদলত আলোচনা কৰি লিখা-                         ভীমবেট্‌কা ওহাৰ চিত্ৰ\n> আদিম মানুহে শিলক কিয় সঁজুলি হিচাপে ব্যৱহাৰ কৰিছিল?\n\nপ্রাচীন কালত মানুহৰ জীৱন ধাৰণৰ প্রণালী বৰ কষ্টকৰ আছিল অৱশ্যে জীৱনটো বৰ সহজ-\nসৰল আছিল। দলবান্ধি চিকাৰলৈ যোৱা বা খাদ্য সংগ্ৰহ কৰিবলৈ যোৱাটো তেওঁলোকৰ বাবে\nআমোদজনক আছিল। সকলোৱে একেলগ হৈ কামবোৰ কৰিছিল। খাদ্যবস্তু যি পাইছিল\nসকলোৱে মিলি ভগাই খাইছিল। ভৱিষ্যতৰ বাবে সাঁচি ৰখাৰ কথা তেওঁলোকে ভবা নাছিল।\n“বিনিময় প্রথা‘ৰদ্বাৰা তেওঁলোকে বেছি পৰিমাণে থকা খাদ্যবস্তুবোৰ পৰস্পৰৰ মাজত সাল-সলনি\nকৰি নিজৰ বাবে দৰকাৰী বস্তুৰ চাহিদা পূৰণ কৰিছিল।\nপৰাই চেষ্টা চলাই আহিছে। বুদ্ধি আৰু একাগ্রতাৰ [=\nফলত কিছুমান মানুহে সৃষ্টিৰ নতুন নতুন কোশল [[[%;\nমানৱৰ জীৱন ধাৰণৰ প্রণালী উন্নত হ’বলৈ ক্ল\nধৰিছিল। পিছে সকলো ঠাইতে এই পৰিৱৰ্তনবোৰ\nএকে সময়তে হোৱা নাছিল। এতিয়াও পৃথিৱীৰ ন\nবিভিন্ন ঠাইত চিকাৰৰ ওপৰত নিৰ্ভৰ কৰি জীৱন- ৷\nযাপন কৰা মানুহ আছে।\n\nআদিম মানৱৰ জীৱন ধাৰণৰ প্রণালী\n> আদিম যুগৰ মানুহে নিজৰ লাগতিয়াল বস্তুৰ অভাৱ কেনেকৈ পূৰণ কৰিছিল?",
+  "confidence": {
+    "word_count": 186,
+    "mean": 88.9,
+    "median": 96.0,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 4.601,
+  "page_elapsed_seconds": 5.567,
+  "peak_process_tree_rss_bytes": 213991424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

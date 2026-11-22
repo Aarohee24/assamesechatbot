@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৬                                জনীনিয়াত\nতৃতীয় অধ্যায়\nফিৰিজ্াসকল (২১৩১০)\n\nফিৰিস্তাসকলৰ (এশী দূতসকলৰ ) ওপৰত বিশ্বাস ৰখা প্ৰত্যেক মুছলমান\nনৰ-নাৰীৰ কৰ্তৃব্য। ফিৰিসজ্তাসকল আল্লাহতাআলাৰ নেক আৰু অনুসৰণকাৰী বান্দা।\nতেওঁলোকক আল্লাহতাআলাই নুবৰ (জ্যোতি) পৰা সৃষ্টি কৰিছে। তেওঁলোক স্ত্ৰীও\nনহয়, পুৰুষও নহয়। ফিবিস্তাসকলে অন্য সৃষ্টি জীৱৰ দৰে খোৱা-পিয়া নকৰে।\nতেওঁলোকৰ ভিতৰত কিছুমানৰ দু খন, তিনিখন, চাৰিখনাকৈ ডেউকা আছে।\nফিৰিত্'সকলে দিনে ৰাতিয়ে আল্লাহ তা৷আলাৰ এবাদতত মন্ম থাকে।\nআল্লাহতাআলাৰ কোনো কামতে তেওঁলোকে অৱহেলা নকৰে। আল্লাহতাঙআলাৰ\nপৱিত্ৰতা বৰ্ণনা আৰু আদেশ পালন কৰাই তেওঁলোকৰ একমাত্ৰ কাম।\nআলাহতাআলাই কোনো কাম কৰিবলৈ আদেশ কৰাৰ লগে লগে তেওঁলোকে কৰি\nপেলায়। ফিৰিস্তাৰ পৰিমান একমাত্ৰ আল্লাহ'তাআলাৰ বাহিবে আন কোনে\nনেজানে ৷ আল্লাহতাআলাই তেওঁলোকক বিভিন্ন কামৰ বাবে নিদিষ্ট কবি দিছে।\nকাৰণ তেওঁলোকৰ কোনো কোনো ফিৰিস্ত!ই আল্লাহ'তাআলাৰ বান্দাসকলৰ\nআমলনামা (কৰ্মতালিকা) লিখে৷ কোনো কোনো ফিবিল্তাই নেক মজ্লিছত\nঅংশীদাৰ হৈ নেককাৰ বান্দাসকলৰ কাৰণে দোআ কৰে আকু বান্দাসকলৰ\nদোআত আসমীন কয়। কোনো কোনো ফিৰিতাই নেক আমলবোৰ লৈ গৈ\nআলাহতাআলাৰ ওচৰত সাক্ষা দান কৰে। কিছুমান ফিৰিস্তাই আমাৰ দৰূদ শ্বৰীফ\nলৈ গৈ হুজুৰ বছুলে মকবুল (ছঃ)ৰ ওচৰত গৌচাই দিয়ে। কিছুমান ফিৰিস্তাই\nআল্লাহতাআলাৰ আৰচ উঠায়।\n\nপ্ৰত্যেক মানুহৰ লগত দুজনকৈ ফিবিস্তা থাকে । এজনে মানুহৰ সৎকাম্বোৰ\nআৰু আনজনে অসৎ কামবোৰ লিখে। এই কিৰবিস্তা দৃগৰাকীক ‘কিৰামান-কাতিবীন’\n(তেজ5 ঠেক )5, ) বা মহান লিখকদ্ধয় বোলে।",
+  "confidence": {
+    "word_count": 188,
+    "mean": 79.94,
+    "median": 91.82,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.659,
+  "page_elapsed_seconds": 2.798,
+  "peak_process_tree_rss_bytes": 250089472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

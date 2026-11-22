@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ল্ৰীনিয়াত         ২৭\n\nপ্ৰশ্ন- ৰমজান মাহৰ কেবাটাও ৰোজা ভংগ হ’লে কাফ্‌ ফাৰা দিয়াৰ নিয়ম কি?\n\nউত্তৰ- কাফুফাৰা মাথোন এ টাই ৷\n\nপ্ৰশ্ন- বোজা কাক কয়?\n\nউত্তৰ- চুবহ চাদিকৰ পৰা সূৰ্য অস্ত যোৱালৈকে খোৱা-পিয়া, মনৰ কামনা-বাসনা\nআদি পূৰ্ণ কৰাৰ পৰা বিবত্ত থকাকে ৰোজা বোলে আৰু সূৰ্য অস্ত যোৱাৰ\nলগতে ৰোজা ভংগ কৰাকে ইফতাৰ,বোলে।\n\nপ্রশ্ন-ৰোজা কেই প্ৰকাৰৰ?\n\nউত্তৰ- বোজা ৮ প্ৰকাৰ। যেনে- ১। ফৰজে আইন, ২ ৷ ফৰজে গাইৰ মুআয়্যন, ৩।\nবাজিবে মুআয়ান, ৪ ৷ ৱাজিবে গাইৰ মুআয়ান, ৫ ৷ চুন্নত, ৬। নফল, ৭ ৷\nমকৰূহ আৰু ৮ ৷ হাবাম।\n\nপ্ৰশ্ন-ফৰজে আইন কি ৰোজা ?\n\nউত্তৰ-বছৰৰ ভিতৰত ৰমজান মাহৰ এমাহ ৰোজা ৰখা ফৰজে আইন ৷\n\nপ্ৰশ্ম- ফৰজে গাইৰ মুআয়ান ৰোজা কাক কয়?\n\nউত্তৰ- কোনো কাৰণত ৰমজান মাহৰ ৰোজা ৰাখিব নোৱাৰিলে ইয়াৰ কাজা ৰোজা\nআদায় কৰাকে ফৰজে গাইৰ মুআয়্যন বোজা বোলে।\n\nপ্ৰশ্ন- ৱাজিবে মুআয়ান বোজা কি?\n\nউত্তৰ- কোনো নিদিষ্ট তাৰিখত কোনো ব্যক্তিয়ে ৰোজা ৰাখিবলৈ মনস্থ কৰিলে\nসেই তাৰিখত ৰোজা বখা রাজিবে মুআয়াযন। যদি কোনোৱে এইদৰে কয়-\n‘যদি মই পৰীক্ষাত পাছ কৰো, তেনেহ’লে ৰজব মাহৰ প্ৰথম তাৰিখত ৰোজা\nধৰিম ।’\n\nপ্ৰশ্নম- ৱাজিবে গাইৰ মুআয়্যন ৰোজা কি?\n\nউত্তৰ- কাফুফাৰা আৰু মনস্থ কৰা ৰোজা ৱাজিবে গাইৰ মাইন ( == =-_= 1)\nত)\" ঞমম--_*) | যেনে- কোনোৱে যদি এইদৰে মনস্থ কৰে- ‘মই পৰীক্ষাত প্ৰথম\nহৈ পাছ কৰিলে আল্লাহতাআলাৰ বাস্তে তিনিটা বোজা ৰাখিম।’\n\nপ্ৰশ্ন- চুম্নত ৰোজা কি?\n\nউত্তব- বোজাৰ ভিতৰত চুন্নতে মোৱাক্কাদা বোজা নাই। হজৰত মহস্মদ (ছঃ)ৰ",
+  "confidence": {
+    "word_count": 218,
+    "mean": 83.29,
+    "median": 91.97,
+    "minimum": 0.0,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1351,
+  "image_height": 2054,
+  "ocr_elapsed_seconds": 2.289,
+  "page_elapsed_seconds": 2.401,
+  "peak_process_tree_rss_bytes": 241471488,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

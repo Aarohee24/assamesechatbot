@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুনশীলনী ঃ\n\n1) তলৰ উক্তিবোৰ সত্য নে অসত্য চিনাক্ত কৰা-\n\n(8) এককোষী জীৱৰ দেহত এটা কোষ থাকে।                              (সত্য/অসত্য)\n(৮) পেশী কোষবোৰ শাখাযুক্ত।                                             (সত্য/অসত্য)\n(০) এটা জীৱৰ মৌলিক জীৱিত একক হ’ল অংগ।                              (সত্য/অসত্য)\n(0) এমিবাৰ আকৃতি অনিয়মীয়া।                  (সত্য/অসত্য)\n\n2) মানুহৰ স্নায়ুকোষৰ চিত্ৰ আঁকা। স্নায়ুকোষে কি কাম কৰে?\n3) তলত দিয়া বিষয়ৰ ওপৰত চমু টোকা লিখা।\n\n(৪) কোষপ্ৰৰস\n(৮) কোষকেন্দ্ৰ\n4) কোষৰ কোনটো অংশত কৌোষাংগবোৰ থাকে?\n5) প্রাণী আৰু উদ্ভিদৰ কোষৰ ছবি আঁকা। সিহঁতৰ মাজত থকা তিনিটা পাৰ্থক্য উল্লেখ কৰা।\n6) ইউকেৰিঅ’টছ আৰু প্র’ কৈৰিঅ’'টছৰ মাজৰ পাৰ্থক্য উল্লেখ কৰা।\n7) কোষৰ কোনটো অংশত ক্ৰম’জ’ম পোৱা যায়? সিহঁতৰ কামবোৰ উল্লেখ কৰা।\n8) ‘কোষ জীৱৰ মৌলিক গঠনগত একক’। ব্যাখ্যা কৰা।\n9) কিয় হৰিৎকণা মাথোঁ উদ্ভিদৰ কোষতহে পোৱা যায়? ব্যাখ্যা কৰা।\n\n10) তলৰ শব্দ সীথৰ সম্পূৰ্ণ কৰ৷।                           ]\n\nতললৈ ঃ\n\n1) কৌোষকেন্দ্ৰত থকা পকোৱা-সৃতা সদৃশ গঠনৰ উপাদান\n\n3) পাতৰ কোষৰ কৌোষণপ্তৰসত থকা ৰঙীন পদাৰ্থ।       ু\n4) এবিধ এককোষী জীব।                             ম্‌\n\n5) কৌোষপ্ৰৰসত থকা খালী ঠাই বিশিষ্ট গঠন।\n6) জীৱৰ অংগ গঠন কৰ৷ কোষৰ সমষ্টি।             4\n\nপথালিকৈ ঃ\n\n2) কোষাৱৰণ আৰু কোষকেন্দ্ৰৰ মাজত থকা\nজেলিৰ দৰে দ্রব্য।\n\n5) কোষ আৰৱবিষ্কাৰকাৰী বিজ্ঞানীগৰাকী।\n\nৰ\n(_ কোষ -- গঠন আৰু কাৰ্য / 0.-971২0ণে'0ইচ; & চা0াখণো|0খ",
+  "confidence": {
+    "word_count": 186,
+    "mean": 86.08,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.647,
+  "page_elapsed_seconds": 2.925,
+  "peak_process_tree_rss_bytes": 358400000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

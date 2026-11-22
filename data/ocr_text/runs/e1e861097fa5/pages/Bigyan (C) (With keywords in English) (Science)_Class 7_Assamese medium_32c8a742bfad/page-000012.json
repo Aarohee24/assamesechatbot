@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 12,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাৰতবৰ্ষৰ সংবিধান\n\nচতুৰ্থ ভাগ ‘ক’ (ধাৰা ৫১ ক’”)\n\nমৌলিক কৰ্তব্য\n\nমৌলিক কৰ্তব্য-- ই ভাৰতবৰ্ষৰ প্ৰতিজন নাগৰিকৰে কৰ্তব্য হ’ব -=\n\n(ক) ভাৰতৰ সংবিধান মানি চলা আৰু ইয়াৰ আদৰ্শ আৰু অনুষ্ঠানসমূহ, ৰাষ্ট্ৰীয় পতাকা\nআৰু ৰাষ্ট্ৰীয় সংগীতক সন্মান জনোৱা,\n\n(খ) স্বাধীনতাৰ বাবে ৰাষ্ট্ৰীয় আন্দোলনক অনুপ্ৰাণিত কৰা আৰু মহান আদৰ্শ পোষণ\nকৰাৰ বাবে অনুসৰণ কৰা,\n\n(গ) ভাৰতৰ সাৰ্বভৌমত্ব, এঁক্য আৰু পূৰ্ণতাক সমৰ্থন আৰু ৰক্ষণাবেক্ষণ দিয়া;\n\n(ঘ) দেশক সুৰক্ষা দিয়া আৰু সময়ত প্রয়োজন হ’লে ৰাষ্ট্ৰীয় সেৱা আগবঢ়োৱা;\n\n(৬) ধৰ্মীয়, ভাষিক আৰু আঞ্চলিক বা সাম্প্ৰদায়িক বৈচিত্্যতাৰ মাজত সমন্বয় আৰু\nভাতৃত্ববোধৰ ভাব জগাই তোলা,\n\n(চ) মিশ্ৰিত সাংস্কৃতিক মূল্য বুজি পোৱা আৰু তাক সংৰক্ষণ কৰা।\n\n(ছ) অৰণ্য, হৃদ, নদী, বন্যপ্রাণীকে ধৰি প্রাকৃতিক পৰিৱেশৰ সুৰক্ষা আৰু উন্নতিকৰণ\nআৰু জীৱৰ প্রতি সহানুভূতিশীল হোৱা,\n\n(জ) বৈজ্ঞানিক মানসিকতা, মানৱতা অম্বেষণ আৰু সংস্কাৰৰ প্রতি আগ্ৰহ জন্মোৱা,\n\n(বা) ৰাজহুৱা সম্পত্তিৰ ৰক্ষণাবেক্ষণ দিয়া আৰু হিংসাৰ প্ৰশ্ৰয় নিদিয়া,\n\n(ঞ) দেশৰ অবিৰত উন্নতি সাধনৰ বাবে ব্যক্তিগত আৰু উমৈহতীয়া সকলো ক্ষেত্ৰতে\nউৎকৰ্ষ সাধনৰ প্রয়াস কৰা,\n\n(ট) পিতৃ-মাতৃ বা অভিভাৱকে তেওঁৰ ৬ ৰ পৰা ১৪ বছৰীয়া ল'ৰা-ছোৱালীৰ বাবে\nশিক্ষাৰ সুযোগ আগবঢ়াব লাগে।",
+  "confidence": {
+    "word_count": 163,
+    "mean": 90.7,
+    "median": 95.87,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.509,
+  "page_elapsed_seconds": 2.88,
+  "peak_process_tree_rss_bytes": 298856448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

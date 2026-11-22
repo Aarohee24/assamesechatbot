@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 91,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চ্রি 3.6 : খাদ্যত থকা শ্বেতসাৰৰ পৰীক্ষা\n\n3.3.2 : প্ৰ'টিনৰ পৰীক্ষা\n\n[] ভিয়া-কলাপ 3.43:\n\n৮\n\nচিত্র 3.7 : খাদ্যত থকা প্ৰটিনৰ পৰীক্ষা\n(এই ক্ৰিয়া-কলাপটো তোমালোকে শিক্ষকৰ সহায়ত কৰিবা ৷)\n\nঅলপ পৰিমাণৰ খাদ্যবস্তু লোৱা।\n\nযদি খাদ্যবস্তুখিনি গোটা হয় তেন্তে প্ৰথমতে গুড়ি কৰি পাউদাৰ বা মণ্ড কৰি লোৱা।\n\nএতিয়া খাদ্যবস্তুখিনি এটা পৰীক্ষদ নলীত লোৱা আৰু 10 টোপালমান পানী দি\n\nপৰীক্ষা ননীটো ভালকৈ জোকাৰি লোৱা। এতিয়া ড্ৰপাৰৰ সহায়ত 2 টোপালমান\nকপাৰ ছালফেট দ্ৰৱ আৰু 10 টোপাল কষ্টিক ছ'ডাৰ দ্ৰৱ পৰীক্ষা নলীত মিহলাই\nদিয়া।\n\nঞ পৰীক্ষা ননীটো ভালকৈ জোকাৰি কিছুসময়ৰ বাবে স্থিৰ কৰি ৰাখা। তোমালোকে\nদেখিবা যে পৰীক্ষা নলীত থকা বস্তুখিনি বেঙুনীয়া ৰঙলৈ পৰিৱৰ্তন হৈছে। বেঙুনীয়া\nৰঙে খাদ্যবস্তুত প্ৰ'টিন থকাতো সূচায়। পৰ্য্যৱেক্ষণ সমুহ তালিকা 3.4 ত লিখি\nথোৱা।\n\nল্ক্লনা)তেঁততত তত তত তত ০০০ ০০,০০০ ০০০,০০০, ০,০০,০০,০,,০,,০,০,,,০,,তে)\n\n ৬ ৬",
+  "confidence": {
+    "word_count": 126,
+    "mean": 78.2,
+    "median": 92.85,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.601,
+  "page_elapsed_seconds": 3.077,
+  "peak_process_tree_rss_bytes": 315695104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

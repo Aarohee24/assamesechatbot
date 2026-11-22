@@ -1,0 +1,68 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাষৰীয়া এডোখৰ জীপাল মাটিত\n ছটিয়াই দি গজাবলৈ চেষ্টা\n_কৰিলে। কিন্তু হ'ব কি? চৰাই-\n% চি্ৰিকটিয়ে সেই বীজবোৰ খাই\n\n৷ এটা  বুদ্ধি  জলিয়াই  চৰাই-\n__, *, চিৰিকটিয়ে খাব, নোৱাৰাকৈ\n\n= ও          ্‌ষ*\" বীজবোৰ মাটি খান্দি পুতি থলৈ।\nআদিম মানৱৰ কৃষিকায            কিন্ত মাটিখিনি দ হোৱাৰ বাবে\nনদীৰ পানীয়ে গজালি ওলোৱা বীজবোৰ নষ্ট কৰি পেলালে । তেতিয়া “পানিক’ দলে হাবিৰ পানী নুঠা\nনিৰাপদ ঠাই এডোখৰ বাছি ল’লৈ। তেওঁলোকে শিলেৰে নিমিত কৃঠাৰ, জোঙা লাঠি আদিৰে\nমাটিডোখৰ চহাই কোমল কৰি খেতিৰ বাবে উপযোগী কৰি ল’লে। সেই মাটিত গুটি সিঁচি\nতেওঁলোকে খেতি কৰিবলৈ আৰম্ভ কৰিলে । এইদৰে কৃষি কাষৰ আৰম্ভহ ’ল। তেওঁলোকে খেতি কৰা\nঠাইৰ ওচৰে-পাজৰে স্থায়ীভাৱে থাকিবলৈ ল’লৈ ।\n\nএই কথাখিনিৰ সহায়ত কেনেকৈনো মানুহে প্রথমে খেতি কৰিবলৈ আৰম্ভ কৰিছিল,\nতোমালোকে সেই বিষয়ে অনুমান কৰিব পাৰিলা ৷ কিন্তু পৃথিৱীৰ সকলো ঠাইতে যে একে সময়তে বা\n\nএকে কাৰণতে কৃষিৰ আৰম্ভ হৈছিল তেনে নহয়। তদুপৰি কিছুমান এনেকুৱা মানুহৰ দলো আছিল\nযিসকলে কাহানিও খেতি কৰা নাছিল।\n\nওপৰৰ কথাখিনিৰ আলমত উত্তৰ দিয়া-\n\n>> পানিকসকলে আগৰ ঠাই এৰি কিয় গুচি যাব লগা হ’ল?\n\n>> খেতি কৰিবলৈ আৰম্ভ কৰাৰ লগে লগে তেওঁলোকে কি কি সমস্যাৰ সন্মুখীন হৈছিল?\nখেতি কৰিবলৈ আৰম্ভ কৰাৰ লগে লগে চিকাৰী আৰু খাদ্য সংগ্ৰহকাৰী\n\nমানুহৰ আগতকৈ বেছি চোকা আৰু উন্নত সঁজুলিৰ আৱশ্যক হেছিল। (কঠ\n\nতেওঁলোকে শিলৰ অস্ত্ৰবোৰ শিলত ঘঁহি ঘঁহি মিহি, চক্‌চকীয়া আৰু জোঙা ॥( |,\n\nউপযোগীকৈ তৈয়াৰ কৰি লৈছিল।\n\nঅসমৰ ডিমা হাছাও জিলাৰ দাওজালি হাডিং নামৰ ঠাইত আদিম মানুহে ব্যৱহাৰ কৰা\nশিলেৰেনিৰ্মিত কোৰ,শস্য গুড়ি কৰ পটা আৰু মাটিৰ পাত্ৰৰ টুকুৰা পোৰা গৈছে।\n\n২৬১",
+  "confidence": {
+    "word_count": 235,
+    "mean": 87.81,
+    "median": 95.62,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 26 diacritics",
+        "Detected 26 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ami Aru Amar Paribesh_Class V_Assamese-page-000036.png",
+  "page_image_sha256": "f9c573a33251d4378aa16d64294923bac705a3534078bb6e477f49ef2fd12f3c",
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.664,
+  "page_elapsed_seconds": 4.246,
+  "peak_process_tree_rss_bytes": 151896064,
+  "tesseract_warnings": [
+    "Detected 26 diacritics",
+    "Detected 26 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

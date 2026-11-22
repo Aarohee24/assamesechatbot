@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 230,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "216\n\n(1) যদি অৰণ্য নোহোৱা হয়, বায়ুত\nকাৰ্বন-ডাই-অক্সাইডৰ পৰিমাণ অধিক\nহ’ব, ফলত পৃথিৱীৰ তাপমাত্ৰা বাঢ়িব।\n(2) গছ-গছনিৰ অনুপস্থিতিত প্রাণীয়ে\nখাদ্য আৰু আশ্রয়ৰ অভাৱ অনুভৱ\nকৰিব।\n\n৷ (3) গছ-গছনিৰ অনুপস্থিতিত মাটিয়ে\n\nপানী ধৰি ৰাখিব নোৱাৰিব, ফলত\nবানপানীৰ সৃষ্টি হ’ব।\n\n(4)নিৰ্বনানীকৰণে (0১০01769080017)\nআমাৰ জীৱন আৰু পৰিৱেশৰ\nপ্রতি ভাবুকিৰ সৃষ্টি কৰিব। আমাৰ\nঅৰণ্যভূমিক সংৰক্ষণৰ বাবে কি কৰিব",
+  "confidence": {
+    "word_count": 54,
+    "mean": 89.76,
+    "median": 96.04,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.189,
+  "page_elapsed_seconds": 2.783,
+  "peak_process_tree_rss_bytes": 286990336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

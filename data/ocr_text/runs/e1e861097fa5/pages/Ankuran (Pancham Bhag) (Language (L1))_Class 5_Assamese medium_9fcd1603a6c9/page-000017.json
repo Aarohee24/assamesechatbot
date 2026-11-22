@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ">৯৪৬\n\n১৯৪ট৮ :\n১৯৫০:\n১৯৫২:\n\n১৮৫৪:\n>৯৬০ :\n১৯৬১ :\n১৯৬৬ :\n১৯৬৭:\n১৯৭৩ :\n১৯৭৬:\n১৯৮৫ :\n১৯৮৮:\n\n১৯৯৩:\n৯১৯৮৮:\n২০০০:\n২০০৮:\n২০০5০:\n২০০২:\n\n: ৰাজনীতি বিজ্ঞানত এম.এ. পাছ কৰি বি.বৰচ্ৱা কলেজত প্ৰবক্তা হিচাপে যোগদান ।\n\n‘চিৰাজ’ বোলছবিৰ সংগীত পৰিচালনা আৰু অভিনয় ।\n\nপ্ৰিয়ম পেটেলৰ সৈতে নিউয়কৰ চহৰত বিবাহ সম্পন্ন ।\n\nকলটৰ্বিয়া বিশ্ববিদ্যালয়ত গৱেষণা কৰি ডকঁৰেট ডিগ্ৰী লাভ। তেওঁৰ খেছিচৰ\nবিষয় আছিল ‘মাছ কমিউনিকেশ্তধন ইন ইণ্ডিয়াজ এডাল্ট এডুকেশ্বন’।\nগুৱাহাটী বিশ্ববিদ্যালয়ত প্রবক্তাৰূপে যোগদান ।\n\n‘মানুহে মানুহৰ বাবে’ গীতটি ৰচনা ।\n\n‘শকুম্ডলা’ ছবিৰ পৰিচালনা, এই কথাছবিৰ বাবে ৰাষ্ট্ৰপতিৰ পদক লাভ।\n‘লটি-ঘটি’ কথাছবিৰ বাবে ৰাষ্ট্ৰপতিৰ পদক লাভ।\n\nনাওবৈচা সমষ্টিৰ পৰা অসম বিধান সভালৈ বিধায়ক হিচাপে নিবাৰ্চিত ।\nপ্রথমবাৰৰ বাবে হিন্দী বোলছবিৰ সংগীত পৰিচালক।\n\nৰাষ্ট্ৰীয় ফিল্ম ফেষ্টিভেলত শ্ৰেষ্ঠ সংগীত পৰিচালকৰ ‘্বণকমল পুৰঞ্ধাৰ’ লাভ।\nৰাষ্ট্ৰীয় ফিলা এৱা জুৰীৰ সভাপতি।\n\nঅসম চৰকাৰৰ ‘আীমল্ত শঙ্কৰদেৱ বটা’ লাভ আৰু ‘সংগীত নাটক অকাডেমীৰ\nবটা লাভ।\n\n‘অসম সাহিতা সভাৰ সভাপতি নিবাৰ্চিত আৰু ‘দাদা চাহেব ফাল্চে বটা’ লাভ ।\n‘সংগীত নাটক অকাডেমীৰ সভাপতি হিচাপে মনোনীত ।\n\nভাৰত চৰকাৰৰ ‘পদ্মভূষণ’ সন্মান লাভ।\n\nঅসম চৰকাৰৰ ‘অসম ৰত্ন’ উপাধি লাভ।\n\n৫ নৱেম্বৰত দেহাৱসান (মুম্বাইত)।\n\nভাৰত চৰকাৰৰদ্ধাৰা মৰণোভতৰভাৱে ‘পদ্মবিভূষণ’ সন্মান লাভ।\n\n(উৎস-- ড* ভূপেন হাজৰিকাৰ অনুলিখিত আত্মজীৱনী ‘মই এটি যাযাবৰ ’।)\n\n(৮)",
+  "confidence": {
+    "word_count": 188,
+    "mean": 77.25,
+    "median": 91.2,
+    "minimum": 0.0,
+    "maximum": 96.81
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.337,
+  "page_elapsed_seconds": 3.685,
+  "peak_process_tree_rss_bytes": 274849792,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

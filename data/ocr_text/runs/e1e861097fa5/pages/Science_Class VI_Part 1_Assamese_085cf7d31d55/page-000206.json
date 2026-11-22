@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 206,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]{]](61' 1}\"3])01\" :                                                                                   |\n]}]][21 ])8])2[ 19 8 81646 11806 01 )8])6[' কম 1{]1 1126 11012. ঘ্ব়্ত ০৪1] 1121 ।\nঠাচ 91118|| |)81101269 09111 {119 (৮1276 01 816৮6. 0810 ঘ%০০6 09626 01011181\"% ।\n1)8])21 101\" {1119 |701|270924 খখ্|] খা?\n\n০0 90161) 18৮6 স৪8061 0|[2|\n1]] ৮001 10096. 50] ]1(218 18৮6 8\n০৪11012 (9012) 17806 01 ০০1811]10. ][]16\n€০৪811012 1189 ঘণ্ডা 01]} ]|)0[29 01] 1{. '[]6\n011 81160 )81010168 ])[269211{ 1]] |76\nসদ্য 821\" 081] 1100 |)8.99 101008]] 016 |)0129.\n010]%) স্8021 80110 ])8100168 91118|1]21\n{1801 {116 ])0169 ০৪1] |)899 1]10089]] 1{.\n']]1696 ])81[[010169 ৪816 90 911]18|[] |08{ ছ৮62\n০৪11 1100926 1211] 60% 001\" 118|060 6%629.\n']]16 )0180126 স্৪(21 19 ০০1160020 11] 176\n10.21 )8[{ 01 {]16 1121\" (]\"16. 6.]]).\n\n]'1]{1801011] 19 8190 [09260 [][]\n12121)8111196 |)8116621\" (০116292). [11 0102.00\n1212])816 |)811621, ৪ \"৮ 01028 01121]10]1]\n]0106 19 800620.100 {16 1]]1]|]< ]]2[] 1{ 19\n00111]. ']]]18 21728 ৪8 1]1%0016 0190]10          1719 6.11 : 77167\" /]{07\"\n128116621\" 8110 \"821. '[']126 1)811621' 19 ]192]]\n৪০|2818.60 0% 1]][21116 016 1]]1%000126 111008]] 8 11126 ০10]] 01 8 911811121\" (]\"19.\n6.12). 0০000 ০8৪7) 00 {19 €স])22111]1611( 0) ৮00196]1.\n\n(৪8) 00118 12170] 10106 10০ (৮) [[1%0016 011)2811621\" 010. (০) [80010 09116 0101]]\n601]11]8 1]]1]]0                ৪21\" (5601]21108001017)\n\n\"18 6. 12.::,১6907\"011071 0/ 12071627\"./70771 7771[}/0",
+  "confidence": {
+    "word_count": 167,
+    "mean": 37.42,
+    "median": 31.41,
+    "minimum": 0.0,
+    "maximum": 95.64
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3404,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.552,
+  "page_elapsed_seconds": 3.948,
+  "peak_process_tree_rss_bytes": 303190016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

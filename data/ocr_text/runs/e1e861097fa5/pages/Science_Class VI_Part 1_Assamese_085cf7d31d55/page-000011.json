@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 11,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিজ্ঞানৰ বিচিত্ৰ\nভগতখন\n\nআলাদিনৰ সাধুটো শুনিছানে? চমুকৈ সাধুটো\nহ’ল--আলাদিন নামৰ ল’ৰাজনৰ এগছি যাদু চাকি\nআছিল। চাকি গছিত হাতেৰে ঘঁহি দিলে এটা জেনি\nওলায়। জেনিটোৱে আলাদিনৰ সকলো কাম কৰি\nদিয়ে।\n\nআন এটা কথা শুনাচোন ৷ এজন ল’ৰাই সপোনত\nএটা ওষধ পালে। ওষধটো সাংঘাতিক, ই সকলো\nবেমাৰ নোহোৱা কৰিব পাৰে।\n\nএইবোৰ সঁচা কথানে? তুমি জানা, নিশ্চয়\nনহয়। এইবোৰ বিজ্ঞান নেকি? হ’বই নোৱাৰে।\n\nতেনেহলে বিজ্ঞান কি বাৰু?\n\n1.1 বিজ্ঞান কি বাৰু?\n\nতুমি কিতাপ পঢ়া। কিতাপৰপৰা জ্ঞান লাভ কৰা। বিজ্ঞানো হৈছে জ্ঞান। এনে\nজ্ঞান লাভৰ বাবে প্রথমতে ভালদৰে লক্ষ্য কৰিব লাগে৷ ইয়াকে আমি পৰ্যবেক্ষণ কৰা\nবুলি কওঁ। তাৰ পাছত পৰীক্ষা কৰি চাব\nলাগে। গতিকে বিজ্ঞান হ’ল পৰ্যবেক্ষণ আৰু\nপৰীক্ষাৰ জৰিয়তে লাভ কৰা৷ জ্ঞান।\n\nগছৰ পুলি এটাৰ উভউদাহৰণকে\nলোৱাচোন। পুলিটো ৰ’দত বাঢ়ে নে ছীত\nবাঢ়ে সেয়া পৰ্যৱেক্ষণ কৰিব পাৰা। পানী\nসেয়াও চাব পাৰা। আকৌ পাঁচ দিনৰ মূৰে\n\nমূৰে কিমান ওখ হয় পৰ্যৱেক্ষণ কৰিব পাৰা।\nপাছত তেনে পুলি টাবত ৰুই পৰীক্ষা কৰিব\n\nচিত্র 1.2: গণিত বোনে এট    পাৰা। এনে পৰ্যবেক্ষণ আৰু পৰীক্ষাৰ\nজৰিয়তে তুমি পুলিৰ বৃদ্ধি সম্পৰ্কে জ্ঞান\nলাভ কৰিবা।\n\n[] ক্ৰিয়াকলাপ 1.1:\nএনে ঘটনা লক্ষ্য কৰিছানে যি বিজ্ঞান নহয় ? কেইটামান তেনে ঘটনা উল্লেখ কৰাচোন।",
+  "confidence": {
+    "word_count": 180,
+    "mean": 90.56,
+    "median": 95.19,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.081,
+  "page_elapsed_seconds": 3.425,
+  "peak_process_tree_rss_bytes": 279781376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

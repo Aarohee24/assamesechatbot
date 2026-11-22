@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত            ১৫\n\nপ্র £-- যে অঙ্গ ধৌত করা ফরজ উষহার সামান্য জায়গা যদি শুদ্ক থাকিয়|\nস্বায় তবে সেক্ষেত্ৰে অজু সিদ্ধ হইবে কিনা?\n\nউ 3 যদি একচুল পরিমাণ জায়গা শুদ্ধ থাকিয়া যায় তরে অজু শুদ্ধ\nহইবেনা।\n\nপ্ৰ £-- যদি কোন ব্যক্তির ছয় আঙ্গুলী থাকে ষষ্ঠ আঙ্গুলী ধৌত করা\nফরজ কিনা?\n\nউ ঃ-- ধৌত করা ফরজ এবং ভাবে যে অঙ্গ-প্রত্যঙ্গ অতিরিক্ত সৃষ্ট\nহইবে এবং এঁ স্থানের সংশ্লিষ্ট থাকিবে। তখন এই অতিরিক্ত অঙ্গ-প্রত্যস ধৌত\nবরাও ফরজ।\n\nপ্ৰ ঃ-_- মুছেহ করার অৰ্থ কি?\n\nউ ঃ-- হাতকে জল দ্বারা সিক্ত করিয়া এঁ সিক্ত হসত্তকে কোন অঙ্গের\nউপর চালু করার নাম মুচেহ।\n\nপ্ৰ $-- মাথা মুছেহ করিবার জন্য নুতন জল প্ৰয়োজন কিনা? অথবা\nহাতের সিক্ততাই যথেষ্ট?\n\nউ ঃ-_ নুতন পানী লগওয়া শ্ৰেয়, কিন্তু হাত ধৌত করার পর হাতের\nসিক্ততা দ্বারা মাথা মুছেহ করিলে বৈধ হয় কিন্তু সিক্ত হাত দ্বারা একবার\nমুছেহ করিয়া লইলে উহার দ্বারা৷ অপর জাগা মুছেহ করা বৈধ নহে। এইভাবে\nযদি হাতের মধ্যে সিক্ততা থাকে না-এবং কোন ধৌত করা অথবা মুছেহ\nকরার স্থানে হাত লাগাইয়া হাত সিক্ত করিলে এহেন সিক্ত হাত দ্বারা মুছেহ\nকরা বৈধ নহে।\n\nপ্ৰ $=- উলঙ্গ অনাবৃত মাথার উপর বৃষ্টির জলের কোটা পড়িয়া গেল\nএবং শুদ্ক হাত মাথার উপর চালু করিয়া লইল এবং উহাতে বৃষ্টির জল\nমাথার উপর ছড়াইয়া পড়ে এই অবস্থায় মুছেহ সম্পন্ন হইবে কিনা?\n\nউ. ঃ-- সম্পন্ন হইবে।\n\nপ্র $-- চক্ষুর ভিতর ভাগ ধৌত করা ফরজ কি না?\n\nউ £-- চক্ষের ভিতর ভাগ, নাকের ভিতর ভাগ এবং মুখের ভিতর\nভাগ ধৌত করা অজুর মধ্যে ফরজ নহে।\n\nপ্ৰ ঃ-- অজু করার পর মাথার চুল কামাইয়া লইলে অথবা নখ কাটিয়া\nলইলে তখন মাথার উপর পুনবরি মুছেহ করা অথবা নথ ধৌত করা\nপ্ৰয়োজনীয় কি না?\n\nউ £ঃ-- প্ৰয়োজনীয় নহে।",
+  "confidence": {
+    "word_count": 267,
+    "mean": 84.92,
+    "median": 91.61,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1594,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.646,
+  "page_elapsed_seconds": 2.793,
+  "peak_process_tree_rss_bytes": 243474432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

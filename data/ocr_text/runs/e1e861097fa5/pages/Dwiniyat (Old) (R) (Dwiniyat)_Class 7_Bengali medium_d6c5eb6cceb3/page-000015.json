@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০              দ্বীনিয়াত\n\nপ্ৰ + ময়দোর দিক হইতে প্ৰত্যেক সাহাবী একই পযায়ে অধিষ্ঠিত\nকিনা?\n\nউ 2১--= সাহাবীদের মযদিাোর মধ্যে তারতম্য আছে, তবে সকল সাহাবী\nহজরতের অন্যান্য শিষ্য হইতে শ্ৰেষ্ঠ।\n\nপ্ৰ ঃ-- সাহাবীদের মধ্যে কে কে শ্ৰেষ্ঠ?\n\nউ ঃ-- সাহাবীদের মধ্যে চারিজন সৰ্বশ্ৰেষ্ঠ যথা £-- (১) হজরত আবু\nবক্বর ছিদ্দিক (রাঃ) (২) হজরত উমর ফাকরক (রলাঃ) (৩) হজরত উছ্‌মান\n(রাঃ) (৪) হজরত আলী (বর্লাঃ)। এই চাবরিজন হজ্রতের সমৃত্যুর পর\n\nধারাবাহিক ভাবে হজরতের খলিফা বা স্থলাভিষযিক্ত হইয়াছিলেন।\n\nপ্ৰ £-- খলিফা হওয়াব অর্থ কি?\n\nউ ঃ-_ হজরতের মৃত্যুর পর তাহার ধৰ্মকে সামলাইয়া রাখা এবং তার\nশৃত্মলাকে সুস্থ রাখার জন্য যাহারা হজরত মোহাস্মদ (দঃ) এর স্থলবৰ্তী নিযুক্ত\nহইয়াছেন 'তাহাদের খলিফা বলা হয়। হজরতের মৃত্যুর পর তাহার সকল\nউন্মত এক জোট হইয়া হজরত আবৃুবক্ধর (রাঃ) কে খলিফা নিবাচিত করেন।\nতাহার মৃত্যুর পর হজরত উমর ফাক্লক (রাঃ) ২ য় খলিফা নিযুক্ত হন। তাহার\nমৃত্যুর পর হজরত উছমান (রাঃ) তৃতীয় খলিফা নিযুক্ত হন। তাহার মৃত্যুর\nপর হজরত আলী (রলাঃ) ৪ৰ্থ খলিফা নিযুক্ত হন। এই চারিজন খলিফাকে\nখোলাফায়ে ব্লাশিদিন বলা হয়। তাহাদের শাসন পদ্ধতি সম্পূৰ্ণ ধৰ্ম ভিত্তিক\nজনকল্যাণ করিয়াছিলেন ৷ তাহাদের যুগকে খাটী ইছলামী গণতান্ত্রিক যুগ বল৷\nহ্য়।\n\nওলিত্ত এবং আল্লার ওলীদের বৰ্ণনা\n\nপ্ৰ $-- ওলী কাহাকে বলে?\n\nউ -_ যে মুছলমান আল্লাহ এবং বর্ছুলের নিদেশে থাকিয়া অত্যাধিক\nউপাসনা করেন এবং পাপ কাৰ্য হইতে বাচিয়া থাকেন এবং সংসারের সবকিছু\nহইতে খোদা এবং ব্ছুলের সঙ্গে তাহাদের মমতা বেশী এহেন ব্যক্তিদেরে\nখোদার প্ৰিয় বন্ধু ও ওলী বলা হয়।\n\nপ্ৰ ঃ-- ওলীর পরিচয় কি?\n\nউ $-- ওলীর পরিচয় এই যে তিনি মুছলমান সুধী এবং খোদাকে\nভয়কারী বেশী উপাসক, খোদা এবং র্ছুলের প্ৰতি মমতা অত্যাধিক, সংসারের\nলালসা নাই এবং পরকালের ব্যাপ্যারে বেশী চিন্তাশীল।",
+  "confidence": {
+    "word_count": 260,
+    "mean": 83.45,
+    "median": 91.73,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.856,
+  "page_elapsed_seconds": 3.09,
+  "peak_process_tree_rss_bytes": 237256704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

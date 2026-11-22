@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এই তিনিখন পৰিষদৰ উপৰি অসমৰ ভৈয়াম অঞ্চলত বসবাস কৰা জনজাতীয় লোকসকলৰ উন্নয়নৰ\nবাবেও মুঠ ৬ খন স্বায়ত্ত শাসিত পৰিষদ গঠন কৰা হৈছে -\n. দেউৰী স্বায়ত্তশাসিত পৰিষদ\n. ঠেঙাল কছাৰী স্বায়ত্তশীসিত পৰিষদ\nসোণোৱাল কছাৰী স্বায়ত্তগীসিত পৰিষদ।\nএইকেইখনৰ উপৰি অসমৰ পিছপৰা সম্প্ৰদায়সমূহৰ আৰ্থ-সামাজিক উন্নয়নৰ বাবেও অসম চৰকাৰে\nপ্রায় ৩৩ খন উন্নয়ন পৰিষদ গঠন কৰিছে।\n\nলে ন ০ ০ ৫ ৮\n\nতলত দিয়া প্রশ্নমবোৰৰ উত্তৰ লিখা--      ঢু\n\n১. ভাৰতৰ সংবিধানৰ কোনটো অনুসূচীৰ কিমান নম্বৰ অনুচ্ছেদৰ আধাৰত স্বায়ত্তপাসিত জিলা পৰিষদ\nগঠন কৰা হৈছে?\n\n২. টাং ৰ সম্পূৰ্ণ ৰূপটো কি?\n\n৩. অসমত মুঠ কিমানখন স্বায়ত্তপাসিত পৰিষদ আছে?\n\n৪. অসমৰ কোনকেইখন জিলাত পঞ্চায়ত ব্যৱস্থা নাই?\n\nধাৰণা চিত্ৰ (:0100০){ [%]9])) ৪\nস্থানীয় স্বায়ত্তশাসন\n|             |               |\nগাঁও অঞ্চলৰ বৃষভ            নগৰ অঞ্চলৰ ঢ\nগাও      আঞ্চলিক      জিলা      নগৰ      পৌৰসভা      পোৰ\nপঞ্চায়ত     পঞ্চায়ত     পৰিষদ    সমিতি              নিগম\n\n“স্থানীয় স্বায়ত্তশাসনৰ লগত জড়িত কেইটামান তাৎপৰ্যপূৰ্ণ বছৰ\n\n১৯৫২         ১৯৫৯          ১৯৯৩          ১৯৯৪         ২০০৩        ২০২০\n\nস্থানীয়           প্ৰথমখন         পঞ্চায়তীৰাজ        গীও অঞ্চলত          13]            ]3]/%])\nস্বায়ত্তশীসিত            গাও                    ব্যৱস্থা               তিনি তৰপীয়া          গঠন কৰা           ক 3]\nপৰিষদ গঠন        পঞ্চায়ত            কাৰ্যকৰী           স্বায়ত্তশাসনৰ           হয়।             হিচাপে\n\nকৰা হয়।           স্থাপন কৰা              কৰা হয়।           ব্যৱস্থা কৰা হয়।                                   ঘোষণা\nহয়।                                                                           কৰা হয়।",
+  "confidence": {
+    "word_count": 176,
+    "mean": 86.43,
+    "median": 95.32,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.984,
+  "page_elapsed_seconds": 3.269,
+  "peak_process_tree_rss_bytes": 286400512,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

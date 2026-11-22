@@ -1,0 +1,67 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 87,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তলত সাঁতোৰে সিহঁতে নাসাৰম্ব ([খ০907]9) বন্ধ কৰি\nথ’ব পাৰে আৰু বহু সময়লৈকে পানীৰ তলত থাকিব\nপাৰে। ইয়াৰ ঘাণ শক্তি (৪০০৪০ 0০{ 906|]) তীব্ৰ\nহোৱাত অতি সহজে আহাৰৰ বাবে চিকাৰ ধৰিব পাৰে।\n\n7.3 চিত্ৰত দিয়া ফ্লো-চার্ট (10 ০181)ৰ সহায়ত\n\nবগা ভালুকৰ অভিযোজন (/০৪])08.00105) সম্পৰ্কে\n\nআমি বুজিব পাৰিম ।\n\nমেৰু অঞ্চলত বাস কৰা সকলোৱে জনা আন\nএবিধ প্রাণী হ’ল পেংগুইন (চিত্ৰ- 7.4)। ইহঁতো বগা\nআৰু বগা পশ্চাদভূমিৰ সৈতে ধুনীয়াকৈ মিলি যায়।\nশীতৰ পৰা ৰক্ষা পাবৰ বাবে ইয়াৰো এখন ডাঠ ছাল\nআৰু প্ৰচুৰ পৰিমাণে চৰ্বি আছে। পেংগুইনবোৰ একে\nলগে জুম বান্ধি ([]000160 10802) বা থুপ\nখাই থকাৰ ছবি তোমালোকে নিশ্চয় দেখিছা। নিজৰ\nশৰীৰটো উষ্ণ কৰি ৰখাৰ বাবে এনেদৰে জুম বান্ধি\nথাকে। তোমালোকে যেতিয়া মানুহেৰে ভৰা প্ৰেক্ষাগৃহ\n\nকথা মনত পেলোৱাচোন।\n\nচিত্ৰ 1.4 পেংগুইনবোৰ জুম বান্ধি আছে\n(]১21]19001119 ]1000160 0086200121)\n\nবগা ভালুকৰ দৰে পেংগুইনবোৰেও ভালদৰে\nসাঁতুৰিব পাৰে। শৰীৰটো সুগঢ়ী (90968010111060)\nআৰু ভৰিবোৰ পতাযুক্ত (7660 118৬6 ০৮৪) বাবে\nসিহঁতে ভালদৰে সাঁতুৰিব পাৰে (চিত্ৰ-7.5)।\n\nমেৰু অঞ্চলত বাস কৰা আন প্রাণীসমূহ হ'ল\nবিভিন্ন ধৰণৰ মাছ (]\"181169), মেথোন ([%[091<\n০৯৮]), বন্পা হৰিণ (]২ 11106), শিয়াল (]\"0%29),\nচীল (৪০৪15), তিমি (ঘ্ব]18158) আৰু চৰাই (31105) ৷\n\n-                     বগা বৰফৰ আঁৰত বগী\nইহঁতক চিকাৰী আৰু চিকাৰে       নোমাল ছালখন সহজে দেখা       ( ফনজঙনশজস। >\nসহজে দেখা নাপায়             পোৱা নাযায়।\n\nচিত্ৰ 7.3 বগা ভালুকৰ অভিযোজন\n(/১081208.00119 011)0191' 06891)\n\nবতৰ, জলবায়ু আৰু জলবায়ুৰ লগত প্রাণীৰ অভিযোজন                      173",
+  "confidence": {
+    "word_count": 212,
+    "mean": 80.48,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 8 diacritics",
+        "Detected 8 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.233,
+  "page_elapsed_seconds": 3.621,
+  "peak_process_tree_rss_bytes": 295006208,
+  "tesseract_warnings": [
+    "Detected 8 diacritics",
+    "Detected 8 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 173,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বায়ুয়ে ঠাই আগুৰেনে? বায়ুৰ ভৰ আছেনে? বায়ু পদাৰ্থ হয়নে? ক্ৰিয়া-কলাপৰ\nজৰিয়তে জানো আঁহা।\n\n[] ক্ৰরিয়া-কলাপ 5.12 :\n\nএটা কাচৰ গিলাচ, এটা ডাঙৰ বহল মুখৰ বাটি বা সৰু চৰিয়া, এটুকুৰা শুকান\nকাগজ আৰু অলপ পানী লোৱা। গিলাচৰ ভিতৰখন ভালদৰে মচা। গিলাচটোৰ ভিতৰৰ\nফালে তাৰ তলিত কাগজখন আঠা লগাই ৰাখা। চৰিয়াটোত পানী লোৱা। গিলাচটো\nওভোটাই পানীৰ ভিতৰলৈ সুমাই দিয়া। তাৰ পিছত গিলাচটো উলিয়াই আনা। কাগজখন\nতিতিছেনে চোৱা।\n\nকাগজখন নিশ্চয় তিতা নাই। কিয় তিতা নাই? আচলতে গিলাচৰ ভিতৰত বায়ু\nআছিল। বায়ুৱে গিলাচৰ ভিতৰত ঠাই আগুৰি থকা বাবে গিলাচৰ সম্পূৰ্ণ ভিতৰলৈ পানী\n\nচিত্ৰ 5.14.: বায়ুয়ে ঠাই আগৰে\n\n[] ক্ৰিয়া-কলাপ 5.13 :\nতোমাক লাগিব এটা বায়ু নভৰোৱা, ফুটবল, তুলাচনী আৰু অলপ বালি।\nএখন তুলাচনীৰ বাওঁফালে ফুটবলটো ৰাখা [(চিত্ৰ 3.15 (8)] ৷ এতিয়া তুলাচনীখনৰ\nসোঁফালে অলপ অলপকৈ বালি দি যোৱা। এটা সময়ত ইয়াৰ সূচকে শূন্য অৱস্থান পাব।\nইয়াৰ পাছত আৰু বালি নিদিবা। এতিয়া আমি ক’ব পাৰোঁ তুলাচনীখনৰ দুয়োফালৰ ভৰ\nসমান। অৰ্থাৎ নুফুলোৱা ফুটবল আৰু বালিখিনিৰ ভৰ সমান।\n\nবায়ু ভৰোৱা\n\nচিত্ৰ 5.15 ১ বায়ুৰ ভৰ আছে\n\nউৰ ‘য়কেভেতলেলেলেলেেেচেচেচলেচলেচলেলেলেলেনেচেনেভঁঁল্ল')",
+  "confidence": {
+    "word_count": 163,
+    "mean": 88.38,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.366,
+  "page_elapsed_seconds": 3.742,
+  "peak_process_tree_rss_bytes": 303919104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ'[চাসখ0'চু/ বিজ্ঞান (]\"/%[][' -][) =: /% ][}|]][[28.] ৭০0]10]00%0 [0%1])00|; [ছাগ ][]]। ৮ সভ্ৰগ্[]]636 %\n[01815] ]3[18103 6) [0] ']835 = \"\"]][] 090%9210[720] [)% শপৈ] [২], শক [)2]]]], ৪]0]0|।৮৮] ]7%\n=] [][, ৷৪ও3]]], 874] []110]019|120 [00% ||16 /%৯৪998]] ৭182. ][60%11)00|; ]7[00101]0]} 8170] ])1[0]]0831|0[]\n[0[[ধ073107] [;}]]][৮0], [71] 8]]811, [)]] [লঁ|]র|| 0| 070%[, 2] /%5[]\n\n[118], [];/%][1]}[){)|%\n\n%]| ॥7}1[% |6861%68} + খ0) |6]}[00|1[[0]] }]} ৪]]% [0)}]]] 00] 1]]]৭ [00];, |] \"৮]]0|৮ 00 ][]0 [এ[1\n(2 ণেনে৷| 10]1120761 0010181101] 17] ট011108] 80010|25 00116%12%%5.} 1]]}|%। [06 1]]18.02 \"ষ][]]001}{} %খ]]|[ৌ]]\nগ।1[]101\"1791]0}। |]\"0]]] 1]16 [)।|[|15|121,\n\n(70|)\"%1'1]2]}|                           ন         দ্0] [ৰ], খা [)6:]]}} 30000] ৭08,137][, /%5ওয]]\nপ্ৰথম প্ৰকাশ                                ন           21044\n700 05%] কাগজত মুদ্ৰিত পাময্মপঞি\nপ্রকাশক                                      ঠ          অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ; বিতৰণৰ বাবে অসম ৰাজ্যিক পাগ্যপুথি\n\nপ্ৰণয়ন আৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্ৰবণশিত পাঠাপৃথি |\n\nমুদ্ৰক                                 -         মা মনসা প্ৰিণ্টাৰ্চ\nজু-ৰোড়, গুৱাহাটী-২৪",
+  "confidence": {
+    "word_count": 118,
+    "mean": 33.67,
+    "median": 23.29,
+    "minimum": 0.0,
+    "maximum": 95.58
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9678,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.203,
+  "page_elapsed_seconds": 2.437,
+  "peak_process_tree_rss_bytes": 272625664,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

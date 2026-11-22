@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 200,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 15.28 এখন ৰামধেনু (/* 1811100%)\n\nৰামধেনু ওলায়। আকাশত ৰামধেনুখন বহুতো ৰং থকা\nএক বৃহৎ বৃত্তচাপ (/$৮০)ৰ দৰে দেখা যায় (চিত্র\n15.28)।\n\nৰামধেনুৰ ৰং কেইটা? ভালদৰে লক্ষ্য\nকৰিলে ৰামধেনুত সাতটা ৰং দেখা যায়। অৱশ্যে\nআটাইকেইটা ৰং সহজে চিনিব নোৱাৰি। ৰং কেইটা\nহ’ল- ৰঙা, কমলা, হালধীয়া, সেউজীয়া, নীলা, ঘন\nনীলা (11010) আৰু বেঙুনীয়া।\n\nইয়াৰ অৰ্থ এয়ে নেকি যে বগা\n\nপোহৰত সাতটা ৰং আছে?\n\nসূৰ্যৰ পোহ্ৰত এখন চিডি\n(/%* ০011|28.0{ 0191 |)18.060 11] 9001)\n\nচিত্ৰ 15.29\n\nফু মাৰি চাবোন পানীৰ বুদবুদ উঠালে সেইবোৰ\nৰং-বিৰঙী হৈ পৰে। একেদৰে চিডি (02) এখনৰ\nপৃষ্ঠত পোহৰ প্রতিফলিত হ’লেও বহু ৰঙৰ উৎপত্তি\nহয় (চিত্ৰ 15.21)।\n\nএইবোৰ অভিজ্ঞতাৰ আধাৰত আমি ক’ব পাৰোঁনে\nযে সূৰ্যৰ পোহৰ বিভিন্ন ৰঙৰ মিশ্ৰণ ? আমি অনুসন্ধান\nকৰি চাওঁ আহা।\nত্ৰিয়াকলাপ (/%৫ঘ1ে)15.11\n\nএটুকুৰা কাচৰ প্ৰিজম (])}[11]}) লোৱা৷ অন্ধকাৰ\nকোঠালি এটাৰ খিৰিকীৰ সৰু ছিদ্ৰ এটাৰ মাজেৰে\nসূৰ্যৰ ক্ষীণ কিৰণ (]খণ্জা\"0০স 9681}) এটা প্ৰিজম\nঢুকুৰাৰ পৃষ্ঠ এখনত পৰিবলৈ দিয়া। আনখন পৃষ্ঠইদি\nওলাই অহা পোহৰ এখিলা বগা কাগজ বা বগা\n\nচিত্ৰ 15.30 প্রিজম এ\n\n186\n\nসূৰ্যৰ পোহৰক সাতোটা ৰঙলৈ পৃথক কৰিছে\n\n(/% |)1191]] 9])2|1[9 5101]]19]][{ 11100 ৪6৮61] ০০10001'9)",
+  "confidence": {
+    "word_count": 171,
+    "mean": 83.48,
+    "median": 95.1,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.834,
+  "page_elapsed_seconds": 3.381,
+  "peak_process_tree_rss_bytes": 290533376,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

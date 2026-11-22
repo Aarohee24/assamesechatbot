@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 43,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ --- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৯) পাঠৰ পৰা যুৰীয়া শব্দবোৰ বিচাৰি উলিয়াই লিখা।\nযেনে--- খুজি-মাগি\n১০) তলৰ শব্দবোৰৰ সমাৰ্থক শব্দ লিখা।\n\n১১) বিপৰীত অৰ্থ বুজোৱা শব্দ লিখা।\n(আনন্দ ধনী গুৰু উজু প্রাচীন}\nজানো আহা\n\n“বেদকণ্ঠ বিদগ্ধ পণ্ডিত। ব্যাকৰণ, স্মৃতি, ন্যায়, দৰ্শন আদি সকলো শাস্ত্ৰৰ কথা তেওঁৰ জিভাৰ\nআগতেই। বেদকণ্ঠৰ চতুষ্পাঠীত দুকুৰিজনমান ছাতৰ আছিল।”\nওপৰৰ কথাখিনিৰ তলত আঁচ টনা পদকেইটালৈ মন কৰা।\nবেদকণ্ঠ £ এই পদে নাম বুজাইছে। সেইবাবে ই বিশেষ্য পদ। ব্যক্তি, স্থান, গুণ, সময় আদিৰ\nনাম বুজোৱা পদেই বিশেষ্য পদ।\nবিদগ্ধ :? ‘বিদগ্ধ’ পদে ‘পণ্ডিত’ পদৰ বিশেষ গুণ বুজাইছে। আন পদৰ গুণ, দোষ, সংখ্যা বা\nপৰিমাণ, অৱস্থা, আধিক্য, উচ্চতা আদি বুজোৱা পদকে বিশেষণ পদ বোলে।\nতেওঁৰ /£ এই পদক ‘বেদকণ্ঠ’ৰ বিকল্প হিচাপে ব্যৱহাৰ কৰা হৈছে। বিশেষ্য পদৰ বিকল্প ৰূপে\nব্যৱহৃত পদক সৰ্বনাম পদ বোলে।\nআছিল £ এই পদে কৰ্তাৰ কাৰ্য সম্পন্ন হোৱা বুজাইছে। কৰ্তাৰ কাৰ্য বা উদ্দেশ্য সম্পূৰ্ণ বা\nঅসম্পূৰ্ণভাৱে (অসমাপিকা আৰু নঞৰ্থকৰ ক্ষেত্ৰত) সম্পন্ন কৰা পদক ক্ৰিয়া পদ\nবোলা হয়।\nআদি এনে পদ কেতিয়াও বিভক্তিযুক্ত নহয় আৰু সদায় একে ৰূপতে থাকে। বাক্যত কেতিয়াও\nৰূপ সলনি নোহোৱা পদকে অব্যয় পদ বোলে।\n\n(৩৩)",
+  "confidence": {
+    "word_count": 174,
+    "mean": 90.13,
+    "median": 94.86,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.489,
+  "page_elapsed_seconds": 3.913,
+  "peak_process_tree_rss_bytes": 270237696,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডেড খালী ঠাই পূৰ কৰা।\n\nওজা-পালি অনুষ্ঠানৰ মুখ্য পৰিচালকজন হ’ল                  ৷ ওজাই আখ্যানৰ\n\nলগাই দিয়ে। পালিসকলে সেই দিহা        দোহাৰে।\n\nৰসাল কথাৰে লোক-সমাজক আকৃষ্ট কৰে।\n\nখ --- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৪2  |}; পাঠত থকা যুক্তাক্ষৰযুক্ত শব্দৰোৰ লিখা। সেইবোৰত পোৱা যুক্তাক্ষৰবোৰ ভাঙি\nদেখুওৱা। প্ৰত্যেকটো যুক্তাক্ষৰ ব্যৱহাৰ কৰি দুটাকৈ শব্দ লিখা।\n\nউদাহৰণ\" গন } => => ৰ +) যই ঠই ষষ্ঠ গৰিষ্ঠ\n\nএট  উদাহৰণত দেখুওৱাৰ দৰে শব্দ গঠন কৰা।\n\nউদাহৰণ-- ঢোল => চুলীয়া             ভাও => ভাৱৰীয়া\nখোল =>                     লগ =>\nগোঁফ =>                               কাষ =>\nযোৰ =>                  নাও =>\nভ্স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 91,
+    "mean": 83.49,
+    "median": 93.22,
+    "minimum": 11.83,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.314,
+  "page_elapsed_seconds": 2.611,
+  "peak_process_tree_rss_bytes": 241119232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

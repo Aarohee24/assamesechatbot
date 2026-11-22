@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 245,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চন্দ্ৰই পৃথিৱীক এবাৰ প্রদক্ষিণ কৰিবলৈ প্রয়োজন\nহোৱা সময়খিনিত চন্দ্ৰই নিজ অক্ষত এটা আৱৰ্তনে৷\n\nসম্পূৰ্ণ কৰে।\nচন্দ্ৰৰ পৃষ্ঠতল\n\nকবি আৰু সাধুকথা কোৱা লোকৰ বাবে চন্দ্ৰ\nএটা কৌতূহলোদ্দীপক বস্তু। কিন্তু মহাকাশচাৰীসকলে\nচন্দ্ৰৰ পৃষ্ঠত অৱতৰণ কৰি দেখা পালে যে চন্দ্ৰৰ পৃষ্ঠ\nধূলিময় আৰু অনুৰ্বৰ। ইয়াত বহুতো৷ সৰু বৰ গাঁত\nআছে। ইয়াত বহু সংখ্যক থিয় আৰু ওখ পৰ্বতো\nআছে (চিত্ৰ-18.7)। ইয়াৰে কিছুমান পৃথিৱীৰ উচ্চতম\nপৰ্বতবোৰৰ সমানেই ওখ।\n\nচিত্র 18.7 : চন্দ্ৰৰ পৃষ্ঠ\n\nচন্দ্ৰৰ কোনো বায়ুমণ্ডল নাই। ইয়াত পানীও\nনাই। চন্দ্ৰত জীৱৰ অস্তিত্ব সম্ভৱনে?\n\nআমি চন্দ্ৰত কোনো শব্দ\nশুনিমনে?\n\nআমি 5 নং অধ্যায়ত শিকিছিলোঁ যে\n\nমাধ্যম অবিহনে শব্দ সঞ্চালিত হ’ব\n\nনোৱাৰে। তেনেহ’লে চন্দ্ৰপৃষ্ঠত আমি\nকেনেকৈ শব্দ শুনিম?\n\nচিত্ৰ 18.8: চন্দ্ৰপৃষ্ঠত এজন মহাকাশচাৰী\n\n18.2 তৰাসমূহ ঃ\n\nৰাতিৰ আকাশত তুমি আৰু কি কি বস্তু\nদেখা? আকাশত বহুত তৰা ওলায়। ডাঙৰ নগৰৰ\nপৰা আঁতৰলৈ গৈ অন্ধকাৰ নিশা আকাশখন ভালকৈ\nপৰ্যৱেক্ষণ কৰা। সকলোবোৰ তৰা সমানে উজ্জ্বলনে?\n\nতৰা আৰু সৌৰজগত / ৪7.1২9 খা) [}]}; ৪01.1২ ৪\"%৮/97]খ]\n\n230.",
+  "confidence": {
+    "word_count": 147,
+    "mean": 89.96,
+    "median": 95.56,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.801,
+  "page_elapsed_seconds": 3.071,
+  "peak_process_tree_rss_bytes": 309018624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

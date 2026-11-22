@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 110,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঢেি     1.60 ]\"[9%\nদছছ়া(]] [%[411609\n\n0])61) ৮001\" ])>21101| 060, ০810 000 1110 016 110 681] ? 13010\" ৮000 |]18%46\n10 ০%2011006 10106 10 02210 16 0001 01 16 1611186218001\" 11} ৮001\" ]1009624\nঘ্বখ[])খা 00629 019 118|2761]1/ /১০00৪||ঠ, |109 11] 901]6 ]726110]] 060, 00019 01\n161115218001, 11] (09, 5001.219, 00019 01 10086 01 ০001200810 11189611609 816\n800801160. [101] 01 00]16019 17802 011101] (9000 89 11011 116260129, 81|21119, 118119\n200.) গ]1]116.1[0 1118911618. ]11800, 18116 19 9001] 8 ৪90108081106 {18 ৪10.809\n1101] ]11(6 9010908110629. 120 ৮000 110\" 81200 0116 11016 11]1)010801]{ |)10])21[%/\n01 111891160 ? ১012|2৮0962 ৮00 118116 8 111891162{ ্1{]] 016 1161]) 01 8 101680, ৮000\nঘ্ম1|| ৪66 1801188 0116 2110 11066])8 |)0111[1]16 08109 1101] স্]]1]6 6 00121\"\n2100 .100ম8109 ৪000]]. ']]]19 11]18|029 0202117]1118.101] 01 011600101] 2689121. ']]]11]1\n01 8.911|) 381]1116 011 8 ৮৪৪(928,. 1)0 000 10ঘ\"ম.|10ছ্ম 881|019 020211]1116 2\n0116001011 01 016 98111116 91]1]) ? '[]16% 096 8 0001 ০৪||০৫ ০0111|2899. [[( ০01181919\n018111660126 31181260 1188112{ 11১60 ড্1{]]11] 1{ 110] ৫৪81] 10086 166], ]খ০ছছ\n00.০৪1] 011021908010 ||10 %ম 8 ৪81]01' 06216111]11168 011600101] ঘ্ম1]]1|2 ৪81]1116 {])6\n\n911|), ৫0110 ৮000 ?\n\n(0?) 12670] 00%\n\n(৫) 186/719679107                                                                     (9) /এ]//1]78}7\n\n1\"18. 4.1 ১ ১০৮৫০ 00160495 19৮)7676 700867761 15 00560",
+  "confidence": {
+    "word_count": 194,
+    "mean": 44.42,
+    "median": 39.04,
+    "minimum": 0.0,
+    "maximum": 94.66
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4802,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.682,
+  "page_elapsed_seconds": 4.094,
+  "peak_process_tree_rss_bytes": 257298432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

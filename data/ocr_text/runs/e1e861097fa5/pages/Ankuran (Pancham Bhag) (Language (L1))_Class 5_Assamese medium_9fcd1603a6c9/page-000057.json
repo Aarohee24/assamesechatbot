@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিশ্ববিদ্যালয়ৰ কথা উল্লেখ কৰিব পাৰি। এই পুথিভঁৰালটো অতি ডাঙৰ আৰু বিখ্যাত\nআছিল।\n\nএই অনুষ্ঠানতে অৱসৰপ্রাপ্ত শিক্ষক শ্ৰীযুত কমল বৰুৱাই শিশু উপযোগী দহখন\nকিতাপ পুথিভঁৰাললৈ দান কৰে। তাৰে মাজত ‘বিজ্ঞানৰ সৰু সৰু কথা- ১” নামৰ কিতাপ\nএখনো আছে। সেইখন আনি মই পঢ়িলোঁ। কিতাপখন পঢ়ি বৰ ভাল লাগিল। তাৰ পৰা\nবহু কথা শিকিবও পাৰিলোঁ । অৱশ্যে এইখনৰ দ্বিতীয় ভাগো আছে। সেইখন পুথিভঁৰালটোৰ\nবাবে সংগ্ৰহ কৰিবলৈ মই পুথিভঁৰালী দাদাক খাটনি ধৰিছোঁ। তুমিও যেনেতেনে কিতাপ\nদুখন আনি পঢ়িবা দেই। সেই দুখনৰ পৰা বহুতো নতুন কথা জানিব পাৰিবা ।\n\nঅ’, তোমালোকৰ গাঁৱত এইবেলি গ্ৰন্থমেলা’ পতাৰ কথা বাতৰি কাকতত পঢ়িবলৈ\nপাইছোঁ। তুমি কিবা নতুন কিতাপ কিনিছা নেকি? কিনিছা যদি জনাবাচোন। তোমাৰ পঢ়া-\nশুনা কেনে চলিছে? মোৰ একপ্রকাৰ ভালেই। চিঠিৰ উত্তৰ দিবা। শেষত পুনৰ মৰমেৰে\nসামৰিলোঁ। ইতি -=\n\nতোমাৰ মৰমৰ বন্ধু\nশ্ৰীনিয়ৰ বেজবৰুৱা                  মুকুট\nপ্রযত্লে - শ্ৰীয়ুত আনন্দ বেজবৰুৱা\nপাণবজাৰ\n\nশট.%.',\nজিলা - ও অৰপাপশি\n\n= আমই\n\nউচল বৰ",
+  "confidence": {
+    "word_count": 142,
+    "mean": 87.11,
+    "median": 95.54,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.242,
+  "page_elapsed_seconds": 3.736,
+  "peak_process_tree_rss_bytes": 252051456,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

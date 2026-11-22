@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 164,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তালিকা 13.3 এটা গতিশীল বলে অতিক্ৰম কৰ দূৰত্ব আৰু সময়\n\n(])190811062 1]10%46৫0 8170 {11116 8]0211 06% 8 1]10খ111608]])\n\nকিছুমান প্রাণীৰ দ্ৰুতি তালিকা 13.4 ত কি মি/ঘ\nহিচাপত দিয়া আছে। তুমি এই জ্ৰুতিসমূহ মি/ছে\nএককত গণনা কৰিবলৈ চেষ্টা কৰা।\n\nকক্ষপথত (01610) উপগ্ৰহ (98026||1(2) নিক্ষেপ\nকৰা ৰকেট (0২০০০) বোৰে প্রায়ে 8 কি মি/ছে দ্ৰুতি\nলাভ কৰে। আনহাতে এটা কাছৰ দ্ৰুতি মাত্ৰ 8 চে মি/\nছে। কাছৰ তুলনাত ৰকেট কিমান দ্ৰুত তাক নিৰূপণ\nকৰিব পাৰিবানে?\n\nকৌনো বস্তুৰ দ্ৰুতি জানিলে বস্তুটোৱে কোনো নিৰ্দিষ্ট\nসময়ত অতিক্ৰম কৰা দূৰত্ব উলিয়াব পাৰিবা৷ তোমালোকে\nদ্ৰুতিক সময়েৰে পূৰণ কৰিলেই উত্তৰটো পাবা।\n\nগতিকে, অতিক্ৰম কৰা দূৰত্ব= দ্ৰুতিশসময়।\nনিৰ্দিষ্ট দ্তিৰে গতি কৰি থকা কোনো বস্তুৱে এটা\nপ্রদত্ত দূৰত্ব অতিক্ৰম কৰিবলৈ প্রয়োজন হোৱা সময়ো\n\nতোমালোকে গণনা কৰি উলিয়াব পাৰিবা৷ প্ৰয়োজনীয়\nসময়= দূৰত্ব/৷দ্ৰুতি\n\nস্কুটাৰ বা মটৰ চাইকেলৰ হেণ্ডেলৰ ওপৰত এটা মিটাৰ\nথকা নিশ্চয় দেখিছা ৷ একেদৰে গাড়ী, বাছ, আৰু অন্যান্য\nযান-বাহনৰ ডেছ ব'ৰ্ড (১8911 ৮০৪/)তো মিটাৰ\nলগোৱা থাকে। চিত্রৰ- 13.7 গাড়ী এখনৰ ডেছ ব'ৰ্ড\n\nতালিকা 13.4 কিছুমান প্ৰাণীয়ে লাভ কৰা ক্ষিপ্রতম দ্ৰুতি\n\n(]\"890690 5])6০৫0] ]18.( 901116 91]]}]]9]95 081] 9 ((9]1])\n\n1       শেন চৰাই (৪1001)         320           320%1006\n60%66\n\n2      চিতা বাঘ (0162080))        112\n\n3                 নীলা মাছ (03106 9]))                     40-46\n\n4       শহা (]২৪৮৮৷৷)          56\n\n5      কেৰ্কেটুৱা (9]0}স161)         19\n\n6           ঘৰ নিগনি (1200112810 10082)                    11\n\n7                     মানুহ (][]01]]80])                            40\n\n8              বৃহদাকাৰ কাছ (01800000100192)                      0.27\n\nৰ       শামুক (910801)         0.05\n\n150                                             বিজ্ঞান",
+  "confidence": {
+    "word_count": 214,
+    "mean": 80.12,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.015,
+  "page_elapsed_seconds": 3.29,
+  "peak_process_tree_rss_bytes": 293339136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

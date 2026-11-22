@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ জানো আহা--\n\nতলত দিয়া শব্দটোৰ গঠন প্রণালীলৈ লক্ষ্য কৰা--\n\nধৰ্মেশ্বৰ = ধৰ্ম + ইশ্বৰ (অ + ই > এ)\n\nইয়াত “ধৰ্ম'ৰ পাছত অ; আৰু ‘স্শ্বৰূৰ আগত ‘ইষ্ট’ আছে। এই অ আৰু ষ্টী মিলি ‘এ’ হৈ ধৰ্মেশ্বৰ\nশব্দটো হৈছে।\n\nএনেদৰে, এটা শব্দৰ শেষৰ বৰ্ণৰ লগত আৰু আন এটা শব্দৰ আদি বৰ্ণৰ মিলনকে সন্ধি বোলে।\n\nসন্ধি তিনি প্রকাৰৰ ঃ স্বৰসন্ধি, ব্যঞ্জনসন্ধি আৰু বিসৰ্গসন্ধি। তলত স্বৰসন্ধি আৰু বাঞ্জনসন্ধি সম্পৰ্কে\nআলোচনা কৰা হৈছে। তোমালোকে পৰৱৰ্তী শ্ৰেণীত বিসৰ্গসন্ধি সম্পৰ্কে পঢ়িবলৈ পাবা।\nউদাহৰণবোৰ লক্ষ্য কৰা---\n\nনীল + অচল= নীলাচল (অৈ+অ=আ)\nমুনীন্ৰ্ৰ (ই + ই-=> ই)\n\nমহা + ইন্দ্ৰ   মহেন্দ্ৰ আৰ+ই=এ)\n\nসূৰ্য + উদয়  সূৰ্যোদয় (অ+ উ= ও)\nবন্ধনীৰ ভিতৰৰ বৰ্ণ দুটাৰ পৰিৱৰ্তন লক্ষ্য কৰা৷ এনেদৰে এটা স্বৰবৰ্ণৰ লগত আন এটা স্বৰবৰ্ণৰ মিলনত\nহোৱা সন্ধিক স্বৰসন্ধি বোলে।\n\n/ ৬। তলত দিয়া সন্ধিবোৰ ভাঙি লিখা\n\nখ্ৰীষ্টাব্দ    =     +         (অ+অ = আ)\n(অ + আ = আঠ)\n(ই-+ই = ই)\n(অ-+ই = এ)\n\nমুনি + ইন্ত্ৰ\n\nঠ\n\nৰু\n||\n\n+ + + +\n\nনৱোদয়    ==                  (অ+উ = ও)\n৷ জানো'আহা--\nএইবাৰ তলত দিয়া উদাহৰণকেইটালৈ মন কৰা--\nসম্‌ + ইতি = সমিতি মে্্‌+ই)\nসৎ-+ ইচ্ছা = সদিচ্ছা ন ্দ্+ই) | বন স্বৰ\nসম্‌ + হতি = সংহতি মে্‌-ং৷+হ)\nউৎ+ নতি = উন্নতি _ (ত ন্‌?ন)\nবন্ধনীৰ বৰ্ণ দুটাৰ পৰিৱৰ্তন লক্ষ্য কৰা। এনেদৰে ব্যঞ্জনবৰ্ণৰ লগত স্বৰবৰ্ণ বা ব্যঞ্জনবৰ্ণৰ লগত ব্যঞ্জনবৰ্ণ\nমিলি হোৱা সন্ধিক ব্যঞ্জনসন্ধি বোলে।\n\n| ব্যজন + ব্যঞ্জন\n\nলী",
+  "confidence": {
+    "word_count": 220,
+    "mean": 80.66,
+    "median": 91.95,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.632,
+  "page_elapsed_seconds": 4.089,
+  "peak_process_tree_rss_bytes": 272384000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

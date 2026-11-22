@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 48,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বাৰপাল -- এটা ভাল খবৰ আছে মহাৰাজ ।\n\nমহাৰাজ -- ভাল খবৰ? শীঘ্বে কোৱা।\n\nদ্বাৰপাল -- মহাৰাজ, যজ্ঞদত্ত নামৰ ব্ৰাহ্মণ বন্দীজনৰ কথাকে ক’বলৈ বিচাৰিছোঁ, যিজনক কাইলৈ\nপ্রত্যুযতে শূলবিদ্ধ কৰা হ’ব।\n\nমহাৰাজ -- ৰাজকৌৱৰৰ ঘাতক বন্দীজনৰ কথাকে কৈছানে?\n\nদ্বাৰপাল -- হয় মহাৰাজ। তেওঁ বোলে মহাৰাণীক জীয়াই তুলিব পাৰিব!\n\nমহামন্ত্ৰী }_ কিক’লা?\n\nমহাৰাজ --- যদি সেয়ে সত্য, তেন্তে শীঘ্ৰে তেওঁক কাৰাগাৰৰ পৰা মুকলি কৰি ৰাণীৰ ওচৰলৈ\nলৈ যোৱা।\n\nদ্বাৰপাল --- যিবা আজ্ঞা মহাৰাজ (দ্বাৰপালৰ প্ৰস্থান)\nমহাৰাজ -=-- (মন্ত্ৰীৰ হাতত ব্যাকুলতাৰে ধৰি) এয়া সম্ভৱ জানো মহামন্ত্ৰী?\nমহামন্ত্ৰী -- অসম্ভৱ নহয় মহাৰাজ স্টশ্বৰে ইচ্ছা কৰিলে অসম্ভৱকো সম্ভৱ কৰিব পাৰে।\n\n| মহাৰাজৰ নিদেৰ্শিত দ্বাৰপালে যজ্ঞদভক মহাৰাণীৰ ওচৰলৈ লৈ গ’ল আৰু যজ্ঞজজগভৰ পৰশত মহাৰাণী\nজী উঠিল|\n\n(নেপথ্যত কোনোৱে চিঞৰি উঠিব--- “যজ্ঞদত্তৰ স্পৰ্শত মহাৰাণী জী উঠিল, মহাৰাণী জী উঠিল”)\nমহাৰাজ --- (কাণ পাতি দূৰৈৰ পৰা অহা ধ্বনিবোৰ শুনাৰ চেষ্টা কৰিব) আপুনি কিবা শুনিছেনে\nমহামন্ত্ৰী?",
+  "confidence": {
+    "word_count": 137,
+    "mean": 84.65,
+    "median": 93.1,
+    "minimum": 3.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.171,
+  "page_elapsed_seconds": 3.618,
+  "peak_process_tree_rss_bytes": 260624384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

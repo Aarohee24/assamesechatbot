@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দুৰ্গাপূজা, বিহু আদিত আয়োজন কৰা নৃত্য, নাটক\nআদিত অংশ গ্ৰহণ কৰা, কবিতা, গল্প, শ্ন'গান\nলিখা, উৎসৱ উপলক্ষে চাকি, মুখা, মম আদি\nতৈয়াৰ কৰা, আল্পনা অঁকা, জেটুকাৰে হাতৰ\n\nঅংশগ্ৰহণ কৰা।\n\nক্স পাঠ্যপুথিৰ উপৰি অন্যান্য কিতাপ, বাতৰি-\nসমল যেনে--দূৰদৰ্শন, চিনেমা চাই, পুথিভৰালৰ\nকিতাপ অধ্যয়ন কৰি সমল গোটোৱা।\n\nপ্লি ঘৰ, বিদ্যালয়, চুবুৰীয়া অঞ্চল নিৰীক্ষণ কৰি\nসম্পদৰ অপচয় ৰোধ কৰা আৰু ৰাজহুৱা সম্পত্তিৰ\nআৰু অপচয় ৰোধ কৰা আৰু পুনৰ ব্যৱহাৰ কৰা,\nপ্রাণীৰ যত্ন লোৱা, স্বাস্থ্য আৰু স্বাস্থ্যনীতি সম্পৰ্কে\nসমনীয়া, ঘৰ/সমাজৰ জ্যেষ্ঠ ব্যক্তিৰ লগত\nআলোচনা কৰা আৰু এইবোৰ জটিলভাৱে চিন্তা\nকৰি নিজৰ কাৰ্যত সেইবোৰ প্রতিফলিত কৰা।\nক্ল কিছুমান লিঙ্গভিত্তিক কাৰ্য-কলাপ (যেনে--\nখেলা খেল বা ৰাজহুৱা কাম) আদিত মহিলাৰ\nঅংশগ্ৰহণ, কিছুমান বিশেষ ল’ৰা-\nছোৱালী/বিশেষভাৱে সক্ষম ব্যক্তি/পৰিয়াল/\nসম্প্ৰদায়/বৃদ্ধ লোকৰ ৰাজহুৱা স্থানত প্রৱেশৰ\nঅধিকাৰ আৰত ৰাজহুৱা সমল ব্যৱহাৰত\nসীমাৱদ্ধতা আদিৰ বিষয়ে অনুসন্ধান কৰা আৰু\nএইবোৰ গুৰুত্ব সহকাৰে লোৱা।\n\nপ্স৷ দলীয় কাৰ্যত সক্ৰিয়ভাৱে অংশগ্ৰহণ কৰা,\nকামত আগভাগ লোৱা, সহযোগিতাৰে কাম কৰা,\nদলক নেতৃত্ব দিয়া আদি গুণবোৰ আয়ত্ত কৰা।\n(উদাহৰণস্বৰূপে--- বিভিন্ন খেলপথাৰত খেলা\nখেল/ভিতৰত খেলা খেল/স্থানীয়/সমসাম কে\nঅনুসন্ধানমূলক কাত অংশগ্ৰহণ কৰা আৰু প্রাণ),\nচৰাই, নিজৰ চুবুৰীত থকা বিশেষভাৱে সক্ষম ব্যক্তি\nতথা বৃদ্ধ লোকক যত্ন লোৱা আদি।)\n\nযাবলৈ ভাল পাও। শুৰ\n\nহ্‌  9,\nভট ৮,",
+  "confidence": {
+    "word_count": 184,
+    "mean": 86.86,
+    "median": 95.77,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.897,
+  "page_elapsed_seconds": 3.143,
+  "peak_process_tree_rss_bytes": 302694400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

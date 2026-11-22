@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "একে সময়তে এৰি দিলে। দুয়োটা শিলগুটি একে সময়তে মাটিত পৰিল। লগে\nলগে এক সত্য প্রতিষ্ঠিত হ’ল; আগেয়ে ভবা কথাটো অসত্য বুলি জনা গ’ল।\n\n1.3 তুমিও বিজ্ঞানী হ’ব পাৰা\n\nতুমি জানা বিজ্ঞানীসকলে নতুন বস্তু বা তথ্য আৱিষ্কাৰ কৰে। ম’বাইল ফোন, মটৰ গাড়ী,\nউৰাজাহাজ, ৰন্ধন গেছ, দৰৱ আদি বিজ্ঞানৰেই অৱদান এনে কিমান বস্তু তোমালোকৰ ঘৰতে\nআছে চাবাচোন। তুমিও বিজ্ঞানী হ’ব বিচৰা নেকি? ইয়াৰ বাবে বাৰু কি কৰা উচিত?\n\nপ্রথম কামটোৱে হ’ল পৰ্যৱেক্ষণ। উৰাজাহাজ উৰি যোৱা আৰু চৰাই উৰাৰ মাজত\nকিবা মিল দেখানে বাৰু? চৰায়ে শুই থকা অৱস্থাৰ দৰে উৰে। মূৰ ওপৰৰ ফালে, পিচ অংশ\nতলফালে এনেদৰে নুৰে। উৰাজাহাজো তেনেদৰে উৰে।\n\nচিত্র 1.4; উৰি থকা চৰাই আৰু উৰাজাহাজ -\nউভয়ৰে পাখি দুখনলৈ মন কৰা\n\nউৰাজাহাজ     আবিষ্কাৰ\nকৰিছিল দুগৰাকী ককাই-ভায়ে। নাম\nহ’ল-উইলবাৰ ৰাইট আৰু অৰভিলি\nৰাইট। তেওঁলোক অতি কৌতুহলী\nআছিল। _ ঘৰত থকা চাইকেল\nআৰু আন যন্ত্ৰৰ বিভিন্ন অংশবোৰ\nখুলি চাইছিল। প্রতিটো অংশই চল 38%ধসৰ \"37572: -পশগগচচ\nকৰিছিল। সৰুৰেপৰা তেওঁলোকে\n\nচৰাই কেনেদৰে উৰে পৰ্যৱেক্ষণ              লি\nৰিছিল। ধুমুহা আহিলে তেওঁ    চিত্ৰ 1.5: উৰাজাহাজ - ৰাইট ভাতৃদ্বয় হ’ল\n\n‘বতাহ চাব’ গৈছিল।              উৰাজাহাজেৰে আকাশত উৰা প্রথম ব্যক্তি 1903)",
+  "confidence": {
+    "word_count": 142,
+    "mean": 89.9,
+    "median": 95.84,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.108,
+  "page_elapsed_seconds": 3.527,
+  "peak_process_tree_rss_bytes": 293416960,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

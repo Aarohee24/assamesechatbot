@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 43,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত           ৩৭\n\nঅজুৰ চুম্ত\n\nপ্ৰশ্ন-অজুৰ নিয়ত নকৰিলে কি হ’ব?\n\nউত্তৰ- নদীৰ পানীত পৰি শৰীৰ তিতিলে অথবা বৰষুণৰ পানীত তিতিলে\nনিয়ত নকৰিলেও অজু হ’ব। অৱশ্যে নিয়ত কৰিলে চাৱাব পোৱা যাব।\n\nপ্ৰশ্ন-অজুৰ নিয়ত কেনেকৈ কৰা শুদ্ধ ?\n\nউত্তৰ- ‘মই অপৱিত্ৰ দূৰ কৰিবলৈ আৰু পৱিত্ৰ হ’বলৈ নামাজ পঢ়াৰ উদ্দেশ্যে\nঅজু কৰিলো।’ এইদৰে সংকল্প কৰাকে নিয়ত বোলে।\n\nপ্ৰশ্ন-অজু কৰোতে সম্পূৰ্ণ (*!}। *---4) পঢ়া আৱশ্যকনে?\n\nউত্তৰ- সম্পূৰ্ণ (**=->} ১*=-/)। <!01 (---4) পঢ়িব।\n\nপ্ৰহ্ম- মিছৱাক বা দাতন কৰা আৱশ্যকনে?\n\nউভ্তৰ- দাঁতন কৰা চুমতে মোৱাক্কাদা। কোনো তিতা গছৰ শিপা আৰু নিম\nগছৰ ডালৰ এবেগেত দীঘলকৈ কাটি দাতন বনাব লাগে। দাঁতন ধুই\nব্যৱহাৰ কৰিব লাগে। দীতন কৰোতে সৌফালৰ পৰা আৰম্ভ কৰিব লাগে।\n\nপ্ৰশ্যম- গৰ্গৰা কৰা প্ৰয়োজননে?\n\nউত্তৰ-অজ(ু আৰু গোছল কৰোতে গৰ্গৰা কৰা চুম্নত । ৰোজাদাৰে গৰগৰা কৰা\nউচিত নহয়।\n\nপ্ৰশ্ন-নাকত কি দৰে পানী ব্যৱহাৰ কৰিব?\n\nভত্তৰ- সৌহাতেৰে নাকত পানী দিব আৰু উশাহেৰে ওপৰলৈ টানিব।\nমগজুুলৈ যোৱাকৈ নাটানিব। ৰোজা ৰাখিলে নাকেৰে পানী নাটানিব।\nঅজুৰ সময়ত নাকত পানী দিয়া আৰু কুল্লি কৰা দুয়োটাই চুন্নত।\n\nস্ৰশ্ম- দাড়ি খিলাল কৰাটো কি?\n\nউতভ্তৰ- দাড়ি খিলাল কৰা চুমত।\n\nপ্ৰশ্নম- আঙুলি কেনেকৈ খিলাল কৰিব?\n\nউত্তৰ- এখন হাতৰ আঙুলিৰে আনখন হাতৰ আঙুলিৰ মাজত সোমাই দি\nখিলাল কৰিব। বীও হাতৰ কেঞা আঙুলিৰ প্ৰা ভবিৰ আঙুলিবোৰ\nখিলাল কৰিব৷ সৌভৰিৰ কেঞা আঙুলিৰ পৰা খিলাল আবাম্ভ কৰিব।\n\nপ্ৰশ্ম- ক্রি দৰে মূৰ মছেহ কৰিব?",
+  "confidence": {
+    "word_count": 203,
+    "mean": 84.05,
+    "median": 92.13,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.431,
+  "page_elapsed_seconds": 2.557,
+  "peak_process_tree_rss_bytes": 242831360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

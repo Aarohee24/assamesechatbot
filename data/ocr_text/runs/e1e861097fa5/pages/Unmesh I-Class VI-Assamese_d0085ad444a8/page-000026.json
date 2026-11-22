@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঞ্জ জীৱ-জস্তুবোৰে অৰণ্যৰপৰা সিহঁত নোহোৱা হৈ যাব বুলি কিয় ভয় কৰিছিল?\n(গে) সিংহটোৱে শহাটোৰ বংশ নাশ কৰিম বুলি কোৱাৰ বাবে\n\n| জানি থওঁ আহা--                                   ]\nপঞ্চতন্ত্ৰ সাধুবোৰৰ ৰচক হৈছে সংস্কৃত পণ্ডিত বিষুণ শৰ্মা। পঞ্চতন্ত্ গ্ৰন্থখনে\nপাঁচটা অধ্যায়ত পাঁচটা বিষয় সামৰি লৈছে। এই অধ্যায়সমূহক তন্ত্র বুলি জনা যায়।\nএই তন্ত্ৰকেইখন হ’ল-- মিত্ৰভেদ, মিত্ৰ-সংপ্রাপ্তি, কাকোলূকীয়, লব্ধপ্ৰণাশ আৰু\nঅপৰীক্ষিতকাৰিকা। পঞ্চতন্ত্ গ্ৰন্থখন মূলতঃ সকলো বয়সৰ পাঠকক ব্যাৱহাৰিক জ্ঞান\n[দিবলৈ ৰচনা কৰা এখন নীতিশাস্ত্ৰ। ইয়াৰ অধিকাংশ চৰিত্ৰই পশু-পক্ষী।        }\nৰো ১ ৷ তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 2 বৃত্তটো পূৰ কৰা--\n(ক) অৰণ্যখনত মন্দমতি নামৰ সিংহটো থকাৰ বাবে\n(খ) মন্দমতিয়ে জধে-মধে জন্তুবোৰ বধ কৰাৰ বাবে\n(ঘ) হাবিখনলৈ অন্য এটা সিংহ অহা বুলি ভবাৰ বাবে\nকে) তে) গে ঞ&ে)\n\n৬ মন্দমতিয়ে কুঁবাটোৰ ভিতৰলৈ কিয় জীপ দিছিল?\n(ক) কুঁৱাটো ফট্‌ফটীয়া পানীৰে ভৰি থকাৰ বাবে\n(খ) কুঁৱাটোৰ ভিতৰত আন চাৰিটা শহা থকা বুলি ভবাৰ বাবে\n(গ) ভোকত মন্দমতিৰ পেটে কীও-কীও কৰাৰ বাবে\n(ঘ) কুঁৱাটোৰ ভিতৰত অন্য এটা সিংহ থকা বুলি ভবাৰ বাবে\n\nক্রে ঞে গে ঞ্চে\n\n(,}; ২। তুমি ওপৰৰ উত্তৰকেইটা কিয় শুদ্ধ বুলি বাছি ল’লা? সহপাঠীৰ লগত আলোচনা কৰি\nকোৱা।\n\n৩ । ‘শহা আৰু সিংহ’ সাধুটো কোৱা।\n\n(২৬)",
+  "confidence": {
+    "word_count": 184,
+    "mean": 83.75,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.022,
+  "page_elapsed_seconds": 3.471,
+  "peak_process_tree_rss_bytes": 282365952,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,68 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "'(,\n___ ( জ্ৰিয়াকলাপ)\n\nৰ ১। আলোচনা কৰোঁ আৰু লিখোঁ আহা--\nক) প্ৰাঞ্জলহঁতৰ বিদ্যালয়ত কি চলি আছিল?\nখ) কাৰ কাৰ মাজত বেডমিণ্টনৰ প্রতিযোগিতা হৈছিল?\nগ) সুপ্ৰিয়াই কিয় দবাখেলখন পণ্ড কৰা বুলি কৈছিল?\n\nকর্্ব          ঘ) কোন কোন শ্ৰেণীয়ে কি খেলৰ প্রতিযোগিতাত অংশগ্ৰহণ কৰিছিল আঁচ টানি\n=                মিলোৱা--\n(শ্রেণী                                         খেল\nপ্ৰথম শ্রেণী                                      ফুটবল\nদ্বিতীয় শ্রেণী                                   বেডমিণ্টন\nতৃতীয় শ্রেণী                                   ক্ৰিকেট\nচতুৰ্থ শ্ৰেণী                                           পাৰ পানী\nপঞ্চম শ্ৰেণী                                      দবা\nঙ) মিনতি বৰনবা বাইদেৱে প্ৰথম আৰু,দ্বিতীয় শ্ৰেণীৰ ছাত্ৰ-ছাত্ৰীসকলক কিয়\nখেলাবলৈ লৈ শ্ৈনছিল্ল?\n\nচ) বিদ্যালয়-সপ্তাহ কোনে উদ্বোধন কৰিছিল?\nছ) বিদ্যালয়-সপ্তাহৰ দ্বিতীয় দিনা কি বাৰ আৰু তাৰিখ আছিল?\nজ) ছেত্ৰী ছবাৰে কি কৰি আছিল?\n\nকল্পনা কোন শ্ৰেণীৰ ছাত্ৰ-ছাত্ৰীয়ে অংশগ্ৰহণ কৰিব পাৰিব?\n\nদহ জঙৰহ]বজ জজ - জি তরতবযৌটযব় '1চ‘'হয ৷[৷00যট়়়।় জক টি য় উ ়এঙধ়');ৰযৰয (টী ট 68ীে] ৮৬৮  %€ /( _ ৮0৮\nহই] ৷\" _ {অ ই 3) ৬& | লৰ তব {ছি এ_ { __{{{ (এ ত] এত] ত! তহ {এ ছি)\nহহুত়জ় ৯ ছী 1 3 এ এ{ বজ {&চ] {এ ১ ৬] ীৈ)  ৈেেীচচ এম {এ লচ \"(এ ] ] বব] &ছি-ছো।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী               ত",
+  "confidence": {
+    "word_count": 163,
+    "mean": 60.43,
+    "median": 80.82,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 11 diacritics",
+        "Detected 11 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Spandan-Part I-ClassIII-Assamese(L1)-page-000038.png",
+  "page_image_sha256": "02e19c793249104a4e13e375b8aaf68c27ae72eb05b75b22447e7ce600f0ec0c",
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.937,
+  "page_elapsed_seconds": 4.764,
+  "peak_process_tree_rss_bytes": 150032384,
+  "tesseract_warnings": [
+    "Detected 11 diacritics",
+    "Detected 11 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

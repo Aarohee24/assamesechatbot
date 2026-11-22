@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 277,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "0.\n\n'/%' জ্স্তুব পদসমূহৰ সোতে '][3' স্মৰ এক বা একাধিক পদৰ সম্পৰ্ক স্থাপন কৰা।\n%             [3\n(}) অন্তগ্ৰহ                 (৪) শণি\n(}}} বহিঃগ্ৰহ                      (0) ধ্ৰুৱতবা\n(}}}) তাৰকাৰ্পুঞ্জ              (0) সন্তুৰ্মিমণ্ডল\n(1৮%) পৃথিৱীৰ উপগ্ৰহ          [0] ঢন্দ্\n(০) পৃথিৱী\n(1) কালপুৰ্ষষ\n2) মগ্গল\nসন্ধ্যা তৰ| হিচাপে দৃদ্টিগোচৰ হোৱা শুক্ৰ গ্ৰহটো আকাশৰ কোন অংশত বিচাৰি গাবাই\nসৌৰজগতৰ বৃহত্তম গ্ৰহটোৰ নাম লিখা |\nস্াৰকাপুঞ্জ মানে কি? বিকোনে দুটা তাৰকাপুঞ্জৰ নাম লিখা।\n\n(8) সপ্ৰধি সশুল আৰু (2) কাললুৰুম তাৰকাপুঞ্তজঁৰ বিশিই তৰাবোৰৰ আপেক্ষিক আৱস্থান দেখুৱাই\n\nচিত্ৰ আঁকা ৷\n\n; গহৰ ব্ৰাহিৰে আন দুটা সৌৰজগতৰ সদস্যৰ নাম লিখ| ৷\n\n, সপ্তুৰ্ধিমগুলৰ সহায়ত তুমি বেম্‌নকৈ প্ৰ তৰ| বিচাৰি উলিয়াবা ব্যাখা|], কৰা ৷\n\n. আকাশত সকালে তৰাই গতি কৰেনে ্ব্যাখ্য| কৰা।\n\n. তৰাৰ মাজৰ দূৰত্ব আলোকবৰ্ষত কিন্তু প্রকাশ কৰা হয়ঃ পৃথিবীৰ পৰা| এটা তৰাৰ দূৰত্ন আঠ আলোকবৰ্য।’\n\nএই উক্জ্ৰিয়ে কি বুজায়?\n\n. বৃহস্পতিৰ ব্যাসাৰ্ধ পৃথিবীৰ ব্যাসার্ধন 1] ওুণ। বৃহস্পতি আৰু পৃথিৱীৰ আয়তনৰ অনুপাত নিৰ্ণয় কৰ|।\n\nবৃহস্পতিয়ে কেইখন গঁথিৱী ধাৰণ কৰিব পাৰিব?\n\n প্রজ্ঞানৈ তলত দিয়া ধৰণে সৌোৰজনূতৰ ত আঁকিছিল (চিত্ৰ 18.29) | ছবিখন শুদ্ধালৈ ? যদি নহয়, শুদ্ধ\n\nক্ৰ ।",
+  "confidence": {
+    "word_count": 168,
+    "mean": 61.51,
+    "median": 71.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.742,
+  "page_elapsed_seconds": 3.022,
+  "peak_process_tree_rss_bytes": 250372096,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

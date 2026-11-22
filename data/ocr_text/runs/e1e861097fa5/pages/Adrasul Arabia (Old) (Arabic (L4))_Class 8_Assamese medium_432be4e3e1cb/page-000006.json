@@ -1,0 +1,61 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 6,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আগকথা\n\nঅসম মাধ্যমিক শিক্ষা পৰিষদে ২০০৮ শৈক্ষিক বৰ্ষৰ পৰা কাৰ্যকৰী হোৱাকৈ নতুন\nপাঠ্যক্ৰমৰ আধাৰত অষ্টম শ্ৰেণীৰ ছাত্ৰ-ছাত্ৰীৰ বাবে আৰবী পাঠ (প্রথম ভাগ) নামৰ\nপাঠ্যপুথিখন প্ৰস্তুত কৰি উলিয়াইছে। প্ৰতিটো পাঠৰ অন্তত ভিন ভিন প্রকাৰৰ প্ৰশ্ন দিয়া\nহৈছে। পাঠৰ কথাবোৰ জনাত বা উত্তৰ কৰাত প্ৰশ্নসমূহে ছাত্ৰ-ছাত্জীসকলক যথেষ্ট পৰিমাণে\n' উপকৃত কৰিব। পাঠ্যপুথিখনৰ পাণ্ডুলিপি প্ৰস্তুতকৰণত ভালেকেইজন অভিজ্ঞ ব্যক্তিক দায়িত্ব\nদিয়া হৈছিল। এই অভিজ্ঞ ব্যক্তিসকলে নিষ্ঠা সহকাৰে তেখেতসকলক দিয়া দায়িত্ব পালন\nজ্ঞাপন কৰা হ’ল।\nপাঠ্যপুথিখনত অজানিতে ৰৈ যোবা ভূল-ক্ৰুটি বা আসৌৱাহ কোনো বিজ্ঞ ব্যক্তিৰ\nদৃষ্টিগোচৰ হ’লে বিহিত ব্যৱস্থাৰ বাবে গঠনমূলক পৰামৰ্শেৰে আমাক অৱগত কৰিবলৈ\nঅনুৰোধ জনালোঁ ৷\n\nবামুনীমৈদাম,গুৱাহাটী                      (ধনদেব মহন্ত)\n১১ জুলাই, ২০০৭ ইং চন                           সচিব,\nঅসম মাধ্যমিক শিক্ষা পৰিষদ,\n\nগুৱাহাটী -২১",
+  "confidence": {
+    "word_count": 108,
+    "mean": 89.79,
+    "median": 95.08,
+    "minimum": 13.44,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.281,
+  "page_elapsed_seconds": 2.476,
+  "peak_process_tree_rss_bytes": 1208823808,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

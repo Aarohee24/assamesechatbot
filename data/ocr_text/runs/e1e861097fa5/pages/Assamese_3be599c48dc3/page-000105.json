@@ -1,0 +1,67 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাৰ্যাৱলী বৰ্ণনা কৰিব পাৰিব, যেনে--\nদোতোৰা, ইলেকট্টস্ক’প, অগ্নি নিৰ্বাপক যন্ত্ৰ\nইত্যাদি\n\nক্ল বৈজ্ঞানিক ধাৰণাসমূহ দৈনন্দিন জীৱনত\nপ্রয়োগ কৰিব পাৰিব যেনে--পানী\nবিশুদ্ধিকৰণ, জৈৱ নমনীয় আৰু জৈৱ\nঅনমনীয় আৱৰ্জনাৰ পৃথকীকৰণ, শস্যৰ\nউৎপাদন বৃদ্ধি, বিভিন্ন কাৰ্যৰ বাবে সঠিক ধাতু\nআৰু অধাতুৰ ব্যৱহাৰ, ঘৰ্ষণ বঢ়োৱা/কমোৱা,\nকৈশোৰ কালৰ পৰম্পৰাগত ৰীতি-নীতি আৰু\nনিষিদ্ধ কাৰ্যৰ প্রতি প্রত্যাহ্বান।\n\nক্ল বৈজ্ঞানীক আৱিষ্কাৰৰ কাহিনীসমূহ আলোচনা\nকৰিব আৰু প্রশংসা কৰিব পাৰিব।\n\nক্্স পৰিবেশ সংৰক্ষণৰ চেষ্টা কৰিব যেনে--\nসুবিবেচনা আৰু সুচিন্তাৰে সম্পদৰ ব্যৱহাৰ,\nসাৰ আৰু কীটনাশক দ্রব্যৰ ব্যৱহাৰৰ নিয়ন্ত্ৰণ,\nপৰিবেশৰ পৰা হ’ব পৰা বিপদ বা সংকটৰ\nসময়ত মোকাবিলা কৰিবলৈ দিহা পৰামৰ্শ\nপ্রদান কৰিব পাৰিব।\n\nঞ্স৷ সহজলভ্য সমল ব্যৱহাৰ কৰি সৃজনীমূলক\nপ্রতিভাৰ দ্বাৰা পৰিকল্পনা কৰি আহি প্রস্তুত\nকৰিব পাৰিব।\n\nকি সততা, যথাৰ্থতা,সহযোগিতা,ভয়মুক্ত আৰু\n\nঅন্ধবিশ্বাসমুক্ত মূল্যবোধসমূহ দাঙি ধৰিব\nপাৰিব।\n\nহ্ৰীৰ্নিলক\n\nআমি বিদ্যালয়লৈ\nৰা ভাল পাও।\nন 2",
+  "confidence": {
+    "word_count": 123,
+    "mean": 86.56,
+    "median": 94.77,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 50 diacritics",
+        "Detected 50 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.306,
+  "page_elapsed_seconds": 2.498,
+  "peak_process_tree_rss_bytes": 275349504,
+  "tesseract_warnings": [
+    "Detected 50 diacritics",
+    "Detected 50 diacritics"
+  ],
+  "processed_this_run": true
+}

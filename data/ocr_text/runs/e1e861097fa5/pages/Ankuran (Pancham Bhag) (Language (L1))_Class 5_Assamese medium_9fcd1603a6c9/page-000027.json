@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\nঞ সাধুটো শুনি, বুজি নিজৰ কথাৰে ক’ব পৰা\nঞ সাধু পঢ়ি, বুজি সাধুটোৰ বিষয়ে সোধা বিভিন্ন প্রশ্নৰ উত্তৰ দিব পৰা\n8 মানুহৰ বাবে পখীকুল যে অতি উপকাৰী সেই বিষয়ে অৱগত হোৱা\n চৰাই সংৰক্ষণৰ প্ৰতি সচেতন হোৱা\nঞ একবচন, বহুবচন, নিৰ্দিদ্মতাবাচক প্ৰত্যয়, লিংগ, বিভক্তিৰ ব্যৱহাৰ সম্পৰ্কে জনা\nঞ বিপৰীত অৰ্থবোধক শব্দ জনা, বাক্য ৰচনা কৰিব পৰা, বিশেষ্য, বিশেষণ আৰু সৰ্বনাম পদ চিনাক্ত কৰিব পৰা\nঞ্জ নতুন শব্দৰ অৰ্থ জনা\n৬ ঘ,ক,জ্ড,'প্ব যুক্তাক্ষৰকেইটাৰ লগত পৰিচয় হোৱা, ভাঙিব পৰা আৰু গঠন কৰিব পৰা\n সাধুটোৰ জৰিয়তে পৰিৱেশৰ প্রতি সজাগতাৰ ভাব জন্মা\n8 চৰাইৰ ছবি সংগ্ৰহ কৰি এলবাম প্রস্তুত কৰিব পৰা\n৪ তৰ্ক প্রতিযোগিতাত অংশগ্ৰহণ কৰিব পৰা\n\nপাঠ ২\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nসাধু পাঠ | সাধু শুনি বুজি নিজৰ কথাৰে সাধু | পাঠভিত্িক ৰয়ৰ\nক'ব পৰা সজাই পৰাই ক’ব উত্তৰদিব পৰা\nপৰা\nভাষা অধ্যয়ন | যুক্তাক্ষৰ ভাঙিব বিপৰীত বিশেষ্য,বিশেষণ,| বাক্য গঠন\n(ব্যাৱহাৰিক |পৰা, গঠন কৰিব| অরৰ্থবোধক শব্দ | _সৰ্বনামপদ | কৰিব পৰা জাল\nব্যাকৰণ) | পৰা আৰু পঢ়িব | - লিখিব পৰা | চিনাক্ত কৰিব পৰা    বিষয়ে জনা\nপৰা\nচিৰিকটিৰ | পশু-পক্ষী,গছ {তৰ্ক প্রতিযোগিতাত|\nজ্ঞান _ | বাই   গছনিৰ সৈতে থকা | অংশগ্ৰহণ কৰিব\nউপকাৰিতাৰ      গ্ৰহণ\nবিষয়ে জনা [মানুহৰ সম্পৰ্ক বুজি| পৰা\nপোৱা\nচৰাইৰ ছবি সংগ্ৰহ| পৰিৱেশ সজাগতাৰ| চৰাই-চিৰিকটিৰ\nপ্ৰকল্প কৰি এলবাম ৷ বিষয়ে শ্লোগান | নামৰ তালিকা\nপ্রস্তুত কৰিব পৰা| লিখিব পৰা  কৰিব জনা\n\nলস অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰ্তা",
+  "confidence": {
+    "word_count": 235,
+    "mean": 87.09,
+    "median": 95.83,
+    "minimum": 6.49,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.326,
+  "page_elapsed_seconds": 3.628,
+  "peak_process_tree_rss_bytes": 279482368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

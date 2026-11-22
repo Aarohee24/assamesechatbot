@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 68,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৩\n\n৪\n\n৫।\n\nশুদ্ধ উত্তৰটো বাছি লিখা ---\n\n(ক) মানৱসৃষ্ট পৰিৱেশৰ উপাদান এটা হ’ল গছ-গছনি/বাসগৃহ।\n\n(খ) জাপান পৃথিৱীৰ ভিতৰতে এখন উল্লেখযোগ্য উদ্যোগ প্রধান / কৃষি প্ৰধান দেশ।\n(গ) অসমৰ নদী উপত্যকা অঞ্চলৰ বাসিন্দাসকলৰ মুখ্য জীৱিকা চাকৰি/ কৃষি।\n\n(ঘ) পাহাৰীয়া অঞ্চলত জনবসতি ঘন/সেৰেঙা।\n\n(ঙ) কাৰ্বি আংলং/উত্তৰ কাছাৰ পাৰ্বত্য জিলাৰ বৰ্তমান নাম ডিমা-হাছাও |\n\nশুদ্ধ-অশুদ্ধ লিখা--\n\n(ক) মানৱসৃষ্ট পৰিৱেশক কৃত্ৰিম পৰিৱেশ হিচাপেও জনা যায়।\n\n(খ) প্রাকৃতিক পৰিৱেশৰ উপাদানসমূহ ব্যৱহাৰ কৰি মানৱ সৃষ্ট পৰিৱেশৰ উপাদান সমূহ সৃষ্টি কৰা হয়।\nগে) মানৱসৃষ্ট পৰিৱেশ পৰিৱৰ্তনশীল।\n\n(ঘ) শাৰীৰিক আৰু মানসিকভাৱে উৎপাদনমুখী কাম কৰিবলৈ সক্ষম ব্যক্তিসকল মানৱ সম্পদ।\n\n(৬) ভূপ্রকৃতিৰ ভিত্তিত অসমক দুটা সুকীয়া ভূখণ্ডত বিভক্ত কৰিব পাৰি।\n\nচমু উত্তৰ লিখা -- (৪০টা মান শব্দৰ ভিতৰত)\n(ক) সমাজ উন্নয়নত মানৱ সম্পদৰ ভূমিকা।\n(খ) অসমৰ জনবসতি বিস্তাৰৰ ওপৰত নদী উপত্যকাৰ সমভূমিৰ প্রভাৱ।\n\n৬। বহলাই লিখ৷|--- (৮০টা মান শব্দৰ ভিতৰত)\n\n(ক) মানৱসৃষ্ট পৰিৱেশ কাক বোলে আৰু ইয়াৰ উপাদান সমূহ কি কি? এই পৰিৱেশ গঢ় দিয়াত মানুহৰ ভূমিকা\nসম্পৰ্কে লিখা।\n\n(খ) কি কি কাৰণত অসমত বানপানী হয়? বানপানীৰ সৈতে সহাৱস্থান কৰাৰ বাস্তৱসন্মত যুক্তি দি দুটা\nব্যৱস্থাৰ কথা উল্লেখ কৰা।\n\n+ক+কককা+",
+  "confidence": {
+    "word_count": 170,
+    "mean": 90.32,
+    "median": 95.61,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 4.059,
+  "page_elapsed_seconds": 4.58,
+  "peak_process_tree_rss_bytes": 236687360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

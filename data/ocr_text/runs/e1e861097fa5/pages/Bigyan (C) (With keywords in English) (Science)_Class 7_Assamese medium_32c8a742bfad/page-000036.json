@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(12) চিত্ৰ 2.11ত পাচনতন্ত্ৰৰ বিভিন্ন অংশবোৰ চিহ্নিত কৰা\n\nচিত্ৰ 2.11 মানুহৰ পাচনতন্ত্ৰ (/* ])01{ 01 ]100]]81] 01869196 ৪)'512]]])\n\n(13) আমি কেৱল কেঁচা (]২৪%), পাত জাতীয় শাক-পাচলি ([,98.% ৬০৪০০৪০|০৪)/ ঘাঁহ (য0899) খাই\nজীয়াই থাকিব পাৰিমনে? আলোচনা কৰা।\n\nবিস্তাৰিত শিকন-ক্ৰিয়াকলাপ আৰু প্ৰকল্প ([; (6100.60 ],69177]}1) 5-/%৫]৮1(69 9110 ])1\"0}] 6৫9)\n\n(1) চিকিৎসক এজনক লগ ধৰা আৰু তলৰ কথাবোৰ জানি লোৱা ।\n(ক) কি অৱস্থাত ৰোগী এজনক গ্লুক’জৰ দ্ৰৱ টোপ টোপকৈ দিয়া প্রয়োজন?\n(খ) কেতিয়ালৈকে ৰোগী এজনক গ্লুক’জ দিয়াৰ প্রয়োজন?\n(গ) গুক’জে কি দৰে ৰোগী এজনক আৰোগ্য হোৱাত সহায় কৰে? উত্তৰবোৰ তোমাৰ টোকাবহীত\nলিখা।\n(2) ভিটামিনবোৰ কি বিচাৰি উলিওৱা আৰু নিম্নলিখিত তথ্য সংগ্ৰহ কৰা।\n(ক) আহাৰত ভিটামিনৰ কিয় প্ৰয়োজন?\n(খ) ভিটামিনবোৰ পাবলৈ কি কি ফল বা পাচলি সদায় খোৱা প্রয়োজন?\nতুমি সংগ্ৰহ কৰা তথ্যবোৰৰ ওপৰত এক পৃষ্ঠাৰ টোকা লিখা। এই ক্ষেত্ৰত চিকিৎসক, খাদ্য বিশেষজ্ঞ,\nতোমাৰ শিক্ষক বা যিকোনো ব্যক্তি বা অন্য কোনো উৎসৰ সহায় ল’ব পাৰা।\n\n22",
+  "confidence": {
+    "word_count": 143,
+    "mean": 82.99,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.506,
+  "page_elapsed_seconds": 2.81,
+  "peak_process_tree_rss_bytes": 309112832,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

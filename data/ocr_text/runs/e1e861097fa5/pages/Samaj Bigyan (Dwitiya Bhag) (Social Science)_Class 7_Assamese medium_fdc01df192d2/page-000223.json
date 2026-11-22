@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 223,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[\n===\"   (৷\nশস্য\n\nৰাস্তাত যাওঁতে--\n\n%, * খোজ কাঢ়োঁতে সদায় নিজৰ বাওঁহাতে যাবা।\n'* ৰাস্তা পাৰ হওঁতে সোঁৱে-বাঁৱে চাই পাৰ হ’বা।\n\n* ৰাস্তাত ফুটপাথ থাকিলে সদায় ফুটপাথেৰে\nখোজ কাঢ়িবা।\n\nজেব্ৰা চিন অঁকা ঠাইৰ ওপৰেদি খোজ কাঢ়ি\nপাৰ হবা।\n\nৰে’ল ক্ৰুছিং পাৰ হওতে--\n\n* ৰে’ল ভ্ৰুছিঙৰ বন্ধ গেট পাৰ হৈ গাছ; প'\n\n* ৰে’ল গাড়ীখন পাৰ হৈ     সাত\nনোযোৱালৈকে ৰে'লপথ পাৰ নহ’বা ্জ_ __, |ড\n\n* ৰে’ল ক্ৰুছিঙৰ দুয়োফালৰ    ৬;\nগেট নদঙালৈকে ৰে'লপথ পাৰ নহ’বা ৷\n\nবাছত যাত্ৰ৷ কৰোঁতে---\n* বাছত সাৱধানে উঠিবা।       * যাত্ৰীৰ সংখ্যা বেছি হলে শাৰী পাতি উঠিবা।\n* বাহিৰলৈ থু-খেঁকাৰ নেপেলাবা। * বাছৰ পাওদানিত উঠি যাত্ৰা নকৰিবা।\nৰ চলল চল ০৯২১০\n\n৷উঠানমাৰকৰি]া।\n* বাছৰ পৰা নামোতে\nদুয়োদিশ ভালদৰে চাই ল’বা।\n\nৰাস্তাত খোজ কাঢ়োঁতে বা পাৰ হওঁতে নিশু, বৃদ্ধ বা বিশেষভাবে\n\nসক্ষম ব্যক্তিক সহায় কৰাটো আমাৰ দায়িত্ব আৰু কৰ্তব্য।",
+  "confidence": {
+    "word_count": 132,
+    "mean": 77.58,
+    "median": 92.95,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 143 diacritics",
+        "Detected 143 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 4.03,
+  "page_elapsed_seconds": 4.751,
+  "peak_process_tree_rss_bytes": 226873344,
+  "tesseract_warnings": [
+    "Detected 143 diacritics",
+    "Detected 143 diacritics"
+  ],
+  "processed_this_run": true
+}

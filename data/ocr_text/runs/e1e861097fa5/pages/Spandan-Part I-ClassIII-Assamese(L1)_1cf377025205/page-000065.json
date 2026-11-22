@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্্দনান্দী দল        স্লন়=--> তত === হাইচননচ\n\nকঠ টেলিফোনত কাৰ কাৰ মাজত কথোপকথন হৈছিল!\nগ) বলটো কিনিবলৈ কেইটকা কম হৈছিল;\n\nঘ) মণ্টুৱে কিয় শুনিয়ো নুশুনাৰ ভাও জুৰিছিল?\n\nঙ) শেষত মণ্টুৱে পাঁচ টকা দিবলৈ কাক কৈছিল?\nচ) মণ্টুৰ ঠাইত তুমি হোৱা হ’লে কি কৰিলাহেঁতেন?\n\nৰ ১০। ঘেৰটোৰ ভিতৰত থকা শব্দটোৰ লগত জড়িত শব্দকেইটামান লিখোঁ আহা--- নি\nৰচি                                                 ত\nমোবাইল ফোন\n\nৰ্‌              ৷        ৰ}\n\n্ ১১ ৷ বাতৰি কাকতত অকণিৰ শিতানত প্রকাশিত দ্বিতীয় আৰু তৃতীয় শ্রেণীৰ ছাত্ৰ-\nছাত্ৰীয়ে-- (ক) অঁকা ছবি, খে) লিখা পদ্য, (গ) সীথৰ, (ঘ) সাধাৰণ জ্ঞানৰ কথা, (৬)\nমহৎলোকৰ বাণী সংগ্ৰহ কৰি এলবাম প্রস্তুত কৰোঁ আহা--\n\nখ্মসসসসসমসসস:মজস:সসজসসসসজসংসজসংসসজসজৱসসসজসসসসসমসজসংমজসসসসসমসসসসজসমসসংসসসসমজজৱসজসসসংমসজসসমসজসজসজসমসসসসমসমসসমসমসমসমসসজসমসসসমসসমমসিসসমসসসসসমমসজসজসমসসমমসংমসংসংসমসসমসসসংসংসং-সজজসধ(ৎ\n\nএ উল অ০স৯সৰ- ৭০৯০-৮১০২ কবিতা, আহো লিযাসাকতনান৷ূগ্নীলাক্কণী ক্ষেত্ৰত অনুপ্ৰাণিত কৰিব আৰু সেইবোৰ\n\nবাতৰি কাকত বা সংবাদ মাধ্যমত প্রকাশ কৰাৰ ব্যৱস্থা কৰিব\n\nঅধ্যায় ৪ ঃ যোগাযোগ",
+  "confidence": {
+    "word_count": 122,
+    "mean": 77.16,
+    "median": 92.92,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 29 diacritics",
+        "Detected 29 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.658,
+  "page_elapsed_seconds": 4.508,
+  "peak_process_tree_rss_bytes": 224788480,
+  "tesseract_warnings": [
+    "Detected 29 diacritics",
+    "Detected 29 diacritics"
+  ],
+  "processed_this_run": true
+}

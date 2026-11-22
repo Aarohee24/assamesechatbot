@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 44,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তচ        জীনিয়াত\n\nউত্তৰ- দুয়োহাত পানীৰে তিয়াই কপালৰ চুলিৰ পৰা পিছলিনে আঙুলিৰে\nআৰু দুয়ো হাতৰ তলুরৱাৰে মছেহ কৰিব!\n\nপ্ৰশ্ন-কাণ মছেহ কৰিবলৈ নতুন পানী লোৱা প্ৰয়োজননে?\n\nউত্তৰ- মূৰ মছেহ কৰিবালৈ যি পানী লোনা হৈছিল সেয়ে হ'ব। কাণৰ ভিতৰত\nতহনিীৰে মছেহ কৰিব লাগে।\n\nঅজুৰ মোজ্ঞাহাব\n\nপ্ৰশ্ন-অভজু সৌফালৰ পৰা আৰান্ত কৰা চুম্নত নে মোতস্তাহাব ?\n\nউত্তৰ- উলামাসকলৰ ভিতৰত কিছুমানে ঢুম্নত বুলি কৈছে, আকৌ কিছুমানে\nমোস্তাহাব বুলিও কৈছে।\n\nপ্ৰশ্ন- গৰ্দন কেনেদৰে মছেহ কবিব লাগে?\n\nউত্তৰ- দুয়ো হাতৰ আঙুলিব পিঠিৰ ফালেদি গৰ্দানব ওপৰত মছেহ কৰিব\nলাগে।\n\nপ্ৰশ্ন-অজু কৰোতে আৰু মানিবলগীয়া কি কি বিষয় আছে?\n\nউত্তৰ- অজু্ব কৰোতে এই বিষয়বোৰ মানি চলিব লাগে। ১। নামাজৰ আগতে\nঅজু কৰা, ২ ৷ কেঞা আঙুলি তিয়াই কাণত প্ৰৱেশ কবোৱা, ৩। অংগবোৰ\nহাতেনে ঘহি-পিহি দিয়া, ৪ ৷ আঙঠি থাকিলে লৰাই-চৰাই দিয়া, ৫ ৷ পাথিৱি\nবিষয়ৰ কথা নোকোৱা , ৷ মুখত জোৰকৈ পানী নমৰা, ৭ । অতিৰিক্ত পানী\nব্যৱহাৰ নকৰা, ৮ ৷ প্ৰত্যেক অংগ ধুওতে সম্পূৰ্ণ বিছমিল্লাহ পঢ়া, ৯। অজু\nশেষ হোৱাত দৰ্মদ শ্বৰীফ পঢ়া আৰু ১০। অজুৰ পিচত কলিমা ছাহাদত\n\nঅজু ভংগ হোৱাৰ কাৰণবোৰ\n\nপ্ৰশ্ন-নাপাক বস্তু কিমান পৰিমাণ ওলালে অজু ভংগ হয়?\nউত্তৰ- শৰীৰৰ পৰা কোনো অপবিন্ৰ বস্তু ওলাই অজ্ৰ কৰোতে যি অংগ ধোৱা\nফৰজ সেই অংগত সামান্য পৰিমাণে বৈ গ’লেও অজু ভংগ হ’ব।",
+  "confidence": {
+    "word_count": 193,
+    "mean": 82.11,
+    "median": 91.53,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.262,
+  "page_elapsed_seconds": 2.391,
+  "peak_process_tree_rss_bytes": 240930816,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

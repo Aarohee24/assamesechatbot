@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 119,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানি লোৱা\n\n১) গুৰণল্প্ৰসাদ দাসে লাভ কৰা পদমৰ্যাদা আৰু উপাধি\n\n৪ লণ্ডনৰ \"ইনষ্টিটিউট অৱ মেকানিকেল ইঞ্জিনিয়াৰিঙ’ৰ পৰা ‘এছ’ছিয়েটেড মেম্বাৰ অৱ\nইনষ্টিটিউট্‌ অৱ মেকানিকেল ইঞ্জিনিয়াৰ্ছ' (%)$[]11[1;) সন্মান লাভ।\n\n৪ ইংৰাজ চৰকাৰৰ দ্বাৰা ভাৰতীয় ৰে’ল সেৱা ([]২9)ৰ পদমৰ্যাদা প্রাপ্তি।\n\n৪ সামৰিক বিভাগত কাম কৰি থকা সময়ত ই. এম. ই (]3}1[];), এ. এম. আই (/*)]]),\nএম. ই.চি.এইচ. ই (]*[][;0\"][]]};) উপাধি লাভ।\n\nঞ্জ ভাৰতীয় সেনাবাহিনীৰ কাৰিকৰী সেৱাৰ বাবে ‘কৰ্ণেল’ পদবী লাভ।\n\n২) গুৰম্প্ৰসাদ দাসৰ আন আন উদ্ভাৱনসমূহ---\nক) কাট্‌ অৱ কণ্ট্’ন গেজ।\nখ) বয়লাৰ আৰু চেফ্্‌টি ভাল্্‌ভ।\nগ) ভেকুৱাম ব্ৰে'ক--\n\nবায়ুশূন্য কৰা এবিধ গতিৰোধক সঁজুলি, যাৰ সহায়ত প্রয়োজনবোধে ৰে’'ল-গাড়ীৰ\nদবাবিলাকত থকা শিকলি টানি গাড়ীখন ৰখাব পাৰি।\n\nঘ) ছিম্‌লেছ কইল ব্ৰে'ক--\nলণ্ডনত থাকৌতেই তেখেতে ওপৰত উল্লেখ কৰা যন্তুকেইটাৰ উপৰি ৰে’ল-গাড়ীৰ\nভেকুৱাম ব্ৰে'কৰ কিছু সাল-সলনি কৰি ছিম্‌লেছ কইল বে’ক (9280701699 \"01 31812)\nউদ্ভাৱন কৰে।\n[.1২.৪ = ]]1010) [২৪] \"8৮ 92\"খ106 (ভাৰতীয় ৰে’ল সেৱা)                  ৷\n[./$.৪ = ][1101817 /%৫1711)151\"81%খ6 ৪21\"%106 (ভাৰতীয় প্রশাসনীয় সেৱা)\n[.}.9 = [00180 }\"0]106 92\"%106 (ভাৰতীয় আৰক্ষী সেৱা)\n\n(ওপৰত দিয়া ধৰণে, সম্পূৰ্ণ শব্দ বা শব্দবোৰ নিলিখি তাৰ প্রথম আখৰবোৰৰ উল্লেখেৰে\nমূল শব্দবোৰৰ অৰ্থ প্রকাশ কৰা পদ্ধতিটোক ‘শব্দ-সংক্ষিপ্তকৰণ’ (8৮01০%৮18(0101}) বোলে;\n(যেনে-- অ. ভা. উ. সা. স. (অসমীয়া ভাষাৰ উন্নতি সাধিনী সভা)\n\n_",
+  "confidence": {
+    "word_count": 136,
+    "mean": 80.37,
+    "median": 93.2,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.78,
+  "page_elapsed_seconds": 4.161,
+  "peak_process_tree_rss_bytes": 244436992,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

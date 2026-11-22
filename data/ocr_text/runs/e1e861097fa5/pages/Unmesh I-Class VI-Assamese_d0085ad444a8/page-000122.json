@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 122,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভ্ৰম .়়|\n\nপ্রকল্প\n\n১৬ ৷ ড০ ভূপেন হাজৰিকাৰ গীত সংগ্ৰহ কৰি নিজৰ নিজৰ বহীত লিখা ৷ প্ৰত্যেকেই অন্ততঃ পাঁচোটাকৈ\nগীত লিখিবা।\n\n১৭ । তলত দিয়া আৰ্হিটোলৈ মন কৰা। তোমালোকেও এনেদৰে দুজন জনপ্ৰিয় শিল্পীৰ গীতৰ কলি\nএফাকিৰে সৈতে একোখনকৈ কাৰ্ড প্রস্তুত কৰা৷ তাৰে এখন শ্ৰেণীকোঠাত ৰাখিবা আৰু আনখন\nতোমাৰ সমনীয়াৰ জন্মদিনত উপহাৰ দিবা।\n\nৰি\n\nড০ ভূপেন হাজৰিকা\n\n||//\n\n-\n\nৰি\n\nঅৰ্হতা                  উপ-অৰ্হতা\n\n€14. | পাঠৰ মূল বিন্দুসমূহ চিনাক্ত কৰি ক’ব আৰু ১, ২,৪,৫\nপ্রয়োজন সাপেক্ষে বহলাই লিখিব পাৰিব।\nঙ্‌_ গীতটিৰ মূল কথাখিনি লিখিব পাৰিব।    ৭\n41.5. ছি দৃশ্য-শ্ৰাব্য সঁজুলিৰ সহায়ত গীতটি শুনি গাব৷ ১৫\nপাৰিব।\n€-2.3. * সাংস্কৃতিবান হোৱাৰ গুণ সমূহৰ বিষয়ে ধাৰণা | ১৩,১৪\nকৰি কথন আৰু লিখনৰ জৰিয়তে প্রকাশ\nকৰিব পাৰিব।\n\n€433.1 | নতুন শব্দবোৰৰ অৰ্থ অভিধান চাই বুজি৷৩\nলিখিব পাৰিব।\nদ্‌ ক্ৰিয়াৰ নঞৰ্থক ৰূপবোৰ লিখিব পাৰিব। ৮\nদ্‌ বিপৰীতাৰ্থক শব্দবোৰ পাঠৰপৰা বাছি\nউলিয়াই লিখিব পাৰিব।        ৯\nঙ গীতটিত থকা-সমাপিকা আৰু অসমাপিকা\nক্ৰিয়াবোৰ বাছি উলিয়াই লিখিব পাৰিব। ১০\nদ্‌ ‘দয়া’ প্ৰত্যয় যোগ কৰি শব্দ গঠন কৰিব\n\nপাৰিব।                     ১২\nঙ. উপযুক্ত লিখন শৈলী ব্যৱহাৰ কৰি গীতৰ\nঅংশ গদ্য ৰূপত লিখিব পাৰিব।        ৬\n€4.2 * বিভিন্ন সমলৰপৰা তথ্য সংগ্ৰহ কৰি প্রকল্পৰ\nবাবে কাম কৰিব পাৰিব।            ১৬,১৭\n€-53. % শব্দৰ খেলৰ মাজেৰে সীথৰ ভাঙি ক’ব আৰু\nলিখিব পাৰিব।                 ১১\n\n২২                                           ৰ",
+  "confidence": {
+    "word_count": 199,
+    "mean": 81.75,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.494,
+  "page_elapsed_seconds": 3.978,
+  "peak_process_tree_rss_bytes": 227745792,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

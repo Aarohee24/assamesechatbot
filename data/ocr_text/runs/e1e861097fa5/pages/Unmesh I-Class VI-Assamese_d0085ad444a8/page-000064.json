@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 64,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আগৰেপৰা প্রচলিত ভিত্তিহীন কথাবোৰ এৰিব পৰাকৈ আমি নিজৰ মনটো মুকলি কৰি\nৰাখিব লাগিব। ছাত্ৰর-ছাত্ৰীসকলৰো কুমলীয়া মনতেই বৈজ্ঞানিক মানসিকতাৰ বীজ ৰোপণ\nকৰিব লাগিব। তেতিয়াহে বৈজ্ঞানিক মানসিকতাই আমাৰ সমাজখনক অন্ধবিশ্বাস আৰু কু-\nসংস্কাৰৰপৰা মুক্ত কৰি সৰ্বাংগসুন্দৰ কৰিব।\n\n-=.ড০ আন্না গগৈ\n\nউৎস ঃ ডণ আন্না গগৈৰ ‘বৈজ্ঞানিক মানসিকতা আৰু আমাৰ সমাজ’, বিজ্ঞান জেউতি, বৰ্ষ-৫২, সংখ্যা-৬,\nএপ্ৰিল-মে’,২০১৮, প্রকাশক-অসম বিজ্ঞান সমিতি, গুৱাহাটী- ৭৮১০২৬২৷ পৃষ্ঠা নং-- ১৮-১৯\n\nএই পবনধটো ষষ্ঠ শেণীৰ উপযোগী হোৱাকৈ পাঠাপুথি প্রভতৰ নীতি আৰু পাঠৰ শিকন ফলাফলৰ গতি লক্ষ্য ৰাখি সামান্য\nসালসলনি কৰা হৈছে।)\n\nলেখকৰ পৰিচয় ঃ ড” আন্না গগৈ (১৯৭৫ খ্ৰীষ্টাব্দ) গড়গাঁও\nমহাবিদ্যালয়ৰ ৰসায়ন বিভাগৰ সহযোগী অধ্যাপিকা। তেওঁৰ\nপ্রকাশিত প্রবন্ধ সংকলনটোৰ নাম হ’ল নতুন মাত্ৰ৷’। অসমৰ বিভিন্ন\nকাকত-আলোচনীত গগৈৰ বিভিন্ন বিষয়ৰ প্রবন্ধ প্ৰকাশ পাইছে।\n\nঠৰ ১ ৷ তলত দিয় প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক ৫ বৃত্তটো পূৰ কৰ৷--\n\n৬ সৰ্পই দংশন কৰিলে কি কৰা উচিত?\n(ক) চাফ-চিকুণকৈ থকা উচিত         (গ) বেজৰ ওচৰলৈ যোৱা উচিত\n(খ) ৰাশিফল চোৱা উচিত              (ঘ) ডাক্তৰৰ ওচৰলৈ যোৱা উচিত\n\nকে শ্৮ ৬৮ ঞ্ে\n\nকিছুমান কাৰ্যসূচী হাতত ল’ব পাৰে।\nআমি বৈজ্ঞানিক মানসিকতাক কেৱল কিতাপ-পত্ৰতে সীমাৱদ্ধ ৰাখিলে নহ’ব। সমাজত\n\n৬৪,",
+  "confidence": {
+    "word_count": 171,
+    "mean": 84.58,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.214,
+  "page_elapsed_seconds": 3.679,
+  "peak_process_tree_rss_bytes": 289423360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

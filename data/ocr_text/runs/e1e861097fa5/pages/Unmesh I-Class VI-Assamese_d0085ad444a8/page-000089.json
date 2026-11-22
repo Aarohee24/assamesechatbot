@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 89,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ব’ল তেনেহ’লে যাওঁ বজাৰলে’\nদেখুৱাই আনো-- ওলা ৷”\nএই বুলি দুয়ো একেটা পাকতে\nপিন্ধি ল’লৈ পেণ্ট্‌-চোলা।\n|\n৷৷ আৰু কথা হ’ল দুয়োৰে মাজত,\nযিজনে হাৰিব সিয়েই লাগিব\nখুৱাব বাদাম ভাজি।\n\n9িৰ্প্পত দ্যা      এই বুলি দুয়ো পালে গৈ বজাৰ\nদোকানে দোকানে উৰিছে বেলুন,\nলাখ লাখ হাতী-ঘোঁৰা। ॥,\n\n্ ৰ: তাৰে এখনত কিনিলে বাবুলে\nএটকাৰে এটা হাতী;\n\n৷ ৰতন বপুৰা ভেবা লাগি ৰ’ল\nৰ              কথাৰ পাকত ঘাটি।\nভাবিছিল সি--এটকাতে আৰু\nক’তনো হাতীটো পাব!\nভবাই নাছিল টেঙৰ বাবুলে\nপুতলা হাতীয়ে ল’ব!                             - গগন চন্দ্ৰ অধিকাৰী\n\nউৎস ঃ থানেশ্বৰ মালাকাৰ, অনুভৱ পৰাশৰ সম্পাদিত ‘গগনচন্দ্ৰ অধিকাৰীৰ শিশু সাহিত্য সমগ্ৰ’, প্ৰকাশকাল- ২০১৮\nৰংগভূমি, গুৱাহাটা-২৪, পৃষ্ঠা-- ৪০\n\n৮৯\n\n৷        ২১%",
+  "confidence": {
+    "word_count": 103,
+    "mean": 85.81,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 42 diacritics",
+        "Detected 42 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.524,
+  "page_elapsed_seconds": 3.166,
+  "peak_process_tree_rss_bytes": 271114240,
+  "tesseract_warnings": [
+    "Detected 42 diacritics",
+    "Detected 42 diacritics"
+  ],
+  "processed_this_run": true
+}

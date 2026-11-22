@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 18,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বৰষুণজাক এৰাৰ লগে লগেই দুটামান বান্দৰ গছৰ ওপৰলৈ উঠি গ’ল। সিহঁতে\nচৰাইৰ বাহবিলাক টানি-আঁজুৰি ভাঙিবলৈ খুজিছিল তাকে দেখি বয়সীয়াল বান্দৰ এটাই\nমাত লগালে, “হেৰৌ ! নাভাঙিবি, নাভাঙিবি ৷ চৰাইকেইটাই ইমান কষ্ট কৰি বাহ সাজিছে।\nসকলোৱেতো বাহ সাজিব,নাজানে |” তাকে শুনি বান্দৰকেইটা থমকি ৰ’ল।\n\n(ক্ৰিয়াকলাপ )\n\nৰা -১।আলোচনা কৰোঁ আৰু লিখৌ আহা --\nক) টোকোৰা চৰাইবোৰে কোনজোপা গছত বাহ সাজি আছিল?\nখ) বান্দৰজাক বাগিচাখনলৈ কি বিচাৰি আহিছিল?\nগ) বান্দৰজাকে গছৰ তলত কিয় আশ্ৰয় লৈছিল?\nঘ) ঠাণ্ডাত থক্‌থক্‌কৈ কোন কঁপিছিল?\n\n[অ্সসসসসসসমসসমমসমসমসমসসসমমসসমসসসসমসমসমসসসমসমমমসসসমসসসসসসসসসসসমমমমসমমমসমমসমমমমমসসমসসমমসসমমসমসসমসংমমসংৱখসজধ\n\n্সসসসসমসমসমসসমসসমমমসমসমমসমসমসসমসমসসসসসসমসসমসসসমসমসসমমসসসসমসমসসসসসংসসসমমসসসসসমসসমসসসমসসংসসসসসজসসসংৱসংং সৱক\n\nবিঃদ্ৰঃ ৰামুঠাপফাতাৰ একে নামৰ সাযুৰ আগম তছাতাকৰা হৈছে। কিয়াছাৱ জনীক ইতিপসংগত চিতাৰ অৱকীগ ৰাখিলামুটোুঙ্লাছে ৰ\nসামৰা হৈছে।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী               ১৮",
+  "confidence": {
+    "word_count": 104,
+    "mean": 76.23,
+    "median": 92.14,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 63 diacritics",
+        "Detected 63 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.822,
+  "page_elapsed_seconds": 5.128,
+  "peak_process_tree_rss_bytes": 247357440,
+  "tesseract_warnings": [
+    "Detected 63 diacritics",
+    "Detected 63 diacritics"
+  ],
+  "processed_this_run": true
+}

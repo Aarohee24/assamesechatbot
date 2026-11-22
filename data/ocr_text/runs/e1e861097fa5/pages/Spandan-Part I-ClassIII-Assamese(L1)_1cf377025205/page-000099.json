@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 99,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "= == ৬। দফাটো পঢ়ি তলৰ প্ৰশ্নবোৰৰ উত্তৰ দিয়া--\n\nমৰমী আৰু বুবুল দুয়ো ভাই-ভনী সিহঁতে মেকুৰী বৰ ভাল পায়। এদিন দুয়ো. =\n\nভঁৰালৰ ওচৰত খেলি আছিল। হঠাৎ সিহঁতে মেকুৰী পোৱালিয়ে মেও মেওকৈ মাতি\n\nথকা শুনিলে। সিহঁত দুয়ো ওচৰ চাপি গৈ দুটা মেকুৰী পোৱালি দেখা পালে। সিহঁতে\n\nদেখিলে যে পোৱালিকেইটাৰ মাকজনী কাষত নাই। সিহঁতৰ বুজিবলৈ বাকী নাথাকিল\n\nযে পোৱালি দুটাৰ ভোক লাগিছে। দুয়ো পোৱালি দুটাক ঘৰৰ বাৰাণ্ডালৈ লৈ আনিলে।\n\nবুবুল ততাতৈয়াকৈ পাকঘৰলৈ গ’ল। তাৰপৰা সি গাখীৰ এবাটি আৰু বিস্কুট চাৰিখন\n\nআনিলে। দুয়ো মিলি পোৱালি দুটাক বিস্কুট আৰু গাখীৰ খুৱালে ৷ সিহঁতে শোবালি দুটাক >\nনিজৰ কোঠালিতে ৰাখিবলৈ মন মেলিলে। কিন্তু ককাকে বুজাই ক’লৈ--- “সিহঁতৰো\nএটা পৰিয়াল আছে। পৰিয়ালৰপৰা আঁতৰাই আনিলে সিহঁতে দুখহে পাব। গতিকে\nতোমালোকে পোৱালি দুটাক সিহঁতৰ ঠাইত থৈ আহাগৈ।”\n\nক) পোৱালি দুটাই কিয় মেও মেওকৈ মাতি আছিল?\n\nখ) বুবুলে ততাতৈয়াকৈ পাকঘৰলৈ গৈ কি কৰিলে?\n\nগ) কোনে, কাক আৰু কিয় কৈছিল--“সিহঁতুৰো এটা পৰিয়াল আছে।\nপোৱালি দুটাক সিহঁতৰ ঠাইত থৈ’আহাগ্নৈ।”\n\nঘ) পোৱালি দুটাক নিজৰ ঠাইত থৈ নাহিলে সিহঁতৰ কি কি অসুবিধা হ’ব পাৰে?\n\nঙ) তোমাৰ ঘৰত কি কি পোহনীয়া জন্তু আছে?\n\nচ) তুমি কেনেদৰে সিহঁতক মৰম ক্ৰা?\n\nছ) মেকুৰী পোৱালি দুটাৰ মাকজনী ক’লৈ গৈছিল বুলি তুমি ভাবা?\n\n/ ৭ | তলৰ ফলুটবোৰ লগ্‌ লগাই ছবিখন সম্পূৰ্ণ কৰা---\n\n\"/সিত * লৰ;\n\nডু    =\n৪০        কত\n\nৰ   ৪\nপতন   স্শ  €\nজত\n\n২৮\n৫\nহ্‌\n্,     ড্ফ       ১    ঙ্জ.\n২৫ জ্জ্‌   ৯   স্বৱা   ৮\nশ      ১৭       ৯\nদৰ  ক্ৰ      ১৫\n২   এক্‌ = কল         ঙ\n(1          ১৪  ১০\n৬ ৩      ১৩\n২১  ২০       ডা কট\nবুট  ১১\n\nশঙ\n\nৰ\n\nঅধ্যায় ৭ ? পৰিয়াল",
+  "confidence": {
+    "word_count": 197,
+    "mean": 88.02,
+    "median": 93.34,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 5.077,
+  "page_elapsed_seconds": 6.134,
+  "peak_process_tree_rss_bytes": 224382976,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

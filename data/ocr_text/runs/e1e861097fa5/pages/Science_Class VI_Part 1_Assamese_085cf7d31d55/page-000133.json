@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 133,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চুম্বকৰে চানেকি সাজো আহা\n\nচুম্বকৰে কিবা সাজিব পাৰি নেকি চাওঁ আহা। চুম্বকৰ লগতে কাগজৰ আৰু পেপাৰ\nক্লিপৰ সহায়ত আমি কিছুমান চানেকি সাজিব পাৰোঁ। চিত্ৰ 418 (8) আৰু (৮১) ত এনে\nদুবিধ চানেকি দেখুওৱা হৈছে। অশ্বখুড়াকৃতিৰ এডাল চুম্বকত কিছুমান পেপাৰ ক্লিপ এটাৰ\nলগত আন এটাকৈ লগ লগাব পাৰি। এনেদৰে লগ লগালে দুডাল শিকলি আকৃতিৰ গঠন\nপোৱা যাব [চিত্ৰ 4.18 (8)]।৷ তেনেদৰে কাগজ এখনত এটা ফুলৰ ছবি আঁকি ওপৰৰ ফালে\nপেপাৰ ক্লিপ আৰু ফুলটোৰ তলপিনে চুম্বক ৰাখি আমি চুম্বকীয় ফুলৰ চানেকি সাজিব\nপাৰোঁ। তুমিও আজৰি সময়ত নিজৰ ইচ্ছা অনুসৰি চানেকি সাজিবাচোন।\n\n(0) চুম্বকীয় ফুল\n\nচিত্ৰ 4.18 : চুম্বকৰ দ্বাৰা প্ৰভাত কৰা চানেকি\n\n4.3 চুম্বকৰ ব্যবহাৰ\n\nচুম্বক আমি বিভিন্ন কামত ব্যৱহাৰ কৰোঁ। উদাহৰণস্বৰূপে বিভিন্ন ধৰণৰ খেলনা,\nআলমীৰা দৰ্জা, পেঞ্চিল বাকচ, ফ্ৰীজ, বৈদ্যুতিক মটৰ, বিজ্ঞানাগাৰ আদিত চুম্বক ব্যৱহাৰ কৰা\nহয়। তোমালোকে নিশ্চয় জানা যে চুম্বক ঘৰ বা আলমাৰিৰ দুৱাৰত লগায়। ফলত দুৱাৰখন\nএনেয়ে খোল নাখায়; টানিলেহে খোলে। তদুপৰি চিকিৎসা খণ্ডত ব্যৱহাৰ হোৱা কিছুমান যন্ত্ৰ\nযেনে- এম আৰ আই (]*/[]২]]) যন্তুত চুম্বক ব্যৱহাৰ কৰা হয়। তদুপৰি মাইক্ৰফোন, স্পীকাৰ\nআদিতো চুম্বক ব্যৱহৃত হয়।\n\nভ্মম্ডতেওঁততত তত তত তত তত তত ০০০ ত ০০০০ত, ০০,০০০, ০০০,ণুপ্ল)",
+  "confidence": {
+    "word_count": 180,
+    "mean": 85.34,
+    "median": 95.26,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.984,
+  "page_elapsed_seconds": 3.347,
+  "peak_process_tree_rss_bytes": 272416768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

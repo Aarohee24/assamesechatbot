@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত                                       ২৯\n\nপ্ৰস্ম- কি কি কাৰণত বোজা নেৰাখিবও পাৰে?\n\nভউতল্তৰ- তলৰ কাৰণবোৰৰ কাৰণে বোজা নেৰাবিবও পাৰে। ১ ৷ ভ্ৰমণ কালত, ২ ।\nবোগীয়া ব্যক্তি ৰোজা ৰখাৰ সমথথ নহ’লে বা ৰোজা ৰাখিলে ৰোগ বৃদ্ধি\nহোৱাৰ শংকা থাকিলে, ৩ । আলড় বুঢ়া, ৪ । গৰ্ভৱতী তিৰোতা, গৰ্ভৰ সম্ভান\nনষ্ট হোৱাৰ ভয় থাকিলে, ৫ ৷ পিয়াহ খুওৱা তিৰোতা, যদি মাকৰ গাখীৰৰ\nঅভাৱত সন্ভানৰ অনিষ্ট হোৱাৰ ভয় থাকে, ৬। ভোক আৰু পিয়াহত সৃত্যু\nহোৱাৰ শংকা হ’লে আৰু ৭ ৷ ফ্নতুবতী আৰু প্ৰসুতীৰ বাবে ৰোজা ৰখা সিদ্ধ\n\nলহয়।\n0 371\"\n\nষষ্ঠ অধ্যায়\nজাকাত (১5৯১))\n\nপ্ৰশ্ন-জাকাত কাক বোলে?\n\nউত্তৰ- নিজৰ সম্পত্তিৰ অংশ আল্লাহতাআলাৰ নিৰ্দেশ অনুসৰি দুখীয়া, অভাৱশগ্ৰস্ত\nলোকক দান কৰি তাৰ গৰাকী কৰি দিয়াকে জাকাত বোলে। নামাজ, ৰোজা\nহ’ল শাৰীবিক এবাদতত আৰু জাকাত হ’ল মালি এবাদত বা আথখিক\nউপাসনা।\n\nপ্ৰদ্ম- জাকাত ফৰজ নে ৱাজিব?\n\nউত্তৰ- জাকাত দিয়া ফৰজ। কোৰআন মজীদত আৰু হজৰত ৰছুল মকবুল (ছঃ)ৰ\nহাদীহ্ৰ জৰিয়তে জাকাত আদায় দিয়াটো ফৰজ বুলি সাব্যস্ত হৈছে। যিয়ে\nজাকাত আদায় দিয়াটো ফৰজ বুলি অস্বীকাৰ কৰে সি কাফিৰ বা\nঅস্বীকাৰকাৰী ৷\n\nপ্ৰহ্ম- জাকাত ফৰজ হোৱাৰ চৰ্ত কি?\n\nউল্তৰ- মুছলমান, স্বাধীন, জ্ঞানী, প্ৰাপ্তবয়স্ক, মালিক নিচাব, নিজৰ আৱশ্যকীয়",
+  "confidence": {
+    "word_count": 176,
+    "mean": 81.75,
+    "median": 91.89,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.066,
+  "page_elapsed_seconds": 2.19,
+  "peak_process_tree_rss_bytes": 240140288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

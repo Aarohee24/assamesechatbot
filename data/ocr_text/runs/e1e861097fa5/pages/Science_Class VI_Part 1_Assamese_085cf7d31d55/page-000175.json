@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 175,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এতিয়া ফুটবলটোত বায়ু ভৰোৱা। পুনৰ ফুটবলটো তুলাচনীখনৰ বাঁওফালে ৰাখা [চিত্ৰ 515\n0৮)] ৷ সূচকে শূন্যস্থান দেখুৱাইছেনে ? নিশ্চয় দেখুওৱা নাই ৷ সূচকে শূন্যস্থান দেখুৱাবৰ বাবে\nতুলাচনীখনৰ সোঁফালে আকৌ বালি দিব লাগিব; অৰ্থাৎ বায়ু থকা ফুটবলটোৰ ভৰ বায়ু\nনথকা ফুটবলতকৈ বেছি। গতিকে আমি জানিলোঁ৷ যে বায়ুৰ ভৰ আছে। বায়ুৰ ভৰ আছে আৰু\nই ঠাই আগুৰে। গতিকে ই এবিধ পদাৰ্থ\n\nআমি গম পালোঁ যে আমাৰ চাৰিওফালে থকা বস্তুবোৰ কিছুমান দ্ৰব্যৰে গঠিত। এই\nদ্রব্যবোৰো একধৰণৰ পদাৰ্থ । সকলোবোৰ দ্রব্য দেখিবলৈ একে নহয় আৰু ইহঁতৰ ধৰ্মও\nবেলেগ ৷ কিছুমান টান, আন কিছুমান কোমল। কিছুমানৰ মাজেৰে আমি বস্তু দেখা পাওঁ; আন\nকিছুমানৰ মাজেৰে দেখা নাপাওঁ। কিছুমান পানীত অদ্রৱণীয়। এনেবোৰ ধৰ্মই দ্রব্যবোৰৰ\n\nশ্ৰেণীবিভাজনত সহায় কৰে।\nমূল শব্দ\nশ্ৰেণীবিভাজন               ভৰ\nকঠিন                      স্বচ্ছ\nদ্ৰৱণীয়                      অস্বচ্ছ\nঅদ্ৰৱণীয়                    ইষত স্বচ্ছ\nকোমল                     আয়তন\nজ্যোতিমান                পদাৰ্থ\n৭]\nএ |\nতোমালোকে কি শিকিল৷ ?\n\n$ বিভিন্ন দ্রব্যৰ দ্বাৰা বস্তু প্রস্তুত হয়।\n\nঞ্ঁ বস্তুবোৰৰ আকৃতি, বৰণ, কঠিনতা, কোমলতা, আদিৰ ওপৰত নিৰ্ভৰ কৰি শ্রেণী\nবিভাজিত কৰা হয়।\n\n৫ স্বচ্ছ বস্তু বা স্বচ্ছ দ্রব্যৰ মাজেৰে আমি দেখা পাওঁ।\n\n$ যিবোৰ স্বচ্ছ বা দ্রব্যৰ মাজেৰে দেখা নাপাওঁ তাক অস্বচ্ছ বস্তু বা অস্বচ্ছ দ্রব্য বোল|\nহয়।\n\nউৰ = [য়কেেেেেটচেোচচচেচিচিচচচেটিচিচচচেণচেিচচঁঁেঁঁ8৪)",
+  "confidence": {
+    "word_count": 183,
+    "mean": 85.73,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.212,
+  "page_elapsed_seconds": 3.488,
+  "peak_process_tree_rss_bytes": 302006272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

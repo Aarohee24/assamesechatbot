@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিশেষ্য                বিশেষণ               সৰ্বনাম\nপখী                       সজ                         তেওঁ\n্চ  জানো আহা\n\nএকবচন আৰু বহুবচনৰ আভাস ইতিমধ্যে তৃতীয় আৰু চতুৰ্থ শ্ৰেণীৰ পাঠ্যপুথিত\n\nপাইছা। একবচনত প্রাণী বা বস্তুক নিৰ্দিষ্টকৈ বুজাবলৈ শব্দৰ পাছত টো, জন, পাট আদি\nপ্রত্যয় ব্যৱহাৰ কৰা হয়। এইবোৰেই নিৰ্দিষ্টতাবাচক প্রত্যয়।\n\nউদাহৰণস্বৰূপে, মানুইজন বোলোঁতে এজন মানুহক বুজোৱাৰ উপৰি সেই মানুহজনক\nনিৰ্দিষ্টকৈ বুজাইছে।\n\nকিছুমান নিৰ্দিষ্টতাবাচক প্রত্যয় হ’ল -- টো, গৰাকী, জনী, খন, ডাল, জোপা,\nপাট, গছি ইত্যাদি।\n\nশব্দত প্রয়োগ কৰিলে হ’ব -= মানুহটো, মানুহগৰাকী, ছোৱালীজনী, নৈখন,\nবাঁহডাল, গছজোপা, চাকিগছি, বঠাপাট ইত্যাদি।\n\nচুলিকোছা, চাউলমুঠি, খৰিপোলা--- এই শব্দবোৰে একে বস্তুৰে একোটা\nথুপ বা গোট বুজাইছে। গোট বুজালেও এইবোৰ একবচনৰ প্ৰত্যয় হিচাপে ব্যৱহাৰ হ’ব\nপাৰে।\n\nূঞস নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 104,
+    "mean": 91.68,
+    "median": 94.55,
+    "minimum": 19.6,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.844,
+  "page_elapsed_seconds": 3.201,
+  "peak_process_tree_rss_bytes": 275120128,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

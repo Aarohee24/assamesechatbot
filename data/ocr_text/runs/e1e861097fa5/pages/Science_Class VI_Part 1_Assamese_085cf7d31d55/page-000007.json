@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 7,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰাজ্যিক শিক্ষা-গৱেষণা আৰু প্রশিক্ষণ পৰিষদ, অসমে শিক্ষাৰ্থীক উন্নত মানদণ্ডৰ পাঠ্যপুথি\nপ্রদান কৰাৰ বাবে বদ্ধপৰিকৰ ৰাজ্যখনৰ বিশিষ্ট শিক্ষাবিদ, বিশ্ববিদ্যালয় আৰু মহাবিদ্যালয়ৰ অধ্যাপক-\nঅধ্যাপিকা, বিষয় বিশেষজ্ঞ, জিলা শিক্ষা আৰু প্রশিক্ষণ প্রতিষ্ঠানৰ প্রবক্তা আৰু জ্যেষ্ঠ প্রবক্তা, নৰ্মাল\nস্কুলৰ শিক্ষক-শিক্ষয়িত্ৰী, খণ্ড শিক্ষা আৰু প্রশিক্ষণ প্ৰতিষ্ঠানৰ নিৰ্দেশক আৰু বিদ্যালয়ত কৰ্মৰত শিক্ষক-\nশিক্ষয়িত্ৰীকলৈ বিজ্ঞান বিষয়ৰ পাঠ্যপুথি প্রস্তুতৰ বাবে সমিতি গঠন কৰা হৈছে। পাঠ্যপুথি প্রস্তুত\nসমিতিয়ে এইক্ষেত্ৰত যৎপৰোনাস্তি চেষ্টা চলাই ‘এন.ই.পি-2020’ আৰু ‘এন.চি.এফ-এছ. ই-2023’ৰ\nপৰামৰ্শৱলীৰ আধাৰত ষষ্ঠ শ্ৰেণীৰ বাবে বিজ্ঞানৰ কিতাপখনি প্রস্তুত কৰি উলিয়াইছে।\n\nএই সুযোগতে মই কিতাপখনৰ প্রস্তুতি প্রক্ৰিয়াত জড়িত সকলো, ব্যক্তি আৰু অনুষ্ঠান-\nপ্রতিষ্ঠানলৈ কৃতজ্ঞতা জনাইছোঁ। আশা ৰাখিছোঁ, যে কিতাপখনে শিক্ষাৰ্থী, শিক্ষক-শিক্ষয়িত্ৰী, পিতৃ-মাতৃ,\nঅভিভাৱককে ধৰি সকলো অংশীদাৰৰে প্ৰত্যাশা পূৰণ কৰিবলৈ সক্ষম হ’ব। অনাগত দিনত কিতাপখনৰ\n\nমান আৰু অধিক উন্নত কৰাৰ বাবে সকলোৰে পৰা বহুমূলীয়া পৰামৰ্শ আৰু মন্তব্য সাদৰেৰে কামনা\nকৰিলোঁ।\n\n-নিব্ত্্দ হদব্ট\n\n(ড’ নিৰদা দেৱী)\nসঞ্চালক\n\nগুৱাহাটী                                                   ৰাজ্যিক শিক্ষা-গৱেষণা আৰু প্রশিক্ষণ পৰিষদ, অসম\nডিচেম্বৰ, ২০২৪                                      কাহিলিপাৰা, গুৱাহাটী-৭৮১০১৯\n\n(ত)",
+  "confidence": {
+    "word_count": 143,
+    "mean": 88.31,
+    "median": 93.31,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.869,
+  "page_elapsed_seconds": 3.216,
+  "peak_process_tree_rss_bytes": 270536704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

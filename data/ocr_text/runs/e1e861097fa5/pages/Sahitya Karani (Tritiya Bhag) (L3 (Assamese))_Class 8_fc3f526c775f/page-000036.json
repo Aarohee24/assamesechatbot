@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "\"৪ গাত ৰ'দ নলগা আৰু         দ্রশ্বভভ্ধআট\nবৰষুণ নপৰা মানুহ\n\nএখন দেশত এজন ৰজা আছিল। তেওঁ বুঢ়া হৈ অহাত আগৰ দৰে ৰাজকাৰ্য বেছিকৈ\nকৰিব নোৱৰা হ’ল। ৰজাৰ কৌৱৰ কেইজনো সোৰোপা আৰু অকামিলা। কিবা এটা\nকামত ৰজাই ক’ৰবালৈ পাচিলে কয়, ‘আজি বৰ ৰ’দ। ইমান ৰ’দত ক’লৈকো যাব নোৱাৰি\nআকৌ বৰষুণৰ বতৰত কয় বোলে, বৰষুণত তিতি কাম কৰিব নোৱাৰি। ৰজাই কোনোধৰণে\nক’লে, ‘মহাৰাজ, মই কি কৰিব পাৰোঁ চাওঁ।”\n\nবুঢ়া মন্ত্ৰীয়ে এদিন ডাঙৰ কৌৱৰক ক’লে, ‘গাত ৰ’দ নলগা আৰু বৰষুণ নপৰা মানুহহে\nৰজা হ’ব পাৰে। তোমালোকৰ পিতাৰা, মহাৰাজৰ গাত ডেকা কালত ৰ’দো নালাগিছিল,\nবৰষুণো নপৰিছিল। সেইবাবেহে তেখেত ইমান দিন ৰজা হৈ আছে। তেখেতৰ পাছত গাত\nৰ’দ নলগা আৰু বৰষুণ নপৰা মানুহহে ৰজা হ’ব পাৰিব।’\n\nৰাজকোঁৱৰে ভাবিলে, দেউতাকৰ গাত যে এনে এশ্বৰিক গুণ আছে তেওঁচোন জনাই\nনাছিল। কথাটো হয়তো মিছাও হ’ব পাৰে। তেওঁ মন্ত্ৰীক ক’লে, ‘মই বিশ্বাস নকৰোঁ। ৰ’দ",
+  "confidence": {
+    "word_count": 1,
+    "mean": 22.84,
+    "median": 22.84,
+    "minimum": 22.84,
+    "maximum": 22.84
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.89,
+  "page_elapsed_seconds": 3.194,
+  "peak_process_tree_rss_bytes": 226316288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

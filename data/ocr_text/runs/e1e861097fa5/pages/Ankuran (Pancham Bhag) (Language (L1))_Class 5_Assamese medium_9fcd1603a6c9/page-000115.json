@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 115,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ড্ৰ তলৰ শব্দবোৰৰ অৰ্থ শব্দ সম্ভাৰ আৰু অভিধানত চাই শিকোঁ আহা\nনিকা পখালি দৃঢ়তা আত্মিক\nী কবিৰ মতে জীৱনত কেনেকৈ ধন-সোণ জমা কৰিব পাৰি লিখা।\n\n_্ী, পদ্যকেইফাকি বুজাই লিখা।\n= \"= (ক) নিজৰ হিয়া-মনৰ মলি\nধুই পখালি ল’-__\n(খ) আনক কোৱাৰ আগখিনিতে\nনিজে সঁচা ক’\n\n&=\n\nচ\n\nখ -- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n[7 ;}; ‘আত্মিক’ শব্দটোত ‘স্ন’ যুক্তাক্ষৰটো আছে। যুক্তাক্ষৰটো ভাঙি চাওঁ আহা --\nত + ম =ত্ম তই মই খত্ন\n\n৪2 £$%,  এনেত যোগ হোৱা পাঁচটা যুক্তাক্ষৰ লিখি প্ৰত্যেকৰে দুটাকৈ\n\nটু আনো আ\nতোমালোকে পদ্যটোত হ’ ল’ ক’ ৰ’-- এইকেইটা ক্ৰিয়াপদ পাইছা। আদেশ\nবা অনুৰোধ বুজাবলৈ ক্ৰিয়াৰ যি ৰূপ ব্যৱহাৰ কৰা হয় তাক অনুজ্ঞা বোলে। অনুজ্ঞাৰ দুই\nভবিষ্যত কাল।\nকাল আৰু পুৰুষ অনুসাৰে ওপৰৰ ক্ৰিয়াপদকেইটাত কেনেদৰে বিভক্তি যোগ\nহৈছে সিপিঠিত চোৱা--",
+  "confidence": {
+    "word_count": 31,
+    "mean": 81.61,
+    "median": 95.81,
+    "minimum": 14.91,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.972,
+  "page_elapsed_seconds": 3.39,
+  "peak_process_tree_rss_bytes": 243093504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

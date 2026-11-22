@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 9,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাৰতবৰ্ষৰ সংবিধান\n\nপ্ৰস্তাৰনা\n\nসমাজতান্ত্ৰিক, ধৰ্মনিৰপেক্ষ, গণতান্ত্ৰিক,\nসাধাৰণতন্ত্ৰৰূপে গঢ়ি তুলিবলৈ আৰু তাৰ প্ৰতিজন\nনাগৰিকৰে যাতে সামাজিক, অর্থনৈতিক আৰু\nধৰ্ম আৰু উপাসনাৰ স্বাধীনতা, সামাজিক প্রতিষ্ঠা\nঅৰ্জন আৰু সুযোগৰ সমতা প্রতিষ্ঠা আৰু তেওঁলোকৰ\nসকলোৰে মাজত ব্যক্তিৰ মৰ্যাদা আৰু জাতীয় এঁক্য\nআৰু সংহতি সুনিশ্চিতকৰণৰ মাধ্যমেৰে তেওঁলোকৰ\nযাতে ভাতৃত্বৰ ভাব গঢ়ি উঠে আৰু তাৰ কাৰণে\nসত্যনিষ্ঠাৰ সৈতে শপত গ্ৰহণ কৰে, আমাৰ গণ\nপৰিষদত আজি, ১৯৪৯ চনৰ ২৬ নৱেম্বৰত্ত\nইয়াৰদ্ধাৰ এই সংবিধান গ্রহণ, বিধিবদ্ধ আৰু\nনিজকে অৰ্পণ কৰিছে৷ ৷”",
+  "confidence": {
+    "word_count": 73,
+    "mean": 91.73,
+    "median": 96.13,
+    "minimum": 47.06,
+    "maximum": 96.83
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.014,
+  "page_elapsed_seconds": 2.551,
+  "peak_process_tree_rss_bytes": 292184064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

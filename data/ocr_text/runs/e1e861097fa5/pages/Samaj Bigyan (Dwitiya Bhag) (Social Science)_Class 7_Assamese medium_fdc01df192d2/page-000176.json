@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 176,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "&ভ কল্যাণমূলক কাম-কাজসমূহ নিৰ্দিষ্ট সময়ৰ ভিতৰত ভালদৰে ৰূপায়িত কৰিবলৈ চৰকাৰে বাজেট প্ৰস্তুত কৰে।\n৪ ২০১৫ চনত নিতি আয়োগ গঠন হয়। প্ৰধানমন্ত্ৰী এই আয়োগৰ অধ্যক্ষ।\n€ ১৯৫১ চনৰপৰা আমাৰ দেশত পঞ্চবাৰ্ষিক পৰিকল্পনাৰ সূচনা হয়।\n\nণ্ড অ তনত ভূল ব্মনিক-ধমি্যুনান।বাদ্ধনিন সানে ৰুট কানন মূম্ধত গঙম্চিক গ্ৰিকষৃগুন\nঅৱসান ঘটে।\n\n&ভ আয়কৰ, দ্রব্য আৰু সেৱা কৰ, আবকাৰী শুল্ক, নিগম কৰ আদি কৰ ৰাজহৰ উৎস।\n\n€ জৰিমনা, মাচুল, দান, অনুদান, ডাক-টিকটৰ দাম আদি অনাকৰ ৰাজহৰ উৎস।\n\n&ভ চৰকাৰী ব্যয় বহনৰ উদ্দেশ্যে প্ৰয়োজনীয় পুঁজি আহৰণ কৰিবলৈ চৰকাৰে বিভিন্ন উৎসৰপৰা খ৷৭ সংগ্ৰহ কৰে।\n&€ ৰাজহুৱা খণ্ডৰ অন্তৰ্গত অব্যৱহৃত আৰু অৰ্ধ ব্যৱহৃত সম্পদ বিক্ৰী কৰিও চৰকাৰে সময়ে সময়ে পুঁজি আহৰণ কৰে।\n\nঅনুশীলনী ঃ\n\n১। চমু উত্তৰ লিখা--\n(ক) সঞ্চয়ৰ অর্থ কি?\n(খ) পৰিকল্পনা কাক বোলে?\n(গ) বাজেট মানে কি ?\n(ঘ) কল্যাণমূলক কাম কাক বোলে ?\n(ঙ) নিতি আয়োগ কোন চনত গঠন কৰা হয়?\n\n২৷ উত্তৰ লিখা--\n\n(ক) কোনো এখন দেশৰ পৰিকল্পনাত কোনবোৰ কামক গুৰত্ব দিয়া হয় ? কামবোৰ কৰিবলৈ চৰকাৰে কেনেদৰে\nঅৰ্থ আহৰণ কৰে?\n\n(খ) ভাৰতত পঞ্চবাৰ্ষিক পৰিকল্পনা কাৰ্যসূচীৰ জৰিয়তে কি কি লক্ষ্যত উপনীত হ’ব বিচৰা হৈছে?\n\n৩ । শুদ্ধ উত্তৰটো বাছি উলিওৱা---\n\n(ক) নিতি আয়োগৰ অধ্যক্ষ-_   (}) ৰাষ্ট্ৰপতি    (}1) বিত্তমন্ত্ৰী\n(}}}} প্ৰধানমন্ত্ৰী   (]ঘ) গৃহমন্ত্ৰী\n(খ) পঞ্চবাৰ্বিক পৰিকল্পনাৰ কাৰ্যকাল--(1]) ৪ বছৰ     (1) ৬ বছৰ\n(}}}) ৮ বছৰ    (]ঘ) ৫ বছৰ",
+  "confidence": {
+    "word_count": 203,
+    "mean": 83.33,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.693,
+  "page_elapsed_seconds": 4.26,
+  "peak_process_tree_rss_bytes": 240775168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

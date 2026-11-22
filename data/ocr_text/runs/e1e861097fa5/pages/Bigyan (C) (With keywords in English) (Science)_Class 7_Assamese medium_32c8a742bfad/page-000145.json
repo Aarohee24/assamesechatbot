@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 145,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷৷ চৰাই, কীট-পতংগ আৰু জেঠীয়ে অৰ্ধ-কঠিন অৱস্থাত ইউৰিক এছিড বৰ্জন কৰে।\n\n৷ উদ্ভিদৰ শিপাই মাটিৰ পৰা পানী আৰু খনিজ পোষক দ্রব্য শোষণ কৰে।\n\n৷৷ জাইলেম নামৰ সংবহন কলাৰ দ্বাৰা পানীৰ লগত পোষক দ্রব্যসমূহ উদ্ভিদৰ সকলো অংশলৈ পৰিবহণ\nহয়।\n\n৷৷ উদ্ভিদৰ বিভিন্ন অংশলৈ আহাৰ পৰিবহণ ফ্ল’ৱেম নামৰ সংবহন কলাৰ দ্বাৰা সম্পন্ন হয়।\n\n৷৷৷ প্ৰস্বেদনৰ সময়ত প্রচুৰ পৰিমাণৰ পানী পত্ৰৰন্ধৰ দ্বাৰা বাষ্পৰ আকাৰত উদ্ভিদৰ পৰা ওলাই যায়।\n\n৷৷৷ প্রস্বেদনে এটা টানৰ সৃষ্টি কৰে যাৰ ফলত মাটিৰপৰা শিপাই শোষণ কৰা পানীখিনি কাণ্ড আৰু পাতলৈ\n\nউঠি যায়।\nঅনুশীলনী (]'৷ণ০৷\"196৪)\n(1) 1 নং স্তম্ভৰ লগত 2 নং স্তম্ভ মিলোৱা\nস্তম্ভ ]                                              স্তম্ভ ]]\n(1) পত্র ৰন্ব৷ (৪00118.8)            (৪) পানী শোষণ (/%১৮০৪০৷])1010 01 8121)\n(11) জাইলেম (১গে]20])             (0) প্ৰস্বেদন (][1'8119])2118.101])\n(}1}) চুলি শিপা (1২০০ 181)        (০) আহাৰ পৰিবহণ (]18118])201 ০{ 600)\n(1ঘ) ফ্লৱেম (])|)]062]])              (0) পানী পৰিবহণ (]1'8119[201{ 0{ 821)\n\n(6) কাৰ্ব’হাইড্ৰেট সংশ্লেষণ (9%10016819 0{ ০81601%01812)\n\n(2) খালী ঠাই পূৰ কৰা।\n(1).------ৰ দ্বাৰা হৃদযন্ত্ৰ পৰা তেজ শৰীৰৰ বিভিন্ন অংশলৈ পৰিবাহিত হয়।\n(}})        - কোষত হিমগপ্লিবিন পোৱা যায়।\n(11) ধমনী আৰু সিৰাবোৰ ------------ জালিকাৰ দ্বাৰ৷ সংলগ্ন।\n(1ঘ) হৃদযন্ত্ৰৰ সুসংহত প্ৰসাৰণ আৰু সং    = বোলা হয়।\n(৮) মানুহৰ প্রধান বৰ্জিত দ্রব্য হ’ল ----------।\n(ঘ1) ঘামত পানী আৰু ----------- থাকে।\n(ঘ11}) জুলীয়া অৱস্থাত বৃষ্ধই অপসাৰণ কৰা বৰ্জিত দ্রব্যক ----------- বোলা হয়।\n(ঘ]}}) শোষণ টানৰ জৰিয়তে পানী গছৰ উচ্চতালৈ পৰিবহণ হোৱাৰ কাৰণ হ’ল\n\n131",
+  "confidence": {
+    "word_count": 214,
+    "mean": 81.44,
+    "median": 92.98,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.836,
+  "page_elapsed_seconds": 3.078,
+  "peak_process_tree_rss_bytes": 294776832,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

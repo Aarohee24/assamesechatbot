@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "নদীতে পৰিলে তাক শাখা নৈ (318000]1 ০৪ 11৮) বোলে৷ উৎসৰপৰা নানা ঠাইৰ মাজেৰে বৈ গৈ নদী কোনো\nহদ বা সাগৰত পৰে। এনেদৰে নদী গৈ সাগৰ বা হদত মিলিত হোৱা অংশক মোহনা ([59008!%/) বোলে।\n\nনদী উপত্যকা, পৰ্বত-পাহাৰ, মালভূমি আদিত সৰু-ডাঙৰ জলাশয় দেখা যায়। এইবোৰক আৰ্দ্ৰভূমি বা\nসিক্তভূমি (ঘ%০|8110) বুলি কোৱা হয়। সাধাৰণতে যিকোনো নদী উপত্যকাৰ সমতলভূমিবোৰত থকা জলাশয়,\nযেনে, বিল, জলাহ, ডোৱা, হোলা পুখুৰী, দলনি, পিটনি আদি একো একোটা আৰ্দ্ভূমি। সাগৰৰ পাৰতো এনে\n\nউৎসঃ 1].\nচিত্ৰ ৩.১৪ $ দীপৰ বিল                                 1010.0০01]]\n\nআৰ্দ্ৰভুমি দেখা যায়।\n\nপ্রাকৃতিকভাৱে সৃষ্টি হোৱাৰ উপৰি মানুহে খান্দি বা নৈ আদিত বান্ধ দিও আৰ্দ্ৰভূমিৰ সৃষ্টি কৰিব পাৰে।\nআৰ্দ্ৰভূমিবোৰ বছৰটোৰ বেছিভাগ সময় সিক্ত বা জলমগ্ন হৈ থাকে। এইবোৰত জলজ উদ্ভিদ আৰু মাছ-কাছ প্ৰচুৰ\nপৰিমাণে দেখা যায়। আৰ্দ্ৰভূমিবোৰলৈ পৰিভ্ৰমি চৰাই আহে ৷ সেয়েহে এইবোৰ পৰ্যটকৰ আকৰ্ষণৰ কেন্দ্ৰ হৈ পৰে।\n\nস্বাভাৱিকতে চাৰিওফালে স্থলভাগে আগুৰা জলভাগকে হৃদ ([.81]€9) বোলা হয়। পৃথিৱীৰ বিভিন্ন ঠাইত\nবিভিন্ন আকৃতিৰ হদ দেখা যায়। ৰাছিয়াৰ বৈকাল হদ হ’ল পৃথিৱীৰ আটাইতকৈ গভীৰ হদ। আকাৰত বিশাল\nহদক সাগৰ বুলিও অভিহিত কৰা হয়। উদাহৰণস্বৰূপে, কাম্পিয়ান হ্দ, যাক সাগৰ বুলিও কোৱা হয়। বৰষুণ,\nহিমবাহ, নৈ, ভূ-গরৰ্ভৰ পানী আদি বিভিন্ন উৎসৰপৰা হদলৈ পানীভাগ আহে। কিছুমান হদৰ পানী সুস্বাদু বা নিৰ্মল\nআৰু আন কিছুমানৰ পানী লুণীয়া। ভাৰতত থকা উল্লেখযোগ্য হদ হ’ল সম্বৰ, পুস্কৰ, ল’কটক আদি। মণিপুৰৰ\nল’কটক হৃদ জৈব-বৈচিত্ৰৰ ক্ষেত্ৰত বৰ চহকী।\n\nভূ-ৱয়ব আৰু মানুহ",
+  "confidence": {
+    "word_count": 210,
+    "mean": 87.89,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.408,
+  "page_elapsed_seconds": 4.06,
+  "peak_process_tree_rss_bytes": 318107648,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

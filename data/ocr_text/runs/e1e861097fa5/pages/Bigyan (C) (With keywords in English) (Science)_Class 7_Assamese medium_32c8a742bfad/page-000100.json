@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 100,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বৰষুণ\nগগনফলা মেঘৰ গাজনিৰে,\nদিয়েহি আমাক মৌচুমীৰ বতৰা।\nসিঁচি দিয়ে বৃষ্টিৰ টোপোলা\nচিকমিক্‌ বিজুলী ওপৰত নাচে,\nহিৰ্‌ হিৰ্‌ বৰষুণে পথাৰ ভৰি পৰে।\nমেঘৰ পৰশে মাটিৰ সুগন্ধি বিলায়,\nবৰষুণে যেতিয়া মাটি তিয়ায়।\nসাগৰৰ পৰা উঠি মেঘে,\nবৰষুণ গোটায় !\nবৃষ্টিপাতেৰে সেই পানী,\nপুনৰাই সাগৰতে মিলায়।\n\n4০৮ ৮ডো৷= 56852 ২.৫/,\n\n\"0:81;\n1,600 27.\n\nচিত্ৰ 8.9 প্ৰধানকৈ ৰাজস্থানৰ মৰুভূমি ([১০৪21\"0)\nঅঞ্চল সাঙুৰি এক বিস্তীৰ্ণ স্থলভাগৰ উত্তাপৰ\nতাৰতম্যৰ বাবে জহকালি (90000) মৌচুমী\nবতাহ দক্ষিণ-পশ্চিমৰ পৰা প্ৰৱাহিত হয়। এই বতাহে\nভাৰত মহাসাগৰৰ (0০689) পৰা বহু পৰিমাণে\nপানী কঢ়িয়াই আনে।\n\n86০\n\nঅৱশ্যে, এই প্রক্ৰিয়াৰ পৰিণতি সদায় মংগলজনক\nনহ’বও পাৰে। বৰষুণে প্রীয়ে সমস্যাৰ সৃষ্টি কৰে। তেনে\nসমস্যাৰ এখন তালিকা প্রস্তুত কৰিব পাৰিবানে?\n\nসমস্যাবোৰৰ উৎপত্তিৰ কাৰণ আৰু সিবিলাকৰ\nসমাধানৰ বিষয়ে শিক্ষক আৰু মাৰা-দেউতাৰাৰ সৈতে\nআলোচনা কৰিব পাৰা।\n\nপ্রকৃতিত প্ৰায়ে এনে কিছুমান পৰিস্থিতিৰ উদ্ভৱ\nহয়, যিবোৰে কেতিয়াবা অতিশয় দুৰ্যোগ (][)158921)\nনমাই আনে আৰু মানুহ, প্রাণী আৰু গছ-গছনিৰ জীৱনৰ\nপ্রতি ভাবুকিস্বৰূপ হৈ পৰে। তেনে ধৰণৰ দুটা দুৰ্যোগৰ\nবিষয়ে অধ্যয়ন কৰোঁ আহা--\n\nবিজুলী ঢেৰেকনিৰে সৈতে ধুমুহা (]]]01102া\n৪0011119) আৰু ঘূৰ্ণিবতাহ (€১৮০10102)।\n\n তু /{  1,000 70.\n\nচিত্ৰ 8.10 শীতকালত (ঘ্ম।11(21) স্থলভাগ আৰু\nজলভাগৰ উত্তাপৰ তাৰতম্যতাই উত্তৰ পশ্চিমৰ\nশীতল অঞ্চলৰ (0010 1000) পৰা বলা বতাহৰ সৃষ্টি\nকৰে। এই শীতল বতাহে কিঞ্চিৎ পৰিমাণেহে পানী\nকঢ়িয়ায়, গতিকে শীতকালত কম পৰিমাণে বৰষুণ\nহয়।\n\nবিজ্ঞান",
+  "confidence": {
+    "word_count": 190,
+    "mean": 85.02,
+    "median": 95.14,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.249,
+  "page_elapsed_seconds": 3.645,
+  "peak_process_tree_rss_bytes": 294240256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

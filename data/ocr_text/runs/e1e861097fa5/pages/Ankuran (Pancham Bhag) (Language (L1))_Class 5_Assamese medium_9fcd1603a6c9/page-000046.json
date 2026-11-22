@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পদ্য আবৃত্তি কৰিব পৰা\n\nপদ্যটোৰ জৰিয়তে কথোপকথনৰ কৌশল আয়ত্ত কৰা\nব্যংগ্যাত্মক পদ্যৰ ৰস আস্বাদন কৰিব পৰা\n\nপদ্যটোৰ কথাখিনি কাহিনী আকাৰে ক’ব পৰা\n\nপদ্যটো বুজি প্রশ্নৰ উত্তৰ দিব পৰা\n\nস্থানীয় পিঠা-পনা, লাৰু আদিৰ নাম জানি লিখিব পৰা\n\nঞ্জ অৰ্থৰ পাৰ্থক্য অনুসৰি বাক্য ৰচনা কৰিব পৰা\n\nঞ্জ অব্যয় পদৰ বিষয়ে জনা আৰু প্রয়োগ কৰিব পৰা\n\nঞ্জ আকস্মিক বক্তৃতাত অংশগ্ৰহণ কৰি বিভিন্ন বিষয় সম্পৰ্কে ক’ব পৰা\n\nঞ্জ পিঠা-পনা, লাৰু আদিৰ প্রস্তুত প্ৰণালীৰ বিষয়ে ধাৰণা লাভ কৰি ক’ব পৰা\nঞ্জ থলুৱা জা-জলপানসমূহ যে আমাৰ পৰম্পৰাগত জাতীয় খাদ্য সেই কথা জনা আৰু উপকাৰিতাৰ বিষয়ে বুজি পোৱা\nঞ্জ পদ্যটো নাটকৰ ৰূপ দি অভিনয় কৰিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nপদ্য শুদ্ধ উচ্চাৰণেৰে আবৃত্তি পদ্যটোৰ কথাখিনি কথো৷পকথনত | পাঠভিত্তিক প্রশ্নৰ, শব্দাৰ্থ বুজি\n\nপঢ়িব পৰা   কৰিব পৰা  + 9) ভাগ ল’ব পৰা | উত্তৰ দিব পৰা প্রয়োগ কৰিব পৰা\n\n(ব্যাৱহাৰিক | গঠন কৰিব পৰা | একে উচ্গাৰণৰ | জনা আৰু ব্যৱহাৰ\n\nবাৰৰ    শ্ব বল | \"কিব ৰ\n\nজ্ঞান    আকস্মিক    থলুবাজা-    পিঠাৰ প্রস্তুত   নাক আক\nবক্তৃতাত ভাগ   জলপানৰ নাম | প্রণালীৰ বিষয়ে\nল’ব পৰা - | জনা আৰু ক'ব | লিখিব পৰা | আঁকিব পৰা\n\nপৰা\nপদ্যটোৰ কথাখিনি\nপ্রকল্প | নাটকআকাৰে লিখি\nঅভিনয় কৰিব পৰা|\nঞস অহৰ্তা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ লৈ ৯ চিন দিব । অহৰ্তা\n\nআয়ভ নোহোৱা শিকাৰচ্ক অতিৰিভ্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 148,
+    "mean": 88.83,
+    "median": 96.05,
+    "minimum": 7.99,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.994,
+  "page_elapsed_seconds": 3.288,
+  "peak_process_tree_rss_bytes": 273473536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

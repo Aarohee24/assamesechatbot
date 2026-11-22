@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 73,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৪\n\nপাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা --\nঞ শিকাৰুৱে পদা শুনি বুজি পোৱা আৰু গাব পৰা\nঞজ পৰিয়ালৰ সদস্যসকলৰ সম্বন্ধৰ বিষয়ে অৱগত হোৱা\nঞ্-পৰিচিত পৰিৱেশত শুনা প্ৰশ্নৰ উত্তৰ দিব পৰা\nঞজ চাফ্‌-চিকুণতাৰ বিষয়ে সচেতন হোৱা\nঞ্জ স্বাস্তযসন্মত অভ্যাস গঠন কৰিব পৰা\nঞ শব্দৰ উচ্চাৰণ অনুসাৰে অৰ্থৰ পাৰ্থক্য বুজি পোৱা\nঞ্জ অসমীয়া ভাষাৰ শব্দ নিজৰ ভাষাত ক’ব পৰা\nঞ ছবি চাই ক'ব পৰা আৰু লিখিব পৰা\nঙঃ-শ, হুৰ পৰিৱৰ্তিত ৰূপৰ সতে পৰিচয় পাব পৰা\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nপদ্য         শুনি বুজি গাব | দলগতভাৱে অংগ-   নিজে নিজে গাব পৰা,   পৰস্পৰৰ সম্পৰ্কৰ বিষয়ে\nপৰা    ভংগী কৰি গাব পৰা   অন্যান্য পদ্য গাব পৰা     বুজিব পৰা\nছ্‌বি    ছবি চাই ক'ব পৰা, দৈনন্দিন\nকাম সম্পৰ্কে জনা আৰু বুজি| ছবি চাই লিখিব পৰা\nপোৱা\nবাক্য      বাক্য পঢ়িব পৰা    প্রশ্নৰ উত্তৰ দিব পৰা   নিজৰ পৰিচয় ক’ব পৰা\n- কাৰ (স্বৰ) চিন\n- কাৰ (স্বৰ) চিন     চিনিব পৰা আৰু| সলনি, হোৱা শব্দ\nলিখিব পৰা\nঅৰ্ধ ‘অ’ ৰ উচ্চাৰণৰ      /\nশব্দ গঠন কৰিব    এনে শব্দ পঢ়িব পৰা\nশব্দ       পাৰ্থক্য বুজা।       পৰা\nসম্বন্ধ        পৰিয়ালৰ সম্পৰ্ক    গৰিয়ালৰ    পৰিচিত পৰিৱেশত\nসদস্যসকলৰ কাম     ৰ\nক’ব পৰা\n\n3ম অহতা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত ৮ চিন দিব আৰু নহ’লে * চিন দিব ৷ অহতা আয়ত্ত নোহোৱা\nশিকাকক আতিবিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কবিব।",
+  "confidence": {
+    "word_count": 201,
+    "mean": 85.82,
+    "median": 95.26,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.682,
+  "page_elapsed_seconds": 2.976,
+  "peak_process_tree_rss_bytes": 267702272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

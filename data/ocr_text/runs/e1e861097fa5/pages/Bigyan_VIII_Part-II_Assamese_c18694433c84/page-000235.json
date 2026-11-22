@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 235,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰৰৰ বা ঁলছতছছতনতকৰৰোৰতো [|\n\nনাইলনক ৰেচমৰ দৰে দেখি। ই শক্তিশালী আৰু নমনীয়। 1939 চনত যেতিয়া নাইলন প্রথম\nউলিওৱা হয়, তেতিয়া ইয়াৰ ভাল গুণবোৰে এক জন-আলোড়ন বা নাইলন-উন্মাদনাৰ সৃষ্টি\nকৰিছিল। এই নতুন আঁহৰ পৰা প্রস্তুত কৰা মহিলাৰ মোজাৰ খুউব চাহিদা আছিল। কিন্তু,\nদুৰ্ভাগ্যবশতঃ দ্বিতীয় বিশ্ব-যুদ্ধ (1939-1945)ৰ সময়ত নাইলন উৎপাদনৰ সৰ্বাধিক অংশকে\nপেৰাচুটৰ উৎপাদনত ব্যৱহাৰ কৰা হৈছিল। যুদ্ধৰ পাছত যেতিয়া মোজাৰ উৎপাদন পুনৰ আৰম্ভ\nকৰা হৈছিল, তেতিয়া যোগানৰ পৰিমাণে চাহিদা পূৰাব পৰা নাছিল। এই সামগ্ৰীবিধৰ বাবে ডাঙৰ\nক’লা বজাৰ চলিছিল। মহিলাসকলে এজোৰ মোজা পাবৰ বাবে ঘণ্টা ঘণ্টা ধৰি শাৰীত থিয় হৈ\nঅপেক্ষা কৰিব লাগিছিল। প্রায়েই নাইলন জড়িত সংঘৰ্ষ হৈছিল।",
+  "confidence": {
+    "word_count": 97,
+    "mean": 89.57,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.157,
+  "page_elapsed_seconds": 2.413,
+  "peak_process_tree_rss_bytes": 314503168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

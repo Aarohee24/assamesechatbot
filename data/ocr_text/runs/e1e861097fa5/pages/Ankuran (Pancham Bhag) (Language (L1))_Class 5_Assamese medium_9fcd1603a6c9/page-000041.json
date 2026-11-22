@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ                 ক -- পাঠভিত্তিক ত্ৰিয়া\n\nগুল\n\nতল য়\n\n& ;}\n\n‘+ দলত ভাগ হৈ পদ্যটো আবৃত্তি কৰা।\n\nৰা\n\nপদ্যটো শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়া।\n\nপিঠাৰ মেল’ পদ্যটো কাহিনী আকাৰে কোৱা।, _ূ\n\n(ক) “এই দেশত আৰু বেছি দিন\nনাই আমাৰ ভাত!”\n\n(খ) “কিয় কৱ তেনে দুখ লগা কথা?”\n\n(গ) “লাৰু আৰু পিঠাবোৰক হায়\nঘিণৰ চকুৰে চায়।”\n\nতলৰ খালী ঠাইত বাকচত থকা উপযুক্ত শব্দেৰে পূৰোৱা-\n\nভৰালী কোঠা উৰুকা পাচি ঘপৰাই\n\nঘোৰ অপমান হঠাৎ        ঘিণ\n\nউদাহৰণ--- অতি অসন্মান/অৱমাননা -- ঘোৰ অপমান\n\nঅকস্মাৎ\nবিহুৰ আগদিনা _____\n\n3ম নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 87,
+    "mean": 82.34,
+    "median": 92.78,
+    "minimum": 2.71,
+    "maximum": 96.87
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 12 diacritics",
+        "Detected 12 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.33,
+  "page_elapsed_seconds": 2.669,
+  "peak_process_tree_rss_bytes": 270716928,
+  "tesseract_warnings": [
+    "Detected 12 diacritics",
+    "Detected 12 diacritics"
+  ],
+  "processed_this_run": true
+}

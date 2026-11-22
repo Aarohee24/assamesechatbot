@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 34,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতাসমূহ-_\n\nঞ্চ বিশেষ ব্যক্তিৰ জীৱনী পঢ়ি বুজি পাব আৰু তেওঁৰ আদৰ্শ নিজৰ জীৱনত প্রতিফলিত কৰিবলৈ শিকিব\n\nপাৰিব\n\nপাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\n\nতথ্যভিত্তিক লিখনৰ কৌশল আয়ত্ত কৰিব পাৰিব\n\nশব্দ সম্ভাৰ আৰু অভিধান চাই শব্দৰ অৰ্থ উলিয়াব পাৰিব\n\nছাত্ৰ-ছাত্ৰীৰ মাজত থকা সৃজনীমূলক প্রতিভাৰ বিকাশ হ’ব, ভৱিষ্যৎ জীৱনত নিজকে প্রতিষ্ঠা কৰাত\n\nসহায়ক হ’ব পাৰিব\n\nতক প্রতিযোগিতাত অংশগ্ৰহণ কৰিব পাৰিব\n\nঅন্য সাহিত্যিকসকলৰ বিষয়ে পঢ়ি বুজি ক’ব পাৰিব\n\nঞ নিজৰ ঠাইৰ পাৰদশী ব্যক্তিসকলৰ বিষয়ে জানিব আৰু তেখেতসকলৰ বিষয়ে তথ্য সংগ্ৰহ কৰি লিখিব\nপাৰিব\n\nঞ্চ পদ চিনাক্ত কৰিব পাৰিব\n\nৰ $₹ $₹ ৬\n\nৰ\n\nৰ\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nজীৱনী   পাঠটো শুদ্ধকৈ  পাঠভিত্তিক প্রশ্নৰ | শব্দৰ অৰ্থ বিচাৰি | আনন্দৰাম বৰুৱাৰ\nপঢ়িব পৰা   উত্তৰদিবপৰা | লিখিব পৰা | বিষয়ে জনা\nভাষা অধ্যয়ন  ক্ৰিয়াৰ কালৰ  বিশেষ্য, বিশেষণ,\nব্যাকৰণ        পদ বাছি উলিয়াব পৰা\n\nসাহিত্যিকৰ বিষয়ে | মহৰ্ষি পাণিনিৰ    তৰ্ক প্রতিযোগিতাত\n\nজ্ঞান সম্প্ৰসাৰণ\nজনা                 বিষয়ে জনা              অংশগ্ৰহণ কৰিব পৰা\n\nনিজৰ ঠাইৰ পাৰদশী     নিজৰ জীৱনৰ\nপ্রকল্প     ব্যক্তিৰ বিষয়ে তথ্য সংগ্ৰহ! লক্ষ্য সম্পৰ্কে\nকৰি লিখিব পৰা       লিখিব পৰা\n\nণঞ্- অহা আয়ভহ লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ লৈ * চিন দিব । অহৰ্তা আয়ভ নোহোৱা শিকাৰ৷ক আতিৰিজ্তভাৱে\n\nশিকাই পুনৰ মূল্যায়ন কৰিব।\nবব)",
+  "confidence": {
+    "word_count": 191,
+    "mean": 85.87,
+    "median": 95.99,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.673,
+  "page_elapsed_seconds": 2.877,
+  "peak_process_tree_rss_bytes": 296402944,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

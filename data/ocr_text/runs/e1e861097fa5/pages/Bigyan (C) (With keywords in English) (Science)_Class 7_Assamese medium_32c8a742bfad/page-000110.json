@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 110,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মাটি\n\n(১০]])\n\n9\n\nজন্গ = আতন\n৮)7%51 1]\n\nমাটি এক অতি আৱশ্যকীয় প্রাকৃতিক সম্পদ\n(খ৪001৪] 169001069)। মাটিয়ে উদ্ভিদৰ শিপাক\nটানকৈ ধৰি ৰাখে আৰু পানী আৰু পোষক দ্রব্যসমূহ\nযোগান ধৰি উদ্ভিদৰ বৃদ্ধিত সহায় কৰে। ই বহুতো\nজীৱৰ বাসস্থান। কৃষিৰ কাৰণে মাটিৰ আৱশ্যক। কষিয়ে\nসকলোকে অন্ন, বস্তু আৰু আশ্রয় (91161(21)ৰ সুবিধা\nদিয়ে। সেয়েহে মাটি আমাৰ জীৱনৰ অবিচ্ছেদ্য অংগ\n(1118612808016 ])810)। প্ৰথম বৰষুণজা৷কৰ পাছত\nমাটিৰ পৰা ওলোৱা গোন্ধ সদায়ে সজীৱকাৰক।\n\nচিত্ৰ 9.1 শিশুসকলে মাটিৰ সৈতে খেলি আছে\n(001101621] |)]8.11]9 ঘ1{]] ৪901])\n\n9.1 মাটিত বিভিন্ন জীৱৰ সমাৱেশ\n(১০]] (66111 দ]] ]]116)\n\nবাৰিষাৰ কোনোবা এদিন প্রহেলিকা আৰু প্রজ্ঞানে\nমাটিৰ পৰা কেঁচু ([380710110})) এডাল ওলাই অহা\nদেখা পালে। প্রহেলিকাৰ দেখি কৌতূহল হৈছিল\nকিজানিবা মাটিৰ ভিতৰত আন জীৱও থাকিব পাৰে।\nআমি বিচাৰোঁ আহা।\nত্ৰিয়াকলাপ (1ছ]৮) 9.1\n\nমাটিৰ কিছুমান নমুনা সংগ্ৰহ কৰা আৰু এইবোৰ\nভালদৰে নিৰীক্ষণ কৰ৷। তুমি আতছী কাঁচ এখনো\nব্যৱহাৰ কৰিব পাৰ৷ ৷ প্ৰতিটো নমুনা ভালদৰে নিৰীক্ষণ\nকৰি তালিকা 9.1 খন পূৰ কৰা।\n\n৬ তোমাৰ এই নিৰীক্ষণবোৰ বন্ধুবোৰৰ\nসৈতে আলোচনা কৰা।\n\n৬ তোমাৰ বন্ধুবোৰে সংগ্ৰহ কৰা মাটিৰ\nনমুনাবোৰৰ লগত তুমি সংগ্ৰহ কৰা\nনমুনাবোৰৰ কিবা সাদৃশ্য আছে নেকি?\n\nপ্রজ্ঞান আৰু প্ৰহেলিকাই মাটি বিভিন্ন ধৰণে\n\nব্যৱহাৰ কৰে। তেওঁলোকে মাটিৰে খেলি\nআনন্দ পায়। সঁচাকৈয়ে ই এটা আমোদজনক\nধেমালি।\n\nমাটিৰ ব্যৱহাৰৰ ওপৰত এখন তালিকা প্রস্তুত কৰা।",
+  "confidence": {
+    "word_count": 196,
+    "mean": 85.97,
+    "median": 95.79,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.987,
+  "page_elapsed_seconds": 3.287,
+  "peak_process_tree_rss_bytes": 289959936,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জীৱনে-মৰণে মই চিৰদিন অসমীয়া\nঅসমীয়া দেহে প্রাণে মই,\n\nমৰিলেও বৰি ল’ম অসমৰ অমিয়া মৰণ।\nধৰ্ম মোৰ জাতি মোৰ\n\nঅসমীয়া প্রাণৰ আপোন\n\nঅসমীয়া ভাষা মোৰ, কথা মোৰ, গীত মোৰ\nঅসম প্রকৃতিয়ে ৰচা\n\nচিনি পাম বুজি পাম             গীতিকাৰ -- চৈয়দ আব্দুল মালিক\nআমৰণ সৰগতো মোৰ এই ভাষা অসমীয়া।\n\n| চৈয়দ আব্দুল মালিক (১৯১৯-২০০০) অসমীয়া সাহিত্যৰ এজন বিশিষ্ট গল্পকাৰ, ।\n৷ উপন্যাসিক, নাট্যকাৰ আৰু কবি। তেখেতৰ জন্মস্থান আছিল গোলাঘাট জিলাৰ নাহৰণিত।!\n| তেখেত ১৯৭৭ চনত অসম সাহিত্য সভাৰ সভাপতি পদত অধিষ্ঠিত হৈছিল। ‘অঘৰী!\n| আত্মাৰ কাহিনী’ নামৰ উপন্যাসৰ বাবে তেখেতে ‘সাহিত্য অকাডেমি’ বঁটা লাভ কৰিছিল।\n৷ ইয়াৰ উপৰি ‘অসম উপত্যকা বঁটা’, ‘শংকৰদেৱ বঁটা’ আৰু পদ্মত্ৰী, পদ্মভূষণ সন্মানেৰে!\n| তেখেত সন্মানিত হৈছিল।                        |\n\n১৪। তুমি জন৷ পাঁচগৰাকী দেশপ্ৰেমিকৰ নাম ছবিসহ সংগ্ৰহ কৰি তেওঁলোকৰ কৰ্মৰাজিৰ\nবিষয়ে চমুকৈ লিখা। (সহায়ক উৎস হিচাপে পুথিভঁৰাল, বাতৰি কাকত, আলোচনী,\nবৈদ্যুতিন মাধ্যমৰ পৰা তথ্য সংগ্ৰহ কৰিবলৈ চেষ্টা কৰিবা)।\n\nঞ্- উলিখিত বিষয়সমূহৰ তথা সংগহ কৰাৰ বাবে বিভিন্ন সমল এই, বাতৰি কাকত, বৈদ্যুতিন মাধ্যম আদি দেখুৱাই ছাত্ৰ-\n\nছাত্ৰীক সহায় কৰিব।\nৰব)\"",
+  "confidence": {
+    "word_count": 159,
+    "mean": 90.67,
+    "median": 95.84,
+    "minimum": 22.61,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 64 diacritics",
+        "Detected 64 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.566,
+  "page_elapsed_seconds": 2.821,
+  "peak_process_tree_rss_bytes": 305147904,
+  "tesseract_warnings": [
+    "Detected 64 diacritics",
+    "Detected 64 diacritics"
+  ],
+  "processed_this_run": true
+}

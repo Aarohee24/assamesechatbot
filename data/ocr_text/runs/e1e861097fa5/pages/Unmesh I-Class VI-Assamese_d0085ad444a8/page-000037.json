@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ৬। উদাহৰণৰ দৰে তলত দিয়া শব্দকেইটা ভাঙি লিখা।\nউপকূল => উপ + কূল\n\nবেদখল       =>\nসুনাম          =>\nবিখ্যাত        =>\n\nআওবাট =\nঠৰ ৭। তলত দিয়৷ শব্দবোৰেৰে একোটাকৈ বাক্য ৰচন৷ কৰ৷--\n\nথুপাই\n\nপাৰ্গত ৪\n\nএকাগ্ৰতা _$\n\nপুৰুষাৰ্থ ;\n\n৷ জানলালয়াৰ৮ ৷\n\nআমাৰ বিভিন্ন ভাল অভ্যাসবোৰৰ ভিতৰত পুথি অধ্যয়ন অন্যতম। পুথি অধ্যয়নৰ\nঅভ্যাস গঢ়ি তুলিবলৈ আমি পুথিভৰালৰ সহায় ল’ব পাৰোঁ। পুথিভৰালত অধ্যয়নৰ বাবে\nবহুতো পুথি থুপাই থোৱা থাকে। তোমালোকৰ বিদ্যালয়তো নিশ্চয় পুথিভঁৰাল আছে।\n\nইয়াৰ উপৰি বিভিন্নধৰণৰ ৰাজহুৱা আৰু চৰকাৰী পুথিভ'ৰালো৷ আছে। বিজ্ঞান-প্রযুক্তিবিদ্যাৰ\nউন্নতিৰ লগে লগে শেহতীয়াকৈ ডিজিটেল লাইবেৰীৰো প্ৰচলন হৈছে। এইবোৰত বিভিন্ন\nপুথি ই-বুক আকাৰত থাকে৷ আমি ডিজিটেল লাইবেৰীৰপৰা মোবাইল, কম্পিউটাৰ আদিৰ\nজৰিয়তে ঘৰতেই বহি পুথিসমূহ পঢ়িব পাৰোঁ। তদুপৰি কিছুমান কিতাপ শুনিব পৰাকৈ\nডিজিটেল মাধ্যমত শ্ৰব্য ৰূপত থাকে। বিভিন্ন ধৰণৰ এপ্‌বোৰৰ যোগেদি এইবোৰ লাভ\nকৰিব পাৰি। এইবোৰক ‘অডিঅ’ বুক’ বুলি কোৱা হয়। তোমালোকে পুথি অধ্যয়ন কৰিবলৈ\nএনে সুবিধাসমূহ গ্ৰহণ কৰিব পাৰিবা।\n\nডিজিটেল মাধ্যমত উপলব্ধ কেইটামান পুথিভঁৰালৰ ৱেবছাইটৰ লিংক তলত দিয়া\nহৈছে-_- 100)8://1101,11008]).8০.]]\n\n1100029://ঘ\"ঘঘ্মছম, 210102110621896.016.\n\nৰি",
+  "confidence": {
+    "word_count": 154,
+    "mean": 83.22,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.375,
+  "page_elapsed_seconds": 3.871,
+  "peak_process_tree_rss_bytes": 291053568,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

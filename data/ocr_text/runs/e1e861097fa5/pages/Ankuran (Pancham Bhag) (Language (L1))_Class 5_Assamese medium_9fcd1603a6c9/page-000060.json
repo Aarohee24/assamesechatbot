@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 60,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "টু জানো আহা\n\nতোমালোকে বাক্যৰ প্রকাৰ সম্বন্ধে ইতিমধ্যে জানি আহিছা। সাধাৰণতে বাক্যক\nসৰল , যৌগিক, জটিল আৰু মিশ্ৰ বাক্য হিচাপে পাইছা। তদুপৰি ভাব অনুসৰিও বাক্য\nবিভিন্ন প্রকাৰৰ আছে। যেনে, গ্রৰন্থমেলাত কিবা নতুন কিতাপ কিনিছা নেকি?’ এই বাক্যটোত\nপ্রশ্ন সোধা হৈছে। গতিকে এনে বাক্যক প্ৰশ্নবোধক বাক্য বোলে। প্রশ্নবোধক বাক্যবোৰত\nকি, কিয়, নে, নেকি আদি প্রয়োগ কৰা হয় যদিও এনে অব্যয় প্রয়োগ নহ’লেও বাক্যৰ\nসুৰ লহৰৰ ভিত্তিত প্রশ্নবোধক হ’ব পাৰে। যেনে, তুমি যাবলৈ ওলালা ?\nআদেশ, অনুজ্ঞা, অনুৰোধ, উপদেশ আদি বুজোৱা বাক্যক অনুজ্ঞাসূচক বাক্য\nবোলে। যেনে--\n(ক) আপুনি এবাৰ নহাকৈ নাথাকে যেন।\n(খ) দৰবটো দিনে তিনিবাৰকৈ খাবা।\n(গ) তুমি এতিয়াই ইয়াৰ পৰা আঁতৰ হোৱা।\nসেইদৰে আৱেগ, উৎকণ্ঠা, বিস্ময়, বিতৃষ্ণা, ঘৃণা বা আনন্দোল্লাস প্রকাশ কৰা\nবাক্যক ভাবাবৰেগসূচক বাক্য বোলা হয়। যেনে--_\n(ক) আঃ কি চমৎকাৰ!\n(খ) আয়ৈ দেহি! তোমাৰ আজি এই দশ!\n(গ) কি! মোক এনেকৈ ক’বলৈ তোমাৰ ইমান সাহস!\nইতিবাচক বাক্যক সদৰ্থক বাক্য বোলে। সেইদৰে নাই, নহয় বুজোৱা বাক্যক\nনঞৰ্থক বাক্য বোলে। যেনে--\n(ক) মোৰ এটা কলম আছে। (সদৰ্থক)\n(খ) মোৰ হাতৰ আখৰ সুন্দৰ নহয়। (নঞৰ্থক)\nযেনে--\n(ক) তেওঁ জানো ঘূৰি আহিব?\n(খ) ডাক্তৰজন যদি ঠিক সময়ত পালেহিহেঁতেন!",
+  "confidence": {
+    "word_count": 176,
+    "mean": 88.89,
+    "median": 93.3,
+    "minimum": 4.04,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.632,
+  "page_elapsed_seconds": 4.024,
+  "peak_process_tree_rss_bytes": 245960704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

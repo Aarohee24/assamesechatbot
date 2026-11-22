@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 247,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে কি শিকিল৷ ?\n\n* বায়ুমণ্ডলৰ উষ্ণতা, আৰ্দ্রতা, বৰষুণৰ পৰিমাণ, বতাহৰ গতি আদিয়ে কোনো\nএখন ঠাইৰ বায়ুমণ্ডলত দৈনন্দিন যি অৱস্থাৰ সৃষ্টি কৰে তাক সেই ঠাইখনৰ\nবতৰ বুলি কোৱা হয়।\n\n বায়ুমণ্ডলৰ উষ্ণতা, আৰ্দ্ৰতা, বতাহৰ গতি আদিক বতৰৰ উপাদান বোলে।\n\n*₹ বতৰ প্রতিদিনে বা প্রতিসপ্তাহে অৰ্থাৎ সঘনাই পৰিৱৰ্তন হয়।\n\nঞ কোনো এখন ঠাইৰ দীৰ্ঘকালৰ (25 - 30 বছৰৰ) বতৰৰ গড়মানৰ পৰা সেই\nঠাইৰ জলবায়ু নিৰূপণ কৰা হয়।\n\n* বতৰৰ পৰিৱৰ্তন মূলতঃ সূৰ্যৰ দ্বাৰা প্ৰভাৱিত হয়। গোটেই বছৰ ধৰি মেৰু\nঅঞ্চলত শীতৰ প্রকোপ থাকে। মেৰু অঞ্চলত সূৰ্য বছৰটোৰ ছয় মাহ কাল অস্ত\nনাযায় আৰু বাকী ছয় মাহত সূৰ্য উদয় নহয়।\n\n₹ জলবায়ু হৈছে যিকোনো অঞ্চলৰ বতৰৰ অৱস্থাৰ দীৰ্ঘম্যাদি আৰ্হি।\n\nঞ* জলবায়ুৰ পৰিৱৰ্তনে আমাৰ জীৱনৰ প্রতি দিশতে প্রভাৱ পেলায়।\n\n* জলবায়ুৰ পৰিৱৰ্তনৰ ফলত হ’ব পৰা সমস্যাৰ প্রতি সকলো সচেতন হ’ব\nলাগিব আৰু জলবায়ুৰ পৰিৱৰ্তনৰ কু-প্রভাৱ কমাবলৈ আমাৰ জীৱন ধাৰণ প্রণালী\nআৰু কাম-কাজৰ ধৰণৰ পৰিৱৰ্তনৰ জৰিয়তে চেষ্টা কৰিব লাগিব।\n\nঅনুশীলনী\n\n(8) - বতৰ কাক বোলে?\n\n(0০) জলবায়ু কাক বোলে?\n\n(০) বতৰৰ তিনিটা কাৰকৰ নাম লিখা।\n\n(৫) জলবায়ুৰ ভিত্তিত অসমত বছৰটোক কেইটা খততুত ভাগ কৰিব পাৰি আৰু\nসেইকেইটা কি কি?\n\n2. বতৰ আৰু জলবায়ুৰ পাৰ্থক্য লিখা।\n\n|\". ঠপৰীো]}[][{হৰৰটৰিৰৰ।।। 5",
+  "confidence": {
+    "word_count": 183,
+    "mean": 86.58,
+    "median": 95.34,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.996,
+  "page_elapsed_seconds": 3.274,
+  "peak_process_tree_rss_bytes": 292147200,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

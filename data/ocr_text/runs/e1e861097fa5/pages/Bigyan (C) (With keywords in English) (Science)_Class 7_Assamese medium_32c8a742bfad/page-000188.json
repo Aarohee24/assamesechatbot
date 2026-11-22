@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 188,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "15\n\nএটা সৰু জলঙা বা ছিদ্ৰৰ ([]01]6) মাজেৰে\nকোঠালিৰ ভিতৰলৈ সোমোৱা সূৰ্যৰ পোহৰৰ\nজিলিঙনি দেখিছা নিশ্চয়। স্কুটাৰ, মটৰ-গাড়ী আৰু\nৰে’ল-ইঞ্জিনৰ (]711611125 ০{ 80115) হেড লাইটৰ\nপোহৰৰ কিৰণো নিশ্চয় তোমালোকৰ দৃষ্টিগোচৰ\nহৈছে [চিত্র 15.1 (8)]। একেদৰে টৰ্চৰ পোহৰৰ\nৰশ্মিও দেখা পোৱা যায়।\n\nৰ\n\nৰি\n\n৷\nছু\nপি\nু\n\n(3)ৰে’ল ইঞ্জিন (]২৪1| 21061112)                             (৮) আলোক স্তম্ভ বা লাইট হাউচ\nচিত্ৰ 15.1 পোহৰৰ ৰশ্মি (36809 ০{118]10)                         (][19]]0 10092)\nতোমালোকৰ কিছুমানে হয়তো আলোক স্তম্ভ 15.1 পোহৰে সৰলৰেখাত গতি কৰে\n\n([.19]1( 10092) বা বিমান বন্দৰৰ স্তম্ভৰ ([0%০) (]19]1{ (\"9৮615 ৪]0118 9 90\"819]1( ]]106) £\n\nসন্ধানী দীপ (5০10]) ]19110)ৰ পৰা বিকিৰিত       প্রজ্ঞানে ষষ্ঠ মানতে সম্পন্ন কৰা ক্ৰিয়াকলাপ এটা\n\nপোহৰৰ ৰশ্মি দেখিছা। [চিত্ৰ-15.1(6)]         মনত পেলালে৷ সেই ক্ৰিয়াকলাপটোত সি এডাল জ্বলি\nএনেবোৰ অভিজ্ঞতাৰপৰা কি শিকিব পাৰি?\n\n(৪)                                        ৮)\n\nচিত্ৰ 15.2 এডাল পোন আৰু এডাল বেঁকা নলীৰ মাজেৰে জ্বলি থকা মমবাতি নিৰীক্ষণ।\n([,00[9116 88 ০811016 1008]] ৪ 90819]]1{ 0110 8 06100 1)1|)2)",
+  "confidence": {
+    "word_count": 143,
+    "mean": 73.35,
+    "median": 92.08,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.557,
+  "page_elapsed_seconds": 3.002,
+  "peak_process_tree_rss_bytes": 296501248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

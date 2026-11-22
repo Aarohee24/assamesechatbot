@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 50,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঘ-- প্ৰকল্প\n১৬। উৰাবাতৰি সম্পৰ্কে সমাজত সজাগতা সৃষ্টিৰ বাবে বাটৰ নাট এখন প্ৰদৰ্শন কৰা।\n\n১৭। তলত দিয়া আৰ্হিৰ দৰে উৰাবাতৰি সম্পৰ্কে সমাজত সজাগতা সৃষ্টিৰ বাবে\nপ্ৰত্যেকেই দুটামান শ্লোগান লিখা।\n\nবাটৰ নাটৰ বিষয়বস্ত সম্পৰ্কে সানীয় দক্ষ ব্যক্তিৰ আৱশাকবোধে সহায় ল’ব।\nনাট উপসাপন কৰাৰ বাবে আখৰা, প্ৰশিক্ষণ আদিত আগভাগ ল’ব।\nছাত্ৰ-ছাত্ৰীসকলৰ স্বাস পৰীক্ষাৰ বাবে চৰকাৰী স্বাহা গোটৰ লগত যোগাযোগ ৰাখিব।\n\nপ্রকল্প প্ৰস্তুত কৰোঁতে সহায় কৰিব।\n\n॥৷৪৭॥৪৭৪",
+  "confidence": {
+    "word_count": 64,
+    "mean": 83.95,
+    "median": 93.12,
+    "minimum": 0.0,
+    "maximum": 96.67
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 1.762,
+  "page_elapsed_seconds": 2.065,
+  "peak_process_tree_rss_bytes": 298819584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

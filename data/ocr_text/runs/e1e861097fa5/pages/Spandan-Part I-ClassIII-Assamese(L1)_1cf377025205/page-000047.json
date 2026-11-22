@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 47,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "2 <! ক) বাওঁফালৰ হোৱা অৰ্থৰ লগত সোঁফালৰ নৰ নোহো অৰ্থ মিলাওঁআহা-_\n| বাওঁফাল           সৌফাল !\nযাওঁ                                          নাগাব\nদিব                                          নেখেলিব\nগাব                                          নোধোৱা\nচুব                                           নিদিব\nখেলিব                                     নুচুব\nৰণ                                                              কী\nখ) তলৰ শব্দবোৰ ব্যৱহাৰ কৰি একোটাকৈ বাক্য সাজা--\nকপৌ       \"সিপাৰ সক ৰ শ্ৰৰল {* বীন কো ৭, আতি সলা\nপুখুৰী    ইঠা লেভেল ত ডন এৰি িগিমদূলএন 195 5৮.1 8985\nভুঞ্কৈ\" 'ফভ5দভ55 \"48498: 1555 ‘64% 79:35.559555595599395445559 95.554\nটকী! - 1:5১১5১5৯5:5১ 6য়: এমছড বটে ডদডিডডেনতডদ৭তেননড ডেড\nথ্থাঁৰ, = \"চাস: ীভ৯,449553 959 তিল ॥%:॥958975,5783,,599 93537, ম59915355569,,\nকাণ             লী, কামজ্ঞালিল৷ তলৰ ভিতিক ৰা লা লতাললালললকসদমন\nউদাহৰণঃ- কপৌৱে ৰুণ্‌ দিয়ে।\nপাৰ চৰায়ে                           ৰাৱ পাৰে\nকুকুৰাই                                    ৰুণ্‌ দিয়ে\n\n/ ৬।আলোচনা কৰোঁ৷ আৰু লিখোঁ আহা --\n“ বাকীবোৰে হয়ভৰ দি ক’লে--- \"পথাৰখনলৈ গৈ ‘কপৌ কু কু’ খেলোঁ ব’লা!”\nক) সিহঁতে বগৰীজোপাৰ তলত নেখেলি পথাৰখনলৈ কিয় খেলিবলৈ গ’ল বুলি\n\nভাবা।\nখ) বগৰী গছৰ দৰে কেইবিধমান কীইটীয়া গছৰ নাম লিখা\n\nঅধ্যায় ৩ ঃ খেল-ধেমালি\n\n===\n\nদ্র",
+  "confidence": {
+    "word_count": 78,
+    "mean": 66.58,
+    "median": 90.36,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 11 diacritics",
+        "Detected 11 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.154,
+  "page_elapsed_seconds": 4.979,
+  "peak_process_tree_rss_bytes": 222875648,
+  "tesseract_warnings": [
+    "Detected 11 diacritics",
+    "Detected 11 diacritics"
+  ],
+  "processed_this_run": true
+}

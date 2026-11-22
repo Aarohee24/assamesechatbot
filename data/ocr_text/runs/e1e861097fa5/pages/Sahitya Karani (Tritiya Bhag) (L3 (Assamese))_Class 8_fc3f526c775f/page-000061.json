@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 61,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\n\nএইখন এখন আৱেদনৰ আহহি-\n\nপ্রতি,                                   তাৰিখ £ঃ ২৫/৪/২০১৮\nৰংপুৰ মধ্য ইংৰাজী বিদ্যালয়ৰ\nমাননীয়া প্রধান শিক্ষয়িত্ৰী মহোদয়াৰ সমীপেযু,\n\n(শ্ৰেণী শিক্ষক মহোদয়ৰ জৰিয়তে)\nমহাশয়৷,\nঅধীনৰ বিনীত নিৱেদন এই যে যোৱা ২৪ এপ্রিল, ২০১৮ তাৰিখে মই পেটৰ\nঅসুখৰ বাবে শ্ৰেণীত উপস্থিত থাকিব পৰা নাছিলোঁ। গতিকে উক্ত দিনটো মহোদয়াই\nছুটী মঞ্জুৰ কৰি মোক বাধিত কৰে যেন।\n\nইতি--\nতাইৰ অসুখ হোৱাতো সত্য।         আপোনাৰ একান্ত বাধ্য ছাত্ৰী\nঅভিভাৱকৰ চহী                        উপমা দাস\nনৰেল্দ্ৰ দাস                        শ্ৰেণী ঃ অষ্টম, শাখা £ খ\nতাৰিখ ঃ ২৫/৪/২০১৯                      ৰোল নং ২\n\nও অনান্য বিষয়ৰ আৱেদন পত্ৰ লিখাৰ অভ্যাস কৰাব।",
+  "confidence": {
+    "word_count": 89,
+    "mean": 89.05,
+    "median": 95.12,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.185,
+  "page_elapsed_seconds": 2.418,
+  "peak_process_tree_rss_bytes": 243617792,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

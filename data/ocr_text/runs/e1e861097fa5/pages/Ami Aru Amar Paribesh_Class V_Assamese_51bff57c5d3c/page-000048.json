@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 48,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "| অনুশীলনী\n১ | চমুকৈ উত্তৰ লিখা--\n\n(ক) আমাক কিয় আহাৰৰপ্ৰয়োজন হয়?\n(খ) খাদ্যত থকা উপাদানবোৰকিকি?\n(গ) সুষম আহাৰ বুলিলে কি বুজা ? সুষম আহাৰৰ কিয় প্ৰয়োজন?\n(ঘ) আমি কিয় যথেষ্ট পৰিমাণে পানী খাব লাগে?\n২ ।খালী ঠাই পূৰ কৰ|---\n(ক) জীয়াই থাকিবৰ বাবে -------প্ৰয়োজন।\n(খ) আমাৰ দেহৰ গঠন আৰু বৃদ্ধিত সহায় কৰা উপাদান বিধ হ'ল-___-|\n(গ) সেউজীয়া শাক-পাচলি আৰু ফল-মূলত    আৰু     থাকে।\n(ঘ) প্রয়োজনীয় পৰিমাণত সকলোবোৰ উপাদান থকা খাদ্যক ===\" আহাৰ বোলে।\n\n(ঙ) ভিটামিন          ৰঅভাৱত চকুৰ দৃষ্টি শক্তি কমে ৷\n৩ । ‘ক’অংশৰ লগত ‘খ’ অংশ মিলোৱা --\nকক’                                                       ‘খ’\nআমাৰ শৰীৰক শক্তি দিয়া উপাদান বিধ হ’ল                       কেলচিয়াম\nশৰীৰত হাড় আৰু দাঁতৰ গঠনত সহায়'কৰা খনিজ লৱণ বিধহ’ল । লো\nতেজৰ গঠনত সহায় কৰ৷ খনিজ লৰণ বিধ হ’ল                      গৰল\nআয়’ডিনৰ অভ৷রত হোৱা বেমাৰ বিধ হ’ল                        শৰ্কৰা\n\n৪ | শুদ্ধ উত্তৰটো বিচাৰি উলিওৱা---\n\n(ক)-“আমাৰ শৰীৰক বেমাৰৰ পৰা ৰক্ষা কৰা উপাদানবোৰ হ’ল---\nগাখীৰ আৰু: দে/চবী আৰু প্রনটিন/ভিটামিন আৰু খনিজ লৱণ।\n\n(খ) দীৰ্ঘদিনৰ বাবে খাদ্যৰ উপাদানৰ অভাৱত হোৱা বেমাৰক কি বুলি কোৱা হয়-_\nবেৰিবেৰি/কুকুৰীকণা৷/অভাৱজনিত ৰোগ।\n\n(গ) ভিটামিন 0\" অধিক পৰিমাণে থকা খাদ্য হ’ল-_\nগাখীৰ/আমলখি/ছয়াবিন ৷\n\n৫2৯৬ +৯*",
+  "confidence": {
+    "word_count": 174,
+    "mean": 82.21,
+    "median": 92.98,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 4.957,
+  "page_elapsed_seconds": 6.132,
+  "peak_process_tree_rss_bytes": 203829248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ") ৰজা মন্দমতিয়ে ভাবি-চিন্তি গহীনাই ক’লে-_- “বাৰু, তহঁতৰ প্রস্তাৱত মই সন্মতি দিলোঁ। কিন্তু, [\n॥ তহঁতে এদিনৰ বাবেও যদি জন্তু পঠিওৱা বন্ধ কৰ, তেনেহ’লে তাৰ পিছদিনাখনেই মই তহঁতক\n।\n\n।\n\nসবংশে নাশ কৰিম।” জীৱ-জন্তুবোৰেও সিংহৰ কথাত মান্তি হৈ গুচি গ’ল।\n\nকথামতে সিহঁতে প্রতিদিনে একোটাকৈ জন্তু পশুৰাজৰ ওচৰলৈ পঠিয়াই থাকিল।\nএদিন এটা শহাৰ পাল পৰিল। দুখ মনেৰে শহাটোৱে লাহে-ধীৰে সিংহটোৰ ওচৰলৈ ৰাওনা\nহ’ল।সি মন্দমতিৰপৰা কেনেকৈ হাত সাৰিব পাৰি তাৰে উপায় ভাবি ভাবি গৈ থাকিল। এনেদৰে\nগৈ থাকৌতে শহাটোৱে এটা কুঁৱাৰ ওচৰ পালেগৈ। কুঁৱাটো ফট্‌ফটীয়া পানীৰে ভৰি আছিল।\n( সি তাত জুমি চাই তাৰ প্রতিবিম্বটো দেখা পালে। হঠাৎ তাৰ মনত এটা বুদ্ধি খেলালে।\n\n৷   ইতিমধ্যে বেলিয়ে ভাটি দিছে। ইফালে ভোকত অস্থিৰ হৈ সিংহই খঙত তৰ্জন-গৰ্জন |\nকৰি অৰণ্য কঁপাই তুলিলে৷ বহু বেলিৰ মূৰত শহাটোক দেখাৰ লগে লগে সিংহটোৱে খঙেৰে\n৷) সুধিলে-_ “তোৰ কিয় ইমান পলম হ’ল? ভোকত মোৰ পেটে কীও কীও শব্দ কৰিছে।\n   শহাটোৱে ভয়তে ইনাই-বিনাই ক’লে--- “সৰু জীৱ এটাৰে মহাৰাজৰ ভোক নপলাব ।\nবাটতে আন এটা সিংহই আমাক বাট ভেটি ধৰি সুধিলে--- ‘তহঁত ক’লৈ যাৱ?’ তেতিয়া\nআমি ভয়ে ভয়ে কৈছিলোঁ--- মহাৰাজৰ ভোজনাৰ্থে আজি আমাৰ পাল পৰিছে। গতিকে |\n৩২ 8 । জমমমোআ‘অংত৮াম্ো ৯২ |)\n\n[ৰ অ (|\n< ===                                                                                                                                                                                 |",
+  "confidence": {
+    "word_count": 189,
+    "mean": 87.33,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!",
+        "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.558,
+  "page_elapsed_seconds": 4.215,
+  "peak_process_tree_rss_bytes": 279953408,
+  "tesseract_warnings": [
+    "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!",
+    "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "processed_this_run": true
+}

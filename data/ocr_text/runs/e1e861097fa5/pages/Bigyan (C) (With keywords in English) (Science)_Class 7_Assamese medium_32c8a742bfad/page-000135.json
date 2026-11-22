@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 135,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[1  প্রাণী আৰু উদ্ভিদৰ পৰিবহণ তন্তু\n\n'][1'3119])01\"(80101] }]} /]]}[|08]9 9110] |)]81]1(5\n\nতোমালোকে আগতে শিকি আহিছা যে\nপানী আৰু অক্সিজেনৰ প্রয়োজন। সিহঁতে এইবোৰ\nশৰীৰৰ বিভিন্ন অংশলৈ পৰিবহণ (']\"8118])01\")\nকৰাটো নিতান্তই প্রয়োজন। ইয়াৰ উপৰি প্রাণীয়ে\nবৰ্জিত দ্রব্য (৷৪৪৷(০)সমূহক পৰিবহণ কৰি শৰীৰৰ\nসেই অংশবোৰলৈ নিব লাগে যৰ পৰা এইবোৰক বৰ্জন\nকৰিব পাৰি। তোমালোকে ভাবি চাইছানে যে এই\nসকলোবোৰ কাৰ্য কেনেদৰে সংঘটিত হয়। চিত্ৰ 11.1\nলৈ চোৱা। তোমালোকে হৃদযন্ত্ৰ []০81\"0) আৰু ৰক্ত\nনলীকা (31000 ৬০৪9০1|9)বোৰ দেখিছানে? ইহঁতে\nদ্রব্যবোৰ পৰিবহণ কৰে আৰু একেলগে পৰিবহণ তন্ত্ৰ\nবা সংবহন তন্ত্ৰ (010018001'% ৪৮921) গঠন কৰে।\nএই অধ্যায়ত তোমালোকে উদ্ভিদ আৰু প্রাণীৰ শৰীৰত\nবিভিন্ন দ্রব্যসমূহৰ পৰিবহণ কেনেকৈ হয় তাৰ বিষয়ে\nশিকিবলৈ পাবা।\n\n11.1 পৰিবহণ তন্তু বা সংবহন তন্তু ('1\"0013001'\n৬৮৪60)\nতেজ (31000)\n\nতোমাৰ শৰীৰৰ কোনো এটা অংশ কাটিলে কি\nহয়? তেজ ওলাই আহে। কিন্তু তেজনো কি? তেজ\nএবিধ তৰল পদাৰ্থ (]}1010) যি ৰক্ত নলীৰে প্রৱাহিত\nহয়। তেজে হজম হোৱা খাদ্য কণাসমূহ ক্ষুদ্ৰান্ত্ৰ (5178]]\n100690112)ৰ পৰা শৰীৰৰ বিভিন্ন অংশলৈ পৰিবহণ\nকৰে। ই হীওফীওৰ (][.01169) পৰা অক্সিজেন শৰীৰৰ\nঅপ্রয়োজনীয় দ্রব্যসমূহো দেহৰ পৰা বৰ্জন কৰায়।\n\nচিত্ৰ 11.1 তেজ পৰিবহণ বা সংবহন তন্তু\n(ধমনীবোৰ ৰঙা ৰঙেৰে আৰু\nৰঙেৰে দেখুওৱা হৈছে) (0'1160018001\" ৪92]])\n\n(/%1(21169 816 9]]0\"ঘা] 1]1 160 ০001001\" 8110 ৮61]\n1] 01062\nতেজৰ ৰং কিয় ৰঙা কিয়?                                                      )",
+  "confidence": {
+    "word_count": 195,
+    "mean": 83.38,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.233,
+  "page_elapsed_seconds": 3.597,
+  "peak_process_tree_rss_bytes": 294371328,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

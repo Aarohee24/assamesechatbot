@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 11,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ                ক -- পাঠভিত্তিক ক্ৰিয়া\n\n$/, গীতটি শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়া আৰু আবৃত্তি কৰা।\n\nগল  গীতটি একক আৰু দলীয়ভাৱে (সমৱেত সংগীত হিচাপে) গোৱা।\n\nচা\n\nঞ\n\nউত্তৰ দিয়া।\n\n(ক) ড’ ভূপেন হাজৰিকাই ‘আই’ বুলি কাক সম্বোধন কৰিছে?\n\n(খ) ড’ ভূপেন হাজৰিকাই মাঘ মাহত কি আদৰাৰ কথা কৈছে?\n\n(গ) শৰৎ নিশাই আইৰ কেশ কিহেৰে সজায়?\n\n(ঘ) পাহাৰ-ভৈয়ামৰ মিলন সেতু কিহে গঢ়ে?\n\n(৬) ড’ ভূপেন হাজৰিকাই ক’ত মৃত্যুবৰণ কৰিবলৈ ইচ্ছা প্রকাশ কৰিছে?\n\n(চ) এই গীতটিত গীতিকাৰ ড’ ভূপেন হাজৰিকাই ‘সূৰ্য উঠা দেশ’ মানে কোনখন\nদেশক বুজাইছে?\n\n(ছ) গীতিকাৰ ড’ ভূপেন হাজৰিকাই গোটেই জীৱন বিচাৰিলেও অসমৰ দৰে\nআন ক’তো কি নোপোৱাৰ কথা কৈছে?\n\nড’ভুপেন হাজৰিকাই অসমৰ পৰিবেশ কেনেকুৱা বুলি কৈছে লিখা।\nদলত আলোচনা কৰি বহলাই লিখা ।\n\n(ক) ৰামধনু কি আৰু ৰামধনুৰ দৰে পাহাৰ-ভৈয়াম একে কৰা মানে কি?\n(খ) লৌহিত্য মানে কি? ইয়াৰ বহল পাৰক কিয় গীতিকাৰে প্রণিপাত জনাইছে?\n\n7\nলক\nত\n\nএ গীতটিৰ মূল কথাখিনি কোৱা আৰু লিখা।",
+  "confidence": {
+    "word_count": 146,
+    "mean": 87.71,
+    "median": 95.58,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.332,
+  "page_elapsed_seconds": 3.7,
+  "peak_process_tree_rss_bytes": 271732736,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

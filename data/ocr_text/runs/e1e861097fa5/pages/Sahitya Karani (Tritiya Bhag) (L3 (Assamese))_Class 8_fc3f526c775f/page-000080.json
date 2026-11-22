@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 80,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ-৯       কামৰ সৰু-বৰ নাই\n\n‘ধৰ ধৰ, পাৰিবি, উঠিল, দে, দে, বল দে’- ঘোঁৰাত উঠি অহা মানুহজনে কথাখিনি\nশুনি থমকি ৰ’ল। তেওঁ দেখিলে চিপাহী কেইজনমানে কেঁকো-জেঁকোকৈ লোৰ চতি এটা\nদাঙিবলৈ চেষ্টা কৰি আছে। তেওঁলোকে\nচতিটো খুঁটা এটাৰ মূৰত তুলিব। বৰমূৰীয়া\nজমাদাৰ চাহাব এজনে আদেশ দি আছে।\n\nঘোঁৰাত উঠি থকা মানুহজনে কিছুপৰ\nঘটনাটো চাই থাকিল। জমাদাৰ চাহাবে আকৌ\nএই উঠিল।’ কিন্তু কি হ’ব! চিপাহী কেইজনৰ\nতুলিবলৈ বাৰে বাৰে চেষ্টা কৰি লেবেজান    ৰ   ৰ ডেৰ\n\nমানুহজনে আৰু চাই থাকিব নোৱাৰিলে৷ তেওঁ জমাদাৰজনক ক’লৈ, ‘চিপাহীকেইজনে\nচতিটো তুলিব পৰা নাই। আপুনি অলপ হাত-উজান দিলেই দেখোন চতিটো ওপৰলৈ\nউঠে।’ মানুহজনৰ কথাত জমাদাৰ চাহাবৰ খঙে চুলিৰ আগ পালেগৈ৷ তেওঁ হুটা মাতেৰে\nক’লে, ‘মই হ’লোঁ বিষয়া, এজন জমাদাৰ। মোৰ কিবা মান-সন্মান নাইনে যে মই\nচিপাহীকেইটাৰ লগত চতিটো দাঙিম? ইহঁতৰ কাম চাবলৈহে মোক ৰাখিছে। ইহঁতৰ লগত\nকাম কৰিবলৈ ৰখা নাই নহয়।’ মিচিকিয়া হাঁহিৰে সেই মানুহজনে ক’লে - ‘মই নাজানিহে\nতেনেকৈ কৈছিলোঁ জমাদাৰ চাহাব; দায়-দোষ নধৰিব।’ এইবুলি তেওঁ ঘোঁৰাৰ পৰা নামি\nঢুপীটো আৰু চোলাটো সোলোকাই থ’লে। তাৰপাছত চিপাহীকেইজনক চতিটো দঙাত\nসহায় কৰিলে। মানুহজনৰ এইকণ সহায়ৰ বলত চিপাহীকেইজনে চতিটো খুটাৰ মূৰত\nতুলিবলৈ সক্ষম হ’ল।",
+  "confidence": {
+    "word_count": 173,
+    "mean": 90.04,
+    "median": 93.3,
+    "minimum": 19.1,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.215,
+  "page_elapsed_seconds": 3.493,
+  "peak_process_tree_rss_bytes": 254316544,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 147,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1. তোমাৰ বিদ্যালয়ৰ সংগীত কোঠালৈ যোৱা। তুমি নিজৰ অঞ্চলৰ সংগীতজ্ঞসকলকো লগ ধৰিব\nপাৰা। বাদ্যযন্ত্ৰ তালিকা এখন প্ৰস্তুত কৰা। এই যন্ত্ৰসমূহৰ শব্দ সৃষ্টি কৰিবলৈ কম্পন হোৱা\nঅংশসমূহ চিনাক্ত কৰা।\n\n2. তুমি যদি কোনো বাদ্য যন্ত বজোৱা, তেন্তে বাদ্যযন্ত্ৰটো শ্ৰেণী কোঠালৈ আনি বজাই দেখুওৱা\n\n3. ভাৰত বিখ্যাত সংগীতজ্ঞসকল আৰু তেওঁলোকে বজোৱা বাদ্যবোৰৰ তালিকা প্রস্তুত কৰা।\n\n4. এডাল দীঘল সূতা যোগাৰ কৰা। হাতদুখন কাণৰ ওপৰত থোৱা আৰু তোমাৰ বন্ধুক সৃতাডাল\nতোমাৰ হাত আৰু মূৰেৰে মেৰিয়াই নিব কোৱা। এতিয়া সৃতাডালৰ আনটো মূৰ হাতেৰে ধৰি\nসূতাডাল জোৰকৈ টানি ৰাখিবলৈ বন্ধুক অনুৰোধ কৰা। তাৰ পাছত তোমাৰ বন্ধুৱে সূতাডাল\nতৰ্জনী আৰু বুঢ়া আঙুলিৰে জোৰকৈ চেপি ধৰি আঙুলি দুটা সৃতাডালেদি চৌচৰাই আনিব (চিত্ৰ\n5.19 ) । ঢেৰেকনিৰ দৰে গুজৰি গুমৰি অহা শব্দ এটা শুনিছানে ? আন এজন বন্ধুক তোমালোকৰ\nওচৰত ৰাখি ক্ৰিয়াকলাপটো পুনৰাই কৰা। তেওঁ কিবা শব্দ শুনিবনে?\n\nচিত্ৰ 14.19\n\n5. দুটা পুতলা টেলিফোন সাজি লোৱা৷ 5.20 চিত্ৰত দেখুওৱাৰ দৰে সিহঁতক কামত ৷ লগোৱা এইটো\nনিশ্চিত কৰিবা যাতে তাৰ দুডাল টান হৈ থাকে আৰু পৰস্পৰে স্পৰ্শ কৰি থাকে। তোমালোকৰ\nএজনক কথা৷ ক’বলৈ দিয়া। বাকী তিনিজনে শুন৷ পাবানে? এইদৰে আৰু কিমানজনক এই\nপ্রক্ৰিয়াত জড়িত কৰিব পৰা যাব? তোমালোকৰ পৰ্যবেক্ষণ ব্যাখ্যা কৰা।",
+  "confidence": {
+    "word_count": 182,
+    "mean": 90.92,
+    "median": 95.12,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.065,
+  "page_elapsed_seconds": 3.339,
+  "peak_process_tree_rss_bytes": 267112448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

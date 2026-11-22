@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "* সি] > 14৯ = ===) (৮)\n\n, = ২.)৭4) -৯৯= ফ্-5)। = ৮০% (১)\n\n(জানি লোৱা ) : (৫\n\nএ.\n\n17.81}\n\n৮, |\" | ৮; |; +.\n'}\n\n১\n\n৮\nন্ছং\n=\n\nচে\n'}\n\n,\nু\n\nঃ\n+ ৬\nভয় এ\n\n| ডি\n৷\n৮\n\n'্‌\n_\n\n\"খ্ঃ\n+ ৬\n\nখং\n$ ৬\n৮৬\n\n|| ৪ 6| চু | চ|৭\n\n+\n+ ৭    ৰ}\nত,\n\n ্\n\n৭: |০,\n€>\nত",
+  "confidence": {
+    "word_count": 49,
+    "mean": 40.94,
+    "median": 42.98,
+    "minimum": 0.0,
+    "maximum": 96.35
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9442,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.163,
+  "page_elapsed_seconds": 3.648,
+  "peak_process_tree_rss_bytes": 180183040,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

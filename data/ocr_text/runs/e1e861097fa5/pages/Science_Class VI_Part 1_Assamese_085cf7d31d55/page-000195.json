@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 195,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "6.3.3 মৰণ৷ মৰা পদ্ধতি\n\nতোমালোকে জানা যে কৃষকসকলে আমাৰ বাবে বহু কষ্ট কৰি শস্য উৎপাদন কৰে।\nতেওঁলোকে খেতি কৰি পৈণত খাদ্য-শস্যৰ গা-গছ অংশ কাটি আনে। তাৰপিছত গা-গছৰ\nপৰা গুটিবোৰ সংগ্ৰহ কৰে। ধান কটাৰ পিছত ধানৰ মুঠিবোৰ পথাৰত এদিনমান ৰাখি থোৱা\nদেখিছা চাগে? ধান মৰাৰ আগতে এনেদৰে পথাৰত মুঠিবোৰ শুকুৱাই লোৱা হয়। এথোক\nধানত বহু ধান থাকে। তেনেদৰে এটা মুঠিত কিমান বেছি ধান থাকিব বুজিব পাৰিছাই। এই\nধানৰ মুঠিবোৰৰ পৰা ধানবোৰ খেতিয়কসকলে কেনেদৰে পৃথক কৰে বাৰু?\n\nআম বা মধুৰিআম আদি ফলবোৰ গছৰপৰা হাতেৰে চিঙিব পাৰি। কিন্তু ধান, মাহ,\nসৰিয়হ, ঘেঁছ আদিৰ বীজবোৰ ইমানেই সৰু আৰু সংখ্যাত অধিক যে এইবোৰ হাতেৰে\nচিঙি পৃথক কৰিবলৈ বহুত সময় লাগিব। খাদ্য-শস্যৰ পৰা বীজবোৰ গা-গছৰ পৰা পৃথক\nকৰা প্রক্ৰিয়াটোক মৰণা মৰা পদ্ধতি বোলে। এই পদ্ধতিত খাদ্য-শস্যৰ গা-গছ অংশ কোবাই\nবীজবোৰ পৃথক কৰা হয়। তুমি সম্ভৱতঃ গৰুৰে ধানৰ মৰণা মৰা দেখিছা [চিত্ৰ 6.4 (8)]।\nবৰষুণৰ বতৰত আনকি ভৰিৰে মোহাৰিও ধান মৰা ইয়। কোনো কোনো ঠাইত শস্যৰ গা-গছ\nঅংশ কোবাই কোবাই বীজবোৰ পৃথক কৰা হয়। আজিকালি কম সময়তে অতি সহজতে\nশস্য-বীজ পৃথক কৰিব পৰা যন্ত্ৰ ওলাইছে। ইয়াক মৰণা মৰা যন্তৰ বোলে।\n\nচিত্ৰ 6.4 : শস্য মৰা পদ্ধতিসমূহ (0) গৰচৰে মৰণ৷ মাৰিছে ()) ভৰিৰে ধান মাৰিছে (৫)\nশস্য কোবাইছে (0) মৰণ৷ মৰা যন্তৰ\n\n77 +) ৮ ছে",
+  "confidence": {
+    "word_count": 198,
+    "mean": 89.46,
+    "median": 96.01,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.342,
+  "page_elapsed_seconds": 3.87,
+  "peak_process_tree_rss_bytes": 303165440,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

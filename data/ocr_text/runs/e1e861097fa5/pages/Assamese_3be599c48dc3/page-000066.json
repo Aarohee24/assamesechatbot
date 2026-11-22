@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 66,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ব্যৱহাৰ কৰি আনটো দলক সমাধান কৰিবলৈ\nদিয়া।\n\n৬ দৈনন্দিন জীৱনৰ লগত ৰজিতা খুৱাই ভগ্নাংশ\nসংখ্যাবিলাক যেনে-- আধা, এক\nচতুৰ্থাংশ, তিনি চতুৰ্থাংশ ইত্যাদিৰ বিষয়ে\nআলোচনা কৰা আৰু এই ভগ্নাংশবোৰৰ\nমাজত সম্বন্ধ স্থাপন কৰ৷।\n\nঞ কাগজ ভীজ কৰি বা ছবিৰ সহায়ত ক্ৰিয়া\nকলাপ কৰি ভগ্নাংশৰ উপস্থাপন কৰিবলৈ\nদিব।\n\nউদাহৰণ স্বৰূপে--\n\nছবিখনৰ আধা অংশ ৰং কৰি\n\nতলৰ কোনখন ছবিৰ ৰং কৰা অংশই এক\n\nচতুৰ্থাংশ নুবুজায় (*/)\n\n৬ কম্পাচৰ সহায়ত বিভিন্ন ব্যাসাৰ্ধ লৈ বৃত্ত\nঅংকন কৰা আৰু বৃত্ত থকা বেলেগ বেলেগ\nআকৃতিবোৰ উদঘাটন কৰা\n\nঞ্ঞজ ঘৰৰ, পদপথৰ আৰু ডাঙৰ ডাঙৰ দোকান\nবিলাকৰ মজিয়াৰ টালি (169) বিলাক\nপৰ্যৱেক্ষণ কৰি আলোচনা কৰা।\n\n৬ ভছাত্ৰ-ছাত্ৰীক মজিয়া টালি (0169)ৰে পূৰ্ণ\n\nসময়ক ৪.11) আৰু ]).[]} ত প্রকাশ কৰিব\nপাৰিব।\n\nঞ ১২ ঘণ্টীয়া ঘড়ী সাপেক্ষে ২৪ ঘণ্টীয়া\nঘড়ীৰ সম্পৰ্ক স্থাপন কৰিব পাৰিব।\nঞ পূৰণ আৰু হৰণৰ চানেকি চিনাক্তকৰণ\nকৰিব পাৰিব (৯ ৰ গুণিতকলৈকে)।\nঞ্ড সমমিতিত থকা জ্যামিতিক চানেকিবোৰ\nপৰ্যৱেক্ষণ, চিনাক্তকৰণ আৰু বিস্তৃতৱে\n\nকৰিব পাৰিব।\n\nঞ সংগৃহীত তথ্যৰ তালিকাকৰণ আৰু দণ্ড\nলেখৰ সহায়ত উপস্থাপন কৰিব পাৰিব আৰু\nব্যাখ্যা কৰিব পাৰিব।\n\nযাবলৈ ভাল পাও। ভৈ 72. সৰ\nশ্ত\nঙুয 97",
+  "confidence": {
+    "word_count": 168,
+    "mean": 87.45,
+    "median": 95.67,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.576,
+  "page_elapsed_seconds": 2.797,
+  "peak_process_tree_rss_bytes": 322924544,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

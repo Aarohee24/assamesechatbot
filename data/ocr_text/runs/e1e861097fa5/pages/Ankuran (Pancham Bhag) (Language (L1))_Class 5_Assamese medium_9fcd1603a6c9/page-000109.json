@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 109,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সৰ্বনাম পদ লিখা।\nসৰুৰে পৰাই অমলপ্রভা দাস পঢ়া-শুনাত বৰ চোকা আছিল। সেইবুলি তেখেত\nঅনবৰতে কিতাপ পঢ়ি থকা বিধৰো নাছিল৷ স্কুল ছুটীৰ পিছত ঘৰলৈ গৈ মাক, দেউতাকক\n\nকৰি তেখেতে বৰ ভাল পাইছিল। পঢ়া-শুনাৰ লগতে খেলা-ধূলা, গান-নাচতো তেখেত\nপাৰ্গত আছিল।\n\nবিশেষ্য        বিশেষণ         সৰ্বনাম\nউদাহৰণ -4' অমলপ্রভা       পাত          তেখেত\nগ--জ্ঞান সম্প্ৰসাৰণ\n68% জানো আহা\n\nচন্দ্ৰপ্ৰভা শইকীয়ানী --- চন্দ্ৰপ্ৰভা শইকীয়ানীৰ জন্ম হৈছিল ১৯০১ চনৰ ১৬ মাৰ্চত ৷ বজালীৰ\nদৈশিঙৰি গাঁৱত তেখেতে জন্ম লাভ কৰিছিল। তেখেতৰ পিতৃৰ নাম ৰাতিৰাম মজুমদাৰ আৰু\nমাতৃৰ নাম গংগাপুৰীয়া মজুমদাৰ।\n\nসেই সময়ত ছোৱালী শিক্ষাৰ প্রচলন নাছিল বুলিয়েই ক’ব পাৰি। চন্দ্ৰপ্ৰভা শইকীয়ানীৰ\nগাঁও দৈশিঙৰিতো পঢ়াশালি নাছিল। কিন্তু তেখেতৰ পঢ়াৰ প্রতি অদম্য হেঁপাহ আছিল।\nসেইকাৰণে তেখেতে মাহীয়েকৰ ঘৰত থাকি প্রাথমিক শিক্ষা লাভ কৰিছিল। প্রাথমিক শিক্ষাৰ\nপাছত আৰু শিক্ষা ল’বলৈ ওচৰতে এম, ই স্কুল নাছিল। কিন্তু তেখেতে ঘৰতে বহি দিন\nনকটাই এটা ভাল কাম কৰিবলৈ সিদ্ধান্ত ল’লে। সেইমতে তেখেতে দৈশিঙৰি গাঁৱৰ আন\nছোৱালীবিলাকৰ বাবে এখন প্রাথমিক স্কুল আৰম্ভ কৰিলে৷ এই সুযোগতে গাঁৱৰ ছোৱালীবিলাকে",
+  "confidence": {
+    "word_count": 150,
+    "mean": 90.87,
+    "median": 95.5,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.328,
+  "page_elapsed_seconds": 3.716,
+  "peak_process_tree_rss_bytes": 248033280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

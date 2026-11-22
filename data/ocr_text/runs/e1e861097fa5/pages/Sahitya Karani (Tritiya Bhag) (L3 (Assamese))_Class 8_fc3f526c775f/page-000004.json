@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "5/]|[া[/% 19%[২/%/খ1 _ /এ (6%-001-9%/0114600|4 0 01955 ঘ্ব]][], ৭ /€৩০৪|]656 ৪95 [৫ 1|917009065,\n0৫০%9/9|02590 9170 169/।5%/60 6৮%/ 525147, /২৪5৪থ৷7, 0000|7 %/0115170|25 9170 |209051750 60% 76 /২৩০৪৷৷71 5816\n75১%0600/141270001010017 9170 12090|0810017 €0120৷7807 [||60 601%/9|18.0 011 26191 01 60%. 01 /১৩০৪থ]7.\n]]$],], '[],১%'][]}()00]<\nএ] ,1[২]0]]]\"5 ]২]};১]}]২৮\"]}}]) ; ]খ০01196[00000101] 11] 81] ৮ 10017] 01 18 000, 1[) \"11016 01\"11] |)01\"[ (০৯০০|)(101\" 01121.\n00010800101] 11] গে10108] 8100129 0116%4162ম9), 1118) 02617118.06 ঘ107000{ ঘষা1{021] 8000701128001] 11011] {]16 ০047২], /১৪৪৪]]],\n\nগন্থস্বত্ব     £$ ৰাজ্যিক শিক্ষা-গৰেষণা৷ আৰু প্ৰশিক্ষণ পৰিষদ, অসম\n\nপ্ৰথম প্ৰকাশ ; ২০১২                   ষষ্ঠ প্ৰকাশ ;ঃ   ২০১৭\nদ্বিতীয়গ্ৰকাশ ঃ ২০১৩                   সপ্তম প্ৰকাশ ঃ$   ২০১৮\nতৃতীয়প্ৰকাশ _ঃ ২০১৪             অষ্টম প্রকাশ (সংশোধিত )ঃ ২০১৯\nচতুৰ্থপ্ৰকাশ $ঃ; ২০১৫\n\nপঞ্চম প্ৰকাশ _$   ২০১৬\n\nএই পাঠ্যপুথিখন যদিও তৃতীয় ভাষা অসমীয়াৰ বাবে প্ৰস্তুত কৰা হৈছে, তথাপি অসমীয়া চতুৰ্থ ভাষা\nহিচাপে ছাত্ৰ-ছাত্ৰীয়ে পাঠ্যপুথিখন ল’ব পাৰিব। চতুৰ্থ ভাষা ৫০% হিচাপে যিসকল ছাত্ৰ-ছাত্ৰীয়ে\n\n(অনা-অসমীয়া মাধ্যমৰ) অসমীয়া ভাষা শিকিব বিচাৰে, তেওঁলোকৰ বাবে পাঠ্যপুথিখনৰ পাঠ নং\n১, ২, ৩ আৰু ৮ নিৰ্ধাৰিত কৰ৷ হৈছে।\n\nপ্রকাশক     ঃ অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে\nঅসম ৰাজ্যিক পাঠ্যপুথি প্রণয়ন আৰু প্রকাশন নিগম\nলিমিটেডৰ দ্বাৰা প্রকাশিত পাগ্যপুথি।\n\nমুদ্ৰক         ঃ সৰস্বতী প্ৰিণ্টাৰ্চ এণ্ড পাব্লিচাৰ্চ প্ৰাইভেট লিমিটেড\n\nপশ্চিম বৰাগীও, গুৱাহাটী-৩৩",
+  "confidence": {
+    "word_count": 184,
+    "mean": 63.76,
+    "median": 80.62,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9997,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 5.097,
+  "page_elapsed_seconds": 5.452,
+  "peak_process_tree_rss_bytes": 234557440,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

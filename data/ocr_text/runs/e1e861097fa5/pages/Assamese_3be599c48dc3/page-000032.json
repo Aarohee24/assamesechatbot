@@ -1,0 +1,61 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 32,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অষ্টম শ্রেণী (অসমীয়া)\n\nশিকন/দলগত শিকন প্রক্ৰিয়াত অংশ\nগ্ৰহণৰ বাবে সুযোগ দিব আৰু নিম্ন লিখিত\nকাৰ্যসমূহ কৰিবলৈ উৎসাহিত কৰিব।\nপৰস্পৰৰ মাজত আৰ: দলগতভাৱে\nমান্যভাষাত কথোপকথন কৰিবলৈ সুবিধা\nদিব। লগতে বিভিন্ন বিষয়ে আলোচনা\nকৰিবলৈ আৰু সেই বিষয়ে বিশ্লেষণ কৰাৰ\nসুবিধা দিব। বিশেষকৈ পাঠ্যপুথি আৰু পাঠ\nবৰ্হিভুত বিষয়, কথোপকথনৰ ওপৰত\nসুযোগ দিব।\n\nবাস্তৱ জীৱনৰ লগত সংগতি থকা বিষয়বোৰ\nঅনুধাৱন কৰিবলৈ সুবিধা দিব।\n\nপ্রয়োগ কৰা ভাষাৰ বিবিধ শাখাৰ ওপৰত\nএকক/ দলীয়ভাৱে চৰ্চা কৰিবলৈ সুবিধা\nদিব।\n\nপ্রথম ভাষা অেসমীয়া) শিকাৰ লগে লগে\nলিখাৰ ওপৰত গুৰুত্ব দিব। লগতে সেই\nবিষয়ে আলোচনা কৰাৰ স্বাধীনতা প্রদান\nকৰিব।\n\nচৌপাশৰ পৰিৱেশ, সমসাময়িক সমাজৰ\nলগত জড়িত হোৱা ৰচনাবোৰ পঢ়িবলৈ\nআৰু আলোচনা কৰিবলৈ সুবিধা দিব।\n\nবিষয়ৰ আলোচনাত অংশগ্ৰহণ কৰি বিশ্লেষণ\nকৰিব পাৰিব।\n\nপাঠ্যপুথিৰ আধাৰত অথবা পাঠ বহির্ভুত\nবাস্তৱ জীৱনৰ লগত সংগতি থকা অধ্যয়নে\nমূল্যবোধৰ বিকাশ সাধন কৰিব পাৰিব।\nযিকোনো কিতাপ, আলোচনী, বাতৰি-\nলগা অনুভৱ প্রকাশ কৰিব পাৰিব।\nসাহিত্যৰ বিভিন্ন শাখাৰ ৰচনা পঢ়ি বুজি\nনোপোৱা কথাবোৰ প্রশ্নৰ যোগেদি সুধিব\nপাৰিব।\n\nঅসমীয়া ভাষাত প্রকাশিত বিভিন্ন পঠন\nআহিলা যেনে--- বাতৰি, কাহিনী, কুইজৰ\nকিতাপ, ইণ্টাৰনেটত তথ্য, ব্লগত ছপোৱা\nমন্তব্য, সিদ্ধান্ত, সাৰাংশ আদি মৌখিক/\nসাংকেতিক/ লিখিত ৰূপত প্রকাশ কৰিব\nপাৰিব।\n\nআৰু লিখিব পাৰিব।\nওপৰত নিজৰ প্ৰতিক্ৰিয়া সম্পৰ্কে যুক্তিপূৰ্ণ\nমতবাদ প্রকাশ কৰিব পাৰিব।\n\nবিভিন্ন বিষয়ৰ ওপৰত পৰ্যৱেক্ষণ কৰি নিজে\nসজাই-পৰাই লিখিব পাৰিব।",
+  "confidence": {
+    "word_count": 194,
+    "mean": 92.59,
+    "median": 95.99,
+    "minimum": 27.3,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 3.227,
+  "page_elapsed_seconds": 3.488,
+  "peak_process_tree_rss_bytes": 276131840,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

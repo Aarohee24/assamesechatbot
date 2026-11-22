@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 91,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা-\n\nছাত্ৰ-ছাত্ৰীয়ে জনা পদ্য, গীত আদি শুনি গাব পৰা\nপৰিৱেশত পোৱা গছ-গছনিবোৰৰ নাম ক'ব পৰা\nগছৰ উপকাৰিতাৰ বিষয়ে জানি ক’ব পৰা\n\nচুটি বাক্য পঢ়িব পৰা\n\nশব্দৰ অৰ্থ বুজি পঢ়িব পৰা\n\nশব্দ সাজিব পৰা\n\nনাটক পঢ়িব পৰা আৰু অভিনয় কৰিব পৰা\nশব্দ নিজৰ ভাষাত ক’ব আৰু লিখিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nগীত।/পদ্য | পদ্য পঢ়িব | অংগ-ভংগী | পদ্য নিজে । পদ্য আবৃত্তি\nপৰা           কৰি গাব          ভালকৈ | কৰিব পৰা\nপৰা         পঢ়িব পৰা\n\nশব্দ | পঢ়িব পৰা | লিখিব পৰ৷ | গঠন কৰিব\nপৰা\n\nবাক্য । পঢ়িব পৰা | লিখিব পৰা | গঠন কৰিব\nপৰা\n\nপৰিৱেশ       সংৰক্ষণৰ\nঅৰ্যনুতী কৰা\n\nঅভিনয় | কৰিব পৰা\n\nনিজৰ   পাঠত থকা শব্দ নিজৰ | নিজৰ ভাষাত\nভাষা     ভাষাত লিখিব পৰা    ক'ব পৰা\n\nুূ অহতা আয়ভ হ’লৈ ওপৰৰ খালী ঘৰত * চিন দিব আৰচ নহ’লৈ * চিন দিব। অহৰতা৷ আয়ভ নোহোৱা শিকাকক\nঅতিবিজ্তভাৱে শিকাই পুনৰ মূল্যায়ন কবিব।",
+  "confidence": {
+    "word_count": 145,
+    "mean": 88.2,
+    "median": 95.61,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.406,
+  "page_elapsed_seconds": 2.685,
+  "peak_process_tree_rss_bytes": 244699136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

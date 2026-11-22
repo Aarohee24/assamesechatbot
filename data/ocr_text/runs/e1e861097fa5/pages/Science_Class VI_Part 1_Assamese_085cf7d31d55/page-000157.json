@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 157,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "5.2.2 কঠিন আৰু কোমল দ্ৰব্য\n\nকিছুমান দ্রব্য বৰ কঠিন (দৃঢ়) যেনে-- লো। ইয়াক হাতেৰে হেঁচি চেপেটা কৰিব\nনোৱাৰি। তুমি ব্যৱহাৰ কৰা ৰবৰডাল হাতেৰে চেপি দিলে চেপেটা হ’ব। গতিকে ৰবৰডাল\nকোমল দ্ৰব্যৰে তৈয়াৰী।\n\nসকলোবোৰ বস্তুক হাতেৰে হেঁচি চাব নোৱাৰি। তেনে ক্ষেত্ৰত ধাতুৰ চাবি এপাতেৰে\nপৰীক্ষা কৰি চাব পাৰোঁ। কিছুমান বস্তুৰ ওপৰত ধাতুৰ চাবিৰে সহজে আঁচোৰ মাৰিব পাৰি। আন\nকিছুমানত সহজে আঁচোৰ মাৰিব নোৱাৰি। যি দ্রব্য সহজতে হেঁচি চেপেটা কৰিব পাৰি বা যাৰ\nওপৰত সহজে ধাতুৰ চাবিৰে আঁচোৰ মাৰিব পাৰি সেইবিধ কোমল দ্ৰব্য। আনহাতে যি দ্রব্য হেঁচি\nচেপেটা কৰিব নোৱাৰি বা যাৰ ওপৰত সহজে আঁচোৰ মাৰিবলৈ কঠিন, সেইটো কঠিন দ্রব্য। এই\nধৰ্মবোৰ কিন্তু আপেক্ষিক। উদাহৰণ স্বৰূপে, কাঠ ৰবৰতকৈ কঠিন; কিন্তু ই লোতকৈ কোমল।\n\n[] জি্রিয়াকলাপ 5.5:\n\nতলত দিয়া তালিকাখনৰ বস্তুবোৰ হাতেৰে হেঁচি চোৱা। এতিয়া কোনবোৰ বস্তু\nকঠিন আৰু কোনবোৰ কোমল আৰু প্রতিবিধ বস্তু কি দ্ৰব্যৰে গঠিত হৈছে তালিকাখনত\nলিখা।\n\nতালিকা 5.3 : কঠিন আৰু কোমল বস্তু\n\nচকী       কাঠ\n\nতুলী\n\nআলমাৰি\n\nমৰাপাটৰ বেগ\n\nচুৱেটাৰ\n\n5.2.3 স্বচ্ছতা : দ্রব্যৰ মাজেৰে আমি দেখা পাওঁনে?\nদোকানীয়ে সাধাৰণতে চক্‌লেট, বিস্কুট, মিঠাই আৰু আন খোৱা বস্তু প্লাষ্টিক বা\nকাচৰ টেমাত থয়। টেমাটোত কি আছে তুমি বাহিৰৰপৰা দেখা পোৱা। লো বা ডাঠ কাগজৰ\n\nউৰ ত = য়তেওঁত তত তত তত তত ০০০০ত তত ০০০০০ ০,০০০০০০০,০০,০০,০,চে",
+  "confidence": {
+    "word_count": 198,
+    "mean": 85.48,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.118,
+  "page_elapsed_seconds": 3.424,
+  "peak_process_tree_rss_bytes": 302788608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

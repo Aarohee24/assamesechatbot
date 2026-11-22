@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 159,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সিহঁত আগৰ অৱস্থালৈ ঘূৰি যাব। পটি দুটা বাৰে বাৰে\nআহিত কৰি ক্লিপটো স্পৰ্শ কৰা৷ প্রত্যেকবাৰেই দেখিবা\nযে ক্লিপটো চুই দিয়াৰ লগে লগে পটি দুটা জাপ খাই\nযায়। এনে কিয় হয়? ইয়াৰ কাৰণ হ’ল পটি দুটাৰ পৰা\nতোমালোকৰ শৰীৰৰ মাজেৰে আধানবোৰ ভূমিলৈ\nগুচি যায়। ইয়াকে আমি কওঁ যে পটি দুটা অনাহিত\nহৈছে। আহিত বস্তুৰ পৰা আধান ভূমিলৈ গুচি যোৱা\nপ্রক্রিয়াটোকে ভূমি সংযোগ বোলে।\n\nবিদ্যুৎ প্রবাহৰ অবাঞ্ছিত নিঃসৰণৰ ফলত হোৱা\nবৈদ্যুতিক আঘাতৰ পৰা কোনো অট্টালিকা ৰক্ষা\nকৰিবলৈ তাত ভূমি সংযোগৰ ব্যৱস্থা কৰা হয়।\n\n15.5 বজ্পাতৰ কাহিনী ঃ\n\nঘৰ্ষণৰ দ্বাৰা আধান উদ্ভৱ হোৱা কথাটোৰ সহায়ত\n\nবজ্ৰপাতৰ বিষয়ে বুজাবলৈ এতিয়া সহজ হৈ পৰিল।\n\nসপ্তম শ্ৰেণীত তোমালোকে পাই আহিছা যে\nবিজুলী ঢেৰেকনিৰে সৈতে ধুমুহা অহাৰ সময়ত বায়ু\nপ্রবাহ উৰ্ধমুখী হোৱাৰ বিপৰীতে পানীৰ কণিকাবোৰ\nতললৈ নামি আহে। এই প্রবল সঞ্চাৰৰৰ ফলত\nআধানবোৰ দুভাগ হয়। এতিয়াও সম্পূৰ্ণকৈ বুজি\nনোপোৱা এটা প্রক্ৰিয়াৰ দ্বাৰা ধনাত্মক আধানবোৰ\nমেঘৰ ওপৰ ফালে আৰু খ৷ণাত্মক আধানবোৰ মেঘৰ\nতলৰ ফালে জমা হয়। ভূপৃষ্ঠৰ ওচৰতো ধনাত্মক আধান\nজমা হয়। সাধাৰণ অৱস্থাত বায়ু বিদ্যুতৰ কু-পৰিবাহী\nযদিও, অতি বেছি পৰিমাণে আধান জমা হলে ই বিদ্যুৎ\nপ্রবাহক প্রতিহত কৰিব নোৱাৰা হয়। ফলত ধনাত্মক\nআৰু খ৷ণাত্নমক আধান লগ লাগি উজ্জ্বল পোহৰ আৰু\nশব্দৰ সৃষ্টি কৰে। আমি পোহৰৰ ৰেখাৰ ৰূপত বিজুলী\nদেখিছোঁ (চিত্র-15.5) ৷ এই প্রক্ৰিয়াটোকে বিদ্যুৎ-ক্ষৰণ\nবোলে।\n\nচিত্ৰ 15.5 : আধান জমাহৈ বিজুলী সৃষ্টি হৈছে\n\nকিছুমান প্রাকৃতিক পৰিঘটনা / 901; 'খ/%]'0]২./%], ঢ]};খ0%]};খ/%,\n\n144 )",
+  "confidence": {
+    "word_count": 215,
+    "mean": 90.59,
+    "median": 95.91,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.203,
+  "page_elapsed_seconds": 3.501,
+  "peak_process_tree_rss_bytes": 297005056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

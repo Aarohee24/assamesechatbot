@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 184,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (];%ণ্\"ন০০৪০)\n\n1) বৈদ্যুতিক বৰ্তনীৰ নিম্নোক্ত উপাদানবোৰ চিহ্ন তোমাৰ টোকা-বহীত আঁকা। সংযোগী তাঁৰ, বন্ধ (01)\nঅৱস্থাত থকা ছুইচ, বান্ব, কোষ, দি থোৱা অৱস্থাত থকা ছুইচ আৰু বেটাৰী।\n2) 14.21 চিত্ৰত দেখুওৱা বৰ্তনীটো বুজাবলৈ এটা বৰ্তনী চিত্ৰ আঁকা ।\n\nচিত্ৰ 14.21\n\n3) 14.22 চিত্ৰত দেখুওৱা চাৰিটা কোষ এখন ব’ৰ্ডত আট খুৱাই লগোৱা হৈছে। চাৰিটা কোষৰ বেটাৰী এটা\nসাজিবলৈ সিহঁতৰ প্রান্তবোৰ তাঁৰেৰে কেনেকৈ সংযোজিত হোৱা উচিত তাক দেখুৱাই ৰেখা অংকন কৰা।\n\nচিত্ৰ 14.22\n\n4) 14.23 চিত্ৰত দেখুওৱা বৰ্তনীত বান্ধটো জ্বলা নাই। তুমি ইয়াৰ কাৰণ উলিয়াব পাৰিবানে? বান্ধটো\nজ্বলাবলৈ বৰ্তনীটোৰ আৱশ্যকীয় সাল-সলনি ঘটোৱা।\n\n_৮=-* (৫০)\n\n২\n\nচিত্ৰ 14.23\n\n5) বিদ্যুৎ প্ৰৱাহৰ যিকোনো দুটা ক্ৰিয়াৰ নাম লিখা।\n\n140",
+  "confidence": {
+    "word_count": 104,
+    "mean": 87.53,
+    "median": 93.3,
+    "minimum": 8.41,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.021,
+  "page_elapsed_seconds": 2.315,
+  "peak_process_tree_rss_bytes": 295464960,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 214,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী ঃ\n\n১।\n\n২।\n\n৩।\n\n৪৷\n\nচমু উত্তৰ লিখা--\n\n(ক) প্ৰচাৰ মানে কি?\n\n(খ) প্ৰচাৰ মাধ্যমৰ বিভিন্ন ভাগসমূহ কি কি?\n\n(গ) গণমাধ্যম কাক কয়? উদাহৰণ দিয়া।\n\n(ঘ) প্রাচীন কালত ব্যৱহৃত দুই প্রকাৰৰ প্রচাৰ মাধ্যম কি কি?\n\n(ঙ) ছপাশাল পোন প্রথমে কোনে আৰু কেতিয়া আৱিষ্কাৰ কৰিছিল?\n\nউত্তৰ লিখ৷--\n(ক) প্রচাৰ মাধ্যমসমূহ কেইপ্রকাৰ আৰু কি কি? সেই মাধ্যমসমূহে জনসাধাৰণক কেনেধৰণে সহায় কৰে?\n(খ) গণতন্ত্ৰ সবলীকৰণত প্ৰচাৰ মাধ্যমে কেনেধৰণে প্রভাৱ পেলায় ?\n\nখালী ঠাই পূৰ কৰা---\n\n(ক) __ ব্যৱস্থাৰ লগত জড়িত সকলো উপাদানেই প্ৰচাৰৰ একোটা একোটা মাধ্যম।\n(খ) মানুহৰ মাজত     হৈ থকা প্রতিভাৰ বিকাশত প্রচাৰ মাধ্যমৰ অৱদান উল্লেখনীয়।\n(গ) __ ছপাশাল আৱিষ্কাৰ কৰিছিল।\n\n(ঘ) কম্পিউটাৰক অসমীয়াত     যন্তু বুলি কোৱা হয়।\n\n(ঙ) গণতন্ত্ৰত চৰকাৰ আৰু ৰাইজৰ মাজৰ     হৈছে প্রচাৰ মাধ্যম।\n\nশুদ্ধ উত্তৰটো বাছি উলিওৱা---\n\n(ক) জ্যোতিপ্লসাদ আগৰৱালাক ৰূপকৌৱৰ/ সৈনিক শিল্পী বুলি কোৱা হয়।\n(খ) অতীজত ৰজাই প্রজাক বাতৰি দিবৰ বাবে মাইক/ঢোলৰ সহায় লৈছিল।\n(গ) মুদ্ৰিত মাধ্যমসমূহ হ’ল ৰেড়িঅ’'/কিতাপ।\n\n(ঘ) অনাতীৰ যন্ত্ৰৰ আৱিষ্কাৰক আৰ্কিমিডিছ/মাৰ্কনি ৷\n\n(৬) ইলেকট্ৰ'নিক মাধ্যম হ’ল বাতৰিকাকত/কম্পিউটাৰ।\n\nপ্ৰকল্প ঃ\n\nতোমালোকৰ অঞ্চলত দেখা কেইখনমান চৰকাৰী বিজ্ঞাপনৰ ফলক চাই আঁচনিকেইখনৰ নাম তালিকাভুক্ত কৰা।\nআঁচনিবোৰৰ অধীনত চৰকাৰে কি কি পদক্ষেপ গ্ৰহণ কৰিছে শিক্ষক-অভিভাৱকৰ লগত আলোচনা কৰি একোটিকৈ\nটোকা লিখা।\n\nকককককক",
+  "confidence": {
+    "word_count": 185,
+    "mean": 88.16,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.862,
+  "page_elapsed_seconds": 4.457,
+  "peak_process_tree_rss_bytes": 230895616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

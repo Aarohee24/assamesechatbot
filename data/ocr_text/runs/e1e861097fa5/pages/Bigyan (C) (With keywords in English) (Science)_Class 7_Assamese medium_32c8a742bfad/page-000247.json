@@ -1,0 +1,68 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 247,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1 \" 4 জীয়া\n[12609\n\nবানপানী হোৱাৰ আগত\n\nতুলত উল্লেখ কৰা বস্তুসমূহৰ সৈতে তোমালোকৰ জৰুৰী কালীন (]}})28০00% <!) বেগটো প্রস্তুত ৰাখা -\n\n(১) সৰ্পদংশন আৰু পেটচলা (ডায়েৰীয়া) ৰ বাবে অতিৰিক্ত ওষধসহ প্রাথমিক চিকিৎসাৰ বাকচ,\n\n(২) বস্তু বন্ধাৰ বাবে টান ৰছী,\n\n(৩) বিশুদ্ধ খোৱা পানী, শুকান খাদ্য সামগ্ৰী, নিমখ আৰু চেনি,\n\n(৪) এটা (ৰড়িঅ’, টৰ্চলাইট আৰু ওপৰঞ্চি বেটাৰী,\n\n(৫) কাগোৰ কানি আৰু মূল্যবান সামগ্ৰী ৰাখিবলৈ জল-ৰোধী মোনা, ছাতি আৰু বাঁহৰ লাঠি।\n\nবানপানী হোৱাৰ সময়ত\n\n(১) জৰুৰীকালীন বেগসহ নিৰাপদ আশ্ৰয় স্থানলৈ যোৱা৷\n(২) বিছনা বা মেজৰ ওপৰত ঘৰুৱা সামগ্ৰীবোৰ উঠাই থোৱা।\n(৩) উতলোৱা পানী খাবা।\n(৪) বানপানীৰ মাজলৈ নাযাবা৷\n\nজনস্বাৰ্থ আৰু নিৰাপত্তাৰ হিতাৰ্থে প্রকাশিত £ অসম ৰাজ্যিক দুৰ্যোগ ব্যৱস্থাপনা প্ৰাধিকাৰী (এ এচ্‌ ডি এম্‌ এ)",
+  "confidence": {
+    "word_count": 2,
+    "mean": 22.5,
+    "median": 22.5,
+    "minimum": 0.0,
+    "maximum": 45.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 8 diacritics",
+        "Detected 8 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.776,
+  "page_elapsed_seconds": 3.407,
+  "peak_process_tree_rss_bytes": 251031552,
+  "tesseract_warnings": [
+    "Detected 8 diacritics",
+    "Detected 8 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 88,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "10. (\"011121606 16 ম\"0983%8%01\"0 |)0272.12 091116 112 ]111{9 21421] 0210,\n\n/৮৫০1\"099\n[7       ']1]16 [)1'00699 01 16 109101] 01 116 9811]160.29.\n6.       ']]16 [৮])6 01 [2101]1980101] 11] |121].\n7.       ']1]16 (21110 0920 1101\" ট6012629 00921%60] 01] 0176 91029 01 016 06005 01 ]|]%01'8.\n8.       ]+2899 816 1)\"000060 11616.\n\n])0ঘ্]]\n১]|)211119 816 |)10000060 11) 01692 1118|6 16[1000.001%6 0168179.\n/%৮110121\" (211) 101' [2101]1960 288,\n']1]16862 800011]8|9 ]8% €289.\n/% চে])6 01 1199101] 111 811]0608.\n\nয়ডত্ত ত\n\n[''| | [| ৷ ] ['%| 1] | |*0| |\n\nট]\n\n[1]                ৰ\n\n];,স(811060 ];.6917]]]102_ /৫{]৮1{165 3110] ]\"1\"0]6049\n\n1. ঘ191[ 81200][1\"} 18া1]], '[8]]; 00 {]6 1]180188621\" 01 026 ্জা|]] 8170 \"); (0 110 00{1|72\n8115ছম21\" {0 {])6 10110 সম]1116\n(৪8) 1180.816 [8৮215 8110 0101]215 11] 8 1)00][{1\") 18111]?\n(০) 120 ])2115 18% 011210|1960 68892\n(০) []0ঘ ০৪81] ৮00] 0008111 \"011920 8110 011210]1360 68869?\n(0৫) /?1'6 16 ০889 {]18{ ৫6.260 11] {]6 9001629 !0]11920 01\" 011[21\"0]1560\n(০) 0800 ৮00 ০011901]16 861011960 68893?\n\n() 19 01216 গ]%৮ 0112121106 11] 16 1]0\"100118] ৮৪]06 01 ্0]1960 8110 011[21011960\n\n৬           28892                                                                                                                           _\n\n!{ /3)                                                                                                                বিজ্ঞান /৪৫োখণে৷",
+  "confidence": {
+    "word_count": 156,
+    "mean": 44.7,
+    "median": 43.86,
+    "minimum": 0.0,
+    "maximum": 96.11
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.2343,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.023,
+  "page_elapsed_seconds": 3.307,
+  "peak_process_tree_rss_bytes": 327614464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

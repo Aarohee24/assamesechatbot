@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ২\n\nপাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতাসমূহ\n\nওমলা গীতৰ জৰিয়তে আখৰ চিনি পোৱা\nব্যঞ্জনবৰ্ণ ‘ক’ৰ পৰা ‘ন’ লৈ আখৰবোৰ চিনি পোৱা, পঢ়িব পৰা আৰু লিখিব পৰা\n1,71,০. , = ,< = কাৰ (স্বৰ) চিনবোৰ চিনি পাই শব্দত প্রয়োগ কৰিব পৰা\n\nআখৰ পঢ়িব পৰা আৰু চিনাকি আখবৰযুক্ত শব্দ পঢ়িব আৰু লিখিব পৰা\nছবি চাই শব্দ ক’ব আৰু লিখিব পৰা\nশব্দৰ আগত, মাজ্রত আৰু শেষত থকা আখৰ চিনিব, পঢ়িব আৰু লিখিব পৰা\n\nঞ্জ চাই লিখিব পৰা\nঙ'-শুনি লিখিব পৰা\nঙ পাঠৰ শব্দসমূহ ছাত্ৰ-ছাত্ৰীয়ে নিজৰ ভাষাত ক’ব পৰা\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nছন্দযুক্ত   শুনি বুজি গাব  দলগতভাৱে অংগ-_| নিজে নিজে গাব পৰা, | গীত শুনি পৰস্পৰৰ\n্গি   পৰা  ভংগী কৰি গাব পৰা । অন্যান্য ছন্দযুক্ত পদ্য | সম্পর্কৰ আৰু বৃত্তিৰ\nগাব পৰা   বিষয়ে বুজিব পৰা\nছবি  ছবি চাই আখৰ  ছবি চাইবাক্য | ছবি চাই নিজৰ ভাষাত\nচিনি পোৱা আৰু  পঢ়িব পৰা   লিখিব পৰা\nক'ব পৰা\nবাক্য  ছবি চাই শব্দ ক'ব  ছলি ঠাই ৰাকা পঢ়িব\nপৰা\n--কাৰ (স্বৰ) -_কাৰ (স্বৰ)  সলনি হোৱা ৰূপ\nঢিন  চিনৰ ধাৰণা আৰু | সম্পৰ্কে বুজা, জনা,\nব্যৱহাৰ কৰিব পৰা  লিখিব পৰা\nশব্দ  শব্দ গঠন  |- কাৰ (স্বৰ) চিন ব্যৱহাৰ\nকৰিব পৰা  কৰি শব্দ গঠন\nকৰিব পৰা\nসম্বন্ধ  সম্বন্ধ বাচক শব্দৰ\nপ্রাথমিক ধাৰণা বুজি\nপোৱা\n\nদম অহতা৷ আয়ভ হ’লে ওপৰব তালিকাখনৰ তলব খালী ঘৰত *\" চিন দিব আৰু নহ’লৈ ১ চিন দিব। অহতা৷ আয়ত্ত\nনোহোৱা শিকাৰ আতিৰিভজভাবে শিকাই পুনৰ মুল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 221,
+    "mean": 85.93,
+    "median": 95.47,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.819,
+  "page_elapsed_seconds": 3.105,
+  "peak_process_tree_rss_bytes": 280899584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

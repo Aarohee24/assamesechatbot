@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 16,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ     দৰ\n\n৬ ‘ অসম আমাৰ ৰূপহী’ এটি দেশপ্ৰেমমূলক গীত। ড’ ভূপেন হাজৰিকাই ৰচনা\nকৰা অন্য দুটি দেশপ্ৰেমমূলক গীত সংগ্ৰহ কৰি গোৱা। যেনে - ‘মহাবাহু\n\nঞ অসমৰ বিভিন্ন জনগোষ্ঠীৰ মাজত প্রচলিত থলুৱা নৃত্যৰ ছবি সংগ্ৰহ কৰা।\nএতিয়া ছবিবোৰ এলবামত লগাই নৃত্যৰ নাম, কোন জনগোষ্ঠীৰ মাজত সেই\nনৃত্য প্ৰচলিত আৰু কোন উৎসৱৰ লগত জড়িত সেই বিষয়ে লিখি থোৱা।\n\nও ডণ ভূপেন হাজৰিকাৰ গীত সংগহ কৰাত সহায় কৰিব।\n\nজানি থোৱা\n\nডৰ ভূপেন হাজৰিকাৰ জীৱন পঞ্জী\n১৯২৬ : ৮ ছেপ্টেম্বৰত শদিয়াত জন্ম ।\nপিতৃ - নীলকান্ত হাজৰিকা\nমাতৃ - শাস্তিপ্রিয়া হাজৰিকা\n১৯৩০ : ৫ বছৰ বয়সতে গুৱাহাটীৰ কটন কলেজিয়েট হাইস্কুলৰ সভাত প্রথম গীত\nপৰিৱেশন\n১৯৩৬ : ‘জয়মতী’ বোলছবিৰ বাবে দুটি গীত বাণীবদ্ধ ।\n১৯৩৭ : কুসুস্বৰ পুত্ৰ পীশঙ্কৰ ওৰৱে ধৰিছিল নামৰে তান’ - ৰচিত প্রথম গীত।\n১৯৩৯; ‘ইন্দ্ৰমালতী’ ছবিত অভিনয় আৰু ‘মইনা কেতিয়া আহিলি তই’”গীতটি পৰিৱেশন ।\n১৯৪০ : তেজপুৰ চৰকাৰী বয়জ হাইস্কুলৰ পৰা প্রৱেশিকা পৰীক্ষাত উভীণ।\n১৯৪২ : কটন কলেজৰ পৰা ইন্টাৰমিডিয়েট পাছ কৰি বেনাৰস হিন্দু বিশ্ববিদ্যালয় আৰু\n‘স্কুল অৱ আৰ্ট’ ত ভৰ্তি\n\n১৯৪৩ : আকাশবাণীত গীত পৰিৱেশন\n\n(৭)",
+  "confidence": {
+    "word_count": 167,
+    "mean": 84.04,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.496,
+  "page_elapsed_seconds": 3.909,
+  "peak_process_tree_rss_bytes": 275091456,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

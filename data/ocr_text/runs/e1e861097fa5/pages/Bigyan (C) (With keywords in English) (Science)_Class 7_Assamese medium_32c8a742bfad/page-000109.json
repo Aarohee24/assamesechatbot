@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 109,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তলত দিয়া ৱেবচাইটৰিলাকত তোমালোকে এই বিষয়ে অধিক তথ্য পাবা\n11{{])://ঘাঘমঘম,]1]]0].50ঘ.1[]/\n11000:// ]10181\"), (]]]1]11৩0[029.0189/10 |36/\n\nঘ্মাম,1201]].60.810/1811]/90002110(9. 16801219/0%গ17100.91)077]/ঘঘছছছ,.০]]0]]]021.0011]/\n৪1৩1/]189]]81]]11]].]1{1]]]\n\nবতাহ, ধুমুহা আৰু ঘূৰ্ণিবতাহ                                           95",
+  "confidence": {
+    "word_count": 22,
+    "mean": 63.4,
+    "median": 88.49,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9629,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.367,
+  "page_elapsed_seconds": 1.564,
+  "peak_process_tree_rss_bytes": 288940032,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

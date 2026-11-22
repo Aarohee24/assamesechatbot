@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 50,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঞ্  ডক্টৰেট ডিগ্ৰী লাভ কৰাৰ পাছত ডক্টৰ বাণীকান্ত কাকতিক লৈ কি ঘটনা ঘটিছিল,\n\nচমুকৈ লিখা।\nএ) অভিধান বা শব্দ সম্ভাৰ চাই অৰ্থ লিখা।\n__ লৰ্যা-পৰায়ণ          আয়ত্ত            সাধনা          থত্মত্‌\nপৰিস্থিতি               নিষ্ঠা              একান্ত সুখ্যাতি\nআত্ম-নিয়োগ          প্রবল              চৰ্চা             গতি-গৌত্ৰ\n\nখ -- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n তলৰ শব্দকেইটাৰ পৰা যুক্তাক্ষৰ বাছি উলিয়াই ভাঙি দেখুওৱা।\nনিষ্ঠা          ন        +\nবিজ্ঞানী        টি        +\nডক্টৰ         স্‌        +\n\nল্৷ তলৰ আঁচ টনা শব্দবোৰৰ সলনি ব্যক্তিবাচক সৰ্বনাম পদ ব্যৱহাৰ কৰি বাক্যবোৰ\n>= পুনৰাই লিখা।\n\n(ক) ডক্টৰ বাণীকান্ত কাকতি এগৰাকী ভাষা-বিজ্ঞানী আছিল।\n\n(খ) ৰহিমে পঢ়া-শুনা মনোযোগেৰে কৰে।\n\n(গ) নীলাই গান গাই ভাল পায়।\n\nএস নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 97,
+    "mean": 85.68,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.429,
+  "page_elapsed_seconds": 2.739,
+  "peak_process_tree_rss_bytes": 267018240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 238,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "16 81] ০616908| 00160093 ৪11]]1|81\"? 1,261\n09 1110 001.\n\n18.1 '[']]6 11001]\n/%৫ঘ](%ে 18.1\n\n00921%6 {116 11001] ০01]011100091) 101\n৪6৮28 1116]109, 1)16218[0]য [011] 0116\n10}]] 10011 {0 016 116স%0, ][/[8](6 ৪ 910610]]\n01 10126 17001] 6৮621\" 1]1961]]{ 11] ৮০001'110162\n000] 8110 111006 {16 08%) [01]] {]6 08%\n01012 100]] 17001]. /*]৪০ 11006 6৮21\")08%\n16 ])8[{ 01 {])6 91[ে (6890.01 .স/690) 11]\nঘষ্ম]]10]] 116 11001] 19 ৪6621].\n\n]9 1616 ৪ ০]181196 11] {116 81181276 01 716\n17001] 6%৮621\"%08%? /1\"'6 01216 08%9 ড]12া) 06\n9]18|])6 01 {16 11001] 8])])681'3 (0 066 )6162{[)/\n1001107? /*/6 1616 08%9 স]16া। 116 11100]\n০৪01.002 ৪6610 88.11 6৮21] 11 116 ৪1% 19 19680\"?\n\n']]]6 0৪) 01) ]10]] 16 11016 0196 01\n16 1]001] 19 ৬1910]6 19 [10 যা] 8৪ 116.100]\n17001] 08%). '[]16168102[, 6৮621) ]]196]1{ 6\n\n৪1262 01 016 01189]]0 |)81'( 01 0126 11]10011 812|১681\"9\n10 0600176 {11121 8110 {]]11]16|, (0)[] {16\n11022] 08% 016 1001] 18 1100 €19810|]6. ]]]19\n08%) 19 [710তছমা1 89 {]16 1168 1]1001] 080)\",\n']]]6 16স0.08), 01]]% 8 91]8|| |)>01[0101] 01 16\n10001] 81)[১681\"8 11] {]16 ৪1'ো. '][]]19 19 1110ম1[] 88\n16. ০1690621]1{ 11001]. []121) ৪8811] 16 11100]\n9109 1815621 ০৮০21) 08). 01] 16 1]]6921]]]\n08 01106 82811] 6 2206 8 10]] ৬৷০তব 01 16\n10011.\n\n'][]]6 ৮৪11009 9118|]269 01 16.0119]]0 |)81[\"\n01 16 11001] 89 ৪6211 0011116 8 11101]{]]) 816\n০৪1160 [)})8969 01 {116 101001] (]\"16. | 8.2).\n\nস্ব ]]৮ 0০69 16 111001] ০]181186 19\n9118|26 6৮621\") 08?\n\n118 18.2 :\n17/0569 0} 1076 1770077",
+  "confidence": {
+    "word_count": 243,
+    "mean": 45.53,
+    "median": 49.42,
+    "minimum": 0.0,
+    "maximum": 94.57
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.6138,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.55,
+  "page_elapsed_seconds": 3.846,
+  "peak_process_tree_rss_bytes": 314363904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

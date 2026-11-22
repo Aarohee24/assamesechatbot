@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 48,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ১২। বাক্য ৰচনা কৰা--\n\"৪============-======= === ==--= ===\nঠৰ ১৩। পাঠটোৰপৰা যুৰীয়া শব্দবোৰ বিচাৰি লিখা।\nযেনে-- চকু-মুখ\nজানি থওঁ আহা-_                                            ]\nযিকোনো এটা বিষয় আনৰ সন্মুখত পৰিৱেশন কৰাৰ আগতে সেই বিষয়ে কিছু আভাস দিয়া\nহয়। এই আভাস দিয়া বা আঁত ধৰা ব্যক্তিজনক ‘ঘোষক’ বুলি কোৱা হয়। সেইদৰে অংকীয়া\n(ভাওনাতো সূত্ৰধাৰে ভাওনাৰ আৰম্ভণিতে আৰু মাজে৷ মাজে দৃশ্যসমূহৰ চমু বিৱৰণ দাঙি ধৰে। ;\n((') ১৪ ‘ৰোওঁগৈ ব’লা গছৰ পুলি’ শীৰ্ষক নাটিকাখনি শ্ৰেণীৰ সকলো ছাত্ৰ-ছাত্ৰী লগ হৈ অভিনয় কৰা।\n(}) ১৫ ৷ নাটিকাখনত মানুকণে গোৱা গীতটিত বেঙেনাৰ সলনি বাদাম আৰু আলু শব্দ দুটা\nবহুৱাই গীতটি গাওঁ আহা--_\nবা--আ, বা--আ              বামস্স্আ, বাম্ৰআ                বা--আ, বা--আ\nবুট নাৰিকল           বুট নাৰিকল            বুট নাৰিকল\nআৰু পকাকল         আৰু পকাকল          আৰু পকাকল\nকেনে মজ্রা            কেনে মজা            কেনে মজা\nবেঙেনা ভজা। /__  __ .......... ভজা। ভজা।\nৰ ১৬ নাটিকাখনত ৰিতুপনে তলত দিয়া ধৰণে কোৱাৰ পাছত সুমনাহঁতে অন্য কেনেধৰণৰ\nসংলাপ ক’ব পাৰিলেহেঁতেন লিখা ।\n\nৰিতুপন ঃ. সঁচাকৈয়ে গছৰ জীৱ আছে যেন লাগি যায়, নহয়? আমাৰ দেশৰ বিজ্ঞানী এজনে\nকৈছিল যে, ‘গছৰ প্রাণ আছে?\n\nৰ জাম ]]] 8); ] 1; ])৷)%ি হই ৷ [[ঢঢৌ3ঁছ\nব্যৱস্থা কৰিব।",
+  "confidence": {
+    "word_count": 6,
+    "mean": 62.49,
+    "median": 71.95,
+    "minimum": 0.0,
+    "maximum": 96.3
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.221,
+  "page_elapsed_seconds": 3.678,
+  "peak_process_tree_rss_bytes": 287043584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

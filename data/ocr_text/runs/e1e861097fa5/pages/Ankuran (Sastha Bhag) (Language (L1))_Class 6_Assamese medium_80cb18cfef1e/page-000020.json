@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০) “কোৱাচোন,এই ফেঁচা দুটাই কি কথা পাতি আছে!”\nওপৰৰ বাক্যটোত ব্যৱহাৰ হোৱা ‘কথা পাতি’ বাক্যাংশই আলোচনা কৰা অৰ্থহে\nপ্রকাশ কৰিছে। সেইদৰে ‘কথা’ শব্দটোৰ লগত আন শব্দ লগ লাগি গঠিত হোৱা জতুৱা\nঠাচকেইটা চোৱা। শিক্ষকক সুধি অৰ্থ আৰু ব্যৱহাৰ জানি লোৱা।\n\nঁঁঁঁঁঁঁঁঁিঁ\n\nকথা ক কথা ল           কথা-বতৰা\nকথা হ কথা চোবা          কথা-চহকী\n===              আম\n১১) বাক্য ৰচনা কৰা।\nকথা-চহকী              কথা চোবা               কথা শুন্‌             কথা ৰাখ্‌\n\nগ --- জ্ঞান সম্প্ৰসাৰণ\n\n১২) তোমাৰ অঞ্চলত চৰাইৰ সংখ্যা আগতকৈ কমিছেনে বাঢ়িছে? চৰাইবোৰ কি কাৰণত কমি\nযায় ? চৰাইৰ সংখ্যাৰ লগত গছ-গছনিৰ সম্পৰ্ক কি ?দলত আলোচনা কৰা ৷ প্ৰয়োজনবোধে\nশিক্ষকৰ সহায় ল’বা।\n\n১৩) অসমৰ ৰাষ্ট্ৰীয় উদ্যানকেইখনৰ নাম লিখা। কোনখন ৰাষ্ট্ৰীয় উদ্যান কি কাৰণে বিখ্যাত,\nশিক্ষকক বা ডাঙৰক সুধি জানি লৈ তিনি-চাৰিটা বাক্যত লিখা।",
+  "confidence": {
+    "word_count": 117,
+    "mean": 90.53,
+    "median": 94.59,
+    "minimum": 8.83,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.667,
+  "page_elapsed_seconds": 3.0,
+  "peak_process_tree_rss_bytes": 275681280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

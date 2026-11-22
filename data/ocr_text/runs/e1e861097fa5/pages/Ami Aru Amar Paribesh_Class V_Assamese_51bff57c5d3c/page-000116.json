@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 116,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ অনুশীলনী\n১ । উত্তৰলিখা--\n\n(ক) কেতিয়াৰপৰা ভাৰতে এখন স্বাধীন ৰাষ্ট্র হিচাপে স্বীকৃতি লাভ কৰে?\n(খ) ভাৰতীয় নাগৰিকৰ কেইটা মৌলিক কৰ্তব্য আছে?\n(গ) সংবিধান সভাৰ সভাপতি কোন আছিল?\n(ঘ) সংবিধান খচৰা কমিটীৰ নেতা কোন আছিল?\n(৬) ভাৰতীয় সংবিধানখন কেতিয়া গৃহীত হৈছিল?\n২ খালী ঠাই পূৰ কৰা---\n(ক) আমি ১৯৫০ চনৰপৰা প্রতি বছৰ ২৬ জানুৱাৰী তাৰিখে----------- হিচাপে পালন কৰোঁ।\n(খ) = সংবিধানখন অতি দীঘলীয়া সংবিধান\n(গ) ভাৰতবৰ্ষ এখন সাৰ্বভৌম --------- গণৰাজ্য।\n(ঘ) প্ৰত্যেক দেশ বা ৰাষ্ট্ৰ একোখন নিজস্ব ---------. আছে।\n(৬) --------চনৰ আগষ্টৰ দিনা ভাৰতে স্বাধীনতা লাভ কৰে।\n৩ ৷ মৌলিক অধিকাৰ বুলিলে কি বুজা আৰু সেইবোৰ কি কি লিখা ৷\n৪। প'ষ্টাৰ সাজা--\n(ক) আমি সকলো ভাৰতীয়।\n(খ)অসম আমাৰ জন্মভূমি ৷\n৫ ৷চমুটোকা লিখা--\n(ক) স্বাধীনতা আন্দোলন (খ) ভাৰতৰ সংবিধান\n(গ) মৌলিক-অধিকাৰ _(ঘ) মৌলিক কৰ্তব্য।\n\nএ এ...",
+  "confidence": {
+    "word_count": 127,
+    "mean": 81.34,
+    "median": 92.78,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.09,
+  "page_elapsed_seconds": 2.303,
+  "peak_process_tree_rss_bytes": 241864704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

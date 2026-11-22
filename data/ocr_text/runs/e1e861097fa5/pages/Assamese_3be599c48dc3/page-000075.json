@@ -1,0 +1,67 @@
+{
+  "book": "Assamese.pdf",
+  "source_relative_path": "data/books/Assamese.pdf",
+  "source_pdf_size_bytes": 42699087,
+  "source_pdf_sha256": "3be599c48dc30143138696467a4b8c620253fd8e47f631a00e70812ecf462c22",
+  "page_count": 118,
+  "pdf_metadata": {
+    "Title": "Sarbashik.pdf",
+    "Author": "user",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20171028161428+05'30'",
+    "ModDate": "D:20171028161428+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 75,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সপ্তম শ্ৰেণী গেণিত)\n\nছাত্ৰ-ছাত্ৰীসকলক স্ব-শিকন/যুৰীয়া শিকন /\nদলগত শিকন প্রক্ৰিয়াত অংশ গ্ৰহণৰ বাবে\nসুযোগ দিব আৰু নিম্ন লিখিত কাৰ্যসমূহ\nকৰিবলৈ উৎসাহিত কৰিব।\n\nঞ্জ অখণ্ড সংখ্যাৰ পূৰণ আৰু হৰণৰ নিয়মসমূহ\nউদ্‌ঘাটন কৰিবৰ বাবে সুবিধা প্রদান কৰা।\nএই নিয়মসমূহ সংখ্যা ৰেখা বা সংখ্যাৰ\nচানেকিৰ জৰিয়তে শিকিব পাৰে।\n\nউদাহৰণস্বৰূপে ঃ\n32356\n3%13=9\n3%0=0\n3%(-1)=-3\n3%(-2)=-6\nসেই কাৰণে 3%(-3)=-9\nঅৰ্থাৎ, এটা ধনাত্মাক সংখ্যাক এটা খ৷ণাত্মক\n\nসংখ্যাৰে পূৰণ কৰিলে এটা খ৷ণাত্মক সংখ্যা\nপোৱা যায়।\n\nউদাহৰণস্বৰূপে-_,\n৪)4*2 2? মানে তৰ 7.4 অর্থাৎ\n\n.1 1\n\" \"2 ত 4 দুটা থাকে\n\nছাত্ৰ-ছাত্ৰীয়ে--\n\nঞ্জ দুটা অখণ্ড সংখ্যাৰ পূৰণ আৰু হৰণ\nকৰিব পাৰিব।\n\nঞ্জ ভগীংশৰ হৰণ আৰু পূৰণ কেনেদৰে\nকৰে ব্যাখ্যা কৰিব পাৰিব।\nউদাহৰণস্বৰূপে, ১:/ক ৰ 3হিচাবে\nবুজিব। আকৌ :! হ’বলৈ কেইটা ৷ লাগিব\n‘ৰ সহায়ত ব্যাখ্যা কৰিব পাৰিব।\n\nঞ্জ ভগ্নাংশ/দশমিক ভগ্নাংশৰ পূৰণ আৰু\nহৰণৰ অংক কৰোতে নিয়মবোৰ ব্যৱহাৰ\nকৰিবলৈ জানিব।\n\nঞ্জ পৰিমেয় সংখ্যাৰ লগত জড়িত দৈনন্দিন\nজীৱনৰ সমস্যাবোৰ সমাধান কৰিব পাৰিব।\nঞ্ড পূৰণ আৰু হৰণেৰে ডাঙৰ সংখ্যাৰ\nসমস্যা সমাধান কৰোতে সংখ্যাৰ সূচকীয়\nৰূপ (6ম1201121.08| 1[001]]) ব্যৱহাৰ কৰিব\nজানিব আৰু সমাধান কৰিব পাৰিব।\n\nঞ্জ দৈনন্দিন জীৱনৰ সমস্যাবোৰ সৰল\nসমীকৰণৰ সহায়ত প্রকাশ কৰি সমাধান\nকৰিব পাৰিব।\n\nঞ্জ বীজগাণিতিক ৰাশিবোৰৰ যোগ আৰু\nবিয়োগ কৰিব পাৰিব।",
+  "confidence": {
+    "word_count": 183,
+    "mean": 86.01,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 27 diacritics",
+        "Detected 27 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.92,
+  "page_elapsed_seconds": 3.16,
+  "peak_process_tree_rss_bytes": 320090112,
+  "tesseract_warnings": [
+    "Detected 27 diacritics",
+    "Detected 27 diacritics"
+  ],
+  "processed_this_run": true
+}

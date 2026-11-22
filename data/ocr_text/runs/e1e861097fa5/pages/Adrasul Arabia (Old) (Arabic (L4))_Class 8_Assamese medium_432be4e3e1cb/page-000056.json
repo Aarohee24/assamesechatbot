@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 56,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(\"_১||\" আৰু <, ৰ তলৰ বাক্যাংশবোৰ সঠিক ভাবে মিলাই ৰেখাৰে সংযোগ কৰা )\n\n0৮     })\n\n(আছ                       ৬);\n\n- ভৈল ৮                মা নৰখা।\n= 23);>=+ )|/৮)}                     ২১7৯1 “ৰ\n-ে)                            3১%) 3১৪০0\n\nপৌ] ডে+ ] >\nখূ [৩৮৮ | £৬ [| এন\n\nয় লোলে\n\nএ | এ%; | &৯১1| /2.\n\n46",
+  "confidence": {
+    "word_count": 49,
+    "mean": 46.31,
+    "median": 35.12,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9999,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 1.861,
+  "page_elapsed_seconds": 2.098,
+  "peak_process_tree_rss_bytes": 180113408,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

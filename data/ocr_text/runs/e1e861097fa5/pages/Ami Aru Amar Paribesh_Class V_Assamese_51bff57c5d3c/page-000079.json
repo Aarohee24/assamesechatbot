@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 79,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বায়ু প্ৰদূষণ -_\n\nবায়ু পৰিৱেশৰ এটা গুৰুত্বপূৰ্ণ উপাদান। বায়ু হৈছে কেইবিধমান গেছৰ সমষ্টি। সকলো জীৱই\nউশাহত বায়ুৰ পৰা অক্সিজেন গেছ গ্ৰহণ কৰে। বিশুদ্ধ বায়ুত সাধাৰণতে বায়ুত থকা গেছসমূহ সঠিক\nপৰিমাণে থাকে। কিন্তু মানুহৰ কিছুমান ক্ৰিয়া-কলাপৰ বাবে বায়ু দূষিত হয়। কেতিয়াবা অৱশ্যে\n\nপ্রাকৃতিক কাৰণতো বায়ু দূষিত হ’ব পাৰে।\n>> তলৰ ছবিখন চাই বায়ু প্ৰদূষণৰ কাৰক আৰু প্রভাৱসমূহ লিখি উলিওৱা ৷\n\n> তোমালোকৰ অঞ্চলত বায়ু প্রদূষণ হৈছে বুলি ভাবানে ? যদি হৈছে তাৰ কাৰণবোৰ লিখা।৷\n\nবায়ু প্ৰদূষণ ৰোধ কৰাৰ বাবে ল’ব পৰা কিছুমান ব্যৱস্থাৰ বিষয়ে জানিলও আহা--\n\nঞ্ঞজ পৰাপক্ষত যান-বাহনৰ ব্যৱহাৰ কম কৰা উচিত। কম দূৰত্বৰ যাত্ৰাৰ বাবে খোজকাঢ়ি নাইবা\nচাইকেল ব্যৱহাৰ কৰিব লাগে। যান-বাহনৰপৰা ওলোৱা ধোঁৱাৰ প্রদূষণ ৰোধ কৰাৰ বাবে যান-\nবাহনতপ্রদূষক নিয়ন্তুণ ফিল্টাৰ লগাব লাগে।\n\nঞ্ড উদ্যোগৰপৰা বাহিৰ হোৱা ধোঁৱাত কাৰ্বন-ডাই-অক্সাইডকে ধৰি বিভিন্ন ধৰণৰ বিষাক্ত গেছ\nথাকে। এইবোৰ আঁতৰাবৰ বাবে বিশেষ ধৰণৰ প্রদূষক নিয়ন্তুণ ফিল্টাৰ তৈয়াৰ কৰা হৈছে।\nউদ্যোগসমূহত এনে ব্যৱস্থা থকা উচিত। উদ্যোগৰপৰা ধোঁৱা ওলোৱা চিমনীবোৰ বহু ওখকৈ\nসাজিও বায়ু প্ৰদূষণ কমাব পাৰি।\n\nঞ গছৰ পাতে বায়ুত থকা ধূলিকণা ধৰি বায়ু নিৰ্মল কৰি ৰাখে। উদ্যোগৰ ওচৰে-পাজৰে যথেষ্ট\nগছপুলি ৰোপণ কৰিব লাগে। উদ্ভিদে উদ্যোগৰপৰা ওলোৱা কাৰ্বন-ডাই-অক্সাইড গেছৰ\nপৰিমাণ হাস কৰি বায়ু নিৰ্মল কৰে।\n\nঞ্জ কয়লা, প্ট্ৰ’ল,ডিজেল, কেৰাচিন আদিৰ পৰিৱৰ্তে সৌৰশক্তি, গোবৰ গেছ আদি ইন্ধন হিচাপে\nব্যৱহাৰ কৰিব পাৰি।\n\n৬৯.",
+  "confidence": {
+    "word_count": 199,
+    "mean": 89.91,
+    "median": 94.59,
+    "minimum": 20.14,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.032,
+  "page_elapsed_seconds": 3.797,
+  "peak_process_tree_rss_bytes": 248504320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

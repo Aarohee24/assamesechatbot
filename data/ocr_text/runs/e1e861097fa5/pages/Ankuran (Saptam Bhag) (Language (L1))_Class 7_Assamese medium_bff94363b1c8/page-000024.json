@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮। পুৰণি কালত তোমাৰ ককা-আইতাৰাহঁতে কাপোৰ-কানি, বাচন-বৰ্তন পেৰাত ভৰাই\nথৈছিল। তোমালোকে কাপোৰ-কানি, বাচন-বৰ্তন ক’ত থোৱা, তাৰ এখন তালিকা\nপ্ৰস্তুত কৰা।\n\n৯। ছবিখনত দিয়া সঁজুলিকেইবিধৰ নাম লিখি সেইবোৰ আমি কি কি কামত ব্যৱহাৰ\nকৰোঁ৷ লিখা।\n\nজানো আহা\nম’ৰা চৰাই ভাৰতবৰ্ষৰ ৰাষ্ট্ৰীয় পখী।\nপদুম ফুল ভাৰতবৰ্ষৰ ৰাষ্ট্ৰীয় ফুল।\nঢেকীয়াপতীয়া বাঘ আমাৰ ৰাষ্ট্ৰীয় জন্তু।\nঅশোকস্তম্ভ আমাৰ ৰাষ্ট্ৰীয় প্ৰতীক।\nতিনি বৰণীয়া জাতীয় পতাকা আমাৰ ৰাষ্ট্ৰীয় পতাকা।\n\nঘ-- প্ৰকল্প\n১০। বাতৰি কাকতৰ শিশু পৃষ্ঠা/শিশু আলোচনী/গল্প পুথি পঢ়ি তাৰ পৰা এটা গল্প স্পষ্ট\nআখৰেৰে কাগজত লিখিবা। লগতে গল্পটোৰ পৰা কি শিকিলা সেই বিষয়ে লিখি\nডাঠ কাগজত লগাই শ্ৰেণী কক্ষত আৰি থোৱা। গল্পটোৰ লগত সংগতি থকা দুটামান\nচিত্ৰও লগাই দিবা।\n১১। অসমৰ শিপিনীয়ে তীত-শালত কি কি কাপোৰ বয়, তাৰ এখন তালিকা প্ৰস্তুত কৰা।\n\n১২। উত্তৰ-পূব ভাৰতৰ মাতৃপ্রধান জাতিসমূহৰ এখন তালিকা প্রস্তুত কৰা।\n\nঞ + _১১নং কাযৰ্টো কৰাওঁতে তাঁত-শালত সাধাৰণতে কি কি কাপে৷ৰ বয়, সেই বিষয়ে তথা যোগান ধৰিব ।\nঙ্স_ প্ৰয়োজন অনুসৰি প্রকল্প প্রভত কৰোঁতে সহায় কৰিব।",
+  "confidence": {
+    "word_count": 150,
+    "mean": 89.44,
+    "median": 94.96,
+    "minimum": 8.87,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.485,
+  "page_elapsed_seconds": 2.832,
+  "peak_process_tree_rss_bytes": 293154816,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

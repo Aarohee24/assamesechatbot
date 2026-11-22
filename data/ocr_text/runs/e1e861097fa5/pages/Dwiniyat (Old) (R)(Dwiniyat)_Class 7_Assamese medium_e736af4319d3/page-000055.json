@@ -1,0 +1,67 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 55,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জীনিয়াত           ৪83৯\n\nজহুৰৰ নামাজ পঢ়াৰ নিয়ম\n\nজহুৰৰ নামাজৰ সময় দুপৰীয়া সূৰ্য অলপ পশ্চিমফালে হালিলে তেতিয়াৰে\nপৰা কোনো এডাল লাঠিৰ ছী দুগুণ হোৱা পৰ্যন্ত থাকে। জহুৰৰ নামাজ মুঠ ১২\nৰাক্আত৷ চুন্লত ৪ ৰাক্আত, ফৰজ ৪ ৰাক্আত, চুনত ২ ৰাক্আত আৰু নফল ২\nৰাক্আত। জহুৰৰ চুন্ত ৪ ৰাক্‌আত পঢ়াৰ পিচত ফৰজ ৪ ৰাক্আতৰ নিয়ত\nকৰিব।\nণ       ৰ                  -\nকু 2 লপ9   লাগ\n\nচোল লাোলে কলি লা\n\nফজৰৰ চুন্নত নামাজৰ নিয়ম অনুযায়ী জহুৰৰ নামাজো পঢ়িব লাগিব।\nজহুৰৰ চাৰি বাক্আত ফৰজ নামাজৰ প্ৰথম ২ ৰাক্‌আতত ছুৰা ফাতিহাৰ লগত\nঅন্য ছুৰা মিলাই ২ ৰাক্আত নামাজ পঢ়িব। শেষৰ ২ ৰাক্আতত কেৱল ছুৰা\nফাতিহা পঢ়িব। অন্য ছুৰা পঢ়িব নালাগে।\n\nআচৰৰ নামাজ পঢ়াৰ নিয়ম\n\nআচৰৰ নামাজৰ সময় জহুবৰ নামাজৰ পিচৰ পৰা| সূৰ্য অস্ত যোৱাৰ আগলৈ\nথাকে। আচৰৰ নামাজ মুঠ ৮ ৰাক্আত। চুন্নত ৪ ৰাক্আত আৰু ফৰজ ৪ ৰাক্আত।\nআচৰৰ নামাজৰ নিয়ত-\n\nত\" ঠা্- সীঁনদভাাা ৰা ৰণ্ড\n\nআচৰৰ ৪ ৰাক্আত নামাজ জহুৰৰ চুন্নত ৪ ৰাক্‌আত নামাজৰ দৰে আৰু\nআচৰৰ ফৰজ ৪ ৰাক্আত জহুৰৰ ফৰজ ৪ ৰাক্আতৰ দৰে পঢ়িব লাগিব।\n\nমগৰিবৰ নামাজ পঢ়াৰ নিয়ম\n\nমগৰিবৰ নামাজৰ সময় সূৰ্য অস্ত যোৱাৰ পৰা পশ্চিম আকাশৰ ফালে ৰং\nথকা পৰ্যন্ত থাকে। মগৰিবৰ নামাজ মুঠ ৭ ৰাক্‌আত। ফৰজ ৩ ৰাক্আত, চুমত ২",
+  "confidence": {
+    "word_count": 188,
+    "mean": 81.16,
+    "median": 91.79,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 114 diacritics",
+        "Detected 114 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.39,
+  "page_elapsed_seconds": 2.531,
+  "peak_process_tree_rss_bytes": 231256064,
+  "tesseract_warnings": [
+    "Detected 114 diacritics",
+    "Detected 114 diacritics"
+  ],
+  "processed_this_run": true
+}

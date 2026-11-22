@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 3,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমাৰ বিজ্ঞান\n\nপ্ৰথম ভাগ\nষষ্ঠ শ্রেণীৰ বাবে\n\n[080 ]}]]}]]80]\n\n1.%]ং 1 -]\n'][];১%1]]১(0)0)]< ]\"()]২$ €:]..১৬৬ * ]\n\n74% বি ণ\nপ্ৰস্তুতকৰণঃ\nগুৱাহাটী-৭৮১০১৯\nনাম 8.,১১০১,০১০২০২১০১০০০০০০৬০০০০৩০০০০৩০৩০ত০০৬০৬০তততত০৬ত৬ততত০৬ত৮ততত৬৬৬৮৬ততত৬ত৬ত৬ত৬০৬০৬০০৬০৬০০০০০\nবিদ্যালয়ৰ নাম 8... ৪৪৪০০\nশ্ৰেণী: 8.১১,ৰোল নং 8.,,,১১১১১১১১১১১.০০.,\n\nঅসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু প্ৰকাশন নিগম লিমিটেড, গুৱাহাটী\n\n1)",
+  "confidence": {
+    "word_count": 43,
+    "mean": 63.01,
+    "median": 83.95,
+    "minimum": 0.0,
+    "maximum": 96.76
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9996,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.063,
+  "page_elapsed_seconds": 2.36,
+  "peak_process_tree_rss_bytes": 243228672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

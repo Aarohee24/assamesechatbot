@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 236,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ":1].%1}\"] ]']ং\n\n18\n\n71.1১5 &খা? ][[]][' ৬01.৯18 ৬৮ ০7][[[%]\n\n]\"18]16]1].8, 8110 1\"1886981] ৮191(260 11611\nঠ18110])8121198\" ঘা||৪৮০ 0011116 16 ৪91001]1]121\n068]. /%1021 01101121, 012 2110.011 10 6\n1001 01 {16 11006. [[ 89 8 ০1681\" ০100012998\n1116]]{. ']']]6% স'6106 ৪01211360 {0 ৪66 ৪ 18166\n1101]221\" 01 0118]]1{ 5181'9 11] 116 :910্ো, '[]]2%) ])80\n116%৮621' ৪6210 90.1 & 0628.0110] ৪০616 11] {]16211'\n\nসে (8. 18.1).\n\n68221121006 ৪[ ৪ 1806 স]1616 1216\n816 110 0118] 1|1611{(9 8110 {])6 801109])[1216\n189 মল6280. ][,00]< 8 016 ৪1 010 ৪ 080], গে6৪81'\n10196]]{, ৬00. ৪66 6 211016 91% 000.60 ক1{]]\n০০০01102688 ৪8198, ৪01]16 [018]1{ 8110 ৪0116\n1100 ৪0 06118]}{, 00092[\"/6 1]12111 €০৪16100]]%}',\n120 ৪1] 01 {161]) 81)[2681' [0 (11116? ])0\n৮০00 110 800). 9[81-]1](6 00160 ড্]10]] 00969\n\n]\"18|]16]1[|8, স/01102160, স্|]) |]16 ঘ1||৪৮০\n৪10 \"৪৪১ ৪0 01[21621]{ 1|01]] 16 1]189]]0 910\n1]] 0616 ০1069? []621' ঠা1'81108|121 682]811160.\n186 006 100 0118]][ ]195]1{, 91110] 8070\n0090, 116 ৪1 11] 018 ০1069 19 1806] ০1681.\nখৈ19]]1[ ]তে ডস8৪00]]]]16 ০৪811 06 8৪ 089011180116\n\n1198 18.1 ১: !খ৷9}}{ 510;\n\n1100 {'111]16? '][]]6 006160208 স্]10]] 00 1101\nঘ্ষয111|126 816 1)1811619.\n\n']]]6 17001] 19 16 0118]1(690[ 00160 ]][]\n16 1]18]]{ ৪10, '[]]6 ৪0819, {])6 ])1811619, 6\n10001] 8110 17811). 0161\" 0016009 11] 116 9[ক্ঠে\n816 ০৪8]160 €০০16918] 01)]6009.",
+  "confidence": {
+    "word_count": 136,
+    "mean": 40.58,
+    "median": 34.59,
+    "minimum": 0.0,
+    "maximum": 95.62
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3319,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.503,
+  "page_elapsed_seconds": 3.802,
+  "peak_process_tree_rss_bytes": 314167296,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

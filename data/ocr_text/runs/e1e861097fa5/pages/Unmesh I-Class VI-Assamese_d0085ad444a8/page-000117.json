@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 117,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমি সদায় সুখে-শাস্তিৰে বাস কৰিবলৈ বিচাৰোঁ । ইয়াৰ বাবে মৰম, সহায়, কৰুণা, দয়া আদি মানৱীয় ওণসমূহৰ )\nদৰকাৰ । এনে ওণৰ অধিকাৰী বান্জ্সিকলে সমাজৰ হিতৰ বাবে ত্যাগ কৰি আহিছে। সমাজৰ দুর্বল শ্রেণীৰ\nলোকসকল এনে লোকৰ সহায়ত বৰতি থাকে। আনহাতে সমাজত আনিষ্ট কৰা লোকক দসুঃ বা দানৱ বুলি কোৱা\nহয়। দানৱ শেণীৰ লোকৰ বাবে সমাজত শাস্তি ব্যাহত হয়। গীতটিৰ জৰিয়তে গীতিকাৰে মানুহক দানৱৰ দৰে\nত্ন হৈ প্রকৃত মানুহ হিচাপে আচৰণ কৰিবলৈ আৱুন জনাইছে।                        7\n\n3, পঢ়া আৰু গোৱা---\nমানুহে মানুহৰ বাবে\nযদিহে অকণো নেভাবে\n\nঅকণি সহানুভূতিৰে\nভাবিব কোনেনো কোৱা--- সমনীয়া?\n\nমানুহে মানুহক বেচিব খুজি\n              মানুহে মা  নল কিনিব খুজি\n২   পুৰণি ইতিহাস\n\nভুল জানো নহ’ব ন সমনীয়া।\n\nদুৰ্বল মানুহে যদি\nজীৱনৰ কোবাল নদী\n\nপাৰ হয় তোমাৰে সাহত\nতুমি হেৰুৱাবানো কি?\n\nমানুহ যদিহে নহয় মানুহ\nলাজ পাব কোনেনো কোৱা---সমনীয়া?\n\n-_ড‘ ভূপেন হাজৰিকা\n\nউৎস ঃ সূৰ্য্য হাজৰিকা সম্পাদিত ‘ড’ ভূপেন হাজৰিকাৰ গীত সমগ্ৰ (গীতাৱলী)\", সংশোধিত আৰু পৰিবদৰ্বিত\nসংস্কৰণ, ২০০৮, এছ. এইছ, শৈক্ষিক ন্যাস, গুৱাহাটী-৭৮১০০৫, পৃষ্ঠা নং-- ৩৯৩",
+  "confidence": {
+    "word_count": 154,
+    "mean": 85.31,
+    "median": 94.28,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 17 diacritics",
+        "Detected 17 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.994,
+  "page_elapsed_seconds": 3.588,
+  "peak_process_tree_rss_bytes": 220565504,
+  "tesseract_warnings": [
+    "Detected 17 diacritics",
+    "Detected 17 diacritics"
+  ],
+  "processed_this_run": true
+}

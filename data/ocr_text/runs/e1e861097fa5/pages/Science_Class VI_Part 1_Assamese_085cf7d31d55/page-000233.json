@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 233,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বতৰাত পাৰহৈ যোৱা 24 ঘন্টাত কোনো এখন অথবা কেবাখনো ঠাইৰ বায়ুমণ্ডলৰ উষ্ণতা,\n\nআৰ্দ্ৰতা, বৰষুণৰ পৰিমাণ সম্পৰ্কীয় কিছু তথ্য থাকে আৰু অহা 24 ঘন্টাত অথবা আগন্তুক\nদিনৰ বতৰ কেনেকুৱা হ’ব তাৰ ভবিষ্যৎ-বাণী কৰা হয়।\n\n[] জ্রিয়াকলাপ 7.1;\nযিকোনো বাতৰি কাকতৰ পৰা যোৱা সপ্তাহৰ বতৰৰ বিৱৰণী থকা অংশটো সংগ্ৰহ কৰা\nবা অন্য মাধ্যমৰ পৰা সংগ্ৰহ কৰা।\n\nঞ্ুচ টোকাবহীত বিৱৰণীটো লিখি থোৱা।\nঞঁ তলৰ তালিকাখন এখন বগা কাগজত সম্পূৰ্ণ কৰা।\nতালিকা”7.1 ঃ এটা সপ্তাহৰ বতৰৰ তথ্য -\n\n15/08/24. 36.2         27.8          54           82\n15-8-24 তাৰিখৰ উচ্চতম আৰ্দ্ৰতা (ন) (82%)                              15-8-24 তাৰিখৰ নিম্নতম আৰ্দ্ৰতা (ষ্ন) (54%)\n\nউচলতেওঁত তত তত তত তত ০০০০০ ০০০০০ ০০০০০, ০০০০,0)",
+  "confidence": {
+    "word_count": 102,
+    "mean": 78.29,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.365,
+  "page_elapsed_seconds": 2.686,
+  "peak_process_tree_rss_bytes": 290226176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

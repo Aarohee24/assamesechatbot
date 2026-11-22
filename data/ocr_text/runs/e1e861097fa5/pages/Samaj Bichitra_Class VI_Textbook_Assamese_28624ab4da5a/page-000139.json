@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 139,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ ১৫.১৯ ঃ কম্পিউটাৰ                   চিত্ৰ ১৫.২০ ঃ ৰেলসেৱা\n\n১৫.২.১ বিনিময় প্ৰথ৷ ঃ\n\nমানুহে যেতিয়া নিজৰ প্রয়োজনতকৈ অধিক উৎপাদন কৰিবলৈ ল’লৈ, তেতিয়া কামৰ বিভাজনৰ\nকথাটোও আহি পৰিল। কোনোৱে খেতি-বাতি কৰিবলৈ ল’লে আৰু আন কোনোৱে তাৰ সহায় হোৱাকৈ সা-\nসজুঁলি, পাত্ৰ আদি তৈয়াৰ কৰা বা অন্য হাতৰ কাম কৰিবলৈ ল’লে৷ তেতিয়া মানুহৰ মাজত এক বিশেষ পদ্ধতিৰে\nদ্রব্য আৰু সেৱাৰ আদান-প্ৰদান (]\"%০0৪8116০) আৰম্ভ হ’ল। এই পদ্ধতিকে বিনিময় প্ৰথা (3810 59020] বুলি\nকোৱা হয়। বিনিময় প্রথাত প্রত্যক্ষভাৱে এজনে আনজনৰ লগত দ্রব্য আৰু সেৱাৰ আদান-প্ৰদান কৰিব পৰা হ’ল।\n\nচিত্ৰ ১৫.২১ ঃ জোনবিল মেলাত পৰম্পৰাগত বিনিময় প্রথাৰ মাধ্যমত কৰা আদান-প্ৰদানৰ ছবি দেখুওৱা হৈছে।",
+  "confidence": {
+    "word_count": 97,
+    "mean": 85.04,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.296,
+  "page_elapsed_seconds": 2.909,
+  "peak_process_tree_rss_bytes": 287911936,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

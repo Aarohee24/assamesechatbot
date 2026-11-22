@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3.3.3 '[698{ 101\" (৪\n\n[] /২৫0[৮]( 3.4:\n\nঞ$₹ [8168 91118|] 0080]{1{% 0110001121]] 8110 ঘা8]) 1011) 8 |)1606 01\n128|221 110 0109]] 1{ ০৪16100]] ৮ ৪0 18.76 |)8])61' 0069 1101.681,\n\n$₹ [খ0ছ.্ 90819]1021]1 016 |)8])21' 110 009621\"962.\n\nৰ ]{৮00]1010016])8])21 89811180 ]18]1{, ৮000 ঘ্1|| ৪66০ 116 ]19]){\n08811]{]  ]]10008]] (6 01]৮ ])8(0]].\n\n$₹ /%1101]%৮])800]] 011 )8])21' 9]10'স9 {]18( 016 10001121]] ০011081119 18,\n\n]+8])]016 6 1]0112119 |)[6921]{ 111 {116 [000121]9 91621] 111 016 [8016 3.4\n\n[016 3.4 : ১০116 110071219 [)\"6921]{ 111 ৪01]16 1000 1027]9\n\n]ং৪\".%৮ |)01800\n\n11662\n\nতখ]9\n\n[২1০০\n\n১1009\n\n0118|)8.01\n\n]}008থম[\n\n(,00011001{\n\n3.4 9]1311060 01646\n\n16 1000 ছ্ঞষ৪ 11011]8||]} ০৪ 081]) 19 001 0160, ]{ 19 116029981 10\n11010062 81] ]31109 01 11007121109 11] 0001\" 012 111] 116|1{ 81110011{ 101 ঠ10'ম{]1 110.\n1118111021181106 01 5000 1168]1{]].\n\n/১% 0120 স্]10]1 ০011081119 8|| {16 69921108.| 11001211{98 11106 ০৪81001]]%)018069,\n121061118, 8(9, ঘ1(81]1]1]]19 8110 11]111218|9 8|0116 ভ1{]] 1008981189662 ৪8110 সছ8(21\"11]\n1192] 811101011015 ০৪1160 0) 31811060 0164.\n\n'[]]6 1]010.0118| 16001121]211(8 816 1100 9581116 101\" 6৮21)0116. ]']16 (৮229\n8110 8111000110( 01 1]10071219 11] [000 09622110 01201] ৪0116 08০01 |||(6 886,\n£9211021, ])]]1)9108] 801%41029, 11691] 918.009, 0000128.0011 2100.\n\n12211012100% 01 01016 01\" 17016 1]0012118 ০৪1] ০8096 01868962 01\" 01901021 11] 001\n06005. 1219689929 180 00০01\" 0062 00 1801 01 11]00712100 0৮21\" 8 10116 |)21100. 81'6",
+  "confidence": {
+    "word_count": 207,
+    "mean": 43.99,
+    "median": 42.49,
+    "minimum": 0.0,
+    "maximum": 95.34
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4605,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.621,
+  "page_elapsed_seconds": 3.928,
+  "peak_process_tree_rss_bytes": 317497344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

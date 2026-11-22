@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 213,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "17\n\nসাংশ্লেষিক আঁহ আৰু প্লীষ্টিক\n\n00104\n\nআমি যিবোৰ সাজ-পোছাক পিন্ধো, সেইবোৰ\nপ্রাকৃতিক আৰু কৃত্ৰিম উৎসৰ পৰা পোৱা যায়।\nতোমালোকে কিছুমান প্রাকৃতিক আঁহৰ নাম ক’ব\nপাৰিবানে ? বহু বিধ ঘৰুৱা বস্তু সাজৌতেও আঁহ ব্যৱহাৰ\nকৰা হয়। আঁহেৰে সজা কিছুমান সাধাৰণ বস্তুৰ এখন\nতালিকা প্রস্তুত কৰা। এইবোৰক প্ৰাকৃতিক আঁহেৰে\nসজা আৰু কৃত্ৰিম আঁহেৰে সজা হিচাপে পৃথক কৰা\nআৰু তালিকা 17.1ত লিখা।\n\nতালিকা 17.1: প্রাকৃতিক আৰু কৃত্ৰিম আঁহ ঃ\n\nতোমালোকে আগৰ শ্ৰেণীসমূহত পঢ়ি\nআহিছা যে কপাহ, উণ, পাট আদিৰ নিচিনা\nআঁহবোৰ উদ্ভিদ বা প্রাণীৰ পৰা পোৱা হয়।\nআনহাতে, সাংশ্লেষিক আঁহবোৰক মানুহে প্রস্তুত\nকৰে। সেইকাৰণে, এইবোৰক সাংশ্লেষিক বা\n\nমানৱ-সৃষ্ট আঁহ বোলা হয়।\n\n17.1 সংশ্লেষিক আঁহবোৰ কি?\n\nসূৃতাত মণি গাঁথি পোৱা ডিঙিৰ হাৰ এডালৰ একৰূপ\nচানেকি এটা মনত পেলাবলৈ চেষ্টা কৰা [(চিত্র 17.1\n(8)], নাইবা কিছুমান কাগজত মৰা ক্লিপ চিত্র 17.1\n(০) ত দিয়াৰ দৰে একেলগে লগ লগাই এডাল দীঘল\nশৃংখল সাজিবলৈ চেষ্টা কৰা। দুয়োটাৰ মাজত কিবা\nসাদৃশ্য আছেনে?\n\n17 =\n৷ / {৷\n\nচিত্ৰ 17.1: (8) মণি আৰু (০) কাগজৰ ক্লিপৰ\nদীঘল শৃংখল\n\nএটা কৃত্ৰিম আঁহ হৈছে একেলগে লগ লগোৱা সৰু\nসৰু গোটৰ শৃংখল। প্রতিটো সৰু একক আচলতে\nএকো একোটা ৰাসায়নিক পদাৰ্থ। এনেধৰণৰ বহুতো\nসৰু সৰু গোট লগ লাগি প্রস্তুত কৰা ডাঙৰ গোটক\nপলিমাৰ বা বহুযোগী বোলা হয়। পলিমাৰ শব্দটো দুটা\nগ্ৰীক শব্দৰ পৰা আহিছে: 120[%\" মানে বহুত আৰু\n47021” মানে অংশ বা গোট। গতিকে, পলিমাৰ এটা\nবহুতো একে গোট লগলাগি গঠিত হয়।\n\nসাংশ্লেষিক আঁহ আৰুপ্লাষ্টিক / ৪খণ['[][;][[0' }7[[81২};9 %1খ1) }}][.৪][[05 7",
+  "confidence": {
+    "word_count": 228,
+    "mean": 87.49,
+    "median": 95.42,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.456,
+  "page_elapsed_seconds": 3.759,
+  "peak_process_tree_rss_bytes": 317992960,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 91,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ-- ভাষা অধ্যয়ন (ব্যাৰহাৰিক ব্যাকৰণ)\n৪। বিপৰীতাৰ্থক শব্দ লিখ৷।\nএন্ধাৰ, সফল, স্বাভাৱিক, জাগ্ৰত, অমংগল, সক্ষম, আনুষ্ঠানিক।\n৫। যুৰীয়া শব্দৰোৰ পাঠৰ পৰা বিচাৰি লিখা।\n\n৬। বাক্য ৰচনা কৰা।\nআনুষ্ঠানিক, গতিপথ, প্ৰচেষ্টা, যন্তুণা, কৰ্তব্য, প্রশংসা\n\nগ--জ্ঞান সম্প্ৰসাৰণ\n\n৭। আনত্মবিশ্বাসে যে মানুহক জীয়াই থকাৰ প্ৰেৰণা দিয়ে সেই কথা পাঠৰ সহায়ত\n\nবুজাই লিখা।\nদিব্যাংগসকলৰ সবাৰংগীণ উন্নতিৰ বাবে অসম, সবৰ্শিক্ষা অভিযান মিছনে লোৱা কেইটামান\nপদক্ষেপৰ বিষয়ে উল্লেখ কৰা হ’ল-_\nদিব্যাংগ বা বিশেষভাৱে সক্ষম শিশু চিনাক্তকৰণ ৬ বিদ্যালয়ত নামভৰ্তি কৰণ\nসমল শিক্ষক নিয়োগ         ৬ বিশেষভাৱে সক্ষম ছাত্ৰীক বৃত্তি প্ৰদান\nদৃষ্টি বাধাগ্ৰস্তসকলৰ বাবে বেইল পাঠ্যপুথি, বেইল শিক্ষণ-শিকন সামগ্ৰী যোগান\nসহায়ক সা-সঁজুলি ,যেনে- শ্ৰৱণযন্ত্ৰ, হইল চেয়াৰ,তিনিচকীয়া চাইকেল, ফেন ইত্যাদি বিতৰণ।\n\nজানো আহা\n\nপ্ৰিন্সি,জুলী আৰু সংগ্ৰামজ্যোতিৰ দৰে শিলচৰৰ উদাৰবন্দৰ পংকজ চক্ৰ'ৱতীও\nতেনে এজন দিব্যাংগ লোক। দৃষ্টিহীন যদিও তেখেত একেধাৰে সুৰকাৰ,\nপ্ৰতিষ্ঠা কৰি ছাত্ৰছাতীসকলক সাংস্কৃতিক দিশত আগবঢ়াই নিয়াত আগভাগ ৷, 1\nলৈছে। সংগীতক পেছা আৰু নিচা হিচাপে লোৱা পংকজ চক্ৰৱৰ্তীয়ে ‘কবি 7);\nসুৰদাস সন্মান’ লাভ কৰিবলৈ সক্ষম হৈছে। অসমৰ মাননীয় ৰাজ্যপালে তেখেতক এই সন্মান\nপ্রদান কৰে।",
+  "confidence": {
+    "word_count": 156,
+    "mean": 86.25,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 36 diacritics",
+        "Detected 36 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.679,
+  "page_elapsed_seconds": 2.928,
+  "peak_process_tree_rss_bytes": 289325056,
+  "tesseract_warnings": [
+    "Detected 36 diacritics",
+    "Detected 36 diacritics"
+  ],
+  "processed_this_run": true
+}

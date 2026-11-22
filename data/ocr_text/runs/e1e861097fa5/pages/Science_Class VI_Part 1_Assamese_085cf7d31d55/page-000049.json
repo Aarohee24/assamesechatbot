@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 49,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[] জ্ৰিয়া-কলাপ 2.8:\nবিভিন্ন প্রকাৰৰ প্রাণী\n\nএ\n৯.\nৰলে\n\nওপৰৰ তালিকাৰ ছবিবোৰ চাই কি বুজিলা ? ছাৰ/বাইদেউক কোৱা৷\n\nনীৰৱ উপত্যকা সুৰক্ষা আন্দোলন : সংৰক্ষণৰ বিজয়\nই কেৰেলাৰ পালাক্কাড\nজিলাৰ এখন অৰণ্য সম্বন্ধে\nঅনুপ্রেৰণামূলক কাহিনী; যি ইয়াৰ\nসমৃদ্ধ জৈৱ বৈচিত্্য আৰু সৌন্দৰ্যৰ\nবাবে জনাজাত। এই আন্দোলনৰ\nলক্ষ্য আছিল সাধাৰণ নাগৰিকসকলৰ\nপ্রচেষ্টাৰ জৰিয়তে আৰ্দ্ৰ চিৰসেউজ\nঅৰণ্য নীৰৱ উপত্যকাৰ অস্পৰ্শনীয় সৌন্দৰ্য ৰক্ষা কৰা। অৰণ্য সংৰক্ষণৰ বাবে সংকল্পবদ্ধ\nব্যক্তিসকলে এক দশক ধৰি কুম্থিপুবা নদীত জলবিদ্যুত বান্ধ নিৰ্মাণৰ বিৰোধিতা কৰিছিল।\nপ্রবন্ধ লিখা, সম্পাদকসকললৈ পত্ৰ লিখা আৰু ব্যাপক সজাগতা অভিযানকে ধৰি সকলো\nসুৰক্ষা লাভ কৰা৷ ঘটনা ভাৰতত সংৰক্ষণৰ বাবে এক যুগান্তকাৰী বিজয় হিচাবে পৰিগণিত\nহ’ল।\n\nভমভঞ্ডতেওঁত তত তত তত তত তত তত ০০০০০ ০০০০০ ০০০০০ ০,০০০,ৰ",
+  "confidence": {
+    "word_count": 112,
+    "mean": 79.76,
+    "median": 93.72,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.668,
+  "page_elapsed_seconds": 3.103,
+  "peak_process_tree_rss_bytes": 365248512,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

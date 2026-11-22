@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 97,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এ তলৰ প্ৰশ্নমবোৰৰ উত্তৰ লিখা।\n(ক) মাছমৰীয়াহঁতৰ কথা শুনি অনাগতবিধাতাই লগৰীয়া মাছবোৰক কি ক’লে?\n(খ) অনাগতবিধাতাই কোৱা কথাটো প্ৰত্যুৎপন্নমতিয়ে কিয় সমৰ্থন কৰিলে?\n(গ) যদ্ভৱিষ্যই কিয় মৃত্যুক সাৱটি ল’ব লগা হ’ল?\n(ঘ) আঁকোৰগোঁজ মনোভাৱে মানুহক কেনেদৰে বিপদত পেলায়?\n\nলী  তলৰ আধৰুৱা বাক্যবোৰ সম্পূৰ্ণ কৰিবলৈ পাঠটো পঢ়া আৰু খালী অংশটো পূৰ\n\n(ক) এখন বিলত ভালেমান ...১১১১১১১১১১১১১১০৯%০৯০০০০১০০০, | সেই বিলতে ....................\nএকেলগে বাস কৰি আছিল। এদিন অনাগতবিধাতাই পুখুৰীত সাঁতুৰি-নাদুৰি\nতে ০৬৬৬০৬৮৬০০০৬০০০৬০০০০৬০৮০০০৬০০০০০০০ ০০৩৫৬ বন ঠ+০, মাছমৰীয়া কেইজনমানে কথা পতা\nজিনিলে\" অভ 5555৯ ৬০5555ড84।ীী সি 55555 সস5সসস5স5স5স5সভস5স 5স55স5স5945454\nমৰা নাই, ইয়াত নিশ্চয় বহুতো ডাঙৰ ডাঙৰ মাছ আছে। গতিকে কাইলৈ\nডৰ ” এইবুলি কৈ মাছমৰীয়াসকল ঘৰা-ঘৰি গুচি গ’ল।\n\n(খ) যদ্ভৱিষ্যজছিবিজলীবা ০ কী এ০দ-নদনদিনিভনননননননননননভনননডতনডননন ৷ পাছদিনাখন\n/('|৮ ২ ৷ কৰ্‌, ৯ দোলেপেলালে। তেওঁলোকে জালেৰে\nযদ্ভৱিষ্যৰ ১-১--১--১১১২২০০০০০০০০০০০০০০০০০০০০০০০০৷ ঘৰলৈ লৈ গ’ল।\n\n== ছাত্ৰ-ছাত্ৰীক সুবিধা অনুসৰি কাযৰ্টো বহী বা শ্লেটত কৰাব।\nখ -- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n812, {$/, যুক্তাক্ষৰ ভাঙি পঢ়ো আৰু লিখোঁ আহা\n\nস্ন,         ন্ক,         শ্ন,, খশ্র, স্ব        ন্দ, তন্ময়         স্থূ\n\nঅন্ন ব্ন ন +ন নই নই বন্ন _ প্রসন্ন, প্রত্যুৎপন্নমতি\n\nমক্কা ক ক-+ক কই কই ক্ষ মক্কা,বৃক\nশএলস্নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 175,
+    "mean": 72.47,
+    "median": 92.13,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 10 diacritics",
+        "Detected 10 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.956,
+  "page_elapsed_seconds": 4.341,
+  "peak_process_tree_rss_bytes": 246255616,
+  "tesseract_warnings": [
+    "Detected 10 diacritics",
+    "Detected 10 diacritics"
+  ],
+  "processed_this_run": true
+}

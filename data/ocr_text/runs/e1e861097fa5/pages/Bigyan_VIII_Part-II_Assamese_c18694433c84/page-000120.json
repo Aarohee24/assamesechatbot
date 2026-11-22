@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 120,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ":1]/*1}\"1][']'1ং\n\n14\n\n১৫)[/][খ])\n\n[0ম 00 ৮00 ০0116 00 1৩10; 01808, '])21100'\n18 0৮211] ৮001\" 90110017 00. ০011.610 1210 ঘ 68.91]\n{]18{ 901]60116 19 8{ ৮0001\" 0001\" স]]2া] 16 11001\n01 900. 11681\" 116 900110 01 {])6 000109]1[. [/[091\n01 {])6 01]16 ৮00. ০৪81] 1]18]06 0000 {]18{ 90111601)2 19\n812|[2[080]01116 ৮000 00% ]09{116811116 {]6 1000902|)9.\n\n00] 1]]18]]{ ]18৮6 ])|8)৮60 ৪ 98116 ০৪1160\n11106 8110 ৪626], ][0] 019 981]06 ৪8% ]2721901] 19\n0|170-10[0620 8110 ]189 10 ০৪]] 1016 112111811]11]16\n])[8%/6219. [][0\"8% 19 016 0]1101010620 ])21901] 8016 00\n\n90299 স্]]10]] ])]8)৮21' 19 ০10929010 |1261?\n\n11077710771117717\n\n১০0110 ])]8)9 811 11]7|2010811{ 10]6 1]] 001\"\n1৮৬০৪. [[119][০8 09 0 ০010]1]]0111086 ||] 0106\n81100121. ঘ্ব%ম6 11680\" 8 ৮৪112) 01 9001109 11] 001\"\n90110011011169.\n\n[8] 8 1190 01 9001109 00 ]1681\" 11] ৮001\"\n90011\"0100110111969.\n\n][] {]6 1]]0910. 1001]] 01 ৮ঠ00[' ৪০]100]\n০00. 168 076.9001108 ])1000060 06% 1]]09108|\n1]1907011]1211(9 |1|(6 11026, 10.00[0, ]181171701]101]], 60০.\n(\"16 14.1).\n\n]]0%ম 19 900110 1210000607 ]]0ছম 0029 1\n089৬6] [01] 0116 .)1806 0 81100121/ []0%% 00\nঘ্য০ 11680\" 900110.? ঘ্ব]]% 816 90116 9001109 10002\n{1811 01219? ঘ্থ/6 9]18|| 0190099 9001) 0026900119\n\n1]] 118 ০118|)21',\n\n118. 14.1 ১ ,১০)?০ 17770151001 17751770777627115\n\n105\n\nবিজ্ঞান /90খফ ৷",
+  "confidence": {
+    "word_count": 190,
+    "mean": 43.72,
+    "median": 38.76,
+    "minimum": 0.0,
+    "maximum": 96.29
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.42,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.343,
+  "page_elapsed_seconds": 3.628,
+  "peak_process_tree_rss_bytes": 257236992,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

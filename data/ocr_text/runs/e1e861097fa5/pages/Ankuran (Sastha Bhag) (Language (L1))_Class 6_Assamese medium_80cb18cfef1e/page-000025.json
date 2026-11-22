@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 25,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ইংৰাজ আমোলৰ সময়তহে ‘অসমীয়া’ শব্দটো বেছিকৈ ব্যৱহৃত হ’বলৈ ধৰে। সেই সময়তে ডেস্ক,\nবেঞ্চ, চক্‌লেট, টেবুল, পে’ন, ফুটবল, বিস্কুট আদি ,\nঅগণন ইংৰাজী শব্দ আমাৰ ভাষাত সোমাই পৰিল। (নল\nআমাৰ চিৰ চেনেহী ভাষা জননী পৰিচিত হৈ থাকিব।”\nখুড়াকে অলপ চিন্তা কৰি ক’লে--- “লগতে জানি থোৱা\nযে অসমীয়া ভাষাৰ বিকাশৰ আলোচনাৰ ক্ষেত্ৰত বৈদিক,\nসংস্কৃত,প্রাকৃত আৰু অপভ্ৰংশ ভাষাৰ স্তৰবোৰৰ বিষয়েও\nঅধ্যয়ন কৰিব লাগে। ডাঙৰ হ’লে নিশ্চয় এই বিষয়ে\nভালদৰে জানিব পাৰিবা৷”\n\nনয়না আৰু ইফ্‌টিচামে খুড়াকৰ পৰা ভাষাৰ বিষয়ে কিছু কথা জানিব পাৰি আনন্দিত হ’ল। দুয়ো\nভৱিষ্যতলৈ ভাষাৰ বিভিন্ন স্তৰ সম্পৰ্কে জানিবলৈ মনতে আশা পুহি ৰাখিলে৷\n\nক্ৰিয়া-কলাপ\n\n১) পাঠটো শুদ্ধ উচ্চাৰণেৰে খোকোজা নলগাকৈ পঢ়া।\n\n২) ভউত্তৰ দিয়া।\n(ক) নয়নাহঁতে খুড়াকৰ পৰা কিহৰ বিষয়ে শুনিবলৈ ইচ্ছা কৰিছিল?\n(খ) হেম সৰস্বতীয়ে ৰচনা কৰা, তোমাৰ পাঠত উল্লেখ থকা পুথিখনৰ নাম কি?\n(গ) অলিখিত বা মৌখিক সাহিত্য মানে কি?\n(ঘ) ভাষাৰ দুটা উপাদানৰ নাম লিখা ৷\n(৬) অসমীয়া ভাষাটোৱে কেতিয়া স্বকীয় ৰূপ লাভ কৰিবলৈ আৰম্ভ কৰিলে?\n(চ) ‘অসমীয়া’ শব্দটোৰ প্রচলন কাৰ আমোলত বেছিকৈ হৈছিল?\n\n৩) শব্দ সম্ভাৰ বা অভিধান চাই শব্দাৰ্থ লিখা।",
+  "confidence": {
+    "word_count": 164,
+    "mean": 90.48,
+    "median": 96.19,
+    "minimum": 28.2,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.335,
+  "page_elapsed_seconds": 3.757,
+  "peak_process_tree_rss_bytes": 280735744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

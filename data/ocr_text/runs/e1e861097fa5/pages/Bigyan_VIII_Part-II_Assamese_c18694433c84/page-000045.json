@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মানচিত্ৰত অসমৰ সংৰক্ষিত এলেকাসমূহ দেখুওৱা হৈছে?\n\nধৰিছে। সেইবোৰ ৰক্ষা আৰু সংৰক্ষণৰ বাবে চৰকাৰে _- সংৰক্ষিত অঞ্চলবোৰ জীৱ বৈচিত্ৰ্য সংৰক্ষণৰ বাবে\nকিছু নিয়ম, পদ্ধতি আৰু নীতি বান্ধি দিছে। অভয়াৰণ্য,\n\nএ   অঞ্চল। তোমালোকে       ৰ\nৰাষ্ট্ৰীয় উদ্যান, জীৱমণ্ডল সংৰক্ষিত অঞ্চলসমূহে তাত  মী ত্ৰিটা আল| তে      জানা যে জীৱ\nবাস কৰা উদ্ভিদ আৰু প্রাণীবোৰক সুৰক্ষা দিয়াৰলগতে বৈচিত্ৰ্য হ’ল কোনো এটা অঞ্চলত পোৱা বিভিন্ন\n\nইহঁতৰ সংৰক্ষণ নিশ্চিত কৰে।                  উদ্ভিদ, প্রাণী আৰু অণুজীৱৰ ভিন্নতা। জীৱমণ্ডল\nক্ৰিয়াকলাপ 11.3                    সংৰক্ষিত অঞ্চলসমূহে সেই অঞ্চলবোৰত জীৱ\n\nবৈচিত্ৰ্য আৰু স্থানীয় সংস্কৃতিসমূহ ৰক্ষা কৰাত সহায়\nকৰে। জীৱমণ্ডল সংৰক্ষিত অঞ্চলে আন সংৰক্ষিত\nঅঞ্চলসমূহকো অন্তরভুক্ত কৰিব পাৰে। পাচমাৰী\nজীৱমণ্ডল সংৰক্ষিত অঞ্চলৰ ভিতৰত ‘সাতপুৰা’\n11.4 জীৱমণ্ডল সংৰক্ষিত অঞ্চল ঃ           নামৰ এখন ৰাষ্ট্ৰীয় উদ্যান আৰু ‘বৰি’ আৰু পাঁচমাৰী\n\nল’ৰা-ছোৱালীসমূহৰ সৈতে অধ্যাপক আহমদ আৰু নামৰ দুখন অভয়াৰণ্য আছে (চিত্ৰ-11.1)।\nকৃষ্ণ দাসে জীৱমণ্ডল সংৰক্ষিত অঞ্চলত প্রৱেশ\nকৰিলে। কৃষ্ণ দাসে বৰ্ণনা কৰি গ’ল যে জীৱমণ্ডল\n\n_ উদ্ভিদ আৰু প্ৰাণীৰ সংৰক্ষণ / ০0.খ9ংখ]10খ 01.খ7'5 খা) এখা1/%.5                                                                                               30;",
+  "confidence": {
+    "word_count": 147,
+    "mean": 86.33,
+    "median": 95.65,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.771,
+  "page_elapsed_seconds": 3.045,
+  "peak_process_tree_rss_bytes": 330252288,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

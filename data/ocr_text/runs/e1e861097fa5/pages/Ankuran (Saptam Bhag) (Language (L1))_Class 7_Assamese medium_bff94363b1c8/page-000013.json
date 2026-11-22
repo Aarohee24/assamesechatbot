@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক-- পাঠভিত্তিক ক্ৰিয়া\n\nক্ৰিয়া-কলাপ\n\n১। বৰগীতটো শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে গাওঁ আহা।\n২। বৰগীতটো শুদ্ধ আৰু স্পষ্টভাৱে পঢ়া।\n৩। তলৰ প্ৰশ্নসমূহৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) বৰগীত ৰচনা কৰা মহাপুৰুষ দুজনাৰ নাম কি?\n(খ) ‘তেজৰে কমলাপতি’ নামৰ বৰগীতটোৰ ৰচক কোন?\n(গ) ‘তিমিৰ ফেৰিয়া’ কি বাজ হয়?\n(ঘ) যশোদাই কৃষ্ণক পুৱা কিয় জগাইছিল?\n\nব্যাখ্যা কৰোঁতে সাধাৰণতে তলৰ স্তৰ তিনিটা ৰক্ষা কৰিব লাগে।\n\nপ্ৰথম স্তৰ ঃ$\n\nপ্ৰসংগ -- প্ৰসংগত ব্যাখ্যা কৰিবলৈ দিয়া কথাখিনি কোনে ৰচনা কৰা, কি পাঠৰ\n\nপৰা লোৱা হৈছে লিখিব লাগে। পাৰিলে মূল গ্ৰন্থৰ নাম উল্লেখ কৰিব লাগে।\n\nসংগতি -= প্ৰসংগত ব্যাখ্যা কৰিবলৈ দিয়া কথাখিনি কোনে, কেতিয়া, কাক, কি\n\nপ্ৰসংগত কৈছিল স্পষ্টকৈ লিখিব লাগে।\n\nব্যাখ্যা -- এই স্তৰত ব্যাখ্যা কৰিবলৈ দিয়া কথাখিনিৰ মূলভাব সহজ-সৰল ভাষাত\n\nবুজাই লিখিব লাগিব। পুৰণি অসমীয়া ভাষাৰ ব্যাখ্যা কৰিবলৈ দিলে ব্যাখ্যাৰ তলত কঠিন\n\nশব্দৰ অৰ্থ দিব লাগে।\n\nব্যাখ্যা কৰ৷(উদাহৰণ)--4 ‘কহয় মাধৱ মাই! কিনু তপসাইলা।\n\nত্ৰিজগত পতি হৰি ৰাখোৱাল পাইলা”।।\n\nপ্ৰসংগ -- উক্ত পদফাকি আমাৰ পাঠ্যপুথি ‘অংকুৰণ’ (সপ্তম ভাগ)ৰ ‘তেজৰে\n\nকমলাপতি’ নামৰ পাঠটিৰ পৰা তুলি দিয়া হৈছে। ব্ৰজাৱলী ভাষাৰ এই বৰগীতৰ\n\nঅংশটো শ্রী শ্ৰীমাধৱদেৱে ৰচনা কৰা।\n\nসংগতি -- ব্ৰজৰ শিশুসকলে পুৱাই গৰু চৰাবলৈ ওলাইছে। আ্রীকৃষ্ণৰ বন্ধু দাম-\nও\n\nঞ্ বৰগীতটো গোৱাত প্রয়োজন অনুসৰি হানীয় সমল বাঙ্চিৰ সহায় ল’ব।",
+  "confidence": {
+    "word_count": 191,
+    "mean": 87.67,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.895,
+  "page_elapsed_seconds": 3.133,
+  "peak_process_tree_rss_bytes": 283103232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

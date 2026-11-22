@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 39,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত       তত\n\nমচাৰিফে জাকাত বোলে৷\n\nপ্ৰশ্ন- কোন কোন ব্যক্তিক জাকাত দিব পাৰি?\n\nউত্তৰ- জাকাত লোৱাৰ উপযুক্ত ব্যক্তিসকল হ’ল- ১ ৷ ফকীৰ ()>২৯) যাৰ ওচৰত\nসামান্য সম্পত্তি আৰু আচবাব আছে; কিন্তু নিচাবৰ সমান নহয়, ২ ৷ মিচকীন\n(7>-=---+) যাৰ ওচৰত কোনো সম্পত্তি বা আচবাব আদি নাই,৩।\nখণগ্ৰস্ত ()1---> )2), যি ব্যক্তি আনৰ ওচৰত ষধাণী আৰু যাৰ ধাৰ পৰিশোধ\nকৰি নিচাব পৰিমাণৰ ধন তেওঁৰ হাতত নেথাকে, ৪ ৷ প্ৰবাসী (/১---), যি\nব্যক্তি ভ্ৰমণ কালত বিক্তহত্ত হৈছে, তেওঁলোকৰ অভাৱ মোচনৰ বাবে\nজাকাত দিয়া সিদ্ধ।\n\nপ্ৰশ্ন- ইছলামী শিক্ষানুষ্ঠানবোৰত (৭--+\")'--*} <)\" )|4-*) জাকাত দিব পাৰিনে?\n\nউভ্তৰ- শিক্ষাৰ্থীসকলক ( 0 +=]. =--]৷_1=) খৰচৰ কাৰণে জাকাত দিয়া সিদ্ধ।\nশিক্ষানুষ্ঠান পৰিচালকসকলক শিক্ষাৰ্থীমকলৰ খৰচৰ কাৰণে জাকাত দিয়াত\nকোনো ক্ষতি নাই৷\n\nউত্তৰ- ১। ধনী লোক ()1-}4৷.+), যাৰ ওচৰত নিচাব পৰিমাণ সম্পত্তি আছে'আৰু\nপ্ৰয়োজনতকৈ অধিক অন্য সম্পতণ্ডি আছে। যাৰ ওচৰত দৈনন্দিন ব্যৱহাৰৰ\nউপবৰিও তামৰ বাচন এখন আছে আকু ইয়াৰ মূল্য নিচাবৰ পৰিমাণ যদিও\nএই ব্যক্তিজনৰ ওপৰত জাকাত ফৰজ হোৱা নাই তথাপিও জাকাত দিয়া বা\nলোৱা বৈধ নহয়। ২। চৈয়দ আৰু বনি হাচিম, বনি হাচিম মানে হজৰত\nহাৰিছ বিন আব্দুল মত্লিব, হজৰত জাফৰ (ৰাঃ), হজৰত উকাইল (ৰাঃ),\nহজৰত আবৃাছ (ৰাঃ) আৰু হজৰত আলী (ৰাঃ)ৰ বংশধৰসকলক বুজাইছে।\n৩ । নিজৰ পিতৃ-মাতৃ আৰু ওপৰি পুৰুষসকল। ৪ ৷ পুত্ৰ-পুত্ৰী,নাতি-নাতিনী\nআদি পৰব বংশধৰসকল ৫ ৷ স্বামীয়ে স্ত্ৰীক আৰু স্বীয়ে স্বামীক জাকাত\nদিয় সিদ্ধ নহয়। ৬। কাফিৰ (১) ) লোকক জাকাত দিয়া সিদ্ধ ন য়। ৭।\nধনীলোকৰ নাবালিগ সন্তানক জাকাত দিব নোৱাৰি।",
+  "confidence": {
+    "word_count": 225,
+    "mean": 81.91,
+    "median": 92.95,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.849,
+  "page_elapsed_seconds": 2.975,
+  "peak_process_tree_rss_bytes": 240885760,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

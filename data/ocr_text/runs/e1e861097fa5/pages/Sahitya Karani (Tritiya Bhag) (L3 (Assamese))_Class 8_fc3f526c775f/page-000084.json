@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 84,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫। পাঠত পোৱা যুক্তাক্ষৰ থকা শব্দ কেইটামান বাছি উলিয়াই লিখা।\n৬। কি কি আখৰ যোগ হৈ যুক্তাক্ষৰটো গঠন হৈছে ভাঙি লিখা।\n\nষ্ট =    +    চেষ্টা\nশ্র      +    পৰিশ্ৰম\nক্ত = [7] + [ |] শক্তি\nন্ম = [] + [_] সন্মান\n৭। যুক্তাক্ষৰ গঠন কৰা।\nস+ক   = [স্ক\nজ-+জ   =\nণ৭ল+   ঢু\nষ+ট+ৰ =\nগ--_ জ্ঞান-সম্প্ৰসাৰণ\n\n৮। সৰুৰে পৰা সকলোৱে ভাল হ’বলৈ হাবিয়াস কৰে। জৰ্জ ৰাছিংটনে তেনে\nহাবিয়াস কৰি একাগ্ৰতা আৰু পৰিশ্ৰমৰ বলত আমেৰিকা যুক্তৰাষ্ট্ৰৰ ৰাষ্ট্ৰপতি\nহৈছিলগৈ। এই কথাষাৰৰ আলমত -\nভাবা আৰু কোৱ৷৷।\n\n(ক) তুমি ভৱিষ্যতে কি হ’বলৈ ইচ্ছা কৰা?\n\n(খ) সেই ইচ্ছা পূৰণ কৰিবলৈ এতিয়াৰে পৰা তুমি কি কি কৰিব লাগিব?\n\n৯। দফাটো পঢ়ি প্রশ্ন সমূহৰ উত্তৰ দিয়া।\nতোমালোকে বাৰু ঘৰুৱা কাম-বনবোৰ কৰানে ? ঘৰুৱা কাম মানে ঘৰ সৰা, বিছনা\nপৰা৷, দুৱাৰ-খিৰিকী খোলা,নিজৰ কাপোৰ আৰু নিজৰ খোৱা বাচন নিজে ধোৱা ইত্যাদি।\n\n== নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 138,
+    "mean": 85.95,
+    "median": 93.28,
+    "minimum": 2.37,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.527,
+  "page_elapsed_seconds": 2.803,
+  "peak_process_tree_rss_bytes": 256884736,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

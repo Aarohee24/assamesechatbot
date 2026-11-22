@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 52,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত বিপৰীত অৰ্থ বুজোৱা শব্দ লিখা।\n\nজ্ঞান ৰহৰ ঙ  % ]]]]][]]]]] [|     সৰল দহো]    সাধাৰণজাভা ভাভা ভাভা ভভভভাভভকাকতাত\nচোকা\" তাগতাাগত    (ৰোগীশক্ত লস কত তক তক ৮২৯৬৫    সুখ্যাতিভঙঞভকমভঙতভভ্মনভভকতম০\nগ --- জ্ঞান সম্প্ৰসাৰণ\n\n8 জানো আহা\n\nভাব সম্প্ৰসাৰণ -- জোকৰ মুখত চূণ দিয়া। ইয়াৰ সাধাৰণ অৰ্থ হ’ল যথোপযুক্ত\nপ্রত্যুত্তৰ দিয়া।\n\nব্যাখ্যা-- জোক এবিধ ক্ষুদ্ৰ জীৱ। সাধাৰণতে গছ, বন, পানীৰ ডোঙা, জেকা\nঠাই আদিত ইয়াৰ বসতি। ই মানুহ, গৰু; ম'হ আদিৰ দেহৰ পৰা তেজ শুহি খায়।\nজোক থকা ঠাইলৈ মানুহে আহ-যাহ কৰিলে মানুহৰ গাত জোক লাগি ধৰে আৰু\nবগাই গৈ আঙুলিৰ ফাঁক, ভৰি, কান্ধ,ডিঙি আদিত লাগি ধৰি তেজ শোহে। তেতিয়া\nতাক এৰুৱাবলৈ চূণ ব্যৱহাৰ কৰা হয়। সাপৰ দেহত ফেনাইল পৰাৰ দৰে জোকৰ\nমুখত চূণ পৰিলে ই কোঁচ খাই যায়। চূণৰ মাত্ৰা বেছি হ’লে ই মৰি যায়। কোনো\nমানুহৰ কথাৰ যোগ্য প্রত্যুত্তৰ দিবলৈ এই বচনফাকি প্রয়োগ কৰা হয়। বাণীকান্ত\nকাকতিয়ে ডক্টৰেট ডিগ্ৰী লাভ কৰাৰ পাছত কৌতুক-প্ৰরিয় কেইজনমানে তেখেতক\nডাক্তৰ সাজি তেখেতৰ ওচৰলৈ ৰোগীক চিকিৎসাৰ বাবে পঠিয়াইছিল। তেওঁলোকে\nজানিছিল যে কাকতি প্রকৃত চিকিৎসক নহয়। কাকতিয়েও, তেখেতে যে ৰোগী\nচিকিৎসা কৰিব পাৰে, সেই কথা হোমিওপেথিক চিকিৎসা বিদ্যা শিকি লৈ কৰি\nদেখুৱালে আৰু চকু-চৰহাসকলক যথাযোগ্য উত্তৰ দিলে। তেতিয়া সেই কৌতুক-\nপ্ৰিয় মানুহকেইজনে তবধ মানিলে। এনেদৰে কাকতিয়ে জোকৰ মুখত চূণ দিলে।\n\nৰ্্\n\nহী তলৰ ফকৰা-যোজনাটো শিক্ষকৰ সহায়ত বুজি লৈ বহলাই লিখা।\n\nযি মূলা বাঢ়ে তাৰ দুপাততে চিন।\n\nক_স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 217,
+    "mean": 83.34,
+    "median": 93.7,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.46,
+  "page_elapsed_seconds": 4.861,
+  "peak_process_tree_rss_bytes": 262983680,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

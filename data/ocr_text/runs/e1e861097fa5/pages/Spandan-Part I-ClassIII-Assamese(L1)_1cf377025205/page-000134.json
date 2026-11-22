@@ -1,0 +1,62 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 134,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "\"হ্‌\n\nঅধ্যায় ১ ৰ\nউৎসৱ-পাৰ্বণ\n\nপাঠ ১\n\n৷ অ নৱ এ কেম কেৱ ও ত কৱ জে ৯, ও ৷ বেৱাৱ ও য় ভো জা ডে ৱা কত ত ও যঃ ৷ জে জা ৰৱ ও জে ভজ “লে “নৱ তা ০, ও ৷ তত ৷ যা ভো ত জে জে জে বেত ০ ভাৱ ৷ তত ৷ ও ০ ৷৷ ভৱ ডা যা কাত জে ত ই“ ভই এহ বতা? চ ও ০ ও এড এ৷ এ >, ওড৮ এ ===, =, == == ==, => ===\n\n। আমি বছৰত বিভিন্ন উৎসৱ পালন কৰোঁ । অঞ্চল আৰু সমাজ ভেদে উৎসৱবোৰৰ ধৰণ-কৰণ বেলেগ বেলেগ । ।\n\n€৮ ও অন ত এচ ও আচ কচ আচ আচে তা ত 5 ও আটে ওঠ ভাট আচ মচ এচ তাচ ওচ ওও০ আটে যচ আচ আচ ভা৮ ও ভান তাচ তা আচ ও আচ 5 আঠে জত আও ও ওচ ওঠ আচ ভয় ত আচ আচে আচে ভা ডাচ ভন ওচ৮ ডাচ ত আও আটি ও আদ শল ভা0 এচি ডাঠ ৯ 9 ও ডা9 আচ = আচ 2 ওচ ওড০ আচ চে তাচ ত চি তাচ ডাচ ডাচ ওা ওচ ভা9 আচ উচ ড5 9 আচ ওচচ আচ শচ তাচ এচ ভি আাচ ডাচ অ ৬ ==\n\n=     পুহ মহীয়া ৰাতি। প্রচণ্ড ঠাণ্ডা পৰিছে। চোতালত একুৰা জুই জ্বলাই চুনু আৰু\nমুনুৰ ককাক বহিছে। সিহঁতে জুইকুৰাৰ ওচৰতে ককাকৰ কাষত কুঁচি-মুচি বহিল। ঘৰত\nসকলো মাঘবিহুৰ যা-যোগাৰ কৰাত ব্যস্ত।\nচুনুৱে ক’লে--- “বিহু আহিলে বৰ ভাল লাগে, নহয়নে মুনু?”\nমুনুৱে ক’লে--- “অ হয়! পিঠা-পনা খাবলৈ পাওঁ৷”\n\nস্পন্দন ১ | তৃতীয় শ্ৰেণী\n\n১৩৪",
+  "confidence": {
+    "word_count": 1,
+    "mean": 30.54,
+    "median": 30.54,
+    "minimum": 30.54,
+    "maximum": 30.54
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.184,
+  "page_elapsed_seconds": 5.488,
+  "peak_process_tree_rss_bytes": 231387136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

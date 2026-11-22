@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "= | আমাৰ এঁতিহ্য       পাঠ ১\nচৰাইদেউ ভ্ৰমণ\n\n>৮==>-=ন>=ন=ল>ন=>=>ন=লললণ.লতননে।ল৷ই/_৷ে্ইনিননননন়নলনতনদইটিকবদন_নট্৪ই-ননব(দ{টটল >ল৷।তী্ালনত্্*/>নতনিত:=>তন{তন>ননন>৯ত” শ ল৷ট|দল নলন্ন্্ন্নট|(ঠ(ট্নট্‌ট্{্ননননননতন্ন্দ্ো্ন_|ন{(-্পতক্ৰ\n\n। অতীজৰপৰা আমাৰ মাজত থকা কিছুমান শিল্প, কলা-সংস্কৃতি, উৎসৱ, কীৰতিৰ্চিহন আদিয়ে আমাৰ জাতীয় পৰিচয় !\n\n৷ বহন কৰিছে। এইবোৰ আমাৰ এতিহা। এইবোৰকলৈ আমি গৌৰৱবোধ কৰোঁ। এই এতিহাবোৰে যেতিয়া ৰাষ্ট্ৰীয় !\n\n। আৰু বিশ্বমানৰ ফীকৃতি পায়, তেতিয়া আমাৰ মন আনন্দত উথলি উঠে। এনে এক গৌৰৱৰ দিশৰ বিষয়ে এই পাঠটিৰ\nএ জৰিয়তে জানো আহা--\n\n*৮=ল=ললললস্লস=সকতপসললতকতপশলসতলনলন্দলনত নতন্বনশললন্্ললল নল তলত নলতললনলনন্ণধলনন্দলনলন্লনকলপসল লকলল ললনললতন্দনন্ননীপ্নন্ননী-ললন্দনন্দষলতল--ললতন্্ললপতলকপললকত\n\nআজি বন্ধৰ দিন। শ্ৰুতিয়ে পুৰণি কিতাপ পঢ়ি দিনটো কটাবলৈ মন কৰিলে। ঘৰৰ\nকিতাপৰ আলমাৰীটো শ্ৰুতিয়ে খুলি ল’লৈ ৷ এখন এখনকৈ তাই বহুকেইখন কিতাপৰ পাত\nলুটিয়ালে। তেনেতে এখন দিনলেখাত তাইৰ চকু পুৰিল।\n\nদিনলেখাখনৰ প্রথম পাতখন লুটিয়াইয়ে তাই আচৰিত হ’ল৷ দিনলেখাখনৰ ছবিখনত\nথকা ল’ৰাজন দেখিবলৈ সাইলাখ শ্ৰুতিৰ/সৰু ভায়েকৰ দৰে৷ ছবিখনৰ তলত তাইৰ\nপিতাক- ‘ৰমেন চহৰীয়া’ৰ নাম লিখা আছে। গোট গোট আখৰৰ লেখাবোৰ দেখি শ্ৰুতিৰ\nবৰ ভাল লাগিল। তাই পাতবোৰ লুটিয়াই দিনলেখাখন পঢ়িবলৈ আৰম্ভ কৰিলে। হঠাৎ\nএটি পৃষ্ঠাত তাইৰ চকু ৰৈ গ’ল। তাত লিখা আছিল ‘চৰাইদেউ ভ্ৰমণ’। তাই আগ্ৰহেৰে\nলেখাটো পঢ়িবলৈ আৰম্ভ কুৰিলে।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 167,
+    "mean": 82.74,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.542,
+  "page_elapsed_seconds": 5.719,
+  "peak_process_tree_rss_bytes": 229924864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

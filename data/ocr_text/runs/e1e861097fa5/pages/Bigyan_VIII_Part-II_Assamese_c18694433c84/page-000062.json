@@ -1,0 +1,63 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 62,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "'ঢো[0|212ে []}৮ মান] ]|8]72|,\n18711\n1,        ভ্[ষয়)]৮5 0] ||] বাচা 0{[ দ%1}]}0|1007),\nী,         &% 70014 ধর|ঘাখ]7[2 []|ো]া)[||0]] ]}|700|| ]]000]7184ল7%0| 5])600028.\nমৰ,          _।0139600021106 ॥0|[ (||06 918[10|1;\nএনখ083\n1,          5|}%865 ৭%|1 |] |1%6 দয])18|14],\nক্          [665 10007] ।]৮ |।৮ ৪ ]})]1|0]80 |19|?|[ন8],\n4         \"97160; 01 2 |71)05,; আ0]])35 9120 []0]07047 83728 5102,8 [61070 178.97] 31063.\n]                              ফু\nএ\n[3\n\n41 25217 1৮) ংা ] বজ |)\n\n[',।চ'][|[]{[ল] |'}][]]}[}[7 ।%।'|]\"%'{||{5 1]]]{] [\"[1)|৮%\"]স\n\n1_ 9\n\n[*|]1]1 0151, [1৮৮ |]]চোল।| [|)[৪]|]9 |]}] স0়[[[ |00)[[[);; 00|1]]18. 1]]|5 8690211110৮ ৮৯\" এ]\nভ]. 8112 1721\" ]]} 8 ][]1|27]98|]7চ6৮ূ|1]] [18% আছ,\n\nশিচা0|8৪৮ 0][৮৮][ []]8| |]]185 কচ[ ঘা] %খ]]| আ|][| ৪ন| |ল৪পঘ৪[ এ []]][][= |) চা0)|]}; [||05 আগ]\n19111%865 দন [])2[[ 30}0]2%627]]91][5, 00 0110209510।75 ||46 | []]]3%5, ১% 5} 0] [[10]10]9 10\n13|\"৮ ][}{%\"]19[ 09110] [16955 )|]1]13 118] 2ঢ1048110138068 }1910} [{) এহ) |] [| [5 [0) ||181] []180105 001\nস্]0]] 00510]5, /%| []1ধ গ.0ু 0 1]]0 )%শে[ 00]]]} ||} []]ন|[]|5 1] |]\"%৮\"চ গা ||] ||][001}7]]\n1|115 ৫|)0|11.\n\n[5 ![ |॥|9া|[90 10 [278 %61] [1[38|53 ][0]]] আ[ন% ||181}, 116 10006র16, 0] 1])6 ]007659[) [)1800|35\n1[]ল [8 |[0\" }[] \"00 |]155 30 1102[6; 0]0}%%]] []]\" [70]]]|8 |ঘ0[ 0] বয8)][181 ||] 1]]{8[]0}]] |] \"%01}]\n0101,0[0010|<.",
+  "confidence": {
+    "word_count": 161,
+    "mean": 20.89,
+    "median": 11.57,
+    "minimum": 0.0,
+    "maximum": 89.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2755,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 3.716,
+  "page_elapsed_seconds": 3.962,
+  "peak_process_tree_rss_bytes": 332083200,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

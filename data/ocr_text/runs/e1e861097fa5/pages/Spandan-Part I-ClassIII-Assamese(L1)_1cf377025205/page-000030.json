@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 30,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১)  দি     |\nৰ‘   ৰ ৷/ ৰ,  ৷  ৷  //  ৷\n9, 0)   [ত টী  / ||  লে  ৰ\n\n,,/ 9\nত্ি    ।\n\nতেওঁ গমকে নাপাললে। সেই ছেগতে গছৰ ডালত বহি থকা বগলী এহালে খালৈটো উদং কৰি\nপেলালে৷ অলপ পাছতে পশ্চিম আকাশত আঁহতজোপাৰ পাছফালে ৰঙচুৱা বেলিটোও লুকাল।\nদূৰৈত বাজি উঠা ঘণ্টাৰ শব্দত সৰুকণে সাৰ পালে।\n\n( ক্ৰিয়াকলাপ)) (পাঠভিত্তিক\nৰ ১। আলোচনা কৰোঁ আৰু লিখোঁ আহা--\n\n(ক) সৰুকণে মূৰত কি লৈ মাছলৈ গৈছিল?\n\n(খ) সাধুটোত পোৱা মাছকেইবিধৰ নাম কি কি?\n\n(গ) সৰুকণে মনত কি আশা লৈ বৰশী বাবলৈ গৈছিল?\n\n(ঘ) সৰুকণে বৰশী বাই কেইটা পুঠিমাছ পাইছিল?\n\n(৬) বগলীকেইটাই কিয় চোপ লৈ আছিল?\nস্পন্দন ১ | তৃতীয় শ্রেণী\n\n৩০",
+  "confidence": {
+    "word_count": 107,
+    "mean": 76.36,
+    "median": 92.29,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.832,
+  "page_elapsed_seconds": 4.036,
+  "peak_process_tree_rss_bytes": 215879680,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

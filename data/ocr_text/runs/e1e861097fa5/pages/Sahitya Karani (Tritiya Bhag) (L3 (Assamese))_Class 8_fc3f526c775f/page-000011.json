@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 11,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ       ক --_ পাঠভিত্তিক তৰিয়া\n\n১। পদ্যটি স্পষ্ট আৰু শুদ্ধ উচ্চাৰণেৰে পঢ়া।\n২। দলত ভাগ হৈ পদ্যটিৰ একোটাকৈ ফাকি প্ৰতিটো দলে গোৰা।\n৩। পদ্যটি আবৃত্তি কৰা।\n\n৪। শব্দৰ অৰ্থ শিকোঁ আহা --\n\nঅর্থ\n\nদেখিবলৈ ভাল লগা\n\nতলত সৰি পৰা\n\nপ্রচূৰ, পৰিমাণতকৈ বেছি\nনাৱেৰে বেপাৰ কৰা বেপাৰী\nধান থোৱা খৰ, বস্তু থোৱা খৰ\nবুকু, হৃদয়\n\nলোক গোট খাই কৰা উপাসনা\nবাঁহী\n\nহোজা, উদাৰ\n\nলয়\n\nগাঁৱত থকা হাল-কোৰ বাই খোৱা\nলোক, সহজ-সৰল লোক\n\nআনন্দ, ধেমালি\nনিৰ্দিষ্ট দিনত বহুত মানুহ গোট খাই\nকিনা-বেচা কৰা ঠাই\n\n> ছাতৱ-ছাত্ৰীক পদাটি গোৱাত সহায় কৰিব।\n\nহন] ২ঃবদ্ধৰক্কধক্ষত{|",
+  "confidence": {
+    "word_count": 90,
+    "mean": 86.21,
+    "median": 95.58,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.199,
+  "page_elapsed_seconds": 2.406,
+  "peak_process_tree_rss_bytes": 232275968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

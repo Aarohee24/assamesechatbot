@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 101,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মানুহ, জীৱ-জন্ত, গছগছনি সকলোৰে একো একোটা নাম আছে। পতোক নামৰে নিজস্ব অথথাকে। কিন্তু বাস্তৱ\nক্ষেত্ৰত কেতিয়াবা নামটোৰ অথৰ লগত সেই নামধাৰী জীৱটোৰ দৈহিক, মানসিক আৰু কৰ্মৰ সামঙৎস্য নাথাকে।\nএনে অমিল কথ৷ই কেতিয়াবা আমাক আনন্দৰ খোৰাক যোগা৷য়। এই উপাদ৷ানক মুলধন হিচাপে লৈ সাহিত্যাচায\nঅতুল চন্দ্ৰ হাজৰিকাই ৰচনা কৰা এটি বাযঙ্গাত্লক ৰচনাৰ সোৱাদ এই পাঠটিত পাবা ।\n\nমাক-বাপেকে মৰমতে কণা ল’ৰাৰ নাম পদ্মলোচন ৰাখিলে ল’ৰাটোৰ মূল্য নেবাঢ়িব পাৰে\nকিন্তু নুঢুটে। পিছে সাউদৰ পুতেকৰ নাম যদি টোকোনাচন্দ্ৰ বা দুখুৰাম ৰখা হয় তেন্তে সাউদ\nকৌৱৰৰ গা বেজবেজাই\n\nহৈছিল সোণাপুৰৰ ৷ভৰ্জি।\nনিধনীৰামৰ। গাঁওখনৰ নাম।৷- [+ ||\nসোণাপুৰ হ’লেও তাৰ; | |], |}\nদৰিদ্ৰ, একমাত্ৰ নিধনীৰামৰ?\nবাহিৰে। নামটো নিধনীৰাম\nতেওঁৰ ৰৰৈয়া গৃহস্থালি। ৮. =                     ৰ\n\nগোহালিত গৰু, পুখুৰীত মাছ,ভৰালত ধান, পেটাৰিত ধন--- কোনোফালেই নিধনীৰামে অভাৱৰ\nমুখ দেখা পোৱা নাছিল। তথাপি মানুহে তেওঁক নিধনী বুলিহে মাতে। এই নামটোৰে মতা\nশুনিলেই তেওঁৰ গাত যেন বিছা-বৰলে ডাকে। সদায় নিধনীৰামে ইয়াৰ প্রতিকাৰৰ কথাকেই\nভাবি থাকে। ভাবি ভাবি মনৰ দুখত ঘৰৰ পৰা ওলাই গ’ল। গৈ গৈ এঘৰৰ পদূলিমুখত তেওঁ\nএজোপা মৰা গছ এজন মানুহে কুঠাৰেৰে কাটি থকা দেখা পালে। নিধনীয়ে গিৰিহঁতক সুধিলে-_\n“এই জোপা কি গছহে ককাই?”\n\nগিৰিহঁতে ক’লে -=- অমৰা’।\n\n>\"",
+  "confidence": {
+    "word_count": 181,
+    "mean": 84.89,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.037,
+  "page_elapsed_seconds": 3.451,
+  "peak_process_tree_rss_bytes": 295170048,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

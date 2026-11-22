@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 51,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত্ত          ৪৫\n\nপৰা ডুব মাৰি উঠে তেনেহ’লে সেই নাদৰ পানী অপৱিত্ৰ হ'বনে?\n\nউত্তৰ- অপৱিত্ৰ অৱস্থাত নাদব পানীত নামিলে নাদৰ গোটেইখিনি পানী উলিয়াই\nপেলাব লাগিব।\n\nপ্ৰশ্ন- নাদব পানী তুলিবলৈ যদি কোনো নিৰ্দিষ্ট বাল্টি নেথাকে আৰু যিকোনো\nমানুহে সৰু-ডাঙৰ বাল্টিবে পানী তোলে তেতিয়া নাদৰ পানী পৰিদ্ধাৰ কৰি\nৰাখিবৰ বাবে কি কৰা উচিত?\n\nউত্তৰ- মধ্যম ধৰণৰ বাল্টি অৰ্থাৎ চাৰে তিনি লিটাৰ পানী ধৰা বাল্টিৰ ব্যৱস্থা কৰিব\nলাগে।\n\nপু জই জৰা\n\nঅকঙ্গম অধ্যায়\nছালাত (১ ৯--=।)\n\nনামাজক আবৰবীত ‘ছালাত’' বোলে। ছালাত শব্দৰ অথ প্রশংসা কৰা।\nইছলামৰ পাচটা স্তম্ভৰ ভিতৰত নামাজ এটা মূল এবাদত। হজৰত মহমন্মদ (ছঃ)ৰ\nমিৰাজৰ সময়ত নামাজ পঢ়িবলৈ আল্লাহতাআলাই নিদেশ দিয়ে। ৰজা, গৰীব,\nবালিগ পুৰুষ-মহিলা প্ৰত্যেক মুছলমানে নামাজ্ঞ পঢ়া ফৰজ্ঞ বা একান্ত কৰ্তব্য।\nনামাজ পৰিত্যাগ কৰিলে আল্লাহুতাআলাৰ ওচৰত কাফিৰ (অস্বীকাৰকাৰী) সাব্যস্ত\nহয়।\n\nদৈনিক পাঁচবাৰ নামাজ পাঢ়া ফবজ | যোনে- ১ | ফজৰ, ২ ৷ জদুৰ, ৩। আচৰ,\n৪ । মগৰিব আৰু ৫ । ইছা আৰু শুক্ৰবাবে জুমাৰ নামাজ | ফজৰৰ দুই বাক্‌আাত,\nজহুৰৰ চাৰি ৰাক্আত, আচৰৰ চাৰি বাকৃআত, মগৰিবৰ তিনি ৰাকুআত, ইছ।ৰ চাবি\nৰাকৃ আত আকু জুমাৰ দুই ৰাক্‌ আত নামাজ ফৰজ। ভ্ৰমণকাৰীৰ বাবে চাৰি\n\nকোৰআন মজীদত উল্লেখ আছে-\n\nভে)চ্‌ 44.5 $-4%)1 (=)",
+  "confidence": {
+    "word_count": 181,
+    "mean": 80.65,
+    "median": 91.62,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.113,
+  "page_elapsed_seconds": 2.241,
+  "peak_process_tree_rss_bytes": 234598400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

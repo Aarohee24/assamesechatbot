@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৪     পিঠাৰ মেল\n\nবিহু উৰুকা ৰাতি                 গু\nপাচিত বহি পিঠাবোৰে\nআছিল কথা পাতি।\nচুঙা পিঠাই মাতিলে ঘপৰাই\n“খোলাচাপৰীয়া বাই!\nদেশৰ কথা,দহৰ কথা                এ!\nশুনিছনে নাই? _         টপাটপ ৰসৰ গৌোল্লা\nৰ                 মুখত সুমাব পাই\nলাৰু আৰু পিঠাবোৰক হায়\nঘিণৰ চকুৰে চায়।\nহে জললমলাৰ, পু                      এইদৰে হ’লে আমি বেছি দিন\nৰ ৰথ ৬৩      ৰ)                 ১০\nসূড়লীয়ে দিডটি৷        জীয়াই থকাই টান।\nফেনি পিঠায়ে দিলে উত্তৰ\nফেন উলিয়াই---\n“হওঁতে আমাৰ চুঙা বোপাই\nমিছা কোৱা নাই।\nআজিকালি আৰু অকমানিয়ে\nনাপায় আমাক চিনি,\nলুচি লাগে, বিচ্‌কুট লাগে,\nলাগে চাহ পানী।\n\nকবি -- অতুল চন্দ্ৰ হাজৰিকা\n(উৎস- সাহিত্যাচায অতুল চল্দ্ৰ হাজৰিকাৰ ‘শিশু-সাহিত্য সভাৰ! দ্বিতীয় খণ্ড,পৃষ্ঠা ৭৩৪, প্রকাশক - এছ. এইছ, এড়কেশ্বনেল টা, ওৱাহাটী\n৭৮১০০৫।৷ মূল পদাটো দীঘল। পাঠৰ উপযোগী কৰি সম্পাদনা কৰা হৈছে) ।",
+  "confidence": {
+    "word_count": 118,
+    "mean": 83.4,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.857,
+  "page_elapsed_seconds": 3.31,
+  "peak_process_tree_rss_bytes": 272146432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

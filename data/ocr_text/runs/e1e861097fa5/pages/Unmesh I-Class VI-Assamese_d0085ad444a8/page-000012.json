@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 12,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অসমা সুষমা    মুনি-মনোৰমা\nআমাৰ চেনেহী আই।\n\nনানা গুণ-নান _ সুমধুৰ নাম\nপুৰাণত ভাৰতত*,\n\nদেৱভূমি বুলি আমাৰ দেশেই\n\n্‌  ৰ       আমাৰ দেশৰ   ৰূপ মনোহৰ\n           তাৰ যে উপমা নাই,\n\n॥                       জিলিকিছে জগতত।          ৰ\n\n||               শুদ্ধ মনে-চিত্তে ৰূপে-ৰসে-গীতে ৷_\n\nৰ              স্বৰ্গতো অধিক আমাৰ দেশেই\nসৃষ্টি-পাতনিৰে পৰা।\n\nনুগুচে হেঁপাহ চাওঁ চকু ভৰি\nভুৱনমোহিনী বেশ,\n\nঅসম অসম           সোণৰ অসম\nজননী আমাৰ দেশ৷\n\n|\n৷      *ভাৰতত শব্দই, মহাভাৰতৰ কথা বুজাইছে।                হুলচন্ড্ৰ হ\n\n}     উত্স হাজি স-আ ত নীহিতযচাৰ্য্য অতুলচন্দ্ৰ াজৰিকা শিশু সাহিত্য সম্ভাৰ (দ্বিতীয় খ)\"      ৷ ্‌\n।|         প্রথম প্রকাশ, ২০০৭, এছ. এইছ, এডুকেশ্বনেল ট্ৰাষ্ট, গুৱাহাটী-৭৮১০০৫, পৃষ্ঠা নং- ৭৫৮-৭৫৯      ৰো\n\n।৷\n\nৰ কহ                                           ৰ\n|      কৰবি পৰিচয় $ অতুলচন্দ্ৰ হাজৰিকা (১৯০৩-১৯৮৬ য্ৰীষ্টাব)           ব্্ভ\n১৯৫৯ খ্ৰীষ্টাব্দৰঅসম সাহিত্য সভাৰ সপ্তবিংশতিতম অধিবেশনৰ       ৰ\nসভাপতিৰ আসন অলংকৃত কৰিছিল। তেওঁ ১৯৬৯ খ্ৰীষ্টাব্দত   নাৰ্ব্ব\n‘মঞ্চলেখা’গ্ৰন্থৰ বাবে সাহিত্য অকাডেমী বঁটা লাভ কৰিছিল। অসম চি  ৰ\nসাহিত্য সভাই তেওঁক ১৯৮২ খ্ৰীষ্টাব্দত ‘সাহিত্যাচাৰ্য\" উপাধিৰে\nসন্মানিত কৰিছিল। তেওঁৰ সাহিত্য কীৰ্তিসমূহৰ ভিতৰত--- টিকেন্দ্ৰজিৎ, নন্দ দুলাল,       |\nনৰকাসুৰ আদি নাটক; মাণিকীমধুৰী, ৰুণুক-জুনুক, ফেহঁজালি আদি কবিতাপুথি; এণ্ডাৰছনৰ\n\nসাধু, উছৱৰ ভোগজৰা, উছৱৰ ৰংচৰা আদি গ্ৰন্থ উল্লেখযোগ্য। এইজনা সাহিত্যিক ১৯৭১\nখ্ৰীষ্টাব্দত ভাৰত চৰকাৰৰ তৰফৰপৰা ‘পদ্মত্ৰ৷” সন্মানেৰে বিভূষিত হৈছিল।\n\n১২\n\n[\nছু                                ()।",
+  "confidence": {
+    "word_count": 181,
+    "mean": 79.35,
+    "median": 92.23,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 55 diacritics\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!",
+        "Detected 55 diacritics\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.607,
+  "page_elapsed_seconds": 4.269,
+  "peak_process_tree_rss_bytes": 257462272,
+  "tesseract_warnings": [
+    "Detected 55 diacritics\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!",
+    "Detected 55 diacritics\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "processed_this_run": true
+}

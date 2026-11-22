@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৩।৷চ ছ জ ৰবা -- এইকেইটা আখৰেৰে আৰম্ভ হোৱা শব্দ কওঁ আহা--\nচৰাই   ছবি     বাক্ৰূ৷ক্‌   ছ্য়\nজপনা   জলকীয়া   চগা     ৰ্মাওবন\n১৪। খ, ঘ, চ, ছ আৰু জ আখৰেৰে শেষ হোৱা শব্দ কও আহা --\nমাছ কাগজ   মুখ   কচ সাজ\nপাঁচ তাৰিখ মাঘ কাছ দুখ\nলাজ দীঘ    বাকচ খৰছ বাঘ\n১৫। তলত দিয়া শব্দৰ মাজত থকা আখৰবোৰ লিখা।\n\nওজন বাচন কাউৰী, বাকলি আখৰ\n\n১৬। 1- কাৰ (স্বৰ) চিনৰ লগত চিনাকি --\n\nছবিৰ নাম কও আহা--\nকচ   ক ৷ |কাছ   কা! (খালৈ   খা| ৷গাৰু গা\n\nকচ বুলি কওঁতে ক-ৰ লগত অ উচ্চাৰণ হৈছে। কিন্তু কাছ বুলি কওঁতে ক-ৰ লগত আ উচ্চাৰণ\nহৈছে।এই আ উচ্চাৰণ ক-ৰ লগত লগ লাগি থকা 1” চিনটোৰ বাবে হৈছে। অৰ্থাৎ আ-ৰ সলনি 1” চিনটো\nবহিছে। এই চিনটোকে অসমীয়া ভাষাত আকাৰ (1) চিন বুলি কয়। কা-ৰ দৰে খালৈৰ খা আৰু গাৰুৰ\nগা-ও হৈছে। পিছে কেৱল ক, খ বা গ-ই নহয়, ব্যঞ্জন বৰ্ণমালাৰ সকলো আখৰতে আ লগ লাগিলে ই\n‘1 আকাৰ ৰূপ লয়। * ব্যঞ্জনবৰ্ণত অ যোগ হ’লে অ-ৰ বাবে কোনো কাৰ (স্বৰ) চিন নাথাকে।\n\nভস্অসমীয়া ভাষাত এজ্ৰে আবম্ভ হোৱা শব্দ নাই ৷ শিকাৰচ্ক বুজাই দিব।",
+  "confidence": {
+    "word_count": 176,
+    "mean": 84.54,
+    "median": 92.71,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.834,
+  "page_elapsed_seconds": 3.093,
+  "peak_process_tree_rss_bytes": 291409920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

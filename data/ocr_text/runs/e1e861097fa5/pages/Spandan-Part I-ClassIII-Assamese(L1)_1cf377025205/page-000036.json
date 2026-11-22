@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ বিদ্যালয়সমূহত প্রতি বছৰে বিদ্যালয়-সপ্তাহ আয়োজন কৰে। ছাত্ৰ-ছাত্ৰীসকলে এই আয়োজনৰ জৰিয়তে !\n৷ খেল, নাচ-গান, আবৃতি, চিত্ৰাংকণ আদি প্রতিভা বিকাশৰ সুবিধা পায়। ইয়াৰ যোগেদি তেওঁলোকৰ মাজত !\nউডগভনতট ৬ বল ৭৭5৭৬৯৯৭৬১,৬৮১২৩৭৬২১৮৷\n\nখেলুৱৈসুলভ মনোবৃত্তিৰ বিকাশ ঘটায় ৷ খেল-ধেমালিয়ে মনোৰঞ্জনৰ লগতে নিয়মানুৱৰ্তিৰ্তাৰ শিক্ষাও প্রদান কৰে । ৷\n\nপ্রাঞ্জলহঁতৰ বিদ্যালয়খনত আজি\nউখল-মাখল পৰিৱেশ। আজিৰেপৰা\nবিদ্যালয়-সপ্তাহ আৰম্ভ হ’ব৷ উদ্বোধন\nকৰিবলৈ,বিদ্যালয়, পৰিচালনা সমিতিৰ\n\nজাননী ভতাংঃ২৫/১১/২০২৫\nবিদ্যালয়-সপ্তাহ\nনিজৰাপাৰ প্ৰাথমিক বিদ্যালয়\nতাৰিখ ঃ ১ লা ডিচেম্বৰৰ পৰা ৭ ডিচেম্বৰ, ২০২৫ খ্ৰীঃ\n\nখেল [|  __ শ্ৰেণী:অনুসৰি\n\nসভাগতি       শন                          ক-শাখা   খ-শাখা | গ-শাখা\nপ্রসাদ ৰয় ছাৰে(তেখেতক আদৰণি জনাইছে।       ন্ৰিবকট                   ড়্ীয়ৰ পৰা\nৰ         ঢু                                   পঞ্চম শ্ৰেণীলৈ\nউদদ্বোধকগৰাকীয়ে ভাষণত ক’লে-- | ভঞ্জন        ন ললি\n“বিদ্যালয়-স         প্রতিভা প্ৰদৰ্শনৰ                         পঞ্চম শ্রেণী\n১২২ :%%%\"             দবা          তৃতীয় আৰু | পঞ্চম শ্রেণী\nমঞ্চ । তোমালোকে সকলো প্রতিযোগিতাত                                চতু্থ শ্ৰেণী\n\nঅংশগ্ৰহণ কৰিবা। পুৰস্কাৰ পোৱাটোৱেই | পাৰ্পানী |পথম আৰু | তৃতীয় শ্ৰেণী| চতুথ আৰু\nদবিতীয় শ্রেণী         পঞ্চম শ্রেণী\n\nডাঙৰ কথা নহয়; অংশগ্ৰহণ কৰাটোহে     সংগীত চকী [প্রথম আৰু | তৃতীয় শ্ৰেণী | চতুথ আৰু\nআচল কথা। আটায়ে বিদ্যালয়-সপ্তাহ সফল [মিউজিক চেয়াৰ | দিতীয় শ্ৰেণী          ৯৫৭\n\nস্পন্দন ১ | তৃতীয় শ্ৰেণী\n\nবিঃ দ্ৰ২ঃ-- সময়-পূৱা ৮বজাৰ পৰা| ১২ বজালৈ",
+  "confidence": {
+    "word_count": 178,
+    "mean": 75.31,
+    "median": 89.31,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 69 diacritics",
+        "Detected 69 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.546,
+  "page_elapsed_seconds": 5.845,
+  "peak_process_tree_rss_bytes": 219209728,
+  "tesseract_warnings": [
+    "Detected 69 diacritics",
+    "Detected 69 diacritics"
+  ],
+  "processed_this_run": true
+}

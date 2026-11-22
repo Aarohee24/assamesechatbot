@@ -1,0 +1,68 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 146,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ   /$\n\nচিৰ চেনেহ? মোৰ ভাষা জননী ৰ; /;\n\nশই ধন্যে পুণ্যে হাত-পাৰনী (|            এম\n\nপ্ৰকৃতি পৰশে ৰসে অসণল্ কৃপণ           =8%[71|3\n\nচঞ্চল হৃদি জলে ঢালে পৰিম,            ৰ\nকোমল চম্পাৰ কণি   ৰি          মা\n\nগেৰে ঢৌৰে ঢৌৰে তুলি = = ৰক          )       {\n\nৰিণিকি ৰিশিকি কোনে তোলে ৰাগিন! (৷\n\nপ্ৰপ্ৰাৰ গুৰুভাৰে অৰশ্ প্ৰাণ\nকাৰে নিচুকনি শুনা\n\nশুনি ৰাণ ব্যখা পমা =    --ড43%\n\n--সিঁত্ৰদেৰ\n7”ন.| ৪8%. >১১১।৬ গ্ৰাতী\nগিয চিৰ চেনেহ? মোৰ ভাষ্য জনন হৈছে অসম সাহিত্য সভাৰ আদৰণি গাঁত !\n'    ৰ     হানি প্হিতো অকা সাহিত্যাচাৰ্য |\n\n/ /////  |  সিঁত্ৰদেৰ মহন্ত!            1////, //// /'/)   0;\n৷ //  ॥%,.              ////।।}}।(/। //,  ,// ৰ; ////; {ৰল\n\nৰ /।//  0!/",
+  "confidence": {
+    "word_count": 106,
+    "mean": 53.93,
+    "median": 57.81,
+    "minimum": 0.0,
+    "maximum": 96.65
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 411 diacritics",
+        "Detected 411 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2497,
+  "image_height": 3324,
+  "ocr_elapsed_seconds": 3.571,
+  "page_elapsed_seconds": 5.587,
+  "peak_process_tree_rss_bytes": 262795264,
+  "tesseract_warnings": [
+    "Detected 411 diacritics",
+    "Detected 411 diacritics"
+  ],
+  "processed_this_run": true
+}

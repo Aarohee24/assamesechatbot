@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 64,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জীৱনৰ প্ৰমাণ দিয়ে। লিপিবিদসকলে প্রাচীন শিলালিপিৰপৰা তথ্য উদ্‌ঘাটন\nকৰে। সাহিত্য আৰু ভাষাৰ বিশেষজ্ঞমকলেও ইতিহাস লিখনত অৰিহণা\nযোগায়। ইয়াৰ উপৰি যোৱা কেইবাদশক ধৰি চলি অহা বৈজ্ঞানিক অধ্যয়নেও\n\nঅতীতৰ পুনৰ গঠনত অৰিহণ৷ যোগাইছে। প্রাচীন জলবায়ুৰ অধ্যয়ন, খনন      এড\nকৰি পোৱা সামঞ্ৰীৰ ৰাসায়নিক অধ্যয়ন, প্রাচীন মানুহৰ জিনীয় বৈজ্ঞানিক [ নি বাল\nঅধ্যয়ন আদিয়ে অতীতৰ বহুতো নতুন কথা জনাত সহায় কৰিছে। যেতিয়া [৷ ০\nইতিহাসবিদসকলে শেহতীয়া ইতিহাস (সাধৰণতে যোৱা দুই-তিনি শতিকাৰ) [মি সু\nঅধ্যয়ন কৰে, তেতিয়া বাতৰি কাকত, ফটো, ভিডিঅ’, ডায়েৰী, চৰকাৰী নথি- টি স্কে\nপত্ৰ আদি গুৰুত্বপূৰ্ণ উৎস হৈ পৰে।                            গু\nইতিহাসবিদসকলে অতীতৰ কোনো ব্যক্তি, যুদ্ধ, বিদ্রোহ আদিৰ              |\n\nবিষয়ে অধ্যয়ন কৰোঁতে বিভিন্ন উৎসৰপৰা তথ্য সংগ্ৰহ কৰি প্ৰথমে সেইবোৰ চিত্ৰ ৬.৩ ঃ শিলৰ ফলক\nতুলনা কৰি চায়। কেতিয়াবা এটা উৎসই আনটোৰ তথ্যক সমৰ্থন কৰে আৰু\nকেতিয়াবা সম্পূৰ্ণ বিপৰীত তথ্যও পোৱা যাব পাৰে। গতিকে কোনটো তথ্য অধিক নিৰ্ভৰযোগ্য তাক থিৰাং\nকৰিবলৈ ইতিহাসবিদসকলে সেই সময়ৰ অন্য উৎস বিচাৰিবলগীয়া হয়।\n\nআইহৰণ প্রক্ৰিয়া আৰু বৈশিষ্ট্যৰ ভিত্তিত ইতিহাস লিখনৰ উৎসসমূহক পাঁচটা প্রধান ভাগত ভগাব পাৰি।\nতলৰ তালিকাখনত সেইবোৰ উদাহৰণসহ দেখুওৱা হ’ল।\n\n|\n\n| ষ্ত-\n\nন\n\n| সঁজুলি আৰু\nঅস্ত্ৰ-শস্ত্ৰ\n\n/*\n৫\n\n| গোৰ\nআয়\nটা\n্---\n\nৰ\n\n_ মূৰ্তি আৰু আ-\nঅলংকাৰ\n\n-=- সমাধিক্ষেত্ৰ\n\n-- বাচন-বৰ্তন\n\n-_- পোৰা মাটিৰ সামস্ৰী\n\nইতিহাস লিখনত সময় গণনা, উৎস আৰু ভাৰতবৰ্ষ",
+  "confidence": {
+    "word_count": 199,
+    "mean": 84.73,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.639,
+  "page_elapsed_seconds": 3.981,
+  "peak_process_tree_rss_bytes": 307200000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

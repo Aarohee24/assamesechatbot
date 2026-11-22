@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-\n\nৰ,\n\nৰ,\n\nউপ-অৰ্হঁতা\n\nজ্ৰিয়া-কলাপৰ\n\n01.1\n\n0; 1.5\n\n02.1\n\n2.2\n\n2.3\n\n0-৯]\n\n5.3\n\nত\n\nপাঠটোৰ মূলবিন্দুসমূহ চিনাক্ত কৰি\nক’ব আৰু লিখিব পাৰিব।\n\nপাঠৰ আধাৰত অসমৰ ভৌগোলিক\nচিত্ৰ চাই মূল বিন্দুসমূহ চিনাক্ত কৰিব\nপাৰিব।\n\nপ্রকল্পৰ বাবে ফটো এলবাম আৰু\nহাতেলিখা কবিতা, গীত আদিৰ\nসংকলন প্রস্তুত কৰিব পাৰিব।\nযুৰীয়া শব্দ চিনাক্ত কৰিব পাৰিব।\nসমাৰ্থক শব্দ চিনাক্ত কৰি লিখিব\nপাৰিব।\n\nবাক্য ৰচনা কৰি লিখিব পাৰিব।\nবিশেষ্য আৰু বিশেষণ পদ চিনাক্ত\nকৰি লিখিব পাৰিব।\n\nএকে বানানৰ ভিন ভিন অৰ্থ বুজোৱা\nশব্দ বাক্যত প্ৰয়োগ কৰিব পাৰিব।\nলিংগ পৰিবৰ্তন কৰিব পাৰিব।\nলিখনৰ জৰিয়তে ওপজা ঠাইখনৰ\nপ্রতি ভালপোৱা ভাব প্ৰকাশ কৰিব\nপাৰিব\n\nঅসমৰ সাংস্কৃতিক এতিহ্য সম্পৰ্কে\nজানি গীতৰ জৰিয়তে প্রকাশ কৰিব\nপাৰিব।\n\nবীৰ-বীৰাংগনাসকলৰ দেশপ্ৰেমৰ\nবিষয়ে লিখিব পাৰিব।\n\nশব্দৰ সৰলীকৃত ৰূপ লিখিব পাৰিব।\nশব্দৰ লগত জড়িত সাঁথৰ ভাঙিব\nপাৰিব।\n\nশব্দজালৰপৰা অসমীয়া\nঅলংকাৰসমূহৰ নাম বাছি উলিয়াব\nপাৰিব।\n\n১,২,৩,৪,৫\n৬,৭\n\n১৭\n\n২২,২৩\n\n১০\n\n১১\n\n১২\n\n১৩\n\n১৪\n\n১৫\n\n১৯\n\n২১\n\n২০\n\n১৬\n\n১৮",
+  "confidence": {
+    "word_count": 143,
+    "mean": 87.16,
+    "median": 95.24,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.704,
+  "page_elapsed_seconds": 3.159,
+  "peak_process_tree_rss_bytes": 273494016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

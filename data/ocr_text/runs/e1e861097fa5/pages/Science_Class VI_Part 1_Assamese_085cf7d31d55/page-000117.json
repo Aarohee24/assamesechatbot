@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 117,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তালিকাখনৰপৰা গম পোৱা গ’ল যে সকলো পদাৰ্থক চুম্বকে আকৰ্ষণ নকৰে। চুম্বকে আকৰ্ষণ\n\nকৰা পদাৰ্থবোৰক চুম্বকীয় পদাৰ্থ বোলে। যেনে-- লো, নিকেল, ক’বাল্ট আদি। আনহাতে\n\nযিবোৰ পদাৰ্থক চুম্বকে আকৰ্ষণ নকৰে সেইবোৰ হ’ল অচুম্বকীয় পদাৰ্থ । যেনে--- কাঠ, বীহ,\n\nৰবৰ, আইনা, প্লাষ্টিক আদি।\n\n[] ক্রিয়াককলাপ 4.2:\nএখন কাগজত অলপমান শুকান বালি লোৱা৷ এতিয়া বালিখিনি এডাল দণ্ড চুম্বকেৰে\n\nঘঁহা। কি দেখিলা বাৰু?\n\nচুম্বকডালত কিছুমান ক’লা গুড়ি লাগি ধৰা দেখিবা। এইবোৰ হৈছে লোৰ গুড়ি। বালিত\nসাধাৰণতে লোৰ গুড়ি মিহলি হৈ থাকে। চুম্বকে লো আকৰ্ষণ কৰে বাবে এই গুড়িবোৰ\nচুম্বকডালত লাগি ধৰিছে।\n\nভুঞ্জা,\n\n(৪) কাগজৰ ওপৰত বালিৰ ঙড়ি\n\n(০) দণ্ড চুম্বকত লোৰ গুড়ি\n\n(০) অশ্বখুৰাকৃতিৰ চু্বকত লোৰ গুড়ি\n\nচিত্ৰ 4.4 : বিভিন্ন আকৃতিৰ চু্বকৰ দ্বাৰা লোৰ ওড়ি আকষৰ্ণ\n\n[] কভি্রয়াকলাপ 4.3:\n\nএইবাৰ অশ্বখুৰাকৃতি চুম্বক লৈ ক্ৰিয়া-কলাপ 4.2 ৰ পৰীক্ষাটো কৰি চোৱা। কি\nদেখিলা বাৰু?\n\nওপৰৰ ক্ৰিয়া-কলাপ দুটাত ব্যৱহাৰ হোৱা চুম্বকৰ আকৃতি বেলেগ বেলেগ। দেখা গ’ল\nযে আকৃতি ভিন ভিন হ’লেও চুম্বকে লোক আকৰ্ষণ কৰে। অৰ্থাৎ চুম্বকৰ ধৰ্ম একেই থাকে।\n\nভ্মম্ডতেওঁততত তত তত তত তত তত ০০০ ত ০০০০ত, ০০,০০০, ০০০,মনু)",
+  "confidence": {
+    "word_count": 166,
+    "mean": 81.23,
+    "median": 93.11,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.981,
+  "page_elapsed_seconds": 3.305,
+  "peak_process_tree_rss_bytes": 260935680,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

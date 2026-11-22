@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 43,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বিতীয় দৃশ্য\n\n(হাতত বাঞ্চেট বেগ এটাত গছপুলি লৈ চায়েৰা, লগত মনাইশী আৰু বুধুৱা মঞ্চলৈ সোমাই\nআহে। ঠাইখন মননহঁতৰ পদূলি)\n\nচায়েৰা 8 অ’ মনন। ওলাইছা নেকি?\n(হাতত খণ্ডি এখন লৈ মনন ওলাই আহিব)\n\nবুধুৱা ঃ চোৱাচোন মনন, মালতী পেহীয়ে এয়া বিলাতী মধুৰিৰ পুলি কেইটামান দি\nপঠাইছে।\n\nমনাইঞজ্জী $ ৰঘু খুৰাই সাৰ আৰু দৰব দি ধুনীয়াকৈ পুলিবোৰ বান্ধি বান্ধি দিছে, গাঁত খানি\nৰুলেই হ’ব।\n\nমনন ৪ সৌৱা সুমনা, ৰিতুপন, ৰূপক, আকাশী, আকাশ ভাইটি, মানুকণ--\nগোটেইমখা আহিছে। হোতে হাতে গছৰ পুলি লৈ.হাঁহি-মাতি কথা পাতি\nল’ৰা-ছে৷ৱা৷লীমখাৰ প্রৱেশ)\n\nৰিতুপন $ তোমালোক কেতিয়াবাৰেপৰ৷ ৰৈ আছা নেকি? আমি আহি থাকৌতে বাটতে\nমাণিক বৰদেউতাৰ ঠেলা গাড়ীখনৰ সৈতে ‘ৰামদয়াল ককা’ক পালোঁ। তাতে\nকোৰ-কটাৰী, গোবৰৰ মোনা, মগ, বাল্টি গোটেইবিলাক তুলি দিলোঁ। ককাই\nএকদম খেলপথাৰত থৈ আহিবগৈ। মাণিক বৰদেউতাই কথাটো শুনি খুব ভাল\nপাইছে।\n\nৰূপক ২, বৰদেউতাই আমাক গৈ সহায়ো কৰি দিব বোলে।\n\nসুমনা ঃ কাম হৈ যোৱাৰ পাছত পৱন খুৰাই আমাক বুট-নাৰিকল খুৱাব। জগত খুৰাৰ\nখুৰীয়ে আকৌ পকাকল এথোকা পঠাই দিব।\n\nমানুকণ ঃ বা-আ, বা-আ,\nবুট-নাৰিকল\nআৰু পকাকল\n\nকেনে মজা\nবেঙেনা ভজা। (মানু ভণ্টিয়ে স্ফু্তিতে এপাক ঘূৰি দিয়ে)\n\nমনন _/, আমি এতিয়া খেল-পথাৰলৈকে যাওঁ ব’লা। চুকুমণি, লক্ষী, মনুবাহঁত আহি\nনাপালেহি দেখোন!\n\nৰিতুপন ঃ তেওঁলোক বাহিৰে বাহিৰেই খেল-পথাৰলৈ গৈছে।\n\nসুমনা $ তেনে ভালেই হ’ল। আহা আমি শাৰী পাতি সমদল কৰি যাওঁ।\n\n(সকলোৱে শাৰী পাতি থিয় হয়)\n\nমৰ,",
+  "confidence": {
+    "word_count": 206,
+    "mean": 87.01,
+    "median": 92.99,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 7 diacritics",
+        "Detected 7 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.736,
+  "page_elapsed_seconds": 5.77,
+  "peak_process_tree_rss_bytes": 287793152,
+  "tesseract_warnings": [
+    "Detected 7 diacritics",
+    "Detected 7 diacritics"
+  ],
+  "processed_this_run": true
+}

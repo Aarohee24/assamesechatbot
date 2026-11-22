@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 10,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১।\n২।\n৩।\n৪।\n৫\n৬।\n৭।\n৮।\n৯।\n\n১০|\n১১।\n১২।\n১৩।\n১৪।\n১৫ |\n১৬।\n১৭।\n\n১৮|\n১৯।\n২০।\n২১।\n২২ ।\n২৩।\n২৪।\n২৫ ।\n\nপাতনি\n\nশিক্ষক-শিক্ষয়িত্ৰীসকলৰ প্ৰতি\n\nভূগোল খণ্ডৰ আগকথা\n\nভূপৃষ্ঠত সময় গণনা\n\nপৃথিৱীৰ অভ্যন্তৰ ভাগ\n\nপৃথিৱীৰ উপৰিভাগ আৰু ইয়াৰ পৰিৱৰ্তন\nআমাৰ পৰিৱেশ\n\nসম্পদ\nমানৱসৃষ্ট পৰিৱেশ আৰু মানৱ সম্পদ\nঅসমৰ সম্পদ\n\nউত্তৰ-পূব ভাৰত\n\nইতিহাস খণ্ডৰ আগকথা\n\nমৌৰ্যযুগৰ পৰৱৰ্তী ভাৰতবৰ্ষ\n\nগুপ্ত সাম্ৰাজ্যৰ উত্থান\n\nগুপ্তযুগৰ পৰৱৰ্তী ভাৰতবৰ্ষ\nপ্রাক্এঁতিহাসিক অসম\n\nমধ্যযুগৰ ভাৰতবৰ্ষৰ ইতিহাস অধ্যয়নৰ সমলসমূহ\nদিল্লীৰ চুলতানী যুগ (১২০৬-১৫২৬ খ্ৰীঃ)\nমোগল ৰাজত্ব কালত ভাৰতবৰ্ষ\nমোগলযুগ? সমাজ আৰু সংস্কৃতি\nঅর্থনীতি আৰু ৰাজনীতি খণ্ডৰ আগকথা\nআমাৰ চৌপাশৰ বজাৰ\nপৰিকল্পনা, বাজেট আৰু উন্নয়ন\nঅর্থনৈতিক উন্নয়নত চৰকাৰৰ ভূমিকা\nশ্ৰমৰ সমমযাদা আৰু সমমূল্য\nনাগৰিক আৰু নাগৰিকত্ব\nনিৰ্বাচন আৰু নিৰ্বাচনী প্ৰক্ৰিয়া\nগণতন্তু আৰু প্রচাৰ মাধ্যম\n\nপ্ৰান্তীয় গোট আৰু গণতান্ত্িক অধিকাৰ\n\n|\n\n১০-২০\n২১-৩০\n৩১-৪১\n৪২-৫০\n৫১.৫৭\n৫৮-৬৬\n৬৭-৭৫\n৭৬-৮৪\n৮৫-৯৬\n৯৭\n৯৮-১০৬\n১০৭-১১৪\n১১৫-১২২\n১২৩-১২৯\n১৩০-১৩৪\n১৩৫-১৪৩\n১৪৪-১৫০\n১৫১-১৫৮\n১৫৯\n১৬০-১৬৭\n১৬৮-১৭৫\n১৭৬-১৮৪\n১৮৫-১৯৩\n১৯৪-১৯৮\n১৯৯-২০৫\n২০৬-২১২\n২১৩-২২০",
+  "confidence": {
+    "word_count": 153,
+    "mean": 84.39,
+    "median": 93.74,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.306,
+  "page_elapsed_seconds": 3.751,
+  "peak_process_tree_rss_bytes": 297103360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

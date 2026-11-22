@@ -1,0 +1,68 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "",
+  "confidence": {
+    "word_count": 0,
+    "mean": null,
+    "median": null,
+    "minimum": null,
+    "maximum": null
+  },
+  "language_identification": {
+    "status": "empty",
+    "label": null,
+    "confidence": null,
+    "error": null
+  },
+  "review_flags": [
+    "empty_ocr",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Empty page!!\nEmpty page!!",
+        "Empty page!!"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 0.509,
+  "page_elapsed_seconds": 0.612,
+  "peak_process_tree_rss_bytes": 219000832,
+  "tesseract_warnings": [
+    "Empty page!!\nEmpty page!!",
+    "Empty page!!"
+  ],
+  "processed_this_run": true
+}

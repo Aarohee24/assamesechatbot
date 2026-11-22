@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 30,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "8৪8।\n\n৫।\n\nঙ৬।\n৭\n\nতলত দিয়া পুথিসমূহৰ পৰা আনন্দৰাম বৰুৱাই ৰচনা কৰা পুথিসমূহ বাছি\nউলিয়াই লিখা।\n\n৬ কৌটিল্যৰ অৰ্থশাস্ত্ৰ                   * উচ্চ সংস্কৃত ব্যাকৰণ\nঙ প্রাচীন ভাৰতৰ ভূগোল                   ৬ সৰস্বতী কণ্ঠাভৰণ\n* ভৱভূতিৰ মহাবীৰ চৰিত     * ভাগৱতৰ দশম স্কন্ধ\n* ইংৰাজী-সংস্কৃত অভিধান                  * সংস্কৃত ভাষাৰ বৃহৎ ব্যাকৰণ\n৬ মহাভাৰত                          ৬ সংস্কৃত শিক্ষাৰ্থী সহচৰ\n* নাম-ঘোষা\n\nআনন্দৰাম বৰুৱাই আই. চি. এছ. পৰীক্ষাত উত্তীৰ্ণ হোৰাৰ পাছত বিলাতত হোৱা\nবয়সৰ বিতৰ্কত মি. গ্ৰেণ্ট ডাফে দিয়া মন্তব্যটো নিজৰ ভাষাত লিখা।\n\nআনন্দৰাম বৰুৱাৰ কৰ্ম জীৱনৰ বিষয়ে কেইশাৰীমান বাক্য লিখা।\n‘ক’অংশত থকা শব্দৰ লগত ‘খ’ অংশত থকা অৰ্থবোৰ আঁচ টানি মিলোৱা।\n\nখ.অংশ\nঅতি শুৱনি, বহুতৰ মাজত চকুত পৰা\nসুনাম, যশস্যা\nমথা বা ঘোঁটা কাৰ্য\nপ্রতিদ্বন্দ্ব\nআশা নকৰা\nকামত লগোৱা, কামত নিয়োগ কৰা\n\nনেৰা নেপেৰাকৈ লাগি থকা কাৰ্য\nজ্ঞানী\n\nকোনো কাম কৰিবলৈ দৃঢ় ইচ্ছা\nবৰঙণি বা অৰিহণা",
+  "confidence": {
+    "word_count": 129,
+    "mean": 89.02,
+    "median": 94.73,
+    "minimum": 15.93,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.132,
+  "page_elapsed_seconds": 2.357,
+  "peak_process_tree_rss_bytes": 293494784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

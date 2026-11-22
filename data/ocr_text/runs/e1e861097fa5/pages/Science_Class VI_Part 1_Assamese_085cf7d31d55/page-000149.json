@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 149,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকৰ বিদ্যালয়ৰ পুথিভঁৰালত কিতাপবোৰ কেনেকৈ ৰাখে বাৰু? নিশ্চয়কৈ\nবিষয় হিচাপে সজাই ৰাখে। ফলত তুমি বিচৰা কিতাপখন সহজে পোৱা। দোকানতো\n\nচিত্ৰ 3.1 : দোকানত সঙ্গই থোৱা বিভিন্ন\n\nএকেধৰণৰ বস্তু একেলগে সজাই থোৱা থাকে। তাত বিভিন্ন ধৰণৰ বিস্কুট্ৰ পেকেটবোৰ\n\nএকেলগে ৰখা হয়। মণ্ডদাইলৰ পেকেটবোৰ আন এঠাইত একেলগে ৰাখে। কাষতে মচুৰ দাইলৰ\n\nপেকেটবোৰ থয়। তেনেদৰে আন বস্তুবোৰো সজায় ৰখা হয়। ফলত বিচাৰি পোৱাত সহজ হয়।\nগতিকে আমি জানিলোঁ যে একেধৰণৰ বস্তুবোৰ একেলগে ৰাখিলে সুবিধা হয়।\n\n[] ভিরয়া-কলাপ 5.2:\n\nচিত্ৰ 5 2ত থকা বস্তুবোৰ আকৃতি, বৰণ, কঠিনতা, কোমলতা, উজ্জ্বলতা আদিৰ\nওপৰত নিৰ্ভৰ কৰি শ্ৰেণীবিভাজন কৰা।\n\nচিত্র ৪.2 : আমাৰ চাৰিওফালৰ কিছুমান বস্ত\n\nউৰ ‘য়কেভেতলেলেলেলেেেচেচেচলেচলেচলেলেলেলেনেচেনেভঁঁৰ)",
+  "confidence": {
+    "word_count": 102,
+    "mean": 85.81,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.448,
+  "page_elapsed_seconds": 2.917,
+  "peak_process_tree_rss_bytes": 290660352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

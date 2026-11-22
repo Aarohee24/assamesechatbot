@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "‘জয়মতী’কথাছবিখনৰ আন কেইজনমান অভিনেতা-অভিনেত্ৰী হ’ল-_ ফুনু বৰুৱা, মোহিনী\nৰাজকুমাৰী, স্বৰ্গজ্যোতি বৰুৱা, মনোভিৰাম বৰুৱা, ফণী শৰ্মা, স্নেহ চন্দ্ৰ বৰুৱা, নৰেন বৰদলৈ,\nৰান৷ বৰুৱা, চামচুল হক, ৰাজেন বৰা, পুতুল হক, প্ৰতাপ বৰুৱা, ৰাজকুমাৰী গোহাঁই, সুবৰ্ণৰেখা\nশইকীয়া, ললিত মোহন চৌধুৰী, বনমালী দাস, প্ৰফুল্ল চন্দ্ৰ বৰুৱা, কমলা প্ৰসাদ আগৰৱালা আদি।\n\n১২ । আইদেউ সন্দিকৈৰ বিষয়ে বিভিন্ন উৎসৰপৰা তথ্য সংগ্ৰহ কৰি লিখা ৷\n১৩। শব্দজালখন মনোযোগেৰে চোৱা আৰু তাৰপৰা অৰ্থপূৰ্ণ শব্দ বিচাৰি তলত দিয়া খালী\n\nঠাইসমূহ পূৰ কৰা। প্ৰয়োজন হ’লে পাঠৰ সহায় ল’বা৷\n\nনি\n\nক\n\nদ্‌\n\nর্মা\n\nসু\n\nণি\n\nলি\n\nতি\n\nএঁ\n\nৰ\n\nহা\n\nৰ\n\nসি\n\nপো\n\nশ\n\nক\n\n(ক) পুৰাণ সম্বন্ধীয়\n\n(খ) ইতিহাস সম্পৰ্কীয়\n(গ) গুৰুৱে আশীৰ্বাদ কৰি দিয়া ফুল\n(ঘ) এশ বছৰ বিয়পা কাল\n\n(৬) বহু দূৰ যি\n\nটি প্ৰজ\"\"---\n\nআৰু সাক্ষাৎ গ্ৰহণ কৰি শ্ৰেণীকোঠাত পঢ়ি শুনোৱা ।\n১৬। তোমালোকে শ্ৰেণীকোঠাত ‘জয়মতী’ ছবিখন উপভোগ কৰি ছবিখনৰ বিষয়ে আলোচনা কৰা।\n\n(১০৫,\n\n_ \"াসমাচ\n\n১৪। দুজনীয়া গোটত বিভক্ত হৈ এজনে আনজনৰ পৰিচয়, অভিৰুচি, দৈনিক ৰুটিন, ভবিষ্যতে কি\nহ’ব খোজে আদি বিভিন্ন দিশৰ প্ৰশ্ন সুধি এটি সাক্ষাৎকাৰ লোৱা।\n\n১৫। তোমালোকৰ অঞ্চলৰ কোনো খেতিয়ক, শিল্পী, সাহিত্যিক বা অন্য যিকোনো ক্ষেত্ৰত পাৰদৰ্শিতা\nথকা এগৰাকী ব্যক্তিৰ সাক্ষাৎকাৰ কেনেকৈ ল’বা, তাৰ এটা আৰ্হি প্রস্তুত কৰি শিক্ষকক দেখুওৱা",
+  "confidence": {
+    "word_count": 139,
+    "mean": 84.95,
+    "median": 94.01,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.08,
+  "page_elapsed_seconds": 3.532,
+  "peak_process_tree_rss_bytes": 260198400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

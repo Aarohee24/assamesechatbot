@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 30,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২ম          দ্বীনিয়াত\n\nভ'ত্ত ৰ- ৰমজান মাহৰ শেষৰ দহ দিন সংসাৰৰ পৰা সম্পূৰ্ণ বিচ্ছিন্ন হৈ\nআল্লাহতাআলাৰ উপাসনাত নিজকে মছ জিদৰ ভিতৰত আৱদ্ধ কৰি ৰখাকে\nএতেকাফ বোলে। এতেকাফৰ অৰ্থ আৱদ্ধ কৰা ৷ শুৰুত্ব অনুসৰি এতেকাফক\nতিনি ভাগত ভাগ কৰা হৈছে- ১ ৷ বাজিব, ২ ৷ চুনতে মোৱাক্কাদা আৰু ৩।\nমোজ্তাহাব ৷\n\nৰমজান মাহত প্ৰত্যেক প্ৰাপ্তবয়স্ক নৰ-নাৰীয়ে বোজা বৰত পালন কৰা\n\nএকান্ত কৰ্তব্য ।\n\nপ্ৰশ্ন-কি কি কাৰণত বোজা মকৰাহ নহয়?\n\nউত্তৰ- বোজা মকৰাহ নোহোৱাৰ কাৰণবোৰ হ’ল- 3 ৷ চুৰ্মা লগালে, ২ ৷ শৰীৰত\nতেল ঘহিলে, ৩। ঠাণ্ডা পাবলৈ গা ধুলে, ৪ ৷ মিছৱাকেৰে দাতন কৰিলে,\n৫ । সুগন্ধি লগালে, ৬ ৷ ভুলক্ৰমে খোৱা-পিয়া কৰিলে আৰু ৭ ৷ কোনো মাখি\nবা ধোঁৱা হঠাৎ ভিতৰলৈ গ'লে।\n\nৰোজা ভংগ হোৱাৰ কাৰণবোৰ (০) 1) =-!-৮--)\n\nপ্ৰশ্ন- কি কি কাৰণত ৰোজা কাজা কৰা ৱাজিব?\n\nউত্ত ৰ- বোজা কাজা কৰিব পৰা কাৰণবোৰ হ’'ল- ১ ৷ ৰোজাদাৰৰ মুখত\nসময়ত অনিচ্ছাকৃতভাবে ডিঙিৰ ভিতৰলৈ পানী সোমাই গ'লে, ৩। বমি\nগিলিলে, ৪ । ইচ্ছা কৰি বমি কৰিলে, ৫ ৷ শিলগুটি বা কাগজৰ টুকুৰা গিলিলে,\n৬ ! দীতত লাগি থকা বস্তু গিলিলে, ৭ । কাণত তেল ঢালিলে, ৮ | দীতব পৰা\nওলোৱা তেজ গিলিলে, ৯ । ৰোজা ভংগ হোৱা বুলি খোৱা-পিয়া কৰিলে,\n১০ চুবহ চাদিকৰ পিচত ছেহ্ৰী খালে আৰু ১১। বেলি অন্ত যোৱা বুলি\nদিনতে ইফতাৰ কৰিলে।\n\nপ্রশ্ন- কি কি কাৰণত ৰোজা ভংগ হ’লে কাজা আৰু কাফুফাৰা দুয়োটাই ৱাজিব?\n\nউত্তৰ- ১। ৰোজাদাবে কোনো বস্তু বা ওষধ খালে, ২ ৷ স্বেচ্ছায় সহবাস কৰিলে\nআৰু ৩। বোজা ভংগ হোৱা বৃলি খোবা-পিয়া কৰিলে।",
+  "confidence": {
+    "word_count": 236,
+    "mean": 84.6,
+    "median": 92.01,
+    "minimum": 8.81,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.388,
+  "page_elapsed_seconds": 2.495,
+  "peak_process_tree_rss_bytes": 245211136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

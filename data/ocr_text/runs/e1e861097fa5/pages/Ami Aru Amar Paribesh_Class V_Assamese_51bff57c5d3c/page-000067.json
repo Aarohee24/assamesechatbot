@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ অনুশীলনী\n১। উত্তৰ লিখা\n\n(ক) মহাপুৰুষ শংকৰদেৱে অসমীয়া সংস্কৃতিলৈ আগবঢ়োৱা দুটা অৱদানৰ নাম লিখা।\n(খ) চাৰিবিধ ডিঙিত পিন্ধ৷ অসমীয়া গহনাৰ নাম লিখা।\n\n(গ) তিনিবিধ নৃত্যৰ নাম আৰু তাৰ লগত জড়িত তিনিবিধ বাদ্য যন্ত্ৰৰ নাম লিখা।\n\n(ঘ) চাউলৰ গুড়িৰ পৰা প্রস্তুত কৰা চাৰিবিধ খাদ্যবস্তুৰ নাম লিখা।\n\n(৬)শিৱসাগৰ জিলাত থকা পুৰণি দুটা কীৰ্তিচিহ্নৰ নাম লিখা ৷\n\n(চ)অসমত থকা দুটা মন্দিৰ,দুটা দৌল আৰু দুখন সত্ৰৰনাম লিখা ৷\n\n২। খালী ঠাই পূৰ কৰা-\n(ক) ব’হাগত                    পালন কৰা হয়।\n(খ) খেৰাই পূজা----____পালন কৰে।\n(গে) বিহু                        জাতীয় উৎসৱ।\n(ঘ) মিছিংসকলে     পালন কৰে।\n(৬) কৰম পূজা-____-\"-পালন কৰে।\n\n৩। অসমীয়া সংস্কৃতিলৈ মহাপুৰুষ শংকৰদেৱৰ অৱদানৰ বিষয়ে দহটা বাক্য লিখা।\n৪। চমুটোকা লিখা-\n\n(ক) বিহু (খ) পুতলানাচ (গঁ) অসমীয়া ভাষা (ঘ) সত্ৰীয়া নৃত্য (৬) উৎসৱ-পাৰ্বণ\n৫। ‘ক’অংশৰ লগত ‘খ’অংশ মিলোৱা --\n\n‘ক’         ‘খ’\nতেজপুৰ            ভূৱন পাহাৰৰ মন্দিৰ\nকামৰূপ                             টেগবাহাদুৰৰ গুৰুদ্বাৰ\nগোৱালপাৰা                    অগ্নিগড়\nধুবুৰী                              পোৱামক্কা\nকাছাৰ                                            সূৰ্য পাহাৰ\n\n৬। এখন শৰাইৰ ছবি আঁকা-\n\nৰূকুূককক",
+  "confidence": {
+    "word_count": 144,
+    "mean": 86.43,
+    "median": 93.04,
+    "minimum": 9.46,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.515,
+  "page_elapsed_seconds": 2.741,
+  "peak_process_tree_rss_bytes": 240521216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

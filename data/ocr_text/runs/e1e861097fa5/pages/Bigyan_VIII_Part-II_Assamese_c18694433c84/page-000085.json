@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ\nবঁ\n\nতোমালোকে কি শিকিল৷\n\nশম\n\nশম\n\nশম\n\nশম\n\nশম\n\nশম\n\n>\n\nপ্রাণীৰ প্ৰজনন দুইধৰণৰ। যৌন প্রজনন আৰু অযৌন\nপ্রজনন।\n\nপুং আৰু স্বী জনন কোষৰ মিলনৰ ফলত হোৱা\nপ্রজননক যৌন প্ৰজনন বোলে।\n\nস্ত্ৰী প্ৰজনন অংগৰ অংশসমূহ হৈছে - ডিম্বাশয়,\nডিম্ববাহী নলী আৰু জৰায়ু।\n\nপুং প্ৰজনন অংগৰ অংশসমূহ হল; অণ্ডকোষ,\nশুক্ৰবাহী নলী আৰু লিংগ ৷\n\nডিম্বাশয়ে স্ত্ৰী জনন কোষ উৎপন্ন কৰে যাক ডিন্বাণু\nবুলি কোৱা হয় আৰু অণ্ডকোষে পুংজনন কোষ\nউৎপন্ন কৰে, যাক শুত্ৰমণণু বোলে।\n\nডিম্বাণু আৰু শুক্ৰাণুৰ মিলনক নিষেচন বোলে। নিষিক্ত\nডিম্বাণুক যোজন কোষ বোলে।\n\nস্বীদেহৰ ভিতৰত হোৱা৷ নিষেচনক অন্তঃনিষেচন\nবোলে। মানুহৰ দেহত আৰু আন প্রাণী যেনে- কুকুৰা,\nগৰু আৰু কুকুৰৰ ক্ষেত্ৰত দেখা যায়।\n\nবোলে। ভেকুলী, মাছ, তৰামাছ আদিৰ ক্ষেত্ৰত এই\nনিষেচন দেখা যায়।\nযোজনকোষটো বাৰে বাৰে বিভাজন হৈ এটা ভ্ৰূণৰ\nজন্ম দিয়ে।\n\nভ্ৰাণটো পৰিৱৰ্তী বিকাশৰ বাবে জৰায়ুৰ বেৰত লাগি\nধৰে।\n\nভ্ৰূণৰ যিটো অৱস্থাত দেহৰ সকলো অংশ চিনিব পৰা\nহয়, তাক গৰ্ভল্ৰূণ বুলি কোৱা হয়।\n\nসিহঁতক জৰায়ুজ প্রাণী বোলে।\n\nকুকুৰা, ভেকুলী, জেঠী আৰু পখিলা আদিয়ে কণী\nপাৰে, সিহঁতক ডিম্বজ প্রাণী বোলে।\n\nসম্পূৰ্ণ পৰিৱৰ্তনৰ মাজেৰে পলুৰ পৰা প্রাপ্তবয়স্কলৈ\nসলনি হোৱাকে ৰূপান্তৰ বুলি কোৱা হয়।\n\nযি প্রকাৰৰ প্ৰজননত মাত্ৰ এজন পিতৃ বা মাতৃ জড়িত\nহয় তাকে অযৌন প্রজনন বোলে।\n\nহাইড্ৰাত মুকুলৰ পৰা নতুন জীৱৰ সৃষ্টি হয়। এই ধৰণৰ\nঅযৌন প্রজননক মুকুলন বোলে।\n\nএমিবাই নিজে নিজে দুটালৈ বিভক্ত হৈ প্রজনন ঘটায়।\nএইধৰণৰ অযৌন প্রজননক দ্বৈত বিভাজন বোলে।\n\nপ্ৰাণীৰ প্ৰজনন / 1২[২01)[10\"][10খ [{খ এ%খাখা.%][.9\n\n70 ;)",
+  "confidence": {
+    "word_count": 222,
+    "mean": 84.25,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.295,
+  "page_elapsed_seconds": 3.591,
+  "peak_process_tree_rss_bytes": 323092480,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

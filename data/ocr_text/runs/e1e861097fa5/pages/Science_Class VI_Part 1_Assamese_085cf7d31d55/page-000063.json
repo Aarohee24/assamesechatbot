@@ -1,0 +1,68 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 63,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তুমি জীৱবোৰৰ বিষয়ে কিছু কথা শিকিলা ৷ জীৱ এবিধে স্বাভাৱিক ভাবে যি ঠাইত বাস\n\nকৰিব পাৰে, সেই ঠাইকে জীৱবিধৰ আবাসস্থলী বুলি কোৱা হয়। আবাসস্থলীৰ পৰাই জীৱই\nখাদ্য আহৰণ কৰি লয়। এনে ঠাইতে নিজৰ বংশবৃদ্ধি ঘটায়।_\n\nমাটিত বাস কৰা জীৱসমূহক স্থূলজ জীৱ বোণা৷ হয়৷ ইহঁতৰ,আব্াসহূলী হ'ল স্থল\nবা মাটি। অৰণ্য, মৰুভূমি, পৰ্বতীয়া ঠাই আদি স্থলজ জীৱৰ আবাসস্থলী। পানীত বাস কৰা\nজীৱবোৰক জলজ জীৱ বুলি কোৱা হয়। জলজ জীৱৰ আবাসস্থলী সাধাৰণ পানী অথবা\nলুণীয়া পানী। সাগৰীয় জীৱবোৰ লুণীয়া পানীত বাস কৰে। এই সকলোবোৰ আবাসমস্থলীয়ে\nজৈৱ বৈচিত্ৰ্যত অৰিহণা যোগায়। ভেকুলীৰ দৰে কিছুমান প্রাণী মাটি আৰু পানী উভয়তে বাস\nকৰে। সেইবাবে এনে প্রাণীসমূহক উভচৰ প্ৰাণী বুলি কোৱা হয়।\n\nচু        জানৌ আহা        |\n\nভাৰতৰ পক্ষী মানৱ হিচাপে পৰিচিত\nচেলিম আলিয়ে (1896-1987) বিভিন্ন\nপ্রজাতিৰ ‘চৰাইৰ বৈচিত্ৰ্যতাৰ বিষয়ে\nঅধ্যয়ন কৰিবলৈ সমগ্ৰ দেশ ভ্ৰমণ\nকৰিছিল। তেওঁ পক্ষী সমূহৰ বাসস্থান\nআৰু পৰিভ্ৰমণৰ আৰ্হিবোৰ সূক্ষ্মণৱে _\"        ==\nনথিভুক্ত কৰিছিল আৰু চৰাইৰ সমৃদ্ধ\n\nবৈচিত্য্য থকা অঞ্চলবোৰ চিনাক্ত কৰিছিল। তেওঁৰ প্রচেষ্টাৰ ফলত কৰ্ণাটকৰ মাণ্ডৰ\nৰংগনাথিট্টু পক্ষী অভয়াৰণ্য আৰু ৰাজস্থানৰ ভৰতপুৰৰ কেওলাদেও ৰাষ্ট্ৰীয় উদ্যানৰ\nদৰে গুৰুত্বপূৰ্ণ স্থানত সংৰক্ষণৰ ব্যৱস্থা স্থাপন কৰা হৈছিল। চেলিম আলিয়ে ভাৰতীয়\nউপমহাদেশৰ চৰাইৰ ওপৰত এক এতিহাসিক দহটা খণ্ডৰ কিতাপ ৰচনা কৰিছিল।\nপক্ষীবিদ্যা আৰু সংৰক্ষণৰ ক্ষেত্ৰত তেওঁৰ অৱদানৰ স্বীকৃতি স্বৰূপে তেওঁক 1958 চনত\nপদ্ম ভূষণ আৰু 1976 চনত পদ্ম বিভূষণ সন্মান প্ৰদান কৰা হৈছিল।",
+  "confidence": {
+    "word_count": 204,
+    "mean": 88.95,
+    "median": 95.44,
+    "minimum": 2.43,
+    "maximum": 96.97
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 147 diacritics",
+        "Detected 147 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Science_Class VI_Part 1_Assamese-page-000063.png",
+  "page_image_sha256": "390e55e28e567232bf6c18934876a926233abf8aa4799206455ac778d01a69f8",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.094,
+  "page_elapsed_seconds": 3.5,
+  "peak_process_tree_rss_bytes": 154583040,
+  "tesseract_warnings": [
+    "Detected 147 diacritics",
+    "Detected 147 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

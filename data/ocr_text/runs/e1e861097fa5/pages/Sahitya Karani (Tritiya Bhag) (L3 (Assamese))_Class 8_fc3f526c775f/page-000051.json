@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 51,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ -- জ্ঞান সম্প্ৰসাৰণ\n১২। তলৰ গীতটি লগে-ভাগে গাওঁ আহা -_\n\nঅসম আমাৰ ৰূপহী, গুণৰো নাই শেষ\nভাৰতৰে পূৰ্ব দিশৰ সূৰ্য উঠা দেশ।\nগোটেই জীৱন বিচাৰিলেও\nঅলেখ দিৱস ৰাতি\nঅসম দেশৰ দৰে নেপাওঁ\nইমান ৰসাল মাটি।\n\nচিৰ বিনন্দীয়া তোমাৰ সেউজ পৰিৱেশ\nভাৰতৰে পূৰ্ব দিশৰ সূৰ্য উঠা দেশ।\nব’হাগতে আমাৰে আই\nমহুৰা হৈ ঘূৰে\nমাঘত সোণৰ হাতেৰে\nলখিমী আদৰে।\n\nগীতটিৰ ৰচক -ড“ ভূপেন হাজৰিকা। ৰচনাকাল - ১৯৬৯\nউৎস ঃ ড* দিলীপ কুমাৰ দত্তৰ ‘ভূপেন হাজৰিকাৰ গীত আৰু জীৱন ৰথ’ পৃষ্টা-১৭৭, প্রকাশক-- বনলতা, পাণবজাৰ\n\nজানো আহা\n\nপ্রয়াত ড” ভূপেন হাজৰিকা অসমীয়া সাহিত্য তথা সাংস্কৃতিক জগতৰ এজন বৰেণ্য\nব্যক্তি আছিল। ১৯২৬ চনৰ ৮ ছেপ্টেম্বৰত শদিয়াত তেখেতৰ জন্ম হৈছিল। দেউতাকৰ নাম\nঅসম, ভাৰতবৰ্ষ তথা আস্তঃৰাষ্ট্ৰীয় পৰ্যায়ত সাংস্কৃতিক দিশত যথেষ্ট বৰঙণি আগবঢ়াই থৈ\nগৈছে। তেখেতে ৰচনা কৰা গীতবোৰক ‘ভূপেন্দ্ৰ সংগীত’ নামেৰে জনা যায়। শেহতীয়াকৈ\nপ্রদান কৰিছে। ২০১২ চনৰ ৫ নৱেম্বৰ তাৰিখে তেখেতে মৃত্যুবৰণ কৰে।\n\n=== গীতটোৰ এটা অংশহে দিয়া হৈছে, সম্পূণ গীতটো সংগহ কৰি ছাত্ৰ-ছাত্ৰীসকলক গোৱাব।\n         = নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 156,
+    "mean": 88.83,
+    "median": 95.8,
+    "minimum": 7.8,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.093,
+  "page_elapsed_seconds": 3.375,
+  "peak_process_tree_rss_bytes": 239136768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

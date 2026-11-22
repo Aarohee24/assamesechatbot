@@ -1,0 +1,65 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 190,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "€.3.1 ]]89110])]0]]]10\n\n]]8৮6 ৮00 96211 ৮001 10012 96[2818116 16 91118]] ])6001269 1110]]]\n12019629 8110 1106? ১]16 96[2818069 ৮0% )1010116 016 |)5001298 ছম্প1{|] ]]8110 (]\"186.\n6০.2). []ঞ্া00])]]80102 19 09210] ছ|12[] 1|16 ০011]|2011211089 01 8, 1]1ম001'6 01[]621\"\n11] 9118[)6, 9126 01\" ০০10001\", '[]]19 1]16100 19 812|)]108.012 111 ৪61281'80116 91]]8]]\n0081100268 01 90102808110629.\n\n(80 ৮00 ]011)|৩2 01 ০০||6001118. 016 11106 ঠ181119 11\"01]] {]6 1106 9[8]]9 00%\n118110|210]1116 11] 13196 0081010629?2\n\nতৰ      নু     ৰৈ\n\n1716. €,2 : 1787091010719 0/12600165./70771 71066 97\"01775\n\n]])]016 : (1) ]1]|]10 000901116 1]1স[001629 8 ৮001 |1101]762. [02]1]1 সে ছছ]]10]] ০8]]\n066 96]2808060 60% 18110])1]116 8110 110] ০৪811100 062, ]\"1]| {]6 08012 ঠ9ঠ1খণা]\n06210.\n\n1.  ])1|621211[. /%%]2]))16, 01801662             ০৪                 5126 ৪8010\n1[001[9 111 9           260.                                             9118|]26 01 176\n08916!                                                            11019 8162\n0116121]1{\n2.\n\n(11) '[]}11]; 80000 16 ]1[]]108010118 01 18070 ])1]116.\n\nকাক ৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰৰেবোোৱ কৰাতো!",
+  "confidence": {
+    "word_count": 133,
+    "mean": 44.25,
+    "median": 42.95,
+    "minimum": 0.0,
+    "maximum": 93.65
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Science_Class VI_Part 1_Assamese-page-000190.png",
+  "page_image_sha256": "9689123375f0b549576f0fc8a9d6394f8cee58adf61383e1a7b63a426ed43334",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.592,
+  "page_elapsed_seconds": 2.93,
+  "peak_process_tree_rss_bytes": 160993280,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.291,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

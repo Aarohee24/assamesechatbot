@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 187,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ল’ৰা-ছোৱালীক ডাঙৰ-দীঘল কৰাত পৰিয়ালে যে সমান গুৰুত্ব দিব লাগে তাক অনুভৱ কৰিব।\nমহিলাৰ কামৰ মৰ্যাদাৰ বিষয়ে বুজি পাব।\n\nপুৰুষ-মহিলাৰ শ্রমক সমমৰ্যাদা আৰু সমমূল্য প্রদান কৰাৰ বিষয়ে সজাগ হ’ব।\n\nসমাজত মহিলাৰ গুৰুত্ব আৰু অৱদান সম্পৰ্কে অৱগত হ’ব।\n\nলিংগ বৈষম্যহীন সমাজ এখন গঢ় দিবলৈ অনুপ্রাণিত হ’ব।\n\n৪ পৰিয়ালে ল’ৰাজন আৰু ছোৱালীজনীৰ প্ৰতি লোৱা যত্নত কি তাৰতম্য দেখিবলৈ পাইছা?\n€ ল’ৰাজন আৰু ছোৱালীজনীয়ে কৰা কামৰ মাজত কিবা পাৰ্থক্য দেখিছানে? যদি দেখিছা কি দেখিছা?\n৪ তোমালোকৰ নিজৰ ভাই-ভনীৰ মাজত এনে পাৰ্থক্য থকা উচিত বুলি ভাবা নে ?\n\n১৮৫\"",
+  "confidence": {
+    "word_count": 84,
+    "mean": 90.77,
+    "median": 95.97,
+    "minimum": 36.57,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.375,
+  "page_elapsed_seconds": 3.129,
+  "peak_process_tree_rss_bytes": 216268800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

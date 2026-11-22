@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 19,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 1.৪ ঃ পোষক উদ্ভিদত অমৰলতা\n(€7090018, 01] 110901)1811()\n\nকৰি শিক্ষকৰ লগত আলোচনা কৰিবাচোন।\n\nহ          প্রহেলিকাই জানিব বিচাৰিছে\n\nযে আমাৰ তেজ শোহা মহ (]*[০9]010029),\nউৰহ (3০9 6089), ওকণি ([166) আৰু\nজোকবোৰো (][,96০6০9).পৰজীৱী নেকি?\n\nতোমালোকে বাৰু কেতিয়াবা দেখিছা বা শুনিছানে যে\nউদ্ভিদেও প্রাণী ভক্ষণ কৰে? কিছুমান উদ্ভিদ আছে\nযিবোৰে পোক-পতংগ ধৰি থব পাৰে আৰু সিহঁতক\nহজম কৰিব পাৰে। এই কথাটো আশ্চৰ্যজনক নহয়নে\nবাৰু? এইবোৰ উদ্ভিদ সেউজীয়া বা অন্য ৰঙৰো হ’ব\nপাৰে। চিত্র 1.6 ৰ উদ্ভিদ জোপালৈ চোৱা। কলচী বা\nকলহ সদৃশ আকৃতিটো (])1(০]114]1].6 7000012)\nপাতৰে ৰূপান্তৰ। পাতৰ আগলি অংশ এখন ঢাকনিৰ\nআকাৰ লয়, যিখনে কলহটোৰ মুখখন খোলা আৰু\nবন্ধ কৰিব পাৰে। কলহটোৰ ভিতৰত তলমুৱাকৈ থকা\n\nকিছুমান শুং (90116) থাকে।\nউদ্ভিদৰ পৰিপুষ্টি\n\nযেতিয়া কোনো পোক-পতংগ কলহটোত পৰে,\nতেতিয়া ঢাকনিখন বন্ধ হৈ যায় আৰু পতংগটো\nশুংবোৰত সাঙোৰ খাই পৰে। কলহত থকা পাচক\nৰসে (])18290%6 ]010০2) পোক বা পতংগটোক\nহজম কৰে। এনেধৰণৰ পোক-পতংগ খোৱা উদ্ভিদক\nপতংগভোজী উদ্ভিদ (][1196001%401009 ])[81])\nবোল৷ হয়।\n\nএনেধৰণৰ উদ্ভিদে মাটিৰপৰা সকলো\nলাগতিয়াল পুষ্টি (খ৷৷৷100]}) নোপোৱাটো সম্ভৱনে\nবাৰু?\n\nপ্রজ্ঞান বিবুধিত পৰিছে। যদি কলচী\nউদ্ভিদ সেউজীয়া ৰঙৰ হয় আৰু ইহঁতে\nসালোকসৃংশ্লেষণ প্রক্ৰিয়া সংঘটিত কৰিব\nপাৰে, তেন্তে ইহঁতে কিয় পোক-পতংগক\nখাদ্য হিচাপে গ্ৰহণ কৰে?\n\nকলচীলৈ ৰূপান্তৰিত হোৱা পাত\n(][,681110011620 11100 |)1(0]]21)\n\nচিত্ৰ 1.6 ঃ ঢাকনি আৰু কলচীৰ সৈতে কলচী উদ্ভিদ\n(]\"1(0]]21' [)]91]0 9]10 11196 [10] 8110 )1(0]]621')\n\n5",
+  "confidence": {
+    "word_count": 205,
+    "mean": 83.94,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.277,
+  "page_elapsed_seconds": 3.803,
+  "peak_process_tree_rss_bytes": 299978752,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

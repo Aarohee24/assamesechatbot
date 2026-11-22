@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 101,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চ্রি 43.9 : পথাৰৰ পৰা কাহীলৈ খাদ্য পৰিক্ৰমা\n\nধান বা অন্য শস্য পথাৰত ৰোৱাৰ পৰা গ্ৰাহকৰ খাদ্যৰ কাঁহীলৈ অতিক্ৰম কৰিবলগীয়া\nদূৰত্বক ফুড মাইল বোলা হয়। ইয়াক উৎপাদকৰ পৰা গ্ৰাহকৰ কাঁহীলৈ খাদ্যই পাৰ হৈ অহা\nদূৰত্ব হিচাপেও প্রকাশ কৰিব পাৰি।\nপৰিবহণৰ কাৰণে হোৱা খৰচ আৰু প্ৰদূষণ কমে। স্থানীয়ভাৱে উৎপাদিত খাদ্য-সামগ্ৰীৰ\nখাদ্য মাইল কম। সেয়েহে এই খাদ্যবোৰ আমি কম খৰচত পাব পাৰোঁ; প্রকৃতিত প্ৰদূষণো\nআৰু স্বাস্থ্যকৰো হয়। সেয়ে তোমালোকে তোমালোকৰ অঞ্চলত উৎপাদিত খাদ্যবোৰহে\nখাবা । তোমালোকৰ অঞ্চলত পোৱা তেনেকুৱা কিছুমান খাদ্য সামগ্ৰীৰ নাম আছে যদি\nলিখা।\n\n  বহুলোকে খাদা অপচয় কৰে। আমি যিমান খাদ খাব পাৰোঁ সিমান খাদ্য আমাৰ\n' কীঁহীখনত লোৱা উচ্তি। ই খাদ্যৰ অপচয় হাস কৰে। খেতিয়ক আৰু অন্যান্য\n।' সম্প্ৰদায়ৰ লোকসকলে খেতি পথাৰৰ পৰা আমাৰ কীহীলৈ খাদ্য অনাৰ বাবে\n! হোৱা কষ্ট আৰু পৰিশ্রম মনত ৰখা উচিত।\n\n[৩ তসন। সদন চআসও\"। দসত। দসম। দসম। ভসন। সস। েস। আসমনঞ;। আসসস। ভসস৪। ভোসত  সন।। সসৰ।। চসোলঃ। সসর। দসরৰ। দঅআমরন।। সআসআ। সসর। আজ; আস। আৰমল৪। আস। আসজ সমজ।। সনত ৰম আসম ভআস। ভজ আজ\" সন আমৰ আম। আআমম। আজ আৱ আন ন আভ্ === == === =}\n\n৮ == = শঙ্ আঙ্ দঙ্দ আঙ্গ এ এড ৬\" - ৬- এশ",
+  "confidence": {
+    "word_count": 187,
+    "mean": 62.76,
+    "median": 89.07,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.125,
+  "page_elapsed_seconds": 3.57,
+  "peak_process_tree_rss_bytes": 316624896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

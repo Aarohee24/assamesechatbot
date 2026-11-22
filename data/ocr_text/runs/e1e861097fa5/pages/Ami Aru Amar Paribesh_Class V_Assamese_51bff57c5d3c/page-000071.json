@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 71,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দলত আলোচনা কৰিলিখা--\n> তোমালোকে বিদ্যালয়ত থকাৰ সময়ত ভূমিকম্প আহিলে কি কৰিবা?\n\n> ভূমিকম্পৰ ফলত হোৱা ক্ষয়-ক্ষতিৰ পৰিমাণ কমাবলৈ আগতীয়াকৈ কি ব্যৱস্থা ল’ব পাৰি?\n\nআমি আটায়ে বানপানীৰ লগত কম-বেছি পৰিমাণে পৰিচিত। ই অসমৰ এটা এৰাব নোৱাৰা\nদুৰ্যোগ। প্রায় প্ৰতিবছৰে অসমত কম-বেছি পৰিমাণে বানপানী হয়। এই বানপানীয়ে কেতিয়াবা\nভয়ানক ৰূপ ধাৰণ কৰিব পাৰে।\n\nঅসমত বাৰিষ৷ কালত বেছিকৈ বৰষুণ হয় বাবে নৈ-উপনৈ আদি জলাশয়বোৰত লাহে লাহে\nপানী বাঢ়িবলৈ ধৰে। যদি এই বৰষুণৰ পৰিমাণ অত্যধিক হয়, তেতিয়া পাহাৰবোৰৰপৰা নামি অহা\nপানীয়ে জলাশয়বোৰ ওপচাই পেলায়।ওপচি পৰা জলাশয়সমূহৰ পানীয়ে দাঁতিকাষৰীয়া অঞ্চলবোৰ\nবুৰাই পেলায়। তাকে বানপানী বুলি কোৱা হয়। গোলকীয় উষ্ণতাৰ ফলত হিমবাহৰ বৰফ গলি বা\nডাঙৰ ভূমিকম্প, হোৱাৰ ফলতো বানপানী হ’ব পাৰে। এইবোৰ হ’ল সম্পূৰ্ণ প্রাকৃতিক কাৰণত হোৱা\nবানপানী।\n\nবানপানীৰ প্ৰকোপ অধিক হ’লে, মানুহ আৰু প্রাণীৰ বহুতো ক্ষতি হয়। মানুহৰ ঘৰ-দুৱাৰ, সা-\nসম্পত্তি, গছ-গছনি, প্রাণী আদি পানীত উটি যায়। মানুহ গৃহহাৰ৷ হয় আৰু সা-সম্পত্তিৰ বিস্তৰ\nক্ষতিসাধন হয়। বানপানীৰ সময়ত দুৰ্ঘটনাত পতিত হৈ মানুহ, প্রাণী আৰু চৰাই-চিৰিকটিৰ মৃত্যু হয়।\nবানপানী হৈ যোৱাৰ পাছত পৰিৱেশ প্রদূষিত হৈ কলেৰা, গ্ৰহণী, টাইফয়েড আদি ৰোগত মানুহ\nআক্ৰান্ত হয়। উপযুক্ত ব্যৱস্থা নল’লে এনেবোৰ ৰোগে মহামাৰীৰ ৰূপ ধাৰণ কৰিব পাৰে।\n\n৬১.",
+  "confidence": {
+    "word_count": 179,
+    "mean": 90.46,
+    "median": 96.04,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.871,
+  "page_elapsed_seconds": 3.313,
+  "peak_process_tree_rss_bytes": 243253248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

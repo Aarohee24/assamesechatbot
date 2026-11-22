@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 96,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানিলওঁ আহা--\n\nয়\n\nয়\nয়\n\nচিন্তা কৰি লিখোঁ আহা-\n\n>\n\nবেংকবোৰে গ্ৰাহকৰ টকা জমা ৰাখে৷ গ্ৰাহকক খ৷৭ দিয়ে গ্ৰাহকে বেংকত টকা জমা ৰাখিলে সুত\nপায়। আনহাতে খ৷ণ ল’লৈ বেংকক সুত দিব লগা হয়।\n\nচৰকাৰী কৰ্মচাৰীসকলক চৰকাৰে বেংকৰ জৰিয়তে দৰমহা দিয়ে।\n\nআজি-কালি বেংকবোৰে গ্রাহকসকলক\nএ.টি.এমৰ পৰা টকা উলিয়াব পৰা৷ আৰু জমা\nকৰিব পৰা সুবিধা কৰি দিছে। (এ.টি.এম.- মানে\n‘অট’মেটেড টেলাৰ মেচিন’)\n\nম’বাইল ফোন বা লেপটপত ইণ্টাৰনেট সংযোগ\nকৰি আজি-কালি যিকোনো সময়ত ঘৰতে বহি\nটকাৰ লেন-দেন কৰিব পাৰি। এইবোৰ সুবিধাও\nবেংকবোৰে গ্রৰাইকসকলক দিছে।\n\nতোমালোকৰ ওচৰত বেংক আছেনে? যদি আছে\nবেংকৰনাম লিখা ৷\n\nবেংকবোৰ নথকা হ’লে আমাৰ কি.কি অসুবিধা\nহ’লহেতেন?\n\nমোহনৰ মাকে এখন চৰকাৰী চিকিৎসালয়ত কাম কৰে । তেখেত এগৰাকী নাছ। সৰুৰেপৰা\n\nমোহনৰ বেমাৰ-আজাৰ হ’লে মাক-দেউতাকে প্রায়ে তাক মাকে কাম কৰা চিকিৎসালয়খনলৈ লৈ\nযায় । ডাঙ্জৰে পৰীক্ষা-নিৰীক্ষা কৰি ওঁষধ দিয়ে । ডাজৰে লিখি দিয়া ওষধ খাই তাৰ বেমাৰ ভাল হয় ।\nমোহনৰ মাকে মানৱ সেৱাৰ লগত জড়িত এনে প্ৰতিষ্ঠানত কাম কৰিবলৈ পাই অতিকৈ গৌৰৱ অনুভৱ\nকৰে। তেখেতে চিকিৎসালয়ত ডাঙ্তৰসকলক সহায় কৰাৰ লগতে ৰোগীসকলক চোৱা-চিতা কৰে।",
+  "confidence": {
+    "word_count": 162,
+    "mean": 83.53,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.11,
+  "page_elapsed_seconds": 3.928,
+  "peak_process_tree_rss_bytes": 234278912,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

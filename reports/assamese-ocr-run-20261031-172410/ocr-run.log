@@ -1,0 +1,52 @@
+2026-10-31 17:24:10,270 INFO Starting pilot run: 17 PDFs, 50 selected pages, settings e1e861097fa5
+2026-10-31 17:24:11,965 INFO Page complete: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.22 confidence=57.03 time=1.687s flags=low_confidence,human_review_required
+2026-10-31 17:24:13,925 INFO Page complete: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.44 confidence=33.4 time=1.958s flags=low_confidence,human_review_required
+2026-10-31 17:24:16,295 INFO Page complete: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.66 confidence=42.43 time=2.357s flags=low_confidence,human_review_required
+2026-10-31 17:24:20,548 INFO Page complete: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.36 confidence=87.81 time=4.246s flags=human_review_required
+2026-10-31 17:24:23,820 INFO Page complete: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.72 confidence=90.23 time=3.269s flags=human_review_required
+2026-10-31 17:24:27,465 INFO Page complete: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.109 confidence=87.74 time=3.643s flags=human_review_required
+2026-10-31 17:24:30,957 INFO Page complete: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.36 confidence=89.29 time=3.486s flags=human_review_required
+2026-10-31 17:24:33,917 INFO Page complete: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.72 confidence=88.31 time=2.958s flags=human_review_required
+2026-10-31 17:24:36,296 INFO Page complete: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.108 confidence=82.18 time=2.375s flags=human_review_required
+2026-10-31 17:24:39,141 INFO Page complete: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.37 confidence=88.58 time=2.839s flags=human_review_required
+2026-10-31 17:24:42,294 INFO Page complete: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.74 confidence=84.0 time=3.141s flags=human_review_required
+2026-10-31 17:24:46,295 INFO Page complete: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.111 confidence=86.92 time=3.996s flags=human_review_required
+2026-10-31 17:24:49,425 INFO Page complete: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.37 confidence=87.15 time=3.116s flags=human_review_required
+2026-10-31 17:24:52,436 INFO Page complete: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.74 confidence=81.55 time=3.008s flags=human_review_required
+2026-10-31 17:24:55,888 INFO Page complete: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.112 confidence=86.46 time=3.449s flags=human_review_required
+2026-10-31 17:25:00,164 INFO Page complete: Assamese.pdf p.30 confidence=91.28 time=4.268s flags=human_review_required
+2026-10-31 17:25:03,774 INFO Page complete: Assamese.pdf p.60 confidence=90.38 time=3.608s flags=human_review_required
+2026-10-31 17:25:07,732 INFO Page complete: Assamese.pdf p.89 confidence=91.0 time=3.954s flags=human_review_required
+2026-10-31 17:25:10,826 INFO Page complete: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.62 confidence=88.12 time=3.084s flags=human_review_required
+2026-10-31 17:25:14,701 INFO Page complete: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.124 confidence=89.79 time=3.873s flags=human_review_required
+2026-10-31 17:25:17,607 INFO Page complete: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.187 confidence=78.32 time=2.895s flags=human_review_required
+2026-10-31 17:25:22,100 INFO Page complete: Bigyan_VIII_Part-II_Assamese.pdf p.72 confidence=41.65 time=4.478s flags=low_confidence,human_review_required
+2026-10-31 17:25:26,600 INFO Page complete: Bigyan_VIII_Part-II_Assamese.pdf p.144 confidence=42.76 time=4.498s flags=low_confidence,human_review_required
+2026-10-31 17:25:29,824 INFO Page complete: Bigyan_VIII_Part-II_Assamese.pdf p.215 confidence=89.9 time=3.22s flags=human_review_required
+2026-10-31 17:25:32,457 INFO Page complete: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.8 confidence=81.16 time=2.627s flags=human_review_required
+2026-10-31 17:25:35,082 INFO Page complete: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.16 confidence=82.43 time=2.623s flags=human_review_required
+2026-10-31 17:25:37,588 INFO Page complete: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.23 confidence=83.51 time=2.504s flags=human_review_required
+2026-10-31 17:25:39,627 INFO Page complete: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.17 confidence=83.75 time=2.03s flags=human_review_required
+2026-10-31 17:25:41,713 INFO Page complete: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.34 confidence=84.78 time=2.084s flags=human_review_required
+2026-10-31 17:25:43,994 INFO Page complete: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.52 confidence=69.72 time=2.277s flags=human_review_required
+2026-10-31 17:25:46,355 INFO Page complete: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.29 confidence=84.24 time=2.352s flags=human_review_required
+2026-10-31 17:25:48,631 INFO Page complete: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.58 confidence=79.14 time=2.274s flags=human_review_required
+2026-10-31 17:25:49,925 INFO Page complete: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.88 confidence=85.48 time=1.29s flags=human_review_required
+2026-10-31 17:25:51,995 INFO Page complete: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.25 confidence=90.59 time=2.063s flags=human_review_required
+2026-10-31 17:25:53,518 INFO Page complete: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.50 confidence=86.09 time=1.52s flags=human_review_required
+2026-10-31 17:25:55,455 INFO Page complete: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.76 confidence=79.8 time=1.936s flags=human_review_required
+2026-10-31 17:25:58,618 INFO Page complete: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.36 confidence=87.34 time=3.154s flags=human_review_required
+2026-10-31 17:26:01,814 INFO Page complete: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.72 confidence=91.58 time=3.192s flags=human_review_required
+2026-10-31 17:26:06,084 INFO Page complete: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.109 confidence=90.46 time=4.266s flags=human_review_required
+2026-10-31 17:26:10,865 INFO Page complete: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.56 confidence=90.35 time=4.77s flags=human_review_required
+2026-10-31 17:26:16,248 INFO Page complete: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.112 confidence=88.58 time=5.38s flags=human_review_required
+2026-10-31 17:26:18,891 INFO Page complete: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.169 confidence=85.01 time=2.639s flags=human_review_required
+2026-10-31 17:26:22,403 INFO Page complete: Science_Class VI_Part 1_Assamese.pdf p.63 confidence=88.95 time=3.5s flags=human_review_required
+2026-10-31 17:26:27,642 INFO Page complete: Science_Class VI_Part 1_Assamese.pdf p.126 confidence=42.36 time=5.236s flags=low_confidence,human_review_required
+2026-10-31 17:26:30,574 INFO Page complete: Science_Class VI_Part 1_Assamese.pdf p.190 confidence=44.25 time=2.93s flags=low_confidence,human_review_required
+2026-10-31 17:26:35,353 INFO Page complete: Spandan-Part I-ClassIII-Assamese(L1).pdf p.38 confidence=60.43 time=4.764s flags=human_review_required
+2026-10-31 17:26:39,893 INFO Page complete: Spandan-Part I-ClassIII-Assamese(L1).pdf p.76 confidence=86.24 time=4.537s flags=human_review_required
+2026-10-31 17:26:44,469 INFO Page complete: Spandan-Part I-ClassIII-Assamese(L1).pdf p.115 confidence=81.29 time=4.571s flags=human_review_required
+2026-10-31 17:26:46,854 INFO Page complete: Unmesh I-Class VI-Assamese.pdf p.51 confidence=82.11 time=2.375s flags=human_review_required
+2026-10-31 17:26:51,851 INFO Page complete: Unmesh I-Class VI-Assamese.pdf p.102 confidence=89.18 time=4.996s flags=human_review_required
+2026-10-31 17:26:52,975 INFO Run complete: selected=50 newly_processed=50 reused=0 failed=0 not_selected=2509

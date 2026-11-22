@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 178,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3. স্ব 118.019 11180021\"/ ]+50|)[811] সথ1{|] 6১%0811]|)|29.\n\n4. [101] ড]10]] {0 |)10])2610169 ০৪11 ড6 98% 0180 900106 198 8 1]180021\"7\n\n5. স্ব্9[1(6 16 1180116 01 1001\" 178(2118|9 00% ঘ]]10]] স্/6.081] 1]18|06 8 [001110|621\",\n6. স্বখ]]8019 [,0906?\n\n7. ঘ%110(6 11602\" {116 0110 1116, ৪2110211069 816 ০011600 01\" 1110011.2601.,\n\n(৪) %%00019 '81181)281211{, 00 51899 19 0])8009,\n(0) ০৪ঘ%009019 ৪010.012 11) ঘ্8[21..\n\n(০) ০৪1{19 9010.012 11] স্/8(621..\n\n(0) /* ])1606 01 .স/000 1089 11] স/৪2ো\"\n\n(6০) €0001100 01] 19 9010.012 11] স্/8(621..\n\n(}) 0]৮0211116 19 9010.012 11} স/8(621..\n\n(2) €:00]2621 8110 11011 816 [09008 1]8.02118]\n(]}) /%*11' 18 {18179])81'21]{.,\n\n8. [9[৪810]] {116 1]8(611819 খ্ধ1{|1 16.0016009 ]\"01]] কষয|]1]] 116 00|60019 11806\n\n0) 0\n00]1606                    [96119]\n০০০০০]                    00001]\nঘখ্‌৪1]                         ঘ্4000\n41811\"                        01899\n']0110121\"                       128]261\n16890                          ][\"01]\n\n9. খ৪৷176 ৮০ ০0]6009 18{ 816 11802 01) 011)|8910.\n10. ]\"1|| 11] |16 018111.\n\n1) '[]6 9৪81116 00160 0811 06110806 0০1 011216211{\n\n11) '[]26 176100 01 ৪811.81161116 01 0016019 111 (0 9£100128 19 ০৪160.\n\n111) '[]]26 8111001]1{ 01 11821\" 1)/6921]{ 11] 811 00160019 07162           ০1016\n\n00601.\n\n1ঘ) '[]6 9])8০০ 00002160 0 8101 001600189",
+  "confidence": {
+    "word_count": 174,
+    "mean": 43.07,
+    "median": 38.23,
+    "minimum": 0.0,
+    "maximum": 96.46
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3842,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.012,
+  "page_elapsed_seconds": 3.296,
+  "peak_process_tree_rss_bytes": 299454464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

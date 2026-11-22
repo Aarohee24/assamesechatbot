@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 12,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সাধাৰণতে সাময়িকভাৱে বা\nস্থায়ীভাৱে জলমগ্ন হৈ থকা\nমাটিভাগেই হ’ল জলাহভূমি\n\nউদ্ভিদ হ’ল প্রাকৃতিক পৰিৱেশৰ মুখ্য উপাদান৷ প্ৰকৃতিত কেৱল উদ্ভিদেহে নিজৰ খাদ্য প্রস্তুত\nকৰিব পাৰে। মানুহৰ দৰে সকলোবোৰ জীৱই খাদ্যৰ বাবে উদ্ভিদৰ ওপৰত নিৰ্ভৰশীল৷ আমি সচৰাচৰ\nদেখি থকা বৃক্ষ, গুল্ম, লতা আৰু তৃণজাতীয় উদ্ভিদৰ উপৰি আমাৰ চৌপাশে আৰু কিছুমান জীৱ\n\nফে\n\nসকলে পৰিৱেশত একেধৰণৰ উদ্ভিদ-পোৱা নাযায়। ভিন ভিন পৰিৱেশত উদ্ভিদ ভিন ভিন হয়।\n\nপৃথিৱীৰ কিছুমান অঞ্চলত প্রচণ্ড গৰম আৰু\nগোটেই বছৰে অধিক বৰষুণ হয়। এই অঞ্চলবোৰ\nওখ, শকত, টান আৰু অধিক ঠাল-ঠেঙুলিযুক্ত\nবৃক্ষজাতীয় উদ্ভিদেৰে ভৰি থাকে।\n\nতৃণভূমি অঞ্চলত বৃহৎ এলেকাজুৰি ঘাঁহনি\nদেখিবলৈ পোৱা যায়। ঘাঁহবোৰৰ শিপাবোৰ দীঘল\n\nবনাঞ্চল\n\nপানীত ওপঙি থকা পুণী, মেটেকা আৰু পানী\nবিভিন্ন ধৰণৰ কচু, ঢেঁকীয়া, বিহলঙনী আদি\nজলাহভূমিত হোৱা উদ্ভিদ। পানী আৰু মাটি- এই দুটা\nপ্ৰধান উপাদানেৰে ইয়াৰ পৰিৱেশ গঢ়ি উঠে৷\n২:",
+  "confidence": {
+    "word_count": 125,
+    "mean": 90.07,
+    "median": 95.83,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.918,
+  "page_elapsed_seconds": 3.746,
+  "peak_process_tree_rss_bytes": 220258304,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 125,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮8591 7\n\nআহোম ৰাজত্‌কালৰ কেইবাখনো ৰাজধানীৰ ভিতৰত গড়গাঁওখন আছিল অন্যতম। স্বৰ্গদেউসকলে নিজৰ\nৰাজ্যৰ ৰাজধানীখন বৰ আটোম-টোকাৰিকৈ সজাইছিল। গড়গাঁৱৰ অতীত কীৰতি লৈ ৰচিত এই কবিতাটিত আমি\nঅতীতৰ গৌৰৱময় এতিহাৰ কথা জানিব পাৰিম। এই কবিতাটিত থকা স্বদেশ-পশ্রেমৰ ভাবধাৰা, বণৰ্নাৰ কৌশল, ছন্দৰ\nপ্ৰয়োগ আৰু ছবি ধৰ্মিতাই আমাক মুগ্ধ কৰে।\n\nগড়গাঁও, গড়গাঁও, কথা৷ শুনি তল যাওঁ,\nউভতিব খোজে মাৰ-নাও।\n=== ওচৰতে দেখি গড়গাঁও।\nওলট্‌-পালট্‌ দেশ, কথাৰে নহয় শেষ,\nকটাৰীৰো ডাবে তাৰ কাটে;\n_ বাঘ-গৰু হালে হালে, একে ঘাটে পানী খালে,\nনগৰৰ দেও-লগা ঘাটে;\n\n-_ দেও তাতে ফুৰে হাঠে-বাটে।\nবিদেশীৰ চকু থিৰ, স্বদেশীৰ ওখ শিৰ,\nদেও-লগা মানুহৰ দেশ;\nঅহা-যোৱা নাই তাত শেষ;\nজনে জনে ভিন্‌ ভিন্‌ বেশ।\nকাপুৰুষে সদা পায় লাজ;\nআদেশ মাথোন হয় ‘সাজ’\nইচ্ছা যেনে স্বৰ্গমহাৰাজ।\nবিলত নগৰ হয়, নগৰত নৈ বয়,\nধোদে তাত বান্ধে ৰাজআলি,;\n\n2",
+  "confidence": {
+    "word_count": 124,
+    "mean": 87.82,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.451,
+  "page_elapsed_seconds": 2.731,
+  "peak_process_tree_rss_bytes": 286560256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

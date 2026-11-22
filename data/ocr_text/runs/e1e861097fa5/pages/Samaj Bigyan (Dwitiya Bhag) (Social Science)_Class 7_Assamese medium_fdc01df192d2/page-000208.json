@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 208,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্শ|[]\n\nবুল]\n\nপূ:\n\n[৯\n\nদন তোলেদো\n29000\n\nশিকনৰ ফলাফল ঃ\n\n&€ প্ৰচাৰ, প্রচাৰ মাধ্যম আৰু গণমাধ্যম কি বুজি পাব।\n\n&৪ বিভিন্ন প্রকাৰৰ প্রচাৰ মাধ্যম আৰু গণমাধ্যমৰ নাম জানি সেইসমূহৰ কাৰ্যাৱলীৰ বিষয়ে জানিব পাৰিব।\n৪ এই মাধ্যমসমূহে মানুহক কেনেদৰে সচেতন কৰে তাৰ আভাস পাব।\n\n€ গণতন্ত্ৰত প্রচাৰ মাধ্যমসমূহৰ ভূমিকাৰ বিষয়ে উপলব্ধি কৰিব।\n\nসাধাৰণতে প্রচাৰ বুলিলে যিকোনো খবৰ, বাতৰি, আদেশ, অনুদেশ, উপদেশ আদি এজনৰপৰা আন এজনলৈ,\nএখন ঠাইৰপৰা আন এখন ঠাইলৈ সম্প্ৰসাৰিত হোৱা প্রক্রিয়াকে বুজা যায়। কোনো ঘটনা বা বিষয় সম্পৰ্কে প্ৰচাৰ\nহোৱাৰ ফলত আমি সেই বিষয়ৰ ওপৰত জ্ঞান পোৱাৰ লগতে পৰিস্থিতিৰ বুজ লোৱাৰ সুবিধা পাওঁহক। তাৰ লগে লগে\nআমাৰ মাজত কৌতূহল, সজাগতা আৰু সচেতনতা বৃদ্ধি পায়। আমি নিজৰ ব্যক্তিগত আৰু সাংগঠনিক মতামত,\nগঠনমূলক দিহা-পৰামৰ্শ আদি আগবঢ়াবলৈ তৎপৰ হৈ উঠো। এনে অৱস্থাত আমি একমাত্ৰ প্রচাৰ ব্যৱস্থাসমূহকেই\nঅৱলম্বন কৰিবলগীয়া হয়। প্রচাৰ ব্যৱস্থা অবিহনে মানুহে কেতিয়াও নিজৰ ভাব, মত-অভিমত আদিক আনৰ লগত\nবিনিময় কৰিব নোৱাৰে। সেয়েহে সমাজ আৰু সভ্যতাৰ ক্ৰমবিকাশত প্রচাৰ ব্যৱস্থা এক অবিচ্ছেদ্য অংগ হিচাপে\nপৰিগণিত হৈ আহিছে।\n\nযিবোৰ ব্যৱস্থাৰ জৰিয়তে খবৰ-বাতৰিসমূহ সমাজৰ বিভিন্নজনৰ মাজত বিয়পি পৰে, সেই ব্যৱস্থাসমূহকে প্রচাৰ\nমাধ্যম বুলি কোৱা হয়।",
+  "confidence": {
+    "word_count": 171,
+    "mean": 90.08,
+    "median": 95.85,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.902,
+  "page_elapsed_seconds": 4.576,
+  "peak_process_tree_rss_bytes": 227667968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 66,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমাৰ মাৰাৰ জন্মদিনৰ বাবে তুমি এখন কাৰ্ড\nবনাব পাৰা। এখিলা বগা কাগজত হালধিৰ লেও\n(]00112010 )88(2) দি শুকুৱাই লোৱা। এডাল সৰু\nমাৰিত অলপ কপাহ (৫০০০0) মেৰাই লৈ কপাহৰ\nআগটোৰ সহায়ত চাবোন পানীৰে (9০8[]) অ০0)\nকাগজখিনিত এটা ধুনীয়া ফুল আঁকা ৷ এনেদৰে তুমি\nএখন ধুনীয়া শুভেচ্ছা পত্ৰ প্রস্তুত কৰিলা।\n\nএকেদৰে তালিকা 5.3ত উল্লেখ থকা দ্রৰৱবোৰ\n\nপৰীক্ষা কৰা আৰু তোমালোকৰ পৰ্যবেক্ষণ লিখি\nলোৱা। তোমালোকে আন আন দ্রব্যৰ দ্ৰৱ (৪০|00010)\nলৈও পৰীক্ষাটো কৰি চাবা।\n\nসূচক হিচাপে জবাফুল ঃ\n\n((-]]]]]24 1\"096 39 ঞ1] ]]10]08001\")\n\nক্ৰিয়াকলাপ (৫৮৮) 5.3\n\nজবাফুলৰ পাহি অলপ সংগ্ৰহ কৰি এটা বিকাৰত\nলোৱা। তাত অলপ গৰম পানী মিহলোৱা। পানীখিনি\n\nমোৰ কামিজত (ঞ1৷/}) লগা হালধিৰ দাগ\n(900) এটা চাবোনেৰে ধোওতে কিয়\nৰঙা পৰিছিল। এতিয়া মই বুজি পালোঁ।\nচাবোনৰ দ্ৰৱখিনি ক্ষাৰকীয় (/%]1!ঞজ|}৷1০)\nহোৱাৰ বাবে এনে হৈছে।\n\nজবাফুল\n(000118.11092)\n\nচিত্ৰ 5৪3 জবাফুল আৰু ইয়াৰে প্রস্তুতকৰা সূচক\n\n((00118110962 ৪8100 12 1110108/01\" 17806 0 গ]]1118.1099)\n\nতালিকা (01800 5.3\n\nনেমুৰ ৰস (].2]01] 10106)\n\nকমলাৰ ৰস (01806 10102)\n\nভিনেগাৰ (11681)\n\nমেগনেছিয়া দুগ্ধ ([$[8112918,11]1|]2)\n\nবেকিং ছ'ডা (13116 5008)\n\nচুণ পানী (][.]1]]6 82)\n\nচেনি (50281)\n\n2০ ৷ অ 9 । শ। জল | কব 1 ৬5০ ৷ ১৬1] শঁুূ\n\nখোৱা নিমখ (]301616 9810)\n\n52",
+  "confidence": {
+    "word_count": 183,
+    "mean": 74.11,
+    "median": 92.57,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.797,
+  "page_elapsed_seconds": 3.17,
+  "peak_process_tree_rss_bytes": 295403520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

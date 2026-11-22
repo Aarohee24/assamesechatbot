@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 206,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১: এ ₹ ৷৷  ১ এ, ব্ৰ্\n\nগণতান্ত্ৰিক শাসন ব্যৱস্থাত ভোটাৰসকলে নিৰ্দিষ্ট সময়ৰ অন্তৰে অন্তৰে সাংবিধানিক পদ্ধতিৰে তেওঁলোকৰ\nমাজৰ পৰা প্রতিনিধি বাছি পঠিওৱা প্রক্ৰিয়াটোকে নিৰ্বাচন বোলে।\n\nনিৰ্বাচন দুই প্ৰকাৰৰ- প্রত্যক্ষ আৰু প্ৰোক্ষ।\n\nনিৰ্দিষ্ট মতাদৰ্শক প্রাধান্য দি দেশব্যাপী অথবা ৰাজ্যব্যাপী থকা সংগঠনৰ ভিত্তিত একো একোটা ৰাজনৈতিক\nদল গঢ়ি উঠে।\nৰাজনৈতিক দল দুই ধৰণৰ। ৰাষ্ট্ৰীয় দল আৰু আঞ্চলিক দল।\n\nসমগ্র দেশৰ নিৰ্বাচন পৰিচালনা কৰিবৰ বাবে এখন নিৰ্বাচনী আয়োগ থাকে।\n\nনিৰ্বাচনত সংখ্যাগৰিষ্ঠ আসন লাভ কৰি চৰকাৰ গঠন কৰা দলক শাসক দল আৰু বাকী দলবোৰক বিৰোধী দল বোলে।\nঅসম বিধানসভাৰ সদস্যৰ সংখ্যা ১২৬ গৰাকী।\nলোকসভাৰ সদস্য সংখ্যা ৫৪৫ গৰাকী।\n\nনিৰ্বাচনত যেতিয়া কোনো এটা দলে সংখ্যাগৰিষ্ঠ আসন লাভ কৰিব নোৱাৰে তেতিয়া কেইবাটাও দল লগলাগি\nমিত্ৰজোঁট গঠন কৰে।\n\nচৰকাৰৰ কাৰ্যকাল সম্পূৰ্ণ হোৱাৰ আগতে বিশেষ কাৰণত চৰকাৰ ভংগ হৈ পুনৰ নিৰ্বাচন হ’লে তেনে\nনিৰ্বাচনক মধ্যকালীন নিৰ্বাচন বোলে।\n\nবিৰোধী দলে জনসাধাৰণক সচেতন কৰি চৰকাৰী আইন প্রণয়নত সহায় কৰে।",
+  "confidence": {
+    "word_count": 140,
+    "mean": 90.34,
+    "median": 96.02,
+    "minimum": 24.83,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.114,
+  "page_elapsed_seconds": 3.74,
+  "peak_process_tree_rss_bytes": 223789056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

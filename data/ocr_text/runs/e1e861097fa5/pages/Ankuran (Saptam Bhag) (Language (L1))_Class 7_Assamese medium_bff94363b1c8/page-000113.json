@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২০০৪ চনৰ ২৬ ডিচেম্বৰত এনে এটা ভূমিকম্পই ভাৰতৰ ৰপূব উপকূলত এক \" মহাগ্রলয়ৰ সৃষ্ট\nকৰিছিল। ভাৰত মহাসাগৰত | ু                ৰ\nনিকোবৰদ্বীপপুঞ্জ আদি অঞ্চলৰ [মুই *\nলাখ লাখ মানুহক গৃহহাৰ৷ ই,\nকৰিছিল। ভূমিকম্পটোৱে সৃষ্টি চু\nকৰা ‘ছুনামি’ৰ গতিবেগ অতি তীব [ ৷\nআছিল। এনে প্রাকৃতিক ষ্টা্জ৷                                         মলক\nদৰ্যোগবোৰে সময়ে সময়ে আমাৰ মাজত সঁচাকৈয়ে, আলৈ-আহুকালৰ সৃষ্টি কৰে, ন নহয়নে?\nসেয়েহে আমি সদায় সচেতন হ’ব লাগে, যাতে এনে দুৰ্যোগে আমাৰ বেছি ক্ষতিসাধন কৰিব\nনোৱাৰে।\n\nক--পাঠভিত্তিক জ্ৰিয়া\nত্ৰিয়া-কলাপ\n\n১। উত্তৰ দিয়া।\n\n(ক) অসমত প্রলয়ংকৰী ভূমিকম্প হোৱা চন দুটা কি কি?\n\n(খ) ১৮৯৭ চনত অসমত হোৱা ভূমিকম্পৰ উৎপত্তিস্থল ক’ত আছিল?\n\n(গ) ২০০১ চনৰ ২৬ জানুৱাৰীত ভাৰতৰ কোন ৰাজ্যত ভূমিকম্প হৈছিল?\n\n(ঘ) কোন চনৰ ভূমিকম্পটোৰ পৰা অসমত বানপানীৰ প্ৰকোপ বাঢ়িল?\n২। তলৰ প্রশ্নকেইটা আলোচনা কৰি উত্তৰ লিখা।\n\n(কে) চানডুবি বিল কেনেকৈ সৃষ্টি হ’ল?\n\n(খ) ১৯৫০ চনত ভূমিকম্পৰ ফলত অসমত কি কি পৰিৱৰ্তন হৈছিল?\n\n(গ) ‘ছুনামি’ কি?\n\n(ঘ) ভাৰতবৰ্ষত কেতিয়া আৰু কোন কোন ঠাইত ছুনামিয়ে প্ৰভাৱ পেলাইছিল?\nও পাঠটো ভালদৰে বুজাই দিব। ছাত্ৰ-ছাত্ৰীসকলক দফা দফাকৈ পঢ়িবলৈ দিব আৰু ২নং ক্ৰিয়া-কলাপটো যুৰীয়াভাৱে কৰাব।",
+  "confidence": {
+    "word_count": 12,
+    "mean": 88.71,
+    "median": 96.19,
+    "minimum": 37.95,
+    "maximum": 96.68
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 53 diacritics",
+        "Detected 53 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.762,
+  "page_elapsed_seconds": 3.075,
+  "peak_process_tree_rss_bytes": 289546240,
+  "tesseract_warnings": [
+    "Detected 53 diacritics",
+    "Detected 53 diacritics"
+  ],
+  "processed_this_run": true
+}

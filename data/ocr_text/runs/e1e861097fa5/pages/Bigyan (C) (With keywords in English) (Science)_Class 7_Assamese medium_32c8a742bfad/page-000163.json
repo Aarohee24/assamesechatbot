@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 163,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(৮)বালি ঘড়ী\n(০৪010. 0019)\n\n(৪) দিল্লীৰ যস্তৰ-মন্তৰত থকা সূৰ্য ঘড়ী\n(5010018| ৪ ]811081\" [31181 [)6]])1)                                      (০) পানী ঘড়ী\n(ঘ%৭৮2ম 0019)\nচিত্র 13.5 $ সময় জোখা কিছুমান প্রাচীন সঁজুলি\n\n(১০116 811016211{ 11]626-4176289011116 062%91029)\n\nবলটোৱে যিটো বিন্দুত ৰেখাডাল অতিক্ৰম\n(01099) কৰে আৰু যিটো বিন্দুত ই ৰৈ যায়,\nসেই দুটা বিন্দুৰ মাজৰ দূৰত্ব জোখা। তুমি\nস্কেল বা মাপনি ফিতা ([/[2890141]16 18])2)\nব্যৱহাৰ কৰিব পাৰা। এই একেটা ক্ৰিয়াকলাপ\nবেলেগ বেলেগ দলক কৰিবলৈ দিয়া। তালিকা\n13.3ত জোখসমূহ ([[০89012121) টুকি\nৰাখা। প্রত্যেকৰ ক্ষেত্ৰতেই বলৰ দ্ৰ্ণতি গণনা\n\n(0€810018062) কৰা ।\nএতিয়া তোমাৰ বন্ধুবৰ্গৰ লগত খোজ কঢ়াৰ\n0)                                            বা (ঘ৪1|41165) চাইকেল চলোৱা (0')গে1118)ৰ\nডে                                    '_ দ্ৰুতি তুলনা কৰিবলৈ উদঞগ্ৰীৱ হ’বা নিশ্চয়। তুমি\nৰু পঃ.                                                তোমাৰ খৰ বা আন কোমো স্থানৰ পৰা বিদ্যালয়ৰ\n\nদূৰত্ব জানিব লাগিব। এই দূৰত্ব অতিক্ৰম কৰিবলৈ\nজুখি নিজৰ নিজৰ দ্ৰণতি গণনা কৰিব পাৰা।\n\nচিত্র 13.6 £ এটা বলৰ দ্ৰ্ণতিৰ জোখ নিৰ্ণয়        তোমালোকৰ ভিতৰত কোন আটাইতকৈ বেগী\n([[০8901]18 016 9]2৯০০0 ০1 8 0811)        ([8890290) তাক জানি নিশ্চয় ভাল লাগিব।\n\n149                                                                                             বিজ্ঞান",
+  "confidence": {
+    "word_count": 155,
+    "mean": 79.14,
+    "median": 93.13,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.814,
+  "page_elapsed_seconds": 3.276,
+  "peak_process_tree_rss_bytes": 292810752,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

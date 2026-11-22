@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 40,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানি লোৱা\n\nপুৰুষ-স্ত্ৰীৰ ধাৰণা স্পষ্টভাৱে বুজোৱা প্ৰণালীক লিংগ বোলে।\n\nলিংগ চাৰি প্রকাৰ-=\n\nপুৰ্থলিংগ-_ পুৰুষৰ ধাৰণা স্পষ্টভাৱে বুজোৱা প্ৰণালীক পুংলিংগ বোলে।\nযেনে ঃ দেউতা, ল’ৰা, ডেকা, ৰজা।\n\nস্ত্ৰীলিংগ-_ স্ত্ৰীৰ ধাৰণা স্পষ্টভাৱে বুজোৱা প্রণালীক স্ত্ৰীলিংগ বোলে।\nযেনে ঃ মা, ছোৱালী, গাভৰু, ৰাণী।\n\nক্লীৰলিংগ---পুৰুষ বা স্ত্ৰীৰ ধাৰণা স্পষ্টকৈ বুজাব নোৱাৰা প্ৰণালীক ক্লীৱলিংগ বোলে\nযেনে ঃ চাউল, কিতাপ, ঘৰ।\n\nউভয়লিংগ-- পুৰুষ-স্ত্ৰীক উভয়কে বুজোৱা প্রণালীক উভয়লিংগ বোলে।\nযেনে ঃ মানুহ, শিশু, গৰু।\n\n৫। কাষৰ বাকচৰ পৰা বিপৰীত লিংগ বুজোৱা শব্দ আনি খালী ঠাইত লিখা।\nউদাহৰণ ঃ ৰজা -=- ৰাণী\n\nবুঢ়া =\nকোঁৱৰ =     | কেক |\nপিতৃ __\nপুতেক --\nল'ৰা -==\n\n== নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 102,
+    "mean": 82.84,
+    "median": 92.39,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.479,
+  "page_elapsed_seconds": 2.717,
+  "peak_process_tree_rss_bytes": 229167104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

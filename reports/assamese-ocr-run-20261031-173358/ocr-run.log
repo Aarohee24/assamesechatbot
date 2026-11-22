@@ -1,0 +1,52 @@
+2026-10-31 17:34:11,320 INFO Starting pilot run: 17 PDFs, 50 selected pages, settings e1e861097fa5
+2026-10-31 17:34:11,326 INFO Reusing completed page: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.22
+2026-10-31 17:34:11,329 INFO Reusing completed page: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.44
+2026-10-31 17:34:11,331 INFO Reusing completed page: Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf p.66
+2026-10-31 17:34:11,336 INFO Reusing completed page: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.36
+2026-10-31 17:34:11,338 INFO Reusing completed page: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.72
+2026-10-31 17:34:11,339 INFO Reusing completed page: Ami Aru Amar Paribesh_Class V_Assamese.pdf p.109
+2026-10-31 17:34:11,345 INFO Reusing completed page: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.36
+2026-10-31 17:34:11,346 INFO Reusing completed page: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.72
+2026-10-31 17:34:11,347 INFO Reusing completed page: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf p.108
+2026-10-31 17:34:11,353 INFO Reusing completed page: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.37
+2026-10-31 17:34:11,354 INFO Reusing completed page: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.74
+2026-10-31 17:34:11,357 INFO Reusing completed page: Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf p.111
+2026-10-31 17:34:11,360 INFO Reusing completed page: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.37
+2026-10-31 17:34:11,361 INFO Reusing completed page: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.74
+2026-10-31 17:34:11,362 INFO Reusing completed page: Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf p.112
+2026-10-31 17:34:11,368 INFO Reusing completed page: Assamese.pdf p.30
+2026-10-31 17:34:11,369 INFO Reusing completed page: Assamese.pdf p.60
+2026-10-31 17:34:11,371 INFO Reusing completed page: Assamese.pdf p.89
+2026-10-31 17:34:11,380 INFO Reusing completed page: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.62
+2026-10-31 17:34:11,381 INFO Reusing completed page: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.124
+2026-10-31 17:34:11,382 INFO Reusing completed page: Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf p.187
+2026-10-31 17:34:11,387 INFO Reusing completed page: Bigyan_VIII_Part-II_Assamese.pdf p.72
+2026-10-31 17:34:11,388 INFO Reusing completed page: Bigyan_VIII_Part-II_Assamese.pdf p.144
+2026-10-31 17:34:11,389 INFO Reusing completed page: Bigyan_VIII_Part-II_Assamese.pdf p.215
+2026-10-31 17:34:11,392 INFO Reusing completed page: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.8
+2026-10-31 17:34:11,393 INFO Reusing completed page: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.16
+2026-10-31 17:34:11,395 INFO Reusing completed page: Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf p.23
+2026-10-31 17:34:11,399 INFO Reusing completed page: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.17
+2026-10-31 17:34:11,401 INFO Reusing completed page: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.34
+2026-10-31 17:34:11,402 INFO Reusing completed page: Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf p.52
+2026-10-31 17:34:11,405 INFO Reusing completed page: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.29
+2026-10-31 17:34:11,406 INFO Reusing completed page: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.58
+2026-10-31 17:34:11,407 INFO Reusing completed page: Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf p.88
+2026-10-31 17:34:11,411 INFO Reusing completed page: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.25
+2026-10-31 17:34:11,412 INFO Reusing completed page: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.50
+2026-10-31 17:34:11,414 INFO Reusing completed page: Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf p.76
+2026-10-31 17:34:11,418 INFO Reusing completed page: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.36
+2026-10-31 17:34:11,419 INFO Reusing completed page: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.72
+2026-10-31 17:34:11,420 INFO Reusing completed page: Samaj Bichitra_Class VI_Textbook_Assamese.pdf p.109
+2026-10-31 17:34:11,424 INFO Reusing completed page: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.56
+2026-10-31 17:34:11,425 INFO Reusing completed page: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.112
+2026-10-31 17:34:11,427 INFO Reusing completed page: Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf p.169
+2026-10-31 17:34:11,435 INFO Reusing completed page: Science_Class VI_Part 1_Assamese.pdf p.63
+2026-10-31 17:34:11,436 INFO Reusing completed page: Science_Class VI_Part 1_Assamese.pdf p.126
+2026-10-31 17:34:11,437 INFO Reusing completed page: Science_Class VI_Part 1_Assamese.pdf p.190
+2026-10-31 17:34:11,441 INFO Reusing completed page: Spandan-Part I-ClassIII-Assamese(L1).pdf p.38
+2026-10-31 17:34:11,442 INFO Reusing completed page: Spandan-Part I-ClassIII-Assamese(L1).pdf p.76
+2026-10-31 17:34:11,443 INFO Reusing completed page: Spandan-Part I-ClassIII-Assamese(L1).pdf p.115
+2026-10-31 17:34:11,447 INFO Reusing completed page: Unmesh I-Class VI-Assamese.pdf p.51
+2026-10-31 17:34:11,448 INFO Reusing completed page: Unmesh I-Class VI-Assamese.pdf p.102
+2026-10-31 17:34:11,556 INFO Run complete: selected=50 newly_processed=0 reused=50 failed=0 not_selected=2509

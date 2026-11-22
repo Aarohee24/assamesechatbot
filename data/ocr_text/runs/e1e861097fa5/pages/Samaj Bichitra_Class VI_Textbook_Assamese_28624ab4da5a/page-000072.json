@@ -1,0 +1,62 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 72,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "একে সময়তে মানুহে খেতি কৰিবলৈ আৰু গাঁও\nপাতি থাকিবলৈ আৰম্ভ কৰা নাছিল। ঠাই আৰু\nসময় ভেদে মানুহৰ জীৱন-ধাৰণ প্রক্ৰিয়াৰ পৰিৱৰ্তন\nঘটিছিল।\n\nআদিম লোকসকলে খেতি কৰিবলৈ সমতল\nআৰু পাহাৰীয়া অঞ্চলৰ গছ-বন কাটি মুকলি কৰি\nলৈছিল। এতিয়াও বহু অঞ্চলত গছ-বন কাটি খেতি\nকৰাৰ ব্যৱস্থা চলি আছে। বুম খেতি তেনেধৰণৰ\nখেতিৰে উদাহৰণ। চিত্ৰ ৭.৯ ৰ পৰা তোমালোকে\nবু্ম খেতিৰ বিষয়ে বুজিব পাৰিবা।\n\nখেতিৰ বিভিন্ন আদৱ-কায়দাবোৰ লাহে-লাহে বুজি উঠাৰ পিছত আদিম লোকসকলৰ শস্য উৎপাদনো\nবাঢ়িবলৈ ধৰে। প্রথম অৱস্থাত তেওঁলোকে নিজৰ প্ৰয়োজন পূৰণৰ পিছত ৰাহি হোৱা শস্যবোৰ সাঁচি ৰখাৰ ব্যৱস্থা\nৰাখিব পাৰে তাৰ বাবে তেওঁলোকে গছৰ পাত, বাঁহ আদিৰে\nপাত্ৰ কিছুমান সাজি মাটিৰে লেপি লৈছিল। তেওঁলোকে খাদ্য\nপ্রস্তুত কৰিবলৈও এনেধৰণে মাটিৰ পাত্ৰ তৈয়াৰ কৰি লৈছিল।\nপাছলৈ পাত্ৰ প্রস্তুত কাৰ্যত চকাৰ ব্যৱহাৰ কৰিবলৈ লোৱাত\nপাত্ৰবোৰ ক্ৰমে মসৃণ হ’বলৈ ধৰে।\n\nচকা বুলিলে আমি কেৱল গাড়ীৰ চকাৰ কথাই\nনুবুজো ৷ ঘূৰণীয়া আকৃতিৰ চলাই নিবপৰা অন্য বস্তুকো চকা\nবুলি ক'ব পাৰি। চকাৰ আৱিষ্কাৰৰ পাছৰেপৰা মানুহে বস্তুৰ\nকৰিবলৈ শিকে। ফলত বস্তু-বাহানিৰ আদান-প্ৰদানৰ ক্ষেত্রত                |\nমানুহৰ কষ্ট লাঘৱ হোৱাৰ লগতে সময়ো ৰাহি হ’বলৈ ধৰে।      চিত্ৰ ৭.১০ ঃ মাটিৰ পাত্ৰৰ প্রস্তুতি",
+  "confidence": {
+    "word_count": 169,
+    "mean": 91.58,
+    "median": 96.07,
+    "minimum": 16.11,
+    "maximum": 96.92
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Samaj Bichitra_Class VI_Textbook_Assamese-page-000072.png",
+  "page_image_sha256": "5bb4faca7d46e7353a0bf2273937289a06852ed1ab1950307c12f99bcbf9e79f",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.712,
+  "page_elapsed_seconds": 3.192,
+  "peak_process_tree_rss_bytes": 153165824,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

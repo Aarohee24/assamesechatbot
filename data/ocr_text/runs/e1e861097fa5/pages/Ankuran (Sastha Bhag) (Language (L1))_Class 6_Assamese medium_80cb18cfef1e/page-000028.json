@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানি লোৱা\nতোমালোকৰ পাঠত ‘শতিকা’ শব্দটো একাধিকবাৰ ব্যৱহৃত হৈছে।\n\nশতিকা মানে হ’ল এশ বছৰ বিয়পা কাল৷ পাঠত উল্লেখ থকা সপ্তম শতিকা মানে হ’ল ৬০০\nখ্ৰীষ্টাব্দৰ পৰা ৬৯৯ খ্ৰীষ্টাব্দলৈ বিয়পি থকা সময় । একেদৰে অষ্টম শতিকা ৭০০ খ্ৰীষ্টাব্দত আৰম্ভ\nহৈ ৭৯৯ খ্ৰীষ্টাব্দত শেষ হৈছে আৰু ত্ৰয়োদশ শতিকা ১২০০ খ্ৰীষ্টাব্দত আৰম্ভ হৈছে।\n\nএনেদৰে দশক মানে হৈছে দহ বছৰ বিয়পা কাল আৰু সহস্ৰাব্দ মানে হ'ল এহেজাৰ বছৰৰ\nসময়। এতিয়া কুৰি শতিকাৰ অষ্টম দশক মানে হ’ব ১৯৭০ চনত আৰম্ভ হোৱা দশক।\n\nখ্ৰীষ্টাব্দ শব্দটো যীশুখ্ৰীষ্টৰ জন্মৰ লগত সংগতি ৰাখি সৃষ্টি কৰা হৈছে। য্ৰীষ্টজন্মৰ ৫০০\nবছৰৰ পাছৰ চনটো হ’ব ৫০০ খ্ৰীষ্টাব্দ আৰু খ্ৰীষ্টজন্মৰ পাঁচশ বছৰ আগৰ চনটো হ'ব খ্ৰীষ্টপূৰ্ব ৫০০ ৷\n\nমন কৰা, ৩০০ খ্ৰীষ্টাব্দদকৈ ৫০০ খ্ৰীষ্টাব্দ পাছৰ সময়। কিন্তু ৩০০ খ্ৰীষ্টপূৰ্বতকৈ ৫০০\nখ্ৰীষ্টপূৰ্ব আগৰ সময়।\n\n১২) মানুহৰ মুখে মুখে প্ৰচলিত সাহিত্যক মৌখিক সাহিত্য বোলে। মৌখিক সাহিত্য বুলিলে\nসাধুকথা,আইনাম, ধাইনাম, বিহুনাম, বিয়ানাম আদিক বুজা যায়। তুমি জনা এফাকি বিহুনাম\nআৰু এফাকি বিয়ানাম লিখা ।",
+  "confidence": {
+    "word_count": 148,
+    "mean": 90.66,
+    "median": 95.97,
+    "minimum": 4.94,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.154,
+  "page_elapsed_seconds": 3.644,
+  "peak_process_tree_rss_bytes": 282931200,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

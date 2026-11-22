@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 60,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ। সংগ্ৰহ কৰ৷ পানীখিনি তোমালোকে ৰোৱা ঘ। এনেদৰে সংগ্ৰহ কৰা পানীখিনি\nগছপুলিৰ গুৰিত দিবা আৰু পুলিটোৰ বৃদ্ধি৷    ঢাকনি দি থ’বা আৰু আন কি কি\nসময়ে সময়ে পৰ্যবেক্ষণ কৰিবা।            কামত ব্যৱহাৰ কৰিবা লিখা।\n\n১৮ । পাঁচটা প্রকৃতি বিষয়ক কবিতা সংগ্ৰহ কৰা। সেই কবিতাৰ নাম আৰু কবি পৰিচয় দি এখন\nপ্রাচীৰ পত্ৰিকা প্রস্তুত কৰা আৰু সকলোৱে পঢ়িব পৰাকৈ শ্ৰেণীকোঠাৰ বেৰত আঁৰি থোৱা।\n\nচি\n\nঅৰ্হতা     উপ-অৰ্হতা    ক্ৰিয়া-কলাপৰ,|নিজাবৰীয়াকৈ শিক্ষকৰ সহায়ত নিদানমূলক শিক্ষাৰ|\nনম্বৰ  পাৰিছে | পাৰিছে | পাছত পাৰিছে\n\n€1.1 |ৰ পাঠটোৰ মূল বিন্দুসমূহ চিনাক্ত কৰি ক’ব আৰু ১, ৩,.৫, ১২,\n\nলিখিব পাৰিব।               ১৩\n€1.5 |৷ কবিতাৰ মূলভাব ক’ব আৰু লিখিব পাৰিব। ৭\nঙ প্ৰাচীৰ পত্ৰিকা প্রস্তুত কৰিব পাৰিব।      ১৮\n\n€2.2 |ঙ অনুপ্রাসৰ ধাৰণা বুজি চিনাক্ত কৰিব পাৰিব। ১০\n\n€2.3 = পৰিৱেশৰ লগত খাপ খোৱাকৈ, কাম কৰিব৷ ১৫, ১৬, ১৭\nপাৰিব আৰু সেই কামৰ বিষয়ে ক’ব আৰু\nলিখিব পাৰিব।\n\n€43.1 % নতুন শব্দৰ অৰ্থ বুজি প্রয়োগ কৰিব পাৰিব। ২\nছ বিপৰীত অৰ্থ প্ৰকাশক শব্দ চিনাক্ত কৰিব পাৰিব।\nঙছ বাক্য ৰচনা কৰিব পাৰিব।           ৮\nঙছ পদ পৰিৱৰ্তন কৰি বাক্যত প্রয়োগ কৰিব পাৰিব। ৷৯\n€43.2 ৷ উপযুক্ত ভাষা আৰু শৈলী ব্যৱহাৰ কৰি কবিতা।১১\nলিখিব পাৰিব।\n€-4.2 [ছি প্ৰকল্প প্ৰস্তুত কৰোঁতে পুথিভঁৰাল ব্যৱহাৰ কৰিব৷ ১৮\nপাৰিব।\n\n€-5.2 |ঙ অন্ত্যধ্বনি মিল থকা শব্দ লিখিব পাৰিব।\n\n৬\n€-53 1৩ শব্দজালৰপৰা উপযুক্ত শব্দ বিচাৰি উলিয়াই ৪\nলিখিব পাৰিব।\n\n{ ৬০ জৰ (  (",
+  "confidence": {
+    "word_count": 213,
+    "mean": 83.14,
+    "median": 93.17,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.343,
+  "page_elapsed_seconds": 4.017,
+  "peak_process_tree_rss_bytes": 285569024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

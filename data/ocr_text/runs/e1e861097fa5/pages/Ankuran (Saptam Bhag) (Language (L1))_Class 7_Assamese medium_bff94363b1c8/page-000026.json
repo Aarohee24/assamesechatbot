@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(৯6 লৰ:\n\nপৃথিৱীত এনে কিছুমান লোক আছে, যিসকলে নিজৰ প্ৰতিভা আৰু পাণঙ্তত্যিৰ বাবে চিৰস্মৰণীয় হৈ আছে।\nঅসম মাতৃৰ সুযোগ সন্তানসকলৰ ভিতৰত আনন্দৰাম বৰচ্ৱা আছিল তেনে এগৰাকী বান্তি । তেখেত সংস্কৃত\nসাহিতাৰ বিদণ্থড পণ্ডিত আছিল। সংস্কৃত চৰাৰ জৰিয়তে অতি চুটি জীৱনকালত তেখেতে বিশ্ব-সাহিতালৈ\nবিশেষ বৰঙণি আগবঢ়াই থৈ গৈছে। এই পাঠটোত আমি তেখেতৰ পাণ্তি্যিৰ চমু আভাস পাম।\n\n১৮৭০ চন। অসমৰ এজন মেধাসম্পন্ন যুৱকে\nভাৰতীয় প্রশাসনিক সেৱাৰ (আই.চি.এছ)\nপ্রতিযোগিতামূলক পৰীক্ষাত সুখ্যাতিৰে উত্তীৰ্ণ\nহৈছিল। কিন্তু উত্তীৰ্ণ হৈও তেখেতে স্বীকৃতিৰ বাবে\nথমকি ৰ’ব লগা হৈছিল। কাৰণ, এই পৰীক্ষাত উত্তীৰ্ণ\nবুলি ঘোষিত হ’বলৈ যি ন্যূনতম বয়সৰ প্ৰয়োজন,\nযুৱকজনৰ সেই বয়স হোৱা নাছিল। এই লৈ বিলাতৰ\nপাৰ্লামেণ্টত তুমুল বিতৰ্কৰ সৃষ্টি হৈছিল। তেতিয়া\nডাফে পাৰ্লামেণ্টক পতিয়ন নিয়াবলৈ চেষ্টা কৰি যুক্তি\nদৰ্শাইছিল--- ‘আমি এই সিদ্ধান্তত উপনীত হওঁতে\nআই. চি. এছ. পৰীক্ষাৰ নিয়মাৱলীৰ ভিতৰুৱা\nউদ্দেশ্যলৈহে কাণ দিছোঁ। যিজন ছাত্ৰই সুদূৰ ব্ৰহ্মপুত্ৰ\nউপত্যকাৰ পৰা আহি ইমান প্রতিযোগীৰ মাজতো সুখ্যাতিৰে এই পৰীক্ষাত উত্তীৰ্ণ হ’ব পাৰিছে,\nতেখেতৰ আকাংক্ষাৰ বাটত আমি একো প্রতিবন্ধকতা জন্মাবৰ ইচ্ছা নকৰোঁ” এইদৰে মহামতি\nমিঃ গ্রেণ্ট ডাফেৰ মহানুভৱতাৰ ফলতেই এই বিতৰ্কৰ পৰা ৰক্ষা পোৱা মেধাৱী যুৱকজনেই হ’ল\n\nআনন্দৰাম বৰুৱ।৷।",
+  "confidence": {
+    "word_count": 169,
+    "mean": 87.8,
+    "median": 94.86,
+    "minimum": 4.47,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.922,
+  "page_elapsed_seconds": 3.331,
+  "peak_process_tree_rss_bytes": 295014400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

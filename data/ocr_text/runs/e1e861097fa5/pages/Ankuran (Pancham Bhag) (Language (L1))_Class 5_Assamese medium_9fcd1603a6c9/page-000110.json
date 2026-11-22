@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 110,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অকণমান হ’লেও শিক্ষাৰে আলোকিত হ’ল। এদিন বিদ্যালয় উপ-পৰিদৰ্শকে চন্দ্ৰপ্ৰভা\nশইকীয়ানীৰ স্কুলখন পৰিদৰ্শন কৰিলে৷ উপ-পৰিদৰ্শকে কমবয়সীয়া মানুহগৰাকীৰ সমাজসেৱাৰ\nমনোভাৱ দেখি আচৰিত হ’ল। তেখেতে চন্দ্ৰপ্ৰভা শইকীয়ানীয়ে যাতে পুনৰ পঢ়া-শুনা আৰম্ভ\nকৰিব পাৰে তাৰ বাবে জলপানি পোৱাৰ সুবিধা কৰি দিলে।\n\nচন্দ্ৰপ্ৰভা শইকীয়ানীয়ে নগাঁৱৰ মিছন স্কুলত পুনৰ পঢ়া-শুনা আৰম্ভ কৰিলে। তাৰ পৰাই\nতেখেতে নৰ্মাল পাছ কৰি শিক্ষকতাৰ জীৱন আৰম্ভ কৰিলে। এইগৰাকী মহিলাই পাছলৈ\nনাৰীসকলক সমাজলৈ উলিয়াই আনিবলৈ মহিলা সমিতি গঠন কৰিলে। দেশৰ স্বাধীনতা\nসংগ্ৰামত সক্ৰিয় অংশ গ্ৰহণ কৰা চন্দ্ৰপ্ৰভা শইকীয়ানী এগৰাকী সু-লেখিকাও আছিল।\n\n* চন্দ্ৰপ্ৰভা শইকীয়ানীৰ জন্ম ক’ত আৰু কেতিয়া হৈছিল?\n* তেখেতে প্রাথমিক শিক্ষা কেনেকৈ লাভ কৰিছিল?\n\nতেখেতক পুনৰ পঢ়া শুনা আৰম্ভ কৰাৰ বাবে কোনে সুবিধা কৰি দিছিল?\n\n* তেখেতে নাৰীসকলৰ বাবে কি স্থাপন কৰিছিল?\n\nলী অমলঞপ্রভা দাস আৰু চন্দ্ৰপ্ৰভা শইকীয়ানীৰ কি কি দিশত মিল আৰু কি কি দিশত\n=== অমিল দেখিছা লিখা।\n\n১০১",
+  "confidence": {
+    "word_count": 131,
+    "mean": 91.39,
+    "median": 96.17,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.092,
+  "page_elapsed_seconds": 3.472,
+  "peak_process_tree_rss_bytes": 247246848,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 225,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্রহেলিকাই সুধিছিল, “ইয়াত বহুত সংখ্যক গছ আছে।\nএইখনৰ উপৰি এনে ধৰণৰ বহুত অৰণ্য আছে। যদি\nআমি ইয়াৰপৰা কিছু গছ কল-কাৰখানাৰ ([\"8০001\"))\nবাবে কাটি পেলাওঁ, তেনেহ’লেনো কি বেলেগ হ’ব?”\nঅধ্যাপক আহমেদে কৈছিল, “তোমালোকে স্বপোষী\n\nপতংগক আকৌ ভেকুলীয়ে খায়। ভেকুলীক সাপে\n\nভক্ষণ কৰে। ইয়াকে খাদ্য শৃংখল (\"000 ০1801) বুলি\n\nকয়।\n\nঘাঁহ-->পতংগ-->ভেকুলী-->সাপ-_>ই'গল (78612)\nঅৰণ্যত বিভিন্ন ধৰণৰ খাদ্য শৃংখল দেখা যায়।\n\n(/০৮০0০])])), পৰপোষী (]]০00000.0])])) আৰু\nমৃতপোষী (98|)00:0]]}) জীৱৰ বিষয়ে পঢ়িছ৷।\nতোমালোকে সেউজীয়া উদ্ভিদে কেনেকৈ খাদ্য\nপ্রস্তুত কৰে, তাকো জানা।. তৃণভোজী (]]2161-\n৮০1০) বা মাংসভোজী (08701৮01'2) যিয়ে নহওক,\nসকলো প্রাণীয়ে খাদ্যৰ বাবে মুঠতে উদ্ভিদৰ ওপৰত\nনিৰ্ভৰশীল৷ যিবিলাক জীৱই খাদ্য হিচাপে উদ্ভিদ গ্ৰহণ\n\nকৰে, সেইবিলাকক অন্য জীৱই খায় আৰু প্রক্ৰিয়াটো\nতেনেকৈ চলি থাকে। উদাহৰণস্বৰূপে পতংগই ঘাঁহ\nখায়,\n\nসকলোবোৰ খাদ্য শৃংখলৰ সম্পৰ্ক আছে। যদি এটা\nখাদ্য শৃংখল ব্যাহত হয়, তেনেহ’লে আন খাদ্য শৃংখলৰ\nওপৰতো তাৰ প্রভাৱ পৰিব। অৰণ্যৰ সকলোবোৰ\nঅংশই পৰস্পৰৰ ওপৰত নিৰ্ভৰশীল। যদি আমি\nঅৰণ্যৰপৰা এটা উপাদান, ধৰা৷ গছ আঁতৰাই পেলাওঁ,\nতেন্তে আন উপাদানবোৰৰ ওপৰতো প্রভাৱ পৰিব।\nঅধ্যাপক আহমেদে ল’ৰা-ছোৱালীবোৰক অৰণ্যৰ\nমাটিত পৰি থকা পাত কিছুমান বুটলিবলৈ আৰু আতচী৷\nকাচেৰে নিৰীক্ষণ কৰিবলৈ ক’লে ৷ সিহঁতে পচিব ধৰা\n\nচিত্ৰ 17.9 অৰণ্যত উত্ভিদ, মাটি আৰু বিয়োজকৰ মাজত সম্পৰ্ক\n\n([110(211618.00118])1]) 01 |)]811(,901] 8110 02600111|20921'9 111 8 10169)\n\n211",
+  "confidence": {
+    "word_count": 189,
+    "mean": 87.3,
+    "median": 95.68,
+    "minimum": 1.37,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.097,
+  "page_elapsed_seconds": 3.518,
+  "peak_process_tree_rss_bytes": 301510656,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

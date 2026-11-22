@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 130,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(গ) জিলা পৰিষদ এখনৰ কাৰ্যকাল কিমান বছৰ?\n\n(ঘ) নগৰ অঞ্চলত কি কি স্বায়ত্তশাসন ব্যৱস্থা দেখা৷ যায়?\n\n(ঙ) ৱাৰ্ড বুলিলে কি বুজা?\n২. কোনো এটা অঞ্চল নগৰ হিচাপে পৰিগণিত হ’বলৈ কি কি বৈশিষ্ট্য থকাটো দৰকাৰ?\n৩. নগৰ অঞ্চলৰ স্থানীয় শাসন ব্যৱস্থাৰ স্তৰকেইটাৰ গঠন প্রণালী বৰ্ণনা কৰা।\n৪. নগৰ অঞ্চলৰ স্থানীয় স্বায়ত্তশাসন ব্যৱস্থাৰ কাম-কাজ উল্লেখ কৰা।\n\n১৪.৪ স্বায়ত্তপাসিত জিলা পৰিষদ ঃ\n\nঅসমৰ পাহাৰ-ভৈয়াম আদি অঞ্চলসমূহত নানা জাতি-জনজাতিৰ লোকে বসবাস কৰে। প্রত্যেক জাতি-\nজনজাতিৰ নিজা নিজা ভাষা, কৃষ্টি, সংস্কৃতি,ৰীতি-নীতি আৰু পৰম্পৰা আছে। এইবোৰৰ ৰক্ষণাবেক্ষণ আৰু\nউন্নতিৰ কাৰণে আমাৰ দেশৰ সংবিধানে কিছুমান বিশেষ সুবিধা প্রদান কৰিছে। আমাৰ সংবিধানৰ ষষ্ঠ অনুসূচীৰ\nঅনুচ্ছেদ ২৪৪(২) আৰু ২৭৫ (১) ত এই বিষয়ে উল্লেখ আছে।\n\nঅসমৰ পাহাৰীয়া জিলা তিনিখনত গাঁও পঞ্চায়তৰ ব্যৱস্থা নাই। তাৰ সলনি, কাৰ্বি আংলং আৰু\nপশ্চিম কাৰ্বি আংলং জিলাক সাঙুৰি কাৰ্বি আংলং স্বায়ভ্তণপাসিত পৰিষদ আৰু ডিমা.হাৃচাও জিলাত ডিমাহাচাও\nস্বায়ত্তপাসিত পৰিষদ গঠন কৰা হৈছে।\n\n২০০৩ চনৰ ১০ ফেব্ৰুৱাৰী তাৰিখে বড়োলেণ্ড টেৰিটৰিয়েল কাউন্সিল, অৰ্থাৎ ]}3['(' গঠন কৰা হৈছিল।\n}3]'0' ৰ অধীনত থকা বড়ো জনজাতি অধ্যুষিত চাৰিখন জিলা- কোকৰাবাৰ, চিৰাং, বাক্না আৰু ওদালগুৰিক\nবড়োলেণ্ড টেৰিট’ৰিয়েল এৰিয়াজ ডিষ্টিকট্‌চ, অৰ্থাৎ ]31'/$1) বুলি জন৷, গৈছিল। অৱশ্যে ২০২০ চনত ট/%])\nক বড়োলেণ্ড ক্ষেত্ৰীয় অঞ্চল, অৰ্থাৎ |3'[']২ং (বড়োলেণ্ড টেৰিটৰিয়েল ৰিজিয়ন) হিচাপে ঘোষণা কৰা হয়।\n\n= = ৫=\n\nচিত্ৰ ১৪.৬ ঃ অসমৰ মানচিত্ৰ",
+  "confidence": {
+    "word_count": 198,
+    "mean": 89.34,
+    "median": 95.58,
+    "minimum": 0.5,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.279,
+  "page_elapsed_seconds": 3.739,
+  "peak_process_tree_rss_bytes": 290344960,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

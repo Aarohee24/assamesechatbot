@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 71,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মানুহৰ ক্ষেত্ৰত, প্ৰতিমাহত কোনো এটা ডিম্বাশয়ে এটা\nমাত্ৰ পৈণত ডিম্ব ডিম্ববাহী নলীত এৰি দিয়ে। জৰায়ুৰ\nএটা অংশ, য’ত কেঁচুৱাটোৰ বিকাশ হয়। শুত্ৰপণুৰ দৰে\nডিম্বাণুও এটা একক কোষ।\n\nপ্রাণীৰ ডিম্বাণুবোৰৰ আকাৰ যে '\nবেলেগ বেলেগ তাক প্রজ্ঞানেমনত =\nপেলালে। মানুহৰ ডিম্বাণুৰ আকাৰ\nনিচেই সৰু আৰু কুকুৰাৰ বহুত ডাঙৰ।\nউদপক্ষীৰ কণী (ডিম্বাণু) আটাইতকৈ\nডাঙৰ।\n\nনিষেচন বা গৰ্ভধান\n\nপ্রজনন প্রক্ৰিয়াৰ প্রথম স্তৰ হৈছে এটা শুত্ৰমণু\nআৰু এটা ডিম্বাণুৰ মিলন। যেতিয়া শুক্ৰাণুবোৰ\nডিম্বাণুটোৰ সংস্পৰ্শলৈ আহে, তেতিয়া এটা শুক্ৰাণু\nডিম্বাণুৰু সৈতে মিলিত হ’ব পাৰে। এনেধৰণৰ\nডিম্বাণু আৰু শুক্ৰাণুৰ মিলনক নিষেচন বোলে (চিত্ৰ-\n12.5)। নিষেচনৰ সময়ত শুত্ৰমণণুৰ কোষকেন্দ্ৰ\nআৰু ডিম্বাণুৰ কোষকেন্দ্ৰ মিলিত হৈ এটা নতুন\nকোষকেন্দ্ৰ গঠন হয়। ইয়াৰ ফলত এটা নিষিক্ত\n\nচিত্ৰ-1[2.5:: নিষেচন\n\nকণী বা যোজন কৌষৰ সৃষ্টি হয় (চিত্র 12.6)\nআৰু এই যোজন কোষঢোৱেই এটা নতুন জীৱৰ যে\nআৰম্ভণ জ নছিল নে?\n\nকৌোষকেন্দ্ৰৰ মিলন\n\nচিত্ৰ 12.6 : যোজন কোষ\n\nনিষেচন প্রক্ৰিয়া হৈছে মাতৃৰ পৰা অহা এটা ডিম্বাণু\nআৰু পিতৃৰ পৰা অহা এটা শুক্ৰমণু কোষৰ মিলন।\nএনেকৈ নতুন জীৱটোৱে কিছুমান চৰিত্ৰ মাতৃৰ পৰা\nআৰু কিছুমান পিতৃৰ পৰা বংশানুক্ৰমিকভাবে পায়।\nতোমালোকৰ ভাইটি নতুবা ভণ্টিলৈ চোৱাচোন। যদি\nলক্ষ্য কৰা তেন্তে ধৰিব পাৰিবা যে সিহঁতৰ কিছুমান\nচৰিত্র তোমালোকৰ মা নাইবা দেউতাৰ লগত মিলে।\n\nমাতৃৰ দেহত হোৱা নিষেচনক অন্তঃনিষেচন\nবোলা হয়। মানুহ, গৰু, কুকুৰ আৰু কুকুৰাৰ উপৰিও\nবহুতো প্রাণীৰ অন্তঃনিষেচন হয়।",
+  "confidence": {
+    "word_count": 202,
+    "mean": 88.82,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.091,
+  "page_elapsed_seconds": 3.375,
+  "peak_process_tree_rss_bytes": 329773056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

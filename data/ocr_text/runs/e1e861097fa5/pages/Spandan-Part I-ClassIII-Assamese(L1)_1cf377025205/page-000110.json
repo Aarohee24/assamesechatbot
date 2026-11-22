@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 110,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গোহাৰি\n\nএই উদ্যানখন সকলোৰে বাবে। উদ্যানত থকা গছ-গছনি, জীৱ-জন্তু,\nচৰাই, পখিলা আদি আমাৰ সম্পদ। এইবোৰৰ যাতে কোনেও ক্ষতি নকৰে তাৰ\nবাবে অনুৰোধ জনালোঁ। লগতে উদ্যানত খোৱা বস্তুৰ পেকেট, গ্লাষ্টিক-বটল\nআদি পেলাই লেতেৰা নকৰিব।\nআপোনাৰ সচেতনতাই উদ্যানখন সুন্দৰ কৰি ৰাখিব।\nধন্যবাদেৰে,\nউদ্যান পৰিচালনা সমিতি\n\nপাতখিলা দেখুৱালে । তাইৰ আগ্ৰহ দেখি দেউতাকে বৰ ভাল পালে। তেতিয়া তেওঁ সেই\nভ্ৰমণৰ অভিজ্ঞতাৰ বিষয়ে জীয়েকক বিৱৰি ক’লে। তেওঁ ক’লে--- “সেই চৰাইদেউ\nমৈদামেই এতিয়া “বিশ্ব এতিহ্য ক্ষেত্ৰ'ৰূপে স্বীকৃতি লাভ কৰিছে।” লগতে, চৰাইদেউ যে\nএতিয়া এখন জিলা হৈছে, এই কথাষাৰো জনালে।\n\nশ্ৰুতিয়ে দেউতাকক সিহঁতকো চৰাইদেউলৈ নিবলৈ খাটনি ধৰিলে। দেউতাকে\nশ্ৰুতিক ক’লে--- “হ’ব বাৰু । দীঘলীয়া বন্ধ পালে তোমালোকক চৰাইদেউলৈ লৈ যাম।”\nদেউতাকৰ কথা শুনি শ্ৰুতিৰ মনটো বৰ আনন্দৰে ভৰি পৰিল।\n\nস্পন্দন ১ | তৃতীয় শ্রেণী\n\n১১০",
+  "confidence": {
+    "word_count": 119,
+    "mean": 90.43,
+    "median": 95.73,
+    "minimum": 0.1,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.214,
+  "page_elapsed_seconds": 4.385,
+  "peak_process_tree_rss_bytes": 224215040,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

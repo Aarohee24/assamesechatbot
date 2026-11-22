@@ -1,0 +1,138 @@
+# OCR report: Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf
+
+- PDF: `data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf`
+- SHA-256: `9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a`
+- Pages in PDF: 143
+- PDF metadata: `{"Title": "", "Author": "", "Subject": "", "Keywords": "", "Creator": "PScript5.dll Version 5.2.2", "Producer": "Adobe Acrobat Pro 11.0.23", "CreationDate": "D:20020101021536+05'30'", "ModDate": "D:20230502125634+05'30'"}`
+- Selected pages: 3
+- Completed: 3; failed: 0
+- Mean word confidence (where available): 86.59
+- OCR processing time: 8.819 seconds
+
+All OCR text is raw output. It has not been corrected or approved for training.
+
+## Page 36 — completed
+
+- Confidence: `{"word_count": 133, "mean": 89.29, "median": 95.56, "minimum": 10.13, "maximum": 97.0}`
+- Local language ID: `{"status": "classified", "label": "asm_Beng", "confidence": 1.0, "error": null}`
+- Review flags: `human_review_required`
+- Attempts: 1; page time: 3.486 s; OCR time: 3.133 s
+- Peak process-tree RSS: 147505152 bytes
+- Page image: `reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium-page-000036.png`
+
+```text
+-= কৰ্তৃপক্ষলৈ (অধ্যক্ষ/প্ৰধান শিক্ষক)লিখিলে ইতি, আপোনাৰ একান্ত বাধ্য ছাত্ৰ-ছাত্ৰী।
+-- কাৰ্যালয় আৰু ব্যৱসায় সংক্ৰান্তীয় চিঠিত ইতি, আপোনাৰ বিশ্বাসী।
+--_ সম্বন্ধ বিশেষে ইতি, আপোনাৰ/তোমাৰ শুভাকাংক্ষী/ সেৱক আদি লিখিব লাগে।
+খামৰ ওপৰত--- চিঠিৰ খামত যালৈ চিঠি পঠোৱা হয় তেওঁৰ অথাৎ পাবলগীয়াজনৰ
+পিনকোডসহ সম্পূৰ্ণ ডাক-ঠিকনা লিখিব লাগে। তেনেদৰে প্রেৰকৰো নাম-ঠিকনা লিখিব
+লাগে।
+কম কথাতে শুৱলাকৈ চিঠি লিখিব পৰাটো এটা ভাল কলা আৰু চিঠি পালে উত্তৰ
+আৰু সামাজিক সম্পৰ্ক গঢ়ি উঠে। মনৰ ভাব মুকলিকৈ প্রকাশ কৰাৰ বিশ্বাসযোগ্য সহজ
+উপায় হৈছে চিঠি।
+চিঠিৰ প্রকাৰ--
+(১) ব্যক্তিগত চিঠি-পত্ৰ
+(২) আৱেদন পত্র
+(৩) ব্যাৱসায়িক চিঠি-পত্ৰ
+(৪) কাৰ্যালয় সম্বন্ধীয় চিঠি-পত্ৰ
+
+40, স্কুল খতি কৰিলে পঢ়া-শুনাৰো ক্ষতি হয়। সেই ক্ষতি আমি কেনেদৰে পূৰ কৰিব
+
+সমূহীয়া ভোজভাত খালে তলত দিয়া কোনবোৰ কাৰণত আমাৰ পেটৰ অসুখ
+হ’ব পাৰে?
+
+ল্কি।
+৮
+
+--- সোৱাদ পাই সৰহকৈ খালে
+--=- আঞ্জাত বেছি জ্বলা-মচলা হ’লে
+-- অসময়ত খোৱাৰ বাবে
+```
+
+## Page 72 — completed
+
+- Confidence: `{"word_count": 190, "mean": 88.31, "median": 95.93, "minimum": 1.31, "maximum": 97.02}`
+- Local language ID: `{"status": "classified", "label": "asm_Beng", "confidence": 1.0, "error": null}`
+- Review flags: `human_review_required`
+- Attempts: 1; page time: 2.958 s; OCR time: 2.686 s
+- Peak process-tree RSS: 146739200 bytes
+- Page image: `reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium-page-000072.png`
+
+```text
+পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা
+
+ঞজ শুদ্ধ উচ্চাৰণেৰে তাল, লয় আৰু ছন্দৰে গীতটো গাব পৰা আৰু আবৃত্তি কৰিব পৰা
+ঞ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা
+
+ঞ্জ অসমীয়া লোক-সাহিত্যৰ লগত পৰিচয় হোৱা
+
+ঞ্জ আখ্যানমূলক গীতৰ ধাৰণা পোৱা
+
+ঞ লোকগীত আৰু স্থানীয় গীতসমূহ সংগ্ৰহ কৰি গাবলৈ আগ্ৰহী হোৱা
+
+ঞ্জ চন্দ্ৰবিন্দু (৬) ৰ শুদ্ধ উচ্চাৰণ আৰু ইয়াৰ প্রয়োগ সম্পৰ্কে জনা
+
+ঞ্জ অনুকাৰ বা ধ্রন্যাত্মক শব্দৰ ধাৰণা লাভ কৰা
+
+ঞ বিহুগীত,বনগীত, লোকগীত, বিয়ানাম আদি গাবলৈ আগ্ৰহী হোৱা
+
+শিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন
+
+আখ্যানমূলক| গীতটি আবৃত্তি | গীতটিত থকা | গীতটিৰ কাহিনী | পাঠভিত্তিকপ্রশ্নৰ
+গীত     কৰিব পৰা    শব্দৰ অৰ্থ জনা | ভাগ বুজি পোৱা | উত্তৰ দিব পৰা
+আৰু ক’ব পৰা
+
+ভাষা অধ্যয়ন| চন্দ্ৰবিন্দু (৬) থকা | বাক্যত পদৰ শুদ্ধ | বিশেষ্য পদ
+(ব্যাৱহাৰিক [শব্দ শুদ্ধকৈ উচ্চাৰণ | প্রয়োগ কৰিব পৰা | বাছি উলিয়াই
+ব্যাকৰণ)   কৰিব পৰা          লিখিব পৰা
+
+জ্ঞান | মুখেৰে বজোৱা |অসমীয়া লোকগীত| কবিতা আবৃত্তি নিচুকনি গীত, বিহুগীত,
+সম্প্ৰসাৰণ | বিভিন্ন বাদ্য-যন্ত্ৰৰ সম্পৰ্কে জনা আৰু| কৰিব পৰা |[বনগীত, বিয়ানাম আদি
+নাম ক’ব পৰা   ক’ব পৰা           গাব জনা
+
+নিজৰ অঞ্চলত
+
+গীত আৰু স্থানীয়
+গীত সংগ্ৰহ কৰি
+
+কলস অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত */ চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰ্তা
+```
+
+## Page 108 — completed
+
+- Confidence: `{"word_count": 83, "mean": 82.18, "median": 92.47, "minimum": 12.54, "maximum": 96.99}`
+- Local language ID: `{"status": "classified", "label": "asm_Beng", "confidence": 1.0, "error": null}`
+- Review flags: `human_review_required`
+- Attempts: 1; page time: 2.375 s; OCR time: 2.045 s
+- Peak process-tree RSS: 144228352 bytes
+- Page image: `reports/assamese-ocr-run-20261031-172410/page-images/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium-page-000108.png`
+
+```text
+্ উদাহৰণৰ দৰে শব্দ গঠন কৰা।
+উদাহৰণ -- নম্ৰ = নম্ৰতা
+
+৮ £*
+যত --"===
+
+(ক) সাধু =
+
+(খ) ভদ্ৰ --
+
+(গ) দৃঢ় -
+(ঘ) শিক্ষক --
+(৬) সাৰ্থক --
+
+(চ) মূৰ্খ --
+
+(ছ) সৰল -
+(জ) উজ্জ্বল--
+
+টী. অৰ্থৰ পাৰ্থক্য দেখুৱাই তলত দিয়া শব্দবোৰেৰে একোটাকৈ বাক্য ৰচনা কৰা।
+
+উদাহৰণ --কথা = অচিনাকি মানুহৰ লগত কথা কওঁতে সাৱধান হ’ব লাগে।
+কঠা - পাঁচ কঠাই এবিঘা মাটি হয়।
+
+পাত পাট   হাত হাট   লৰা লৰা
+৷ ভাব বহলাই লিখোঁ আহা
+ওএল্স নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী
+```

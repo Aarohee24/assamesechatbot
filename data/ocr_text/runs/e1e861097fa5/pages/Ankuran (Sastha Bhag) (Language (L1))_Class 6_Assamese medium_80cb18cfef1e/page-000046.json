@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nকোনো কাহিনী/গল্প সজাই-পৰাই নিজৰ কথাৰে ক’ব পৰা\nনতুন শব্দৰ অৰ্থ জনা আৰু বাক্য সাজিব পৰা\nপাঠটো শুদ্ধ উচ্চাৰণেৰে স্পষ্টকৈ পঢ়িব পৰা৷ আৰু বুজি পোৱা\nবৰ্তমানৰ শিক্ষা ব্যৱস্থা আৰু পুৰণি শিক্ষা ব্যৱস্থাৰ বিষয়ে জনা\n\nশিক্ষকক সন্মান কৰিবলৈ শিকা\nঅসৎ উপায়েৰে ধন ঘটাৰ মনোবৃত্তি ত্যাগ কৰিবলৈ শিকা\nযুৰীয়া শব্দ, সমাৰ্থক শব্দ লিখিব পৰা\nছবি চাই বিষয়বস্তু ক’ব পৰা\nল’ৰাৰ জাতক, পঞ্চতন্ত্ৰ নাইবা বাতৰি কাকতৰ সাধু পঢ়ি বুজি পোৱা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nসাধু শুনি | সাধু পাঠ পঢ়ি | পাঠভিত্তিক প্রশ্নৰ| শব্দৰ অৰ্থ | মূলভাব লিখিব\nসাধু | নিজৰ কথাৰে | বুজি পোৱা | উত্তৰ দিব পৰা  জনা   পৰা\nক’ব পৰা\nভাষা | বাক্য সাজিব | বিপৰীত অৰ্থ | সমাৰ্থক শব্দ |পদৰ বিষয়ে জন|| বিশেষ্যক\nঅধ্যয়ন | পৰা _ | বুজোৱা শব্দ | লিখিব পৰা    বিশেষণ পদলৈ\nব্যাকৰণ)\nজাতক কাক | অভিনয় কৰিব | সংলাপ লিখিব | দেশৰ বিখ্যাত | ছবি চাই তাৰ\nসম্্ৰৰণ বোলে জনা  পৰা   জনা  বিশ্ববিদ্যালয়ৰ | বিষয়ে ক’ব পৰা\nবিষয়ে জনা\nল’ৰাৰ জাতক,\nপ্ৰকল্প  পঞ্চতন্ত্ৰৰ\nবিষয়ে জনা\n\n= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ * চিন\n\nদিব। অহৰ্তা আয়ভ নোহোৱা শিকাৰচ্ক অতিৰিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 193,
+    "mean": 90.1,
+    "median": 95.91,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.621,
+  "page_elapsed_seconds": 2.893,
+  "peak_process_tree_rss_bytes": 266289152,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

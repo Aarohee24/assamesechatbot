@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 129,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_// ২। চোৱা, কোৱা আৰু কাষৰ বাকচত লিখা (সংখ্যা আৰু আখৰেৰে)।\nক) পদ্যটোত কেইটা শাৰী আছে?                                 (<= ==-- -\nখ) পদ্যটোৰ প্রতিশাৰীত কেইটাকৈ আখৰ আছে?\n\nগ) পদ্যটোত ‘জ্ঞ’ যুক্তাক্ষৰটো কেইবাৰ ব্যৱহাৰ হৈছে?\n\nৰ ৩। তলৰ প্ৰশ্নমবোৰৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0 চিনটো পূৰ কৰা।\n* জ্ঞানী ল’ৰাই কি কৰে বুলি কৈছে?                     নি\nক) অসত্য কথা কয়।         খ) আনৰ গুণ এৰি দোষ লয়।        |\n\nগ) পৰদ্ৰব্যত লোভ কৰে।        ঘ) সজ আলোচনাত ভাগ লয়।\n\nকে) ্ে)ে গে ভদ্রে\n+ জ্ঞানী ল’ৰাই কি নকৰে বুলি কৈছে?\nক) নিজৰ দোষ পৰিত্যাগ কৰে।    খ) আনক নিন্দা কৰে।\n\nগ) পিতৃ-মাতৃৰ আজ্ঞা পালন কৰে।  ঘ) শিক্ষকক সন্মান কৰে।\nকে) ধরে ঞ্জে দে\n/'৪। তলৰ শব্দকেইটাৰ অৰ্থ, কাযৰ শব্দথূপৰ পৰা উলিয়াই লিখা---\n\n( - ভাষা-্ৰধ্যযম )\n\nৰ ৫।ক) দোষ এৰি আনৰ যি গুণকহে ধৰে।\n\n---এই বাক্যটোত থকা গুণ আৰু দোষ হৈছে পৰস্পৰ বিপৰীত অৰ্থ বুজোৱা শব্দ । এনেদৰে পদ্যটোত\nথকা আন আন পৰস্পৰ বিপৰীত অৰ্থ বুজোৱা শব্দবোৰ বিচাৰি উলিয়াই লিখা---",
+  "confidence": {
+    "word_count": 153,
+    "mean": 82.08,
+    "median": 92.97,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.633,
+  "page_elapsed_seconds": 4.573,
+  "peak_process_tree_rss_bytes": 222142464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

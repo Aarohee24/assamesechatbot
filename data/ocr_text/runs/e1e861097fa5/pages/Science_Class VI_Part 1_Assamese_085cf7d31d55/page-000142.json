@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 142,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঘ্ব্ধ[]) 0069 & 081\" 1]7881120 12181] 11] 110101-9000{]) 011600101] ছ্ধ|12া[]\n909|2611020 1166]?\n\n]]0্্ম 189 8 ০011]2899 0920 100 026111011]16 011600011?\n\n]]0\"%8 স/0010 ৮010] 10211 16 (৮0 1)0169 01 8 |101986911062 11]188911602\n00.816 91৮61] 8 080\" 1]882611260, ৪ 91]]8|] ])]8910 ৪০816, 8 1606 01 %/000.\n8110 8, 1181]. ঘ্/]}10]] 01 01696 ০৪1) ৮00 ০0[1৮621[[ 11100 8৪ 1]188611260.8010\n10% ? ]]0'্ম 00 ৮0100. ০01]16 00 [110 ]]8{110(0260017]69 8 11188611207\n000.816 21421] 8 0817178.61160 8110 50112 81)11]19. ]]0ছম 00 ৮00 0206111]1112\n16 0 )0168 0111.\n\n৮0০00 816 21৮61] 8 080\" 1]8861120 8110 8 ০011]2899. '][]]6 ])0169 816 1101\n1811060 01] 012 1111881]160. ][]0'% ঘ1]] ৮000 11181\" {]16 1)0199 01 16 1]1861121\nদ্ষ্ম|{]|] 016 1161) 01 016 ০011]28989?\n\n/% 1166016 17806 01 80661 ||৪8 01] 016 1001, ৮0100 ০৪1]*{ ]1{[0 1{10]) 1{]]\n৮০001 1181109. ]]0ছ'্ম ০৪1] ৮00] ]]1{{ {]6 1166012 01)\n\n5012|2096 ৮00 816 ঘ191{11]16 8 116স9_])[8০০. 00 ]18%৮6 8 ০0112889 ম1{]]\n\n৮00. []]0সর ছ1]] ৮000: 06202111116 {16 0116000119 01 {]6 |)18০০?",
+  "confidence": {
+    "word_count": 158,
+    "mean": 47.52,
+    "median": 46.7,
+    "minimum": 0.0,
+    "maximum": 95.69
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3823,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.728,
+  "page_elapsed_seconds": 2.985,
+  "peak_process_tree_rss_bytes": 281223168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

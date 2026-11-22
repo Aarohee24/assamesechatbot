@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১) ‘স্কাউট আৰু গাইড’ পাঠটো দলগতভাৱে মনোযোগেৰে পঢ়া। পাঠটোত দৰ্শনা আৰু দুলৰ্ভৰ\nভিতৰত কোনে দেউতাকক বেছিকৈ প্ৰশ্ন কৰিছে বিচাৰি উলিওৱা।\n\n২) উত্তৰ কোৱা আৰু লিখা।\nক) দৰ্শনাহঁতে দূৰদৰ্শনৰ বাতৰিত কোনখন নদীৰ বানপানীৰ দৃশ্য দেখা পাইছিল?\nখ) চৰকাৰী বাহিনীয়ে বানপীড়িত ৰাইজৰ মাজত কি কি বিতৰণ কৰিছিল ?\nগ) চৰকাৰী বাহিনীক সহায় কৰা যুৱক-যুৱতীসকল কোন?\n(ঘ) যুৱক-যুৱতীসকলে কি পোছাক পিন্ধি বান সাহায্যৰ কাম কৰিছিল?\n(৬) দৰ্শনাহঁতৰ দেউতাকে স্কাউট আৰু গাইডৰ বিষয়ে কেনেকৈ জানিলে?\n\n৩) স্কাউট আৰু গাইড সংগঠনৰ মূল কথাখিনি চমুকৈ লিখা।\n\n৪) পাঠটোৰ জটিল শব্দবোৰৰ অৰ্থ জানি লোৱা।\n\n/ প্রু্প্ শব্দ       |             অর্থ\nথাউনি -- পানীত তল নোযোৱাকৈ ভৰিৰে পোৱা পানীৰ তলৰ মাটি।\nনাজল-নাথল অৱস্থা -- আলাই আথানি।\n\n০\n\nবিপদসংকুল        -_ _ বিপদেৰে ভৰা।\n\nআনুগত্য             -- বাধ্য হৈ থকা অৱস্থা।                              ৷\nজনহিতকৰ _9 েেে-ে- জনসাধাৰণৰ বাবে মংগলজনক।\nস্বাৱলম্বী          -- আপোনাক আপুনি প্রতিপাল কৰা।\n\nহস্ত-শিল্প        কুটীৰ-শিল্প।\n\n--- বিপদ আদিত কৰা চিঞৰ বাখৰ\nজনসাধাৰণে ভাল পোৱা।\nনিয়ম নমনা |\n\nদৃঢ় ইচ্ছা, প্রতিজ্ঞা!\n\n১২১",
+  "confidence": {
+    "word_count": 150,
+    "mean": 87.54,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.139,
+  "page_elapsed_seconds": 3.579,
+  "peak_process_tree_rss_bytes": 242585600,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

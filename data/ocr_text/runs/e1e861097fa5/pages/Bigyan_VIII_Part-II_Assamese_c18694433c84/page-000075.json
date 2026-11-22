@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 75,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ এইবোৰ প্ৰাণীৰে শ শ কণী পাৰে\n\nআৰু লক্ষাধিক শুক্ৰমণু এৰি দিয়ে,\nসকলোবোৰ কণীয়ে নিষিক্ত আৰু\nবৃদ্ধি হৈ নতুন জীৱ নহয়। কণী আৰু\nবৰষুণত মুক্তভাৱে থাকে বাবে এনে হয়।\nইয়াৰ উপৰিও পুখুৰীৰ আন প্রাণীবোৰেও\nএই কণীবোৰ খাব পাৰে। অন্তত সিহঁতৰ\nকিছুসংখ্যক নিষেচন নিশ্চিত কৰিবলৈ\nএই প্রাণীবোৰে এইদৰে বৃহৎ সংখ্যক কণী\nআৰু শুক্ৰাণু উৎপন্ন কৰাটো সেয়েহে\nঅতি আৱশ্যক।\n\nকেনেকৈ এটা কোষৰ পৰা এনে এটা\nডাঙৰ জীৱ হ’ব পাৰে?\n\nজ্রণৰ বিকাশ\n\nএটা ভ্ৰূণৰ বিকাশ আৰম্ভ কৰে [চিত্ৰ 12.8 (8)]।\nকোষপিণ্ড গঠন হ’বলৈ যোজন কোষটো বাৰে বাৰে\nবিভক্ত হয় [(চিত্র 12.8 (৮)]। কোষবোৰে পাছত\nকিছুমান ভাগত ভাগ হৈ শৰীৰ বিভিন্ন কলা আৰু\nঅংগৰ বিকাশ কৰে। এই বৃদ্ধি হৈ থকা অংশটোকে ভ্ৰূণ\nবুলি কয়। ভ্ৰণটো আৰু অধিক বিকাশৰ কাৰণে জৰায়ুৰ\nবেৰত লাগি ধৰে [(চিত্র 12.8 (2)] ৷\n\nজৰায়ুত ভ্ৰূণটোৰ ৷ বিকাশ ঘটি থাকে।\nইয়াৰ পৰা ক্ৰমশঃ ‘দেহৰ অংগ যেনে- হাত,\nভৰি, মূৰ, চকু, কাণ আদিৰ গঠন হয়।\n\nচিত্ৰ 12.8 : (0) যোজন কোষ গঠন আৰু যোজন কোষৰ পৰা ভ্ৰূণৰ বিকাশ (0)কোষপিণ্ড (ডাঙৰ আকাৰত)\n(০) জৰায়ুত ভ্ৰণটো লাগি ধৰিছে (ডাঙৰ ৰূপত)",
+  "confidence": {
+    "word_count": 166,
+    "mean": 89.18,
+    "median": 95.89,
+    "minimum": 23.35,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.739,
+  "page_elapsed_seconds": 3.085,
+  "peak_process_tree_rss_bytes": 297148416,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

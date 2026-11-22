@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 64,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা৷ আহৰণ কৰিবলগীয়া অৰ্হতা -   পাঠ৬\n৪ পাঠটো শুনি, পঢ়ি, বুজি পোৱা\nঞ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n স্ম,স্ক,ঞ্চ,গ্ল, স্ন,স্তুযুক্তাক্ষৰ কেইটা পঢ়িব, লিখিব, গঠন কৰিব আৰু ভাঙিব পৰা\nঞ্জ আখৰযুক্ত হোৱাৰ ফলত ‘শ’ৰ ৰূপ সলনি হৈ শু, শ্‌, শ্ৰু+ শ্ৰ হোৱাৰ বিষয়ে জানি প্রয়োগ কৰিব পৰা\nঞ্জ চিঠি লিখাৰ প্রাথমিক নিয়মসমূহ জনা আৰু নিজে চিঠি লিখিব পৰা\nঞ্জ আৱেদন পত্র লিখাৰ জ্ঞান আহৰণ কৰা\nঞ্ চিঠি আৰু আৱেদনৰ পাৰ্থক্য বুজিব পৰা\nঞ সৰ্বনাম পদৰ প্ৰয়োগ কৰিব পৰা\n\nঞ্জ সাঁথৰ ভাঙিব পৰা\n৪ ঘৰুৱা কামত মাক-দেউতাকক সহায় কৰিব পৰা\n\nঞ্জ মৰম-স্নেহ যে টক|-পইচাৰে জুখিব নোৱাৰি সেই সম্পৰ্কে উপলব্ধি কৰিব পৰা\n\nশিকাৰুৰ পাঠভিত্তক অৰ্হতাৰ মূল্যায়ন\n\nগল্প পঢ়িব, | কাহিনী বা ঘটনা | পাঠভিত্তিক প্ৰশ্নৰ\n\nলিখিব পৰা    সঙ্গহপঞ্    উত্তৰ দিব পৰা\n\nগল্প\n\nযুক্তাক্ষৰ- |পঢ়িবপৰা | লিখিব পৰা | ভাঙিব পৰা |গঠন কৰিব পৰা লচ লিখি\n\nভাষা অধ্যয়ন | সৰ্বনাম পদৰ | বাক্যত পদচিনি | বাক্যত পদৰ\n(ব্যাৱহাৰিক | ধাৰণা পোৱা         পোৱা         ব্যৱহাৰ কৰিব\nব্যাকৰণ)                                              পৰা\n\nজ্ঞান  চিঠি লিখাৰ [চিঠিত বিভিন্নজনক| চিঠিতঠিকনা | চিঠি পঠিয়াব | আৱেদন লিখিব\nসম্প্ৰসাৰণ _ | নিয়মসমূহ জনা | সম্বোধন কৰিব | লিখিব পৰা  পৰা   পৰা\n\nএলবাম প্রস্তুত | চিঠিৰ বিভিন্ন\nকৰিব পৰা    প্রকাৰৰ বিষয়ে\nজনা\n\n= = অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ * চিন দিব । অহৰ্তা আয়ভ নোহোৱা শিকাৰচ্ক\nঅতিৰিজভ্্ভাবে শিকাই পুনৰ মূল্যায়ন কৰিব",
+  "confidence": {
+    "word_count": 216,
+    "mean": 85.4,
+    "median": 95.4,
+    "minimum": 6.81,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.977,
+  "page_elapsed_seconds": 3.207,
+  "peak_process_tree_rss_bytes": 248901632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

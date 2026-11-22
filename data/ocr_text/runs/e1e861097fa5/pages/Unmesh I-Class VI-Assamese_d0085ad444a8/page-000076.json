@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "23 ১১। তপনৰ কথা’ গল্পটোৰ মূল কথাখিনি তলত দিয়া লিখনশৈলীত পঢ়োঁ আহা--\n\n\"তপনৰ কথা’\n, চৰিত্ৰ ঃ তপন, খাতুৰাজ, তপনৰ মাক।\nপটভূমি £ তপনৰ মাহীয়েকৰ ল’ৰা খতুৰাজ কেইদিনমানৰ বাবে\nতপনহঁতৰ ঘৰলৈ ফুৰিবলৈ আহিছে।\nমূল সমস্যা ঃ তপনৰ মাকে খ৷তুৰাজ অহাকেইদিন খততুৰাজক বেছিকৈ\nমৰম কৰে আৰু ভালৰো ভাল বস্তুবোৰ তপনক নিদি খতুৰাজ্‌ক ৷\nদিয়ে।\n\nসমস্যাৰ সমাধান ঃ তপনে বুদ্ধিৰে ডাঙৰ\n\n23 ১২। তলত দিয়া গল্পটো পঢ়া---\n\nনবীন, ৰবীন আৰু গুবিন ভাই-ককাই। এদিন সিহঁতক মাহীয়েকে ক’লে-- “তহঁতে আজি\nভালকৈ পঢ়িছ নহয়, সেইকাৰণে এয়া ল, চাৰিটা চকলেট দিছোঁ৷ ভালকৈ পঢ়িলে কাইলৈ পাঁচটা\nনবীন মহাদুষ্ট। মাহীয়েক আঁতৰি যোৱাৰ পাছত সি ৰবীন আৰু গুবিনক ক’লে-_- “আমি\nহ’লো তিনিটা, চকলেট হ’ল চাৰিটা, কেনেকৈ ভগাম? ঠিক আছে, এটা ৰবীনে খাই পেলা, বাকী\nতিনিটা গাইপতি এটাকৈ খাম!”\nৰবীনে ভালেই পালে।\nপাছদিনা মাহীয়েকে সিহঁতক পাঁচটা চকলেট দিলে৷ নবীনে চকলেট ভগাবলৈ লৈ ক’লে-_\n“দুটা গুবিনে খাই পেলা, বাকী তিনিটা গাইপতি এটাকৈ খাম।”\nগুৰিনে ভালেই পালে।\nহঁহি ক’লে--- “আজি ভগাবলৈ দিগদাৰী নাই নহয় ? গাইপতি দুটাকৈ পৰিব।”\nনবীনে মুখখন বিকটাই ক’লে--- “ইঃ! ধেমালি পাইছ? কালি আৰু পৰহি কেনেকৈ\nএই বুলি সি তিনিটা জেপত ভৰালে, বাকী তিনিটা গাইপতি এটাকৈ ভগাই দিলে।\n\nউৎস ঃ ড‘ভবেন্দ্ৰ নাথ শইকীয়াৰ ‘শিশু সাহিত্য সমগ্ৰ’, প্ৰথম প্ৰকাশ, ফেব্ৰুৱাৰী, ২০০৬ চন, বনলতা, গুৱাহাটী-১,\nপৃষ্ঠা-- ২৬১\n\n৭৬\n\n[ঘৰৰৰৰৰৰজেঘৰেৰৰেৰৰেেো]ৰেমীভভভডজজছভছভাভভাভাৰাৰৰৰৰৰৰৰৰৰৰ\n\n|\n।",
+  "confidence": {
+    "word_count": 13,
+    "mean": 70.77,
+    "median": 92.96,
+    "minimum": 19.36,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.397,
+  "page_elapsed_seconds": 3.959,
+  "peak_process_tree_rss_bytes": 280576000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

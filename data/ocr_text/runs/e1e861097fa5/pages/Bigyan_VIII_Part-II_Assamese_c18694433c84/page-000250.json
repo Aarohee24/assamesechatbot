@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 250,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(৪8) 0168013968901\"        (0) 0101]\n\n(০) €89910]2618\n\n(0) [,60.1118|01\n\n118 18.11 :\n8০776 ৫০759162110170775 177 1076 7019)11 $/0;\n\n119 8190 110 11 99 06 ]}192 ])}]])])61;\n16 0168113681\" 01' 016 ১৪2081'9]]1.\n\n']]1616 816 ৪6৮62] |)[01]]]]1611{ 95181'9 ]]]\n{119 ০011806118101], ]{ 81)|)৮681'9; |1|(6 8 018\n18016 01 8 0029001] 181]. ']\"]]1616 816 0166\n৪981'9 11] 116 11811016 01 01618012 8110 10001\" 11]\n108 009] (]\"196. 18.12).\n\n118. 18.12১: 1310267\" 01560 /67\" 0777710779 70167\" 177\n077ন62711 1177165\n\n০৫ ৮ 18.6\n\n00092[\"96 1{]}19 ০০18061]81011] 101 8\nচিছা 10019. 1৯0 ১000 110] 811) ০]1811662 11]\n108 3]18|]26? 1)0 ৮000 110 ৪11) ০]]1811662 11] 119\n1209100117\n\n৮০00 ্া]| 069219৬6 180 16 9118|296 01\n116 ০0119061181101] 121]181119 1|]16 9811]62.\n\n০০ ক্প|| 8190 110 118{ 1116\n€০019806118101] 812)|27681.9 10 1]10%462 11] 116 91\n11\"01]] 6890 100 ৬69.\n\n][ ]18৮2 16810 018 ছ৮6 ০৪]\n100806 116 ]\"১0]6 9০1৪[ স্র1(|। 1762\n116]]) 01 [}198 1[$[8]01',\n\n\"%৫০]৮া(% 18.7\n\n']]]19 ৪০৮1৮ 9]10010 66 [|)611011]160\n0101 8 ০1681 1]0012699 1]19]]1{( 001]1119,\n901]]1]161' 8{ 80000 9.00 ])1]], [,001[ (08109\n016 11012] |)801[0 01 16 91 8110 10911\n[]188 ]$[8]01. ৮001 1118) 9220 ]16]|) [0]]]\n610621.9 11] ৮0001\" ঞ]]]1].\n\n235\n\nবিজ্ঞান / 90খ0ে",
+  "confidence": {
+    "word_count": 151,
+    "mean": 46.51,
+    "median": 47.43,
+    "minimum": 0.0,
+    "maximum": 95.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3962,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.585,
+  "page_elapsed_seconds": 3.87,
+  "peak_process_tree_rss_bytes": 313344000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

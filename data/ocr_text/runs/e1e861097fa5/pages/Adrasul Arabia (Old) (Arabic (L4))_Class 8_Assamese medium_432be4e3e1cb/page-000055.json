@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 55,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ": 062 2 2 3'   এদল] 95%) 0. এএ4ে1 -]*\n(উদাহৰণৰ আৰ্হিত বিপৰীত অৰ্থবোধক শব্দবোৰ লিখা )\nভ ভক; 34 মে     <_ )৫) ত ত  ডে ল্‌\n\n,,,,,, €-৯> ,,,,,,        ৰ,        _\nটন €--৯ ,,,,,,        _\nপপ দপক্চ 7) শিিভনিলনন = ১০৮\n€_--+\n\nকত তচছ্েক্ীন্ন  শ_িই (= ভঞ্জন\n\nজক কনা জ্ীন্ৰ ক্ষ 5 ৭5  ভকনতকআতেকন্গ কক\n\n৩ জে দ€-৯ ,,,,,,     ৰক্ত,  _}) = লেশ\n\nঢ় ভ্মত্ত৷\n\nকঠ ছল 37.54\n[৮ ৩১৮1৫) |\n(পাঠৰ আধাৰত খালী ঠাইবোৰ পূৰণ কৰা)\n\nডে 9৮ ৰ এড ২! ঢ‘এশ ঢ়14৬\n\n,+* ৰহু,এস 28) = ৪৬% তেও তেও ৯)%ি ) তেতততত৷",
+  "confidence": {
+    "word_count": 98,
+    "mean": 35.87,
+    "median": 33.4,
+    "minimum": 0.0,
+    "maximum": 96.79
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9998,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 67 diacritics",
+        "Detected 67 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.956,
+  "page_elapsed_seconds": 3.288,
+  "peak_process_tree_rss_bytes": 178696192,
+  "tesseract_warnings": [
+    "Detected 67 diacritics",
+    "Detected 67 diacritics"
+  ],
+  "processed_this_run": true
+}

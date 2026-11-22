@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ১২। পঢ়া--\n== ্====<===-\n\nচিঠি-পত্ৰ হ’ল এজনৰপৰা আন এজনলৈ বা-\nবাতৰি জনাই লিখা এবিধ লেখন। ই যোগাযোগৰ\nএটি উত্তম আহিলা। চিঠি-পত্ৰ বিলোৱা মানুহজনক\nডাকোৱাল বোলে। ডাকোৱালসকলে আগৰ দিনত\n_ বিভিন্ন দুৰ্গম ঠাইলৈ চিঠি-পত্ৰ কঢ়িয়াই লৈ গৈছিল।\nশম  সেয়ে দুৰ্গম ঠাইলৈ যাওঁতে তেওঁলোকে বিভিন্ন\nসমস্যাৰ সন্মুখীন হৈছিল। সেয়ে আত্মৰক্ষাৰ বাবে\nতেওঁলোকে বাঁহেৰে তৈয়াৰ কৰা এবিধ জোঙা\n\nসঁজুলি লগত লৈ গৈছিল।\n\nএদিনাখন এজন ডাকোৱাল এখন হাবিৰ মাজৰ এটা লুংলুঙীয়া বাটেৰে গৈ আছিল।\nএটা সময়ত তেওঁৰ ভাগৰ লাগিল। তেওঁৰ লগত থকা যাঠিপাট কাষতে মাটিত খুচি থৈ\nতেওঁ জিৰণি ল’লে। সেই পথৰ দাীঁতিতেই এটা বাঘে চিক্মৰলৈ খাপ পিটি আছিল। সি\n\nতাৰ পাছৰ কাহিনীভাগ কি হ’ব তোমাৰ মতে সজাই লিখা---\n\nহহঞ্হহগজগহজখঞখঁখজঘ]]]]]]এ ী ী মী মম মম\n\nদিবি মম মম মম মম\n\nহঞহজঙঁব [৫টা ছ]ছক|ওওউ '।োব([[[র(ত়়[][[] __{&{{{ [{*!  ] ] _ __(_(_( { [[{{{ { & { { { {{{ { {  { ৈ  ৃ_ _ { {{ {এ এ এ _এ_ _ এছ] এ  { { { { এ [|\n\nহহ্হঙ্খগ“্5ো।|[_/)|[[|]/]]]  ছ  িিিইিাীৰমমমমম মম মমত 866668॥ 81] ৷৷ ৷] ৷৷৷৷॥ {ত৯ছছি যি] ] এ ী3 3] &3ীেি3 এ] ] \"৷\n\nপ্রয়োজন হ’লে টোকাবহী ব্যৱহাৰ কৰিব।\nস্পন্দন ১ | তৃতীয় শ্ৰেণী",
+  "confidence": {
+    "word_count": 176,
+    "mean": 62.5,
+    "median": 89.95,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 5.329,
+  "page_elapsed_seconds": 6.293,
+  "peak_process_tree_rss_bytes": 228839424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

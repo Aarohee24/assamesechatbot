@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 47,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "* মাণিক বৰদেউতাৰ ঠেলাগাড়ীখন ৰামদয়ালে চলায়।\n\nছাত্ৰর-ছাত্ৰীসকল, ওপৰৰ বাক্যকেইটিলৈ মন কৰাচোন। প্রথম বাক্যটোত আম শব্দৰ লগত\nজোপা, সেইদৰে দ্বিতীয় বাক্যটোত চুবুৰি শব্দৰ লগত টো আৰু তৃতীয় বাক্যটোত থকা গাড়ী শব্দৰ\nলগত খন যোগ হৈছে।\n\nইয়াৰ উপৰি অসমীয়া ভাষাত -জন, -জনী, -গৰাকী, টা, -4টি, -কণ, -কণি, খিলা,-চটা, -ডাল,\n-ডালি, -খন, -খনি, -গছ, -গছি, -পাট, -পাটি আদি নিৰ্দিষ্টতাবাচক প্রত্যয়ৰ ব্যৱহাৰ হয়।\n\nৰ ১০।‘ক’অংশৰ শব্দবোৰৰ লগত ‘খ’ অংশত থকা নিৰ্দিষ্টতাবাচক প্ৰত্যয়বৌৰ লগ লগাই শব্দ লিখা।\n\n‘ৰ ১১ ৷তলতদদিয়া শব্দবোৰ পঢ়া আৰু কোনটো কি পদ চিনাক্ত কৰি তালিকাখন পূৰ কৰা---\n\nমনন . চকু তাই আৰু মই দিওঁ সচুবুৰি\nধুনীয়া আহা সিহঁত ভাল যদি আমি  জৈওৰা\n\nবিশেষ্য    বিশেষণ   সৰ্বনাম   অব্যয়  |\n\nৰ” ৯ ৷ নাটিকাখনত পোৱা ভাৱৰীয়াসকলৰ নামসমূহ বিচাৰি উলিয়াই এখন তালিকা প্রস্তুত কৰা।\n৷ জানো আহা--           ।\n\n* সেন্দুৰী আমজোপা আমাৰ চুবুৰিৰ সোমাজত আছে।\n\n* আমাৰ চুবুৰিটো বৰ ধুনীয়া ।",
+  "confidence": {
+    "word_count": 136,
+    "mean": 82.04,
+    "median": 91.97,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.666,
+  "page_elapsed_seconds": 3.178,
+  "peak_process_tree_rss_bytes": 286601216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

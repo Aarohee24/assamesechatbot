@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 123,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৮) দফাটো পঢ়া আৰু কাষৰ বাকচৰ পৰা নাম এটা লৈ দফাটোৰ নামকৰণ কৰা। লগতে তলত\nদিয়া প্ৰশ্নকেইটাৰ উত্তৰ দিয়া।\n\nস্কটলেণ্ডৰ জেম্‌ছু ৱাটে ১৭৬৯ চনত উন্নত মানৰ ভাপ ইঞ্জিন\nআৱিষ্কাৰ কৰি স্থল পৰিৱহণৰ ক্ষেত্ৰত আমূল পৰিৱৰ্তন সাধন\nকৰে। আকৌ, ১৮০৩ চনতইংলণ্ডৰ অভিযন্তা ৰিছাৰ্ড ট্ৰেভিথিকে\nআগতকৈ উন্নত মানৰ ভাপ ইঞ্জিন তৈয়াৰ কৰি উলিয়ায়।\nপৰৱৰ্তীস্তৰত কয়লাৰ খনিত কাম কৰা জৰ্জ ষ্টিফেনচনে উন্নত এটি\nইঞ্জিন তৈয়াৰ কৰি যাত্ৰীবাহী ৰে’ল-গাড়ীৰ চলাচলত গুৰুত্বপূৰ্ণ\nঅৱদান আগবঢ়ায়। তাৰ পাছত ৰে’ল-গাড়ীৰ চলাচল সুচল আৰু\nনিৰাপদ কৰিবলৈ গুৰপ্রসাদ দাসে ‘ভেকুৱাম বে’ক’ উদ্ভাৱন কৰে।\n(ক) জেম্‌ছ ৱাটে কি আবিষ্কাৰ কৰে?\n(খ) ৰিছাৰ্ড ট্ৰেভিথিকে কোন চনত আগতকৈ উন্নত মানৰ ইঞ্জিন তৈয়াৰ কৰে?\n\n৯) অধ্যৱসায়ৰ জৰিয়তে বিজ্ঞানী গুৰল্প্ৰসাদ দাসে জীৱনত কেনেকৈ সফলতা লাভ কৰিলে,\nদলত আলোচনা কৰা আৰু বহলাই লিখা।\n\n১০) আবিষ্কাৰ আৰু উদ্ভাৱনৰ মাজত পাৰ্থক্য কি? শিক্ষকৰ সহায়ত জানি লোৱা আৰু নিজৰ\nবহীত লিখা।\n\n১১) তলৰ চতুৰ্ভুজটোত উদ্ভাৱক আৰু উদ্ভাৱন কৰা বস্তুৰ নাম দিয়া আছে। কোনে কি উদ্ভাৱন\nকৰিছিল মিলাই লিখা।\n\nখ\nৰল”\n\nৰ\n৷\nৰ ৰপ্",
+  "confidence": {
+    "word_count": 155,
+    "mean": 88.98,
+    "median": 95.27,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.508,
+  "page_elapsed_seconds": 3.885,
+  "peak_process_tree_rss_bytes": 243871744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

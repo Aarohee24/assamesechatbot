@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 237,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অধ্যায়\n\n18        তৰা আৰু সোৰজগত\n\n    2\n\n58207\n\nগৰমৰ বন্ধত প্রহুলিকা আৰু প্রজ্ঞানে থাকে তেনেবোৰ ঠাইৰ ৰাতিৰ আকাশ নিৰীক্ষণ এক\nককাদেউতাকৰ গাঁৱলৈ ফুৰিবলৈ গৈছিল। ৰাতিৰ বিচিত্ৰ অভিজ্ঞতা।\nআহাৰ খোৱাৰ পাছত সিহঁত ঘৰৰ চাদলৈ গৈছিল। সেই   এটা অন্ধকাৰ আৰু ফৰকাল ৰাতি আকাশলৈ চাই\nসময়ত আকাশ পৰিষ্কাৰ আৰু ডাৱৰবিহীন অৱস্থাত পঠিয়াবা। গোটেইখন আকাশ অগণন তৰাৰে ভৰি থকা\nআছিল। আকাশত বহুসংখ্যক উজ্জ্বল তৰা দেখি সিহঁত দেখিবা।তাৰেকিছুমান'উজ্জ্বলআৰুআনকিছুমানসিমান\nবিস্ময়াভিভূত হৈছিল। নিজৰ নগৰত এনে মনোৰম উজ্জ্বল নহয়। তৰাবোৰ মনোযোগেৰে নিৰীক্ষণ কৰা।\n\nদ্‌ দেখাৰ সৌভগা সিহঁতৰ কেতিয়াও হোৱা নাছিল সিহঁত আটায়ে তিৰ্বিৰাই থাকেনে ?তৰাসদৃশ আন কিবা\nত্রণ|8.1)।\n\nডাঙৰ ডাঙৰ নগৰৰ আকাশতকৈ গাঁৱৰ তিৰ্বিৰাই নথকা বস্তু চকুত পৰেনে? তিৰ্বিৰ\nআকাশ কিয় বেলেগ বুলি প্রহেলিকাৰ মনত প্রশ্নৰ নকৰাবোৰ হ’ল গ্রহ।\nউদয় হৈছিল। অৱশ্যে ককাদেউতাকে তাইক বুজাই    ৰাতিৰ আকাশৰ সবাতোকৈ উজ্জ্বল বস্তুটো হ’ল\nদিছিল যে উজ্জ্বল পোহৰ, ধূলি আৰু ধোঁৱাৰ বাবে চন্দ্ৰ। তৰা, গ্ৰহ, চন্দ্ৰ আৰু আকাশৰ আন ভালেমান\nডাঙৰ নগৰবোৰত আকাশ কাচিতহে পৰিষ্কাৰ হৈ বস্তুক একেলগে নভোমগুলীয় বস্তু বোলে।",
+  "confidence": {
+    "word_count": 149,
+    "mean": 89.4,
+    "median": 93.99,
+    "minimum": 4.6,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.859,
+  "page_elapsed_seconds": 3.127,
+  "peak_process_tree_rss_bytes": 315015168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

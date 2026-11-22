@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 203,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1. বালিৰ ঠাইত যদি পানীত দ্ৰৱনীয় নিমখ ল’লাহেঁতেন, তেন্তে এই পদ্ধতি প্ৰয়োগ\nকৰিব পাৰিবানে? 2. চিত্ৰ 6.1 ৰ, ওপৰত থকা বোকা-পানীৰ স্তৰটো তলত জমা\nহোৱা বালি আৰু শিলৰ স্তৰটোৰ পৰা অৱক্ষেপনৰ দ্বাৰা পৃথক কৰিব পাৰিবানে?\n\nএই একে পদ্ধতিৰেদুটা মিহলি নোহোৱা জুলীয়া দ্রব্য পৃথক কৰিব পাৰি ।উদাহৰণস্বৰূপে,\nতেল পানীত মিহলি নহয়। জোকাৰি দিলে ঘোলা হৈ পৰে। মিশ্ৰটো কিছু সময় ৰাখি থ’লে\nদুটা তৰপ গঠন কৰে (চিত্ৰ 6.8)। ওপৰত থকা তেলখিনি আস্মাৱণ পদ্ধতিৰে তলত থকা\nপানীখিনিৰ পৰা পৃথক কৰিব পাৰি।\n\nন্দ্টি ৰ,\n\n৷ ভাৰাচোন : তেলখিনি কিয় পানীৰ ওপৰত ওপঙি থাকে? এনে কিবা জুলীয়া দ্রব্য _!\n।আছেনেকি যি পানীৰ তলত থাকে? যদি আছে, নাম লিখা ৷          ।\n\n6.5 পৰিম্ৰাৱণ\n\nওপৰত বৰ্ণনা কৰা আআরাৱণ পদ্ধতিটো পৃথকীকৰণৰ বাবে খুব ভাল পদ্ধতি হয়\nজানো? বালি-পানীৰ মিশ্ৰটোৰ ক্ষেত্ৰত অলপ হ’লেও বালি গুছি যোৱাৰ ভয় থাকে। এইদৰে\nচাহৰ পৰা চাহপাত পৃথক কৰোতে কিছুমান চাহপাত ৰৈ যায়। তেনেহলে আমি কিদৰে এই\n\n77+ + ৮ বলে",
+  "confidence": {
+    "word_count": 147,
+    "mean": 86.93,
+    "median": 95.92,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.704,
+  "page_elapsed_seconds": 3.119,
+  "peak_process_tree_rss_bytes": 301039616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

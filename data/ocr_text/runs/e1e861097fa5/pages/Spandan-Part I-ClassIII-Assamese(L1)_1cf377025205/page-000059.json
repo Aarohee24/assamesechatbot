@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 59,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "/ ১৩। ‘লেফাফা’ সাজোঁ আহা---\nপ্রয়োজনীয় সামগ্ৰী- বৰ্গাকৃতিৰ কাগজ এখিলা, আঠা, কেঁচী\n\n১) ছবিত দেখুওৱাৰ দৰে কাগজখিলাৰ প্রতিটো চুক মাজলৈ আনি ভাজ কৰি একোটাকৈ\nচিন দি লোৱা।\n\n২) এতিয়া কাগজখিলাৰ এটা চুক ভাজ কৰি মাজলৈ আনা আৰু বিপৰীতফালৰ চুকটোও মাজলৈ\nআনি চুকদুটা আঠা লগাই লোৱা।\n\n৩) কাগজখিলাৰ তলৰ চুকটো ছবিত দেখুওৱাৰ দৰে সৰুকৈ ভাজ কৰি লৈ সৰুঅংশখিনি কাটি\nলোৱা।\n\n৪) এতিয়া কাগজখিলাৰ তলৰ সেই অংশখিনি মাজলৈ টানি আনি আঠা লগোৱা ।\n\n৫) ওপৰৰ অংশটো আগতে চিন দিয়াৰ দৰে মাজলৈ টানি ভাজ দি লোৱা।\n\n(৬)\n\nজনা মাছ৷\nৰ ১৪। ক) তোমাৰ পৰিয়ালৰ সদস্যসকলৰ নামৰ সৈতে তেওঁলোকৰ ফোন নম্বৰৰ\nএখন তালিকা প্রস্তুত কৰা।\nখ) তোমাৰ বিদ্যালয়ৰ বেৰত আঁৰি থোৱা জৰুৰীকালীন ফোন নম্বৰৰ তালিকাখন\n\nচাই টোকাবহীত লিখি থোৱা।\n(প্ৰয়োজনবোধে শিক্ষকে সহায় কৰিব আৰু সকলো ছাত্ৰ-ছাত্ৰীৰ অংশগ্ৰহণ নিশ্চিত কৰিব।)",
+  "confidence": {
+    "word_count": 125,
+    "mean": 87.56,
+    "median": 95.9,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.371,
+  "page_elapsed_seconds": 4.375,
+  "peak_process_tree_rss_bytes": 222380032,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

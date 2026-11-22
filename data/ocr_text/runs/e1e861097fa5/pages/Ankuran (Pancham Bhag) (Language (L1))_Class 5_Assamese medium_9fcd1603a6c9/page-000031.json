@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 31,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ -- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n(%ঠ} জানো আহা\n\nঅৰূপৰ চিঠিখনত থকা--\n\n“যোৱা ৫/৫/১৩ তাৰিখে মই এঘৰলৈ ভোজ খাবলৈ গৈছিলোঁ। খাই অহাৰ পৰাই\n\nমোৰ পেট-চলা আৰম্ভ হৈছিল। মা-দেউতাই কিবা-কিবি খুৱাইছিল; কিন্তু পেট-চলা\nওপৰৰ বাক্যকেইটিত থকা গৈছিলোঁ, হৈছিল, খুৱাইছিল আৰু নাছিল এই ক্ৰিয়া\n\nপদকেইটাই ইতিমধ্যে হৈ যোৱা কামবোৰৰ অৰ্থ প্রকাশ কৰিছে। এনেদৰে আগতে হৈ\n\nযোৱা কাৰ্যৰ অৰ্থ প্রকাশ কৰা ক্ৰিয়াৰ কালক অতীত কাল বুলি কোৱা হয়।\n\nশিক্ষয়িত্ৰীগৰাকীয়ে কোৱা বাক্য দুটা মন কৰা--\n\n“অৰূপ, তুমি লিখিতভাৱে জনোৱা বাবে মই ভাল পাইছোঁ। কিন্তু এইখন তুমি\nকৰা বা হোৱা বুজাইছে। এতিয়া কৰা, হোৱা বা চলি থকা অৰ্থ প্রকাশ কৰা ক্ৰিয়াৰ\nকালক বৰ্তমান কাল বুলি কোৱা হয়।\n\nযেনে--- কাডমে গান গাইছে। বাছাপীয়ে নাচিছে।\n\n“মই তোমালোকক শিকাই দিছোঁ ৰ’বা। ভৱিষ্যতে তোমালোকে এনেধৰণেৰে\n\nওপৰৰ বাক্য দুটাত ব্যৱহাৰ হোৱা ৰ’বা আৰু লিখিবা এই ক্ৰিয়া পদ দুটাই\nএতিয়ালৈকে সম্পন্ন নোহোৱা কামৰ অৰ্থ বুজাইছে। এনেদৰে আগলৈ হ’বলগীয়া\nকামৰ অৰ্থ প্রকাশ কৰা ক্ৰিয়াৰ কালক ভৱিষ্যত কাল বুলি কোৱা হয়।\n\nযেনে--- কাইলৈ বাইদেৱে আমাক সাধুকথা ক’ব।\n\nআমি মনপুতি শুনিম।\nসাধু শুনি বৰ ভাল লাগিব।\n\n(ডু পাঠটিত থকা অতীত কাল বুজোৱা ক্ৰিয়া পদবোৰ বিচাৰি উলিয়াই লিখা।",
+  "confidence": {
+    "word_count": 173,
+    "mean": 92.77,
+    "median": 95.91,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.651,
+  "page_elapsed_seconds": 4.057,
+  "peak_process_tree_rss_bytes": 277270528,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

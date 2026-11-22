@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰড\n\nকৃষ্ণকান্ত সন্দিকৈৰ পৰিচয়- ১৮৯৮ চনৰ জুলাই মাহৰ ২০ তাৰিখে যোৰহাটত\nকৃষ্ণকান্ত সন্দিকৈৰ জন্ম হৈছিল। তেখেতৰ পিতৃ আছিল ৰাধাকান্ত সন্দিকৈ আৰু\nমাতৃ আছিল নাৰায়ণী সন্দিকৈ।\n\nকৃষ্ণকান্ত সন্দিকৈয়ে কলিকতা বিশ্ববিদ্যালয়ৰ পৰা সংস্কৃতত প্রথম শ্ৰেণীত\nএম.এ. পাছ কৰিছিল। তেখেতে উচ্চ শিক্ষাৰ বাবে লণ্ডনলৈ গৈছিল।\nআলোচনী, চেতনা, আৱাহন আদি পত্ৰিকাত বিভিন্ন বিষয়ৰ প্রবন্ধ লিখিছিল। কৃষ্ণকান্ত\nসন্দিকৈৰ অধ্যয়নৰ পৰিসৰ আছিল ব্যাপক আৰু গভীৰ। তেখেতে বেদকে ধৰি\nপ্রাচীন ভাৰতীয় সাহিত্য, পাশ্চাত্য সাহিত্য, অভিধান আৰু ব্যাকৰণৰ আলোচনা\nকৰিছিল। আনহাতে জীৱনৰ প্রথমছোৱাত কেইটিমান গীত আৰু কবিতাও লিখিছিল।\n\nপৃথিৱীৰ কেইবাটাও উন্নত ভাষা তেখেতে আয়ত্ত কৰিছিল। বিশেষকৈ তেখেত\nআছিল সংস্কৃত ভাষা-সাহিত্যৰ বিশ্ববিশ্ৰুত পণ্ডিত।\n\nশিক্ষাবিদ কৃষ্ণকান্ত সন্দিকৈ এগৰাকী দক্ষ প্রৰশাসকো আছিল। তেখেতে\nযোৰহাট জগন্নাথ বৰুৱা মহাবিদ্যালয়ৰ অধ্যক্ষ আৰু গুৱাহাটী বিশ্ববিদ্যালয়ৰ উপাচাৰ্য\nহিচাপে কাৰ্য নিৰ্বাহ কৰিছিল। তেখেতে ৰচনা কৰা গ্ৰন্থসমূহ হ’ল -- ‘আজ্ৰীহৰ্যৰ নৈষধ\n\nতেখেত ১৯৩৭ চনত অসম সাহিত্য সভাৰ সভাপতি হৈছিল। সৰ্বভাৰতীয়\nপ্রাচ্যবিদ্যা সন্মিলনৰো তেখেত সভাপতি আছিল। এনে বহু সামাজিক অনুষ্ঠানৰ লগত\nতেখেত ওতপ্ৰোতভাৱে জড়িত আছিল।\n\n(ক) কৃষ্ণকান্ত সন্দিকৈৰ জন্ম চনটো কি?\n\n(খ) তেখেতে কেতিয়াৰ পৰা সাহিত্য চৰ্চা কৰিছিল?\n(গ) তেখেতে কোনটো বিষয়ত এম. এ. পাছ কৰিছিল?",
+  "confidence": {
+    "word_count": 167,
+    "mean": 92.55,
+    "median": 96.12,
+    "minimum": 1.87,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.992,
+  "page_elapsed_seconds": 4.408,
+  "peak_process_tree_rss_bytes": 262225920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ-4.5 £ পৰীক্ষাগাৰৰ তাপমেতাৰে পানীৰ উষ্ণতা\nজোখা হৈছে।\n\nশ্ৰেণীৰ প্রতিজন ছাত্ৰই লিপিবদ্ধ কৰা\nপানীৰ উষ্ণতাৰ তুলনা কৰা। এই পাঠবোৰৰ মাজত\nকিবা তাৰতম্য চকুত পৰিছেনে? সাস্তাব্য কাৰণবোৰ\nআলোচনা কৰা। এই প্রশ্নৰ উত্তৰ বিচাৰি চাওঁ আহা।\n\nজ্বৰ জোখা তাপমেতাৰে কিয়\nউচ্চ উষ্ণতা (]]18]৭ (210|22180012) জুখিব\nনোৱাৰি সেই কথাটো প্ৰজ্ঞানে এতিয়া বুজি\nপালে। তথাপি পৰীক্ষাগাৰৰ তাপমেতাৰে\nতাৰ শৰীৰৰ উষ্ণতা (39099 210008001০)\nজুখিব ([/[০89012) পাৰি নেকি বুলি মনটো\n\nখুদুৱাই থাকিল।\n\nত্ৰিয়াকলাপ (%1ঘ]!%) 4.5\n\nএটা বিকাৰ বা মগত অলপ গৰম পানী\nলোৱা। এতিয়া তাপমেতাটো (]']]211]0112021)\nপানীত ডুবোৱা। পাৰাৰ আঁচডাল সুস্থিৰ (০৮০৪০)\nনোহোৱা পৰ্যন্ত অপেক্ষা কৰা আৰু উষ্ণতাৰ পাঠ\nলিখি ৰাখা ৷ এতিয়া পানীৰ পৰা তাপমেতাটো উলিয়াই\nআনা। কি ঘটে মনোযোগেৰে লক্ষ্য কৰা। পানীৰপৰা\nউলিয়াই অনাৰ লগে লগে পাৰাৰ উচ্চতা ([.6%৮6০1 0\n1]121001\"\") কমিবলৈ ধৰা কথাটো মন কৰিছানে?\nইয়াৰ অৰ্থ হ’ল এই যে তাপমেতাটো পানীত ডুবি\nথকা অৱস্থাতেই তাৰ পাঠ ল’ব লাগিব।\n\nতোমাৰ মনত পৰিব পাৰে যে জ্বৰ জোখা\nতাপমেতাৰে তোমাৰ শৰীৰৰ উষ্ণতা জোখাৰ সময়ত\nইয়াক মুখৰ বাহিৰলৈ উলিয়াই আনিহে উষ্ণতাৰ পাঠ\nলৈছিল৷ ৷ তুমি তেতিয়া হ’লে শৰীৰৰ উষ্ণতা জুখিবলৈ\nপৰীক্ষাগাৰৰ তাপমেতা ব্যৱহাৰ কৰিব পাৰিবানে?\nনিশ্চয়কৈ এই কামৰ বাবে পৰীক্ষাগাৰৰ তাপমেতা\nউপযোগী নহয়।\n\nপ্রজ্ঞানে এটা কথা ভাবি আচৰিত\nহয় যে তাপমেতাৰ বান্ধ কোনে৷ বস্তুৰ\nসংস্পৰ্শলৈ (0001820)) আহিলে\nকিয় পাৰাৰ উচ্চতাৰ তাৰতম্য (08008)\nঘটে?\n\n39",
+  "confidence": {
+    "word_count": 198,
+    "mean": 86.85,
+    "median": 95.81,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.949,
+  "page_elapsed_seconds": 3.278,
+  "peak_process_tree_rss_bytes": 299241472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

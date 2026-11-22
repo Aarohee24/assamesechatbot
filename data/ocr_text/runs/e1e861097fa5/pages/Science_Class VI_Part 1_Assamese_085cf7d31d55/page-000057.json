@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 57,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চৰাই উৰি ফুৰা দেখিছা। উৰিবৰ বাবে ইহঁতে কি অভিযোজন কৰে বাৰু? ইহঁতৰ\nঅগ্রপদ বা আগঠেং ডেউকালৈ ৰূপান্তৰিত হয়। ডেউকাৰ সহায়ত উৰে। চৰাইৰ হাড়বোৰ\nফোপোলা ৷৷ সেইবাবে দেহৰ ওজন কমে আৰু উৰিবলৈ সুবিধা হয়। উট চৰাই উৰিব নোৱাৰে।\nইহঁতৰ হাড় ফোপোলা নহয়, হাড়বোৰ আটিল।৷ সেইবাবে শৰীৰৰ ওজন বেছি।\n\n= “জজ\n\n(৫) উৰি থকা অৱস্থাত ষ্টগল\nচ্ত্ৰি 2.11: চলনৰ বাবে চৰাইৰ অভিযোজন\n\nতোমালোক সকলোৱে পুখুৰী দেখিছা নহয় ? পুখুৰীত কিছুমান উদ্ভিদ গজে৷ এইবোৰ\nজলজ উদ্ভিদ । পুনি,মেটেকা,ভেট আদিবোৰ জলজ উদ্ভিদ । এইবোৰ কেনেদৰে পানীত\nওপঙি থাকে, ভাবি চাইছানে? এনে উদ্ভিদৰ গা-গছ সোপোকা। ইয়াত বায়ু সোমাই\nথাকে। শিপাবোৰ চুটি, সেইবাবে ওজন কম আৰু পানীত ওপঙি থাকিব পাৰে।\n\n0153111511) 3110 ]31001%621\"51{%/\n\nজীৱ আৰু জৈৰ বৈচিত্ৰ্য",
+  "confidence": {
+    "word_count": 111,
+    "mean": 87.4,
+    "median": 93.37,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.565,
+  "page_elapsed_seconds": 3.081,
+  "peak_process_tree_rss_bytes": 364765184,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 63,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "11, শব্দৰ খেলটো সম্পূৰ্ণ কৰা।\nপথালিকৈ\n1) মাটি উৰ্বৰ কৰা এবিধ জৈৱ উপাদান।\n3) মানুহে দৰ্শন কৰিব পৰাকৈ বিভিন্ন প্রাণীক কৃত্ৰিমভাৱে তৈয়াৰী আৱাসস্থানত ৰখাৰ ব্যৱস্থা।\n4) অসমৰ এখন ৰাষ্ট্ৰীয় উদ্যান।\n\nঢ     5) এক প্রকাৰ বনাঞ্চল সম্পদ।\nবে   থিয়কৈ\nঢ়    2) পাঁচমাৰীৰ জীৱমণ্ডল সংৰক্ষিত অঞ্চলৰ এবিধ থলুৱা প্রজাতি।\nৰ     3) জীৱ বৈচিত্ৰ্য ধ্বংস হোৱাৰ এটা কাৰণ।\n4) গছৰ পৰা উৎপন্ন কৰা এবিধ লিখন সামগ্রী।       1] --|\n1 [৯\nৰক:    [ |\n4   ত\n[|\n\n1) তোমাৰ অঞ্চলত কমেও পাঁচ জোপা উত্ভিদ এই শৈক্ষিক বৰ্ষত ৰোৱা আৰু সেইবোৰ ডাঙৰ\nহোৱালৈকে প্ৰতিপালন নিশ্চিত কৰা।\n\n2). প্ৰতিজ্ঞা কৰা যে এই বছৰত তোমালোকৰ বন্ধু বান্ধবীবোৰক আৰু সম্বন্ধীয়লোকক তেওঁলোকৰ\nসাফল্যৰ ক্ষেত্ৰত বা জন্মদিনৰ দৰে উপলক্ষত পাঁচ জোপা গছ আগবঢ়াবা। তোমালোকৰ বন্ধু-\nগছপুলি উপহাৰ দিবলৈ উৎসাহিত কৰিব। বছৰৰ শেষত এনে ধৰণৰ উপহাৰ দিয়া গছ পুলিবোৰৰ\nসংখ্যা গণনা কৰা।\n\n3) জনজাতি সকলক বনাঞ্চলৰ একেবাৰে ভিতৰৰ এলেকাত থাকিবলৈ বাধা দিয়াটো যুক্তিসংগত নে?\nতোমাৰ শ্ৰেণীত আলোচনা কৰা আৰু মূল বিষয়ৰ সপক্ষে আৰু বিপক্ষে আগবঢ়োৱা যুক্তিসমূহ\nতোমাৰ -- টোকা বহীত লিখা।",
+  "confidence": {
+    "word_count": 160,
+    "mean": 88.97,
+    "median": 95.62,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.721,
+  "page_elapsed_seconds": 2.991,
+  "peak_process_tree_rss_bytes": 330588160,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

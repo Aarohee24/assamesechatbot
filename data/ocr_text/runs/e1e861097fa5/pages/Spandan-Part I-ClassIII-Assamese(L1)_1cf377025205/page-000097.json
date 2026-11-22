@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 97,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-_- কলস         = =\n\n=> মো + ক        =>       ===\nমোক         মিঠা\n= ম্‌”ও+ক       =>\n=>          (ত)\nমৰম         ডাঙৰ\nঅভ,          ==      7>\n=\")\nচেনেহ\n===\n--এইদৰে তোমাৰ নিজৰ নামটো ভাঙি লিখ৷ ৷.\n3চ) উচ্চাৰণ ভেদে শব্দৰ অৰ্থ শিকৌ আহা|--+\nঅ’ত -= ইয়াত      অত,((অ) -= ইমান\nক’ত -=- কোন ঠাইত    কৃত (অ) == কিমান\nয’ত -= -যিঠাইত    যত (অ) == যিমান\nব'ল -= যারলৈ৷লগ ধৰা   বল  -- শক্তি, জোৰ\nগ'ল -- _;জআঁতৰি যোৱা   গল  -=- ডিঙি\nম'হ = এবিধ্ণুজন্ত    মহ  -= এবিধ পতঙ্গ\nদ’ল ,. == দৌল     দল  -= গোট, সমূহ\n\nজানো,আহা ঃ বৰ্ণৰ ওপৰত দিয়া এই ৷৷ চিনটোৱে অ’ৰ উচ্চাৰণ বুজায় |\nএৰুৱাই\nশান্তকৰা\nততালিকে তৎক্ষণাৎ\nএকেথৰে একেৰাহে\n\n০০\n\n০০\n\nঅধ্যায় ৭ঃ পৰিয়াল",
+  "confidence": {
+    "word_count": 113,
+    "mean": 69.5,
+    "median": 83.46,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.005,
+  "page_elapsed_seconds": 3.779,
+  "peak_process_tree_rss_bytes": 220332032,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

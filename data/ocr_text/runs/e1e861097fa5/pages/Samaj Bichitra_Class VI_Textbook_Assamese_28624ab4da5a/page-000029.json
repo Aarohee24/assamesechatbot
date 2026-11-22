@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "15406\n\nতোমালোকে নিশ্চয় নদ-নদী, বিল, হদ, সাগৰ-মহাসাগৰ, দ্বীপ, সমভূমি, মালভূমি, পৰ্বত-পাহাৰ,\nউপত্যকা আদি নানা প্রকাৰৰ ভূ-অৱয়ব ([.8110.0107}) দেখিবলৈ পাইছা। ভূ-মানে পৃথিৱী বা মাটি আৰু অৱয়ব\nমানে গঠন ৷ পৃথিৱীৰ উপৰিভাগ সকলোতে একে নহয়। ইয়াৰে কোনো ঠাই ওখোৰা-মোখোৰা আৰু কোনো ঠাই\nসমান। অতীজৰেপৰা বাহ্যিক আৰু আভ্যন্তৰীণ কাৰকৰ ক্ৰিয়াৰ ফলত এনে ভূ-অৱয়ববোৰে পৰিৱৰ্তনৰ সন্মুখীন\nহৈ আহিছে।\n\nছসঃ 1.6211.০01]0])\n\nচিত্ৰ ৩.১ ঃ ভূ-অৱয়বব্লোৰৰ ছবি\n\nচিত্র ৩.১,ত দেখুওৱা কি.কি ভূ-অৱয়ব তোমাৰ নিজৰ অঞ্চলটোত আছে, তাক তলৰ খালী বাকচটোত\nলিখি উলিওৱা ।\n\nআমি দেখিবলৈ পোৱা ভূ-অৱয়ববোৰ মূলতঃ জলভাগ আৰু স্থলভাগত পোৱা যায়। স্থলভাগত\nথকা কেইটামান ভূ-অৱয়ব হ’ল- পৰ্বত-পাহাৰ, মালভূমি, সমভূমি আৰু উপত্যকা। তেনেদৰে জলভাগৰ\nঅৱয়ববোৰ হ’ল- সাগৰ-মহাসাগৰ, নদ-নদী, বিল, জলাহ আদি।\n\n৩.১ স্থলভাগৰ ভূ-অৱয়ব ঃ\n\nস্থলভাগ পৃথিৱীৰ উপৰিভাগৰ এটা গুৰুত্বপূৰ্ণ অংশ। এই ভাগটো এছিয়া, ইউৰোপ, আফিকা, উত্তৰ\nআমেৰিকা, দক্ষিণ আমেৰিকা, ওচেনিয়া, এণ্টাৰ্কটিকা- এই মহাদেশকেইখনক লৈ গঠিত। স্থলভাগৰ ভূ-\nঅৱয়ববোৰো এই অঞ্চলবোৰতেই সিঁচৰতি হৈ আছে।\n\nপৃথিৱীৰ স্থলভাগত থকা ভূ-অৱয়ববোৰৰ ওপৰত ৰ’দ, বতাহ, বৰষুণ আদিয়ে অহৰহ ক্ৰিয়া কৰি থাকে।\n\nভূং্সৱয়ব আৰু মানুহ",
+  "confidence": {
+    "word_count": 155,
+    "mean": 88.63,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.142,
+  "page_elapsed_seconds": 3.66,
+  "peak_process_tree_rss_bytes": 312631296,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

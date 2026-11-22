@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তেওঁ নিৰ্মাণ কৰা ‘জয়মতী ’য়েই হ’ল প্রথম অসমীয়া নমো\n\nস্সসাদ তেওঁ ‘শোণিত কুঁৱৰী’নাটকখন ৰচনা কৰিছিল। জ্যোতিপ্ৰসাদ আগৰৱালাই অসমীয়া সংস্কৃতিক\nনতুন ৰূপ দিছিল। সেইবাবে তেওঁ ‘ৰূপকোঁৱৰ’ নামেৰে জনাজাত। ১৯৫১ খৰীষ্টাব্দৰ ১৭\nজানুৱাৰীত জ্যোতিপ্ৰসাদ আগৰৱালাৰ মৃত্যু হয়। তেওঁৰ মৃত্যুৰ দিনটো আমি ‘শিল্পী দিৱস’\nহিচাপে উদ্যাপন কৰোঁ।\nন  এতিয়া আমি জ্যোতি সংগীতটো গাওঁ আহা “বিশ্ববিজয়ী...\n\n_ (ল্যাৰলাপ)\n\nৰ ১। আলোচনা কৰোঁ আৰু লিখোঁ আহা--\n(ক) কোনবোৰ গীতক জ্যোতিসংগীত বোলে?\n(খ) জ্যোতিপ্রসাদ আগৰৱালাক ‘ৰূপকৌৱৰ’” নামেৰে কিয় জনা যায়?\n(গ) শিল্পী দিৱস কোনদিনা আৰু কিয় পালন কৰৰা হয়?\n(ঘ) তামোলবাৰী চাহ-বাগিচাখন ক’ত আছে?\n(ঙ) জ্যোতিপ্ৰসাদ আগৰৱালা লণ্ডনলৈ কিয় গৈছিল?\n(চ) তেওঁ জাৰ্মানীলৈ কিয় গৈছিল?\n\nএ ২। তলৰ প্ৰশ্নবোৰৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0) চিনটো পূৰ কৰা।\n\n'_ জ্যোতিপ্ৰসাদ আগৰৱালাৰ পিতৃৰ নাম আছিল---\n(ক)পৰমানন্দ\"-আগৰৱালা\n(খ) আনন্দচন্দ্ৰ আগৰৱালা\n(গ). নিৰানন্দ আগৰৱালা\n(ঘ) \"সদানন্দ আগৰৱালা          কেট ফ্ে ঠে) দে)\n\n৷ প্ৰথমখন অসমীয়া বোলছবিৰ নাম আছিল--\n\n(ক) যুঁজ\n(খ) ৰজা হৰিশ্চন্দ্ৰ\n(গ) সপোন\n\n(ঘ) জয়মতী          কে) ঞে গে) ঘে)\n\nস্পন্দন ১ | তৃতীয় শ্ৰেণী",
+  "confidence": {
+    "word_count": 127,
+    "mean": 78.32,
+    "median": 92.58,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.111,
+  "page_elapsed_seconds": 4.989,
+  "peak_process_tree_rss_bytes": 223227904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 143,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1]. মুক্তভাৱে ওলোমাই থলে দণ্ড চুম্বক এডালে কিয় উত্তৰ-দক্ষিণাকৈ থাকে?\n\n12. কম্পাছ যন্ত্ৰ সহায়ত কিদৰে দিশ নিৰ্ণয় কৰা হয়?\n\n13. অশ্বখুৰাকৃতিৰ চুম্বকৰ মেৰু দুটা কিদৰে চিনাক্ত কৰিবা?\n\n14. তোমাক এডাল দণ্ড চুম্বক, সৰু এডাল প্লাষ্টিকৰ সৰু স্কেল, এটা কাঠৰ টুকুৰা আৰু\nলোৰ গজাল এটা দিয়া হ’ল। ইয়াৰে কোনবিধক তুমি চুম্বকত পৰিণত কৰিব পাৰিবা\nআৰু কেনেকৈ? চুম্বকত পৰিণত হোৱাটো কেনেদৰে গম পাবা?\n\n15. তোমাক এডাল দণ্ড চুম্বক আৰু কিছুমান আলপিন দিয়া হ’ল। দণ্ড চুম্বকডালৰ মেৰু\nদুটা কেনেকৈ উলিয়াবা?\n\n16. তোমাক এডাল দণ্ড চুম্বক আৰু এটা কম্পাছ যন্ত্ৰ দিয়া হ’ল। চুম্বকডালত মেৰু\nচিহ্নিত কৰা হোৱা নাই। কম্পাছ যন্ত্ৰটোৰ সহায়ত কিদৰে চুম্বকডালৰ মেৰু দুটা\nচিহ্নিত কৰিবা?\n\n17. ষ্টীলৰ বেজি এটা মজিয়াত পৰি গ’ল, তুমি হাতেৰে উঠাব পৰা নাই। বেজিটো কি\nউপায়েৰে উঠাব পাৰিবা?\n\n18. ধৰা হ’ল, তুমি এখন নতুন ঠাইলৈ ফুৰিব গ’লা। তোমাৰ লগত এটা কম্পাছযন্ত্\nআছে। তুমি কিদৰে ঠাইখনৰ দিশবোৰ নিৰ্ণয় কৰিবা?",
+  "confidence": {
+    "word_count": 140,
+    "mean": 93.43,
+    "median": 96.07,
+    "minimum": 19.34,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.341,
+  "page_elapsed_seconds": 2.632,
+  "peak_process_tree_rss_bytes": 282034176,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

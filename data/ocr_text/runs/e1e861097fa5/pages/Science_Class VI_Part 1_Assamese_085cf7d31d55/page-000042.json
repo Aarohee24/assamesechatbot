@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 42,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[] /২৫০0[৮]( 2.5:\n\nঘ্ব্য়1]116 ৬19100116 8 2810621] ]18%9621]*{ ৮00 ০0০01|1|60060 90116 11211 |28৪%৮০৪?\n00092146 1696 168%4629 ০৪06100|[). 120 ৮00. 9266 ৪011]16 11169 011 16 1811]11]8\n01 176 128%৮6297 '[]1696 816 ৮০]]19 8110 €]111669 01 12681. '][1]16 81181166211]12109\n01 ৬০119 8010 ৮০111|20৪8 11] ৪ 1281 19 [র710ছমা] 89 স্6081011, ][|16 06198 ৮6]\n1[\"01]] 116 06896 10 016 ৪])6% 01 016 1681 19 ০৪||60 {116 11]10110. ].68{ ৮০11]19\n011261118.6 [01] 1]10110. [|] ৪01]6 16829, ৬০][189 0118911180116 11\"01]] 116\n1710110 816 |)818[|]26]. '[]]19 19 ০৪1120 ]}ঞা।'3]]০] ০118.101]. 1}8118118 |6৪৮০১৪\n26স1101{ {1119 ৮])6 01 ৮০18.101]. 511]1181], {1116 ৮০119 11] {16 168%469 01 716\n12800 ])1[811[ 816 8|90 811811660 |)818112]1[া. ঘ্ব%খ [121] ৮00] 0092196 8 1281 01\n৪ 1|)6০])28[ 066, ৮000 ঘ্1|| 966 1160 |1|(6 |)8211] 01 ৮০119 স্দ|]10]] 19 ০৪||6৫\n1601001806 ৮৪০]]9(]101]].\n\n(00) 1210897\"0771 5}7071]719 1207\"01161 ৮০670011071\n\n14\"18. 2.4 ১ 170/6726711 09265 0/ ৮০%011077",
+  "confidence": {
+    "word_count": 140,
+    "mean": 42.31,
+    "median": 40.16,
+    "minimum": 0.0,
+    "maximum": 95.23
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3168,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.917,
+  "page_elapsed_seconds": 3.302,
+  "peak_process_tree_rss_bytes": 369291264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

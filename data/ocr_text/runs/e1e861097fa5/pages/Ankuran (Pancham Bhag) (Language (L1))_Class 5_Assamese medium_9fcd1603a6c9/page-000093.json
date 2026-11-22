@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 93,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\nঞ যতি চিহ্নৰ বিষয়ে জানি বুজি শুদ্ধ উচ্চাৰণেৰে পাঠটো পঢ়িব পৰা\nঞঙ নাটকীয় ভংগীত পঢ়াৰ কৌশল আয়ত্ত কৰি অভিনয় কৰা কৌশল শিকিব পৰা\n\nঞ নাটক পঢ়াৰ প্রতি আগ্ৰহী হোৱা\n\nপাঠ ৯\n\n8 পাঠ পঢ়ি বুজি পোৱা আৰু পাঠভিত্তিক প্রশ্নৰ উত্তৰ কৰিব পৰা\nঞ যুক্তাক্ষৰ ভাঙিব পৰা, শব্দ গঠন কৰিব পৰা, এটা শব্দত প্রকাশ কৰিব পৰা\n\nঞ সম্বন্ধবাচক শব্দবোৰৰ বিষয়ে জনা\nঞ প্ৰতিশব্দ (সমাৰ্থক) লিখিব পৰা\nঞ এটা শব্দত প্রকাশ কৰি লিখিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nনাটিকা | পাঠটো শুদ্ধ | পাঠভিত্তিকপ্রশ্নৰ | পাঠটো নাটকীয় | কুকুৰ আৰু | নতুন নতুন শব্দৰ\n|           পৰা    বিষয়ে জনা\nব্যাৱহাৰিক | স্ত্'যুক্তাক্ষৰটো | স্ত্ৰ'যুক্তাক্ষৰ থকা | বাক্য ৰচনা কৰিব | এটা শব্দত প্রকাশ ৷ যতি চিনৰ\nব্যাকৰণ  ভাঙিব পৰা, | শব্দ পঢ়িব পৰা   পৰা|    কৰিব পৰা  ব্যৱহাৰ জনা\nগঠন কৰিব পৰা\nজ্ঞান   খৰিয়াল | শব্দ গঠন কৰিব | শব্দৰ সৰলীকৃত ! সাঁথৰ ভাঙিব পৰা | সম্বন্ধবাচক শব্দ\nসম্প্ৰসাৰণ  (কাজিয়া)   পৰা আৰু  ৰূপ জনা আৰু        জনা\nনলগাৰ উপায় | অভিধানৰ ব্যৱহাৰ | বুজি পোৱা\nভাবিব পৰা   ভজনা\nপ্রকল্প | জীৱ-জন্তুৰ ছবি! সাধু কথা সংগ্ৰহ | জীৱ-জন্তুৰ বিষয়ে\nসংগ্ৰহ কৰিব | কৰি পঢ়িব পৰা   লিখা\nপৰা  আৰু লিখিব পৰা | সাঁথৰ ক’ব পৰা\nআৰু ভাঙিব পৰা\n\nএ.্স” অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰতা আয়ত\n\nনোহোৱা শিকাৰণ্ক অতিৰিভ্ুভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 222,
+    "mean": 87.74,
+    "median": 96.03,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.836,
+  "page_elapsed_seconds": 3.146,
+  "peak_process_tree_rss_bytes": 247324672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

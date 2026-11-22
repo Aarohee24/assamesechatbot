@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "লিখা। প্ৰয়োজন হ’লে অভিধান নাইবা শিক্ষকৰ সহায় ল’ব৷।\nনি|৷এ পূ |।ৰু [ষা |\n\nণ্র\nব্র|এএ\n\nতী\n্্\nগু/\n\nক\nৰু\nৰ\n\nণ্৯= %৫\n\nখৰ [*এ । [এ | এ৷ 2\n্শ|%1|-*%\n৭|এ“এ|পএ৷৮৯৮৷+|/-=\nস্[*% | ত্য|-*৯ | -এ!|-\n=), (( < 3\n\n(১) সুখ বা দুখ পোৱা কাৰ্য                            ভোগ\n(২) উন্নত অৱস্থা\n\n(৩) যত্ন\n\n(৪) সাঁচি ৰখা কাৰ্য\n\n(৫) বিদ্যুৎ\n\n(৬) এবিধ বহুমূলীয়া মণি বা বাখৰ\n\n(৭) কোনো বিষয়ত আগ্ৰহেৰে লগা\n\n(৮) আন কোনোফালে মন নিদিয়াকৈ একান্তভাৱে লাগি থকা\n(৯) ক্ৰমাহয়\n\n(১০) প্ৰক্ৰিয়া, বিধি\n\nঠ/ ৩। তলত দিয়া প্ৰশ্নবোৰৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) দূৰৈৰ মাণিক কেনেকৈ হাততে পাব পাৰি?\n(খ) পুথি এখনৰ আচল ভাব কেনেদৰে উদ্ধাৰ কৰিব পাৰি?\n(গ) পুথিৰ বিদ্যাক কিহৰ লগত তুলনা কৰিছে?\n\n(ঘ) পৰলোকগামী পণ্ডিতসকলৰ বিদ্যা-বুদ্ধি কেনেদৰে লাভ কৰিব পাৰি?\n\n৩৫,\n\nৰ্দ্জোং। তলত দিয়া শব্দজালখনত কিছুমান শব্দ দিয়া হৈছে। সেই শব্দবোৰৰ অৰ্থ তলত দিয়া\nআছে। অৰ্থ অনুযায়ী সেই শব্দবোৰ চিনাক্ত কৰি গোল চিন দিয়া আৰু খালী বাকচত",
+  "confidence": {
+    "word_count": 150,
+    "mean": 77.4,
+    "median": 94.25,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.764,
+  "page_elapsed_seconds": 3.273,
+  "peak_process_tree_rss_bytes": 287105024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

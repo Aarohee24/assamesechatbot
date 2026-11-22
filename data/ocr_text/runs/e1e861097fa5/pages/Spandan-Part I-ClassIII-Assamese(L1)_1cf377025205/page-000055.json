@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 55,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "9 ৬। “কথা-পতা, নাচ-গান, খেলা-ধূলা, দেখা-শুনা এইবোৰতো আছেই। খবৰ পঠিওৱা, খবৰ  অুব<ৰ\nলোৱা আদি কামো ময়েই কৰোঁ।” এই বাক্যকেইশাৰীত থকা ‘নাচ-গান’ত নাচ আৰু গান\nবেলেগ বেলেগ শব্দ দুটাক একেলগে চুটিকৈ লিখিবলৈ শব্দ দুটাৰ মাজত ‘-’ (হাইফেন)\nব্যৱহাৰ কৰা হৈছে। একেদৰে ‘কথা-পতা’, ‘খেলা-ধূলা’ আৰু ‘দেখা-শুনা’ শব্দবোৰো গঠিত\n\nহেছে।\nঠিক তেনেদৰে তলত দিয়া শব্দসমষ্টিত ‘আৰু”ৰ সলনি ‘-' (হাইফেন) ব্যৱহাৰ কুৰি লিখা--- চেন\nপঢ়া আৰু শুনা --       উশাহ আৰু নিশাহ -=        ৰ\nল’ৰা আৰু ছোৱালী--      চিঠি আৰু পত্ৰ -_\n/* ৭। পাঠটোত যুক্তাক্ষৰ থকা শব্দবোৰ বাছি উলিওৱা। সেই যুক্তাক্ষৰবোৰ কি কি\nআখৰেৰে গঠিত হৈছে লিখা।       ।\nইণ্টাৰনেট     ণ্ট.    ্ক_ ণ্+ট\n\nওপৰৰ সেউজীয়া বাকচটোত থকা এটা বুজোৱা শব্দবোৰক একবচন আৰু ৰঙা বাকচটোত থকা\nএটাতকৈ বেছি বুজোৱা শব্দবোৰক বহুবচন বোলে।\n\nঅধ্যায় ৪ ঃ যোগাযোগ",
+  "confidence": {
+    "word_count": 119,
+    "mean": 87.75,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.112,
+  "page_elapsed_seconds": 4.043,
+  "peak_process_tree_rss_bytes": 220557312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

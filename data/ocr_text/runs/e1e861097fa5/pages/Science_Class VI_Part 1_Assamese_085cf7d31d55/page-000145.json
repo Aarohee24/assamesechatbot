@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 145,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": ". 3-4 ডালমান বেলেগ বেলেগ আকৃতিৰ চুম্বক আৰু পেপাৰ ক্লিপ কিছুমান লোৱা।\n\n. মেগ্‌লেভ্‌ ৰে’লৰ বিষয়ে জানিবলৈ চেষ্টা কৰা৷ এডাল কাঠৰ স্কেল, দণ্ড চুম্বক আৰু\n\n৪. গধুৰ বস্তু উঠাবৰ বাবে চুম্বক ব্যৱহাৰ কৰিব পাৰিনে জানিবলৈ যত্ন কৰা।\n\nডৰ\n\nবিস্তৃত শিকন                         [\n\nকাগজ এখনৰ তলত চুম্বক কেইডাল ৰাখা। কাগজৰ ওপৰত পেপাৰ ক্লিপ ছটিয়াই\nদিয়া আৰু চুম্বককেইডালে সমানে পেপাৰ ক্লিপ আকৰ্ষণ কৰিছে নে নাই পৰীক্ষা\nকৰা।\n\nএটা কাগজৰ গিলাচত পানী লৈ তাত অলপ আঠা মিহলাই দিয়া। এতিয়া মিশ্ৰণটোত\nঅলপ লোৰ গুড়ি ছটিয়াই ভালদৰে মিলাই দিয়া। এটা আঠালেতীয়া মিশ্ৰণ পাবা।\nমিশ্রণটোত এডাল চুম্বক দিয়া আৰু কি হয় লক্ষ্য কৰা।\n\nপেপাৰ ক্লিপৰ সহায়ত মেগলেভ্‌ৰে’লৰ নমুনা প্রস্তুত কৰিবলৈ যত্ন কৰা।\nতোমাৰ পঢ়া টেবুলখনৰ এটা চুকত এটা আলপিন পৰি গ’ল। তুমি হাতেৰে উঠাব\nপৰা নাই। কি উপায় অৱলম্বন কৰি আলপিনটো উঠাব পাৰিবা?\n\nচিকিৎসা ক্ষেত্ৰখনত চুম্বক ব্যৱহাৰৰ বিষয়ে জানিবলৈ যত্ন কৰা।",
+  "confidence": {
+    "word_count": 134,
+    "mean": 91.73,
+    "median": 93.95,
+    "minimum": 5.28,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.369,
+  "page_elapsed_seconds": 2.609,
+  "peak_process_tree_rss_bytes": 282783744,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

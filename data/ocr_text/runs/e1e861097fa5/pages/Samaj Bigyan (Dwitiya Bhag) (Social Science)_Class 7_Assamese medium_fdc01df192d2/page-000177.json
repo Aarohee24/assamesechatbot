@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 177,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "|\n\n(গ) পৰিকল্পনাৰ কাম-কাজ ৰূপায়ণৰ বাবে\n\nচৰকাৰক প্রয়োজন হয় ---  (1) কৃষি     (11) উদ্যোগ\n(]{1) অৰ্থ               (]1ঘ) বাণিজ্য\n(ঘ) তলৰ কোনটো অনাকৰ ৰাজহৰ উদাহৰণঃ--\n(1) আয়কৰ                ({1) নিগম কৰ\n\n(}}}) দ্রব্য আৰু সেৱা কৰ (1ঘ্য)জৰিমনা\n\n(ঙ) দ্বাদশ পঞ্চবাৰ্ষিক পৰিকল্পনা সবাধিক গুৰুত্ব তলৰ কোনটো খণ্ডৰ ওপৰত আৰোপ কৰা হৈছিল--_\n(1) সমূহীয়া অন্তৰ্ভুক্তিকৃত বৃদ্ধি (}{) কৃষি\n\nখালী ঠাই পূৰ কৰা--           (]}1) উদ্যোগীকৰণ            (]ঘ্ব) পথ পৰিবহন\n\n(ক) পৰিয়ালটো সুখে-সম্ভোষে থাকিবলৈ হ’লে পৰিয়ালৰ আটাইৰে সদিচ্ছাবোৰক _ __ দিব লাগে।\n(খ) অৰুণিমা এগৰাকী _______ মহিলা।\n\n(গ) প্ৰতিটো পৰিয়ালৰে মাহিলী কৰিবলগীয়া কামৰ এক নিৰ্দিষ্ট        থাকে।\n\n(ঘ) চৰকাৰী পৰিকল্পনামতে কাম কৰিবলৈ _ _- _ প্রস্তুত কৰি লোৱা হয়।\n\n(ঙ)কৌোনো প্ৰত্যক্ষ প্ৰতিদান আশা নকৰাকৈ চৰকাৰক বাধ্যতামূলকভাৱে দিবলগীয়া ধনেই হৈছে- __।\nপ্ৰকল্প\n\nতোমালোকৰ নিজৰ বিদ্যালয়ত অনুষ্ঠিত কৰা যিকোনো এটা অনুষ্ঠানৰ বাবে এটা পৰিকল্পনা প্রস্তুত কৰা৷ পৰিকল্পনা\nঅনুযায়ী বিভিন্ন শিতানত হ'বলগীয়া খৰচৰ এখন তালিকা প্রস্তুত কৰা।\n\nকককককক",
+  "confidence": {
+    "word_count": 137,
+    "mean": 83.65,
+    "median": 93.28,
+    "minimum": 12.31,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.089,
+  "page_elapsed_seconds": 3.541,
+  "peak_process_tree_rss_bytes": 239767552,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

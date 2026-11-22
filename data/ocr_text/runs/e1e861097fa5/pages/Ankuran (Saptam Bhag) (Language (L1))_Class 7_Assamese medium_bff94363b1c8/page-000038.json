@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫। তলৰ শব্দবোৰৰ অৰ্থ মিলাই লিখ৷।\n\nশব্দ                       অৰ্থ\nপ                                আদি\nশীতলী                           চেনেহ\nসোণোৱালী                      চৰাই\nমৰম              পৰ্বতৰ আগ বা ওখ ভাগ\nপ্রথম                             চেঁচা, শীতল\nটিং                               সোণ-বৰণীয়া\nঙ।           ‘মুদিম আকৌ চকু\nতোমাৰ কোলাতে শুই\n\nওপৰৰ কবিতাফাকিৰ গদ্যৰূপ হ’ল -- জীৱনৰ শেষ সন্ধিয়াত তোমাৰ কোলাত শুই আকৌ\nচকু মুদিম। এই উদাহৰণটো চাই তলৰ কৰিতা কেইফাকি গদ্য ৰূপত লিখা।\n(ক) সোণোৱালী মেঘ হৈ\nৰঙা হাঁহি বিৰিঙাম\n(খ) আকাশৰ তৰা হৈ\n\nৰ লাগি চাই ৰ’ম\nসেউজীয়া শুৱনি জেউতি।\n৭। পাঠত থকা ‘জনমভূমি’ কবিতাংশৰ মূলভাব লিখা।\n\nখ---ভাষা৷ অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৮। উপযুক্ত স্থানত যতি চিহ্ন প্ৰয়োগ কৰি তলৰ পদ্য কেইফাকি পুনৰাই লিখা।\nপুঁৱতিৰ লগে লগে     জগাম তোমাক নিতে\n\nৱদি গীতত\nআকাশৰ তৰা হৈ     ৰ লাগি চাই ৰ’ম\nসেউজীয়া শুৱনি জেউতি\nজোনাকত মিল হৈ      বিমান পথত ৰৈ\nওৰে ৰাতি কৰিম আৰতি\n\n>>\"",
+  "confidence": {
+    "word_count": 125,
+    "mean": 91.1,
+    "median": 95.7,
+    "minimum": 34.31,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.125,
+  "page_elapsed_seconds": 2.339,
+  "peak_process_tree_rss_bytes": 298807296,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

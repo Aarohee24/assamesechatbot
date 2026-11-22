@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তৃণভূমি অঞ্চলত হাতী, গঁড়, হৰিণা, জেৱা, জিৰাফ আদি তৃণভোজী প্রাণী থাকে। এইবোৰ\nঅঞ্চলত বাঘ, সিংহ আদি মাংসভোজী প্রাণীও থাকে। অসমৰ অৰণ্যত হাতী, গঁড়, হৰিণা, বাঘ,ভালুক\nআদি প্রাণী পোৱা যায়। বিভিন্ন পৰিৱেশত খাপ খাব পৰাকৈ প্রাণীৰ শৰীৰৰ গঠন ভিন ভিন হয়।\nপৰিৱেশ অনুযায়ী প্রাণীয়ে নিজৰ নিজৰ খাদ্য বিচাৰি লয়।\n\nতৃণভুমিৰ প্ৰাণা\n\nচিন্তা কৰিলিখা-\n> তৃণভূমি অঞ্চলত তৃণভোজী প্রাণীসমূহে কিয় জাক পাতি থাকে?\n\nদলত আলোচনা কৰি লিখা-\n\n> তোমালোকৰ অঞ্চলত কিকি প্লাণী আৰু উদ্ভিদ আছে?\n\nবেক্টেৰিয়া, ভাইৰাছ আদি জীৱ ইমানেই ক্ষুদ্ৰ যে খালী\nচকুৰে ইহঁতক দেখা পোৱা নাযায়। এইবোৰক অণুবীক্ষণ যন্ত্ৰৰ\nসহায়তহে দেখা যায়। সেয়েহে ইহঁতক অণুজীৱ বোলে৷ ইহঁত\nউদ্ভিদ বা প্রাণীৰ পচন ঘটাই পচন সাৰ তৈয়াৰ কৰে।\n\n ভাইৰাছ\nউদ্ভিদ, প্রাণী, চৰাই-চিৰিকটি, কীট-পতংগ, অণুজীৱৰ আদি হৈছে পৰিৱেশৰ জৈৰিক উপাদান।\n\n> বিভিন্ন পৰিৱেশৰ প্রাণীৰ ছবি সংগ্ৰহ কৰি এখন এলবাম প্রস্তুত কৰা (শিক্ষকৰ সহায়ত) ।\n(৫)",
+  "confidence": {
+    "word_count": 132,
+    "mean": 88.53,
+    "median": 95.69,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.78,
+  "page_elapsed_seconds": 3.747,
+  "peak_process_tree_rss_bytes": 228757504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

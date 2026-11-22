@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 142,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতাসমূহ\n\n৬ লোকগীত শুনি বুজি পোৱা\n\n৬ লোকগীত সুৰ লগাই গাব পৰা\n\n৬ পাঠভিত্তিক প্রশ্নৰ উত্তৰ লিখিব পৰা\n৬ লোক উৎসৱ সম্বন্ধে ধাৰণা পোৱা আৰু সেইবোৰত অংশগ্ৰহণ কৰিবলৈ আগ্ৰহী হোৱা\nঙ স্থানীয় কৃষ্টিৰ বিষয়ে ক’ব পৰা আৰু গৌৰৱ অনুভৱ কৰা\n\n৬ লোকগীত, সাধুকথা আদি লোক-সাহিত্য সংগ্ৰহ কৰি লিপিবদ্ধ কৰিব পৰা\n\n৬ লোক উৎসৱ আৰু লোক সাহিত্যক সন্মান কৰিবলৈ শিকা\n৬ আনৰ উপভাষা আৰু স্থানীয় উপভাষাৰ প্রতি সন্মান প্রদৰ্শন কৰিব পৰা\n৬ কুইজ, আকস্মিক বক্তৃতা আদিত অংশগ্ৰহণ কৰিব পৰা\n\nঙ স্থানীয় লোকগীত লিপিবদ্ধ কৰিব পৰা\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nমহো-হো  লোকগীত শুদ্ধ  পাঠভিত্তিক প্রশ্নৰ উত্তৰ | পাঠত থকা স্থানীয় | অংগ-ভংগী কৰি\n(গীত) উচ্চাৰণেৰে গাব পৰা   দিব পৰা  উপভাষাৰ শব্দবোৰৰ  গাব পৰা\nঅৰ্থ জনা\nভাষা অধ্যয়ন, বিশেষ্য পদ আৰু | স্থানীয় উপভাষাৰ বাক্যৰ ; আকস্মিক বক্তৃতা\n(ব্যাৱহাৰিক | ক্ৰিয়াপদ বাছি | পৰা পদ চিনাক্ত কৰিব | আৰু কুইজত ভাগ\nব্যাকৰণ)  উলিয়াব পৰা    পৰা     ল’ব পৰা\nজ্ঞান  স্থানীয় লোক উৎসৱৰ| যিকোনো লোকগীতৰ\nবৰ্ণনা দিব পৰা  বিষয়ে চমুটোকা\n্িসাৰণ        লিখিব পৰা\nস্থানীয় লোকগীত | স্থানীয় লোকগীত গাব\nপ্রকল্প | লিপিবদ্ধ কৰিব পৰা   পৰা\n\n= অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলে তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ ১ চিন দিব\n\nঅহৰ্তা আয়ভ নোহোৱা শিকাৰক অতিৰিভ্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।\n\n১৩২",
+  "confidence": {
+    "word_count": 204,
+    "mean": 90.48,
+    "median": 95.98,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.173,
+  "page_elapsed_seconds": 3.463,
+  "peak_process_tree_rss_bytes": 246321152,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

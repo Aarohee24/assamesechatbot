@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অৰূপৰ আবৰেদন\n\nবহুদিনৰ মূৰত অৰূপ আজি স্কুললৈ আহিছে। তাৰ খা-খবৰ লোৱাত লগৰীয়াহঁত\nব্যস্ত। এনেতে শিক্ষয়িত্ৰী ৰেহেনা খাতুন বাইদেউ আহি শ্ৰেণী কোঠাত সোমাল। সোমায়েই\nতেওঁ অৰূপক দেখি সুধিলে--“অৰূপ, তুমি দেখোন কেইবাদিনো স্কুল খতি কৰিলা, কিবা\nঅসুখ-বিসুখ হৈছিল নেকি?” “হয় বাইদেউ” বুলি সি তাৰ জেপৰ পৰা এখন কাগজ\nদি্িয়হি:শিক্ষয়ৱা রহিলাডৰ তত দিলো। তেখেতে কাগজখন জণীল চাকীঙুঢিলে_\n\nত৫312104\n\nপ্রথমতে মোৰ সেৱা গ্ৰহণ কৰিব। যোৱা ৫-০৫-১৩        ।\nতাৰিখে মই গাঁৱৰে এঘৰলৈ ভোজ খাবলৈ গৈছিলোঁ। খাই অহাৰ\nপৰাই মোৰ পেট-চলা আৰম্ভ হৈছিল। মা-দেউতাহঁতে কিবা-কিবি\nখুৱাইছিল; কিন্তু পেট-চলা বন্ধ নহ’ল। শেষত ডাক্তৰক দেখুৱাই _\nএইকেইদিন স্কুললৈ আহিব পৰা নাছিলোঁ। এতিয়া অলপ ভাল পাইছোঁ।\nএই দহদিন স্কুলত উপস্থিত থাকিব নোৱাৰিলোঁ। অনুগ্ৰহ কৰি\n\n, অনুপস্থিত থকা দিনকেইটাৰ বাবে ছুটী মঞ্জুৰ কৰে যেন। এয়ে মহোদয়াৰ\n(ওচৰত মোৰ সৰল মিনতি। শ্ৰদ্ধাৰে, ইতি--\n\nআপোনাৰ প্রিয় ছাত্ৰ\nঅৰূপ হাজৰিকা\n৫ ম মান, ‘ক’ শাখা\n\nৰোল নং-_৭",
+  "confidence": {
+    "word_count": 134,
+    "mean": 85.19,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 53 diacritics",
+        "Detected 53 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.461,
+  "page_elapsed_seconds": 3.885,
+  "peak_process_tree_rss_bytes": 278835200,
+  "tesseract_warnings": [
+    "Detected 53 diacritics",
+    "Detected 53 diacritics"
+  ],
+  "processed_this_run": true
+}

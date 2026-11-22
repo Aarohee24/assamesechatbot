@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঠ/_ ৫।তলত দিয়া প্ৰশ্নকেইটাৰ উত্তৰ কোৱা আৰু লিখা ৷\n(ক)মননে ছবিখন কিয় আঁকিছিল?\n(খ)গছে আমাক কি কি দিয়ে বুলি মননে কৈছে?\n(গ)আকাশীয়ে গছৰ মূঢ়াটোৰ গা-গছ আৰু আঠাৰ টোপালত দিয়া ৰঙা ৰংটোৱে\nকি সূচাইছে?\n(ঘ) বন মহোৎসৱ সপ্তাহৰ সামৰণী সভাখন ক’ত অনুষ্ঠিত হ’ব?\n(৬) পৱন খুৰাই মননহঁতক কি খুৱাব বুলি কৈছিল?\n(চ) ‘যাওঁ আহা সকলোটি’--- শীৰ্ষক গানটো কোনে গাবলৈ আৰম্ভ কৰিছিল?\nঠ/* ৬। তলত দিয়া প্ৰশ্নকেইটাৰ উত্তৰ আলোচনা কৰি কোৱা আৰু,লিখা।\n(ক) মননে ছবিখনৰ জৰিয়তে কি ভাব ফুটাই তুলিব বিচাৰিছে?\n(খ) সুমনাই গছৰ পুলিবোৰ ৰোৱাৰ পাছত সেইবোৰৰ কি হ’ব বুলি শংকা কৰিছে?\nতাইৰ এই শংকা কোনে, কেনেদৰে দূৰ হ’ব বুলি কৈছে?\n(গ) মননহঁতে গছৰ পুলি ৰোৱাৰ পৰিকল্পনা কেনেদৰে কৰিছিল?\n/ ৭। কোনে, কাক আৰু কি প্ৰসংগত কৈছিল লিখা।\n(ক) “আমাৰ মানুকণহঁতে, মানে ‘ক’ শ্ৰেণীৰ ল’ৰা-ছোৱালীবিলাকে নাচি নাচি\nগান এটা গাবগৈ নহয়।”\n(খ) “তোমালোকৰ ঘৰত যে শুকান গোবৰ গুড়ি কৰি থোৱা আছে, তাৰে এমোনা\n\nলৈ আহিবা ৷”\n৷ ৰ ৮।‘ক’ অংশৰ লগত ‘খ’অংশ,মিলোৰা--\n\n‘ক’ অংশ                                      ‘খ’অংশ\n\nমালতী পেহীয়ে         খুব ভাল পাইছে।\nজোপোহা হৈ থকা পাতখিনি    পকা কল এথোকা পঠাই দিব।\nঘোষকৈ ক’ব          চুলিৰ নিচিনা লাগিছে।\nমাণিক বৰদেউতাই কথাটো শুনি | মাননীয় ৰাইজ, আজিৰপৰা বন\nমহোৎসৱ আৰম্ভ হৈছে।\nতীম           দি",
+  "confidence": {
+    "word_count": 187,
+    "mean": 88.49,
+    "median": 95.52,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.176,
+  "page_elapsed_seconds": 3.643,
+  "peak_process_tree_rss_bytes": 288256000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

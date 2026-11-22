@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়াকলাপ (.১[খ1(%) 10.4\n\nজ্ৰিয়াকলাপ 10.5\n\nএটা দীঘল উশাহ লোৱা। এডাল জোখ লোৱা ফিটাৰে\nবক্ষৰ জোখ লোৱা (চিত্র 10.6) আৰু তোমালোকৰ\nপৰ্যবেক্ষণবোৰ তালিকা 10.2 ত লিপিবদ্ধ কৰা।\nপ্রসাৰণৰ অৱস্থাত বক্ষৰ জোখ পুনৰ লোৱা আৰু\nকোনজন সহপাঠীয়ে বক্ষৰ অধিক প্রসাৰণ কৰি\nদেখুৱাব পাৰে তাক নিৰ্ণয় কৰা।\n\nউশাহ-নিশাহ প্রক্ৰিয়াটো আমি এটা সৰল আহহিৰে\n(9111)216 11006]) দেখুৱাব পাৰোঁ।\n\nবায়ু ভিতৰলৈ সোমাইছে\n(/%1[' 19 0181] 1]])\n\nছী\n\n(])18118.611]1 1]0%4629 00ঘয1])\n\n(ক) উশাহ (]1018188010)\n\nকামিহাড় বাহিৰলৈ\nওলাইছে\n\n(]২109 11042 000)\n\nএটা বহল প্লীষ্টিকৰ বটল লোৱা।তলটো আঁতৰাই দিয়া।\nস্ব আকাৰৰ কীচৰ বা প্লাষ্টিকৰ নলী লোৱা। ঢাকনিখনৰ\nওপৰত এটা বিন্ধা কৰা, যাতে নলীডাল ইয়াৰ মাজেদি\nপাৰ হ’ব পাৰে। নলীৰ দ্বিবিভক্ত অংশৰ মূৰ দুটাত\nদুটা নুফুলোৱা বেলুন টানকৈ লগোৱা। চিত্র 10.7 ত\nদেখুওৱাৰ দৰে নলীডাল বটলৰ ভিতৰলৈ সুমুৱাই\nদিয়া। এতিয়া বটলৰ মুখখন লগাই দিয়া। বায়ুৰুদ্ধ\n(/1108]10)) হোৱাকৈ নিকপকপীয়াকে বন্ধ কৰা।\nবটলৰ তলৰ খোলা অংশটোত এডাল ৰবৰ বেণ্ডেৰে\nএখন পাতল ৰবৰ বা চেপেটা প্লীষ্টিক টানকৈ বান্ধা।\n\nবায়ু বাহিৰলৈ ওলাইছে\n\n(/*11 101060.00)\n\n([)18]]188911] 10৮69 06801)\n\n(খ) নিশাহ ([7১]18188011)\nচিত্ৰ 10.5 মানুহৰ উশাহ-নিশাহ প্ৰক্ৰিয়া ([[60]181]191]] 01 0168{]]1]196 11] ]}0}1]1811 61119)\n\nতালিকা 10.2 কেইজনমান সহপাঠীৰ বক্ষগহ্ৰৰ আকাৰৰ ওপৰত উশাহ-নিশাহৰ প্রভাৱ\n\n(11600 0101\"68]1]11 0 01) {116 €11690 9176 01 90116 €]8991118669)\n\nজীৱৰ শ্বাসপ্ৰশ্বাস (শ্বসন)\n\n113",
+  "confidence": {
+    "word_count": 191,
+    "mean": 78.78,
+    "median": 92.96,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.1,
+  "page_elapsed_seconds": 3.425,
+  "peak_process_tree_rss_bytes": 291074048,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

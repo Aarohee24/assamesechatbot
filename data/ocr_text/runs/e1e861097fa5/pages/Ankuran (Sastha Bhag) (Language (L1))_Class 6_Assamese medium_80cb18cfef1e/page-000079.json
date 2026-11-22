@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 79,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "টী ্ম্শ\n140712\n\nসেই সময়ত মই বাৰ বছৰীয়া । ককাদেউতা-আইতাৰ লগত মই তেতিয়া উত্তৰ কৰ্ণাটকৰ এখন\nগাৱত বাস কৰিছিলোঁ। সেই সময়ত যোগাযোগ ব্যৱস্থা ইমানেই বেয়া আছিল যে ৰাতিপুৱাৰ বাতৰি\nকাকতখন আবেলি পৰতহে হাতত পৰেহি। প্রতিদিনে এখন বাছত চহৰৰ পৰা কাকত-পত্ৰবোৰ\nআহিছিল। আমি সকলোৱে অধীৰ আগ্ৰহেৰে সেই বাছখনলৈ অপেক্ষা কৰি আছিলোঁ।\nসেই সময়ত কন্নড় ভাষাৰ জনপ্ৰিয় লেখক আছিল ত্ৰিবেণী। তেখেতে মানুহৰ মনৰ\nজগতখনৰ সমস্যাবোৰক লৈ লিখিছিল। সেই সময়ত ‘কাশীযাত্ৰী’ নামৰ তেখেতৰ এখন উপন্যাস\nকন্নড় ভাষাৰ সাপণ্ডাহিক বাতৰি কাকত\n‘কৰ্মবীৰ’ত ধাৰাবাহিক হিচাপে প্রকাশিত\nহৈছিল। এগৰাকী বৃদ্ধাক কেন্দ্ৰ কৰি\nউপন্যাসখন ৰচনা কৰা হৈছিল। কাশীলৈ\nযাবলৈ বৃদ্ধাগৰাকীৰ প্রবল আগ্ৰহ আছিল।\nঅধিকাংশ হিন্দুৰ দৰে বৃদ্ধাগৰাকীয়েও\nভাবিছিল যে এবাৰ কাশীলৈ গৈ বিশ্বনাথ\nবাবাৰ শিৰত পানী ঢালিব পাৰিলে খুব\nপুণ্যৰ কাম হ’ব। কিমান প্রতিবন্ধকতা\nঅতিক্ৰম কৰি বৃদ্ধাগৰাকী কাশীলৈ যাবলৈ\nওলাইছিল, সেয়া আছিল উপন্যাসখনৰ\nমূল কথা।\nউপন্যাসখনৰ আন এটা চৰিত্ৰ আছিল--- এজনী বিবাহোপযোগী অনাথ ছোৱালী ৷ ছোৱালীজনীৰ",
+  "confidence": {
+    "word_count": 139,
+    "mean": 90.3,
+    "median": 95.81,
+    "minimum": 5.69,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.243,
+  "page_elapsed_seconds": 3.739,
+  "peak_process_tree_rss_bytes": 243163136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

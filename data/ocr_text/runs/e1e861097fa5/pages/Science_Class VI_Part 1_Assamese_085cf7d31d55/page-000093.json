@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 93,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3.3.3 সেহ পদাৰ্থৰ পৰীক্ষা\n\n[] কজ্ৰিয়া-কলাপ 3.4 :\n\nঞ অলপ পৰিমাণৰ খাদ্য বস্তু এডোখৰ কাগজেৰে মেৰিয়াই লোৱা। চাবা যাতে\nকাগজখন ফালি নাযায়। কিছুসময় এনেদৰে থৈ দিয়া।\n\nঞু এতিয়া কাগজখন মেলি দিয়া।\n\nঞ যদি কাগজখন পোহৰৰ বিপৰীত দিশে ধৰা, তেলৰ দাগৰ মাজেৰে ক্ষীণ পোহৰ\nদেখা পোৱা যাব।\n\n$ কাগজত তেলেতীয়া দাগ লাগিলে খাদ্যবস্তুত স্নেহপদাৰ্থ থকাতো সৃচায়।\n\nতলত দিয়া খাদ্যবস্তসমূহত পৰিপোষকৰ উপস্থিতি অম্বেষণ কৰা।\nতালিকা 3.4 : কিছুমান খাদ্য সামগ্ৰীত থকা পৰিপোষক\n\nআলু\nঘিউ\n\n3.4 সুষম্‌ আহাৰ\n\nআমি সাধাৰণতে যি খাদ্য খাওঁ সেয়ে হৈছে আমাৰ আহাৰ । সুস্বাস্থ্যৰ ৰক্ষণাৱেক্ষণ\nআৰু শৰীৰৰ বিকাশৰ বাবে আমাৰ আহাৰত সঠিক পৰিমাণৰ পৰিপোষক থকাতো অত্যন্ত\nপ্রয়োজন।\n\nযি আহাৰত সকলো অত্যাৱশ্যকীয় পৰিপোষক যেনে - কাৰ্ব :হাইড্ৰেট, প্ৰ'টিন,\nথাকে, তাকে সুষম আহাৰ বোলে।\n\nপৰিপোষকৰ প্রয়োজনীয়তা সকলোৰে বাবে একে নহয়। আহাৰত পৰিপোষকৰ\nপ্রকাৰ আৰু পৰিমাণৰ প্রয়োজনীয়তা কিছুমান কাৰকৰ ওপৰত নিৰ্ভৰ কৰে যেনে-বয়স, লিংগ,\nশাৰীৰিক কাৰ্য-কলাপ, স্বাস্থ্যৰ স্থিতি, জীৱিকা ইত্যাদি।\n\nএটা বা একাধিক পৰিপোষকৰ অভাৱৰ ফলত আমাৰ শৰীৰত ৰোগ বা বিকাৰ হ’ব\n\nভূততেঁততততত তত তত তত ০০০০০ তত ০০০০ত ০০,০০০০০০০,০০,০০, ০,জে)",
+  "confidence": {
+    "word_count": 162,
+    "mean": 83.6,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.051,
+  "page_elapsed_seconds": 3.381,
+  "peak_process_tree_rss_bytes": 315232256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

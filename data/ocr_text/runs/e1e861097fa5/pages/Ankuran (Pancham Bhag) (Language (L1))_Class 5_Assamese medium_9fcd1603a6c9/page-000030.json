@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 30,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এতিয়া চিঠি আৰু আৱেদনৰ মাজত থকা প্ৰভেদ নিশ্চয় ধৰিব পাৰিছা। আৱেদন\nআৰু চিঠিৰ লিখন শৈলী বেলেগ বেলেগ চিঠি আৰু আবেদনত মূল চাৰিটা ভাগ থাকে।\nসেইকেইটা হ’ল-- শিৰোনামা, সম্বোধন, মূল অংশ আৰু সামৰণি।\n\n৮৯৯২৮        ক -- পাঠভিত্তিক ক্ৰিয়া\n  পাঠটো শুদ্ধ আৰু স্পষ্ট উচ্চাৰণেৰে পঢ়া।\n উত্তৰ দিয়া।\n\n(ক) অৰূপে কি কাৰণত কেইবাদিনো স্কুলত অনুপস্থিত আছিল?\n(খ) অৰূপৰ পেট-চলা ৰোগ কিয় হৈছিল?\n\n(গ) অৰূপে দিয়া চিঠিখন পঢ়ি শিক্ষয়িত্ৰীগৰাকীয়ে কি কৈছিল?\n(ঘ) আৱেদনক আৰু কি বুলি কয়?\n\n(৬) অৰূপে পঢ়া স্কুলখনৰ নাম কি?\n\n(চ) অৰূপে কি বিচাৰি আৱেদন কৰিছিল?\n\n ঠন, শব্দবোৰৰ অৰ্থ লিখোঁ আহা\nব্যস্ত খতি পেট-চলা ছুটী মণঞ্জ্ৰৰ একান্ত শৈলী শিৰোনামা\n\n‘অৰূপ, তুমি দেখোন কেইবাদিনো স্কুল খতি কৰিলা, কিবা অসুখ-বিসুখ হৈছিল\nনেকি ?'-_ এই প্রশ্নটো কোনে, কেতিয়া, কাক কৰিছিল?\n\nস্কুলত অনুপস্থিত থাকিলে কাৰ জৰিয়তে কালৈ আৰেদন কৰিব লাগে?\n\n৷ ক্ল অৰূপে লিখা পত্ৰ আৰু শিক্ষয়িত্ৰী বাইদেবে শিকোৰা আৰেদনখনৰ মাজত\n(এ. কিকি পাৰ্থক্য দেখিলা ? কোৱা আৰু লিখা।\n\nতত!   ৯    তে",
+  "confidence": {
+    "word_count": 147,
+    "mean": 86.17,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.304,
+  "page_elapsed_seconds": 3.652,
+  "peak_process_tree_rss_bytes": 278597632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

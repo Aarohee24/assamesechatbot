@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 3,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "-\n\nত\n\n৷ অংকুৰণ\n|                          পঞ্চম ভাগ\n\n(পাঠ্য তথা অভ্যসন পুথি)\nপঞ্চম শ্রেণীৰ বাবে\n\n+\n\nপ্ৰস্তুতকতা\n\nনাম      ভক্ত ভক্ভকভভকভভভভকভভাকভকভভকাভকভভকভকভভকভতককভকভককভকভতভাকভকভভকভতভকভকভভকাভতকভভকভকভতকাকভকভভকভকভতভকভতভকভভকভতভকভকভতককভতকভভকভতকভতভকভকভভকভতভকভকভতকাকভকভভকভতকভভকভককভভকভকাকভকতভাকভতকভভতকতক\n\n(শ্রেণী   বুৰ্নৰৰ্ৰ্ৰৰৰবব্ৰ্ববব্ন্ন্ৰনন্ৰ্লনন্ন্ন্লল্ন্ন্ননল্ন্ নলশাখা   বৰৰবৰ্ব্ৰৰৰববৰ্ব্ব্ব্ব্ৰ্বববৰ্ব লৰ লন্ল্ললল্ন্ন্ন্ন্ন্ৰ  ৰোল নং ভক ২৯,৪৯৮ ৬৯৬৯৬৮৬৬৯৬৬৬০তততততততততত\n\nবিদ্যালয়   ৬০৯৬৩৩৯৯৬৯৯৯০৩৬ত০০২৯৯৩ক০৫ক৮ত৩৫৬৯৭৯৯৪ক৭৯০৯০৫৬৩কত০০৫৬১৯৯০৬৮০৩০ত৫০৫৯৯৪ক৩৮৯৩৯ত৬ৰ৪০৩০০৩৫৯১৯৬৯২৯০০৩০০২৯৯৩ত   চন    ৯৯+*৯%৯০৭৫০=০৫৫৩৯৪৯৯২৬০০ক০০৩০১৯৯০০৯৪৪০৩\nত\n\nশিক্ষা (প্ৰাথমিক) বিভাগ,\nঅসম চৰকাৰ",
+  "confidence": {
+    "word_count": 41,
+    "mean": 60.35,
+    "median": 76.98,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9974,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 5 diacritics",
+        "Detected 5 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.705,
+  "page_elapsed_seconds": 3.174,
+  "peak_process_tree_rss_bytes": 261369856,
+  "tesseract_warnings": [
+    "Detected 5 diacritics",
+    "Detected 5 diacritics"
+  ],
+  "processed_this_run": true
+}

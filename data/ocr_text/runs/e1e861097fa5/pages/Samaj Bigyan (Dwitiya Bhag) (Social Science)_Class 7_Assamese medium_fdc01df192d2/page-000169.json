@@ -1,0 +1,62 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 169,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪।\n\n৫|\n\n(গ) ঘৰে ঘৰে গৈ বস্তু বিক্ৰী কৰা বিক্ৰেতাসকলক--\n\n(0) পাইকাৰী বিক্ৰেতা           (}}) খুচুৰা বিক্ৰেতা              (}}}) হকাৰ বা ফেৰীৱালা বোলে।\n(ঘ) সকলো ব্যৱসায়ীয়ে বস্তু ক্ৰয়-বিক্ৰয় কৰাৰ মূল লক্ষ্য হৈছে--\n\n(}) বিক্ৰী বৃদ্ধি কৰা    (}}) লাভ অৰ্জন কৰা    (}}}) লোকচান কৰা।\nখালী ঠাই পূৰ কৰা--\n(ক)     সহায়ত আমি আমাৰ জীৱনৰ প্ৰয়োজনীয় সামগ্ৰীসমূহ বজাৰৰ পৰাই কিনো।\n(খ) বস্তুৰ পাইকাৰী দামতকৈ খুচুৰা দাম_ হয়৷\nগ) __ _ বজাৰৰ পুৰণি ব্যৱস্থা।\n(ঘ) ভউৎপাদনকাৰীৰপৰা __ _  বিক্ৰেতাই সৰহ পৰিমাণৰ বস্তু ক্ৰয় কৰে।\n(৬) __ হৈছে বস্তু কিনা-বেচাৰ মাধ্যম।\n(চ) ক্ৰয় দামতকৈ বিক্ৰী দাম কম হ’লে     হয়।\nপ্রকল্প $\nতুমি বাস কৰা অঞ্চলত থলুৱাভাৱে উৎপাদিত বিক্ৰীযোগ্য সামগ্ৰীসমূহৰ এখন তালিকা প্রস্তুত কৰি সেই\nসামগ্ৰীসমূহ কোন কোন বজাৰলৈ পঠিওৱা হয় বৰ্ণনা কৰা।\n\nকক+ক++কা+",
+  "confidence": {
+    "word_count": 116,
+    "mean": 85.01,
+    "median": 93.28,
+    "minimum": 1.65,
+    "maximum": 96.98
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium-page-000169.png",
+  "page_image_sha256": "bf738a79f3c9ff4da9b5c7fcb0b72efca58d76bb1412d84569328cd7740e3af7",
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.237,
+  "page_elapsed_seconds": 2.639,
+  "peak_process_tree_rss_bytes": 145076224,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

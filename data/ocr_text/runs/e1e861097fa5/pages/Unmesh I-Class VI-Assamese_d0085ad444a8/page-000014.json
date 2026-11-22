@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 14,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ৫।কবিতাফাকিৰপৰা তলত দিয়া প্ৰশ্নকেইটাৰ উত্তৰ লিখা ৷\n\n“পাটকায়ে মেলে         ক’লা চুলিটাৰি\nঅৰুণ উদয় তাত--=\nলুইতে পখালি            চৰণ দুখনি\n\n(ক) ‘ক’লা চুলিটাৰি’ কোনে মেলে বুলি কৈছে?\n(খ) লুইতে কাৰ চৰণ দুখনি পখালি দিয়ে বুলি কৈছে?\n(গ) ‘ৰিহাখনি’ বুলি কিহৰ কথা কৈছে?\n\nৰদ  ৬ কৰিতাটিৰ ভাবৰ লগত সংগতি ৰাখি ‘ক’অংশৰ সৈতে ‘খ’অংশ আঁচ টানি মিলোৱা--\n‘ক’অংশ                                      খ’অং\n\nশম  আছে শোভা\nআঁচলত নাচে তৰা।\n\n৷ ও\n\nঅসমা স্ষমা “=_ মূনি মনোৰম.\nআমাৰ চেনেহী আহ৷ !\n\n7; ও\n\nদেৱভূমি বুলি আমাৰ দেশেহই'\nজিলিকিছে জগতত ।\n\nপৰ্বত-পাহাৰ আদি দেশমাতৃৰ অলংকাৰ\nস্বৰূপ। ইয়াত প্রৱাহিত হৈ থকা নৈ-\n\nমাতৃৰ চাদৰৰ আঁচলৰ লগত\nতুলনাকৰিবপাৰি ইয়াত জোন-বেলি-তৰাই\nতিৰ্বিৰণি তুলি অপূৰ্ব শোভাৰ সৃষ্টি কৰে।",
+  "confidence": {
+    "word_count": 105,
+    "mean": 78.5,
+    "median": 92.29,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 33 diacritics",
+        "Detected 33 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.553,
+  "page_elapsed_seconds": 3.177,
+  "peak_process_tree_rss_bytes": 276836352,
+  "tesseract_warnings": [
+    "Detected 33 diacritics",
+    "Detected 33 diacritics"
+  ],
+  "processed_this_run": true
+}

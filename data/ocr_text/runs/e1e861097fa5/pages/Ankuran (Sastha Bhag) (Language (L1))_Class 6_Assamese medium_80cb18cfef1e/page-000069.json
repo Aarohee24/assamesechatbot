@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 69,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\n\nজীৱনী পঢ়ি বুজি পোৱা\n\nনতুন শব্দৰ অৰ্থ জনা\n\nপাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\n\nলক্ষ্মীনাথ বেজবৰুৱাৰ বিষয়ে জনা\n\nপাঠটোৰ জৰিয়তে লক্ষ্মীনাথ বেজবৰুৱাই লাভ কৰা বিভিন্ন উপাধিৰ বিষয়ে জনা\nলক্ষ্মীনাথ বেজবৰুৱাৰ ৰসাল পাঠ পঢ়ি তেনে ধৰণৰ আন পাঠ পঢ়িবলৈ আগ্ৰহী হোৱা\nলক্ষ্মীনাথ বেজবৰুৱাৰ কবিতা পঢ়ি জাতীয় চেতনাৰ ভাব জাগ্ৰত হোৰা\n\nউপযুক্ত সংযোগী (অব্যয়) শব্দৰে বাক্য সম্পূৰ্ণ কৰিব পৰা\nবাক্য ৰচন| কৰিব পৰা\n\nবিশেষ্য, বিশেষণ, সৰ্বনাম, অব্যয়, ক্ৰিয়া পদ বাছি উলিয়াব পৰা\n\nবিভিন্ন কবি, সাহিত্যকৰ বিষয়ে জনা\n\nকবি, সাহিত্যকৰ তথ্য আহৰণ কৰিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nজীৱনী পঢ়ি | পাঠভিক্তিক প্রশ্নৰ শব্দৰ অর্থ জন৷ | লক্ষ্মীনাথ  লক্ষ্মীনাথ\nজীৱনী পাঠ | বুজি পোৱা | উত্তৰ দিব আৰু     বেজবৰুৱাৰ ৰ +\n\nভাষা অধ্যয়ন | সংযোগী শব্দৰে। বাক্য ৰচনা কৰিব | পদ বাছি\n\n(ব্যাৱহাৰিক | বাক্য সম্পূৰ্ণ     পৰা     উলিয়াব পৰা\nব্যাকৰণ) | কৰিব পৰা\n\nভ্ঞান  সাহিত্যিকৰ _, | অনুসাৰে লিখিব |অংশ গ্ৰহণ কৰিব পৰা\n\nএ ৬৩   বিষয়ে জনা       পৰা\nপ্ৰকল্প   কবি, সাহিত্যিকৰ\nতথ্য সংগ্ৰহ\nকৰিলিখিব পৰা\n\nঞঞস অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ অহৰ্তাৰ তলৈ তলে থকা খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ ৯ চিন দিব\nঅহৰ্তা আয়ভ নোহোৱা শিকাৰংক আতিৰিভভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 185,
+    "mean": 89.09,
+    "median": 96.04,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.235,
+  "page_elapsed_seconds": 3.555,
+  "peak_process_tree_rss_bytes": 248135680,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

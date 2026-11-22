@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 22,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ঘ) ভাৰতীয় মান দ্ৰাঘিমাৰেখা হিচাপে ৮৩“২০%/৯০%/৮২\"৩০% পূব দ্ৰাঘিমাৰেখাডালক গ্ৰহণ কৰা হৈছে।\n(৬) আমি পিন্ধা সাধাৰণ হাতঘড়ীবোৰ স্থানীয় সময়/গ্ৰীনিজ মান সময়/ভাৰতীয় মান সময় মতে চলে।\n\n৫। পাৰ্থক্য লিখা--\n(ক) অক্ষৰেখা আৰু দ্ৰাঘিমাৰেখা ৷\n(খ) স্থানীয় সময় আৰু মান সময়।\n\n৬৷ সমাধান কৰা --\n\n(ক) গ্ৰীনিজত মান সময়মতে ৭ বাজিলে কোনো এখন ঠাইত দুপৰীয়া ১২ বাজে। ঠাইখনৰ দ্ৰাঘিমাংশ নিৰ্ণয়\nকৰা।\n\n(খ) দুপৰীয়া ১২ বজাত নিউয়ৰ্ক (৭৫৭ প.) চহৰৰপৰা লচএঞ্জেল্‌চ (১১৮”প.) লৈ এটি অনাতাঁৰ বাৰ্তা প্ৰেৰণ\nকৰিলে। লচএঞ্জেল্‌চৰ স্থানীয় সময় মতে কেই বজাত বাৰ্তাটি প্ৰেৰণ কৰিছিল?\n\n(গ) নতুন দিল্লীৰ (৭৭পু.) স্থানীয় সময় মতে দিনৰ ৯ বজাত অনুষ্ঠিত হ’বলগীয়া খেলখন ধুবুৰী (৯০ পূ.)\nচহৰৰ স্থানীয় সময় মতে কেতিয়া অনুষ্ঠিত হ’ব?\n\n(শিক্ষ্ক-শিক্ষয়িব্ৰালৈ নিদেৰ্শনা ৪ সময় গণনাৰ কায অনুশীলনৰ বাবে দিয়া হৈছে। এনে কায মুল্যয়ানত\nনিদিয়াতোৱেই বাঞ্চনীয় ।)\n\nকৰককককক",
+  "confidence": {
+    "word_count": 123,
+    "mean": 86.34,
+    "median": 93.3,
+    "minimum": 5.71,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.707,
+  "page_elapsed_seconds": 3.18,
+  "peak_process_tree_rss_bytes": 285261824,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

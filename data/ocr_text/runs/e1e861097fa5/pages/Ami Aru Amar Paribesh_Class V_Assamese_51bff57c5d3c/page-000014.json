@@ -1,0 +1,67 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 14,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পৰিৱেশৰ আন এবিধ গুৰুত্বপূৰ্ণ উপাদান হ’ল প্লাণী। ভিন ভিন পৰিৱেশত ভিন ভিন\n\nপ্রাণীয়ে বাস কৰে।\nজলাহভূমি আৰু ইয়াৰ কাষৰীয়া অঞ্চলত নানা ধ্ৰণৰ ভেকুলী, সাপ, শামুক, পোক-\n\nপতংগ, পানী মকৰা, কেঁকোৰা আদি প্রাণী থাকে। ইয়াত বহুতো অণুজীৱও থাকে। ইয়াৰ\nদাঁতিকাষৰীয়া অঞ্চলত থকা ডাঙৰ ডাঙৰ গছবোৰত বগলী, হাড়গিলা, বৰটোকোলা, কণামুচৰি,\nপানী কাউৰী, মাছৰোকা, চিলনী আদি চৰাই থাকে। খাদ্যৰ বাবে জলাহভূমিৰ প্রাণীবোৰে\nপৰস্পৰে পৰস্পৰৰ ওপৰত নিৰ্ভৰ কৰে।\n\nউট মৰুভূমিৰ প্রধান প্রাণী। ইয়াৰ উপৰি সাপ,\nমকৰা আদিও মৰভূমিত থাকে। উটৰ দেহৰ গঠন\nমৰুভূমিৰ পৰিৱেশত খাপ খাব পৰাকৈ গঠিত। অৰ্থাৎ,\nইহঁতে মৰুভূমিৰ প্রচণ্ড গৰম আৰু পানীৰ অভাৱ সহ্য\nকৰিব পাৰে।\n\nমেৰু অঞ্চল অতিশয় শীতল আৰু বৰফেৰে ভৰা।\n\nএনে শীতল পৰিৱেশতে৷ কিছুমান প্রাণী জীয়াই থাকে।\n\nসেইবোৰ হ'ল বগা ভালুক, পেংগুইন, বন্না হৰিণ, য়াক আদি।\n__'__=_=_=_====_ _ ৰগা ভালুক হ'ল এই.\n/্ড৬     _ অঞ্চলৰ প্ৰধান প্রাণী। ইহঁতৰ\n\n৷ দীঘল আৰু ঘন নোমেৰে ঢকা\n\nবগা ভালুক\nএই অঞ্চলৰ আন এবিধ প্ৰাণী হ’ল পেংগুইন ৷ এবিধ বৰফত\n\nথকা চৰাই ইহঁতৰ গাটো সৰু সৰু পাখিৰে আৱৰা৷ ডেউকা দুখন\n\nসৰু হোৱা বাবে পেংগুইনে উৰিব নোৱাৰে। কিন্তু ইহঁতে সাঁতুৰিব\nআৰু খোজকাঢ়িব পাৰে। সাগৰত থকা সৰু মাছ ইহঁতৰ খাদ্য।\n\nবৰন্না হৰিণ সাত ফুট পৰ্যন্ত ওখ\n\nহয়। ইহঁতৰ দীঘল আৰু শাখা-\n\nপেংগুইন             প্রশাখাযুক্ত শিং থাকে । এই অঞ্চলৰ\n\nআন এবিধ প্রাণী হ’ল য়াক, ইয়াৰ\nদেহটো দীঘল নোমেৰে আৱৰা৷",
+  "confidence": {
+    "word_count": 204,
+    "mean": 88.14,
+    "median": 95.28,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 52 diacritics",
+        "Detected 52 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.792,
+  "page_elapsed_seconds": 4.556,
+  "peak_process_tree_rss_bytes": 228163584,
+  "tesseract_warnings": [
+    "Detected 52 diacritics",
+    "Detected 52 diacritics"
+  ],
+  "processed_this_run": true
+}

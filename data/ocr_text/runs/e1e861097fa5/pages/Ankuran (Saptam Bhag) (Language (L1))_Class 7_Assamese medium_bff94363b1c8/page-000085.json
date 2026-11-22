@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতাসমূহ -_\n\nশুদ্ধ আৰু স্পষ্টকৈ পাঠটো পঢ়িব পাৰিব\nপাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\nশব্দৰ অৰ্থ জানিব পাৰিব\n\nঅসম নামৰ উৎপত্তি সম্পৰ্কে আৰু অসমৰ সংস্কৃতিৰ বিষয়ে জানিব পাৰিব\n‘ফিুক্‌’ (ইক) প্রত্যয়ৰ ব্যৱহাৰ সম্পৰ্কে জানিব পাৰিব\nবিপৰীত শব্দৰ অৰ্থ জানিব পাৰিব\n\nসন্ধি ভাঙিব আৰু গঠন কৰিব পাৰিব\n\nঅসমৰ জনজাতিৰ বিষয়ে জানিব পাৰিব\nছবি পৰ্যৱেক্ষণ কৰি টোকা লিখিব পাৰিব\nনিজ জিলাৰ মন্দিৰ, দৌল আৰু দেৱালয় আদিৰ তথ্য সংগ্ৰহ কৰিব পাৰিব\nঅহোমৰ-মুখত শ, ষ, স ধ্বনিৰ উচ্চাৰণ ‘হ’লৈ পৰিৱৰ্তন হয়, সেই বিষয়ে জানিব পাৰিব\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n\nবৰ্ণনামূলক\nপাঠ\n\nপাঠটো শুদ্ধকৈ\nপঢ়িব পৰা\n\nপাঠভিত্তিক প্রশ্নৰ\nউত্তৰ দিব পৰা\n\nশব্দৰ অৰ্থ\nজানি লিখিব\nপৰা\n\nলক্ষ্মীনাথ বেজবৰুাৰ\n\nবিষয়ে জানিব পৰা\n\nবিভিন্ন কালৰ অসমৰ\nনাম সম্পৰ্কে জানিব\nপৰা\n\nভাষা অধ্যয়ন\n(ব্যাৱহাৰিক\nব্যাকৰণ)\n\n‘ইক্‌’ (ফিিক্‌)\nপ্রত্যয়ৰ ব্যৱহাৰৰ\nবিষয়ে জনা\n\nবিপৰীত শব্দৰ\nঅৰ্থ জনা\n\nসন্ধি ভঙা আৰু\nগঠন কৰিব পৰা\n\nঅহোমৰ-মুখত শ, ষ, স ধ্বনিৰ উচ্চাৰণ\nজানিব পৰা\n\nজ্ঞান\nসম্প্ৰসাৰণ\n\nমালিতা,সবাহ আৰু\nক্ৰীড়া-কৌতুক\nআদিৰ বিষয়ে\nজানিব পৰা\n\nআহোম ৰজাৰ দিনৰ\nকীৰ্তি চিহ্নসমূহৰ নাম\n\nলিখিব পৰা\n\nছবি পৰ্যৱেক্ষণ কৰি অসমৰ চাহ-বাগান\nআৰু বানপানীৰ বিষয়ে লিখিব পৰা\n\nমন্দিৰ, দৌল আৰু দেৱালয় আদিৰ তথ্য সংগ্ৰহ\nকৰি তালিকা প্রস্তুত কৰিব পৰা\n\nঞ্- অহা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লে * চিন দিব। অহৰ্তা আয়ভ নোহোৱা শিকাৰচক\nআতিৰিভ্্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।",
+  "confidence": {
+    "word_count": 209,
+    "mean": 91.31,
+    "median": 96.13,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.778,
+  "page_elapsed_seconds": 3.009,
+  "peak_process_tree_rss_bytes": 290562048,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

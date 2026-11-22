@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 147,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "// ৬। ভাবা আৰু লিখা--                             স্মৰ\nক) পদ্যটোত তোমালোকে “নিয়ৰে কৰালে স্নান” বাক্যশাৰী পাইছা। ইয়াত\n‘নিয়ৰে স্নান কৰোৱা’ কথাটোৱে নিয়ৰে তিওৱা বুজাইছে। তুমি নিয়ৰে কিহক\nকিহক স্নান কৰোৱা দেখিবলৈ পাইছা? কোৱা।\nখ) পদ্যটোত উল্লেখ থকা উৎসৱকেইটাৰ উপৰি তুমি শৰৎকালত আন কিকি __\nউৎসৱ দেখিবলৈ পাইছা? দলত আলোচনা কৰি কোৱা।           ১_7->\n\nগ) তুমি যোগদান কৰা যিকোনো এটা উৎসৱৰ বিষয়ে পাঁচ শাৰী লিখা\n\nঘ) তোমালোকে পদ্যটোত শেৱালি ফুলৰ নাম পাইছা। শেৱালিফুল শৰতকালত\nফুলে। কেইবিধমান ফুলৰ নাম লিখি কোনবিধ ফুল কেতিয়া ফুলে\nলিখা--\n\n{\"                                                     \"৭\n\nফুলৰ নাম              কেতিয়া ফুলে\n\nৰ\n\n/ ৭। দফাটো পঢ়া আৰু সিপিঠিত দিয়া প্ৰশ্নবোৰৰ উত্তৰ লিখা---\n\n‘ওৱাংগালা’ গাৰোসকলৰ এটি প্রধান উৎসৱ। প্রতিবছৰে জুমখেতি চপোৱাৰ পাছত\nনৱেম্বৰ মাহত তেওঁলোকে এই উৎসৱটো পালন কৰে। তিনিদিনীয়া এই উৎসৱৰ প্রথম\nদিনটো তেওঁলোকে আদৰণী অনুষ্ঠান হিচাপে পালন কৰে।\n\nদ্বিতীয় দিনাখন তেওঁলোকে বিভিন্ন সু-স্বাদু থলুৱা খাদ্য প্রস্তুত কৰে। এই খাদ্যসমূহ\nতেওঁলোকে ‘মিছিং ছালজং’ অৰ্থাৎ সূৰ্য-দেৱতাক অৰ্পণ কৰাৰ পাছতহে গ্ৰহণ কৰে।\n\n১৪৭,                         অধ্যায় ১০ ? উৎসৱ-পাৰ্বণ",
+  "confidence": {
+    "word_count": 82,
+    "mean": 87.05,
+    "median": 93.3,
+    "minimum": 7.48,
+    "maximum": 96.87
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.756,
+  "page_elapsed_seconds": 4.637,
+  "peak_process_tree_rss_bytes": 228306944,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

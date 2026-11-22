@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 201,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উল্লিখিত চাউল-পানী আৰু চাহপাত-পানী মিশ্ৰ দুটাত এটা গোটা দ্রব্য আৰু এটা\nজুলীয়া দ্রব্য আছে। এনে মিশ্ৰৰ দ্রব্য দুটা পৃথকীকৰণত দুটা স্তৰত থাকে। প্রথমে মিশ্ৰটো\nকিছুসময় নলৰোৱাকৈ ৰখা হয়। গধুৰ দ্রব্যটো (যেনে-চাউল বা চাহপাত) তলত জমা হয়।\nজুলীয়া স্তৰৰ তলত জমা হোৱা গোটা দ্রব্যটোক অৱক্ষেপ বোলে। জুলীয়া স্তৰৰ তলত\nগোটা দ্রব্যটো জমা হোৱা প্রক্ৰিয়াটোক অৱক্ষেপণ বোলে।\n\n| ভাবি উলিওৱা : চচ্‌পেনটো ঘূৰাই থাকিলে চাহ পাতখিনি তলত গোট খাই কিয়? =\n৷ তেনেদৰে ভিজাই থোৱা ফলামণগুৰ পৰা বাকলিবোৰ আঁতৰাওতে পাত্ৰটো ঘূৰাই\n৷ থকা হয় কিয়?\n\n[] ক্ৰিয়া-কলাপ 6.3:\nপ্ৰয়োজনীয় সামগ্ৰী : দুটা বিকাৰ বা কাচৰ গিলাচ, কাচৰ দণ্ড বা চামুচ, পানী, বালি ।\n\nএটা বিকাৰত পানী আৰু বালিখিনি মিলাই লোৱা। কাচৰ দণ্ডডালেৰে মিশ্ৰটো\nভালদৰে লৰাই দিয়া। মিশ্ৰটো ঘোলা হৈ পৰিব। কিছুসময়ৰ বাবে মিশ্ৰটো নলৰোৱাকৈ\nৰাখি থোৱা। পৰ্যৱেক্ষণ কৰা। কি.দেখিলা ? বালিখিনি বিকাৰটোৰ তলিত জমা হৈছে\nকাৰণ ই গধুৰ। ইয়াকে অৱক্ষেপণ বোলে। বালিখিনি হৈছে অৱক্ষেপ [চিত্র : 6.7 (8)]৷\nবিকাৰৰ ওপৰৰ স্বচ্ছ পানীখিনি আনটো৷ বিকাৰলৈ সাৱধানে বাকি দিয়া যাতে বালিখিনি\nনাযায়। সংগ্ৰহ কৰা স্বচ্ছ পানীখিনিক আজ্ৰংত বোলে ৷ এই পদ্ধতিৰে তুমি অদ্ৰৱণীয় বালি\n(গোটা) পানী (জুলীয়া) ৰ পৰা পৃথক কৰিলা [চিত্ৰ 6.7 (6)] ।\n\nচিত্ৰ 6.7 (৪) : অৱক্ষেপণ           চ্রি 6.7 (0) : আকলাৱণ",
+  "confidence": {
+    "word_count": 191,
+    "mean": 86.83,
+    "median": 92.69,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.982,
+  "page_elapsed_seconds": 3.363,
+  "peak_process_tree_rss_bytes": 304222208,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

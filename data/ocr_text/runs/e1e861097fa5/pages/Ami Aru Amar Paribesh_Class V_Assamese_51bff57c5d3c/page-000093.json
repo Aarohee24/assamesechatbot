@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 93,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ অনুশীলনী\n১।চমুকৈ লিখা-=\n(ক) কেঁচামাল বুলিলে কি বুজা ?\n(খ) উদ্যোগ গঢ়ি উঠিবলৈ উন্নত যাতায়াত আৰু পৰিবহণ ব্যবস্থাৰ কিয় প্ৰয়োজন?\n(গ) উদ্যোগ গঢ়ি উঠিবলৈ কি কি কাৰকৰ প্রয়োজন লিখা ৷\n(ঘ) লো-তীখা উদ্যোগৰ বাবে কিকি কেঁচামালৰ প্রয়োজন?\n\n(৬) পাটৰ কাপোৰ কেনেদৰে তৈয়াৰ কৰা হয়?\n২ ।খালী ঠাই পূৰ কৰা---\n(ক) মুম্বাইভাৰতৰ আধুনিক -----__ উদ্যোগৰ প্রথম কেন্দ্ৰ ।\n(খ) কাগজ উদ্যোগৰ প্রধান কেঁচামালহ’ল === ।\n(গ) ভাৰতৰ সকলোতকৈ বেছি ৰেচমী কাপোৰ ---=-_- ৰাজ্যত উৎপন্ন কৰা হয়।\n\n(ঘ) চেনি উদ্যোগৰপ্রধান কেঁচামাল হ'ল ====== ৷\n৩। ‘ক’অংশৰ লগত ‘খ’অংশ মিলোৱা --\n\n‘ক’                         ‘্থ’\nতেল শোধনাগাৰ                      কঁঠালগুৰি\nগেছপ্লাণ্ট                      নামৰূপ\nসাৰ উদ্যোগ                    শিলঘাট\nমৰাপাট উদ্যোগ                নুমলীগড়\n\n৪ । পৰ্যাপ্ত পৰিমাণে কেঁচামাল মজুত নাথাকিলেও যে কোনো এখন ঠাইত বৃহৎ উদ্যোগ গঢ়ি উঠিব\nপাৰে সেই বিষয়ে এখন দেশৰ উদাহৰণ দি বুজাই লিখা ৷\n\n৫। অসমত কিয় বেছিকৈ বৃহৎ উদ্যোগ গঢ়ি উঠা নাই তাৰ কাৰণসমূহ বুজাই লিখা।\n৬। উদ্যোগ বুলিলে কি বুজা ? ভাৰতৰ চাৰিটা বৃহৎ উদ্যোগৰ নাম লিখা ৷\n\n৭ ।চমুটোকা লিখা--\nচেনি উদ্যোগ,কাগজ উদ্যোগ,কপাহী বস্ত্ৰ উদ্যোগ, ৰেচম উদ্যোগ, লো-তীখা উদ্যোগ ৷\n\nৰূকুূককক",
+  "confidence": {
+    "word_count": 167,
+    "mean": 82.73,
+    "median": 93.1,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.571,
+  "page_elapsed_seconds": 2.807,
+  "peak_process_tree_rss_bytes": 231817216,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 96,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৬। কবিতাটোৰ মূলভাব লিখা।\n\nখ--ভাষা অধ্যয়ন (ব্যাৰহাৰিক ব্যাকৰণ)\n৭। বাক্য ৰচন৷ কৰা।\n\nএজোলোকা, আলহী-অতিথি, আশীৰ্বাদ, সহজতে, ঘূৰাই, ৰভা\n\nজানো আহা\nদিবহি পূৰাই,\nআমলখি গছজোপা\nআকাৰান্ত ধাতুত হই’ প্ৰত্যয় যোগ কৰি অসমাপিকা ক্ৰিয়া গঠন কৰা হয়। ওপৰৰ কবিতা\nদুশাৰীত থকা ‘পূৰাই’ আৰু ‘ঘূৰাই’ অসমাপিকা ক্ৰিয়া দুটিৰ গঠন চাওঁ আহা। ইয়াত ‘পূৰ’ আৰু\nখুৰ’ ধাতুত প্রথমে ‘আ’ যোগ হৈ ক্ৰমে ‘পূৰ৷” আৰু ‘ঘূৰা’ পাচনি ধাতু গঠিত হৈছে। এই পাচনি\nধাতু দুটাত 'ই’ প্রত্যয় যোগ হৈ ক্ৰমে ‘পূৰাই’ আৰু ‘ঘূৰাই’ অসমাপিকা ক্ৰিয়া গঠিত হৈছে।\n\n৮। ‘ক’অংশৰ লগত ‘খ’-অংশৰ অৰ্থৰ মিল থকা শব্দবোৰ আঁচ টানি মিলোৱা--\n\nক’-অংশ                 ‘খ’অংশ\n\nৰ্ভা                           দৰব\n\nদৰা         বৃক্ষ\n\nগছ-বু্‌কক * ( (ফী\n\nওষধ        কোনো অনুষ্ঠানৰ বাবে অস্থায়ীকৈ নিৰ্মাণ কৰা চালি\nগ-_জ্ঞান সম্প্ৰসাৰণ\n\n৯। তোমাৰ পৰিয়ালৰ অন্য সদস্যসকলক বা ওচৰ চুবুৰীয়াক গছগছনি নাকাটিবলৈ কেনেদৰে\nবুজাবা কোৱা।\n\n১০। ‘কেৱল বৃক্ষৰোপণ কৰিলেই নহয়, তাক প্ৰতিপালন কৰাটোও আমাৰেই দায়িত্ব’\n-_ কথাষাৰ দলীয়ভাৱে আলোচনা কৰা আৰু দলৰ এজনে বৰ্ণনা কৰা।",
+  "confidence": {
+    "word_count": 145,
+    "mean": 85.57,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.447,
+  "page_elapsed_seconds": 2.682,
+  "peak_process_tree_rss_bytes": 290402304,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

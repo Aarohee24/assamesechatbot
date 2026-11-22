@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা --\n\n> _ কবিতা পঢ়ি বুজি পোৱাৰ লগতে আবৃত্তি কৰিব পাৰিব\n> পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\n> প্ৰসংগ সংগতি লগাই ব্যাখ্যা কৰিব পাৰিব\n> কবিতাটি গদ্য ৰূপত লিখিব পাৰিব\n> সমোচ্চাৰণ শব্দৰ ভিন ভিন অৰ্থ বুজোৱা শব্দ জানিব আৰু প্রয়োগ কৰিব পাৰিব\n> ভাব বহলাই লিখিব পাৰিব\n> শিৱসাগৰ জিলাৰ কীৰ্তি চিহ্নৰ ছবিৰ এলবাম প্রস্তুত কৰিব পাৰিব\n>\" স্বদেশপ্ৰেমমূলক আৰু বুৰঞ্জীমূলক কবিতা সংগ্ৰহ কৰি কবিৰ নাম আৰু পৰিচয় জানিব পাৰিব\n>\" নাৱে আমাক কিদৰে সহায় কৰে, সেই বিষয়ে জানিব পাৰিব\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nকবিতা  ৰতি কৰিব পঢ়ি বুজি পোৱা | শৰ অৰ্থ জনা | উত্তৰদিব পৰা, | মিল থকা শব্দ বাছি\nবহলাই লিখিব পৰা | উলিয়াই লিখিব পৰা\nভাষা অধ্যয়ন বিশেষ্যৰ পৰা একে শব্দৰ ভিন্ন\n(ব্যাৱহাৰিক | বিশেষণলৈ নিব অথৰ বি. জি নিব\nপৰা\nব্যাকৰণ)     বঢ়ন৷ কৰিব দবা\nমানুহে খাল-বিল\nজ্ঞান বিভিন্ন নাৱৰ বিষয়ে | ধোদৰ আলিৰ পুতিলে, পাহাৰ\nসম্প্ৰসাৰণ  জনা   বিষয়ে জনা  কাটিলে হোৱা\nসুবিধা-\nঅসুবিধাবোৰ জনা\nশিৱসাগৰ জিলাৰ\nপ্রকল্প      স্বদেশপ্রেম আৰু\nকীৰ্তি চিহ্নসমূহ: বুৰঞ্জীমূলক কবিতা | ন'বে আমাক কৰা\nবিষয়ে ছবি সংগ্ৰহ আৰু কবিৰ বিষয়ে | সহায় সম্পর্কে\nকৰি এলবাম তৈয়াৰ  জনা।\nকৰিব পৰা   জনা\n\nণঞ্স অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ * চিন দিব । অহ'ৰ্তা আয়ভ নোহোৱা শিকাৰ\nআতিৰিজভ্জ্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।\n\n=>",
+  "confidence": {
+    "word_count": 211,
+    "mean": 84.24,
+    "median": 95.99,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.41,
+  "page_elapsed_seconds": 3.808,
+  "peak_process_tree_rss_bytes": 282312704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

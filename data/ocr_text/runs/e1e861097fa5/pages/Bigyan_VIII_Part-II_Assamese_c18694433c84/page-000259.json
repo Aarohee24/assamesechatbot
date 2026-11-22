@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 259,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ্ৰহবোৰে সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণ কৰাৰ\nউপৰি লাটুমৰ নিচিনাকৈ নিজ অক্ষ সাপেক্ষে ঘূৰে অথাৎ\n__ আৱৰ্তন কৰে (চিত্ৰ-[৪8.19)। এটা সম্পূৰ্ণ আৱৰ্তনৰ\n\nআচৰিত হওঁ গ্রহবোৰে সূৰ্যৰ বাবে প্রয়োজনীয় সময়ক আৱৰ্তনকাল বোলে।\nফালে পৰিভ্ৰমণ কৰোঁতে কিয় খুন্দা\n\nয় ?\n}\n\nজ্ৰিয়াকলাপ 18.9\n\nচিত্ৰ 18.19 : গ্ৰহই নিজৰ অক্ষ সাপেক্ষে লাটুমৰ\nনিচিনাকৈ ঘূৰে\n\nকিছুমান গ্ৰহৰ চাৰিওফালে সিহঁতৰ\nউপগ্ৰহবোধে পৰিভ্ৰমণ কৰে। কোনো নভোমগুলীয়\nবস্তুৰ চাৰিওফালে যদি অন্য কোনো নভোমগুলীয়\nবস্তুৱে পৰিভ্ৰমণ কৰে তেন্তে সিহঁতক তাৰ উপগ্ৰহ বুলি\nকোৱা হয়।\n\nতেনেহ’লে পৃথিবী সূৰ্যৰ উপগ্ৰহ নেকি?\n\nপৃথিৱীক সূৰ্যৰ উপগ্ৰহ বুলি ক’ব পাৰি। তথাপি\nসাধাৰণতে আমি পৃথিৱীক সূৰ্যৰ গ্ৰহ বুলিহে কওঁ।\nগ্ৰহৰ চাৰিওফালে পৰিভ্ৰমণ কৰা বস্তুবোৰক উপগ্ৰহ\nবুলি কওঁ। চন্দ্ৰ পৃথিৱীৰ উপগ্ৰহ।\n\nবহুতো মানৱ-সৃষ্ট উপগ্ৰহই পৃথিৱীক প্ৰদক্ষিণ\nকৰি আছে। এইবোৰক কৃত্রিম উপগ্ৰহ বুলি কোৱা হয়।\n\nতৰা আৰু সৌৰজগত /97'%1২9 খা) ['[}}; 901.41২ ৪%৮97']                                                                                                     244",
+  "confidence": {
+    "word_count": 126,
+    "mean": 83.73,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.465,
+  "page_elapsed_seconds": 2.785,
+  "peak_process_tree_rss_bytes": 230363136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

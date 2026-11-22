@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 34,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পুথি পঢ়াৰ আৰু এটা বহুমূলীয়া গুণ আছে। সৎসংগৰপৰা যে মানুহৰ সৎ স্বভাৱ\nওপজে, এই কথা লোক নিৰন্তৰে স্বীকাৰ কৰে। যিবিলাক মানুহৰ লগত সদায় উঠা-বহা\nসংগত থাকিলে ভাল হয় আৰু বেয়া সংগত থাকিলে বেয়া হয়। মানুহৰ সংগৰ নিচিনা পুথিৰ\nসংগয়ো আমাৰ স্বভাৱ-চৰিত্ৰৰ ওপৰত কাৰ্য কৰে। প্রত্যেক পুথিয়েই ৰচৌতাজনৰ স্বভাৱ-\nচৰিত্ৰৰ ছাঁৰ নিচিনা ৷ পুথি পাঠ কৰিলে সেই পুথিৰ লিখকৰ লগত আলাপ কৰা যেন হয় আৰু\nসদায় একে পুথিকে পঢ়িলে তেওঁৰ সংগত থকা যেন গুণ ধৰে। এতেকে ভাল পুথি পঢ়িলে\n\nভাল সংগত থকা যেন আৰু বেয়া পুথি পঢ়িলে বেয়া সংগত থকা যেন ফল হয়।\n-= সত্যনাথ বৰা\n\nলেখকৰ পৰিচয় ঃ সত্যনাথ বৰা (১৮৬০-১৯২৫ খ্ৰীষ্টাব্দ) অসমীয়া সাহিত্য\nজগতত এগৰাকী বৈয়াকৰণিক আৰু প্ৰবন্ধকাৰ হিচাপে পৰিচিত। তেওঁৰ\nকেইখনমান উল্লেখযোগ্য প্রবন্ধ সংকলন হ’ল--- সাৰথি, চিন্তাকলি, আকাশ\nনামৰ দুখন গীতৰ পুথিও প্ৰকাশ কৰিছিল। ‘বহল ব্যাকৰণ'ৰ প্ৰণেতা হিচাপে |\n\nসত্যনাথ বৰাৰ নাম অসমীয়া ভাষা-সাহিত্যৰ ইতিহাসত সদায় জিলিকি থাকিব।\n\nউৎস ঃ সত্যনাথ বৰাৰ ‘সাৰথি’, তৃতীয় সংস্কৰণ, ২০১১, বনলতা, ডিব্ৰুগড়-১, পৃষ্ঠা নং=- ৬-৮\n\n৷, ক্ৰিয়া,কলাপ |\n\n(ৰ্ৰ ১। তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 2 বৃত্তটো পূৰ কৰা--\n৬ বিদ্যা উপাৰ্জনৰ ঘাই উপায় কি?\n(ক) সূৎ স্বভাৱ       (খ) পুথি অধ্যয়ন\n(গ) চঞ্চল মন         (ঘ) সৎসংগ\n\nক্)ে ত গে ঞ্ে\n\nঞ সংসাৰত উদ্‌গতি কৰিবলৈ কি লাগে?\n(ক) ভোটা বুদ্ধি         (খ) চেলেংপেতেং স্বভাৱ\n(গে) চঞ্চল মন            (ঘ) মনৰ একাগ্ৰতা\n\nক্)ে ত গে ঞ্ে\n\n৩৪:",
+  "confidence": {
+    "word_count": 214,
+    "mean": 87.99,
+    "median": 95.13,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.623,
+  "page_elapsed_seconds": 4.096,
+  "peak_process_tree_rss_bytes": 287944704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

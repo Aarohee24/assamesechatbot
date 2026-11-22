@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বতৰ পৰিৱৰ্তন কিয় হয় জানানে? বায়ুমণ্ডলৰ উষ্ণতা, চাপ, বতাহৰ দিশ আৰু বেগ, বৰষুণৰ\n\nপৰিমাণ, মেঘৰ উপস্থিতি, বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণ আদিৰ ওপৰত বতৰ নিৰ্ভৰ কৰে। এইবোৰ\nহৈছেবতৰৰ একো একোটা উপাদান ৷ এই উপাদানবিলাকৰ তাৰতম্য হ’লে বতৰ পৰিৱৰ্তন হয়।\n\nচিন্তা কৰি লিখোঁ আহা---\n\nবতৰৰতঅৰস্থা                        বতৰৰ কোনটো উপাদানৰ কথা কোৱা হৈছে\n\nআজি বৰৰনদ দিছে\n\nবতৰটো ডাৱৰীয়া হৈছে\n\nধুমুহা আহিছে\n\nনদ-নদীবোৰ পানীৰে উপচি পৰিছে\n\nতোমালোকে জানানে যে পৃথিৱীয়ে সূৰ্যৰ চাৰিওফালে ঘূৰাৰ ফলত খতু পৰিৱৰ্তন হয়। খতু\n\nপৰিৱৰ্তনৰ লগে লগে বতৰৰো পৰিৱৰ্তন হয়। খতু অনুযায়ী আমাৰ অসমত সাধাৰণতে এনেধৰণৰ\nবতৰ দেখিবলৈ পাওঁ --\n\nগ্ৰীষ্মকালত বতৰ গৰম হয়। মাজে-সময়ে ধাৰাসাৰ বৰষুণে৷ হয়। জেঠ-আহাৰ মাহৰ দিনকেইটাক\nগ্ৰীষ্ম খতু বুলি গণ্য কৰা হয়।\n\nবৰ্ষা খতুত বৰষুণ খুব বেছিকৈ হয়। নদ-নদী, খাল-দোং আদি পানীৰে উপচি পৰে। শাওণ আৰু\nভাদ মাহৰ দিনকেইটাত বৰ্ষা ধাতু চলি থাকে।\n\nআহিন-কাতি মাহৰ শৰৎ কালত বতৰ ফৰকাল হয়। এই সময়খিনিত খুব বেছি গৰমো নহয় আৰু\nঠাণ্ডাওনহয়।\n\nআথোণ আৰু পুহ মাহৰ দিনকেইটাত হেমন্ত খতু বিৰাজ কৰে। এই খতুত লাহে লাহে শীতৰ\nপ্রকোপ বাঢ়িবলৈ ধৰে আৰু নিয়ৰ, কুঁৱলী আদি পৰিবলৈ ধৰে।\n\nশীতকালত শীতৰ প্রকোপ বেছি হয়। মাঘ আৰু ফাণ্ডন মাহ শীতকালৰ ভিতৰত পৰে। এই\nসময়ত বৰষুণ একেবাৰে কম হোৱাৰ ফলত বতৰ শুকান আৰু ধূলিয়ৰি হ’বলৈ ধৰে।\n\nবসন্ত কালত শীত কমি আহে আৰু বতৰ ক্ৰমান্বয়ে গৰমৰ পিনে ঢাল খায়। চ’ত-বহাগৰ এই\nদিনকেইটাত দুই এজাক পাতলীয়া বৰষুণ হয়। সেয়েহে এই খতুত গছত ন কুঁহিপাত ওলায়।\nঅসমত এই সময়তে ব’হাগ বিহু পালন কৰা হয়।\n\nআমাৰ দেশত বছৰটোত ছটা খ৷তু অনুভূত হয়-ক্ৰুমে গ্ৰীষ্ম, বৰ্ষা, শৰৎ, হেমন্ত,শীত আৰু বসন্ত।",
+  "confidence": {
+    "word_count": 239,
+    "mean": 89.1,
+    "median": 95.38,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 4.042,
+  "page_elapsed_seconds": 4.356,
+  "peak_process_tree_rss_bytes": 223969280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যেতিয়া তোমালোকে, পিয়াঁজৰ কোষক সিহঁতে পাতক সেউজীয়া ৰঙ প্রদান কৰে। তোমালোকে\nঅণুবীক্ষণ যন্তুত পৰ্যবেক্ষণ কৰিছিলা, তেতিয়া মনত পেলোৱা যে, পাতৰ ক্ল'ৰপপ্লাষ্টত থকা ক্ল’ৰ'ফিল\nকোষপ্রৰসত খালী ঠাইৰ দৰে কিছুমান আকৃতি সালোক সংশ্লেষণৰ বাবে অতি প্রয়োজন।\nদেখিছিলানে? ইয়াকে ৰসধানী বুলি কয়। পিয়াঁজৰ 1.6 উদ্ভিদ আৰু প্ৰাণীৰ কোষৰ তুলনা ?\n\nকোষত ই অকলশৰীয়া আৰু ডাঙৰ, গালৰ কোষৰ\nৰসধানীবোৰ সৰু । উদ্ভিদৰ কোষত সাধাৰণতে ডাঙৰ যদি তোমালোকে ক্ৰিয়াকলাপ 10.3 আৰু 10.4লৈ\n\nৰসধানী থাকে। প্রাণী কোষৰ ৰসধানীবোৰ বহুত সৰু। মনত পেলোৱা তেন্তে তোমালোকে প্রাণী আৰু উদ্ভিদ\n\nট্ৰেডেছকেনচিয়া পাতৰ কোষৰ কোষপ্রৰসত * ২+ গহে অলাগা কৰিব পাৰিবা৷ চিত্ৰ- 10.7 (8),\nবহুতো সৰু সৰু ৰঙীন গঠন (অংশ) নিশ্চয় দেখিবলৈ ৫০) ত দিয়া ডি আৰু প্রাণীৰ কোষ সাৱধানেৰে\nপাইছিল৷ ৷ এইবোৰ পাতৰ কোষৰ কোষপ্রৰসত সিঁচৰিত “<\n\nহৈ থাকে। এইবোৰক প্লীষ্টিড বোলে। ইহঁত বিভিন্ন ৰঙৰ         লি ডান আৰু আৰ ৰ যৱ কি\nহয়। ইহঁতৰ কিছুমানৰ সেউজীয়া ৰঞ্জক পদাৰ্থ থাকে, বৈসাদৃশ্যসমূহৰ তালিকা প্রস্তুত   |\n\nযাক ক্ল’ৰ’'ফিল বোলে। সেউজীয়া ৰঙৰ প্লাষ্টিডভবোৰক বৈশিছ্যাহে উল্লেখ কৰা এহি তুমি তালিকা 10.1 ত\nহৰিৎকণা বা ক্ল’ৰ'্লীষ্ট বোলে।                       ং\n\nচিত্ৰ 10.7 : (8) উদ্ভিদ কোষ           (6) প্রাণী কোষ\n\nতালিকা 10.1 উদ্ভিদ কোষ আৰু প্রাণী কোষৰ তুলনা\n\nকোষাৱৰণ                                                                      আছে                          আছে\nকোষবেৰ                                     আছে              নাই\nকোষকেন্দ্ৰ\nকোষকেন্দ্ৰৰ আৱৰণ\nকোষপ্ৰৰস\n\nপ্লীষ্টিড\n\nৰসধানী\n\nকোষ -- গঠন আৰু কাৰ্য / দ.1,- 97২00 01২); & চনাখণো0ো                                                                                                    ]4.\n\nএন 5১% ঠজা৷ কন 9৬৮5 | ১৬ । শু",
+  "confidence": {
+    "word_count": 213,
+    "mean": 79.3,
+    "median": 93.25,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.972,
+  "page_elapsed_seconds": 3.249,
+  "peak_process_tree_rss_bytes": 356794368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

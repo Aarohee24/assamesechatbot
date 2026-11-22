@@ -1,0 +1,62 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "5}. খ][)/%)খ: ]\")}$/%৮] []/%\"*1 13}] (2; /%][] 11]12818(260 16স:[-0001]7]-৮খঘ01|0000]< 101\" 0:|899-][]], 11]\n/১৪38111652, 02%210])60, ৪110 16%416%60. 0০% ০0]%]২], /১৪৪৪][] |1[008]1 ত/0118])0])5, 8])|}[0%60]\n00% 16 00%2]}1]12]}[ 01 /১১৪৪]]] 810 ])৷1[00]19]120 [2% ||16 /১৪৪৪1]} 51810 ][9০%0000]< })1000.01010} ৪8170\n]১010]10811011 0€\"01)0181101) [,[0]. 0101 20])8|]{[ 01 070ঘ2171011]1211[ 01 /১৪৪৪1].\n\n1166 ['6%00000}\n\n/%&]] [২10]}{5 [২০৪১০৮৮০0] : ]খ0০ 12]2100000101] 1]] 31% 10117] 01 ]]19 200], 1]} ৮]10]2 01\" 11] ])81[1]]8)/\n122 1]1802 ঘ1[|100][ ঘযা1{[[2]] 8011]1011281]101] 1|\"01]} ১0\"]7]২'], /১5981]],\n\nৰাজ্যিক শিক্ষা-খগাৰেষণা আৰু প্ৰশিক্ষণ পৰিষদ, অসম\n\nৰ\n\nপ্ৰথম প্ৰকাশ :     ২০২৪\n\n70 031] কাগজত মুদ্ৰিত পাঠ্যপুথি\n\nপ্রকাশক   £$  ভসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু\nপ্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্ৰকাশিত পাঠ্যপুথি।\nমুদ্ৰক      $ জেষ্টিনী প্ৰিণ্টিং প্ৰেছ",
+  "confidence": {
+    "word_count": 112,
+    "mean": 48.81,
+    "median": 46.36,
+    "minimum": 0.0,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9842,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.29,
+  "page_elapsed_seconds": 4.087,
+  "peak_process_tree_rss_bytes": 304791552,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 1,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "\"                               হই   খু                _₹=     ৰু                     ৰ\nৰণ                     ৰ               ”      চি +           ফৰ         চক ২-\n‘গা           য়        ন                       বছ:\nন         ন্স।                                  গু              ৷                        1_।\n৷         ৷                   এ সই               গচ               -      ৰ        ৰ\n্ঠ      ঢ়\n\nগুছে                   ই\nৰ  ৰ্-্হ                            ,\nহু    }     1    ৰ্‌       পণ\n                   কচ \"\n\"      {                 ্   ত কং      হৰ\nৰ       ণ         ৰ\n\nৰু   অংকৰ    টী গন ্‌\n\nৰ               (পঞ্চম ভাগ)\n\n// '                         (পঞ্চম শ্ৰেণীৰ বাবে)\n\nঅসম চৰকাৰ",
+  "confidence": {
+    "word_count": 2,
+    "mean": 30.39,
+    "median": 30.39,
+    "minimum": 8.11,
+    "maximum": 52.68
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2555,
+  "image_height": 3299,
+  "ocr_elapsed_seconds": 2.29,
+  "page_elapsed_seconds": 3.097,
+  "peak_process_tree_rss_bytes": 254799872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

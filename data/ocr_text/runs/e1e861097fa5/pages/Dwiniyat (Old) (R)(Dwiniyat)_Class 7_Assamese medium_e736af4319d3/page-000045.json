@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীলিয়াত        ত৯\n\nপ্রশ্ম- চকুৰ পৰা তেজ ওলাই বাহিৰলৈ নাহিলে অজু ভংগ হ'বনে?\n\nউত্তৰ- ভংগ নহয়। কাৰণ চকুৰ ভিতৰ অংশ যোৱা ফৰজ নহয়।\n\nপ্ৰশ্ন- কোনো কাৰণত শৰীৰৰ পৰা তেজ ওলোৱাত মচি দিয়া হ’ল, কিন্তু বৈ নগ’ল,\nতেতিয়া অজ্ঞ ভংগ হ’বনে?\n\nউত্তৰ- তেজ বৈ নগ’লে অজ ভংগ নহয়।\n\nপ্ৰশ্ন-অলপ অলপকৈ কেবাবাৰো বমি কৰিলে অজু ভংগ হ'বনে?\n\nউত্তৰ- মুখ ভৰি বমি কৰিলে অজ ভংগ হয়; অলপ বমি কৰিলে অন্ত্ৰ ভংগ নহয়।\n\nপ্ৰশ্ন- শৰীৰৰ ঘাঁ বা ফোঁহাৰ পৰা তেজ-পূজ ওলাই কাপোৰত দাগ লাগিলে\nকাপোৰ নাপাক হ'ব নেকি?\n\nউত্তৰ- তেজ-পঁজ বৈ নগ’লে কেৱল কাপোৰত দাগ লাগিলে কাপোৰ নাপাক\nনহয়, কিন্তু ধুই লোৱা ভাল।\n\nপ্ৰশ্ন-জৌকে তেজ পিলে অনু ভংগ হয় নেকি?\n\nউত্তৰ- জৌকে তেজ পিলে আনকি তেজ বৈ নগলেও অজু ভংগ হয়। মহ বা\nবিছাই কামুৰিলে অজু ভংগ নহ্য়।\n\nপ্ৰশ্নৰ- টোপনিত অজ্ৰৰ ভংগ হয়নে?\n\nউত্তৰ- থিয় হে থকা অৱস্থাত টোপনি গ’লে, কোনো বস্তুৰ আশ্রয় নোলোৱাকৈ\nটোপনি গ'লে, নামাজত থকা অৱস্থাত টোপনি গ’লে, যেনে- ছিজ্্‌দা বা\nবৈঠকত টোপনি গ'লে অজ্ঞ ভংগ নহ্য়।\n\nপ্ৰশ্ন- টোপনি গ’লেও কোন ব্যক্তিৰ অজু ভংগ নহয়?\n\nভউত্ত ৰ- টোপনি গ’লেও নবীসকলৰ অজু ভংগ নহয়। এইটো তেওঁলোকৰ\nশ্ৰেষ্ঠত|।\n\nপ্ৰশ্ম- নামাজত বিল্বিলাই হাহিলে অজু ভংগ হয়নে?\n\nউত্তৰ- নামাজত খিল্খিলাই হাহিলে অজু ভংগ হয়, বদি (১) হীহোতাজন বালিগ\nবা বালিগা হয়। নাবালিগ হ’লে অজু ভংগ নহয়। (২) নামাজত টোপনি গৈ\nখিল্খিলাই হাঁহিলে অজু ভংগ নহয়। (৩) ৰুকু, ছিজ্‌দাত থকা অৱস্থাত\nখিল্খিলাই হীহিলে, জানাযা নামাজত হীহিলে অজু নষ্ট নহয়।\n\nপ্ৰশ্ম- কোনো লোকৰ ছতৰত দৃষ্টিপাত কৰিলে অজু ভংগ হয়নে?",
+  "confidence": {
+    "word_count": 231,
+    "mean": 84.51,
+    "median": 92.62,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.496,
+  "page_elapsed_seconds": 2.612,
+  "peak_process_tree_rss_bytes": 240087040,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

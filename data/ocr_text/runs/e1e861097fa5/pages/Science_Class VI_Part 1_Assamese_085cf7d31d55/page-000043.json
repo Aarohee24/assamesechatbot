@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 43,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[] ক্ৰিয়াকলাপ 2.5:\n\nউদ্যান এখনলৈ যাওঁতে তলসৰা পাত বুটলি আনিছিলা নহয়? এই পাতবোৰ\nভালদৰে পৰ্যৱেক্ষণ কৰা। পাতৰ ফলকখনত পাতল ৰেখা কিছুমান দেখিছানে? এইবোৰ\nপাতৰ সিৰা আৰু উপসিৰা। পাতৰ ফলকখনত থকা সিৰা আৰু উপসিৰাৰ সাজোনক\nসিৰাবিন্যাস বোলে। পাতৰ ফলক অৰ্থাৎ পত্ৰফলকৰ গুৰিৰ পৰা আগলৈকে থকা ডাঙৰ\nসিৰাডালক মধ্যসিৰা বোলে। মধ্যসিৰাৰ পৰা উপসিৰাবোৰ ওলায়। কিছুমান পাতত\nমধ্যসিৰাৰ পৰ৷ ওলোৱা উপসিৰাবোৰ সমান্তৰালকৈ থাকে। এনে সিৰাবিন্যাসক সমান্তৰাল\nসিৰাবিন্যাস বোলে। কলপাতত এনে সিৰাবিন্যাস দেখা পাবা। ধান গছৰ পাতত\nউপসিৰাবোৰ মধ্যসিৰাৰ সমান্তৰালকৈ থাকে। আনহাতে আহঁতৰ পাত এখিলা মন কৰিলে\nদেখিবা সিৰাবোৰ কিছুমান জাল আকাৰে বিস্তাৰিত হৈ থাকে। ইয়াক জাল সিৰাবিন্যাস\nবোলে।\n\n(৫) জাল সিৰাবিন্যাস দেখুউৱা চিত্ৰ\n\n(})) সমাস্তৰাল সিৰাবিন্যাসৰ চিত্ৰ\n\nচিত্ৰ 2.4; বিভিন্ন প্রকাৰৰ সিৰাবিন্যাস\n\nভমভঞ্ডতেওঁত তত তত তত তত তত তত ০০০০০ ০০০০০ ০০০০০ ০,০০০,ফ্লে)",
+  "confidence": {
+    "word_count": 122,
+    "mean": 79.94,
+    "median": 92.31,
+    "minimum": 0.0,
+    "maximum": 96.82
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.705,
+  "page_elapsed_seconds": 3.124,
+  "peak_process_tree_rss_bytes": 367632384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

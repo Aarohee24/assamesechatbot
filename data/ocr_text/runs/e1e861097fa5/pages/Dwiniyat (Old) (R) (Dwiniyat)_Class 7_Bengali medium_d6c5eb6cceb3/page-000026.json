@@ -1,0 +1,62 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 26,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত            ২১\n\nকরা (২) উভয় ইদের নামাজের জন্য গোছল করা (৩) হন্ববের এহরাম ফরিবার\nপূৰ্বে গোছল করা (৪) আরফার মাঠে অবস্থান করার জন্য গোছল করা।\nপ্ৰ ঃ-_ মোস্থাহাৰ গোছলের সংখ্যা কত এবং কি কি?\n\nউ ঃ--মোস্থাহাব গোছলের সংখ্যা অনেক--এঁগুলির মধ্যে মাত্র কয়েকটি\nদৃষ্টান্ত দেওয়া গেল। যথা (১) সবেবরাতের ব্াত্ৰিতে (২) আরকার বর্লাত্মিতে\n৩) চন্দ্ৰ এবং সূৰ্য গ্ৰহণের সময়ে গোসল করা (৪) বৃষ্টি তলবেৰ জন্য\nনামাজের পূৰ্বে গোসল করা (৫) মঞন্ধা অথবা মদীনা মনোত্তয়ারায় প্রবেশ\nকরার জন্য গোসল করা (৬) মৃত ব্যক্তিকে গোসল দেওয়ানোর পর গোসল\nপ্ৰদানকারীর পক্ষে, কাফের ব্যক্তির ইসলাম গ্ৰহণের পর গোসল দেগয়া।\n\nপ্ৰ $-- গোসলের প্রয়োজন দেখাদিল সংশ্লিষ্ট ব্যক্তি নদীর মধ্যে ডুব\nদিলেন অথবা বৃষ্টির জলে দাড়াইয়া বহিলেন। এবং সমস্ত দেহে জল প্ৰবাহিত\nহইয়া গেলে এইক্লপ ক্ষেত্ৰে গোসল আদায় হইবে কিনা?\n\nউ ঃ-- আদায় হইয়া যাইবে যদি কুল্লি করিয়া থাকেন এবং নাকের\nভিতরে জল দিয়া থাকেন।\n\nপ্ৰ ঃ-- গোসল করিবার সময় কিবলার দিকে মুখ করা বৈধ কি না?\n\nউ ঃ-- গোসলের সময় যদি দেহ উলঙ্গ থাকে সেই ক্ষেত্রে কিবলার\nদিকে মুখ করিয়া থাকা বৈধ নহে। আর দেহ যদি ঢাকা থাকে তবে কাবা\nদিকে মুখ কবরিয়া রাখা বৈধ।\n\nপ্ৰ £-- ছতর খুলিয়া গোসল করা কি?\n\nউ ঃ-_ গোসলখানা অথবা এমন কোন স্থানে যদি গোসল করা হয়\nযেখানে অন্য ব্যক্তির দৃষ্টিপাত ঘটিবেনা। এই ক্ল্প ক্ষেত্ৰে উলঙ্গ দেহে স্নান\nকরা বৈধ।\n\nপ্র $ গোসলের মধ্যে মকরাই কতটি?\n\nউ ঃ$-- বেশী জল প্ৰবাহিত করা ছতর উলঙ্গ অবস্থায় কথা-বাৰ্তা বলা\nঅথবা কিবলামুখী হওয়া এবং ছয্নতের খেলাপ গোসল করা মকরাহ।\n\nপ্র ঃ-- গোসল করার পূৰ্বে কেহ ওজু করিলনা তাহা হইলে গোসলের\nপর নামাজ পড়িবার জন্য ওজু করা প্রয়োজনীয় কি না?\n\nউ ঃ-_- গোম়লের সঙ্গে সঙ্গে ওজু হইয়া গিয়াছে সুতরাং আবার সগুজু\nকরার প্ৰয়োজন নাই।",
+  "confidence": {
+    "word_count": 270,
+    "mean": 85.37,
+    "median": 92.32,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.905,
+  "page_elapsed_seconds": 3.112,
+  "peak_process_tree_rss_bytes": 249987072,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

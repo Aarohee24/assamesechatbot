@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 17,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যে বন্য সমাজৰ প্রচলিত নিয়ম অনুসৰি ৰাজকন্যাৰ লগত এনে চল্লিশখন অৰণ্য দিব পৰা যাবনে, য’ত\nএটাও পশু-পক্ষী নাই! উত্তৰত ৰাজকন্যাৰ পিতাকে ক’লে যে আজিৰ তাৰিখত পঁচিশখনমানহে\nতেনে অৰণ্য দিব পৰা যাব। বিচৰামতে দিবলৈ হ’লে আৰু দুমাহমান অপেক্ষা কৰিব লাগিব হেনো ৷”\n\n৮ -_\n\nফেঁচা দুটাৰ কলৰৱ বাঢ়ি গৈছে। বীৰবলে পুনৰ কাণ থিয় কৰি কিছুসময় শুনাৰ পাছত ক’লে---“জাহাপনা,\nপাত্ৰীৰ পিতৃয়ে কৈছে--- যদি দুমাহ সময় অপেক্ষা কৰে, তেনেহ’লে চল্লিশখন কিয়, পঞ্চাশখনতকৈও\nঅধিক জীৱ-জন্তুহীন অৰণ্য দিব পাৰিব।”\n\nআকৰবৰে আচৰিত হৈ সুধিলে--- “কি কাৰণে সি বাৰু তেনেদৰে বুকু ডাঠি ক’ব পাৰিছে?”\nবীৰবলে ক’লৈে-- “কাৰণ সি অনুমান কৰিছে যে অহা দুমাহ যদি এই হাৰত সম্ৰাটে চিকাৰ কৰি থাকে,\nতেনেহ’লে আৰু বিশ-ত্ৰিশখন হাবিৰ পশু-পক্ষী নিঃশেষ হ’ব। তেতিয়া দৰাপক্ষক পশু-পক্ষীহীন\nঅৰণ্য দিবলৈ অসুবিধা নহ’ব।”\n\nবীৰবলৰ কথাখিনিৰ তাৎপৰ্য এইবাৰহে আকবৰে হাড়ে-হিমজুৱে বুজিলে। তেওঁ গমি-পিতি\nচাই উপলব্ধি কৰিলে যে চিকাৰ কৰি থাকিলে অৰণ্যত পশু-পক্ষী নাথাকিব। সেয়ে বীৰবলক ক’লে--\n“আমাৰ আজিৰ অৰণ্য ভ্ৰমণ বৰ ফলপ্ৰসূ হ’ল আৰু ভৱিষ্যতে চিকাৰ কৰাৰ হেঁপাহো মোৰ নাইকিয়া\nহ’ল। গতিকে ব’লা, ৰাজপ্রাসাদলৈ উভতি যাওঁ৷”\n\n[৭",
+  "confidence": {
+    "word_count": 160,
+    "mean": 90.35,
+    "median": 95.67,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.638,
+  "page_elapsed_seconds": 4.192,
+  "peak_process_tree_rss_bytes": 276799488,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

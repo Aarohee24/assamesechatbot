@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 99,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দীপাৱলী দীপাৱলী\n(পাহৰৰ মেলা,\n\nপোহৰাই তোলা।\n\nফাকুৱা\nআজি ৰঙে ৰঙে একাকাৰ\n\nআহা ভাই খেলোঁ হোলী,\n}           মিলি সবে একেলগে\n(২১৮৮   }      আজি ৰঙে ৰঙে একাকাৰ।\n\n১৬। তোমালোকে স্থানীয়ভাৱে পালন কৰা উৎসৱৰ বিষয়ে কোৱা।\n\n১৭। দফাটো পঢ়া।\n\nপূজাই পেংডাল লৈ সেইদিনাও পঢ়াশালিলৈ আহি আছিল। পিঠিত\nথকা কিতাপ-বহীৰ বোজাটোৱে তাইক অসুবিধাত পেলাইছিল। তাইক\nদেখি পাছে পাছে আহি থকা ছফিকুৰ আৰু যোচেফহঁতৰ মনত দুখ লাগিল।\nতেওঁলোক আগবাঢ়ি আহিল আৰু যোচেফে তাইৰ বেগটো ল’লে। ছফিকুৰে\nসেইদিনাৰ পৰা পূজাক পঢ়াশালিলৈ লগত অনা-নিয়া কৰিবলৈ ধৰিলে।\nপ্ৰধান শিক্ষকে কথাটো জানিব পাৰি ছফিকুৰহঁতৰ শলাগ ল’লে। তেখেতে\nপ্ৰাতঃসভাত সকলোকে এনে ধৰণৰ কাম কৰিবলৈ উৎসাহ দিলে।\n\n১৮। তোমাৰ মাৰা-দেউতাৰাক সুধি তোমাৰ নিজৰ আৰু নিজৰ ঠাইত পতা দিৱস\nআৰু উৎসৱৰ তালিকা প্রস্তুত কৰি শ্রেণী কোঠাত আৰি থোৱা।\n\nজেল গীতৰ বাবে দৃশা-শৱা সঁজুলি বাৱহাৰ কবৰিব। প্ৰয়োজন অনুসৰি দক্ষ ব্যক্তিৰ সহায় ল’ব।",
+  "confidence": {
+    "word_count": 129,
+    "mean": 88.96,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.625,
+  "page_elapsed_seconds": 2.911,
+  "peak_process_tree_rss_bytes": 240054272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

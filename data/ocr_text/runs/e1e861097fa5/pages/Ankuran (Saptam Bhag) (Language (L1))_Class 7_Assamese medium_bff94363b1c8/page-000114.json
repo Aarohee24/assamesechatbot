@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 114,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ--ভাষা অধ্যয়ন (ব্যাৰহাৰিক ব্যাকৰণ)\n৩। তলত দিয়া শব্দকেইটাৰে বাক্য সাজি কোৱা আৰু লিখা।\n\nপাহাৰ বনভোজ  চানডুবি বিল\nআনন্দ আতংক  ভূমিকম্প\nজানো আহা\nপাঠত পোৱা তলৰ শব্দকেইটা কেনেকৈ গঠন হৈছে চোৱা--\nপ্রকৃতি +ইক = প্রাকৃতিক   জয়ন্ত + সীয়া  = জয়ন্তীয়া\nৰূপান্তৰ + ইত= ৰূপান্তৰিত   সাৱধান + তা  = সাৱধানতা\n\nওপৰৰ উদাহৰণকেইটাত শব্দৰ পাছত প্ৰত্যয় লগ হৈ একোটা অৰ্থপূৰ্ণ শব্দ গঠন হৈছে।\nপ্রথম শব্দটো হৈছে মূল শব্দ বা প্রকৃতি৷ এই মূল শব্দ বা প্ৰকৃতিৰ লগত একোটাকৈ প্ৰত্যয়\nসংযোগ কৰা হৈছে। এই সংযোজিত ৰূপটোৱেই হ’ল প্রত্যয়। যেনে- প্রকৃতি + ইক =\nপ্রাকৃতিক। ইয়াৰে প্রত্যয় হ’ল - ‘ইক্‌’।\n\n৪। উদাহৰণৰ দৰে শব্দ গঠন কৰা আৰু অভিধান চাই অৰ্থ জানি লোৱা।\n\n(ক)        সাৱধান\nবিচ্ছিন্ন\nবিভিন্ন                    বিভিন্নতা\nবিশাল\n\nজানো আহা\n\n৬ জন্মু-কাশ্মীৰ আৰু গুজৰাট ৰাজ্য ভূমিকম্পপ্রৱণ অঞ্চল হিচাপে চিহ্নিত হৈছে।’\n৬ প্রাকৃতিক দুৰ্যোগসমূহৰ ভিতৰত ভূমিকম্প বা ভূইকপ অন্যতম।’\nওপৰৰ বাক্য দুটালৈ চোৱা। ইয়াৰ প্রথম বাক্যটোত ‘আৰু” আৰু দ্বিতীয় বাক্যটোত ‘বা’\nএই দুটা শব্দই বাক্যকেইটাক সংযোগ আৰু বিযোজক কৰিছে। বাক্যকেইটাত ‘আৰু’ শব্দই\nবাক্যত যোৰা লগোৱা আৰু ‘বা’ শব্দটোৱে এটাৰ সলনি আনটো ব্যৱহাৰ হোৱা বুজাইছে।\nএই আৰু বা বা শব্দ দুটাত কোনো বিভক্তি চিন যোগ হোৱা দেখা নাই। নাইবা এনে শব্দত",
+  "confidence": {
+    "word_count": 183,
+    "mean": 90.54,
+    "median": 94.6,
+    "minimum": 13.84,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.758,
+  "page_elapsed_seconds": 2.987,
+  "peak_process_tree_rss_bytes": 287080448,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

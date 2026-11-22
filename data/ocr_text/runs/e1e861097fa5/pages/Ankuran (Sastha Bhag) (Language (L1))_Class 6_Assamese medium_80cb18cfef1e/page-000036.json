@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 36,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৫) আমাৰ ৰাজ্যত বিভিন্ন জনগোষ্ঠীয়ে পালন কৰা উৎসৱসমূহৰ নামবোৰ দলত আলোচনা\nকৰি তালিকাখনত লিখা।\n\n১৬) সৰু সৰু দলত ভাগ হৈ বৰ্ণৰ তালিকাখনৰ পৰা বিভিন্ন শব্দ লিখা।\n\nউদাহৰণ-- বিহু পাভ দৰা\n\n১৭) ব’হাগত ৰঙালী, কাতিত কঙালী আৰু মাঘত হয় ভোগালী বিহু। প্ৰতিটো বিহুতে প্ৰকৃতিয়ে\nবেলেগ বেলেগ ৰূপ লয়। ব’হাগ মাহত প্ৰকৃতিয়ে কেনে ৰূপ লয় দলত আলোচনা কৰি\nবৰ্ণনা কৰা।\n\n৬ বিহুগীত সংগ্ৰহ কৰি নিজৰ নিজৰ বহীত লিখা ৷ প্ৰত্যেকেই অন্ততঃ পাঁচটাকৈ বিহুগীত লিখিবা।\n\n৬ দলত বহি বিদ্যালয়ৰ বাৰ্ষিক খেল-ধেমালি আৰু সাংস্কৃতিক অনুষ্ঠানৰ বাবে এটি আদৰণী\nভাষণ প্ৰস্তুত কৰা (প্ৰয়োজন অনুসৰি শিক্ষকৰ সহায় ল’বা)।",
+  "confidence": {
+    "word_count": 92,
+    "mean": 90.64,
+    "median": 95.48,
+    "minimum": 9.02,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.357,
+  "page_elapsed_seconds": 2.696,
+  "peak_process_tree_rss_bytes": 274944000,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

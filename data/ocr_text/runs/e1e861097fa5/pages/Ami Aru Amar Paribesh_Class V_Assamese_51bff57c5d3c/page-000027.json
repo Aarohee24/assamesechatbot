@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কেতিয়াবা বতাহ বৰ বেগেৰে বলে।\nভাঙি পৰে। কেতিয়াবা তীব্ৰ বতাহৰ লগতে\nমেঘৰ গাজনি, বিজুলী-ঢেৰেকণিৰে সৈতে\nদবা-পিটা বৰষুণ আহে। এনে বতাহ-\nবৰষুণক ধুমুহা বুলি কোৱা হয়।\n\nকেতিয়াবা বহুদিন ধৰি বৰষুণ নহ’ব পাৰে।\nদীৰ্ঘদিন ধৰি বৰষুণৰ অভাৱত বতৰ শুকান হৈ পৰে। ঠায়ে ঠায়ে মাটিত ছিৰাল-ফাঁট মেলে। এনে\nবতৰক খৰাং বতৰ বা শুকান বতৰ বুলি কোৱা হয়।\nকাষৰ ছবিখনলৈ চোৱা। বৰষুণৰ\nঅভাৱত মাটিবোৰত ছিৰাল-ফাঁট মেলিছে।\nচিন্তা কৰিলিখোঁ আহা|--\n> এনে বতৰত আমাৰ কি কি অসুবিধা {\nহ’ব পাৰে? খেতিয়কৰ কি কি সমস্যা\nহ’ব পাৰে?\n\nদলত আলোচনা কৰি উত্তৰ লিখোঁ৷ আহা-\n> বিজুলী-গাজনিৰে বৰষুণ আহিলে\nআমি কিয় ঘৰৰ ভিতৰত আশ্রয় ল’ব\nলাগে?\n> নেৰা-নেপেৰা বৰষুণৰ ফলত আমাৰ\nকি কি ধৰণৰ সমস্যাৰ সৃষ্টি হয় ?\n> বহুদিন ধৰি বৰষুণ নহ’লে বতৰটো কিয় শুকান হৈ পৰে?\n> ধুমুহা আহিলে আমাৰকি কি অসুবিধা হ’ব পাৰে?\nবতৰ সদায় একে নাথাকে। আনকি দিনটোৰ ভিতৰতে বতৰৰ সালসলনি ঘটে। কেতিয়াবা বতৰ\nবৰ গৰম আৰু অস্বস্তিকৰ হয়। কেতিয়াবা গা-জুৰ পেলোৱা বতাহ বলি বতৰটো শীতল হৈ পৰে।\nকেতিয়াবা বৰষুণ বেছি হৈ বাট-পথ পানীৰে উপচি পৰে আৰু যাতায়াতৰ বিঘিনি ঘটায়। মাজে-সময়ে\nপ্রচণ্ড বেগত ধুমুহা অহাৰ ফলত ঘৰ-দুৱাৰ, গছ-গছনি আদি ভাঙি পৰে। এনেদৰে আমি সঘনে বতৰ\nপৰিৱৰ্তন হোৱা দেখিবলৈ পাওঁ।\n\nখৰাং বতৰ",
+  "confidence": {
+    "word_count": 187,
+    "mean": 92.54,
+    "median": 95.31,
+    "minimum": 24.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.635,
+  "page_elapsed_seconds": 4.513,
+  "peak_process_tree_rss_bytes": 220807168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

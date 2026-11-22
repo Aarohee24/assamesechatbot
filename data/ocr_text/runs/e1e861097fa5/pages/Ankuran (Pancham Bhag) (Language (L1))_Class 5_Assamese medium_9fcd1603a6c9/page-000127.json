@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অসমৰ ভিন ভিন সমাজত চলি থকা আন কেইটিমান লোক-নাট্য অনুষ্ঠান হ'ল-_\nমিচিংসকলৰ ‘গোমৰাগ’ | কাৰ্বিসকলৰ ‘চ’মাংকান’\n\nধী) তুমি দেখা বা শুনা যি কোনো এটি লোক-নাট্য অনুষ্ঠানৰ বিষয়ে বৰ্ণনা কৰা।\n\n= ===\n\n(ক) কুশান গান\n(খ)পুতলা নাচ\n(গ) ওজা-পালি\n\n        ঘ--প্রকল্প\n\n৬ বিভিন্ন লোক-নাট্য অনুষ্ঠানৰ লগত জড়িত বিভিন্ন বাদ্য-যন্তুসমূহৰ নাম লিখা।\nপাৰিলে সেইবিলাকৰ ছবি সংগ্ৰহ কৰি এটা এলবাম প্রস্তুত কৰা।\n\n৬ ওজা-পালিয়ে পৰিৱেশন কৰা গীত-পদ সংগ্ৰহ কৰি গোৱা। আৱশ্যকবোধে\nস্থানীয় শিল্পীৰ সহায় লোৱা।\n\nূঞম= পাঠৰ পৰা অ্তলিপি দিব।",
+  "confidence": {
+    "word_count": 76,
+    "mean": 86.5,
+    "median": 93.25,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 21 diacritics",
+        "Detected 21 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.285,
+  "page_elapsed_seconds": 2.641,
+  "peak_process_tree_rss_bytes": 243408896,
+  "tesseract_warnings": [
+    "Detected 21 diacritics",
+    "Detected 21 diacritics"
+  ],
+  "processed_this_run": true
+}

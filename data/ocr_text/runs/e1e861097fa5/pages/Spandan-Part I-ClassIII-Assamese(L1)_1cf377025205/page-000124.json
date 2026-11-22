@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "//* ৫। “ভাগৰুৱা মুনীন্দ্ৰই দেৰি নকৰি শুই পৰিল।” পাঠত পোৱা এই বাক্যশাৰীত ভাগৰুৱা গা\nএম    শব্দটো কেনেদৰে গঠন হৈছে চাওঁ আহা|---\n\nভাগৰুৱা == ভাগৰ + উৱরা\n\nএইদৰে তলৰ শব্দবোৰ ভাঙি লিখা--\nঘৰুৱা =>\nভিতৰুৱা =>\nপলসুৱা =>              ৷\n\n3৬ তলৰ বাক্যশাৰীলৈ মন কৰা---\nমুনীন্দ্ৰ বমডিলালৈ উভতি গ’ল।\n\nচল       ডু\n\nএ তলৰ বাক্য কেইশাৰীৰ উদ্দেশ্য আৰু বিধেয় ভাগ কৰি লিখা --\n\n১। ৰহিম এজন ভাল ল’ৰা।     ২। তেওঁ কিতাপ পঢ়িছে।\n৩। সি গান গীয়।         ৪। উপাসনা তৃতীয় শ্ৰেণীৰ ছাত্ৰী।\n\n৫। আপুনি ক’ত থাকে?\n\n2 ৭। শুনি শুনি লিখা--- (ছাত্ৰ-ছাত্ৰীক পাঠভিত্তিক শ্ৰুতলিপি দিব৷)\n\nস্পন্দন ১ | তৃতীয় শ্রেণী           ভংষ্টু।",
+  "confidence": {
+    "word_count": 97,
+    "mean": 78.57,
+    "median": 92.22,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.882,
+  "page_elapsed_seconds": 3.729,
+  "peak_process_tree_rss_bytes": 221249536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

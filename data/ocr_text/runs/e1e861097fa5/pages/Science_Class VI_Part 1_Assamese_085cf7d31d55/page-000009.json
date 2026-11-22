@@ -1,0 +1,62 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 9,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "€0)[খ |], খ!]'১৬\n\nপাতনি\n\n(]][.*]\"]['];]ং 1\n'['][]]\" ৮ খা) চাং []], % 0][8].[) 07 ৯৫010 খং];\n\nবিজ্ঞানৰ বিচিত্ৰ জগতখন\n\n7]].%41\" 1 ].]ং 2\n()180:%1খাণ%] খা) ]}[0])]ছ[ [২51]\n\nজীৱ আৰু জৈৱ বৈচিত্ৰ্য\n\n0]][.*]\"][]:]ং 3\n[\"0201) [01২ [][[%[][]]\"% ][]];}\"\n\nসুস্বাস্থ্যৰ বাবে খাদ্য\n\n([].*]\" | ],1]ং 4\n][,চ'][’9 [)[.%% ছখছা]া]ন [[/২৫৪[খা['5\n\nচুম্বকৰ সৈতে খেলে৷৷আহা\n\n৷ €]]1.4%1\"11.1ং 5\n\n(),0\"[5 /*1২৫0১[)[খা);[] 9\n\nআমাৰ টৌপাশৰ বস্তুবোৰ\n\n0'[..]'1[[[]২. 6\n:17,[62%৮]10\"খ 0] ৬ 001357/%খ \"019,\n\nদ্রব্যৰ গৃথিকীকৰণ\n\n€]]./%]}\"][']]২ 7\n\nছ\"% চ,][]][[ [৫ /|[খা) (\"[[8].%]']\"\n\nবতৰ আৰু জলবায়ু\n\n]\n\n19\n20\n\n63\n64\n\n101\n102\n\n137\n138\n\n175\n176\n\n221\n222",
+  "confidence": {
+    "word_count": 89,
+    "mean": 49.44,
+    "median": 45.06,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.98,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.469,
+  "page_elapsed_seconds": 2.917,
+  "peak_process_tree_rss_bytes": 268627968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

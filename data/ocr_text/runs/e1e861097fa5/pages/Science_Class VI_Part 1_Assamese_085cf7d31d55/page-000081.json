@@ -1,0 +1,67 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 81,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সৰিয়হৰ তেল    সূ্যমুখী ফুলৰ তেল    বাদাম তেল\n\nচিত্ৰ 3.3(0) : লেহপদাথৰ কিছুমান উৎস\nআমাৰ শৰীৰৰ কাৰ্যসমূহ কৰিবৰ বাবে কাব-হাইডেট আৰু স্নেইহপদাথহই শক্তিৰ যোগান ধৰে।\n_ পঅৰৰমকমমমমভম মম \"--==-=এয়া এ -\n\n* তোমালোকে জানানে?\nমেৰচঃ অঞ্চলত বাসকৰা বগা ভালুকৰ\nছালখনৰ তলত এতৰপ চবি জমাহৈ থাকে\n\n|}\nর\n\nএই চাবিয়ে শক্তিৰ উৎস\n\n৮ == ন আসত সস। অন অসত অন অসম অসত অন == == ==\n\nপ্ৰ'টিন হৈছে আমাৰ খাদ্যত থকা আন এবিধ উপাদান উদ্ভিদৰ লগতে প্রাণীৰ পৰা\nপ্‘টিন আহৰণ কৰা হয়। উদ্ভিদৰ পৰা আহৰণ কৰা প্ৰ'টিনৰ কিছুমান উৎস হৈছে মাহ\nজাতীয় শস্য, বীন, মটৰ, বাদাম আদি। প্ৰাণীৰ পৰা আহৰণ কৰা প্র'টিনৰ উৎস হৈছে গাখীৰ,\nপনিৰ, কণী,মাছ আৰু মাংস। প্ৰ'টিনযুক্ত খাদ্যই আমাৰ শৰীৰৰ বৃদ্ধি কৰাৰ লগতে শৰীৰৰ\nকলাসমূহও মেৰামতি কৰে।\n\nচিত্র 3.4 (৫) : উদ্ভিদৰ পৰা| পোৱা প্ৰ'টিনৰ উৎস",
+  "confidence": {
+    "word_count": 28,
+    "mean": 67.64,
+    "median": 93.01,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 14 diacritics",
+        "Detected 14 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.667,
+  "page_elapsed_seconds": 3.125,
+  "peak_process_tree_rss_bytes": 352591872,
+  "tesseract_warnings": [
+    "Detected 14 diacritics",
+    "Detected 14 diacritics"
+  ],
+  "processed_this_run": true
+}

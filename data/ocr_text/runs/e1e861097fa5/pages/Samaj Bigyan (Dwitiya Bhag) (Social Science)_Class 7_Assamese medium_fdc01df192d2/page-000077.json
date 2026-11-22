@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৩ | উদ্ভিদৰপৰা আমি কি কি পাওঁ ? এখন তালিকা কৰা।\n\n৪। বন্য প্রাণীসমূহৰ বাবে অভয়াৰণ্যৰ কিয় প্ৰয়োজন? (৫০টা মান শব্দৰ ভিতৰত লিখা।)\n\n৫৷ অসমৰ খাৰুৱা তেলৰ পুং আৰু কয়লাখনি থকা ঠাইসমূহৰ নাম লিখা।\n\n৬৷ ভূগৰ্ভজলৰ ব্যৱহাৰ সম্পৰ্কে প্রায় ৫০টা শব্দৰ ভিতৰত লিখা।\n\n৭। অসমৰ এখন নক্সা অংকন কৰি পাঠত দিয়া মানচিত্ৰ আৰু ভূচিত্ৰাৱলীৰ সহায়ত তলত দিয়াবোৰ বহুওৱা।\n\n(ক)\nখে)\nগে)\n(ঘ)\n(ঙ)\n(চ)\n(ছ)\n\n৩টা খাৰুৱা তেলৰ পুং\n\n৩টা কয়লাখনি\n\n২টা তেল শোধনাগাৰ\n\nচূণ শিল পোৱা এখন ঠাই\n\nতাৰা বিল, শিৱসাগৰ পুখুৰী\n\nএটি নদী বন্দৰ\n\nসোৱণশিৰি, পাগলাদিয়া, দিখৌ, ধনশিৰি, জাতিঙ্গা, ধলেশ্বৰী উপনৈ |\n\nক+ককককক+",
+  "confidence": {
+    "word_count": 95,
+    "mean": 88.33,
+    "median": 96.0,
+    "minimum": 18.45,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.092,
+  "page_elapsed_seconds": 2.506,
+  "peak_process_tree_rss_bytes": 231215104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

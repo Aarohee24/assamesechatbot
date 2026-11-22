@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 136,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঙ) এতিহাসিক সমলসমূহৰ ৰক্ষণাবেক্ষণৰ ক্ষেত্ৰত কোনে বিশেষ ভূমিকা পালন কৰি আহিছে?\n২) খালী ঠাই পূৰ কৰা-\nক) আবুল ফজলে ---- ৰচনা কৰিছিল।\nখ) ইবন বটুটা----দেশৰ পৰিৱাজক আছিল।\nগ) প্রাচীন বিজয়নগৰৰ স্মৃতিচিহ্ন বৰ্তমান --- চহৰত আছে।\nঘ) ৰংঘৰ---জিলাত আছে।\nঙ) ৰূপী নামৰ মুদ্ৰা চুলতান---প্রচলন কৰিছিল।\n৩) শুদ্ধনে অশুদ্ধ বিচাৰ কৰা-\nক) জয়পুৰৰ দৃৰ্গসমূহে ৰাজপুত ৰজাসকলৰ শোৰ্য প্রকাশ নকৰে।\nখ) গুলবদন বেগমে হুমায়ুন নামা গ্ৰন্থৰ ৰচনা কৰিছিল।\nগ) কানাই বৰশী শিলালিপি মিজোৰামত আছে।\nঘ) মুদ্ৰা হ’ল এক প্ৰত্নতাত্বিক সমল।\nঙ)ৰাইগড় দূৰ্গ মাৰাথাসকলৰ এঁতিহাসিক স্মৃতিচিহ্ন।\n৪) পাঠৰ আলমত তলৰ তালিকাখন পূৰ কৰা-\n\nতিনিজন বিদেশী          মধ্যযুগত নিৰ্মিত তিনিটা          তিনিজন দেশীয়\nপৰিরাজকৰ নাম            স্মৃতিচিহ্ন             লেখকৰ নাম\n\n৫) ভাৰতৰ এখন মানচিত্ৰ অংকন কৰি বিজয়নগৰ, কোচ ৰাজ্য, আহোম ৰাজ্য আৰু মাৰাথাসকলৰ অৱস্থিতি নিৰ্ণয়\nকৰা।\n\n৬) মধ্যযুগত নিৰ্মিত পাচঁটা বিশ্ব এতিহ্য ক্ষেত্ৰৰ নাম উল্লেখ কৰা।\n\nকককককক\n\n১৩৪৯",
+  "confidence": {
+    "word_count": 129,
+    "mean": 89.85,
+    "median": 93.29,
+    "minimum": 32.4,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 2.879,
+  "page_elapsed_seconds": 3.379,
+  "peak_process_tree_rss_bytes": 236437504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

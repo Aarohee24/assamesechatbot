@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 134,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দ        অর্থ\n\nজক্‌মকীয়া   -_ নানা ৰঙৰ জিলিকনি থকা,\nচকমক কৰা।\n\nজকাই     --= জাকৈ (বাঁহেৰে সজা\nতিনিকোণীয়া মাছ মৰা\nসঁজুলি)\n\nজাঁত-জাঁত   --_ হঠাৎ, চাট কৰে।\n\nজীৱনমুখী    -_ জীৱনৰ প্রতি ইতিবাচক\nদৃষ্টিভংগী থকা।\n\nজেউতি      -_ দীণ্ডি, পোহৰ ।\n\nজোলোঙাৰ মেকুৰী -- লুকুৱাব খোজা\nবস্তু (ওলাই পৰা)\n\nটিঙ    -= পৰ্বত্ৰ অতি ওখ\nঅংশ, শৃংগ।\n\nটোকোনা--- অতি দৰিদ্ৰ লোক,\n\nনিৰাশ্ৰয় লোক।\nডাল-দৰিদ্ৰি -= অতি দুখীয়া।\n\nশব্দ       অর্থ\n\nতথ্য -= সমল, যথাৰ্থতা, আচল কথা।\n\nতল == বুৰ যা, বুৰ যোৱা।\n\nতান্ত্ৰিক -- তন্ত্ৰ মতে চলা লোক, তন্তু শাস্ত্ৰ\nমতে চলা।\n\nত্যাগ -= এৰা কাৰ্য্য, স্বাৰ্থ ত্যাগ।\n\nদীণ্ডি   -_ জ্যোতি, পোহৰ, উজ্জ্বল বস্তুৰ\nআভা।\n\nদুৰাৰোগ্য == সহজতে উপশম নোহোৱা\nৰৌোগযুক্ত।\n\nদেও-লগা --- দেৱতা লম্ভা, দেৱে ধৰা।\nদেখনিয়াৰ -- দেখিবলৈ ধুনীয়া, শুৱনি।\n\n-= পোৱালি হোৱা গাই,\nখীৰতী গাই।\n\nধোঁৱা-কৌৱা--- ধূলি বা ধোঁৱা আকাশ বা\nবায়ুত মিহলি হৈ বেৰি\nধৰা।\n\n-= এলেহুৱা, বন-বাৰি নকৰি\nবহি থকা মানুহ।\n\nধেনু\n\nধোদ",
+  "confidence": {
+    "word_count": 141,
+    "mean": 87.03,
+    "median": 93.27,
+    "minimum": 3.45,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 2.44,
+  "page_elapsed_seconds": 3.05,
+  "peak_process_tree_rss_bytes": 253243392,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

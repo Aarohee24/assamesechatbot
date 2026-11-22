@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ১।তলত দিয়া প্ৰশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 0) বৃত্তটো পূৰ কৰা---\n\nঞ নাটিকাখনৰ প্ৰথম দৃশ্যত গুণ্গুণ্‌কৈ গীত গাই কোনে ছবি আঁকি আছিল?\n\n(কে) সুমনাই         (গে) মননে\n(খ) ৰিতুপনে        (ঘ) আকাশীয়ে\nকে) থে) গে) মে)\n\nঞ্ত সুমনাই সকলোকে হাতে হাতে কোৰ, খন্তি, হাতোৰা লৈ আহিবলৈ কিয় কৈছিল?\n(ক) গছৰ পুলিত পানী দিবৰ বাবে\n(খ) শুকান গোবৰ গুড়ি কৰিবৰ বাবে\n\n(গ) গছৰ পুলি ৰুবৰ বাবে\n(ঘ) গছৰ পুলিবোৰ জেওৰাৰে বেৰিবৰ বাবে\n\nক্)ে ঞ্ে গে ঞ্চে\n\nতৰী  ২ । তুমি ওপৰৰ দ্বিতীয় প্রশ্নৰ উত্তৰটো কিয় শুদ্ধ বুলি বাছি ল’লা ? সহপাঠীৰ লগত আলোচনা\n\nকৰি কোৱা।\nঠৰ ৩ । তলত দিয়া শব্দবোৰৰ অৰ্থ অভিধান চাই লিখা।\n\nফেৰেঙণি, প্রদৰ্শশী, জোপোহা, বন মহোৎসৱ, শীতল, খন্তি\n৮ ৪ । পাঠটোৰ দ্বিতীয় ছবিখনত কাহিনীটোৰ কোনটো অংশ প্রকাশ পাইছে আলোচনা কৰি তলত\nদিয়া বাকচত লিখা ।",
+  "confidence": {
+    "word_count": 129,
+    "mean": 81.82,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.352,
+  "page_elapsed_seconds": 2.785,
+  "peak_process_tree_rss_bytes": 285954048,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

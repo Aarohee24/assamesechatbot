@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 104,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ধাৰণা চিত্ৰ (\"00.00[){ [1 3])) 3\n'__ বৈদিক যুগৰ সমাজ                বৈদিক চিন্তাধাৰা\nভাৰতীয় সংস্কৃতিৰ ভেটি -_[__ প্রাচীন ভাবৰ আন আন      ৰ\nঅন্যান্য মতবাদ আৰু          [!7_        জৈন\nজনজাতীয় বিশ্বাস             বৌদ্ধ\n|_ জনজাতীয় বিশ্বাস\n\nশব্দাৰ্থ\n\nতীৰ্থংকৰ ঃ তীৰ্থংকৰ মানে হ’ল জৈনধৰ্ম প্ৰচাৰক/ প্ৰৱৰ্তক, যিগ্ৰাকীয়ে ইন্দ্ৰিয় জয় কৰিব পাৰিছিল।\n\nদিগম্বৰ ৪ যিসকল জৈন ধৰ্মৰ লোকে মোক্ষ প্রাপ্তিৰ কাৰণে বস্তু পৰিত্যাগ কৰে, তেওঁলোককে দিগম্বৰ বুলি\nকোৱা হয়।\n\nশ্বেতাম্বৰ ঃ যিসকল জৈন ধৰ্মাবলম্বী লোকে অকল বগাবস্ত্ৰ পৰিধান কৰে, সেইসকলক শ্বেতাম্বৰ বুলি\nজনা যায়।\n\nহীনযান ঃ হীনযান হৈছে বৌদ্ধধৰ্মৰ আটাইতকৈ পুৰণি সম্প্ৰদায়। এওঁলোকে বুদ্ধৰ বাণীবোৰকহে\nবিশ্বাস কৰে।\n\nমহাযান ঃ মহাযান হৈছে সেইসকল লোক যিসকলে বুদ্ধক ভগ বান হিচাপে উপাসনা কৰে।\n\nফিদঞি'১) ‘জাতক কথা’ৰ যিকোনো সাধু পঢ়ি তাৰপৰা কি শিকিলা-তাক সমূহীয়াভাবে শ্ৰেণীত\n\nভাবি উলিওৱা ঃ (প্ৰয়োজনত জ্যেষ্টজন বা শিক্ষকৰ সহায় ল’বা)\n\n(ক) জৈন ধৰ্ম ব্যৱসায়ীসকলৰ মাজত কিয় অধিক জনপ্ৰিয় হৈছিল ভাবি উলিওৱা ৷\n\n(খ) জৈন ধৰ্ম আৰু বৌদ্ধ ধৰ্মই প্রদান কৰা৷ নীতিসমূহৰ এখন তালিকা প্রস্তুত কৰা। ইয়াৰে\nকোনকেইটা তুমি তোমাৰ জীৱনত পালন কৰাটো উচিত বুলি ভাবা?\n\nভাৰতীয় সংস্কৃতিৰ ভেটি",
+  "confidence": {
+    "word_count": 162,
+    "mean": 84.33,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.797,
+  "page_elapsed_seconds": 3.103,
+  "peak_process_tree_rss_bytes": 291921920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 228,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "এ/ 7[€ি   7<_/\nৰ ৰ, ৰ্প ট ৰ  !  এ\n\n্/           প্রস্বিদন আৰু বাষ্পীভৱন           দৈ\n।                      ণ             1,      স্\n\nবন্ধ কেনপি আৰু ডাল-পাতৰ\nবহু সংখ্যক তৰপে\nবৰষুণৰ টোপালৰ গতি কমায়\n\nমাটিত আৱৰি থকা সৰা\nবস্তুবিলাকে স্পঞ্জৰ দৰে কাম কৰে।\n\nনিগৰি যোৱাত সহায় কৰে\n\nচিত্ৰ 17.13 বৰষুণৰ পানী টোপাল গছৰ পৰা পৰি মাটিৰ ভিতৰলৈ নিগৰিছে\n\n(][ং২৪111 81821\" 01128 1011] 16 0669 8100 92621)28 11100 {116 ঠ1000110)\n\nকোৱা হয়, “এৰিধ গতিশীল জীৰিত সম্পদ।”      আশ্চৰ্যজনকভাৱে সিহঁতে লক্ষ্য কৰিছিল যে বৰষুণৰ\n\nতেতিয়া প্রায় আবেলি হৈছিল আৰু ল’ৰা টোপাল পোনে পোনে গছগছনিৰ তলিৰ মাটি অংশত\nছোৱালীহঁতে ঘূৰি যাবলৈ বিচাৰিছিল। টিবুৱে সিহঁতক পৰা নাছিল। অৰণ্যৰ আটাইতকৈ ওপৰৰ তল অৰ্থাৎ\nঅন্য এটা বাটেৰে উভতি যাবলৈ পৰামৰ্শ দিছিল । কেন’পিয়ে (08000[))) বৰষুণৰ টোপাল তললৈ যোৱাত\nযেতিয়া সিহঁতে উভতিছিল, তেতিয়া বৰষুণ দিবলৈ বাধা দিয়ে আৰু বেছিভাগ পানী গছৰ ডাল আৰু কাণ্ডৰে\nআৰম্ভ কৰিছিল।\n\n214",
+  "confidence": {
+    "word_count": 135,
+    "mean": 80.2,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.576,
+  "page_elapsed_seconds": 3.151,
+  "peak_process_tree_rss_bytes": 299376640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

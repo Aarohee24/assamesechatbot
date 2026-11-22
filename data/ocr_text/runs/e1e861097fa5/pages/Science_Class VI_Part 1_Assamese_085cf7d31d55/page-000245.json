@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 245,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে মন কৰিছা নিশ্চয়। অধিক উষ্ততাই তাপজনিত ৰোগ বৃদ্ধি কৰে। বাহিৰত\nকাম কৰা আৰু কামৰ বাবে অলৈ তলৈ অহা-যোৱা কৰাত অসুবিধাৰ সৃষ্টি কৰে। বায়ুমণ্ডলৰ\nউষ্ণতা বৃদ্ধিয়ে বনজুই জ্বলাই অৰণ্যৰ ক্ষতি কৰে আৰু বন্যপ্রাণীসমূহৰ বাস কৰা ঠাইবোৰ\nধ্বংস কৰিব পাৰে। জলবায়ুৰ পৰিৱৰ্তনৰ ফলত অধিক অঞ্চলত পানীৰ অভাৱ হৈছে।\n\nৰদ        তোমালোকে জানানে?         ৰ\n\nবৈদ্যুতিক সৰঙ্জামৰ পৰা নিগত হোৱা সেউজগৃহ গেছে\nহু = উষ্্তা বৃদ্ধিত অৰিহণা যোগাই আহিছে।\n\nবতৰৰ পৰিৱৰ্তন সন্দৰ্ভত বিজ্ঞানীসকলে সময়ে সময়ে ভৱিষ্যৎ্বাণী কৰি আহিছে।\nযেনে, সাগৰীয় জলপৃষ্ঠ বৃদ্ধি হোৱা, হিমবাহ আৰু বৰফৰ তৰপ গলি যোৱা, গোলকীয়\nউষ্ণতা বৃদ্ধি হোৱা আদি। মানৱসৃষ্ট সেউজগৃহ গেছৰ পৰা বিশ্বত উষ্ণতা বৃদ্ধি অব্যাহত\nথাকিব বুলিও বিজ্ঞানীসকলে ভৱিষ্যতবাণী কৰিছে। ইয়াৰ বাবে বতৰৰ ভয়াবহ ক্ষতি হ’ব।\nতীব্ৰ খৰাং, ধুমুহা, সাগৰৰ ঢৌ, বৃদ্ধি, হোৱা সাগৰৰ জলপৃষ্ট আদিয়ে জীৱ জন্তুক প্রত্যক্ষ ভাৱে\nক্ষতি কৰিব পাৰে। জলবায়ুৰ পৰিৱৰ্তনৰ ফলত বিপজ্জনক বতৰৰ পৰিঘটনা অধিক সঘনাই\nসংঘটিত হ’ব পাৰে। এনেবোৰ পৰিঘটনাৰ ভয়াবহতা কমাবলৈ মানুহ সচেতন হ’ব লাগিব।\nমানুহে জীৱন ধাৰণ সম্পৰ্কীয় কাম-কাজ পৰিৱেশ আৰু পৰিশেষত জলবায়ুৰ ভালৰ বাবে\nকৰিব লাগিব।\n\nমূল শব্দ :",
+  "confidence": {
+    "word_count": 161,
+    "mean": 88.61,
+    "median": 95.41,
+    "minimum": 16.54,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.882,
+  "page_elapsed_seconds": 3.191,
+  "peak_process_tree_rss_bytes": 292253696,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

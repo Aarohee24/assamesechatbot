@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 32,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\nপদ্মনাথ গোহাঞি বৰুৱা -অসীম ত্যাগ স্বীকাৰ কৰি অসমীয়া\nভাষা সাহিত্যৰ ভেটি নিৰ্মাণ কৰি সুদৃঢ় কৰা লেখকসকলৰ\nভিতৰত পদ্মনাথ গোহাঞি বৰমনা অন্যতম। তেখেতৰ জন্ম\nহৈছিল ১৮৭১ চনত উত্তৰ লখিমপুৰ (লক্ষীমপুৰ)ৰ নকাড়ী\nনামৰ গাঁৱত। তেখেতৰ দেউতাক আছিল ঘিণাৰাম বৰণ্বা।\nপদ্মনাথ গোহাঞি বৰমন্বাই কলকাতাত বি.এ. পঢ়ি থাকৌতে\nঅসমীয়া ভাষা সাহিত্য সাধনাত ব্ৰতী হৈছিল। জোনাকী\nআলোচনীত তেখেতে লেখা মেলা আৰম্ভ কৰিছিল। ১৯১৭ চনত তেখেত অসম সাহিত্য\nসভাৰ প্ৰথম অধিৱেশনৰ প্ৰথম সভাপতি আছিল।\n\n১৩। বিভিন্ন ক্ষেত্ৰত (সাহিত্য, কলা, গীত গোৱা, বাদ্য-যন্ত্ৰ, চিত্ৰ-শিল্পী, খেলুৱৈ) আদিৰ নাম\nগ্ৰহ কৰি তালিকা প্রস্তুত কৰ৷ ।\n\n[জানো আহা\n\nসীতানাথ ব্ৰহ্মটোধুৰী (১৯০৮--১৯৮২)\n\nসীতানাথ ব্ৰহ্মটোধুৰীয়ে সাহিত্যৰ প্ৰতি আগবঢ়োৱা অৱদান\nঅতুলনীয়। ‘নিৰুপমা সৌন্দৰ্য প্রতিমা’ৰ অম্বেষণ কৰা কবি\nব্ৰহ্মচোধুৰীৰ প্রথম কবিতা পুথি ‘কমল কলি’ ১৯২৫ চনত প্রকাশ\nহৈছিল । তাৰ পিছত ‘আবেগ’ আৰু ‘চকুলো’ নামৰ দুখন পুথি\n\n১৯৫৬ চনত ধুবুৰীত অনুষ্ঠিত হোৱা সাহিত্য সভাৰ মুকলি সভাৰ ব্ৰহ্মচৌধুৰী\nডাঙৰীয়া উদ্বোধক আছিল। ১৯৮১ আৰু ১৯৮২ চনত যথাক্ৰমে দুবাৰ তেখেতে অসম\nসাহিত্য সভাৰ সভাপতিৰ আসন শোভিত কৰে। সীতানাথ ব্ৰহ্মচৌধুৰী প্ৰকৃতপক্ষে জাতীয়\nসংস্কৃতিৰ সমন্বয়ৰ প্রতীক স্বৰূপ। তেখেত অতি স্পষ্টবাদী, সুদৃঢ়মনা ব্যক্তি আছিল।\n\nণঞ্- _১১নষ্বৰপৰশৰ বিষয়টো লৈ তক প্ৰতিযোগিতা পাতি সকলো ছাৱ-ছাতৰীকে অংশগ্ৰহণ কৰাব।\n\n০9%",
+  "confidence": {
+    "word_count": 178,
+    "mean": 88.79,
+    "median": 95.49,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.415,
+  "page_elapsed_seconds": 4.437,
+  "peak_process_tree_rss_bytes": 295260160,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

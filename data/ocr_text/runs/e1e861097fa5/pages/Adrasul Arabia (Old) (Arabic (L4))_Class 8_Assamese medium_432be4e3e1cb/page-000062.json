@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 62,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ড়\n\nকত ৰততত)ৌ ২\n\nকতি ভীত এ\n\n- ধাল ‘49\n\n= 23%\n\nকো \"2 লা\n\n\"= ৪\"\"=_*\n\nএ + %এ ৷ =   জ্ঞজু ৯ =  ৰ\n2টা, = ল=%|\"+ 19৮\nৰ\n৷ কল       ৰ  লা\nতত(৭ লী ভালাটচুটি ত,ড্ৰ ডান\nচু           ৰ\n2\n\nশত আৰৰবকক৷। 5২ধৰা৮ৰৰে]2 গো] [{{{ { |\n\n(পঢ়া আৰু লক্ষ্য কৰা) : 1; ত] -\nট    ৰ দু চা\n\nও  53\n\n, সৰ আখৰেৰে বাকে এল ৰ\n\nহতো [জজ এ ঙ জ ॥({{(- ] ২*% ৷ ০৭6] [়ো য়েল লয়ৰ বলোলে\n\nছছবছহ ই 7} /_ ] _ _ { {  {{ {{{{ { ] {  { { এ {এ {{ [৬২\n\nহৰক [8] {> &){))]ঙ [৷ ]{]{{ {]{ {{ চত); ২] এজ উি]ঢ়় {এ  ]7 719৮9} {{{{/ .ই >]. ] 0] )",
+  "confidence": {
+    "word_count": 124,
+    "mean": 31.27,
+    "median": 29.88,
+    "minimum": 0.0,
+    "maximum": 96.86
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9998,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 151 diacritics",
+        "Detected 151 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.37,
+  "page_elapsed_seconds": 3.627,
+  "peak_process_tree_rss_bytes": 196988928,
+  "tesseract_warnings": [
+    "Detected 151 diacritics",
+    "Detected 151 diacritics"
+  ],
+  "processed_this_run": true
+}

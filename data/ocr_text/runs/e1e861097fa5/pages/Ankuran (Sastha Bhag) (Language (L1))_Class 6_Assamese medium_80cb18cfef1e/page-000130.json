@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 130,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "স্কাউট-গাইডৰ প্ৰাৰ্থনা গীত\n“দয়া কৰ দান ভক্তি কা হমে পৰমাত্মা দেনা,\nদয়া কৰণা হমাৰি আত্মামে শুদ্ধতা দেনা,\nহামাৰে ধ্যান মে আও প্রভু আঁখো মে বস যাও\nআন্ধেৰে দিল মে আ-কৰকে পৰম জ্যোতি জগা দেনা\n{ বহা দো প্ৰেম কি গঙ্গা দিলো মে প্রেমকা সাগৰ,\n| হমে আপচ মে মিলজুল কৰ প্রভু ৰহনা শিখা দেনা।.\n৷ হমাৰা কৰ্ম হো সেৱা হমাৰা ধৰ্ম হো সেৱা,\n| সদা ইমান হো সেৱা ও সেৱকচৰ বনা দেনা।\n\nদয়া কৰ দান ভক্তি কা হমে পৰমাত্মা দেনা,\nদয়া কৰণা হামাৰি আত্মা মে শুদ্ধতা দেনা ।”\n\nজানো আহা\n\nস্কাউট সংগঠনৰ জন্মদাতা -- বেডেন পাৱেল\n\nগাইড সংগঠনৰ জন্মদাতা ---এগনেচ বেডেন পাৱেল\nকাব -- ছয়ৰ পৰা দহ বছৰ বয়সৰ ল’ৰা সদস্য\n\nবুলবুল --- ছয়ৰ পৰা দহ বছৰ বয়সৰ ছোৱালী সদস্যা\nস্কাউট -- এঘাৰৰ পৰা সোতৰ বছৰ বয়সৰ ল’ৰা সদস্য\nগাইড -- এঘাৰৰ পৰা সোতৰ বছৰ বয়সৰ ছোৱালী সদস্যা\nৰোভাৰ ---ওঠৰৰ পৰা পঁচিশ বছৰ বয়সৰ ল’ৰা সদস্য\nৰেঞ্জাৰ -- ওঠৰৰ পৰা পঁচিশ বছৰ বয়সৰ ছোৱালী সদস্যা\nস্কাউট মাষ্টাৰ ---স্কাউট গোটৰ দায়িত্বত থকা শিক্ষক\nগাইড কেপ্তেইন -- গাইড গোটৰ দায়িত্বত থকা শিক্ষয়িত্ৰী",
+  "confidence": {
+    "word_count": 170,
+    "mean": 91.2,
+    "median": 95.61,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.304,
+  "page_elapsed_seconds": 3.783,
+  "peak_process_tree_rss_bytes": 241930240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

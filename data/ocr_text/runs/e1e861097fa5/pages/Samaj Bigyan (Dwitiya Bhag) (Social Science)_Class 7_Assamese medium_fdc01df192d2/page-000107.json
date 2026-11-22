@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 107,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী ঃ\n১। উত্তৰ দিয়া ঃ\n\n(ক)\nখে)\n\nশুংগবংশৰ পাছত উত্তৰ ভাৰতত কোন বংশৰ ৰজাই ৰাজত্ব কৰিছিল?\nসাতবাহনসকলে ভাৰতৰ কোন অংশত ৰাজত্ব কৰিছিল?\n\n(গ) কলিংগ ৰাজ্যক বৰ্তমান কি নামেৰে জনা যায়?\n\n(ঘ)\n(৬)\n\n“ত্ৰিৰাজ্য’ বুলিলে কোন কেইখন ৰাজ্যক বুজায়?\nকুষাণ বংশৰ সৰ্বশ্ৰেষ্ঠ ৰজা কোন আছিল?\n\n২। উত্তৰ লিখা ঃ\n\n৩।\n\n৪।\n\n(ক)\nখে)\nগে)\nঘ)\n(৬)\n(চ)\n\nসাতবাহনসকলৰ ৰাজত্বকালত কাৰ কাৰ লগত বাণিজ্যিক সম্পৰ্ক স্থাপন হৈছিল?\n\nকণিষ্কৰ শাসনকালত বৌদ্ধ ধৰ্ম কেইটা ভাগত ভাগ হৈছিল? নাম দুটা উল্লেখ কৰা।\n\nসংগম সাহিত্য কেই প্রকাৰৰ আৰু কি কি?\n\nকুষাণ যুগৰ দুটা শিল্পকলাৰ নাম।\n\nমৌৰ্যৰ পৰৱৰ্তী যুগত জলসিঞ্চনৰ বাবে ব্যৱহৃত দুটা ব্যৱস্থাৰ নাম।\n\nমৌৰ্যসকলৰ পৰৱৰ্তী যুগৰগাঁওবিলাকত কি কি বৃত্তিজীৱি লোক বাস কৰিছিল ? দুটা বৃত্তিৰ নাম উল্লেখ কৰা।\n\n‘ক’ অংশৰ লগত ‘খ’ অংশ মিলাই চোৱা--\n\n(ক) মহামেঘ বাহন              (ক) মিনাণ্ডাৰ\n(খ) অন্ধৰ আন এটা নাম      (খ) গান্ধাৰ শিল্পই।\n(গ) ইন্দো-গ্ৰীকসকলৰ                (গ) তামিল কবি সন্মিলনৰ সাহিত্য\nবিখ্যাত ৰজা                             আছিল।\n(ঘ) কণিষ্কৰ দৃষ্টি আকৰ্ষণ        (ঘ) সাতবাহন\nকৰিছিল।\n(ঙ) সংগম সাহিত্য              (ঙ) কলিংগ\nশুদ্ধ উত্তৰ বাছি উলিওৱা---\n(ক) সাতবাহন ৰাজ্য প্ৰতিষ্ঠা কৰিছিল জয়দ্ৰথে/সিমুকে/বাসুদেৱে।\n(খ) যৱন বুলি শুঙ্গ/ইন্দো-গ্ৰীক/কান্বসকলক কোৱা হৈছিল।\n(গ) গান্ধাৰ শিল্পৰ মূল বিষয়-বস্তু আছিল হিন্দুধৰ্ম/ বৌদ্ধধৰ্ম/ জৈনধৰ্ম ।\n(ঘ) গণ্ডোফৰ্ণিছ কুষাণ/পহুৱ/শক বংশৰ শ্ৰেষ্ঠ ৰজা আছিল।\n(ঙ৬) জাতক হৈছে গল্প/কবিতা/উপন্যাস।",
+  "confidence": {
+    "word_count": 193,
+    "mean": 87.62,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.733,
+  "page_elapsed_seconds": 4.284,
+  "peak_process_tree_rss_bytes": 232161280,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

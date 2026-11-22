@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খাদ্যশৃংখলকেইটা চাই এইটোৱেই বুজা গ’ল যে একেবিধ খাদ্যকে বেলেগ বেলেগ প্রাণীয়ে খায়।\nউদাহৰণস্বৰূপে উদ্ভিদক শহাপহু, নিগনি, ফৰিং আৰু শস্য খোৱা চৰায়ে খায়। ঠিক তেনেদৰে নিগনিক সাপ\nআৰু শেন চৰায়ে খায়। আকৌ শেন চৰায়ে শহা পহু, নিগনি, সাপ, ফৰিং আৰু শস্য খোৱা চৰাইক খায়।\nগতিকে দেখা গ’ল যে একেটা প্রাণীয়ে এটাতকৈ অধিক খাদ্যশৃংখলত ভাগ লয়। এইদৰে এটা পৰিস্থিতি\nতন্ত্ৰত বহুকেইটা খাদ্যশৃংখল লগলাগি এখন জালিকাৰ সৃষ্টি কৰে, অৰ্থাৎ বহুকেইটা খাদ্যশৃংখলৰ সমষ্টিয়েই\nহৈছে খাদ্যজাল।\n\nছবিত দেখুওৱা উদাহৰণৰ উপৰি আমাৰ পৰিস্থিতি তন্ত্ৰত আন বহুধৰণৰ খাদ্যশৃংখল থাকে। ঘাঁহনি,\nঅৰণ্য, শস্য-পথাৰ, পুখুৰী আদি পৰিস্থিতি তন্ত্ৰৰ সকলো জীৱই খাদ্যশৃংখনত এক নিৰ্দিষ্ট স্থান গ্ৰহণ কৰে।\nএটা জীৱই এটাতকৈ বেছি খাদ্যশৃংখলত ভাগ লোৱাৰ ফলত খাদ্যজালৰ সৃষ্টি হয়। জীৱবোৰে খাদ্যজালত\nউৎপাদক নাইবা উপভোক্তা হিচাপে অংশগ্ৰহণ কৰে। খাদ্যজালে পৰিৱেশৰ ভাৰসাম্য ৰক্ষা কৰাত সহায়\nকৰে।\n\nতলত দিয়া নামবোৰৰ পৰা খাদ্যশৃংখল সাজা-\n(ক) গৰু, ঘাঁহ, বাঘ\n\n(খ) গছৰ পাত, ভেকুলী, ফৰিং\n\n(গ) শিয়াল, এন্দুৰ, চিলনী\n\n(ঘ) সাপ, এন্দুৰ, চিলনী\n\n(৬) মাছ, শেলুৱৈ, বগলী",
+  "confidence": {
+    "word_count": 150,
+    "mean": 94.22,
+    "median": 96.11,
+    "minimum": 37.27,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.982,
+  "page_elapsed_seconds": 4.367,
+  "peak_process_tree_rss_bytes": 223846400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

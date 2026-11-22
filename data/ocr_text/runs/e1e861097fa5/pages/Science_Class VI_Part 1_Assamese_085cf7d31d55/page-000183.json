@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 183,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_]                   |[-\nবিস্তৃত শিকন\n$ “তুমি ব্যৱহাৰ কৰা কোনবোৰ বস্তুৰ পুনৰ ব্যৱহাৰ কৰিব পাৰি” বাতৰি কাকত,\nআলোচনী, ইন্টাৰনেট সেৱা আদিৰ যোগেদি ইয়াৰ বিষয়ে তথ্য গোটোৱা আৰু এটা\nটোকা প্রস্তুত কৰা। ভগা-চিগা বস্তু বোটলা মানুহ দুজন তিনিজনক লগ ধৰা। তেওঁলোকে\nএইবিলাকেৰে কি কৰে আলোচনা কৰা৷\n$ সাধাৰণতে পেলাই দিয়া কিছুমান বস্তু (যেনে - কাৰ্ডবৰ্ড, পুৰণা খবৰ কাগজ,\nগ্লাষ্টিকৰ সামগ্ৰী) পৰা ব্যৱহাৰযোগ্য বস্তু কিছুমান বনোৱা, (যেনে - পেঞ্চিল হ’ল্ডাৰ, সৰু\nগছপুলিৰ টাব)। সেইবোৰ তুমি সজাই শ্ৰেণীকোঠালৈ আনিব পাৰা। তুমি কি কি দ্রব্য\nব্যৱহাৰ কৰিছিলা আৰু তুমি বনোৱা বস্তুবিধৰ বাবে কিয় উপযোগী ব্যাখ্যা কৰা।\nঞ তোমাৰ ঘৰৰ পৰা 20 বিধ বস্তু সংগ্ৰহ কৰি বস্তুৰ ধৰ্ম যেনে জ্যাতিমান, কঠিনতা,\nদ্রৱনীয়তা আৰু স্বচ্ছতাৰ ওপৰত ভিত্তি কৰি শ্ৰেণীবিভাজন কৰা। মনত ৰাখিবা বা একে\nবিধ বস্তুৰ একাধিক ধৰ্ম থাকিব পাৰে। এতিয়া বস্তুবিধৰ ধৰ্মৰ লগত তাৰ ব্যৱহাৰৰ মাজত\nসম্পৰ্ক স্থাপন কৰা।\n\n_]              [_",
+  "confidence": {
+    "word_count": 135,
+    "mean": 90.34,
+    "median": 95.97,
+    "minimum": 31.78,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.644,
+  "page_elapsed_seconds": 2.877,
+  "peak_process_tree_rss_bytes": 298934272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

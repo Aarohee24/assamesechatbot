@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 203,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দৃষ্টিশক্তিৰ প্রতিবন্ধীসকলে ব্রৰেইল বেইল পাঠ হাত বা মেচিনেৰে প্রস্তুত কৰিব পাৰি।\nপদ্ধতিত পোনতে বৰ্ণ আৰুতাৰপিছত বিশেষচিহ্ন আৰু টাইপৰাইটৰ আৰু ছপাশাল ৰ দৰে সুবিধা বৰ্তমানে\nবৰ্ণৰ সমাহাৰ শিকে। স্পৰ্শৰ জৰিয়তে চিনাক্তকৰণৰ   ব্ৰেইল         বিকাশ কৰা হৈছে\nওপৰৰ পদ্ধতিটো নির্ভৰশীল। প্রত্যেকটো বৰ্ণ তথা        পদ্ধতিতো              |\n\nচৰিত্ৰকে মনত ৰাখিব লাগিব।\n\nযথেষ্ট সফলতা অৰ্জন কৰিছে। দিবাকৰ নামৰ এজন কৃতী শিশুৱে গায়ক হিচাপে\nআশ্চৰ্যজনক পাৰদৰ্শিতা প্রদৰ্শন কৰিছে।\n\nৰবীন্দ্ৰ জৈন নামৰ আজন্ম দৃষ্টিশক্তিৰ প্রতিবন্ধীগৰাকীয়ে এলাহাবাদৰ\nপৰা সঙ্গীত প্রভাকৰ উপাধি অৰ্জন কৰিছে। তেওঁ ইতিমধ্যে গীতিকাৰ, গায়ক\nআৰু সুৰকাৰ হিচাবে পাৰদৰ্শিতা দেখুৱাবলৈ সক্ষম হৈছে।\n\nলাল আদৱানী নামৰ দৃষ্টিশক্তিৰ প্রতিবন্ধী এগৰাকীয়ে ভাৰতবৰ্ষত\nপ্রতিবন্ধীৰ বিশেষ শিক্ষা আৰু পুনৰ সংস্থাপনৰ বাবে এটা সংস্থা প্রতিষ্ঠা\nকৰিছে। তদুপৰি তেওঁ ব্ৰেইল পদ্ধতিৰ সমস্যাসমূহৰ আলোচনাত ইউনেস্কোত\nভাৰতবৰ্ষক প্রতিনিধিত্ব কৰিছে।\nহেলেন. এ. কেলাৰ নামৰ এগৰাকী মাৰ্কিন লেখক,আৰু প্রৱক্তা সম্ভৱতঃ আটাইতকৈ বিখ্যাত আৰু\n\nঅনুপ্ৰেৰণাদায়ক দৃষ্টিশক্তিৰ প্ৰতিবন্ধী ব্যক্তি। তেওঁ 18 মাহ বয়সতে দৃষ্টি শক্তি হেৰুৱাইছিল। কিন্তু সাহস আৰু\nসংকল্পৰ বাবে তেওঁ বিশ্ববিদ্যালয়ৰ পৰা স্নাতক পাঠ্যক্ৰম সম্পূৰ্ণ কৰিব পাৰিছিল। তেওঁ ‘][']9 5101 011)\n[16 (1903) নামৰ কিতাপখনকে ধৰি বহু কেইখন গ্ৰন্থ ৰচনা কৰিছিল।\n\nহেলেন, এ. কেলাৰ\n\nপোহৰ /1, 1 2ো]\"                                                                                                                                 188;",
+  "confidence": {
+    "word_count": 171,
+    "mean": 87.02,
+    "median": 93.26,
+    "minimum": 5.03,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.966,
+  "page_elapsed_seconds": 3.254,
+  "peak_process_tree_rss_bytes": 317202432,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

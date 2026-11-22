@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 115,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কোনো লিংগ আৰু বচন আদি একোৱেই নাথাকে। সেইবাবে এনেধৰণৰ শব্দবোৰক অব্যয়\nপদ বোলে। তলত অব্যয় পদৰ ভাগসমূহৰ নাম আৰু উদাহৰণ দিয়া হ’ল -=\n\nসংযোজক বা যোজক অব্যয়-_ দুটা বা তাতকৈ বেছি শব্দ বা বাক্য যোগ কৰে। যেনে-\nআৰু, এতেকে, কাৰণ, যদি, কিয়নো, গতিকে ইত্যাদি। উদাহৰণ -- হৰি আৰু মই\nগুৱাহাটীলৈ যাম।\n\nবিযোজক অব্যয় -- দুটা পদ বা বাক্যক পৃথক কৰে। যেনে- বা, নাইবা, অথবা,\nকিম্বা আদি। উদাহৰণ--_ এটা পদুম ফুল বা এখিলা পাণ আঁকা।\n\nভাববোধক অব্যয় -- মনৰ ভাব প্রকাশ কৰে। যেনে- হায় হায়, আঃ, উঃ, ইস্‌, বাঃ\nবাঃ, ছিঃ ছিঃ আদি৷ উদাহৰণ--- বাঃ বাঃ কি বঢ়িয়া খেল!\n\nহে, হঁয়েৰা আদি। উদাহৰণ--- হেৰা ল’ৰা, গৰুকেইটা খেদি দিয়া।\n\nপ্ৰশ্নবোধক অব্যয় -- কোনো কথা৷ সোধা বা প্রশ্ন কৰাত ব্যৱহাৰ হয়। যেনে- নে,\nনেকি, জানো, কেনে, কোন ইত্যাদি। উদাহৰণ--- তুমি ভাত খাবা নে?\nসন্মতিসূচক অব্যয় -- সন্মতি প্রকাশ কৰাত ব্যৱহাৰ হয়। যেনে- এৰা, বাৰু, হয়, ও\nআদি। উদাহৰণ--- এৰা, তুমি ঠিকেই কৈছা।\n\nকেতিয়া, অথনি আদি। উদাহৰণ--- তুমি ঘৰলৈ কেতিয়া আহিবা?\n\n৫। তলৰ বাক্যকেইটাৰ পৰা অব্যয় পদবোৰ বিচাৰি উলিয়াই লিখা ।\n\nফৰিদা == হেৰা মনু, তুমি কেনেকৈ যাবা?\n\nমনু _-= বাছবা ৰিক্সাৰে যাম বুলি ভাবিছোঁ।\n\nফৰিদা --- পিছে মই এতিয়া নাযাওঁ দিয়া।\n\nমনু -- বাৰু, হ’ব দিয়া।\n\nফৰিদা == উঃ, আজি যে কি গৰম! মনু, মোক ঠাণ্ডা পানী এগিলাচ দিবা নে?\nমনু - হয়, দিছোঁ ৰ'বা।\n\nফৰিদা --- তুমি কাৰ লগত বজাৰলৈ যাবা?\n\nমনু -- মই আৰু শেৱালি একেলগে যাম।",
+  "confidence": {
+    "word_count": 226,
+    "mean": 89.8,
+    "median": 94.59,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.876,
+  "page_elapsed_seconds": 3.12,
+  "peak_process_tree_rss_bytes": 285110272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

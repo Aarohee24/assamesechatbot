@@ -1,0 +1,67 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 193,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "6.3.2 চালনীৰে চলা পদ্ধতি\n\nচাউলত কেতিয়াবা অলপ ধান থাকি যায়। ধানবোৰ কেনেদৰে আঁতৰাই, লক্ষ্য\nবা চাউল যদি বেছিকৈ দৰকাৰ হয়, তেতিয়া কি কৰে বাৰু? তেতিয়া বাঁহৰ চালনী ব্যৱহাৰ\nকৰি ধানবোৰ আঁতৰায়। তুমি এনে চালনী দেখিছা চাগে [চিত্ৰ 6.308)] ? ধানবোৰৰ আকাৰ\nডাঙৰ বাবে চালনীত ৰৈ যায় অথচ চাউলবোৰ অলপ সৰু বাবে চালনীৰ ফুটাবোৰেদি\nসৰকি যায়। আকৌ ঢেঁকী বা গুড়ি কৰা যন্তৰ সহায়ত পিঠাগুৰি খুন্দোতে বেলেগ এখন\nচালনী ব্যৱহাৰ কৰা হয়। এই চালনীখনৰ ছিদ্ৰবোৰ অতি সৰু [চিত্ৰ 6.306)] ৷ এনেদৰে\nচালনী ব্যৱহাৰ কৰি ডাঙৰ অণশুদ্ধি সৰু আকাৰৰ দ্রব্যৰ পৰা পৃথক কৰাকে চালনীৰে চলা\nপদ্ধতি বোলে।\n\nচিত্ৰ 6.3 (0) : চালনীৰে চাউলৰ পৰা| চিত্ৰ 6.3 (0) : ঢেকীৰে পিঠাঙৰি খুন্দিছে আৰু\nধান পৃথক কৰিছে।                   চালিছে।\n\nএকে পদ্ধতিৰে পকাঘৰ বনাওঁতে ব্যৱহৃত বালিৰ পৰা শিলগুটিবোৰ পৃথক কৰা হয়।\nএখন ধাতুৰ জালিকা সদৃশ চালনীৰে বালিখিনি চালিলে বালিবোৰ তলত পৰে আৰু শিলবোৰ\nচালনীৰ ওপৰত ৰৈ যায় [চিত্ৰ 6.3 (2)]।\n\nচিত্ৰ 6.3 (৫) : মিজীয়ে বালি চালিছে\n\n77+ +) ৮ ৰোলে",
+  "confidence": {
+    "word_count": 154,
+    "mean": 89.07,
+    "median": 95.09,
+    "minimum": 4.64,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 26 diacritics",
+        "Detected 26 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.861,
+  "page_elapsed_seconds": 3.318,
+  "peak_process_tree_rss_bytes": 299515904,
+  "tesseract_warnings": [
+    "Detected 26 diacritics",
+    "Detected 26 diacritics"
+  ],
+  "processed_this_run": true
+}

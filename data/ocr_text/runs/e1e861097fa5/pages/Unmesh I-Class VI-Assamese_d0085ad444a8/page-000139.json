@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 139,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পৰিৱেশ বা অৱস্থাতে ৰূপৰ পৰিৱৰ্তন নোহোৱা শব্দবোৰেই অব্যয়।\nঠাৰ ১০। তলত দিয়া বাকচটোত থকা অব্যয় পদসমূহ প্রয়োগ কৰি ৰাক্যবোৰ পুনৰ গঠন কৰা-_\n\nআদি অব্যয় শব্দ। অব্যয় শব্দবোৰ কাৰক, পুৰুষ, বচন, লিংগ অনুসৰি ৰূপ নহয়। অৰ্থাৎ কোনো\n* ৰীতা ঘৰলৈ গ’ল।  ৷    = ৰাম আৰু ৰীতা ঘৰলৈ গ’ল।\n\n* তুমি মাত এষাৰো নিদিলা।\n\n|+ জ্য\"\"\n\n্ট্৷ জানো আহা\n\nমুখাশিল্প অতি প্রাচীনকালৰেপৰা অসমত মুখাশিল্পৰ প্ৰচলন হৈ আহিছে। মহাপুৰুষ শংকৰদেৱে\nভাওনাত পোনপ্ৰথমে মুখা ব্যৱহাৰ কৰে। তেতিয়াৰেপৰা অসমৰ মুখাশিল্পই নতুন পৰিচয় লাভ কৰে।\nঅসমৰ বহু সত্ৰত এই শিল্পৰ চ্ আছে। বিশেষকৈ মাজুলীৰ শ্ৰীশ্ৰীচামগ্ুৰি সত্ৰ মুখাশিল্পৰ বাবে বিখ্যাত।\nঅসমৰ লগতে দেশ-বিদেশৰ বিভিন্ন পৰ্যটক এই শিল্প চাবলৈ আৰু প্ৰশিক্ষণ ল’বলৈ আহে। মুখাসমূহ\nপ্রস্তুত কৰিবলৈ থলুৱা বাঁহ, বেত, কপাহী কাপোৰ, গৰুৰ গোবৰ, কুমাৰ-মাটি, কুঁহিলা, মৰাপাট আদি\nসামগ্ৰী ব্যৱহাৰ কৰা হয়। মুখাসমূহত ব্যৱহাৰ কৰা ৰঙো প্রাকৃতিকভাৱেই প্রস্তুত কৰা হয়। গছৰ গুটি,\n\n৷ জানো আহা--\nতলত দিয়া বাক্যটোলৈ মন কৰা--\n(ক) এতিয়া আমি নতুন কমলাবাৰী সত্ৰৰ অতিথিশালালৈ যাম আৰু নিশাটো তাতেই কটাম।\nইয়াত দুটা বাক্য সংযোগ হৈ আছে। বাক্য দুটা হ’ল-_\n৪ এতিয়া আমি নতুন কমলাবাৰী সত্ৰৰ অতিথিশালালৈ যাম।\n৪ নিশাটো তাতেই কটাম।\n‘আৰু” শব্দটোৱে বাক্য দুটা সংযোগ কৰিছে। এইবাৰ আন এটি বাক্যলৈ মন কৰা--\n(খ) এৰা, এয়া যেন এখনি ঢৌ খেলি থকা সোণালী চাদৰ!\nবাক্যটোত ‘এৰা’ শব্দই সন্মতি বুজাইছে; ‘যেন’ শব্দটোৱে সাদৃশ্য বুজাইছে। আৰু, এৰা, যেন\n\nকি",
+  "confidence": {
+    "word_count": 209,
+    "mean": 88.65,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 23 diacritics",
+        "Detected 23 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.292,
+  "page_elapsed_seconds": 5.205,
+  "peak_process_tree_rss_bytes": 226365440,
+  "tesseract_warnings": [
+    "Detected 23 diacritics",
+    "Detected 23 diacritics"
+  ],
+  "processed_this_run": true
+}

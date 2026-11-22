@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 127,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জ্ৰিয়াকলা৷প 14.5\n\nচেতাৰৰ দৰে বাদ্যযন্ত্সমূহৰ তাঁৰ টানি দিলে সৃষ্টি\nহোৱা শব্দ কেৱল তীৰডালতেই যে সৃষ্টি হৈছে\nএনে নহয়। এনে অৱস্থাত গোটেই যন্ত্ৰটো কঁপিবলৈ\nধৰে আৰু আমি শুনিবলৈ পোৱা শব্দ গোটেই\nবাদ্যযন্তটোৱে সৃষ্টি কৰা শব্দহে। একেদৰে, যেতিয়া\nআমি মৃদংগৰ চামৰাত আঘাত কৰোঁ তেতিয়া আমি\n\nযন্তুটোৰহে।\n\nআমি কথা পাতিলে\nআমাৰ শৰীৰৰ কোনো\nঅংশৰ কম্পন হয় নেকি?\n\n14.2 মানুহে সৃষ্টি কৰা শব্দ :\nকিছু সময়ৰ বাবে তুমি ডাঙৰকৈ কথা, কোৱা বা গীত\nএটা গোৱা বা মৌ মাখিৰ দৰে গুণগুণোৱা। চিত্র\n14.8ত দেখুওৱাৰ দৰে হাতখন ডিঙিত লগাই দিয়া।\nকিবা কম্পন অনুভৱ কৰিছানে?\n\nমানুহৰ ক্ষেত্ৰত স্বৰকক্ষ বা স্বৰযন্ত্ৰৰ দ্বাৰা\nশব্দ সৃষ্টি হয়। তোমালোকে আঙুলিৰে ডিঙি স্পৰ্শ\nকৰিলে টান, গোটা বস্তু এটা বিচাৰি পাবা যিটোৱে আমি\nকোনে বস্তু গিলিলে লৰচৰ কৰা যেন লাগে। শৰীৰৰ\nএই অংশটোকে স্বৰকক্ষ বোলে। ই বায়ুনলীৰ ওপৰৰ\nঅংশত অৱস্থিত। স্বৰকক্ষ বা স্বৰযন্ত্ৰ ইপাৰ সিপাৰ\nহোৱাকৈ দুড়াল স্বৰতন্ত্ৰী এনেদৰে টান খাই থাকে যে\nইয়াৰ মাজেৰে বায়ু যাব পৰাকৈ এটা ঠেক ছিদ্ৰ সৃষ্টি\nহয় (চিত্র-14.8)।\n\nচিত্ৰ 14.8 : মানুহৰ স্বৰকক্ষ\n\nহাঁওফীওৱে ছিদ্ৰৰ মাজেৰে বায়ু জোৰেৰে ঠেলি\n\n_ শব্দ /৪0ঢ0খা)         টু\n\nশুনিবলৈ পোৱা শব্দ কেৱল চামৰাৰ নহয়, গোটেই   স্বৰতন্ত্ৰীৰে সৈতে সংলগ্ন মাংসপেশীয়ে নলী দুডাল\nটান বা ঢিলা কৰিব পাৰে। স্বৰতন্ত্ৰী টান আৰু পাতল হৈ\n012.",
+  "confidence": {
+    "word_count": 190,
+    "mean": 89.41,
+    "median": 96.04,
+    "minimum": 6.52,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.954,
+  "page_elapsed_seconds": 3.268,
+  "peak_process_tree_rss_bytes": 259678208,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

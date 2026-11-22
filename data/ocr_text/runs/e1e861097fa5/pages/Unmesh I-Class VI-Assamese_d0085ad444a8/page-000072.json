@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 72,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গল্পকাৰৰ পৰিচয় ঃ ড\" ভবেন্দ্ৰ নাথ শইকীয়া (১৯৩২-২০০৩\nখ্ৰীষ্টাব্দ) অসমৰ এগৰাকী গল্পকাৰ, নাট্যকাৰ, ওঁপন্যাসিক আৰু\nবোলছবি পৰিচালক। তেওঁৰ জন্ম নৰ্গাবত। তেওঁ গুৱাহাটী\nবিশ্ববিদ্যালয়ৰ পদাৰ্থ বিজ্ঞান বিভাগৰ অধ্যাপক আছিল। মৰমৰ\nদেউতা, শান্ত-শিষ্ট হৃষ্ট-পুষ্ট মহাদুষ্ট, মহাদুষ্টৰ দৃুষ্টবুদ্ধি আদি\nতেখেতৰ উল্লেখযোগ্য শিশু উপযোগী গ্ৰন্থ। তেওঁ অসমীয়া\nভাষাৰ পষেকীয়া আলোচনী প্রান্তিক’ আৰু শিশু আলোচনী\n‘সফুঁৰা’ৰ সম্পাদক আছিল। ১৯৭৬ খ্ৰীষ্টাব্দত তেওঁ শৃংখল’\nগল্প সংকলনৰ বাবে ‘সাহিত্য অকাডেমি বঁটা’ লাভ কৰিছিল।\nতদুপৰি তেওঁ ‘অসম প্রকাশন পৰিষদ বঁটা’, ‘অসম উপত্যকা সাহিত্য বঁটা’ৰ লগতে ২০০১\nলাভ কৰিছিল।\n\nঠ/ ১। তলত দিয়া প্রশ্নসমূহৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 6 বৃত্তটো পূৰ কৰা--\n৬ ধুবুৰীৰপৰা তপনহঁতৰ ঘৰলৈ কোন আহিছিল?\n\n(ক) তপনৰ মাহীয়েক            (গ) তপনৰ মাহীয়েকৰ পুতেক\n(খ) তপনৰ মাক              (ঘ) যোচেফ ছাৰ\nক্)ে ঞ্ে গে ঞ্রে)\n\nঞ্জ তপনে খতুৰাজক ভদ্ৰ আচৰণৰ কথা৷ কিয় কৈছিল?\n(ক) ভদ্ৰলোক হোৱাৰ জ্ঞান দিয়াৰ বাবে গে) মনে বিচৰা বস্তুটো পাবৰ বাবে\n(খ) খতুৰাজক মূৰ্খ সজাবৰ বাবে     (ঘ) মাকৰপৰা৷ বেছিকৈ মৰম পাবৰ বাবে\n\nক্টে ঞে গে ঞ্চে",
+  "confidence": {
+    "word_count": 151,
+    "mean": 84.73,
+    "median": 94.29,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.993,
+  "page_elapsed_seconds": 5.009,
+  "peak_process_tree_rss_bytes": 276353024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

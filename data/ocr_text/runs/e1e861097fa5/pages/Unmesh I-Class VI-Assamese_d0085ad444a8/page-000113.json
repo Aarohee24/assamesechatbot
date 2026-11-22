@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০ তলত দিয়া শব্দ শৃংখলটো সম্পূৰ্ণ কৰ৷। প্ৰয়োজন সাপেক্ষে পাঠৰ সহায় ল’বা।\nআ                            হ্‌\n\nনভা ।ই ৷ ৰা |।ছ\n\nচ\n\n9)\n\nথিয়কৈ--\n(১) গাখীৰ, চেনি আৰু ফলেৰে প্রস্তুত কৰা বৰফৰ দৰে চেঁচা খাদ্য (৫)\n(২) ‘দেহ’ৰ এটা সমাৰ্থক শব্দ (৩)\n(৩) কাৰোবাক উপ্দেশ্যি টান কথা কোৱ৷ কাৰ্য (৩)\n(৪) তেজৰ ৰং (২)\nপথালিকৈ--\n(১) এবিধ অতিসৃক্ষ্ম অণুবীক্ষণ যন্ত্ৰৰে চাব পৰা জীৱ (৪)\n(২) ‘ৰঙ’ৰ এটা সমাৰ্থক শব্দ (৩)\n(৩) কোনো ব্যক্তিৰ প্ৰতি ভালপোৱা ভাব, চেনেহ (৩)\n(৪) অসুখ হ’লে হোৱা শৰীৰৰ উষ্ণতা বৃদ্ধি (২)\n\n৷৷ জানো আহা--\n(ক) ইহঁতে আমাৰ দেহটোক ৰোগৰ আক্ৰমণৰপৰা ৰক্ষা কৰে।\n(খ) তোমালোকহে এতিয়া সাৱধানে থাকা।\nওপৰৰ বাক্য দুটাত থকা ‘কৰে’ আৰু ‘থাকা’ক্ৰিয়া পদ দুটা কেনেদৰে গঠন হৈছে মন কৰাচোন--\nক্ৰিয়া পদ            ধাতুৰূপ +        বিভক্তিৰ চিন\nকৰে               কৰ্‌ (সম্পন্ন কৰা অৰ্থত)       এ\nথাকা               থাক্‌ (ৰৈ থকা অৰ্থত)         আ\nইয়াত ‘কৰে’ ক্ৰিয়াটোৰ ধাতুৰূপটো হ’ল-- কৰ্‌। ইয়াৰ লগত ‘এ’ বিভক্তি যোগ হৈ ‘কৰে’\n\n১১৩:",
+  "confidence": {
+    "word_count": 146,
+    "mean": 85.89,
+    "median": 95.5,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.534,
+  "page_elapsed_seconds": 2.975,
+  "peak_process_tree_rss_bytes": 265170944,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 171,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বিতীয় গিলাচটোৰপৰা পানী কিয় পৰি গ’ল? কাৰণ পানীপূৰ্ণ গিলাচটোৱে আৰু অধিক\nপানী ধৰি ৰাখিব নোৱাৰে। গিলাচৰ ভিতৰৰ সকলোখিনি ঠাই ভিতৰত থকা পানীয়ে আগুৰি\nলৈছে। গিলাচটোৰ ভিতৰৰ ঠাইখিনিয়ে হ’ল পানীৰ আয়তন।\n\nতলৰ ছবিখন চোৱা আৰু কোৱা কোনটোত পানীৰ আয়তন বেছি হ’ব।\n\nচিত্র 3.12 : গিলাচত বেলেগ বেলেগ আয়তনৰ পানী\n\nখোৱাপানীৰ বটলবোৰ লক্ষ্য কৰিবাচোন।\nএইবোৰৰ কিছুমান সৰু আৰু আন কিছুমান\nডাঙৰ। বটলবোৰত কি লিখা থাকে মন কৰিছানে?\nকিছুমান বটলত 500 00][;,, কিছুমানত 200 10]];\nআন কিছুমানত 1 [, লিখা থকা নিশ্চয় দেখিছা।\nএইবোৰে বটলত থকা পানীৰ আয়তন বুজায়।\nদোকানত থকা তেল বা গাখীৰৰ বটলতো\nসেইবোৰৰ আয়তন লিখা থাকে।\n\nচিত্ৰ 4.13: বেলেগ বেলেগ আয়তনৰ\nপানীৰ বটল ।\n\n5.3 পদাৰ্থ:কি?\n\nওপৰৰ পৰীক্ষা কেইটাৰপৰা তুমি জানিলা যে পানী, বালি আৰু শিলগুটিৰ ভৰ\nআছে। এইবোৰৰ প্রত্যেকেই কিছু ঠাই আগুৰে, অৰ্থাৎ প্রত্যেকৰে আয়তনো আছে।\nদৰাচলতে সকলো বস্তুৰে ভৰ আৰু আয়তন আছে। যাৰ ভৰ আৰু আয়তন আছে তাক\nপদাৰ্থ বোলা হয়।\n\nভৰে পদাৰ্থৰ পৰিমাণ বুজায়। অৰ্থাৎ বস্তু এটাত থকা পদাৰ্থৰ পৰিমাণেই হ’ল বস্তুটোৰ\nভৰ। ইয়াক সাধাৰণতে গ্রাম (%) আৰু কিল গ্রাম |) এককত প্ৰকাশ কৰা হয়।\n\nযিয়ে ঠাই আগুৰে আৰু যাৰ ভৰ আছে সেয়াই হ’ল পদাৰ্থ বা যাৰ ভৰ আৰু আয়তন\nআছে সেয়াই পদাৰ্থ।\n\n(| _-_-_-_-_-______ ৫৮০",
+  "confidence": {
+    "word_count": 189,
+    "mean": 88.63,
+    "median": 93.54,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.2,
+  "page_elapsed_seconds": 3.563,
+  "peak_process_tree_rss_bytes": 302944256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

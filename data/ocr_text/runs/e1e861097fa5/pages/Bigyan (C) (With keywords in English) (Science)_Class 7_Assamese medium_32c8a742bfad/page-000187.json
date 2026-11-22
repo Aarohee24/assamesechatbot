@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 187,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3) 14.26 চিত্ৰত দেখুৱাৰ দৰে এডাল বিদ্যুৎ চুম্বক ব্যৱহাৰ কৰি ৰেল যাতায়াতৰ সংকেত যন্ত্ৰ এটা\nকাৰ্যকৰী আহি এটা সাজিব পাৰিবানে?\n\nত\n(]1]1690)                                              কাৰ্ডব'ৰ্ড সংকেত\n(0€81060801\"0 918119])\n\n|॥\n\n(]101] 1181])\n\nকুণ্ডলী\n(০০))\n\nচিত্ৰ 14.26 ৰেল যাতায়াতৰ সংকেত যন্ত্ৰন এটা কাৰ্যকৰী আৰ্হি\n(/% ম/01]116 11006] 018 11'81]ঘম8%৮ 919118])\n\n5) বৈদ্যুতিক আহিলাৰ দোকান এখনলৈ যোৱা ৷ কাৰিকৰ এজনক বিভিন্ন ধৰণৰ ফিউজ আৰু ক্ষুদ্ৰ বৰ্তনী ছেদক\n(9/[0\"3-1[111180016 (\"11001{131981৫61) দেখুৱাবলৈ অনুৰোধ কৰা৷ সিহঁতৰ কাৰ্যনীতি কাৰিকৰজনৰ পৰা\n\nবুজি ল’বলৈ চেষ্টা কৰা। তলৰ ৱেবছাইটটোৰ পৰা আৰু অধিক শিকিব পাৰিবা৷\nঘ্াঘম,6121101001.112.11.09/8109921/1)]]%/9/01899/0]1000109/09 | 28.]100]]|\"\n\nতুমি জানিছিলানে? (1)}0] ৮00 10?)\n\nবিজুলী চাকিৰ উদ্ভাৱনৰ কৃতিত্ব সাধাৰণতে টমাছ আলভা\nএডিছন দিয়া হয় যদিওবা এইক্ষেত্ৰত আন বহুতেই তেওঁৰ\nপূৰ্বে কাম কৰিছিল। এডিছন এগৰাকী বিশিষ্ট ব্যক্তি আছিল।\nআৰু কাৰ্বনৰ প্ৰেৰক (]\"81)9111001)কৈ ধৰি প্রায় 1300\nযন্তু উদ্ভাৱন কৰিছিল। কাৰ্বন প্ৰেৰকৰ উদ্ভাৱনে টেলিফোনৰ\nউদ্ভাৱন ত্বৰাশ্বিত কৰি তুলিছিল।\n\nচিত্ৰ 14.27 টমাছ আলভা এডিছন\n(/*_.]). 1847-1931)\n\n143",
+  "confidence": {
+    "word_count": 139,
+    "mean": 78.32,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium-page-000187.png",
+  "page_image_sha256": "e5c6c1955aa734ffb0e9658d6684ae812875cb094d420f662e5c31f10f389fc0",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.576,
+  "page_elapsed_seconds": 2.895,
+  "peak_process_tree_rss_bytes": 168210432,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

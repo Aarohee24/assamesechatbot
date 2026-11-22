@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 215,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ২৫\n\nপ্ৰান্তীয় গোট আৰু গণতান্ত্রিক অধিকাৰ\n\nশিকনৰ ফলাফল ঃ\nপ্রান্তীয় গোট সম্পৰ্কে ধাৰণা লাভ কৰিব।\n\nবিভিন্ন প্রান্তীয় গোটসমূহৰ বিষয়ে অৱগত হ’ব।\nপ্রান্তীয় গোটসমূহৰ সমস্যাৰ বিষয়ে জানিব পাৰিব।\n\nপ্রান্তীয় গোটসমূহৰ গণতান্ত্ৰিক অধিকাৰসমূহ বুজি পাব।\n\nভাৰত এখন নানা জাতি-উপজাতি, বিভিন্ন ধৰ্ম, বৰ্ণ, ভাষা, সংস্কৃতিৰে পৰিপূৰ্ণ দেশ। দেশৰ শান্তি, সমৃদ্ধি\nআৰু সামগ্ৰিক বিকাশত এই বিভিন্ন জনগোষ্ঠীৰ লোকসকলৰ উমৈহতীয়া অৱদান অপৰিহাৰ্য।\nআমাৰ দেশক এখন সৰ্বোত্তম গণতান্ধ্রিক ৰাষ্ট্র হিচাপে প্রতিষ্ঠা কৰিবলৈ ভাৰতীয় সংবিধান দায়বদ্ধ । সংবিধানৰ\nদৃষ্টিত আমি সকলোৱে এক ভাৰতীয়। স্বাধীন ভাৰতত সকলো নাগৰিকে সংবিধান প্রদত্ত অধিকাৰসমূহ সমানে ভোগ\nকৰাৰ অধিকাৰ লাভ কৰিছে। ৰাষ্ট্ৰই দিয়া সুবিধাসমূহ দেশৰ সকলো নাগৰিকে সমানে ভোগ কৰিব পাৰিছে নে নাই\nতলৰ ছবি আৰু সংলাপৰ আলমত জানি লওঁ আহা--_\n\nভল &€ ৬&€গ ৬\n\nহেৰৌ ৰংপি,বতৰে এইবাৰ\nআমাক সহায় কৰিব যেন পাওঁ!                 এৰাআ’          {\nচিকাৰ ভঁৰাল ভৰিব লাগে।                      আশা কৰি আছে৷",
+  "confidence": {
+    "word_count": 131,
+    "mean": 89.94,
+    "median": 95.79,
+    "minimum": 3.49,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.187,
+  "page_elapsed_seconds": 3.9,
+  "peak_process_tree_rss_bytes": 230088704,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

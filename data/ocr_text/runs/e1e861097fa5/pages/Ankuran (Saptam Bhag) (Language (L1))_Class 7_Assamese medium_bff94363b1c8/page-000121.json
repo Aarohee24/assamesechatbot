@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 121,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫। খালী ঠাই পূৰ কৰা।\n(ক) লাগতিয়াল -=== যতনাই নল’লে কোনো কাম === কৰিব নোৱাৰি।\n(খ) এইবোৰ কামৰ যেনে ====- আহিলা আছে, ---=- কামৰো তেনে সুকীয়া\n\n=_-'-\"- আহে।\n\n(গ) বিদ্যাই ---= কাটি মন ফৰকাল নকৰিলে, মানুহে তাৰ =--= লগাবলৈ ঠাই\nদেখা নাপায়।\n\n(ঘ) ----= নহলে লিখন কাম কৰিব নোৱাৰি।\n\n(৬) বিদ্যাৰে মন ==== নল’লে সংসাৰত === কৰিবলৈ সুচল নহয়।\n\nখ--- ভাষা অধ্যয়ন ব্যোৱহাৰিক ব্যাকৰণ)\n\nজানো আহা\n\nকাপ নহ’লে লিখন কাম কৰিব নোৱাৰি\n\nচৰু নহ’লে ৰান্ধন কাম কৰিব নোৱাৰি।\nওপৰত উল্লেখ কৰা বাক্য দুটাত থকা ‘লিখন’ আৰু ‘ৰান্ধন’ শব্দ দুটাই কোনো কাৰ্যৰ\nবিষয়ে বুজাইছে। এইদৰে যি পদে ক্ৰিয়াৰ কাৰ্য বুজায় তাক ক্ৰিয়াবাচক বিশেষ্য বোলে।\n\n৬। তলৰ বাকচত থকা শব্দবোৰৰ পৰ৷ ক্ৰিয়াবাচক বিশেষ্য পদবোৰ বাছি উলিওৰা।\nপোহৰাই, খোৱা, ৰান্ধন, কথন, লিখন, শোৱা, দাৱন, পঢ়ন\n\nজানো আহা!\n\nখ্যাতি + মন্ত, বিদ্যা + ৱন্ত৷ এই ‘মন্ত’ আৰু ‘বৰন্ত’ প্রত্যায়ত্ত শব্দবোৰ ‘এওঁৰ\nএইটো আছে’ অৰ্থত ব্যৱহাৰ হয়। অসমীয়া ভাষাৰ তেনে কেইটামান শব্দ হ’ল-=_\nধনৱন্ত, শ্ৰীমন্ত, জ্ঞানৱন্ত ইত্যাদি।\n\n>>",
+  "confidence": {
+    "word_count": 153,
+    "mean": 85.51,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.439,
+  "page_elapsed_seconds": 2.66,
+  "peak_process_tree_rss_bytes": 286511104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

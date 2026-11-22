@@ -1,0 +1,62 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "যোৱাবেলি পূজাৰ সময়ত তেওঁলোকৰ অঞ্চলটোত এখন. বাণিজ্য-মেলা\nঅনুষ্ঠিত হৈছিল। অৰ্পিতাই সাজি থোৱা সামপ্জীবোৰ মেলালৈ,বিক্ৰী কৰিবৰ বাবে লৈ\nগৈছিল। এজন বেপাৰীয়ে তাইৰ সেই সকলোবোৰ বস্তু কিনি লৈছিল। তেওঁ অৰ্পিতাক\nইয়াতকৈয়ো অধিক সামগ্ৰী তৈয়াৰ কুৰিবলৈ পৰামৰ্শ দিছিল। অৰ্পিতাই সামগ্রীবোৰ\nবিক্ৰী কৰি পোৱা ধনেৰে আধুনিক’যন্ত্ৰ-সাতি কিনিলে। এই কামত সহায়ৰ বাবে তাই\nকেবাগৰাকী পাৰ্গত বাঢ়ৈয়ো নিয়ে৷গ কৰিলে।\n\n(ক্ৰিয়াকলাপ )\n\nৰ ১। আলোচনা কৰোঁ আৰু লিখোঁ আহা--\n(ক), জাপাৰকুছি ঠাইখন কোন জিলাত অৱস্থিত?\n(খ) জাপাৰকুছি কিয় বিখ্যাত?\n(গ) জাপাৰকুছিৰ লোকসকল কি কি কামত পাৰ্গত?\n(ঘ)< জাপি কিহেৰে সাজে?\n(৬) অৰ্পিতাৰ ককায়েকে সাজি উলিওৱা বাঁহৰ সঁজুলিবোৰ কি কৰে?\n(চ) তঅৰ্পিতাই অধিক সামগ্ৰী তৈয়াৰ কৰাৰ বাবে কি কৰিলে?\n\nৰ ২।  তলৰ প্ৰশ্নটোৰ শুদ্ধ উত্তৰটো বাছি উলিয়াই সঠিক 6 চিনটো পূৰ কৰা।\n৬ নলবাৰী জিলাৰ জাপি শিল্পৰ বাবে বিখ্যাত ঠাইখনৰ নাম হৈছে--\n\n(ক) মাখিবাহা         (গ) জাপাৰকুছি\n(খ) গন্ধিয়া          (ঘ) জাগ্রা     কে) ঞে গে) দ্ৰে)\nস্পন্দন ১ | তৃতীয় শ্রেণী",
+  "confidence": {
+    "word_count": 141,
+    "mean": 86.24,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Spandan-Part I-ClassIII-Assamese(L1)-page-000076.png",
+  "page_image_sha256": "f0521dfa486b1c23a0fd173521cf4cd13c9d4e92dbddcf29de53ac1a3b40e435",
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.539,
+  "page_elapsed_seconds": 4.537,
+  "peak_process_tree_rss_bytes": 143740928,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

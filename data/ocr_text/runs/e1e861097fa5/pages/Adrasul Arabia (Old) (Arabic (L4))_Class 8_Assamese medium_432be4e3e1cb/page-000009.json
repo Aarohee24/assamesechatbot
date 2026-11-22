@@ -1,0 +1,67 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 9,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শিক্ষক সকললৈ নিৰ্দেশনা\n\nশিক্ষক-শিক্ষয়িত্ৰীসকলে নতুন পাঠ্যপৃথিখনৰ বৈশিষ্ট্যৰ প্রতি লক্ষ্য ৰাখি ছাত্ৰ-ছাত্ৰীক\nপাৰ্যমানে আনন্দদায়ক ক্ৰিয়া কলাপৰ মাজেদি শিক্ষা প্ৰদান কৰিবলৈ তেখেতসকলক অনুৰোধ কৰা\nহ’ল। পাঠ্যপৃথিত থকা ক্ৰিয়া-কলাপ ছাত্ৰ-ছাত্ৰীৰ জ্ঞান বিকাশৰ বাবে পৰ্যাপ্ত বুলি বিবেচিত নহ’লে\nশিক্ষকে তেনে ধৰণৰ বেলেগ ক্ৰিয়া-কলাপৰ ব্যৱস্থা কৰি ল’ব। পাঠত থকা ব্যাকৰণৰ ক্ৰিয়া-কলাপ\nসমূহৰ অধিক অনুশীলন কৰাব। আনহাতে বিৰাম, লয় আৰু অন্যান্য যতি চিহ্নৰ প্ৰতি লক্ষ্য ৰাখি\nএক আদৰ্শ পঠনৰ সৈতে ছাত্ৰ-ছাত্ৰীক চিনাকি কৰাই দিব লগতে “জানিবলগীয়া” বুলি কোৱা\nকথাখিনি ভালদৰে বৃজি শিক্ষকে ছাত্ৰ-ছাত্ৰীসকলক স্পষ্টকৈ বুজাই দিব।\n\n7381 :1 ১)",
+  "confidence": {
+    "word_count": 83,
+    "mean": 85.87,
+    "median": 95.26,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 19 diacritics",
+        "Detected 19 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.339,
+  "page_elapsed_seconds": 2.568,
+  "peak_process_tree_rss_bytes": 1208963072,
+  "tesseract_warnings": [
+    "Detected 19 diacritics",
+    "Detected 19 diacritics"
+  ],
+  "processed_this_run": true
+}

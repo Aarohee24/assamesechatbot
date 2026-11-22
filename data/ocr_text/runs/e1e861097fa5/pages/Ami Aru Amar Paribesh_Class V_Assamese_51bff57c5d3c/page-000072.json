@@ -1,0 +1,62 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 72,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বানপানী যদিও প্ৰাকৃতিক দুৰ্যোগ, কেতিয়াবা ই মানৱসৃষ্টও হ’ব পাৰে।\nনৈৰ বান্ধ ভাঙি সৃষ্টি হোৱা বানপানী-\n\nনদীৰ পানীক বাধা দি নদীৰ বুকুত বান্ধ নিৰ্মাণ কৰা হয়। এই বান্ধৰ জৰিয়তে জলবিদ্যুৎ\nউৎপাদন, জলসিঞ্চনৰ ব্যৱস্থা, দূৰণিবটীয়া অঞ্চললৈ পানী যোগান আদি আঁচনি ৰূপায়ণ কৰা হয়।\nকেতিয়াবা দুৰ্ঘটনাবশতঃ নৈৰ বান্ধ ভাঙি নৈৰ দাঁতিকাষৰীয়া অঞ্চলত ভয়ানক বানপানীৰ সৃষ্টি\nহ'ব পাৰে।\n\nমথাউৰি চিঙি হোৰা বানপানী-\nবানপানীৰ পৰা পৰিত্ৰাণ পাবলৈ নদীৰ পাৰবোৰত মথাউৰি বন্ধা হয়। কেতিয়াবা এই মথাউৰি\nছিঙি দাঁতিকাষৰীয়া অঞ্চলত বানপানীৰ সৃষ্টি হয়।\n\nকৃত্ৰিম বানপানী-\n€ নগৰ-চহৰত এজাক ডাঙৰকৈ বৰষুণ আহিলেই বৰষুণৰ পানীয়ে জাবৰ-জোঁথৰবোৰ উটুৱাই\nনি নলা-নৰ্দমাত জমা কৰে। ফলত নলা-নৰ্দমাৰ পৰা বৰষুণৰ পানী ওলাই যাব নোৱাৰি কৃত্ৰিম\nবানপানীৰ সৃষ্টি কৰে।\nগু খাল-বিল আদি পুতি মানুহে বাস কৰিবলৈ লোৱাৰ ফলতো বৰষুণৰ পানী জমা হৈ থাকিবৰ\nবাবে জলাশয়ৰ অভাৱ হয়। ইয়াৰ ফলত এজাক ডাঙৰ বৰষুণ হ’লেই ঘৰ-দুৱাৰ, ৰাস্তা-ঘাট\nআদিপ্লাৱিত হয়।\nগু পাহাৰৰ গছ-গছনি কাটি পেলোৱাৰ ফলত পাহাৰৰ মাটি বৰষুণৰ লগত নামি আহি ভৈয়ামৰ\nনগৰ-চহৰৰ নলা৷-নৰ্দমা আদি পুতি পেলায়। ফলত পানী ওলাই যাব নোৱাৰি কৃত্রিম\nবানপানীৰ সৃষ্টি হয়।\nবানপানী নিয়ন্তৰণ কৰিবৰ বাবে চৰকাৰৰ জলসম্পদ বিভাগ এটা আছে। বিভাগটোৱে বান\nনিয়ন্ত্ৰণৰ বাবে বিভিন্ন কাৰ্যসূচী হাতত লয়। তাৰে কিছুমান হ’ল--- নদীত বান্ধ দিয়া, মথাউৰি বন্ধা,\nঅতিৰিক্ত পানী ওলাই যাবলৈ নলা৷-খাল আদি খন্দা, গৰাখহনীয়া ৰোধ কৰাৰ ব্যৱস্থা ইত্যাদি।\n\nচিন্তা কৰি লিখা-\n> কৃত্ৰিম বানপানী সৃষ্টি হোৱাৰ কাৰণবোৰকিকি?\n(৬২)",
+  "confidence": {
+    "word_count": 206,
+    "mean": 90.23,
+    "median": 95.64,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Ami Aru Amar Paribesh_Class V_Assamese-page-000072.png",
+  "page_image_sha256": "e9bdd86aabd3b9be2118fee6ef2b0e422e4951d7831c58dacc79dc62f3bfff5c",
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.015,
+  "page_elapsed_seconds": 3.269,
+  "peak_process_tree_rss_bytes": 151052288,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

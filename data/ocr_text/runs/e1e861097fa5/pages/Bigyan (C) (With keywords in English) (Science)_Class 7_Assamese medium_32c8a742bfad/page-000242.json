@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 242,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (]',%61\"€1969)\n\n1 ৷ খালী ঠাই পূৰ কৰা -\n(৪)পানী-শোধন(0:19800118 ০1.৪20) কৰাটো হৈছে------আঁতৰকৰণ প্রক্ৰিয়া।\n(৮০) ঘৰবোৰৰ পৰা ওলাই যোৱা বৰ্জিত পানীখিনিক-----বোলে।\n(০) শুকান ---ক সাৰ হিচাপে ব্যৱহাৰ কৰা হয়।\n(0) নৰ্দমাবোৰ----- আৰু------ দ্বাৰা বন্ধ হৈ পৰিব পাৰে।\n2) নলাৰে ওলাই যোৱা পূতিজল কি? নদী বা সাগৰলৈ পূতিজল উপচাৰ নকৰাকৈ এৰি দিয়াটো কিয়\nঅপকাৰী ব্যাখ্যা কৰা।\n3) তেল আৰু চৰ্বীজাতীয় সামগ্ৰী নৰ্দমাত এৰি দিয়াটো কিয় উচিত নহয়? ব্যাখ্যা কৰ৷ ।\n4) বৰ্জিত মলিয়ন পানীৰ পৰা নিৰ্মল পানী পোৱা স্তৰসমূহ বৰ্ণনা কৰা ।\n5) মলিয়ন বোকা গেদ কি? ইয়াক কেনেদৰে শোধিত কৰা হয়?\n6) “নিষ্পত্তিকৰণৰ কোনে ব্যবস্থা নোলোৱা মানুহৰ মল-মূত্ৰবোৰ স্বাস্থ্যৰ বাবে বিপদজনক!” ব্যাখ্যা\nকৰা।\n7) পানী বীজাণুমুক্ত কৰিবলৈ ব্যৱহাৰ কৰা দুটা ৰাসায়নিক দ্রব্যৰ নাম লিখা।\n8) মলিয়ন বৰ্জিত পানী উপচাৰ প্ৰকল্পত থকা প্ৰতিবন্ধক বেৰ কি? ব্যাখ্যা কৰা।\n9) অনাময় আৰু ৰোগৰ মাজত থকা সম্পৰ্কখিনি ব্যাখ্যা কৰা।\n10) এগৰাকী কাৰ্যক্ষম নাগৰিক হিচাপে অনাময় ব্যৱস্থাত তোমাৰ ভূমিকা কি? চমুকৈ লিখা।\n11) এইটো এটা শব্দ শৃংখলৰ লেখ £ (01\"09901\"0 )৷272]12)\n\nগে3\n\n//\n\nর্্।           ণ\n\nত\nত\nত\n\n228",
+  "confidence": {
+    "word_count": 164,
+    "mean": 85.83,
+    "median": 94.8,
+    "minimum": 9.66,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.502,
+  "page_elapsed_seconds": 2.763,
+  "peak_process_tree_rss_bytes": 258842624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

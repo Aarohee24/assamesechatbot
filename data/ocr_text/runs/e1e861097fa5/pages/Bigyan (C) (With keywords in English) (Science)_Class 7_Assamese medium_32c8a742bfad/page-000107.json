@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 107,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(9) তলত উল্লেখ কৰা উক্তিবোৰৰ কোনবোৰ শুদ্ধ ?\n(1) শীতলকালত বতাহ স্থলভাগৰ পৰা মহাসাগৰলৈ বয়।\n(}}) গ্ৰীষ্মকালত বতাহ স্থলভাগৰ পৰা মহাসাগৰলৈ বয়।\n({}}) এটা উচ্চচাপ অঞ্চল আৰু তাৰ চাৰিওফালে তীব্ৰ গতিৰে ঘূৰি থকা বায়ুস্ৰোতে ঘূৰ্ণিবতাহ সৃষ্টি কৰে।\n(1৮) ভাৰতৰ উপকূলবোৰ ঘূৰ্ণিবতাহপ্রৱণ নহয়।\nবিস্তাৰিত শিকন-- ক্ৰিয়াকলাপ আৰু প্ৰকল্প ([, (60060 [,6317]}116-- /॥৫110169 9110 1\"1\"0]6009)\n\n(1) তুমি এই পাঠতে থকা 8.5 ক্ৰিয়াকলাপটো ঘৰত অলপ বেলেগ ধৰণে কৰিব পাৰা। একে আকাৰৰ দুটা\nপ্লাষ্টিকৰ বটল লোৱা। দুয়োটা বটলৰ মুখত পূৰ্বৰ দৰে বেলুন লগোৱা ৷ এতিয়া এটা বটল ৰ'দত আনটো ছাঁত\nথোৌৱা। তোমাৰ নিৰীক্ষণবোৰ টুকি ৰাখা। এই নিৰীক্ষণবোৰ আৰু সিদ্ধান্ত 8.5 ক্ৰিয়াকলাপৰ নিৰীক্ষণ আৰু\nসিদ্ধান্তৰ লগত ৰিজোৱা।\n\n(2) তুমি নিজাকৈ এটা এনিম’মিটাৰ সাজি ল’ব পাৰা৷ তলৰ বস্তুবোৰ গোটাই লোৱা।\n\nকাগজৰ চাৰিটা কাপ (ব্যৱহাৰ হোৱা আইচক্ৰীমৰ কাপ) কাৰ্ডব’ৰ্ডৰ দুটা পটি (20 ছে:মি. দীঘল আৰু 2 ছেমি.\nপ্রস্থ), আঠা, ষ্টেপলাৰ, 1টা স্কেট্‌চ পেন আৰু এটা মূৰত ৰবৰ থকা জোঙা কাঠপেঞ্চিল। আৰু এডাল স্কেল\nলোৱা। কাৰ্ডবৰ্ডৰ পটিত 8.18 চিত্ৰত দেখুওৱাৰ দৰে পূৰণ চিন আঁকা।৷ ইয়াৰ পৰা পটিৰ কেন্দ্ৰ নিৰ্ণয় কৰিব\n\nটাব মুক\n\nচিত্ৰ 8.18 পটিৰ কেন্দ্ৰ নিৰ্ণয়ৰ পদ্ধতি\n\nচিত্ৰ 8.19 এনিম’মিটাৰ এটা আৰ্হি\n\nবতাহ, ধুমুহা আৰু ঘূৰ্ণিবতাহ                                      93",
+  "confidence": {
+    "word_count": 180,
+    "mean": 85.43,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.667,
+  "page_elapsed_seconds": 2.969,
+  "peak_process_tree_rss_bytes": 296120320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

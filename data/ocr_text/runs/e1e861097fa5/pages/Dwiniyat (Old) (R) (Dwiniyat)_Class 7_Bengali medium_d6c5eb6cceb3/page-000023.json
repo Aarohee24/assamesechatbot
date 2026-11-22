@@ -1,0 +1,63 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 23,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৮           দ্বীনিয়াত\nওজুর মোজ্ঞাহার সংক্ৰান্ত বিবিধ মোছলামালা\n\nপ্ৰ ঃ--ডানদিক হইতে অজু আরম্ভ করা সুন্নত না মজ্তাহাব?\n\nউ ঃ- এই সম্পৰ্কে মতভেদ আছে। কোন কোন আলেম চছুন্নত বলিয়া\n\nপ্ৰ ঃ-_ গরদনার উপর মুছেহ স্বরৱাপ কি?\n\nউ ঃ-- গনরদনার উপর উভয় হাতের অঙ্গুলিগুলির গিট দিয়া মুছেহ\nকরিতে হইবে, গলার উপর মুছেহ করা বেদাত।\n\nপ্ৰ £-- ওজুর মধ্যে আর কি কি শিষ্টাচারিতা আছে?\n\nউ £ঃ-- ওজুর আদব বা শিষ্টাচাপ্লিতা অনেক কিছু দৃষ্টান্ত শ্বন্নমপ (১)\nকনিষ্ঠ আঙ্গুলির অগ্ৰভাগ জলে সিক্ত করিয়া কাণের ছিদ্ৰ দিয়া ঢুকানো। (২)\nনামাজের সময় আসিবার পূৰ্বে ওজু কবরিয়া লওয়া (৩) অঙ্গু গুলীকে ধৌত\nকরার সময় হাত দ্বারা মৰ্দন করা (৪) হাতের আংটীকে নড়াচড়া করা (৫)\nওজু করার সময় সাংসাব্লিক কথাবাৰ্তা না বলা (৬) মুখ ধোত করার সময়\nস্ববেগে জল নিক্ষেপ না করা (৭) অঙ্গগুলি ধৌত করার সময় অধিক জল\nপ্ৰবাহিত না করা (৮) প্ৰত্যেক অঙ্গ ধৌত করার সময় বিছমিল্লা পড়া (৯)\nওজু করার সময় দুর্ুদ পাঠ করা (১০) ওজুর পর কলিমা শাহাদত পাঠ\nকরিয়া নিন্ন লিখিত দোয়া পাঠ করা---\n\nআল্লাহুমমাজ আলনিমিনাততাওয়াবিনা ওয়া আজআলনি মিনাল মুগাত্বাহ\nহিন্িন (১১) ওজুর অবশিষ্ট জল দারাইয়া পান করা (১২) ওজুর পর তাহ\nইয়াভুল ওজু নামক দুই রাকাত নামাজ পাঠ করা ইত্যাদি আরও অনেক কিছু।\n\nনাওয়াকিজে ওজু সত্ৰদান্ত বিবিধ মোছলামালা\n\nপ্র $-_ দেহ হইতে অপবিত্ৰ জিনিষ বাহির হইয়া কতটুকু প্ৰবাহিত হইলে\nওজু নষ্ট হয়?\n\nউ ঃ--কোন অপবিত্ৰ পদাৰ্থ বাহির হইয়া স্বীয় স্থান অতিক্ৰণ করিয়া\nএমন জায়গা পৰ্যন্ত প্ৰবাহিত হইলে যে জায়গা ওজু এবং গোছলের মধ্যে\nধৌত করা ফরজ সেইর্লপ জায়গায় সামান্য প্ৰবাহিত হইলেও ওজু নষ্ট হইয়া\nযায়।",
+  "confidence": {
+    "word_count": 241,
+    "mean": 83.51,
+    "median": 92.22,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium-page-000023.png",
+  "page_image_sha256": "5640ecd15b16a316540d5f4ae19c8980b2d4ce2c2e95de88e29b779f2daf2af2",
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.358,
+  "page_elapsed_seconds": 2.504,
+  "peak_process_tree_rss_bytes": 105066496,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

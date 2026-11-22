@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 117,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "=          খ) “কি ক’লা মোমাই তুমি? ভাগৰি পৰিল?\n\nতোমাৰ মুখত এনে কথাও সৰিল?\nজানানে মোমাই তুমি আজিৰ ক্ষণত,\nমোমাই ডাঙৰ নহয় দেশৰ আগত ৷”\n\n{8 ভাষা-অধ্যয়ন __)\n\nঠৰ ৩। পদ্যটিত পোৱা শব্দবোৰৰ অৰ্থ লিখোঁ আহা --\n\nঅনগল্‌? এ =======         বিয়াগোম ঃ --=_\"_-\nগড় ত] ‘সানি       ম্ফণ     ====----\n(গোঁনীতি = \"সলমস্স্্স্ন       ছিগিল.\n\nৰ ৪ | ক) পদ্যৰ ছন্দ মিলোৱা আৰু উচ্চাৰণ কোমল কৰাৰ বাবে কিছুমান শব্দ সৰল ৰূপত\n\nলিখা হয়। পদ্যটোত থকা এনে শব্দৰ সৰল ৰূপৰ লগত শব্দৰ:মূল ৰূপ মিলোৱা ---\n\nশঙ্কট কুকি বদতি\n\nগৰজি          বুদ্ধি\n\nশকতি          শত্ৰু\n\nবুধি           গৰ্জি\n\nপীৰিতি         স্বাধীন\n\nসোৱাধীন         শেষ\nগা ৰ           প্ৰীতি হি\n\nঠ খ) বাক্য ৰচনা কৰা -_\n\nততালিকে   ইজ এ ও ননভনানিনভনভছ্মননধিনিনিমনধনভধিকনধধঁ\nলালকাল   ঠ// কননভছসনমমসমভনভনননন্ভনভনভধ্ভধধভভমী|\nলিনিললীই৷* '$, হাতে\nতাহানিৰ   ৰ} {এ 555৯১899১9১93955555555১১১১১৬১৷",
+  "confidence": {
+    "word_count": 50,
+    "mean": 67.13,
+    "median": 91.94,
+    "minimum": 0.0,
+    "maximum": 96.7
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.51,
+  "page_elapsed_seconds": 4.317,
+  "peak_process_tree_rss_bytes": 223526912,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

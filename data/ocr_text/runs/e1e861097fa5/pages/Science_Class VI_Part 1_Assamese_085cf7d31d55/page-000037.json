@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গছবোৰৰ পাতৰ গঠন বেলেগ বেলেগ, সকলো গছতে ফুল নুফুলে। প্রাণীবোৰৰ\nকিছুমান মাটিত বগাই যায়, আন কিছুমানে ঠেঙৰ সহায়ত দৌৰে বা খোজ কাঢ়ে। চৰাইবোৰে\nডেউকাৰ সহায়ত উৰে।\n\nতুমি কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানলৈ গৈছানে? উদ্যানখনত উদ্ভিদৰ লগতে বহুধৰণৰ প্রাণী\nদেখা পাবা। এশিঙীয়া গঁড়, দল-হৰিণা, বনৰীয়া ম’হ, বাঘ, বনৰীয়া হাতী, বান্দৰ আদি জন্তু\nদেখা পাবা৷ কণামুচৰি, ভাটৌ, বগলী, ডাউক, ধনেশ, হাড়গিলা,বৰটোকোলা আদি চৰাইবোৰে\nউদ্যানখন আকৰ্ষণীয় কৰি ৰাখিছে। কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানত অজগৰৰ দৰে ডাঙৰ সাপ\nআছে। নানান প্রাণী আৰু উদ্ভিদেৰে উদ্যানখন ভৰি আছে। এই প্রাণীবোৰ কাজিৰঙা ৰাষ্ট্ৰীয়\nউদ্যানৰ জৈৱ-বৈচিত্ৰ্য।\n\n(৪) দল-হৰিণা\n\nচিত্র 2.2; কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানত পোৱা কেইবিধমান জন্তু\n\nআমাৰ চাৰিওফালে সাধাৰণতে দেখা পোৱা কাউৰী, শালিকা, ঘনচিৰিকা, বগলী\nআদি চৰাইবোৰো পৰিৱেশৰ এক উপাদান। কেৰ্কেটুৱা, কোক্‌লোঙা, নাইপিয়া আদি\nবগাই যোৱা প্লাণীবোৰো পৰিৱেশৰ বাবে প্রয়োজন। আমাৰ চৌপাশে থকা হাবি-জংঘল\nএনেবোৰ প্রাণীৰ থকা ঠাই৷ ইহঁতে পৰিৱেশৰ ভাৰসাম্যতা বজায় ৰাখে।\n\nআমি সেইবাবে হাবি-জংঘলবোৰ ধ্বংস কৰিব নালাগে। এনে কৰিলে প্ৰাণীবোৰৰ খাদ্য\nআৰু থকা ঠাইৰ অভাৱ হয়। সেইকাৰণে কিছুমান প্রাণী লাহে লাহে নোহোৱা হ’বলৈ ধৰিছে।\nগছ-বন ধ্বংস কৰিলে পৰিৱেশ নষ্ট হয়।\n\nভ্্ডতেওতততততত তত তত তত ০০০০০ ০০০০০ ০০০০০ ০০০,০০০ ০০,ৰঃ)",
+  "confidence": {
+    "word_count": 171,
+    "mean": 87.56,
+    "median": 95.53,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.544,
+  "page_elapsed_seconds": 4.065,
+  "peak_process_tree_rss_bytes": 362684416,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 124,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ ১৪.১ £ পথৰ মেৰামতি\n\nচিত্ৰ ১৪.১ লৈ মন কৰা। কি দেখিছ৷| বাৰু? ইয়াত কেইজনমান মানুহে পথ এটা মেৰামতি কৰি আছে।\nএতিয়া চিত্ৰ ১৪.২ লৈ চোৱা। কেতিয়াবা চহৰলৈ যাওঁতে এনেদৰে নলা-নৰ্দমাবোৰ পৰিস্কাৰ কৰি থকা মন\n\nচিত্ৰ ১৪.২ ঃ নগৰৰ চাফাই অভিযান\n\nকৰিছানে? এনেবোৰ কাম বাৰু কোনে পৰিচালনা কৰে ?\n\nশাসন বা পৰিচালনাৰ সুবিধাৰ্থে আমাৰ দেশৰ প্ৰশাসন ব্যৱস্থাক বিভিন্ন স্তৰ বা পৰ্যায়ত ভাগ কৰা হৈছে।\n\nএই স্তৰসমূহৰ বিষয়ে তোমালোকে আগৰ পাঠত পঢ়ি আহিছা ৷\n\n১৪.১ স্থানীয় স্বায়ত্তপীসন কি?\n\nপ্ৰতিখন ঠাইৰে অঞ্চলভিত্তিক কিছুমান নিজা নিজা সমস্যা থাকে। এইবোৰ স্থানীয়ভাৱে সমাধান কৰিবৰ\nবাবে যি বিশেষ ধৰণৰ শাসন ব্যৱস্থা থাকে, তাকে স্থানীয় স্বায়ত্তশাসন ([.0081 811 00%ণ117}2৷৷) ব্যবস্থা বুলি\nকোৱা হয়। তদুপৰি ভাৰতৰ সকলো অঞ্চলৰ প্রতিজন লোকেই যে চৰকাৰৰ অংশ, তাকো এই ব্যৱস্থাৰ জৰিয়তে\n\nনিশ্চিত কৰিব পাৰি।\n\nআমাৰ দেশত গাঁও আৰু নগৰৰ বাবে সুকীয়া স্বায়ত্তশাসন ব্যৱস্থা আছে। তলত দিয়া ধাৰণা চিত্ৰ\n\nখনলৈ মন কৰা--\n\nস্থানীয় স্বায়ত্তশীসন\n|\n\nগাঁও অঞ্চলৰ স্থানীয় স্বায়ত্তশাসন\n\nনগৰ অঞ্চলৰ স্থানীয় স্বায়ত্তশাসন\n\nগাও              আঞ্চলিক\nপঞ্চায়ত                 পঞ্চায়ত\n\nজিলা           নগৰ             পোৰসভা            পোৰ\nপৰিষদ          সমিতি                                 নিগম",
+  "confidence": {
+    "word_count": 161,
+    "mean": 89.36,
+    "median": 95.61,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.071,
+  "page_elapsed_seconds": 3.443,
+  "peak_process_tree_rss_bytes": 286912512,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

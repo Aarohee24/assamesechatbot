@@ -1,0 +1,67 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 129,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "4.2.4 চুম্বকৰ আকৰ্ষণ আৰু বিকৰ্ষণ\n[] ক্ৰিয়া-কলাপ 4.8:\n\nচুম্বকৰ সৈতে আৰু এটা খেল খেলোঁ আহা। চকাযুক্ত দুখন পুতলা গাড়ী লোৱা।\nএখন গাড়ী ‘/%’ আৰু দ্বিতীয় গাড়ীখনক 13’ বুলি ধৰি লোৱা। দুয়োখন গাড়ীৰ ওপৰতে\nএডালকৈ দণ্ড চুম্বক বান্ধি লোৱা। প্রথমে ‘%’ গাড়ীখনৰ চুম্বক ডালৰ দক্ষিণ মেৰু\nসন্মুখৰ ফালে আৰু 13’ গাড়ীখনৰ চুম্বকডালৰ উত্তৰ মেৰু সন্মুখৰ ফালে ৰাখি গাড়ী দুখন\nপৰস্পৰৰ ওচৰ চপাই আনা। কি ঘটে পৰ্যৱেক্ষণ কৰা।\n\nতাৰ পিছত ‘/*’ গাড়ীখনৰ পিছৰ অংশ 13’ গাড়ীখনৰ সন্মুখৰফালে ৰাখি পৰ্যবেক্ষণ\nকৰা। গাড়ীদুখনৰ গতিৰ কিবা পৰিৱৰ্তন ঘটিছে নেকি?\n\n<্ক-=*.\n\n(৫) দণ্ড চু হবকৰ সৈতে দুখন     (0) বিপৰীত মেৰু (4 গাড়ীৰ ৪ মেৰঃ ৪ গাড়ীৰ ৷\nপুতলা গাড়া                 মেৰ) ওচৰ চপাই অনা হৈছে\n(ৰ্প্ৰ ৫1)\n\n-কুহণ\n\n(৫) একেজঙ্গাতীয় মেৰ (4 গাড়ীৰ ৷ঘ মেৰ আৰু ৪ গাড়াৰ ৷খ মেৰ)\nওচৰ চপাই অনা হৈছে\n\nচিত্ৰ 4.15 : চুম্বকৰ আকযণ আৰু বিকযণ ধমৰ পৰীক্ষা\n\nক্ৰিয়া-কলাপটোৰ প্রথম অংশত ‘/%’ গাড়ীখনত থকা চুম্বকৰ দক্ষিণ মেৰুৰ ওচৰলৈ 13’\nগাড়ীখনৰ উত্তৰ মেৰুলৈ অনা বাবে গাড়ীদুখন ওচৰ চাপি আহিছে। আনহাতে পিছৰবাৰ ‘/%’\nগাড়ীখনৰ উত্তৰ মেৰু 13’ গাড়ীখনৰ উত্তৰ মেৰুৰ ওচৰলৈ আনৌতে ইখন গাড়ী সিখনৰ পৰা\nআঁতৰি যাব খুজিছে।\n\nভ্মম্ডতেওঁততত তত তত তত তত তত ০০০ ত ০০০০ত, ০০,০০০, ০০০,মুক)",
+  "confidence": {
+    "word_count": 188,
+    "mean": 77.05,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 3 diacritics",
+        "Detected 3 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.192,
+  "page_elapsed_seconds": 3.573,
+  "peak_process_tree_rss_bytes": 268292096,
+  "tesseract_warnings": [
+    "Detected 3 diacritics",
+    "Detected 3 diacritics"
+  ],
+  "processed_this_run": true
+}

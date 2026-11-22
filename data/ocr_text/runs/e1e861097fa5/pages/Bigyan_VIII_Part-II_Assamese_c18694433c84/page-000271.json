@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 271,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কৃত্ৰিম উপগ্ৰহ\n\nতোমালোকে নিশ্চয় শুনিছা যে বহু সংখ্যক কৃত্ৰিম\nউপগ্ৰহই পৃথিবীৰ চাৰিওফালে পৰিভ্ৰমণ কৰি আছে।\nতোমালোকে কৃত্ৰিম উপগ্ৰহ আৰু প্ৰাকৃতিক উপগ্ৰহৰ\nমাজৰ পাৰ্থক্যৰ বিষয়ে নিশ্চয় জানিব বিচৰা। কৃত্ৰিম\nউপগ্ৰহবোৰ মানৱ-সৃষ্ট। সিহঁতক পৃথিৱীৰ পৰা\nউৎক্ষেপণ কৰা হয়। সিহঁতে পৃথিৱীৰ প্রাকৃতিক উপগ্ৰহ\nচন্দ্ৰতকৈ বহু ওচৰেৰে পৃথিৱীৰ চাৰিওফালে পৰিভ্ৰমণ\n\nকৰে।\n\nভাৰতে কেইবাটাও কৃত্ৰিম উপগ্ৰহ প্রস্তুত আৰু\nউৎক্ষেপণ কৰিছে। ভাৰতৰ প্রথম কৃত্ৰিম উপগ্ৰহটো\n\nআছিল আৰ্যভট্ট। ইনছাট, আই আৰ এছ, কল্পনা-1,\nএডুছেট্‌ ইত্যাদিও ভাৰতীয় উপগ্ৰহ (চিত্ৰ-18.28)।\nকৃত্ৰিম উপগ্ৰহসমূহৰ বহুতো ব্যাৱহাৰিক\nপ্রয়োগ আছে। ইহঁতক বতৰৰ আগজাননী দিয়াৰ\nবাবে আৰু দূৰদৰ্শন আৰু অৰ্নাতাৰ তৰংগ প্রৰেৰণৰ\nবাবে ব্যৱহাৰ কৰা হয়। কৃত্ৰিম উপগ্রৰহসমূহক দূৰ\nসংযোগ আৰু দূৰ সংবেদনৰ বাবেও ব্যৱহাৰ কৰা হয়।\n\nমই তোমালোকক ক’ব বিচাৰোঁ\nদূৰ সংবেদন মানে আঁতৰৰ পৰা৷ তথ্য\nসংগ্ৰহ কৰা।\n\nচিত্ৰ 18.28 : কিছুমান ভাৰতীয় উপগ্ৰহ\n\nতৰা আৰু সৌৰজগত /৪71/%1২5 &খা) []]]}; 901.41২ ৪৮97]\n\n256:",
+  "confidence": {
+    "word_count": 130,
+    "mean": 86.7,
+    "median": 93.3,
+    "minimum": 16.95,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.568,
+  "page_elapsed_seconds": 2.875,
+  "peak_process_tree_rss_bytes": 235999232,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 56,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শিক্ষক      ৪ ইচ্‌, এইবোৰ বৰ বেয়া কথা। বেমাৰ হ’লে সময়মতে চিকিৎসা কৰাব লাগে।\nডা’ পেণ্ড     ঃ যিয়েই নহওক, এতিয়া মই প্রয়োজনীয় ওষধ-পাতি লিখি দিছোঁ।\n\nছোৱালীজনীৰ অভিভাৱকক বিতংভাৱে জনাব। চাব, যাতে হিতে বিপৰীত\nনহয়।\n\nপ্ৰধান শিক্ষয়িত্ৰী হ’ব, ডা” পেণ্ড। আপোনাক অশেষ ধন্যবাদ (মালতীহঁতলৈ লক্ষ্য কৰি)\n\nমালতী, তোমালোকে বুজিলানে?\n\nক-- পাঠভিত্তিক জ্ৰিয়া      (সকলোৰে প্ৰস্থান)\n\nত্ৰিয়া-কলাপ\n\n১।\n\n২।\n৩।\n\n8।\n\n৫।\n\nঙ৬।\n\nনাটিকাখনিৰ কথাখিনি কাহিনী আকাৰে কোৱা।\n\nনাটিকা৷খনিৰ সংলাপবোৰ অভিনয়ৰ যোগেদি শ্ৰেণীত উপস্থাপন কৰা।\n\nউত্তৰ দিয়া।\n\n(ক) হুনমিলি, শৈলহঁতে কিয় বকুল ফুল বুটলিছিল?\n\n(খ) ‘চোৱাচোন! ফুলবোৰ কিমান সতেজ আৰু জীপাল !'__ কথাষাৰি কোনে কাক\nকৈছিল?\n\n(গে) সাংস্কৃতিক অনুষ্ঠানৰ আৰম্ভণেত কোনটো গীত গাইছিল?\n\n(ঘ) নাচি থাকৌতে কোন মূৰ্চ্ছা গৈছিল?\n\n(৬) শৈলবালাই ভুগি থকা বেমাৰটোৰ নাম কি?\n\n(চ) ‘সময়ৰ টিকনিডাল হেনো আগফালে উৰে’-_ এই বাক্যশাৰী কোনে, কি প্ৰসংগত\nকৈছিল?\n\nপ্রসংগ-সংগতি দৰ্শাই ব্যাখ্যা কৰা।\n\n‘কু-সংস্কাৰ আৰু লোক নিন্দাৰ ভয়ত অনেক লোকে সন্তানৰ বেমাৰ লুকুৱাই ৰাখে।\n\nসময়ত ই হয়গৈ সৰ্বনাশৰ মূল।\n\nমালতীয়ে শৈলবালাক চেণ্ডেল শুঙাবলৈ উদ্যত হওঁতে প্ৰধান শিক্ষয়িত্জীয়ে কি বুলি\n\nবাধা দিছিল?\n\nদলত আলোচনা কৰি লিখা।\n\nউপযুক্ত সময়ত বেমাৰৰ চিকিৎসা নকৰিলে পৰিণাম কি হ’ব পাৰে?",
+  "confidence": {
+    "word_count": 169,
+    "mean": 87.72,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.702,
+  "page_elapsed_seconds": 2.94,
+  "peak_process_tree_rss_bytes": 300077056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

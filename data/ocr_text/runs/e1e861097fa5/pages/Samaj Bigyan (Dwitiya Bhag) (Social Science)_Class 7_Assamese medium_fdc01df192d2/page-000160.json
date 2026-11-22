@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 160,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "২।\n\n৩।\n\n৪|\n\n৫।\nঙ।\n\nশুদ্ধ উত্তৰ বাছি উলিওৱা---\n\n(ক) ফতেহপুৰ চিক্ৰীৰ অট্টালিকা নিৰ্মাণ কৰিছিল জাহাংগীৰে/আকবৰে/বাবৰে।\n\n(খ) তাজমহল নিৰ্মাণ কৰা হৈছিল ৰঙা শিলৰ গুৰিৰে/শুধ বগা মাৰ্বলেৰে/ইটা-চিমেণ্টেৰে।\n\n(গ) অসমৰ ভক্তি আন্দোলনৰ গুৰি ধৰোতা আছিল ৰমানন্দ/গুৰু নানক/শংকৰদেৱ।\n\n(ঘ) মোগল চিত্ৰশিল্পই চৰম উৎকৰ্ষ সাধন কৰিছিল জাহাংগীৰৰ/ছাহজাহানৰ/ওঁৰংগজেৱৰ শাসন কালত।\n(৬) তুকী ভাষাৰ ‘তুজুক-ই-বাবৰী’ নামৰ আত্মজীৱনীখনৰ ৰচক আছিল বাবৰ/আকবৰ/হুমায়ুন\n\nখালি ঠাই পূৰ কৰা---\n\n(ক) পণিপতৰ কাবুলবাগ আৰু চম্বলৰ ___ _ বাবৰে নিৰ্মাণ কৰিছিল।\n(খ)    ৰ শাসন কালক মোগল স্থাপত্য শিল্পৰ স্বৰ্ণযুগ বুলি জনা যায়।\n(গ) জাহাংগীৰৰ দিনত      শিল্পৰ চৰম বিকাশ হৈছিল।\n\n(ঘ) আকবৰৰ দিনত প্রকাশ পোৱা অভিধানখনৰ নাম____।\n\n(ঙ৬) অসমৰ বৈষ্ণৱ আন্দোলনৰ ধাৰাটোৰ মুখ্য প্রৱৰ্তক আছিল _ ।\n৫০ টা মান শব্দৰ ভিতৰত উত্তৰ লিখা--\n\n(ক) এজন চিত্ৰকৰ আৰু সমালোচক হিচাপে জাহাংগীৰে ভাৰতীয় চিত্ৰকলাৰ কেনেদৰে পৃষ্ঠপোষকতা কৰিছিল?\n(খ) মোগলযুগৰ স্থাপত্য, কলা-সংস্কৃতিলৈ ছাহজাহানৰ অৱদান\n\n(গ) আকবৰৰ ধৰ্ম নীতিয়ে মোগলযুগক কেনেদৰে প্রভাৱিত কৰিছিল?\n(ঘ) মোগলযুগৰ কেইগৰাকীমান উল্লেখযোগ্য মহিলাৰ নাম লিখা।\nমোগলযুগৰ ভাৰতৰ স্থাপত্যসমূহৰ চিত্ৰ সংগ্ৰহ কৰি এটি এলবাম প্রস্তুত কৰা\nতলত দিয়া ছবিবোৰৰ ওপৰত তোমাৰ নিজৰ বহীত দহোটাকৈ বাক্য লিখা--\n\nকামখ্যামন্দিৰ                হুমায়ুনৰ সমাধি       কুতুবমিনাৰ             মুদ্ৰা\n\nচি ==        ঢ়    তন্ভ     ভড1।\n\nয়   ঢ       ঃ    ১৮\nন\n\nক+++++ক",
+  "confidence": {
+    "word_count": 179,
+    "mean": 85.39,
+    "median": 93.28,
+    "minimum": 7.69,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.899,
+  "page_elapsed_seconds": 4.447,
+  "peak_process_tree_rss_bytes": 239489024,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

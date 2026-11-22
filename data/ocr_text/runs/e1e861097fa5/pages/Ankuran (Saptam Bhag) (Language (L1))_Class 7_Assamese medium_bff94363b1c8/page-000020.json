@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা শব্দ       অর্থ\nচহকী  --  ধনী\nদেখনিয়াৰ --=  সুঠাম আৰু দেখিবলৈ ধুনীয়া\nবনকৰা ==  বেজিৰে গুণাৰ ফুল তুলি শোভিত কৰা\nৰূপান্তৰিত -=  গঢ় বা আকাৰ সলনি হোৱা\nপেৰা   =  ধন-বস্তু সুমুৱাই থোৱা সচীৰ লগোৱা বা\nনলগোৱা কাঠৰ বাকচ\nজক্‌মকীয়া -=  নানা ৰঙৰ জিলিকনি থকা, চকমক কৰা\nপ্রচলিত ===  চলি থকা\nসুশোভিত -=  সুসজ্জিত, অতি শোভাযুক্ত\nসৰহ   =  অধিক, বহুত, অনেক\n১। পাঠটো শুদ্ধ উচ্চাৰণ আৰু যতি, বিৰাম চিহ্নসমূহৰ প্রতি লক্ষ্য ৰাখি কেইবাবাৰো\nপঢ়া আৰু সাধুটো নিজৰ কথাৰে কোৱা।\n২। উত্তৰ দিয়া।\n\n(ক) চহকী মানুহজন কোন দেশৰ আছিল?\n\n(খ) চহকী মানুহজনৰ ছোৱালীজনীৰ কাৰ লগত বিয়া হৈছিল?\n\n(গ) ছোৱালীজনীক আন আন সম্পত্তিৰ লগতে আৰু কি দিয়া হৈছিল?\n(ঘ) কালিকালগা কাপোৰখন দিওঁতে দেউতাকে কি কৈছিল?\n\n(৬) আচিক সম্প্ৰদায়ত সম্পত্তিৰ উত্তৰাধিকাৰী কোন?\n\n(চ) ছোৱালীজনীয়ে কাপোৰখন ৰ’দত মেলি দি ক’লৈ গৈছিল?\n\n(ছ) কাপোৰখন চুই দিয়াৰ লগে লগে গিৰিয়েকজন কিহলৈ ৰূপান্তৰিত হ’ল?\n\nঞ্= বাতৰিকাকতৰ শিশ-চ’ৰা, শিঙ-আ৷লোচনী আদিৰ পৰা সাধু, কাহিনী আদি শ্ৰেণীকোঠাত পঢ়াৰ সুযোগ দিব।\n\n= আন আন ভাষাৰ অনুবাদ কৰা সাধু শুনোৱাব ।\n\n9",
+  "confidence": {
+    "word_count": 160,
+    "mean": 89.29,
+    "median": 95.81,
+    "minimum": 5.29,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.528,
+  "page_elapsed_seconds": 2.761,
+  "peak_process_tree_rss_bytes": 290058240,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

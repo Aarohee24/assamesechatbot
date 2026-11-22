@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 94,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গছ ভালপোৱা ককাৰ খং\n\nগছ-গছনিয়ে প্ৰাকৃতিক ভাৰসাম্য ৰক্ষা কৰে। জধে-মধে গছ-গছনি কাটি তহিলং কৰিলে আমাৰ পৰিৱেশ\nবিনষ্ট হ’ব। গছ-গছনি অবিহনে পৃথিৱীত মানুহ নাইবা অন্য প্রাণী জীয়াই থকা অসভৱ। গতিকে গছ-গছনি\nৰোৱা আৰু তাৰ যত্ন লোৱা আমাৰ সকলোৰে এক মহান কৰতৰ্ব্য। গছ-গছনি নথকা এটি পৰিৱেশৰ কথা\n\nকর্পনা কৰি চোৱাচোন! তেনেকুৱা এটি অৱস্থাত আমাৰ কি কি অসুবিধা হ’ব ? গছ-গছনি ভালপোৱা ককা\nএজনৰ মনৰ কথা তোমালোকে এই পাঠটিত পাবাহঁক ৷\n\n৩\n\nতুমি মোক পুতেৰাৰ            ৰ\n\nএকোকে নাখাওঁ ।\n+ কবিতাটো কেইবাবাৰো আবৃত্তি কৰি শুনাব।",
+  "confidence": {
+    "word_count": 82,
+    "mean": 86.16,
+    "median": 94.52,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.15,
+  "page_elapsed_seconds": 2.585,
+  "peak_process_tree_rss_bytes": 287555584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

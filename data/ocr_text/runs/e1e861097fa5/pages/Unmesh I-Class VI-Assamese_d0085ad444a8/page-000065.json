@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুসন্ধিৎসু                     পূৰ্বৰপৰা চলি অহা নীতি\nস্বাস্থ্যসন্মত                      কৌতূহলী\nপৰম্পৰা                      যুক্তি থকা\nপ্ৰজ্ঞা                           পাবলৈ টান\n\nঞ্জ আমি ৰাশিফল চাই দৈনন্দিন কাম কিয় কৰিব নালাগে?\n(ক) ই সৰু কথা হোৱাৰ বাবে\n(খ) ই আমাৰ পৰম্পৰা নোহোৱাৰ বাবে\n(গ) ইয়াৰ বৈজ্ঞানিক ভিত্তি নথকাৰ বাবে\n(ঘ) আমি শিক্ষা-দীক্ষমণত পিছ পৰি থকাৰ বাবে   কে) থখে) গে) ঘৈ)\n২। তুমি ওপৰৰ দ্বিতীয় প্রশ্নৰ উত্তৰটো কিয় শুদ্ধ বুলি বাছি ল’লা ? সহপাঠীৰ লগত আলোচনা\nকৰি কোৱা।\nও ‘ক’অংশৰ শব্দবোৰৰ লগত ‘খ’ অংশৰ অৰ্থবোৰ মিলোৰা--\n\nযুক্তিনিষ্ঠ            তীক্ষু বুদ্ধি, তত্ব-জ্ঞান\n\nবিৰল             এটাৰ সলনি আন এটা\n\nঠৰ ৪ । তলত দিয়া প্ৰশ্নবে৷ৰৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) বৈজ্ঞানিক মন আৰু মানসিকতা বুলিলে কি বুজা?\n\nবিকল্প             স্বাস্থ্যকৰ\n(খ) আমাৰ সমাজত এতিয়াও কিছুমান অবৈজ্ঞানিক ক্ৰিয়া-কলাপ প্রচলিত হৈ\n\nথকাৰ কাৰণ কি?\n(গ) ভাল দিন-বাৰ চাই কাম কৰাৰ যুক্তিযুক্ততা আছেনে?\n(ঘ) ছাত্ৰ-ছাত্ৰীসকলৰ মনত বৈজ্ঞানিক মানসিকতাৰ বীজ কিয় ৰোপণ কৰা উচিত?\n(৬) অতীজত আমাৰ সমাজত অসুখ-বিসুখ হ’লে তেনে ব্যক্তিক কাৰ ওচৰলৈ\nনিয়াৰ প্ৰথা আছিল?\n\n// ৫। তলত দিয়া প্রশ্নকেইটাৰ উত্তৰ আলোচনা কৰি কোৱা আৰু লিখা।\n(ক) বাহিৰত ফুৰি-চাকি অহা কাপোৰ-কানিৰে পাকঘৰত সোমাবলৈ নিদিয়াৰ",
+  "confidence": {
+    "word_count": 167,
+    "mean": 88.24,
+    "median": 95.91,
+    "minimum": 16.22,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.884,
+  "page_elapsed_seconds": 3.424,
+  "peak_process_tree_rss_bytes": 287686656,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

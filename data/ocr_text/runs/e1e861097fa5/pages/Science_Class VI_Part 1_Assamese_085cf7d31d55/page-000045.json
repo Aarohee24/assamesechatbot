@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমি সিৰা বিন্যাসৰ ওপৰত ভিত্তি কৰি উদ্ভিদক পৃথক গোটত ভগাব পাৰো নেকি?\n\n[] ক্ৰিয়াকলাপ 2.6:\n\n$ শাক-বন থকা এডোখৰ ঠাই বিচাৰি লোৱা।\n\n₹ এখন খন্তিৰে সাবধানে কেইজোপামান শাক-বনৰ পুলি শিপাৰে সৈতে উভালি\nলোৱা, মন কৰিবা যাতে শিপাবোৰ নষ্ট নহয়।\n\n*₹ শিপাবোৰ পানীৰে ধুই পৰিষ্কাৰ কৰি লোৱা।\n\n৫ শিপাৰ গঠন লক্ষ্য কৰা।\n\nতুমি মন কৰিলে দেখিবা যে কিছুমান উদ্ভিদৰ এডাল মূল শিপা থাকে। এই শিপাডালৰ\n\nপৰা কিছুমান শাখা শিপা ওলায়। শিপাৰ এনে ধৰণৰ সাজোনক মুখ্যমূল গাঁথনি বোলে।\n\nজবা ফুলৰ শিপা এনে ধৰণৰ । ঘাঁহৰ দৰে উদ্ভিদৰ কাণ্ডৰ গুৰিৰ পৰা একোছা শিপা ওলায়।\n\nএনে ধৰণৰ শিপাক গুচ্ছমূল বোলে। জালৰ দৰে সিৰাবিন্যাস থকা গছৰ শিপা মুখ্যমূল\n\nজাতীয়। সমান্তৰাল সিৰাবিন্যাস থকা ঘাঁহৰ দৰে উদ্ভিদৰ শিপা গুচ্ছমূল জাতীয়।\n\n(8) ওচ্ছযূল\n\nচিত্ৰ 2.5 : মূলৰ প্রকাৰ\n\nধান, ঘেঁহু, মাকৈ আদি গছৰ পাতৰ সিৰাবিন্যাস সমান্তৰাল ৷ এনে উদ্ভিদৰ শিপা গুচ্ছমূল\nজাতীয়। গোলাপ, মধুৰিআম, আঁহতৰ দৰে গছবোৰৰ পাতৰ সিৰাবিন্যাস জালৰ দৰে। এই\nধৰণৰ গছৰ শিপা মুখ্যমূল জাতীয়।\n\nআমি পাতৰ সিৰাবিন্যাস আৰু শিপাৰ গঠনৰ বিষয়ে আলোচনা কৰিলোঁ ৷ এতিয়া আন\nএটা কাম কৰি চাওঁ আহা।\n[] কভির়াবকলাপ 2.7 :\n*$ দুটা বাটিত পানী লৈ ক্ৰমে বুটমাহ আৰু মাকৈৰ বীজ কেইটামান এৰাতি তিয়াই\n\nথোৱা।\nঞ পাছদিনা এখন সেমেকা কাপোৰ বা সেমেকা খবৰ কাগজেৰে গুটি কেইটা মেৰিয়াই থোৱা।\n\nধ$ বীজ/গুটি কেইটা 6-7 ঘন্টা এনেদৰে থোৱা।\n\nভল্ত্তেচিনচনচচনচচচচচচনচনচনচচচচচচচচচঁনঠ্ৰেঃ)",
+  "confidence": {
+    "word_count": 207,
+    "mean": 87.39,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.324,
+  "page_elapsed_seconds": 3.699,
+  "peak_process_tree_rss_bytes": 369602560,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

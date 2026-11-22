@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 117,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "টী তলৰ শব্দবোৰৰ বিপৰীত অৰ্থ বুজোৱা শব্দ লিখা।\n==-- সত্য নিজৰ জমা আত্মীয় নিকা\nগ-- জ্ঞান সম্প্ৰসাৰণ\n\n৫21, তোমাৰ মনটো ভালে ৰাখিবলৈ কি কি কাম কৰিবা দলত আলোচনা কৰি লিখা।\n\nভাঙিব লাগিব                এ [গল\n\nতই ভাঙিব লাগিব শিল: *___,\nনোৱাৰোঁ বুলিলে নহ’ব যে ভাই.\n\n|          ॥৬৮৫ ‘৪ ২22\nন্ছ্=         ৷\" “শীৰি-ল\n\n৷\" কলিজাকণিও পৰিব ভাগৰি,\nতেহে খুলি যাব খিল।\nপৰি মৰি উঠি কোবাব লাগিব,\nতেহে পাষাণৰ বক্ষ ভেদিব,\nতেহে সুৰধুনী মাতৃ জাগিব, নিমঢটাছ ৰি\nৰ-    লৈ খৰ শতধাৰ-_ =     ত মু\nশত জনমৰ কলঙ্ক কালিমা, ৷\n। পূজি সাঁচি লোৱা গোলামি গৰিমা,\nউটুৱাই নিব বাঢ়িব মহিমা,      ৮4% ত\n\nভককমমছ, তেহে, ক’লা-বগা হ'ব মিল। গ্ী\n\nকবি - অম্বিকাগিৰী ৰায়চৌধুৰী\n\n(উৎস-- অম্বিকাগিৰী ৰায়চৌধুৰী ৰচনাৱলী, পৃষ্ঠা -- ৪৯৪ । সম্পাদনা-- ড\" সতোজ্দ্ৰ নাথ শমা। প্রকাশক -\nঅসম প্রকাশন পৰিষদ, ।)\n(ইং ১৯২১ চনত অম্বিকাগিৰী ৰায়চৌধুৰীয়ে তেজপুৰ জেলত থাকোঁতে এই গীতটো ৰচনা কৰিছিল। )\n\n-\n(৯২          ৰ/\nতং\nএ\nঘ্র\nএ          ৰি\n\n\"লভ\n\n0,",
+  "confidence": {
+    "word_count": 149,
+    "mean": 76.46,
+    "median": 92.04,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 103 diacritics",
+        "Detected 103 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.742,
+  "page_elapsed_seconds": 4.292,
+  "peak_process_tree_rss_bytes": 244146176,
+  "tesseract_warnings": [
+    "Detected 103 diacritics",
+    "Detected 103 diacritics"
+  ],
+  "processed_this_run": true
+}

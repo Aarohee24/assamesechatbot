@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ জানো আহা--\n\n“এই খবৰটো ঘৰৰ মানুহবোৰৰ মূৰত যেন বিনামেঘে বজ্ৰপাত হ’ল”-- বাক্যটোত\nব্যৱহাৰ হোৱা বিনামেঘে বজ্ৰপাত অসমীয়া ভাষাৰ এটা জতুৱা ঠাচ। জতুৱা ঠাচ হ’ল ভাষাৰ\nএক নিজস্ব শৈলী। ইয়াৰ প্রয়োগে ভাষাটোৰ প্রকাশভংগী শক্তিশালী কৰি তোলে। জতুৱা\nঠাচবোৰৰ আঁৰত আন এটা অৰ্থ লুকাই থাকে৷ উদাহৰণস্বৰূপে, বিনামেঘে বজ্ৰপাতৰ অৰ্থ হ’ল\n‘নভবাকৈ অহা আকস্মিক বিপদ।’ কিন্তু বিনামেঘ আৰু বজ্ৰপাত শব্দ দুটাৰ আভিধানিক অৰ্থ\nবেলেগ বেলেগ ।\n\n১৩। তলত কিছুমান জতুৱা ঠীচ অৰ্থৰ সৈতে দিয়া হৈছে। এইবোৰ ব্যৱহাৰ কৰি বাক্য ৰচনা কৰা---\n(ক) আকাশত চাং পতা (অস্বাভাৱিক কল্পনা কৰা )\n\n(খ) মূধা-ফুটা (অতি খ্যাতনাম৷)ঃ\n\n(গ) সাত ঘাটৰ চেঙেলি (বৰ টেঙৰ লোক) ঃ\n\n(ঘ) অহুকাণে-পহুকাণে (ঘুনুক-ঘানাককৈ শুন৷)ঃ\n\n(৬) হিয়াৰ আমঠু (অতি মৰমৰ);\n\nজানি থওঁ আহা--                               ্\n\n(ক) অন্ধবিশ্বাস £ অন্ধবিশ্বাসৰ আভিধানিক অৰ্থ হ’ল যুক্তি আৰু বিচাৰ নকৰাকৈ পোষণ কৰা\nবিশ্বাস। সমাজত প্রচলিত কিছুমান বিশ্বাসৰ কোনোধৰণৰ বৈজ্ঞানিক ভিত্তি নাই। এইবোৰ বিশ্বাস\nযুক্তিৰ আধাৰত প্ৰতিষ্ঠিত নহয়। অন্ধবিশ্বাসৰ লগত যাদু, অলৌকিক প্রভাৱ, কিছুমান পৰম্পৰাগত\nত্্‌চন্তা আদি বিষয় জড়িত হৈ থাকে।                           /",
+  "confidence": {
+    "word_count": 154,
+    "mean": 87.92,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 29 diacritics",
+        "Detected 29 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.212,
+  "page_elapsed_seconds": 5.119,
+  "peak_process_tree_rss_bytes": 272969728,
+  "tesseract_warnings": [
+    "Detected 29 diacritics",
+    "Detected 29 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 39,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ছাগলীৰপৰা আহৰণ কৰা হয় (চিত্ৰ 3.3)। এনে\nপ্রজাতিৰ ছাগলীবোৰ জন্মু আৰু কাশ্মীৰৰ নিচিনা\nপাহাৰীয়া অঞ্চলবোৰতহে কেৱল পোৱা যায়।\n\nছাগলীৰ নোমৰপৰাও উণ পোৱা যায় (চিত্ৰ 3.4) |\nকাশ্মীৰী ছাগলীৰ (]<88]017}}}1 9080) নোমবোৰ\nকোমল। এনে মিহি নোমবোৰ শ্বল বা আলোৱান\n(91]18%]) ব’বলৈ ব্যৱহাৰ কৰা হয়, এই শ্বলবোৰক\nপছমিনা শ্বল বুলি কোৱা হয়।\n\nউটৰ (08006]) শৰীৰৰ নোমবোৰো উণ হিচাপে\nব্যৱহাৰ কৰা হয় (চিত্র 3.5)। দক্ষিণ আমেৰিকাত\nপোৱা লামা (][]8118) আৰু আলপাকা (/%৯1|)৪০৪)ৰ\nপৰাও উণ উৎপাদন কৰা হয় (চিত্ৰ 3.6 আৰু 3.71\n\nত্ৰিয়াকলাপ (১৫৮৷ঘ1(চ) 3.2\n\nযিবিলাক প্রাণীৰ নোমৰ পৰা উণ উৎপাদন কৰা হয়\nসেইবিলাক প্রাণীৰ ছবি সংগ্ৰহ কৰা । তোমালোকৰ খালী\nপৃষ্ঠা থকা বহীত সেইবোৰ আঠা লগোৱা। যদি ছবিবোৰ\n\nপোৱা নাই তেনেহ’লে এই ছবিবোৰ কিতাপৰ পৰা চাই\nআঁকিবলৈ যত্ন কৰা।\n\nচিত্ৰ 3.6 লামা ([.13৷118)\n\nআঁহৰ পৰা কাপোৰলৈ\n\nক্ৰিয়াকলাপ 3.3\n\nভাৰত আৰু পৃথিৱীৰ মানচিত্ৰ ([8])) সংগ্ৰহ\nকৰা । মানচিত্ৰখনত উণ যোগান ধৰা প্ৰাণীবোৰ কোন\nকোন ঠাইত পোৱা যায় বিচাৰি উলিওৱা আৰু চিন\nদিয়া। উণ যোগান ধৰা বিভিন্ন প্রাণীবোৰৰ অৱস্থান\n\n([.008001}) বুজাবলৈ বেলেগ বেলেগ ৰং ব্যৱহাৰ\nকৰা।\n\nচিত্ৰ 3.3 এংগোৰা ছাগলী        চিত্ৰ 34 ছাগলী\n(008)\n\n(/*1009018. 2081)\n\nচিত্ৰ 3.7\nআলপাকা (%1|)8০৪)\n\n25",
+  "confidence": {
+    "word_count": 176,
+    "mean": 85.23,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.969,
+  "page_elapsed_seconds": 3.373,
+  "peak_process_tree_rss_bytes": 302166016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

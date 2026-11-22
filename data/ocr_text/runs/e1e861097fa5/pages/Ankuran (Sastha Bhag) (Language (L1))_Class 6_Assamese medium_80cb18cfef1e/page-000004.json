@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "/%খ|র৷২/%]খ; : ২11/5717/% 817/%০ - /* (6%00001<4 017 [751 | 317008062 ॥৭ /€৩০৪৷]656 96 2৫855 ৬| 6\n/২৩5৪1116562 11600 50100|5 01116 58.6, 06৬6|0260 6%/ 525147, /%55৪থ77, 00007 %/0115110|25\n॥৭ 016 ১৮০৪৷ 2013 9170 |2090৷৷5|760 6%/ 1176 /৬৩৪৪৷৷৷ 5.86 16১0900/141270000010017 9170 1200৷0০810]\n60100780017 |1|[|[60 011 066|789|[1 01 60%9[. ০/২৪০থ7.\n\n166 15%02০001.\n\n7! ২০115 1২৮০৮চ৷২৮৷6[0: 140 162700000017 ৭ 17% 9] 01 |0|5 6001, ॥৭ ৮/|10|6 01৭ ৪9]\n(5%06[2[.01 06761 000080017 ॥৭ 011009| 9100৷65 07 |[6%9|6৮/5), 178%/ 696 17806 ঘখ৮/||৭০0[ খ/[|[6]]\n801070112810017 11011 0716 52247, /%৩০৪থ]7.\n\nগ্ৰন্থস্বত্ব     $    ৰাজ্যিক শিক্ষা-গৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ,অসম\nপ্ৰথম প্রকাশ $      ২০১৩\n৪     70 6519 কাগজত মুদ্ৰিত পাঠ্যপুথি\nপ্রকাশক      ঃ$ অসম চৰকাৰৰ দ্বাৰ৷ বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি\nপ্রণয়ন আৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি।\n\nবামুণীমৈদাম,গুৱাহাটী",
+  "confidence": {
+    "word_count": 120,
+    "mean": 52.85,
+    "median": 50.05,
+    "minimum": 0.0,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9833,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.299,
+  "page_elapsed_seconds": 2.518,
+  "peak_process_tree_rss_bytes": 270012416,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

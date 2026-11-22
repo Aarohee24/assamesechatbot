@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 16,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গ -- জ্ঞান সম্প্ৰসাৰণ\n১১। বৰগীতটোত চাৰিটা আখৰেৰে গঠিত এটা শব্দ আছে। সেই শব্দটোৰ প্ৰথম আখৰ দুটা\nমিলি ‘বল’ বুজায় আৰু শেষৰ আখৰ দুটা মিলি ‘মানুহৰ নাম’ বুজায়। শব্দটো বিচাৰি\nউলিয়াই লিখা।              প্রথম আখৰ দুটা মিলি৷ ব[ ল!| হয়।\nসেই শব্দটোৰ---\nপ্ৰথম আৰু তৃতীয়ই মিলি কি বুজায়?\nআৰু চতুৰ্থ আৰু দ্বিতীয়ই মিলি কি বুজায়?\n\n১২। ব্ৰজাৱলী ভাষাত লিখা কথাখিনি পঢ়ি অভিনয় কৰা।\n\nকথা৷ $\nগোপী বোল ঃ আহে কানাই! তোহাক হামু উত্তৰে নাহি পাৰলো। আজু তোহাৰি\nমাৱক আগু সৱ কথা কহিয়ে হামো তোহাক যে জানো তা কৰব।\n\nসূত্ৰ $\nওহি বুলি গোপী পাৰাক গোপীসৱক ডাকিয়ে এক থানে হোৱে সৱহি গিয়া যশোদাক\nআগু কহল, তা দেখহ।       কথা ঃ$\n\nগোপী বোল ঃ হে মাই যশোদে! তোহাৰি বালক কানাই হামাক যে অপকাৰ কৰত\nতা শুনহ। হামাৰ গৃহে দধি দুগ্ধ লৱনু ৰহয়ে নাহি। শ্ৰীকৃষ্ণ বানৰ সৱ সহিতে সৱ নাশ কয়ল।\nকথা৷ ঃ$\nঅপৰ গোপী বোল ঃ হে মাই! হামু ওহি কৃষ্ণক কথা কত কহব। হামাৰ সঞ্চিত লৱনু\nচুৰি কৰি খাই জোখাক ভাণ্ড ভাঙ্গি পেলাৱল।\n(ওপৰৰ কথাখিনি শ্ৰীত্জী মাধৱদেৱ বিৰচিত পিম্পৰা গুচোৱা’ নাটৰ পৰা তুলি দিয়া হৈছে।)\n\nঘ-প্রকল্স\n১৩। দুটা বৰগীত সংগ্ৰহ কৰি ৰচকৰ নাম আৰু\n\nপৰিচয় লিখি শ্ৰেণী কোঠাত পঢ়ি\nশুনোৰা।\n\n১৪। বৰগীতত ব্যৱহাৰ কৰা বাদ্য-যন্ত্ৰ\nছবি সংগ্ৰহ কৰি তালিকা প্ৰস্তুত কৰা।\n\n43\"",
+  "confidence": {
+    "word_count": 199,
+    "mean": 89.39,
+    "median": 95.19,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.722,
+  "page_elapsed_seconds": 2.986,
+  "peak_process_tree_rss_bytes": 282316800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

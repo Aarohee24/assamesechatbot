@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভূমিকা আছে। ইয়াত নানা জলজ উদ্ভিদৰ লগতে মাছ, কাছ, সাপ, বেং আদিকে ধৰি অসংখ্য প্রাণীও\nআছে। এই জলাশয়ৰ মাছ বা আন প্রাণী খাবলৈ নানা চৰায়ে পাৰত চোপ লৈ থাকে। শামুকভঙা,\nবৰটোকোলা, হাড়গিলা, বগলী, কণামুচৰি, শৰালি, দল-ম’ৰা, দৰিক, ডাউক্‌, পানীকাউৰী, মণিয়ৰী,\nকাউৰী, কুৰুৱা আৰু শিলকপৌকে ধৰি অনেক\nচৰাই জলাশয়বোৰৰ আশে পাশে থাকে।\nবিভিন্নধৰণৰ চৰাই দেখি ছাত্ৰ-ছাত্ৰীসকল\nআনন্দত জপিয়াই উঠিল। হঠাৎ আল্পনাই\nসুধিলে--“ছাৰ, আপুনি যে শ্ৰেণীত কৈছিল\nপৰিভ্ৰমী চৰাইৰ কথা...।” তাইৰ কথাষাৰৰ\nশ্ব ভাবটো বুজি বৰুৱা ছাৰে ক’লে-- “এৰা,\nমাজুলীলৈ বিভিন্ন সময়ত পৰিভ্ৰমী চৰাই\nআহে। বিশেষকৈ শৰতকালতে এই চৰাইবোৰৰ\n\nআগমন আৰম্ভ হয়।”\n\nআবেলিৰ বেলিয়ে মাজুলীৰ খলা-বমা;গছ-লতা সকলোতে এক ৰহণ সানিলেহি। চালে চাই\nথাকিবৰ মন যোৱা অপূৰ্ব সেই দৃশ্য। কিন্তু নিশাৰ আশ্ৰয় স্থানলৈ যাবই লাগিব৷ সেয়েহে গধূলিৰ আগে\nআগে দলটো কমলাবাৰীৰ অতিথি গৃহত\nউপস্থিত হ’ল। তাতে হাত-ভৰি ধুই জা-\nজলপান খোৱাৰ পাছত সকলোটি সত্ৰলৈ\nওলাল। সেইদিনা, সত্ৰত অনুষ্ঠিত\n‘কেলিগোপাল’ ভাওনা চাই সকলোৱে\nআনন্দ পালে।\n\nতাৰ পাছত আলহী গৃহত সকলোটি\nবহিলহি। খোৱা-লোৱাৰ বাবে কিছুসময়\nবাকী থকাত বৰুৱা ছাৰে সমূহীয়াকৈ\nক’লে-- “এই সত্ৰসমূহে মহাপুৰুষ শ্ৰীমন্ত\nশংকৰদেৱ আৰু আ্ৰীত্ৰী মাধৱদেৱৰ সুমধুৰ\nস্মৃতি বহন কৰে। বিৰল প্রতিভাৰ অধিকাৰী\n\nৰ                   নব\n7%ক১,           ৬\nস    ৷\nৰদ      চু\nসদ         =,\nছু    ৰ\n     8;\nৰল       ঢ়          ৰ\n১         ৰ\nতন ঃ\n১১১১ ৬৮\nচী   ৰ\nপ্দিদ_\n7\n] ণ    ত\nফ- ৷\n\n৮\"\n(ট্ঠ্%\n'_ স্তন\n\n”*_-=",
+  "confidence": {
+    "word_count": 207,
+    "mean": 81.35,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.056,
+  "page_elapsed_seconds": 4.597,
+  "peak_process_tree_rss_bytes": 240234496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

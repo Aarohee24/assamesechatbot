@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 80,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "/*৫]৮]{(%৮ 12.3\n\n]]1 680] |19 018, 11216 1118 062 0116 011]0162\n\n801529. '[]1296 0601829 816 {]6 0৫6%8610])21116 116ঘষয়\n1]101ঘ1008]19 8110 12% 816 ০৪]160 ]}009. ]২০০৪]]\n116 )1\"\"6921106 01 0009 111 ৮০৪৪. ][]] ]]%018 (00 76\n1162ঘঘ ]]]0]ঘ1008]9 0৫6%৮6]0]) 89 0091\"0%]]9 1|0]]]\n8 91116]26 ])8121]1{. '[]]19 ট]76 01 16100000101] ]][]\nঘ্ষ্য|10]] 010] 8 9111612 |)81\"21](19 1]1৮0]৮62018 ০৪1160]\n8 ৪6008] 1\"6)21\"0010000011. ১1106 16% 11]0]খ10008193\n02%610]) 1011] 16 0009 1] ]]}01'8, ]]]9 [(৮])6 01\n892008] 12121000001011 19 ০৪110 1) 00.01116.\n\n/%110|]21\"1]2700 01 8৪৭০%008]| 1\"2121\"004000101]\n19 08692[460 }]] {]176 ]]7]10110900])210 019881]191]],\n81106208. ][,6{ 09 ৪662 ]10'ম ]19 ]18])|)61]9.\n\n00. ]18৮26 ৪8]1680  16281711{ 80000 1]76\n90\"000016 01 81110608.. ৬০0 ্1|| 1608|] 1{]]81\n8100208 19 8 91110616-০06]]60 01881]191]1] []\"19.\n12.12(8)]. [[(0281119 076 [00299 01161000001011\n86% 6 ]1ঘ19101] 0119 11001209 11100 ছঘ্য0 1100121\n[]\"16.12.12(00)]. ]]]}]9 19 1[01]0ছ%৮60 06% 0]ঘা910]]\n01 108 000) 11100 [ঘয00, ০8৫০] ])81{ 160621ঘ]1186 8\n110016209 []\"18. 12.12(0)]. ]\"]]]8|] , (ছ৮/0 811106082\n816 ])1000020 11\"01]}) 0116 ])81621]1{( 81110208. []\"19.\n12.12(0)].\n\n(0)                                               ])1খ10]11811001609\n]1)8009]1021' 81106082\n(0)\n\n119 12.12 : 1917707\"} 1\"1551077 177. 41706800\n\nবিজ্ঞান /৪৫া:খ0:",
+  "confidence": {
+    "word_count": 170,
+    "mean": 40.85,
+    "median": 40.03,
+    "minimum": 0.0,
+    "maximum": 95.41
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3624,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.225,
+  "page_elapsed_seconds": 3.522,
+  "peak_process_tree_rss_bytes": 312664064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[\")][{]; 1 0] ]{][)\n+% খা) ]];, }0)]{ = ']['[7]])];]\"ছ][5\n\n('[}]%]\"]]]4\" 1}\n'[,[.[.- শল [110 ]['[ [{]}, ৷ স্দ[) [{[ || শ্('][]{{]} সখ =\nকোয --- গতৰ আৰু কাৰ্য\n\n[0['[1;./*%]\"'][][{ 1],\nচ(] খন ,]{\"%%]][[) [নখ []]\" ['[,/%[\"|[] =; /%{[[) /%[া/4 | [%1 /% | ;=%\nউদ্ভিদ আৰু প্ৰাণীৰ সংৰক্ষণ\n\n\"[|%1\"[[[{র় 12\n[৮] |'[[[)|}[ {( ['[[)/%; [})]}; /% /*| [৮] /%[],=\nপ্রণাৰ প্ৰজনন\n\n['||৯]\"[]]{ 13\n[বচ] % {']]খ{1; ['}][' ৭%0; [, 0}]}7 %[)0)].[:50'}; (07;\nকৈশোৰ প্ৰাপ্তি\n\n:11,7%1\"1]]ং 14\n1) ৭ ][)\nমক\n\n['[|:%]\"}][]]']{ [=\nস্ব) |}; স্ব।%৮[]]]{/% 1, [' }]};\"সখ() |%]}; \"খ %\nকিছুমান প্ৰাকৃতিক পৰিঘটন|\n\n:[]/%]\"]]']{ ]1\n[|.[[ম]]][\nশহৰ\n\n.[|%]*[]|{ |7\nশ্॥\"]]][[.] |; 8 |[}[{[,প ॥% খ][]) '[,.%\" [| =\nসাংশ্লেধিক আঁহ আৰন্ধ ত্লাছ্ছিক\n\n]]%[*][]]*4 1\nষ [||২৪ %*'খ[) '[]],; ৭%)[.%]{ প% = ][],%]\nতৰা আৰু [সীৰজ্জগত\n\n21\n2ক\n\nহু\n\nথৰ\n8\n\n15\n11]0\n\n133\n14310\n\n165,\n100\n\n1.97\n॥98\n\n221\n222",
+  "confidence": {
+    "word_count": 137,
+    "mean": 33.71,
+    "median": 27.88,
+    "minimum": 0.0,
+    "maximum": 94.34
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9627,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 2.45,
+  "page_elapsed_seconds": 2.707,
+  "peak_process_tree_rss_bytes": 317063168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 102,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ ৩৷ তলৰ প্রথম মেঘ টুকুৰাত থকা শব্দবোৰৰ অৰ্থ দ্বিতীয় মেঘ টুকুৰাত দিয়া আছে। শব্দবোৰৰ\nঅৰ্থ বাছি উলিয়াই লিখা। প্ৰয়োজন হ’লে অভিধানৰ সহায় ল’বা।\n\nয়\n\nৰ ৪। তলত দিয়া প্ৰশ্নকেইটাৰ উত্তৰ কোৱা আৰু লিখা।\n(ক) প্ৰথম অসমীয়া কথাছবিখনৰ নাম কি?\n(খ) ‘জয়মতী’ কথাছবিখন কিমান খ্ৰীষ্টাব্দত মুক্তি লাভ কৰিছিল?\n(গ) ‘জয়মতী’ কথাছবিখন কোনে নিৰ্মাণ কৰিছিল?\n(ঘ) বেজবৰুৱাই ‘জয়মতী’ কথাছবিখন উদ্বোধন কৰিবলৈ কোন ঠাইৰপৰা আহিছিল?\n(৬) বেজবৰুৱাৰ কোনখন নাটকৰ আধাৰত ‘জয়মতী’ কথাছবিখন নিৰ্মাণ কৰা হৈছিল?\n\nঠৰ ৫। তলত দিয়া প্রশ্নকেইটাৰ উত্তৰ আলোচনা কৰি কোৰা আৰু লিখা।\n(ক) ‘জয়মতী’ ফিল্মৰ ডালিমী চৰিত্ৰটিয়ে বেজবৰুৱাৰ সপোন কেনেদৰে দিঠক কৰিলে?\n(খ) অসমৰ ফিল্ম ইণ্ডাষ্ট্ৰী সম্পৰ্কে বেজবৰুৱাৰ মত কেনেধৰণৰ আছিল?\n(গ) বেজবৰুৱাই কি.কি কাৰণত ‘জয়মতী’ কথাছবিখন সফল হৈছে বুলি উল্লেখ\nকৰিছে?\n2 ৬৷|”কৌনে, কাক কৈছিল লিখা।\n(ক) “অসমত অসমীয়াৰদ্বাৰাই আগেয়ে নোহোৱা-নোপজা এনে এটা কাৰ্য\nচাবলৈ মোৰ বৰ হেঁপাহ হৈছিল।”\n(খ) “ফিল্ম সম্বন্ধে নানা মুনিৰ নানা মত!”\n(গ) “এই বুঢ়াৰ এই আশা। পূৰ্ণ হ’ব নে নহয়, ইশ্বৰে জানে।”\n৭। “এৰুণ্ডৰ উৰাও দেখি টিপচীয়ে যদি ভাবে যে, মই তেনেকৈ উৰিব নোৱাৰোঁ যেতিয়া টিপচী\n\nউৰাও মাৰি লোকৰ হাঁহিয়াতৰ পাত্ৰ নহওঁ, তেন্তে টিপচীয়ে ভুল কৰিব।”--- শিক্ষকৰ সহায় লৈ\nকথাষাৰৰ তাৎপৰ্য ব্যাখ্যা কৰা।",
+  "confidence": {
+    "word_count": 181,
+    "mean": 89.18,
+    "median": 95.5,
+    "minimum": 5.16,
+    "maximum": 97.01
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Unmesh I-Class VI-Assamese-page-000102.png",
+  "page_image_sha256": "5983f162af7d8bcafb082da2d1c963d7df9c056a7a2e393539ea66ec4fc4497b",
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.949,
+  "page_elapsed_seconds": 4.996,
+  "peak_process_tree_rss_bytes": 148652032,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

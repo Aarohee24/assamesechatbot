@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 100,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_ অনুশীলনী\n১ ।উত্তৰ লিখা---\n\n(ক) বিদ্যালয়সমূহত ছাত্ৰ-ছাত্ৰীসকলক দুপৰীয়া আহাৰ গ্ৰহণৰ বাবে কি ব্যৱস্থা কৰা হৈছে?\n(খ) কোন প্ৰতিষ্ঠানত চৰকাৰে বা মানুহে টকা-পইচাৰ লেন-দেন কৰে?\n\n(গ) ৰোগীসকলক কোন প্রতিষ্ঠানত চিকিৎসা কৰা হয়?\n\n(ঘ) সমাজত শান্তি-শৃংখলা ৰক্ষা কৰাৰ কামত কাক নিয়োজিত কৰা হৈছে?\n\n(ঙ) যিকোনো চাৰিটা অনুষ্ঠান-প্রতিষ্ঠানৰ নাম লিখা ৷\n২ ।খালী ঠাই পূৰ কৰ৷---\n\n(ক) ছাত্ৰ-ছাত্ৰীসকলে --------ত লিখা-পঢ়া শিকে।\n\n(খ) পশু-পক্ষীৰ চিকিৎসাৰ বাবে  === আছে।\n\n(গ) আলিবাটৰ যান-বাহন -===--=== য়ে নিয়ন্থণ কৰে।\n\n(ঘ) গীওসমূহত থকা শাসন ব্যৱস্থাক --------- শাসনবব্যৱস্থা বোলা হয়।\n৩ ।পাৰ্থক্য লিখা--- চৰকাৰী আৰু বেচৰকাৰী চিকিৎসালয় ।\n৪ ।চমুটোকা লিখা---\n\n(ক) পঞ্চায়তীৰাজ শাসন ব্যৱস্থা = (খ)সমবায়  (গ) আত্মসহায়ক গোট।\n৫ ৷ শুদ্ধ উত্তৰটো বাছিউলিওৱা---\n\n(ক) সমাজত শান্তি-শৃংখলা ৰক্ষা কৰাৰ কামত কাক নিয়োজিত কৰে?\n\n১ চিকিৎসকক   ২।নাৰ্ছক   ৩ ।আৰক্ষীক  ৪ শিক্ষকক\n\n(খ) পশু-পক্ষীৰচিকিৎসাৰ বাবে থকা অনুষ্ঠানটো হ’ল---\n\n১ চৰকাৰী চিকিৎসালয় ২ ।পশু চিকিৎসালয় ৩।সমবায় ৪। বে-চৰকাৰী চিকিৎসালয়\n৬ ৷ আকস্মিক বক্তৃতাৰ আয়োজন কৰা৷--- (শিক্ষকৰ সহায় ল’বা)\n\nবিদ্যালয়, মধ্যাহ্ন ভোজন, বেংক,চিকিৎসালয়,আৰক্ষী,দুগ্ধ উৎপাদন ৷\n\nএ...",
+  "confidence": {
+    "word_count": 154,
+    "mean": 77.52,
+    "median": 91.37,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.532,
+  "page_elapsed_seconds": 2.745,
+  "peak_process_tree_rss_bytes": 236064768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

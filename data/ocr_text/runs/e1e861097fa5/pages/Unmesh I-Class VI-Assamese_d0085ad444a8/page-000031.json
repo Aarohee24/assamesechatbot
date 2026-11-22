@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 31,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিম্== র স্্্\n১৯। আগৰ ১৮ নম্বৰ প্রশ্ন অনুসৰি প্রস্তুত কৰা৷ নাটিকাখন অভিনয় কৰি ভিডিঅ’\n\nৰেকৰ্ডিং কৰা।\n\nৰ ২০। তোমাৰ আটাইতকৈ ভাল লগা যিকোনো এটা সাধু কথাৰ বিষয়ে তলত দিয়া ধৰণে\nকোৱা আৰু লিখা।\n(ক) সাধুটোৰ নাম                      (খ) কোনখন সাধুকথাৰ পুথিৰ অন্তৰ্গত\n(গ) লেখক/সংকলকৰ নাম             (ঘ) সাধুটোৰ কাহিনী\n(৬) সাধুটো ভাল লগাৰ কাৰণ           (চ) সাধুটোৰপৰা কি শিকিলা\n\n| অৰ্হতা             উপ-অৰ্হতা            ক্ৰিয়া-কলাপৰ |নিজাৰৰীয়াকৈ শিক্ষকৰ সহীয়ত| নিদানমূলক শিক্ষাৰ|\n\nনম্বৰ     পাৰিছে | গাৰিছে | পাছত পাৰিছে\n€1.1 | পাঠটোৰ মূলবিন্দুসমূহ চিনাক্ত কৰি ক’ব আৰু ৷ ১, ২, ৩, 8; ৫\n\nলিখিব পাৰিব।            ৬]\n€1.5 |ঙ শ্ৰোতা দৰ্শকৰ বাবে দৃশ্য শ্ৰাব্য সমল প্রস্তুত ১৯\nকৰিব পাৰিব\n\n€2.1 ২ অনুকাৰ আৰু অনুৰূপ শব্দ সম্পৰ্কে জানি৷ ১০, ১১\nপ্রয়োগ কৰিব পাৰিব, অন্তমিল মিলাব পাৰিব।\n\nঙ দৈনন্দিন জীৱনত ব্যৱহৃত যুৰীয়া শব্দবোৰ ।১৩\nলিখিব পাৰিব\n\n€2.3 ৷ছঙ কথন আৰু লিখনৰ জৰিয়তে জটিল চিন্তন\n\n(মে|[1081 1008) কৰি মত প্রকাশ কৰিব৷ ১৪, ১৫, ১৬\n\nপাৰিব।\n\n€-31 * বিপৰীত অরৰ্থ-প্রকাশক শব্দ চিনাক্ত কৰিব৷৮\nপাৰিব\n\nঙ লিখনত যথাস্থানত যতি চিহ্ন প্রয়োগ কৰিব।১২\n\nপাৰিব।\n\n€-3.2ছ উপযুক্ত, শৈলী আৰু ভাষা ব্যৱহাৰ কৰি দফা ৷ ১৭\nলিখিব পাৰিব।\nনাটিকা লিখিব পাৰিব।\n\n4.1. ৷ছ সাধু কথা পঢ়ি পৰ্যালোচনা কৰিব পাৰিব। 1২০\n\nৰ“\nৰ\n\n-  চু   শিক্ষকে ছাত্ৰ-ছাত্ৰীৰদ্বাৰা নাটিকাখনৰ অভিনয় কৰাব আৰু ভিডিঅ’ ৰেকৰ্ডিং কৰাত সহায় কৰিব।",
+  "confidence": {
+    "word_count": 200,
+    "mean": 79.48,
+    "median": 92.65,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.87,
+  "page_elapsed_seconds": 6.361,
+  "peak_process_tree_rss_bytes": 286228480,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

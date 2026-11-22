@@ -1,0 +1,68 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 115,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "₹৮---=-========>>=>> >লতশল=তলললনলননত্ৰন্ণদৈশশল ন্ন্নন্বশ-ি(ল িেলতত্তন্ৰন্দ-ব(-িন্((ত তত ল।।ললতললননসপন্্সন৷লললললননলনন্সন৷>ট-’” =শনননন্তলনততনন্েতত তট({নতলন্্নন্্ন্ন(লক*\n\n৷ কিছুমান লোকে স্বদেশ আৰু স্বজাতিৰ বাবে ত্যাগ স্বীকাৰ কৰি আহিছে। এনে লোকৰ কথা বুৰঙ্জীৰ পাতত আজিও |\n| জিলিকি আছে। তেওঁলোকৰ জীৱনীয়ে আমাক অনুপ্ৰানিত কৰে | এসময়ত আমাৰ ৰাজাত এনে এগৰাকী স্রৰণীয়\n৷ বীৰৰ জন্ম হৈছিল। সেইগৰাকী বীৰৰ ত্যাগ আৰু দেশপ্ৰেমৰ বিষয়ে পঢ়ো আহা--\n\n============> ======== === ===ল=নলনিদল=শলললশলভলললন্লললন্নসশিকদ্লললন্দননশনললন্ললল ন্দনশললল নন ললতশনত্নত{ণৰূশন নন ্শ শ = = লন শন লন লত শন = শ = ল=শ- শত শ = লন ল = = -*\n\nশুনিছানে ল’ৰাহঁত লাচিতৰ কথা,                  ৰি\nমোগল-বিজয়ী বীৰ, ইতিহাসে লিখা।\nঅসমক পৰাধীন কৰিবলৈ বুলি,\nআহিছিল মোগলৰ সেনা বাহু তুলি।\nপাছদিনা অগণন মোগল সেনাই,\nল’বহি গৰকি দেশ ঘৰত সোমাই।\n-=-মোগল অহাৰ পিনে লাগে গড় এটা,\nনহ’লে শতৰু আহি লগাবহি লেঠা।\nবৰফুকন সেনাপতি বীৰ লাচিতৰ,\n\nচকুত পৰিলে ইটো বুধি মোগলৰ ।\nততালিকে মাতি আনি মোমাইদেৱক,\nক’লে তেওঁ নসহিব হৰক-তৰক।\nৰাতিয়েই হ’ব লাগে পুৱাৰ আগতে,\nবিয়াগোম গড় এটা শৰাইঘাটতে।\n--/শেই ৰাতি আহি দেখে বহু কাম বাকী,\nকিজানি নহ'ব গড় আজিয়েই ৰাতি।\nউঠিল গৰৰজি'বীৰ চকু ৰঙা কৰি,\n\n-_ মোমাই ক’লৈ গ’ল গড় মৰা এৰি।\nমোমাইদেৱেকে ক’লে, “কাম কৰি কৰি,\nমানুহবোৰ লালকাল য’তে ত’তে পৰি।\nশকতি কুলাই মানে কাম কৰিছিল,\n\n“কি ক’লা মোমাই তুমি? ভাগৰি পৰিল?\nতোমাৰ মুখত এনে কথাও সৰিল?\n\nঅধ্যায় ৮ ঃ আমাৰ এঁতিহ্য",
+  "confidence": {
+    "word_count": 202,
+    "mean": 81.29,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 33 diacritics",
+        "Detected 33 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Spandan-Part I-ClassIII-Assamese(L1)-page-000115.png",
+  "page_image_sha256": "5805ca69220dfd4dae3665348d7bb49a88a1a6cfa2e8b64f8b7c7be7adcb0e77",
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.817,
+  "page_elapsed_seconds": 4.571,
+  "peak_process_tree_rss_bytes": 152637440,
+  "tesseract_warnings": [
+    "Detected 33 diacritics",
+    "Detected 33 diacritics"
+  ],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

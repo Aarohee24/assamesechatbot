@@ -1,0 +1,63 @@
+{
+  "book": "Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium.pdf",
+  "source_pdf_size_bytes": 4158339,
+  "source_pdf_sha256": "d6c5eb6cceb36722828b4a2c45095bb695222beb353cf63ad0e4435e407fe4e3",
+  "page_count": 30,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 11.0.23",
+    "Producer": "Adobe Acrobat 11.0.23 Image Conversion Plug-in",
+    "CreationDate": "D:20230517144004+05'30'",
+    "ModDate": "D:20230518152938+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 16,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত              ১১\n\nপ্র £-= সাহাবীদেরে কি ওলী বলা হয়?\n\nউ £ঃ-- প্ৰত্যেক সাহাবী ওলী ছিলেন। কারণ হজন্নত মোহাস্মদ (দঃ)\nপ্রবল ছিল যে সংসারের সব কিছু নগণ্য ছিল। তাহারা বেশী উপাসনা করিতেন।\nএবং পাপাচার হইতে অনেক দুরে ছিলেন।\n\nপ্ৰ &$- কোন সাহাবী কি ওলী নবীর সমতুল্য হইতে পারেন।\n\nউ $-- কখনও না। সাহাবী এবং ওলী যতই মযদাশীল হউন না কেন,\nকিছুতেই কোন নবীয় সমতুল্য হইতে পারেন নাই।\n\nপ্ৰ $-- এমন ওলী যিনি সাহাবী নন তিনি কি কোন সাহাবীর সম মযদিা\nসম্পন্ন অথবা কোন সাহাবী হইতে ময়দা সম্পন্ন হইতে পারেন?\n\nউ £-- না, সাহাবীর মযাদি নৱীর পরেই, সুতরাং যে ওলী সাহাবী\nনন তিনি কিছুতেই যেকোন সাহাবীর সম মৰ্যাদা হইতে পারেন না।\n\nপ্র $- কোন কোন ব্যক্তি শরিয়তের বিবরোধী কাৰ্য করেন যেমন--\nনামাজ্জ পড়েননা অথবা দাড়ী রাখেন না অথচ কতিপয় লোক তাহাদেৱরে\nওলী৷ মনে করেন। সতুরাং এহেন লোকদেৱরে ওলী গণ্য করা কিক্পপ?\n\nউ £-- এইক্লপ গণ্য করা ভ্ৰান্তিমূলক কাৰ্ঘ শনিয়তের বিরোষী কোন\nকাজ করিয়া কখনও কেহ ওলী হইতে পারেন না।\n\nপ্ৰ £$_- এমন কি কোন ওলী হইতে পারেন যাহাকে শবরিয়তের কোন\nকোন হইতে অব্যাহতি দেওয়া হইয়াছে?\n\nউ £-- যতক্ষণ মানুষের হুস, বিবেক, বিবেচনা, এবং ইন্দ্ৰিয় শক্তির\nপরিচালনা বহাল থাকিবে ততক্ষণ পৰ্যন্ত কোন উপাসনা কিংবা কোন নিৰ্দেশ,\nঅথবা কোন পাপমূলক কাৰ্য হইতে অব্যাহতি হইতে পারেনা, এহেন অবস্থায়\nশরীয়তের কোন কাৰ্য লংঘিত হইলে সংশ্লিষ্ট ব্যক্তিকে কিছুতেই ওলী বলা\nযাইতে পারেনা।\n\nমাজিজা ও কেরামত অথাঁৎ অলৌকিক প্ৰিম়্া\nকাজ্ডের বৰ্ণনা\n\nপ্ৰ £-_- মজিজা কাহাকে বলে?\nউ ঃ-- আল্লাহ তালা কোন কোন সময়ে তাহার পয়গম্বরগণ কৰ্তৃক\nচির্নন্তন স্বভাবে ব্যতিক্ৰম ঘটাইয়া অলৌকিক ক্ৰিয়া প্ৰদৰ্শন করাইয়াছেন যাহা",
+  "confidence": {
+    "word_count": 247,
+    "mean": 82.43,
+    "median": 91.75,
+    "minimum": 1.16,
+    "maximum": 96.86
+  },
+  "review_flags": [
+    "bengali_or_non_assamese_candidate",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Dwiniyat (Old) (R) (Dwiniyat)_Class 7_Bengali medium-page-000016.png",
+  "page_image_sha256": "f82cadb47f5ca349ec2f42c54d995b03cfc15822c3e1ddc7462f8c2854b64f98",
+  "image_width": 1595,
+  "image_height": 2363,
+  "ocr_elapsed_seconds": 2.462,
+  "page_elapsed_seconds": 2.623,
+  "peak_process_tree_rss_bytes": 104644608,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "ben_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

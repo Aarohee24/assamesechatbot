@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 136,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দ                     বিদ্যা     -- শিকনি বা চৰ্চাৰ জৰিয়তে লাভ\nবন কৰ৷ === বেজিৰে গুণাৰ ফুল তুলি            কৰা জ্ঞান, অভ্যাস কৰি পোৱা\nশোভিত কৰা৷ ।                 জ্ঞান, কৌশল।\nৰৰণ     -_ বৰ্ণ, ৰং।           বিদেশী    -_ পৰদেশৰ, নিজ দেশৰ\nবৰনাও    -= ডাঙৰ নাও।                  নোহোৱা।\nবলপোৰা == শক্তি পোৱা ।        বীজাণু    -= ৰোগ সৃষ্টিকাৰী ক্ষুদ্ৰ জীৱাণু।\nবদান্যতা৷ _--উদাৰতা           বেজবেজাই --=- ডাকি যোৱা, বিজ্বিজনী\nবনৌষধি  =---দৰব স্বৰূপে ব্যৱহাৰ    বেদনাদায়ক --- কৰুণ, দুঃখিত।\nযঃ          বেশ     == সাজ-পোছাক, সাজপাৰ,\nবাজ     ঢ়                         কাপোৰ আদি পিন্ধি থকা\nবাথান    -_ গৰু, ম’হৰ খুঁটি।                অৰস্থা।\nবাদ-বিবাদ --- তৰ্ক-বিতৰ্ক, এজনে আন\nএজনৰ মত খণ্ডাই নিজৰ মত           (ভ)\nপ্রতিষ্ঠা কৰাৰ চেষ্টা।      ভটিয়নী-- নৈৰ ভাটি বা নামনিফাল।\nবাৰণ     -- বাধা, নিষেধ, হাক\nবিচক্ষণ -_ -- পাৰ্গত, উত্তম, সুন্দৰ।    টা ৰণ ৮\nত    _ তল কৰীষট ৰ       মৰ-চেৰেলা--- শুকাই-খীণাই মৰাৰ নিচিনা\nলি  কৰ /               হোৱা ।\nআলোচণন৷          মলয়া -- বসন্তৰ আৰম্ভণিৰে পৰা দক্ষিণ\nবিমল    -=- নিৰ্মল, নিকা, পবিত্ৰ\nবিমৰ্ষ  _-- মন মৰা, দুঃখিত               নাদ তাং * +\nলেোৱ|৷ যোৰ-নাও।\nশ্সসম       মালা    -= জৰীত গঁথা ফুল।\nবৃক্ষ,             মেজিষ্ট্ৰেট -- হাকিম, উচ্চ কৰ্মচাৰী বা\nবিদূৰ     -= অধিক দূৰত থকা ।              বিচাৰক, গৰাকী৷\n\nমেলিলোঁ -- মুকলি কৰা, মেলা।",
+  "confidence": {
+    "word_count": 178,
+    "mean": 74.44,
+    "median": 91.47,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.101,
+  "page_elapsed_seconds": 3.844,
+  "peak_process_tree_rss_bytes": 257499136,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

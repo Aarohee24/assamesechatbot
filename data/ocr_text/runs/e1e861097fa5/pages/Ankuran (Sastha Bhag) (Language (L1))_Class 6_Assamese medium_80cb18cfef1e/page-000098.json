@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 98,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কবি পৰিচয়\n\nনীলমণি ফুকন (১৮৮০-১৯৭৭ চন)-- নীলমণি ফুকনৰ পিতৃ লম্বোদৰ ফুকন৷ কবিগৰাকীয়ে\nডিব্ৰুগড়ৰ পৰা এন্ট্ৰেঞ্চ পৰীক্ষাত উত্তীৰ্ণ হৈ পাছত ক্ৰমে কটন কলেজ আৰু কোচবেহাৰ কলেজত\nঅধ্যয়ন কৰি স্নাতক ডিগ্ৰী লয়। তেখেতে ডিব্ৰুগড়ৰ জৰ্জ স্কুলত শিক্ষকতাৰে চাকৰি জীৱনৰ পাতনি\nমেলে৷ নীলমণি ফুকনে ‘আলোচনী’, সাদিনীয়া ‘বাতৰি’ (পাছত ‘দৈনিক বাতৰি”), ‘ন-জোন’ (শিশু\nআলোচনী) আদি সম্পাদনা কৰে।\n‘জিঞ্জিৰি’, ‘সন্ধানী’, ‘অমিত্ৰা’, ‘আহুতি’, শতধাৰা’,‘মৰা ডালৰ কুঁহিপাত’ আৰু ‘মানস-প্রতিমা’ কবিতা\nপুথিৰ উপৰি ‘চিন্তামণি’ আৰু ‘সাহিত্য-কলা’ নামৰ উৎকৃষ্ট প্রবন্ধ পুথিও ৰচনা কৰে।\n\n‘ককা নীলমণি ফুকন’নামেৰে পৰিচিত বিশিষ্ট কবিগৰাকীক সৰ্বজন স্বীকৃত বাক্‌পটুতাৰ বাবে\n‘বাগ্মীবৰ’ নামেৰেও জনা যায়।\n\nক্ৰিয়া-কলাপ\n\n১) কবিতাটি স্পষ্ট আৰু শুদ্ধ উচ্চাৰণেৰে পঢ়া।\n২) কবিতাটি লয়, ছন্দ আৰু তালৰ লগত সংগতি ৰাখি আবৃত্তি কৰা।\n৩) তলত দিয়া শব্দবোৰৰ অৰ্থ শব্দ সম্ভাৰ বা অভিধানত চাই লিখা।\n\nকৰকৰা, বৰ্ষণ, কৃপণ, কৃুঙ্ধি,\n\n৪) কবিতাটিৰ মূলভাব লিখা।\n৫) কি কৰিলে প্রকৃত সঞ্চয় হোৱা বুলি কবিতাটিত কোৱা হৈছে?",
+  "confidence": {
+    "word_count": 136,
+    "mean": 87.04,
+    "median": 94.61,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.092,
+  "page_elapsed_seconds": 3.454,
+  "peak_process_tree_rss_bytes": 244662272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

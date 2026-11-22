@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আপোনাৰ মোবাইলৰ ব্ৰাউজাৰত 011€8])13.80%.111/3])]) {১])০\nকৰক আৰু [15081] 13001 স্পৰ্শ কৰক ।\n\n==\n\n*্ 2০০9০৮৮%\n\nৰ ০ ই\n\n00081 }\"]৭১ 90016 ত [3)][1€51]1/% 56810}]} কৰক আৰু\n/])[).,টো ডাডনলড কৰিবলৈ ][}919]] ]}}১৷৷৮০৷৷ টো স্পৰ্শ কৰক\n\nন\nদবগিভচড০েলদ্ত তে টোচদা ৮9৮                      ৬৬ .৬৬৬৪এ৬১৯%:                                                               শ্শি\n\nদল পলল{ন\n\nৱা আন, তিৱা ৫ টাৰ, এই ১” নৰ৷, চাৱে ৪, ইতে। নিলে (%                 গ্ৰ                এলে\nঅগ্ৰাধিকাৰ দিয়া          আপোনাৰ ভূমিকা       01২ 2006 5০৪0)        প্ৰৱেশ অনুমোদন পাঠ্যপুথিৰ 01২ 000০ত 01২ 0006 সম্পৰ্কিত\nভাষাটোক নিৰ্বাচন কৰক    বাছনি কৰক- ছাত্ৰ/    কৰিবলৈ 0]২ ক’ডৰ     কৰক আৰু এপ    (\"গ01121'8 কেন্দ্ৰীভূত/ হৈ থকা বিষয়বস্তু প্ৰদৰ্শন\n\nশিক্ষক/অন্য   আইকনটোত স্পৰ্শ কৰক ব্যৱহাৰৰ অনুমতি দিয়ক দৃষ্টিপাত (]\"0009) কৰক কৰিবলৈ ক্লিক কৰক\n\n2\n[ন]\n\n01২ ৫০৫০ৰ তলত আপুনি ছটা         আপোনাৰ ব্ৰাউজাৰত         ৬ অংকৰ ডায়েল ক’ডটো        ডপলব্ধ বিষয়বস্তুৰ তালিকা\nঅংকবিশিষ্ট সংখ্যাটো                |10005://9014511 0.92%4.107,/ 95/961           আপোনাৰ [)০91€00])ৰ                    নিৰীক্ষণ কৰক আৰু নিজৰ\n\n(ডায়েল কোড) দেখিব                     টাইপ কৰক                    চাৰ্চবাবডালত লিখক\n\nপছন্দৰ বিষয়বস্তুত ক্লিক কৰক\n\n্  = শৰ,                                        |\n0517 0)]ং €002 ব্যৱহাৰ কৰিব  সঃ                                         |\n|",
+  "confidence": {
+    "word_count": 155,
+    "mean": 66.17,
+    "median": 82.12,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.626,
+  "page_elapsed_seconds": 4.98,
+  "peak_process_tree_rss_bytes": 238522368,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

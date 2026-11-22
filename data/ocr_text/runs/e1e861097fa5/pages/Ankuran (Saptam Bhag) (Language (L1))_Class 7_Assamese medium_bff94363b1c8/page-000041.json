@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতাসমূহ-_\n\nঞ্চ শুদ্ধ আৰু স্পষ্টকৈ কবিতাটো পঢ়িব আৰু ছন্দ মিলাই আবৃত্তি কৰিব পাৰিব\nঞ্চ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\nঞ্চ কবিতাটোৰ মূলভাব বুজি লিখিব পাৰিব\nঞ্চ কবিতা গদ্য ৰূপত ক’ব আৰু লিখিব পাৰিব\nঞ স্বদেশপ্ৰেমমূলক মনোভাব জগাই তুলিব পাৰিব\nঞ্চ প্ৰতিষ্ঠিত কবিৰ কবিতা পঢ়ি লিখন শৈলীৰ বিষয়ে জানিব পাৰিব\nঞ্চ নতুনকৈ পোৱা শব্দৰ অৰ্থ জানিবৰ বাবে অভিধান ব্যৱহাৰ কৰিব পাৰিব\n+ বিপৰীত অর্থ প্রকাশক শব্দ জানিব পাৰিব\nঞ্চ যতি, বিৰাম চিহ্নৰ ব্যৱহাৰ কৰিব পাৰিব\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nকবিতাটো শুদ্ধ !_ কবিতাটো [পাঠভিত্তিক প্রশ্নৰ কবিতাটোৰ _| কবিতাটোৰ কঠিন\nকবিতা = আৰু স্পষ্টকৈ      মূলভাব গদ্যত ক’ব\n0 বিকি আৰুভি কৰিব উত্তৰ দিব পৰা৷ আৰু লিখিব’পৰা | “ৰ অৰ্থ লিখিব\nভাষা অধ্যয়ন বিপৰীত অৰ্থ ৷ অন্ত্যমিল থকা _ বিশেষ্য আৰু\nব্যোৱহাৰিক প্রকাশক শব্দ + শব্দ বাছি | বিশেষণ পদ  যতি চহ অয়োগ\nব্যাকৰণ)  জনা  উলিয়াব পৰ৷ ৷ চিনিব পৰা\nদেশপ্ৰেমমূলক নিজৰ ভাব\nজ্ঞান _ গীত সংগ্ৰহ কৰি! প্রকাশ কৰিব   স্বদেশপ্ৰেমমূলক কবিতাৰ\nসম্প্ৰসৰণ :__ গাব পৰা  পৰা     বিষয়ে জনা\nপ্রকল্প  দেশপ্ৰেমিকৰ ভথ্য সংগ্ৰহ কৰিব\n\nএনা\n\nশিকাই পুনৰ মূল্যায়ন কৰিব ।\n\n2৯\"\n\nঅহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত ৮ চিন দিব আৰু নহ’লৈ % চিন দিব ৷ অহ'তা আয়ভ নোহোৱা শিকাৰচক আঅতিৰিভ্ঞভাৱে",
+  "confidence": {
+    "word_count": 194,
+    "mean": 83.12,
+    "median": 94.14,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.583,
+  "page_elapsed_seconds": 2.803,
+  "peak_process_tree_rss_bytes": 306511872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

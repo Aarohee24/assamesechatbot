@@ -1,0 +1,67 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 23,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্নীনিয়াত               ১৭\n\nকিছুমান ফিৰিস্তা কবৰত প্ৰশ্ন কৰিবলৈ নিযুক্ত হৈছে। মৃত্যুৰ পিচত কবৰত\nথোৱাৰ লগে লগে মনকীৰ আৰু নকীৰ ( )=*-_; গৰ্গ পূ .) দুজন ফিৰিস্তাই\nমৃতকক তেওঁৰ কৰ্মবোৰৰ বিষয়ে সোষধে।\nইয়াৰ ওপৰিও আল্লাহতাআলাই দোজখ, বিহিন্ত আৰু অন্যান্য কামবোৰ\nকিৰিক্তঞাৰ দ্বাৰাই পৰিচালনা কৰি আছে। কিছুমান ফিৰিস্তাই আল্লাহতাআলাৰ\nএবাদত আৰু তছ্বীহ (প্ৰশংসা আৰু পৱিত্ৰতা) বৰ্ণনা কৰাত মগ্ন (9 += == )\nথাকে। ফিবিজ্তাসকলৰ বিষয়ে আমি কোৰআন মজীদ আৰু হাদীছ শ্বৰীফৰ পৰা\nজানিব পাৰো।\nপ্ৰশ্নম- ফিৰিস্তাসকলৰ ভিতৰত বিখ্যাত কফিৰিসজ্াকেহইজন আৰু তেওঁলোকৰ কাম\nকি?\nউত্তৰ- ফিবিজ্াসকলৰ ভিতৰত বিখ্যাত ফিৰিস্া চাৰিজন ৷\n১। হজৰত জিব্ৰাইল (আঃ)এ 'আল্লাহতাআলাৰ বাৰ্ত আৰু কিতাবসমূহ\nপয়গান্বৰসকলৰ ওচৰলৈ লৈ আহিছিল। কেতিয়াবা নবীসকলক সহায়\nকৰিবলৈ আকু আল্লাহতাআলাৰ অবাধ্য মানুহবিলাকক শান্তি দিবলৈ হজৰত\nজিত্লাইল (আঃ)ক আল্লাহৃতাআলাই পগিয়াইছিল।\n২ ৷ হজৰত মিকাই ল (আঃ)ক আল্লাহাতাআলাই সকলো সৃষ্ট জীৱকে\nজীবিকা দিয়া আৰু বৰষুণ দিয়া কামত নিযুক্ত কৰিছে। হজৰত মিকাইল\n(আঃ)ৰ অধীনত আগথণন ফিৰিস্তাই কাম কৰি আছে। সাগৰ, নদ-নদী, বায়ু\nআদি প্রৰবিচালনাত কিছুমান ফিৰিস্তা নিযুক্ত হৈছে।\n৩। হজৰত ইছৰাফিল (আঃ)ক আল্লাহুতাআনাই কিয়ামতৰ দিনা শিঙা\nফুকাবলৈ নিযুক্ত কৰিছে।\n৪ ! হজৰত আজ্রাইল (আঃ)ক সৃষ্ট জীৱৰ পৰা প্ৰাণ উলিয়াই নিয়াৰ বাবে\nনিবুক্ত আল্লাহতাআলাই নিযুক্ত কৰিছে। হজৰত আজ্ঞাইল (আঃ)ৰ অধীনত\nঅসংখ্য ফিবৰিজ্ঞাই কাম কৰি আছে।\nআল্লাহতাআলাৰ আদেশত ফিবৰিস্তাসকলে এই বিশ্বব্ৰহ্মাণ্ডৰ সকলো\nকাম সম্পন্ন কৰি আছে।",
+  "confidence": {
+    "word_count": 196,
+    "mean": 80.23,
+    "median": 92.12,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 5 diacritics",
+        "Detected 5 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.642,
+  "page_elapsed_seconds": 2.756,
+  "peak_process_tree_rss_bytes": 250720256,
+  "tesseract_warnings": [
+    "Detected 5 diacritics",
+    "Detected 5 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 55,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কাগজখিলা মাকৰ হাতত দি মাকণে ক’লে == ‘মা, এয়া মই পাবলগীয়া পইচাৰ হিচাপ’\nএই বুলি কৈ তাই খেলিবলৈ গ’ল।                             ক্্র\nহাতত খাম এটা দি ক’লে --- ‘বাইদেউ, এইটো মায়ে\nতোমাক দিবলৈ কৈছে।” মাকণে লৰা-লৰিকৈ খামটো\nখুলি টকা তিনিটা আৰু এখিলা কাগজ পালে।\nটকাকেইটা পাই তাইৰ বৰ আনন্দ লাগিল। এইবাৰ\nতাই কাগজখন পঢ়িবলৈ ধৰিলে---\nমৰমৰ মাকণ,                                           ইং ০৭. ০৬. ২০২০\n\nমৰম ল’বা। তোমাৰ চিঠিখন পঢ়িলোঁ। ময়ো চিঠিৰ লগতে তোমালৈ মই কৰা৷\nকামৰ হিচাপ দিছোঁ; পঢ়ি চাবা। আগেয়ে চিঠি কেনেকৈ লিখিব লাগে কওঁ শুনাচোন।\nচিঠিখন যদি তুমি দেউতাৰালৈ লিখা, তেনেহ’লে ‘পূজনীয়’ অথবা শ্ৰদ্ধেয়’ বুলি সম্বোধন\nকৰি লিখিবা। সৰুলৈ লিখিলে ‘মৰমৰ’ আৰু বন্ধুলৈ লিখিলে ‘প্ৰিয়’বুলি লিখিবা ৷ চিঠিখনৰ\nওপৰৰ সোঁহাতৰ কোণত য’ৰ পৰা লিখিছা, সেই ঠাইৰ নাম দিবা আৰু তাৰে তলত তাৰিখ\nলিখিবা। এতিয়া অলপ ঠাই এৰি কুশল-মংগল কামনা কৰি আৰম্ভ কৰিবা। তাৰ পাছত\nতুমি ক’ব খোজা কথাখিনি আৰু খা-খবৰ জনাবা। লিখা শেষ হ’লে ‘ইতি’ বুলি লিখি তলত\nনিজৰ নাম দিবা৷ চিঠিখন ডাক-ঘৰৰ জৰিয়তে পঠাব খুজিলে সেইখন খামত ভৰাই খামটোত\nআঠা লগাবা। খামৰ ওপৰত মই দেখুওৱা ধৰণেৰে ঠিকনা লিখিবা---\n\nপ্নি[][]]]]]|] |]",
+  "confidence": {
+    "word_count": 168,
+    "mean": 89.7,
+    "median": 95.74,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.092,
+  "page_elapsed_seconds": 3.414,
+  "peak_process_tree_rss_bytes": 242868224,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

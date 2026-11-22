@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কোঁৱৰে তেতিয়া পথাৰত মাটি চহাই থকা৷ আৰু ভূঁই ৰুই থকা মানুহ দুজনৰ কথা\nক’লে। তেতিয়া মন্ত্ৰীয়ে ক’লে, ‘কোঁৱৰ, গাত ৰ’দ নলগা আৰু বৰষুণ নপৰা মানুহ এই\nদুজনেই। দুয়ো নিজৰ কৰিবলগীয়া কামখিনি কৰিবই। ৰ’দেই হওক বা বৰষুণেই হওক\nতেওঁলোকে তালৈ ভ্ৰাক্ষেপ নকৰে। ৰ’দ-বৰষুণ কাটি কৰি থৈ কাম কৰিলেহে ভাল খেতিয়ক\nহ’ব পাৰি। ৰাজ্য চলোৱা আৰু টান কাম। তোমাৰ পিতাৰাই সকলো প্রকাৰৰ কষ্ট সহ্য কৰি\nৰাজ্য চলাই আছে। তেনেকৈ শ্রম কৰিব পৰা এজন উত্তৰাধিকাৰী নাপালে আমাৰ ৰাজ্য\nআন কৰ্মী মানুহৰ হাতলৈ গুচি যাব।\n\nমন্ত্ৰীৰ কথাই ফল ধৰিলে। কোঁৱৰে ৰাজকাৰ্যত দেউতাকক সহায় কৰিবলৈ আৰম্ভ\nকৰিলে। ৰজাই বুজিলে এইবাৰ তেওঁ পুতেকক ৰাজ্যভাৰ গতাই দিব পাৰিব।\n\n(উৎস ঃ কুঁহিপাঠ-- চতুৰ্থ ভাগ, পৃষ্ঠা-৫, প্রকাশক অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন আৰু প্রকাশন\nনিগম, সংকলন আৰু সম্পাদনা নৱকান্ত বৰুৱা, গৌৰীকান্ত ভূঞা)\n\nক -=_ পাঠভিত্তিক তভ্ৰিয়া\n\nক্ৰিয়া-কলাপ\n১ । উত্তৰ দিয়া।\n\n(ক)ৰজাৰ পুতেককেইজন কেনেকুৱা স্বভাৱৰ আছিল?\n(খ) ৰজা চিন্তিত হোৱাৰ কাৰণ কি আছিল?\n(গ)ৰজাই পুতেকহঁতক কামত লগাব নোৱাৰি কাৰ সহায় লৈছিল?\n(ঘ) মন্ত্ৰীয়ে ৰাজকোঁৱৰক কি কৰিবলৈ উপদেশ দিছিল?\n২। চমু উত্তৰ দিয়া।\n\n(ক) কোৰ আৰু জবকাৰে কি কাম কৰে?\n(খ) ধাৰাসাৰ বৰষুণ কোন মাহত আহিছিল?\n(গ) কঠীয়া ৰোৱা মানুহজনে কি কৈছিল?\n\n(ঘ) ‘মন্ত্ৰী ডাঙৰীয়া, গাত ৰ’দ নলগা আৰু বৰষুণ নপৰা মানুহ মই নাপালোঁ,’__\nকথাষাৰ কোনে কৈছিল?",
+  "confidence": {
+    "word_count": 196,
+    "mean": 90.08,
+    "median": 96.01,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.211,
+  "page_elapsed_seconds": 3.499,
+  "peak_process_tree_rss_bytes": 230973440,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

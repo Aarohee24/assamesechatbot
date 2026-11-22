@@ -1,0 +1,64 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "|\n],%৮(6110620 10911]\n\nতখৈম[ 01]76 ]16]]|) ৮001 1]0012[ 11} 011|280]116 {]16 ])8010609 01\n10001021798 00085]]1{ ৪1021. 81101)2])1116 1|\"01]] {]6 ঠ100621\")/ 9110]). 1২০৪৫\n72 1701001]8] 111[011118.0011 01 8016894 01166 1[0101160 11000 116211]9\n8110 0190099 80000 {]1207] ড্1{]) ৮001 (280০1161'9 .\n\n'[])6 /১])8181]1 0126 01./%1700118.0118|] ]\"18069]] 11]8|069 8 ৪8110 ঘা ৪.৪\n18))0 10 10}]]| 01611\" 016080\") 16001121]1219. (2011600 111011118.001]\n8110 11]782629 11\"01]] ]6 111(211160 80000 16211\" 581 1118.116 |)100698.\n্ব়্া1(6 8 |)81'818])]) 80000 1116 |)100699 01 18116 98] 111 8 ০1181\"\n128|)61' 8110 |)896 116 11]788669 01] 11.\n\n116][)816 & 1800 01 0681811060 0160101 & 12 ৮680\" 010 00%. ]]16\n01601 01180\" 91100010 111010062 1000.161] 18, 816 1008] ৪%৬৪1]810]6\n\n(36890118]) 11} ৮001 |)[৪০০,",
+  "confidence": {
+    "word_count": 111,
+    "mean": 40.74,
+    "median": 36.59,
+    "minimum": 0.0,
+    "maximum": 93.11
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.4012,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.536,
+  "page_elapsed_seconds": 2.812,
+  "peak_process_tree_rss_bytes": 251969536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

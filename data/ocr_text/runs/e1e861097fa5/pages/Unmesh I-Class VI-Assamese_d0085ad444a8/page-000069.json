@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 69,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১২ । আমাৰ সমাজত পৰম্পৰাগতভাৱে চলি থকা কামবোৰৰ মাজত বিজ্ঞানসন্মত ভিত্তি\nথকা আৰু নথকা দুটা কামৰ বিষয়ে যুক্তিৰে লিখা।\n\nক্ল   নকল\n\n৷্খ\n\nআৰ,\n\nঅহতা\n\nৰি\n\nউপ-অৰ্হঁতা\n\nত্ৰিয়া-কলাপৰ\nনম্বৰ\n\nনিজাববীয়াকৈ\nপাৰিছে\n\nশিক্ষকৰ\nসহায়ত\nপাৰিছে\n\nনিদানমূলক\nশিক্ষাৰ পাছত\n\nপাৰিছে\n\n৷\n\n1.1\n\n€,.-2.3\n\n0-1\n\n(:-5.3\n\nত\n\nঞ্স৷ পাঠটোৰ মূল বিন্দুসমূহ চিনাক্ত কৰি\nক’ব আৰু লিখিব পাৰিব।\n\nছ্স৷ সামাজিক পৰিৱেশ পৰিস্থিতিৰ বিষয়ে\nধাৰণা৷ কৰি লিখনৰ জৰিয়তে বৈজ্ঞানিক\nযুক্তিসহকাৰে প্রকাশ কৰিব পাৰিব।\nক্স সামাজিক, সাংস্কৃতিক পৰিবেশৰ\nবিভিন্ন দিশ সম্পৰ্কে ধাৰণা কৰি লিখনৰ\nজৰিয়তে প্রকাশ কৰি প্রকল্পৰ কাম\nকৰিব পাৰিব।\nছ্সনতুন শব্দৰ অৰ্থ বুজিবলৈ অভিধান\nব্যৱহাৰ কৰিব পাৰিব।\n\nঞস প্ৰত্যয় যোগ কৰি পরদ.গ্রঠনৰ ধাৰণা\nলাভ কৰিব।\n\nঞ্স বিপৰীত অৰ্থ বুজোৱা শব্দ. লিখিব\nপাৰিব\n\n৷ গুণবাচক,বিশেষ্য পদৰ বিষয়ে বুজি\nলিখিব পাৰিব।\n\nঞ্স৷ পাঠৰপৰা বহুবচন বুজোৱা শব্দবোৰ\nচিনাক্ত কৰিব পাৰিব।\n\nক্ল খেলৰ মাজেৰে সাঁথৰ ভাঙি ক’ব\nপাৰিব।\n\nইঃ = 8 ৰ\n\n১০\n\n১২\n\n১\n\nৰ\n\n= []2৷ ইয়াৰ বাবে শিক্ষকে ছাত্ৰ-ছাত্ৰীসকলৰ মাজত দল গঠন কৰি দিব আৰু তেওঁলোকক বিদ্যালয়ৰ কাষৰীয়া গাঁও বা অঞ্চললৈ",
+  "confidence": {
+    "word_count": 155,
+    "mean": 79.39,
+    "median": 94.87,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.622,
+  "page_elapsed_seconds": 6.096,
+  "peak_process_tree_rss_bytes": 279322624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 95,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মাজে মাজে গাঁৱৰ মুখিয়াল ব্যক্তি আৰু ছাব্র-৷াত্ৰীৰ অভিভাৱকসকল বিদ্যালয়লৈ আহে।\nতেওঁলৈকে ছাত্ৰ-ছাত্ৰীসকলে পঢ়া-শুনা আৰু আন আন দিশত কিমান আগবাঢ়িছে তাৰ খা-খবৰ লয় ।\nমাজে সময়ে বিদ্যালয় পৰিচালনা সমিতি, শিক্ষক-শিক্ষয়ি্ৰী আৰ্চ অভিভাৱকসকলৰ মাজত সভা\nবহে । সভাত বিদ্যালয়ৰ বিভিন্ন উন্য়নৰ কথা আলোচনা কৰে। প্ৰয়োজন হ’লৈ বিদাযালয়ৰ ঘৰ-দুৱাৰ,\nপ্ৰজ্যৱঘৰ আদি নিমাৰ্ণতো ৰাইজে সহায়-সহযোগ কৰে।\n\nএইখন বিদ্যালয়ত পঢ়িয়েই সেই অঞ্চলৰ লোকসকল শিক্ষিত হৈছে। জনা-বুজা হৈছে। বহুতে\nডাঙৰ মানুহ হৈ অঞ্চলটোলৈ গৌৰৱ কঢ়িয়াই আনিছে । সেয়ে অঞ্চলৰ ৰাইজৰ লগতে নিমালিহঁতে\nনিজৰ বিদ্যালয়খনক লৈ গৌৰৱ অনুভৱ কৰে।\nদলত আলোচনা কৰিলিখা--\n\n(ক) তোমালোকৰ বিদ্যালয়খনৰ নাম-\n\n(খ) বিদ্যালয়খনৰ চাৰিসীমাত কি কি আছে-\n\n(গ) তোমালোকৰ বিদ্যালয়ৰ শিক্ষক-শিক্ষয়িত্ৰীৰ সংখ্যা-\n\n(ঘ) মধ্যাহ্ন ভোজন ৰন্ধা আৰু বিতৰণ কৰা বাইদেউৰ সংখ্যা-\n\n(৬) তোমালোকৰ নিজৰ বিদ্যালয়খনক ভালপোৱাৰ দুটা কাৰণ লিখা-\n\n(চ) তোমালোকৰ বিদ্যালয়খন পৰিষ্কাৰকৈ ৰাখিবৰ বাৰে কিকি কৰা--\n\n(ছ) বিদ্যালয়ত থকা সময়ছোৱাৰ ভিতৰত তোমালোকে কৰা কামৰ তালিকা এখন প্রস্তুত কৰা৷\n\n(জ) তোমালোকৰ বিদ্যালয়ত পঢ়ি অঞ্চললৈ গোৰৱ কঢ়িয়াই অনা লোকৰ নাম জানানে ? যদি\nজানা তেনেহ’লে তেনে দুজন ব্যক্তিৰ নাম লিখা (শিক্ষকৰ সহায় ল’বা)\n\nমৃদুলৰ দেউতাকে বেংকত চাকৰি কৰে। দেউতাকৰ মুখৰপৰা মৃঢুলে গম পাইছে যে বেংকবোৰ\nআচলতে টকা-পইচাৰ লগত জড়িত বাযৱসায়িক প্ৰতিষ্ঠান । বেংকৰ জৰিয়তে চৰকাৰে বা মানুহে টকা-\nপইচাৰ লেন-দেন কৰে।",
+  "confidence": {
+    "word_count": 188,
+    "mean": 87.43,
+    "median": 93.22,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.147,
+  "page_elapsed_seconds": 3.72,
+  "peak_process_tree_rss_bytes": 234512384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

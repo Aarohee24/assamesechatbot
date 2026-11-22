@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৩২্‌খ           ৰি       ৰ        1 2479\n\n(গোাঁওবুঢ়াৰ ঘৰৰ বাট-চ’ৰাৰ দৃশ্য ৷ এখন কাঠৰ ডাঙৰ চকী আৰু এখন মজলীয়া আকাৰৰ বেঞ্চ থাকিব। কাঠৰ\n\nচকীখনত খকুৱা (মেকুৰী) ই বহি টোপনিয়াই থাকিব। মজিয়াত দুখন থাল থাকিব। এনেতে বাহিৰৰ পৰা\nভতুৱা (কুকুৰ) সোমাই আহি খকুৱাৰ ওচৰত থিয় হ’ব আৰু কাজিয়া কৰিবলৈ আৰভ কৰিব)।\n\n|                                            ।\n\") ০ স্পতল,লীলত ৩\nৰ্পু     |                                 ঞ্জ্ট 6“্ছং অ:                 {                  ৷\nৰ                                               ঢু         হন                           ন\n--১                   ত\n--        ঢ                                                                           ৰি,\n=                                                                                                                     ঞং\nঙ্ৱৰ্কি     /)\n==    সী                                                                                                      পে\n\nভতুৱা (ভুক্‌ভুকাই)--- হেৰ’ খঁকুৱা, তই চকীখনতে লেপেট্‌ খালি কিয় ? নাজাননে সেইখনত\nযে গাঁওবুঢ়া দেউতাহে বহে! তাত শুবলৈ তোৰ লাজ লগা নাইনে?\nখঁকুৱা (মেউ-মেউকৈ) --- বৰ লাজ-মান বুজাটো নোলাবিচোন ! হেৰ’, গৰাকীৰ ঘৰতে\nমাছে-মঙহে উদৰ পূৰাই খোৱাৰ পাছতো দেখোন বিয়া-সবাহৰ\nগোন্ধ পালেই চুৱাপাত চেলেকিবলৈ লৰ মাৰ; তেতিয়া তোৰ লাজ-\nমান ক’লৈ যায় অ’?\n\nভতুৱা(খঙতে জাঁক উঠি) -- লোকৰ চৰুৰ ভজা মাছ চুৰি কৰি মুখ-ঠেকেচা খাওঁতে যাৰ\nজনম গ’ল, তাৰ মুখত এতিয়া বৰ বৰ কথা। ৰ'বি, আজি তোক মই\nএসেকা দিহে এৰিম। (ভতুৱাই ভুক্‌ভুকাই খঁকুৱাক খেদি যায়। খঁকুৱাই\n\nমেউ-মেউকৈ জাঁপ মাৰি চকীৰ পৰা নামি দৌৰিবলৈ ধৰে।)",
+  "confidence": {
+    "word_count": 51,
+    "mean": 81.44,
+    "median": 94.84,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.565,
+  "page_elapsed_seconds": 4.185,
+  "peak_process_tree_rss_bytes": 240185344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

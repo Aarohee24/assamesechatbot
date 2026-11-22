@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 25,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "=== ঠৰ ৭। শব্দ গঠন কৰি লিখোঁ আহা---\n\nএতিয়া সেইবোৰ শব্দৰ আদি আখৰটোত ‘শ’ বহুৱালে কি হ’ব, ছবিৰ তলৰ বাকচত লিখা।\n\n/\n\nঠৰ ৮। চৰাইটোৰ পেটত থকা শব্দৰে তলৰ বাক্যবোৰ পূৰোৰা--\nক) বহাগৰ      ত গৰুক গা ধুৱায়।\n\nখ) বাটৰুৱাজনে     খন থৈ গছৰ ছীত জিৰণি ল’লে।\nগ) ভেবেলাই খেতিৰ       বজাৰলৈ নিছে।\nঘ) মৌ এবিধ       খাদ্য৷\n\nঠ/ ৯ ৷ ফুলৰ পাহিত থকা ছন্দযুক্ত শব্দ লৈ কবিতাটো সম্পূৰ্ণ কৰোঁ আহা---\n\nমামাৰ ঘৰলৈ যাম        যদি খোৱা\nউদৰ পূৰাই ৰ লী\" ---]- \"---\"]    গাখীৰ এ ৯৯53১১৮=০\n\nআম কঁঠাল জাম       তেহে পাবা\nমামাৰ বাৰীত 8357, |    হ্যত- ললি\n\nধৱ)        গ্ৰদ্ল",
+  "confidence": {
+    "word_count": 94,
+    "mean": 72.93,
+    "median": 92.99,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.77,
+  "page_elapsed_seconds": 3.662,
+  "peak_process_tree_rss_bytes": 230277120,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 104,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "‘খ৷” থকা বাবে        ‘ৰ’ থকা বাবে     'য’ থকা বাবে\n“ৰ ১১৷আৰ্হিটোত দেখুওৱাৰ দৰে তলৰ বাক্যকেইশাৰীৰ ভাব বহলাই লিখা।\nআৰ্হিঃ\nদহো আঙুলিৰে খায়, কিন্তু বুঢ়াই হেঁচুকিলেহে যায় ঃ ভাত এগৰাহ, খাবলৈ হ’লে\nঅবিহনে ভাত খোৱা কামটো সহজ নহয়। ঠিক তেনেদৰে, কোনো এটা কাম সুকলমে\nসম্পন্ন হ’বৰ বাবে পৰিয়াল বা সমাজৰ এজন জ্যেষ্ঠ বা অভিজ্ঞ ব্যক্তিৰ প্রয়োজন হয়।\n\nযা-যোগাৰ কৰাৰপৰা মুখলৈ নিয়ালৈকে হাতৰ গোটেইকেইটা আঙুলিৰ প্ৰয়োজন হয়।\nকিন্তু খাবৰ বাবে বুঢ়া আঙুলিৰে মুখৰ ভিতৰলৈ ঠেলিবলগীয়া হয়। বুঢ়া আঙুলি\nসেই জ্যেষ্ঠ বা অভিজ্ঞ ব্যক্তিজনে দিহা-পৰামৰ্শ দি বা আগভাগ লৈ কাম এটা সম্পূৰ্ণ\nহোৱাত সহায় কৰে।\n\n(ক) সজ কাৰ্যৰ সজ ফল, অসজ কাৰ্যৰ অসজ ফল।\n(খ) ৰাইজে নখ জোকাৰিলে নৈ বয়।\n\n৷ জানো আহা--\n\nজ্যোতিপ্লসাদ আগৰৱালাই জাৰ্মানীত চলচ্চিত্ৰ বিষয়ক শিক্ষাগ্ৰহণ কৰিছিল। অসমলৈ আহি\n‘জয়মতী’ কথাছবিখন নিৰ্মাণ কৰোঁতে তেওঁ বিভিন্ন ধৰণৰ সমস্যাৰ সন্মুখীন হৈছিল। বিশেষকৈ নাৰী\nশিল্পী নিৰ্বাচনৰ ক্ষেত্ৰত বহু অসুবিধা পাইছিল। কাৰণ, সেই সময়ৰ সমাজখন আছিল অতি ৰক্ষণশীল।\nবোলছবিখনৰ তিনিটা মূল চৰিত্ৰ ‘জয়মতী’, ‘ডালিমী’ আৰু ‘পাটমাদৈ’ৰ বাবে উপযুক্ত অভিনেত্ৰী বিচাৰি\nনোপোৱাত তেওঁ চিন্তিত হৈ কাকতত বিজ্ঞাপন দিছিল। এই কথা গম পাই ডিম্ব গোহাঁই নামৰ এজন\nব্যক্তিয়ে তেওঁৰ সম্বন্ধীয়া ভনীয়েক আইদেউ সন্দিকৈৰ ফটো তুলি পঠিয়াই দিছিল। ফটোখন দেখি\nজ্যোতিপ্ৰসাদ আগৰৱালাই ছোৱালীজনীক ‘জয়মতী কুঁৱৰী’ৰ চৰিত্ৰত অভিনয় কৰাবলৈ লৈ আহিবলৈ\nকৈছিল। গতিকে, গোহাঁয়ে আইদেউ সন্দিকৈক লৈ আহি চিনেমাত অভিনয় কৰোৱাইছিল।",
+  "confidence": {
+    "word_count": 203,
+    "mean": 90.36,
+    "median": 95.93,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 4.075,
+  "page_elapsed_seconds": 6.301,
+  "peak_process_tree_rss_bytes": 260820992,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

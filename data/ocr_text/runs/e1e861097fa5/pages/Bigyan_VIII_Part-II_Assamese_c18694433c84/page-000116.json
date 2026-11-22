@@ -1,0 +1,63 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 116,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "9. ঘ%/01\"][ 81112: [186 |]16 ০1029 10 ছঘ01\"[ং 000{ 176\nঘ\"0103.\n\n/১০1\"098\n\n3. ]}শ\"000011196 ৬০1০6 00311) 60%9\n\n4. 0181109 ঘঘ10]100{0 00019\n\n7. ])100ণমে116 9]89110 8100820]160 00 01811]\n\n8. ১০০6001] 01 211000স116 9181109\n\n9. ]}811স6800 ]011]01162\n\n10). ]\"21]18|2 |10111]1012\n\n]1)0ঘমা]\n\n1. [/[8]2 ]1011]0116\n\n2. ১০০৮0০৪ ]])10১0112\n\n3. /?10100121 [211] 101\" (6218.862\n\n5. []0111]10116 1680]269 11216 10081 61000 90'68]]]\n\n6. ৬০1০৮ ৮০%\n\n7. [921] 101\" শ1811629 81 8৪0012906211062\n\n[]][]1]1]!গ]৭]\n\n-[12]11|11]1]]\n\n[৩\n\nু\n[]\nৰ\nভ্ঃঞ [|\n]7]7]দ8]]]\nব\n[][]লন[া][]     [7\n\n[|11%}৷|\n\n101]\n\nবিজ্ঞান / ৪01খ0};_;",
+  "confidence": {
+    "word_count": 83,
+    "mean": 46.1,
+    "median": 42.74,
+    "minimum": 0.0,
+    "maximum": 96.38
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2538,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.431,
+  "page_elapsed_seconds": 2.668,
+  "peak_process_tree_rss_bytes": 305360896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

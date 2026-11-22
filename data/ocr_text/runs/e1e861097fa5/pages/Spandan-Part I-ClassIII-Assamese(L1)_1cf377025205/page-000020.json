@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খলি                    ্\"\n(_ ভাষা-্ধ্যয়নয )         _ মম\n\n7 9৫ “এঘৰ মানুহৰ এখন ফল-মূলৰ বাগিচা আছিল।”--- এই বাক্যটোত ‘আছিল’ শব্দটোৱে\nআগতে থকা অৰ্থ বুজাইছে। এনেদৰে আগতে হৈ যোৱা, থকা, খোৱা, কৰা আদি অৰ্থ\n\nবুজোৱা শব্দবোৰ পাঠৰ পৰা বিচাৰি উলিয়াই লিখ৷---\n\nৰ             \"্    ৰ             ্    ৰ             \"এ\n\n+,             ন    ৭             ৰ    ন             6\n।    ইৃ        ৰ             =    ৰ             ্প    ৰ             ম্\n\n+             1    ৭             ৰ    +             /\n\nৰ ৭।বান্দৰজাকুক ৰৰষুণত তিতি থকা দেখি টোকোৰা চৰাইবোৰে দুখ কৰিছিল।\nতলৰপৰিস্থিতিবোৰত তুমি কি কৰিবা?\n(ক)৷ তোমাৰ কুকাদেউতাৰা বেমাৰ হৈ বিছনাত পৰি আছে।\n(খ) তোমাৰ সমনীয়া খেলত বিজয়ী হৈছে।\n(গ) তোমাৰ সন্মুখত চৰাইৰ পোৱালি এটি বাহৰপৰ৷ সৰি পৰিছে।\n(ঘ) টোকোৰা চৰাইৰ ঠাইত তুমি হোৱা হ’লে বান্দৰকেইটাক কি ক’লাহেঁতেন?\n\n€_ খৰম _.)\n\n/ ৮। ক) কোনবোৰ চৰাইয়ে নিজৰ বাহ নিজে সাজে তাৰ এখন তালিকা প্রস্তুত কৰা।\nখ) বিভিন্ন চৰাইৰ বাহৰ ছবি সংগ্ৰহ কৰি এখন এলবাম প্ৰস্তুত কৰা।\n\n৯৬৯৬           নেদ;",
+  "confidence": {
+    "word_count": 138,
+    "mean": 76.28,
+    "median": 92.62,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.49,
+  "page_elapsed_seconds": 4.486,
+  "peak_process_tree_rss_bytes": 240152576,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 201,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[দ][৷এ[\"]\n\nতালি    অন\n2৮000]\n\nশিকনৰ ফলাফল ঃ\n\nনিৰ্বাচন কি এই বিষয়ে জানিব পাৰিব।\n\nনিৰ্বাচনৰ বিভিন্ন প্রকাৰৰ বিষয়ে বুজি পাব।\n\nভাৰতবৰ্ষৰ প্রধান ৰাজনৈতিক দলসমূহৰ বিষয়ে থূল-মূল আভাস লাভ কৰিব।\nভাৰতবৰ্ষৰ নিৰ্বাচন প্রক্ৰিয়াৰ বিষয়ে অৱগত হ'ব।\n\nগণতন্ত্ৰত শাসক আৰু বিৰোধী দলৰ ভূমিকাৰ বিষয়ে ধাৰণা লাভ কৰিব।\n\nতোমালোকে আগৰ শ্ৰেণীত ‘গণতন্ত্ৰ ওপৰত সম্যক ধৰণ৷ লাভ কৰিলাহঁক। ‘নিৰ্বাচন’ গণতান্ত্ৰিক শাসন\nব্যৱস্থাৰ এটা অন্যতম দিশ। এখন গণতান্ত্ৰিক চৰকাৰ গঠন কৰিবৰ বাবে নিৰ্বাচন অপৰিহাৰ্য।\nএই পাঠটোৰ জৰিয়তে নিৰ্বাচননো কি, এই বিষয়ে জানি লওঁ আহা। নিৰ্বাচন জনসাধাৰণৰ মত প্রকাশৰ এক\nগুৰত্বপূৰ্ণ মাধ্যম। ভোটাৰসকলে নিদিষ্ট সময়ৰ অন্তৰে অন্তৰে সাংবিধানিক পদ্ধতিৰে তেওঁলোকৰ মাজৰপৰা\nপ্রতিনিধি বাছি পঠিওৱা প্ৰক্ৰিয়াটোকে নিৰ্বাচন বুলি কোৱা হয়।\nভাৰতবৰ্ষত ১৮ বছৰ বয়সৰ ওপৰৰ সকলো নাগৰিকে ভোটাধিকাৰ সাব্যস্ত কৰিব পাৰে। ইয়াত ধৰ্ম, বৰ্ণ,\nভাষা, লিংগ, ধনী, দুখীয়া নিৰ্বিশেষে নিৰ্দিষ্ট বয়সপ্ৰাপ্ত সকলো লোকে ভোটাধিকাৰ লাভ কৰে বাবে ইয়াক সাৰ্বজনীন\nপ্ৰাপ্তবয়স্ক ভোটাধিকাৰ বোলা হয়।\n\nনিৰ্বাচনৰ প্ৰকাৰ ঃ\nনিৰ্বাচন দুই প্রকাৰৰ---\n(ক) প্রত্যক্ষ নিৰ্বাচন\n(খ) পৰোক্ষ নিৰ্বাচন।\n\nপ্ৰত্যক্ষ নিৰ্বাচন\n\nভোটকেন্দ্ৰলৈ যায়। ভোটকেন্দ্ৰত তেওঁলোকে বিভিন্ন প্ৰাৰ্থীৰ\nমাজৰপৰা নিজৰ পছন্দৰ প্লাৰ্থীক ভোট দি নিৰ্বাচিত\nকৰি লয়।",
+  "confidence": {
+    "word_count": 164,
+    "mean": 88.72,
+    "median": 93.37,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.759,
+  "page_elapsed_seconds": 4.436,
+  "peak_process_tree_rss_bytes": 219582464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

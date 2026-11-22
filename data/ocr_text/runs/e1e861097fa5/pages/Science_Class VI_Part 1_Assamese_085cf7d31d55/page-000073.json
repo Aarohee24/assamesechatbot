@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 73,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঢ়\"\n\n59224\n\nআমি সকলোৱে প্রত্যেকদিনা আহাৰ গ্ৰহণ কৰোঁ। জীয়াই থাকিবৰ বাবে খাদ্য অতি\nপ্রয়োজনীয়। সকলো জীৱক খাদ্যৰ প্রয়োজন হয় যদিও সকলোৰে খাদ্য গ্ৰহণৰ পদ্ধতি ভিন\nভিন। উদ্ভিদে নিজৰ আহাৰ নিজে প্রস্তুত কৰিব পাৰে। মানুহ আৰু আন প্রাণীবোৰে খাদ্যৰ\nবাবে উদ্ভিদ আৰু অন্য প্রাণীৰ ওপৰত নিৰ্ভৰ কৰিবলগীয়া হয়।\n\nখাদ্য আমাৰ কাৰণে কিয় গুৰুত্বপূৰ্ণ? খাদ্য হৈছে জীৱনৰ অন্যতম মৌলিক\nপ্রয়োজনীয়তা। দৈনন্দিন জীৱনৰ বিভিন্ন কাম-কাজ কৰাৰ বাবে খাদ্যই আমাৰ শৰীৰক\nশক্তিৰ যোগান ধৰে। খাদ্যই আমাক ৰোগ আৰু বীজাণুৰ সংক্ৰমণৰ পৰা ৰক্ষা কৰে। খাদ্যই\nআমাৰ শৰীৰৰ বৃদ্ধি আৰু বিকাশতো সহায় কৰে।\n3.1 আমি কি খাওঁ?\n\nআমি জীয়াই থাকিবলৈ বিভিন্ন প্রকাৰৰ খাদ্য গ্ৰহণ কৰোঁ। আমাৰ খাদ্যত প্রধানকৈ\nধান জাতীয় শস্য, মাহ জাতীয় শস্য, শাক-পাচলি, ফল-মূল, দুগ্ধজাত সামগ্ৰী আদি থাকে।এই\nখাদ্যসমূহনেো কি আৰু আমি তাক কেনেদৰে গ্ৰহণ কৰোঁ এই বিষয়ে জানিবলৈ তোমালোকে\nএটা ক্ৰিয়া-কলাপ কৰা।\n\n[] কজ্ৰিয়া-কলাপ 3.1:\n\nতোমালোকে এসপ্ডাহৰ বাবে প্রতিদিনে কি কি খাদ্য খোৱা তাৰ এখন তালিকা\nপ্রস্তুত কৰা। তালিকা 3.1 খন সম্পূৰ্ণ হোৱাৰ পাছত তোমালোকে লগৰখিনিৰ লগত\nসকলোৰে তালিকাবোৰ ইজনে সিজনৰ লগত ভালদৰে মিলাই চোৱাচোন।\n\nতালিকা 3.1 : এসপ্তাহত খোৱা খাদ্যৰ তালিকা",
+  "confidence": {
+    "word_count": 169,
+    "mean": 91.38,
+    "median": 96.0,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.137,
+  "page_elapsed_seconds": 3.471,
+  "peak_process_tree_rss_bytes": 358240256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

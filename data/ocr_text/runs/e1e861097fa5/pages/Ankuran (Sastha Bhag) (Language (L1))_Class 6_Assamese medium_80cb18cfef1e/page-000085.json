@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানি লওঁ আহা\n\n“ককাদেউতা-আইতাৰ লগত মই তেতিয়া উত্তৰ কৰ্ণাটকৰ এখন গাঁৱত বাস কৰিছিলোঁ ৷”\n\n--= এই বাক্যত ‘আইতা’ শব্দত ‘ৰ’ বিভক্তি যুক্ত হৈ ‘আইতাৰ’ পদ নিষ্পন্ন হৈছে আৰু ‘কৰ্‌’\nধাতুৰ লগত ‘-ইছ্‌’ আৰু ‘-ইল্‌’ দশাবাচক ৰূপৰ পাছত ‘ওঁ’ বিভক্তি যুক্ত হৈ ‘কৰিছিলোঁ’ পদ\nহৈছে। বিভক্তিয়ে পদৰ লগত পদৰ সংগতি স্থাপন কৰে।প্রাতিপদিকৰ লগত যুক্ত হোৱা বিভক্তিক\nশব্দ বিভক্তি আৰু ধাতুৰ লগত যুক্ত হোৱা বিভক্তিক ক্ৰিয়া বিভক্তি বোলা হয়।\n\nঅসমীয়া ভাষাত কাৰকবাচক বিভক্তিবোৰ শব্দ বিভক্তিৰ অন্তৰ্ভুক্ত । যেনে ==\nতগৰে মাছ কিনিবলৈ গৈছে। (তগৰ + এ)\nহৰিয়ে গৰুক ঘাঁহ খুৱাইছে। (গৰু + ক)\nসি চামুচেৰে ভাত খাইছে। (চামুচ + এৰে)\nআইতালৈ কল আনিছোঁ। (আইতা + লৈ)\nসিহঁতৰ ঘৰত কোনো নাই। (সিহঁত + ৰ)\nঘৰত কোন আছে? (ঘৰ + ত) ইত্যাদি।\nঅসমীয়াত সম্বন্ধবাচক বিশেষ্যত লগ লগা পুৰুষবাচক বিভক্তিবোৰো শব্দ বিভক্তি। যেনে--\nতোৰ মাৰ (মা + ৰ)\nতোমাৰ মাৰা (মা + ৰা)\nতেওঁৰ/তাৰ মাক (মা + ক) ইত্যাদি।\nআনহাতে, ধাতুৰ ৰূপত ব্যৱহাৰ হোৱা পুৰুষবাচক বিভক্তিসমূহ ক্ৰিয়া বিভক্তি। যেনে--\nমই কৰোঁ (কৰ্‌ +ওঁ)\nতুমি কৰা (কৰ্‌ +আ)\nতেওঁ কৰে (কৰ +এ)\nআকৌ, অসমাপিকা ক্ৰিয়াপদ সাধনৰ ‘ই’ বিভক্তিও ক্ৰিয়া বিভক্তি । যেনে--\nমই ভাত খাই ফুৰিবলৈ যাম। (খা +ই)",
+  "confidence": {
+    "word_count": 183,
+    "mean": 91.67,
+    "median": 95.22,
+    "minimum": 29.22,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.905,
+  "page_elapsed_seconds": 3.249,
+  "peak_process_tree_rss_bytes": 245895168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 27,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী\n1. খালী ঠাই পূৰ কৰা-\n\n(৪8) বিজ্ঞান ’ল __ আৰু __ ৰ জৰিয়তে লাভ কৰা জ্ঞান।\n(৮) পৰ্যৱেক্ষণ, -___ আৰু পৰীক্ষা এই পৰ্যায়কেইটাৰ সমষ্টিয়েই হ’ব\nবিজ্ঞানসন্মত পদ্ধতি।\n(৫০) __ ৰ বাবে আমি খাদ্য খাওঁ।\n(0) পঞ্জাবত মানুহে প্ৰধানকৈ __ খায়।\n(০) কম্পাছত -___ থাকে।\n2. শুদ্ধ উক্তিটোত (/) চিন দিয়া-\n(8) আমি সদায় স্বাস্থ্য ভালে ৰখা খাদ্যহে খাব লাগে।\n(৮) পানীৰ অবিহনে আমি জীয়াই থাকিব পাৰো।\n(০) বৰষুণ হিচাপে পানী আকাশৰপৰা মাটিত পৰে।\n(0) ওলোমাই ৰখা চুম্বক এডাল সদায় পূবা-পৃশ্চিমা হৈ থাকে।\n(০) হিমালয়ৰ ওপৰ অংশ আৰু মেৰু অঞ্চল বৰফেৰে ঢাক খাই থাকে।\n3. চমু উত্তৰ দিয়া-\n(8) মহাকাশচাৰীয়ে মহাকাশত পৃথিৱীখনক কিহৰ নিচিন৷ দেখে?\n(০) কম্পাছৰ মূলবস্তু কি?\n(০) ওলোমাই ৰখা চুম্বক এডাল কোন দিশত মুখ কৰি থাকে?\n(0) নাৱিকসকলে সাগৰত কিদৰে জাহাজৰ দিশ নিৰ্ণয় কৰে?\n(০) বিজ্ঞানসন্মত পদ্ধতিৰ পৰ্যায়কেইটা কি কি?\n4. শুদ্ধ উত্তৰৰ গোলটো সম্পূৰ্ণকৈ পূৰ কৰা-\n(1) উইলবাৰ ৰাইট আৰু অৰভিলি ৰাইটে তলৰ কোনবিধ আৱিষ্কাৰ কৰিছিল?\n(৪) উৰাজাহাজ\n(০) ছাবমেৰিন\n(1৫) মটৰগাড়ী\n(01) তলৰ কোনটো কামত কম্পাছ যন্ত্ৰ ব্যৱহাৰ কৰা হয়?\n(8) দিশ নিৰ্ণয়ৰ কামত\n(৮) গধুৰ বস্তু দাঙোতে      ||218\n(০) বস্তুৰ ওজন জুখিবৰ বাবে\n(0) বতাহৰ গতি জুখিবৰ বাবে\n\n[][][][][]",
+  "confidence": {
+    "word_count": 185,
+    "mean": 86.72,
+    "median": 93.25,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.992,
+  "page_elapsed_seconds": 3.298,
+  "peak_process_tree_rss_bytes": 311500800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

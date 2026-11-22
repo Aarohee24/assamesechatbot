@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 232,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "7. খালী ঠাই পূৰ কৰা-\n(8) পতংগ, পখিলা, মৌমাখি আৰু চৰায়ে সপুষ্পক উদ্ভিদৰ------------সহায় কৰে।\n(0) অৰণ্য হ’ল------আৰু---_-__ৰ বিশুদ্ধি কাৰক।\n(০) অৰণ্যৰ-----স্তৰটো সৰু গুল্ম আৰু ঘাঁহ-বনেৰে গঠিত।\n(0) পচা পাত আৰু প্রাণীৰ বিষ্টাবোৰে অৰণ্যত-------- ৰ বৃদ্ধি কৰে।\n৪8. আমাৰ পৰা দূৰৈত থকা অৰণ্যবোৰৰ অৱস্থা আৰু ইয়াৰ সমস্যা লৈ আমি চিন্তিত কিয়?\n\n9) অৰণ্যত বিভিন্ন প্রকাৰৰ প্রাণী আৰু উদ্ভিদ থকাটো কিয় প্রয়োজনীয় বুজাই লিখা ৷\n\n10) চিত্ৰ 17.15 ত শিল্পীজনে চিত্ৰৰ বিভিন্ন বস্তুবোৰ চিহ্নিত কৰিবলৈ আৰু কীড় চিহ্নৰ দিশ দিবলৈ পাহৰি\nগ’ল। কাড় চিহ্ন দিশ দিয়া আৰু তলত উল্লিখিত বস্তুবোৰ চিহ্নিত কৰা। মেঘ, বৰষুণ, বায়ুমণ্ডল, কাৰ্বন\nডাই-অক্সাইড, অক্সিজেন, উদ্ভিদ, প্রাণী, মাটি, মূল, ভূ-গৰ্ভৰ জলপৃষ্ঠ\n\n(11) তলৰ কোনবিধ অৰণ্যৰ উৎপাদিত সামগ্ৰী নহয় ?\n\n(8) আঠা   (000]])\n(6) প্লাইউড (])]%%০০৫)\n(০) লা\n\n(0) কেৰাচিন (]<০7096102)\n\n12) তলৰ কোনবোৰ উক্তি সত্য নহয়?\n\n(8) অৰণ্যই মাটিৰ খহনীয়া ৰোধ কৰে।\n\n(0) অৰণ্যৰ উদ্ভিদ আৰু প্রাণী এটাৰ\nওপৰত আনটো নিৰ্ভৰশীল নহয়।\n\n(০) অৰণ্যই জলবায়ু আৰু জলচক্ৰত\nপ্ৰভাৱ পেলায়।\n\n(0)মাটিয়ে অৰণ্য বৃদ্ধি আৰু\nপুনৰুজ্জীৱিত কৰাত সহায় কৰে।\n\nচিত্ৰ 17.15\n\n218                                              বিজ্ঞান",
+  "confidence": {
+    "word_count": 162,
+    "mean": 89.09,
+    "median": 94.81,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.389,
+  "page_elapsed_seconds": 2.736,
+  "peak_process_tree_rss_bytes": 254902272,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

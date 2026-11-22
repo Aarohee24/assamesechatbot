@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰদ ১০৷ দলত আলোচনা কৰি ফুলপাহৰ পাহিবোৰত থকা শব্দ ব্যৱহাৰ কৰি তলৰ দফাটো\nসম্পূৰ্ণ কৰা--\n\nজুমণিহতঁৰ ঘৰৰ কাষেৰে এটি নিজৰা\n\nকৈ বৈ গৈছে। ফুলনিখনত\n\nফুলবোৰ        কৈ ফুলি আছে।\n\nফুলবোৰত ভোমোৰাই\n\nকৈ ডৰি ফুৰিছে। নিয়ৰৰ টোপালবোৰ\n\nকৈ সৰিছে।\n\nকৈ বতাহ বলিছে। গোলাপৰ পুলিটো\n\nকৈ বাঢ়ি আহিছে।\n\nতাকে দেখি জুমণিয়ে       কৈ\nহীহিছে।\n\nৰদে ১১। দুজনীয়া দলত বিভক্ত হৈ উদ্বাহৰণ চাই অন্ত্যমিল থকা আন আন শব্দ গঠন কৰা---\n\nগল্গলীয়া _\"- মম ত০৩ ন =\n\nভকমক = ==                     ==                    -->\n২    .\nত     ৰ.\n\nঠৰ ১২। তলত দিয়া দফাটোৰ উপযুক্ত স্থানত যতি-চিহ্ন ব্যৱহাৰ কৰা৷ --\nশহাটোৰ কথাখিনি শুনাৰ লগে লগে মন্দমতিয়ে কেশৰ ফুলাই গল্‌গলীয়া মাতেৰে\nক’লে কি তাৰ ইমান সাহ্‌ এতিয়াই মোক তাৰ ওচৰলৈ লৈ ব’ল আজি মোৰ হাতৰপৰা\nসি কোনোমতেই নিস্তাৰ নাপাব",
+  "confidence": {
+    "word_count": 119,
+    "mean": 82.35,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 5 diacritics",
+        "Detected 5 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.47,
+  "page_elapsed_seconds": 2.968,
+  "peak_process_tree_rss_bytes": 285986816,
+  "tesseract_warnings": [
+    "Detected 5 diacritics",
+    "Detected 5 diacritics"
+  ],
+  "processed_this_run": true
+}

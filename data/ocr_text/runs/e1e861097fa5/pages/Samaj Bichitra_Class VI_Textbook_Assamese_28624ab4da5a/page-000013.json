@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 13,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[শক\n\n[071)317\n\nউৎসঃ 1]1010.০01]]\n\nচিত্ৰ ১.১ ঃ কৃত্ৰিম উপগ্ৰহৰপৰা তোলা পৃথিৱীৰ ছবি\n\n১.১ সৌৰজগতত আমাৰ পৃথিৱী ঃ\n\nকৃত্ৰিম উপগ্ৰহৰপৰা তোলা আমাৰ পৃথিৱীখনৰ নীলা-সেউজীয়া ছবিখন কেতিয়াবা দেখিছানে? এয়া\nআমাৰ পৃথিৱী (চঢগ্জা0))। আমাৰ প্রায় প্রত্যেকৰে পৰিয়াল থকাৰ নিচিনাকৈ পৃথিৱীখনৰো এটা পৰিয়াল আছে।\nসেই পৰিয়ালটোৰ নাম সৌৰজগত (90191 ৪9127) । সূৰ্য (900) হৈছে এই সৌৰজগতৰ মুৰৰী। সিপিঠিৰ\nচিত্ৰ ১.২ ত সৌৰজগতৰ আঠোটা গ্ৰহ দেখুওৱা হৈছে। সূৰ্যৰপৰা দূৰত্ব অনুসৰি গ্ৰহবোৰৰ নাম হ’ল- (১) বুধ\n([21001)), (২) শুক্ৰ (ঘণা৷৷৪), (৩) পৃথিৱী (8101), (৪) মংগল ([/[819), (৫) বৃহস্পতি (]0][)1(2[), (৬)\nশনি (99011), (৭) ইউৰেনাচ ([]11105) আৰু (৮) নেপ্‌চুন (খ০)[0৷৷০) । এই গ্রহবোৰে সূৰ্যক কেন্দ্ৰ কৰি ইয়াৰ\nচাৰিওফালে পৰিভ্ৰমণ কৰি থাকে। সৌৰজগতৰ উৎপত্তিৰ সময়ৰেপৰা গ্ৰহবোৰে একোটা উপবৃত্তাকাৰ পথেৰে\nগতি কৰি আছে।\n\nআমাৰ পৃথিৱী",
+  "confidence": {
+    "word_count": 116,
+    "mean": 82.73,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.633,
+  "page_elapsed_seconds": 3.23,
+  "peak_process_tree_rss_bytes": 282533888,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

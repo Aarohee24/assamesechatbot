@@ -1,0 +1,67 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 53,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দীনিয়াত           ৪৭\n\nনা তলৰ? ৩০৷4 দলত\nপুনৰ থিয় হোৱাৰ সময়ত পঢ়িব-\n\nমোক্তাদিসকলে পঢ়িব-\n\nইয়াৰ পিচত তকৃবিৰ কৈ ছিজ্দাৰ তছ্বিহ পঢ়িব। তিনিবাৰ, পাচবাৰ,\nসাতবাৰ-\n\nলেসখ। 2 1৮৮:\nইয়াৰ পিচত পুনৰ তক্বিৰ কৈ বহিব আৰু বহাৰ সময়ত এই দোআ পৃঢ়িব-\nবল 61৮ এঠা, |, ৰু\n\nইয়াৰ পিচত দ্বিতীয়বাৰ ছিজ্দাত গৈ ছিজ্দাৰ তছ্বিহ পঢ়িব।-দ্বিতীয়\nছিজ্্‌দাৰ পৰা তকু বিৰ কৈ দ্বিতীয় ৰাক্‌আত নামাজৰ বাবে থিয় হ’ব আৰু\nবিছ্মিল্লাহ পঢ়ি ছুৰা ফাতিহা পঢ়ি এটা ছুৰা পঢ়িব আৰু তকৃবিৰ কৈ বুকুত যাব।\n\n৷  2) ৩৮০4\n\nৰুকুৰ তছ্বিহ পঢ়ি থিয় হ’ব আৰু তকুবিৰ কৈ ছিজ্দাত যাব। বহাৰ দোআ\nপঢ়ি পুনৰ দ্বিতীয় ছিজ্দাত যাব আৰু ছিজ্দাৰ তছ্বিহ পাঠ কৰি পুনৰ বহিব আৰু\nবহাৰ সময়ত তলত উল্লেখিত আতন্তাহিয়াতু, দব্ধযূল আৰু দোআ পাঠ কৰি ছালাম\n\nফিৰাব।\nআত্তাহিয়াতু\n\nজ্রেণ এখ এণ্ৰদ ৮4 এ০ল।) ৩-১) *) 2১৫:\nহা 355.93 952 গে 853 3334453)\n15.294 51 45440 401 1 এ); 2 2444.03 22242)",
+  "confidence": {
+    "word_count": 140,
+    "mean": 69.74,
+    "median": 88.74,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 160 diacritics",
+        "Detected 160 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.042,
+  "page_elapsed_seconds": 2.164,
+  "peak_process_tree_rss_bytes": 232898560,
+  "tesseract_warnings": [
+    "Detected 160 diacritics",
+    "Detected 160 diacritics"
+  ],
+  "processed_this_run": true
+}

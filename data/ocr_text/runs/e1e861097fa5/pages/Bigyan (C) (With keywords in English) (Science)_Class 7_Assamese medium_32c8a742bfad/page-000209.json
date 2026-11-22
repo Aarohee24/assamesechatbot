@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 209,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়াকলাপ (.৯৫ঘা(%) 16.2\n\nআমাৰ বহুতেই পানীক অন্তহীন (][17![9১৪)) এই পৰিসংখ্যাই তোমালোকক চিন্তাত\nসম্পদ হিচাপে গণ্য কৰে। এই ক্ৰিয়াকলাপৰ পৰা নেপেলায়নে? এই কথাটো তোমালোকৰ শ্ৰেণীত\nমানুহৰ ব্যৱহাৰৰ উপযোগী পানীৰ প্রকৃত পৰিমাণৰ আলোচনা কৰা।\nধাৰণা কৰিব পাৰানে?\n\nমধ্যম আকৃতিৰ এটা বাল্টি লোৱা আৰু               ধৰি লোৱা যে ই পৃথিৱীত থকা\n\nপানীৰে পৰিপূৰ্ণ কৰা। ইয়াত প্রায়                   গোটেই পানীখিনিক সৃূচাইছে।\n\nবিশ (20) লিটাৰমান পানী থাকে।\n\n5 মি লি মান পানী ধৰা এখন চামুচ                  ইখিনি            ন\n\nলোৱা আৰু 100 চামুচ পানী ডাঙৰ               সনক ৰিব ৰ ওপৰৰ নিৰ্মল\n\nবাল্টিৰ পৰা গা-ধোৱা মগ এটালৈ ঢালি                   সূচায়।\n\nদিয়া\n\nগাধোৱা মগৰ পৰা ত্ৰিশ (30) চামুচ                       7\n\nএইখিনিয়ে ভূগৰ্ভত থকা ব্যৱহাৰ\n\n04978                        যোগ্য পানীৰ পৰিমাণ বুজায়।\n\nঅৱশেষত এক চামুচৰ চাৰিভাগৰ              এইখিনিয়েই পৃথিৱীত থকা সকলো\n\nভাগ পানী মগৰ পৰা উলিয়াই আনা।                 হদ আৰু নদীত থকা পানীক সৃচায়।\n\nক্ল বাল্টিত ৰৈ যোৱা পানীৰ পৰিমাণে সাগৰ, মহাসাগৰ আৰু আংশিকভাৱে ভূ-গৰ্ভত থকা লুণীয়া\nপানী(৪981]1]6 স৪৮৮৷)ৰ পৰিমাণক সূচায়। এই পানী মানুহৰ ব্যৱহাৰৰ উপযোগী নহয়।\n\nক্্স৷ মগত ৰৈ যোৱা পানীখিনিয়ে বৰফৰ নৈ, বৰফৰ চূড়া আৰু স্থায়ী বৰফ ([১০\"৷৷80121{ 9110\") হিচাপে\nথকা পানীৰ পৰিমাণক সূচায় যিবোৰ সহজে পোৱা নাযায়।\n\nপ্রহেলিকাই অতি সোনকালে\nগণনা কৰি পেলালে আৰু গম পালে যে এই\n\nপানীৰ পৰিমাণ মোটামুটিভাৱে পৃথিৱীৰ\nমুঠ পানীৰ পৰিমানৰ 0.006% ।\n\nপানী ঃ এক অমূল্য সম্পদ                                                  195",
+  "confidence": {
+    "word_count": 197,
+    "mean": 88.41,
+    "median": 95.68,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.845,
+  "page_elapsed_seconds": 3.197,
+  "peak_process_tree_rss_bytes": 289878016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

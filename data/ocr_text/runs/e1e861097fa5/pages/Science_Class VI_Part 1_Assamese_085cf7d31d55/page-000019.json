@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 19,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দক্ষিণ আমেৰিকাৰ পৰা বহু দূৰত\nপ্ৰশান্ত মহাসাগৰত কেইটামান দ্বীপ\nআছে। সেই দ্বীপত থকা মানুহৰ আচাৰ-\nব্যৱহাৰ, ৰীতি-নীতি দক্ষিণ আমেৰিকাৰ\nস্থানীয় বাসিন্দাৰ লগত মিলে। এয়া হ’ল\nপৰ্যৱেক্ষণ। অনুমান কৰা হ’ল, বহু বছৰ\nআগতে দক্ষিণ আমেৰিকাৰ মানুহ তালৈ\nগৈছিল। কিন্তু উত্তাল প্ৰশান্ত মহাসাগৰত\nসেই সময়ৰ নৌকাৰে যোৱাটো সহজ\nনাছিল। সেয়েহে বহুতে অনুমানটো শুদ্ধ\n\nনহয় বুলি ভাবিছিল। কিন্তু অনুমানটোৰ সত্যতা প্রমাণ কৰিবলৈ কেইগৰাকীমান বিজ্ঞানীয়ে\nপুৰণি ধৰণৰ নৌকা সাজি যাত্ৰী কৰিলে। তেওঁলোক 101 দিনৰ মূৰত অৰ্থাৎ কেইমাহমানৰ\nপাছত সেই দ্বীপত উপস্থিত হ’ল। লগে লগে তেওঁলোকৰ অনুমান সঁচা বুলি প্রমাণিত হ’ল।\nএয়ে হ’ল ক’ন-টিকি অভিযান।\n\n[] কভিরয়া-কলাপ 1.2:\nবিজ্ঞানসন্মত পদ্ধতিৰ ব্যৱহাৰ ক’ৰবাত লক্ষ্য কৰিছানে? লেখি উলিওৱাচোন\n\n1.4 বিচিত্ৰ বিজ্ঞান\n\nনৌকাৰে উভাল প্ৰশান্ত মহাসাগৰত যাত্৷।\n\nজন্মোতে তুমি অকণমানি\nতোমাক কোলাত লৈ ডাঙৰ কৰিছে।\nআজি তোমাক কোলাত লোৱাটো সহজ\nনহ’ব; কাৰণ তুমি ডাঙৰ হৈছা। আমি\nচিত্র 1.9: উদ্ভিদৰ বৃদ্ধিৰ ত্ত্ৰবোৰ _ লাহে লাহে ডাঙৰ হওঁ। গছৰ পুলি\nএটাও সময়ত বৃক্ষত পৰিণত হয়। বৃদ্ধিৰ\n\nপাবা।\nআমি বিভিন্ন ধৰণৰ খাদ্য খাওঁ। তদুপৰি বিভিন্ন ঠাইৰ খাদ্যও বিভিন্ন হ’ব পাৰে।\nউদাহৰণ স্বৰূপে আমাৰ প্ৰধান খাদ্য ভাত। কিন্তু পঞ্জাবত মানুহে প্রধানকৈ ৰুটী খায়।\nআজিকালি আকৌ বজাৰত নানা ধৰণৰ খোৱা বস্তু পোৱা যায়। আমি কি খোৱা উচিত? যি খাদ্যই\nআমাৰ স্বাস্থ্য ভালে ৰাখে, সহজে বেমাৰ হ’ব নিদিয়ে তেনে খাদ্যহে আমি খাব লাগে। তোমাৰ",
+  "confidence": {
+    "word_count": 200,
+    "mean": 91.78,
+    "median": 96.15,
+    "minimum": 25.33,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.36,
+  "page_elapsed_seconds": 3.751,
+  "peak_process_tree_rss_bytes": 301637632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

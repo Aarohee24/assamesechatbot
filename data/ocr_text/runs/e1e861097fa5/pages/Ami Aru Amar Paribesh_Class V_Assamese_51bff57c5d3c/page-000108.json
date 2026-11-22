@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 108,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভাৰতবৰ্ষৰ দৰে বিকাশশীল দেশত ৰাষ্ট্ৰীয় সংহতিৰ গুৰুত্ব অসীম। জাতি, বৰ্ণ, ভাষা, ধৰ্ম\nনিৰ্বিশেষে একাত্ম হৈ দেশ আৰু দেশৰ জনগণৰ প্ৰতি যি সন্মান আৰু সদ্ভাৱ দেখুওৱা হয়, সেয়েই\nহৈছে ৰাষ্ট্ৰীয় সংহতি। শান্তি-সম্প্ৰীতি আৰু একতা থাকিলেহে দেশৰ প্ৰগতি সম্ভৱ। এই এবক্য, শান্তি-\nসম্প্রীতি তেতিয়াহে অটুট থাকিব, যেতিয়া আমাৰ সমাজত বাস কৰা বিভিন্ন ধৰ্ম, ভাষা, জাতি-\nউপজাতিৰ লোকৰ মাজত একতা,মিলা-প্ৰীতি আৰু সহযোগিতা থাকিব।\n\nসংহতি হৈছে--- ৰাষ্ট্ৰখনৰ এক্য, শান্তি আৰু প্ৰগতিৰ মূল চাৰি-কাঠি।\nছবিত দিয়া ব্যক্তিসকলে ৰাষ্ট্ৰীয় সংহৃতিৰ হকে কি কি কাম কৰি থৈ গৈছেচমুকৈ জানি লওঁ আহা--\n\nমৌলানা আবুল               সৰোজিনী নাইডু           গোপীনাথ বৰদলৈ\nকালাম আজাদ\n\n. জাতিৰ পিতা মহাত্মা গান্ধীৰ অহিংসা নীতিয়ে স্বাধীনতা আন্দোলন সফল কৰিছিল।\n\n€ স্বাধীন ভাৰতৰ প্রথমগৰাকী শিক্ষামন্ত্ৰী মোলানা আবুল কালাম আজাদে জাতি-ধৰ্মৰ মাজত\nবিভেদ নাৰাখি সকলোকে একৈ ভাৰতীয় নাগৰিক হ’বলৈ আহ্বান জনাইছিল।\n\nগু ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্রথম ভাৰতীয় মহিলা সভানেত্ৰী সৰোজিনী নাইডুৱে কবিতাৰ\nজৰিয়তে মানুহৰ মাজত দেশ-প্ৰেমৰ ভাব জগাই তুলিছিল।\n\nগু ভাৰত স্বাধীন হোৱাৰ পাছত অসমৰ প্রথম মুখ্যমন্ত্ৰী আছিল লোকপ্ৰিয় গোপীনাথ বৰদলৈ৷\nভাৰতৰ অখণ্ডতা আৰু স্বাধীনতাৰ প্রতি দেখুওৱা তেওঁৰ মহান ত্যাগ আমাৰ সকলোৰে বাবে\nঅনুকৰণীয়।\n\n> এইসকলৰ উপৰি আমাৰ দেশত ৰাষ্ট্ৰীয় সংহৃতিলৈ অৰিহণ৷ যোগোৱা আন বহুতো নেতা আৰু\nনেত্ৰী আছে।শিক্ষক-শিক্ষয়িত্ৰীৰ পৰা জানি লৈ তেওঁলোকৰ নাম লিখা ৷",
+  "confidence": {
+    "word_count": 188,
+    "mean": 87.01,
+    "median": 95.61,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.984,
+  "page_elapsed_seconds": 3.477,
+  "peak_process_tree_rss_bytes": 245796864,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

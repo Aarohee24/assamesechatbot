@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 132,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "শব্দাৰ্থ $\n\n](ৃগ[খ]ং];,(ঙ/৮-- ]%[8]1817]9, ()9170])1 )খ৪00118|] [২0018] ]11]]])]0111211{ ]018110(26 /%*০{ (2005).\n\nৰাৰ্ড--_ স্থানীয় স্বায়ত্ত শাসন ব্যৱস্থাৰ অন্তৰ্গত গাঁও আৰু নগৰৰ আটাইতকৈ সৰু বা প্রাথমিক গোট (সমষ্টি)।\nআয়ুক্ত - পৌৰ নিগমত ৰাজ্য চৰকাৰে নিযুক্তি দিয়া মুখ্য প্ৰশাসনিক উচ্চ পদস্থ বিষয়া।\n\nদলগত কাৰ্য\n\n(ক) তোমাৰ পঞ্চায়তখনৰ নাম, পঞ্চায়ত সদস্যজনৰ নাম আৰু সভাপতিজনৰ নাম জানি লৈ\nবহীত লিখা নাইবা তুমি বাস কৰা অঞ্চলৰ নগৰখনৰ নাম লিখা, নগৰখন পৌৰসভা নে পৌৰ\nনিগমৰ অধীন লিখিবা ৷ তাৰ পোৰপতি বা মেয়ৰৰ নাম সংগ্ৰহ কৰিবা ।\n\n(খ) তুমি যদি কোনো গাঁও পঞ্চায়ত এলেকাত বাস কৰা তেনেহ’লে তোমাৰ গাও পঞ্চায়তে\nসম্পাদন কৰা বা কৰি থকা কাৰ্যবোৰৰ এখন তালিকা প্রস্তুত কৰ৷ নাইবা তোমাৰ অঞ্চলৰ নগৰ\nসমিতি, পৌৰসভা বা পৌৰ নিগমে সম্পাদন কৰা বা কৰি থকা কাৰ্যৰ এখন তালিকা প্রস্তুত\n\nকৰা।\n(গ) তুমি বাস কৰা ঠাইখনৰ আশে-পাশে স্বায়ত্ত শাসিত পৰিষদ বা উন্নয়ন পৰিষদ আছেনে?\nতথ্য সংগ্ৰহ কৰা৷ ।",
+  "confidence": {
+    "word_count": 138,
+    "mean": 85.94,
+    "median": 96.12,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.362,
+  "page_elapsed_seconds": 2.63,
+  "peak_process_tree_rss_bytes": 286306304,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1:\n\nযক়\n\nটু\n\nঃ বাঃ মনন, ছবিও আঁ'কিছা, গানো গাইছা ৷ একদম বেলেগ আৰু দেই।\n৪ বহা সুমনা, ৰিতুপন বহা (সুমনাহঁত চকীত বহিব)।\n৪ কি আঁকিছা মনন? ছেবিখনলৈ ডিঙি মেলি চাই) এজোপা গছ, দুফালে দুটা\n\nডাল। ফেৰেঙণিৰ ওপৰ অংশত দেখোন এখন মানুহৰ মুখ। চকু, নাক, ওঁঠ;\nওপৰত জোপোহা হৈ থকা পাতখিনি চুলিৰ নিচিনা লাগিছে।\n\n$ (ছবিখনলৈ চাই থাকি) ইয়ে ভাই, ডাল দুটাও দুখন হাত যেন লাগিছে। এটা\n\nডালত ফল, ইটো ডালত ফুল।\n\nঃ আজিৰপৰা বন মহোৎসৱ সপ্তাহ আৰম্ভ হ’লেই নহয়। এই ছবিখন মই\n\nপ্ৰদৰ্শনীত দিম। ভাবি চোৱাচোন, চাবলৈ গ’লে গছবিলাক আমাৰ মৰমিয়াল\nমই ছবিখনত সেই ভাবটোকে ফুটাই তুলিব খুজিছোৌ। ওপৰত গছজোপাৰ\nফালে উৰি অহা এজাক চৰাই দিম, তলৰ ছীত এজন মানুহ বহি থাকিব।\n\n£ ছবিখন বেলেগ ভাল লাগিছে দেই।\nঃ আমাৰ আকাশীয়ে কি সাজিছে জানা? সৰু গছৰ মূঢ়া এটাত লাগি থকা গা-\n\nগছ ডোখৰত ৰং দিছে, চকু-মুখ আঁকি মানুহৰ নিচিনা কৰিছে। ওপৰৰ কটা\nঅংশটো ৰঙা, যেন সেইবোৰ তেজহে। চকুৰ তলত গছজোপা কীটোতে বৈ\nআহি গোট মৰা আঠাৰ টোপালবিলাকতো ৰঙচুৱা ৰং দিছে। _\n\n|\n\n£ অঁ, অঁ, আকাশীয়ে মোক কৈছিল। কাটি পেলোৱা গছজোপাৰ যেন সেয়া বুকু\n\nফাটি তেজহে বৈ আহিছে।\nএজনে কৈছিল যে, ‘গছৰ প্রাণ আছে?’",
+  "confidence": {
+    "word_count": 185,
+    "mean": 88.94,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.112,
+  "page_elapsed_seconds": 3.687,
+  "peak_process_tree_rss_bytes": 288952320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

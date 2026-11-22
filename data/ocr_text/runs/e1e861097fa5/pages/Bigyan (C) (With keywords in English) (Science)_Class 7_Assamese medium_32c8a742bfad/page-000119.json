@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 119,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (];%ণ2ল€]869)\nপ্ৰশ্ন |! আৰু 2 ৰ অতি উপযোগী উত্তৰত চিন দিয়া-=\n(1) শিলৰ টুকুৰাৰ উপৰি, মাটিত থাকে\n(৪) বায়ু আৰু পানী\n(0) পানী আৰু উদ্ভিদ\n(০) খনিজ লৱণ, জৈৱিক পদাৰ্থ, বায়ু আৰু পানী\n(0) পানী, বায়ু আৰু উদ্ভিদ\n(2) পানী ধাৰণ ক্ষমতা সৰ্বাধিক হ’ল-_\n(8) বালিচহীয়া মাটিৰ\n(0) আলতীয়া মটিৰ\n(০) দোমোজা মাটিৰ\n(4) বালি আৰু জৈৱিক সাৰ থকা মাটিৰ\n(3) স্তম্ভ !ৰ লগত সত্বম্ভ 2 মিলোৱা।\nস্তম্ভ 1                  স্তম্ভ 2\n(8) জীৱৰ বাসস্থান হল       (৪8) ডাঙৰ কণিকা\n(6) মাটিৰ উপৰিভাগ                  (6০) সকলো প্রকাৰৰ মাটি\n(০) বালিচহীয়া মাটি         (০) ডাঠ ৰঙৰ\n(4) মাটিৰ মধ্য তৰপ      (4) সৰু কণিকা আৰু টানকৈ বন্ধা\n(০) আলতীয়া মাটি          (০) কম পৰিমাণৰ হিউমাছ\n(4) মাটিৰ গঠন কিদৰে হয় বৰ্ণনা কৰা।\n(5) আলতীয়া মাটি শস্যৰ বাবে কি কাৰণে উপযোগী?\n(6) আলতীয়া মাটি আৰু বালিচহীয়া মাটিৰ মাজৰ পাৰ্থক্যবোৰৰ তালিকা এখন কৰা।\n(7) মাটিৰ পাৰ্শ্ব চিত্ৰ আঁকা আৰু বিভিন্ন স্তৰবোৰ চিহ্নিত কৰা৷\n(8) ৰাজিয়াই পানীৰ অন্তঃস্ৰৱণৰ ওপৰত এটা পৰীক্ষা কৰিছিল। তাই লক্ষ্য কৰিছিল যে মাটিৰ নমুনাটোৰ\nমাজেৰে 200 মি. লি. পানী অন্তঃস্ববণ হ’বলৈ 40 মিনিট সময় লাগিছিল। পানীৰ অন্তঃস্ৰৱণৰ হাৰটো\nনিৰ্ণয় কৰা।\n\nবতাহ, ধুমুহা আৰু ঘূৰ্ণিবতাহ                                     105",
+  "confidence": {
+    "word_count": 180,
+    "mean": 88.48,
+    "median": 95.67,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.475,
+  "page_elapsed_seconds": 2.712,
+  "peak_process_tree_rss_bytes": 298049536,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

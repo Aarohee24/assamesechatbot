@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 121,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মুনীন্দ্ৰই চকুদুটা মোহাৰি পদূলিমুখলৈ ওলাই আহিল। সি পুৱাৰ দৃশ্যটো উপভোগ\n\nকৰিবলৈ ল’লে। চৰাই-চিৰকিটিবোৰ জাকে-জাকে উৰি গৈছে। হীহ-কুকুৰা, গৰু-ছাগলী\nআদিয়ে আপোনমনে দানা-পানী খাই আছে। খুৰীয়েকে গা-পা ধুই তুলসীৰ তল সাৰি-মচি\nচাকি দিবলৈ লৈছে। ৰাতিপুৱাৰ এই দৃশ্যবোৰ চাই তাৰ বৰ স্ফুৰ্তি লাগিল।\n\nএনেতে কৃকাকৰ সৈতে মুকুতা আহি ওলালহি। ৰাস্তাৰপৰা আটায়ে ঘৰলৈ ওভতি\nআহিল। ঘৰলৈ আহিয়ে মুকুতাই পোনে পোনে দমকলৰ পাৰ পালেগৈ। তাই দাঁত মাজি,\nহাত-মুখ ধুই মুনীন্দ্ৰক,ঘৰৰ ভিতৰলৈ মাতি নিলে। তাৰ পাছত তাই তাক বহিবলৈ দিলে\nআৰু ঢাৰিত বহি তাই যোগাসন কৰিবলৈ ল’লে৷ এনেতে খুৰীয়েকে আহি দুয়োকে কিছুমান\nখোৱা বস্তু দি থৈ গ’ল। কিছুসময়ৰ পাছত মুকুতা যোগাসনৰপৰা উঠিল। দুয়ো কথা পাতি\nপাতি বস্তুবোৰ খাবলৈ ধৰিলে। মুকুতাৰ এনে নিয়মানুৱৰ্তিতা চাই মুনীন্দ্ৰৰ মনলৈ বহুকথাই\nআহিল।\n\nপাছদিনাৰপৰা মুনীন্দ্ৰই মুকুতা আৰু ককাকৰ লগত প্রাতঃভ্ৰমণলৈ যাবলৈ ধৰিলে।\nসিয়ো একেদৰে যোগাসন কৰিবলৈ ল’লে৷ সেইকেইদিনতেই তাৰ কেইটামান ভাল অভ্যাস\n\nগঢ়ি উঠিল।\nহজ        অধ্যায় ৯ ঃ স্বাস্থ্য আৰু সু-অভ্যাস",
+  "confidence": {
+    "word_count": 139,
+    "mean": 90.56,
+    "median": 93.27,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.629,
+  "page_elapsed_seconds": 4.73,
+  "peak_process_tree_rss_bytes": 221368320,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

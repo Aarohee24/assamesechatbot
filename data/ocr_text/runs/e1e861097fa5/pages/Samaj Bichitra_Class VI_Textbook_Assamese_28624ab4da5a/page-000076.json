@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 76,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(খ) দাঁতি-কাষৰীয়া অঞ্চলবোৰৰ মাজত থকা অর্থনৈতিক সম্পৰ্ক আছিল। ইয়াৰ ফলত আভ্যন্তৰীণ আৰু\nবহিঃবাণিজ্যৰ সুব্যৱস্থা গঢ়ি উঠিছিল।\n\n(গ) সেই সভ্যতাৰ সাক্ষী বহন কৰা নিৰ্ভৰযোগ্য তথ্য এতিয়াও মজুত আছে।\n\n(ঘ) সৃষ্টিশীল কাম-কাজ, যেনে, লিখিত সাহিত্য, ফলক, শিলালিপি আদিৰদ্বাৰা সেই সময়ৰ জীৱনৰ প্রতিফলন\nদেখা যায়।\n\n(৬) উপযুক্ত কৃষি ব্যৱস্থাৰ যোগেদি গাঁৱৰ লগতে নগৰতো খাদ্য আৰু অন্যান্য দ্রব্য যোগান ধৰিব পৰাকৈ সমৃদ্ধি-\nশালী গীও আছিল।\n\n৮.২ নৈ-পৰীয়া সভ্যতা\n\nবজাৰ-নগৰক কেন্দ্ৰ কৰি গঢ়ি উঠা এই সভ্যতাসমূহৰ বেছিভাগেই বিকাশ লাভ কৰিছিল নদীৰ পাৰত।\nতেনেকুৱা কেইটামান সভ্যতা হ’ল-- সিন্ধু নদীৰ পাৰৰ হৰগ্লী সভ্যতা, নীল নদীৰ পাৰৰ মিছৰীয় সভ্যতা, টাইগ্ৰীছ\nআৰু ইউফ্ৰেটিছ নদীৰ পাৰৰ মেছ’পটেমিয়া সভ্যতা আৰু হোৱাংহো আৰু ইয়াংচি নদীৰ পাৰত গঢ়ি উঠা চীনা\nসভ্যতা। নৈৰ পাৰত গঢ় লৈ উঠা কাৰণে এই সভ্যতাবোৰক নৈ-পৰীয়া সভ্যতা বুলি কোৱা হয়। তলৰ চিত্ৰখনলৈ\nমন কৰা। তাত দেখুওৱা নৈ-পৰীয়া সভ্যতাৰ অৱস্থিতি বুজিবলৈ চেষ্টা কৰা।\n\nপ্রধান নৈ-পৰীয়া সভ্যতাসমূহ\n\nচিত্ৰ ৮.২ ঃ প্রধান নৈ-পৰীয়া সভ্যতাসমূহ\n\n                       ভাৰতীয় সভ্যতাৰ আৰম্ভণি",
+  "confidence": {
+    "word_count": 145,
+    "mean": 91.56,
+    "median": 94.05,
+    "minimum": 9.22,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.057,
+  "page_elapsed_seconds": 3.568,
+  "peak_process_tree_rss_bytes": 301854720,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

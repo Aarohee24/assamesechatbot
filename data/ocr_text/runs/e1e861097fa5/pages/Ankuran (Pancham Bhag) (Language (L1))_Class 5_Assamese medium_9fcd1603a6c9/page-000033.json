@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 33,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কী  তোমালোকে লিখা শুদ্ধ বাক্যবোৰ কাল অনুসৰি শ্রেণী বিভাজন কৰি লিখা।\nউদাহৰণ --\nঅতীত কাল         বৰ্তমান কাল      ভবিষ্যত কাল\nমণিকা কালি স্কুললৈ      মই কিতাপ পঢ়ো।    মই কাইলৈ গুৱাহাটীলৈ\nআহিছিল।                        যাম।\n\nওঞ্স কিয়াৰ কাল সম্পকাীয় ক্রিয়া-কলাপ দুটা কৰাওঁতে ছাত্ৰ-ছাত্ৰীক সহায় কৰিব।\n\nতৈত\n\nতলৰ খালী ঠাইবোৰ ক্ৰিয়াপদেৰে পূৰোৱা।\n(ক) যোৱাবেলি আমি বনভোজ খাবলৈ      |\n\n0) আমাৰ লগত ছাৰ-বাইদেউসকলো        ।\n0) বাটত তেখেতসকলে আমাক বৰ ভাল ভাল কথা       |\n\n0 মাজে মাজে আমি গান       , ক্ফুৰ্তি        আৰু কৌতুক\nশুনি        ।\n\n(খ) পছোৱা বতাহ বলিছে। সৌৱা পথাৰত এজাক গৰখীয়া ল’ৰাই খেলি\n। তেওঁলোকৰ কেই জনমানে হাউ গুদু         । আন\nকেইজনমানে চিলা      । এজনে আকৌ গছৰ তলত বহি বাঁহী\n। আন এজনে আঁহতৰ পাতেৰে টুপী       !\n\n(গ) মা কাইলৈ মামাহঁতৰ ঘৰলৈ            । তাত\nতেওঁ কেইদিনমান           । মাহীদেউৰ বিয়াৰ পাছতহে উভতি\n। আহোঁতে মোলৈ লাৰু-পিঠা             ্‌\n\nলস নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 135,
+    "mean": 86.7,
+    "median": 94.16,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.955,
+  "page_elapsed_seconds": 3.285,
+  "peak_process_tree_rss_bytes": 271376384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

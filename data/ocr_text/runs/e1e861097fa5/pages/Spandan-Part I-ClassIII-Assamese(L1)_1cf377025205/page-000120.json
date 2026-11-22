@@ -1,0 +1,67 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 120,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷ স্বান্তাই পৰম ধন। এই ধন পাবলৈ হ’লে সুষম আহাৰ সু-অভ্যাস আৰু শৰীৰচচাৰৰ প্রয়োজন। সু-স্কাহাই মন |\n; উৎফুলিত কৰি ৰাখে আৰু কামৰ পতি ধাউতি বঢ়ায় পিও এটিয়ে আনক দেখি কিদৰে নিজৰ সু-অভ্যাস গঠন ৷\n। কৰিলে পাঠটোত পঢ়ি চাওঁ আহা--\n\nমুনীন্দ্ৰৰ দেউতাক চাকৰিসূত্ৰে বমডিলাত থাকে। শীতৰ বন্ধত সিহঁত চিলাপথাৰৰ\nঘাইঘৰলৈ আহিছে ৷ সকলোৱে সিহঁতলৈ বাট চাই আছিল যদিও সিহঁতৰ ঘৰ পাওঁতে সন্ধিয়া\nউকলিল। বহুদিনৰ পাছত মুনীন্দ্ৰই ককাক-আইতাক, খুৰাক-খুৰীয়েকহঁতক লগ পালে।\nসেয়ে তাৰ আনন্দৰ-সীমা নাই। ৰাতি ককাকৰ সৈতে সকলোৱে একেলগে বহি ভাত খালে।\nভাগৰণ্বা মুনীন্দ্ৰই দেৰি নকৰি শুই পৰিল।\n\nআজি কাহিলিপুৱাতে সি চৰাই-চিৰিকটিৰ মাত শুনি সাৰ পালে। কোনোদিনে ইমান\nসোনকালে উঠি নোপোৱা মুনীন্দ্ৰৰ মনটো বৰ ভাল লাগিল। বিছনাৰ পৰা নামি সি এখোজ-\nদুখোজকৈ মুকুতাহঁতৰ ঘৰৰ দুৱাৰমুখ পালেগৈ৷ “মুকুতা,অ’মুকুতা! শুই উঠিলানে?”-_সি\nমাত লগালে।\n\nঘৰৰ ভিতৰৰ পৰা খুৰীয়েকে মাত দিলে-- “মুকুতা নাই। তাই ককাকৰ লগত ওলাই\nগৈছে। মুকুতা সদায় সোনকালে শুই উঠে। তাই কুহুমীয়া পানী এগিলাচ খাই ককাকৰ লগত\nপ্রাতঃভ্ৰমণলৈ যায়। অলপ পাছত আহি পাবহি!”\n\nস্পন্দন ১ | তৃতীয় শ্রেণী                  ১২%",
+  "confidence": {
+    "word_count": 159,
+    "mean": 88.54,
+    "median": 93.3,
+    "minimum": 16.86,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 29 diacritics",
+        "Detected 29 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.825,
+  "page_elapsed_seconds": 5.132,
+  "peak_process_tree_rss_bytes": 220770304,
+  "tesseract_warnings": [
+    "Detected 29 diacritics",
+    "Detected 29 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৩। চমু উত্তৰ লিখা।\n(ক) বাপেকে ছোৱালীজনীক দিয়া বনকৰ৷ পাট-কাপোৰখনৰ বিশেষত্ব কি আছিল?\n\n(খ) গিৰিয়েকজন কিদৰে সুশোভিত চিতৰী চৰাই লৈ ৰূপান্তৰিত হৈছিল?\n\n(গ) গিৰিয়েকজনে কাপোৰখন চুই দিয়া দেখি ঘৈণীয়েকে কি কৰিলে আৰু শেষত\nতাইৰ কি হ’ল?\n৪। তলৰ শব্দবোৰৰ অৰ্থ বাকচৰ পৰা বাছি উলিয়াই লিখা।\n\nপ্রচলিত -_\n\nদেখনিয়াৰ  -=\n\nখ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৫। তলৰ দফাটো পঢ়ি উপযুক্ত স্থানত যতি, বিৰাম চিহ্ন বহুওৰা।\n\nএই কাণ্ড দেখি ঘৈণীয়েকে মন্ত্ৰষাৰ উচ্চাৰণ কৰিবলৈ পাহৰি কি কৰিলা ও বুলি চিঞৰ\nমাৰি কাপোৰখনত হাত দিলে লগে লগে তায়ো এজনী চৰাইৰ ৰূপ পালে তেতিয়াৰে পৰা\nগিৰিয়েকজন হৈ পৰিল মতা ম’ৰ৷ চৰাই আৰু ঘৈণীয়েকজনী হৈ পৰিল মাইকী ম’ৰা চৰাই\nমতাটোৰ পাখি বেছি জকমকীয়া কাৰণ সেই কাপোৰখনৰ সৰহভাগ তাৰ নেজ আৰু পাখিত\nলাগি ৰ’ল\n\n>>\"",
+  "confidence": {
+    "word_count": 118,
+    "mean": 91.72,
+    "median": 96.01,
+    "minimum": 33.32,
+    "maximum": 96.86
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.133,
+  "page_elapsed_seconds": 2.357,
+  "peak_process_tree_rss_bytes": 288329728,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

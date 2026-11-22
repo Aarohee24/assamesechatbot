@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ত্ৰিয়া-কলাপ\n\nক -=_ পাঠভিত্তিক জ্ৰিয়া\n\n১। কবিতাটি স্পষ্ট আৰু শুদ্ধ উচ্চাৰণেৰে পঢ়া।\n\n২। কবিতাটি আবৃত্তি কৰা।\n৩। উত্তৰ দিয়া।\n\n(ক) কবিতাটোত মোৰ দেশ বুলি কোন দেশক বুজাইছে?\n(খ) নিজৰ দেশখনৰ কি কি দেখি ভাল লাগে?\n(গ) পাঠটিৰ মতে হিমালয় কোন দিশত?\n\n(ঘ) বুদ্ধ আৰু মহাত্মাই কি বিলাইছিল?\n(ঙ ) মিলনৰ তীৰ্থভূমি ক’ত গঢ় লৈ উঠিছে?\n\n৪। কবিতাটি থূলমূলকৈ সহজ ভাষাৰে কোৱা।\n৫। পাঠটোত শেষৰ ধ্বনিৰ মিল থকা শব্দবোৰ বিচাৰি চোৱা। তলত উদাহৰণত দেখুওৱাৰ\n\nবেশ\n\nদৰে শব্দ লিখা।\nউদাহৰণ -- | দেশ\nবিশাল\nহিমালয়\nমহাত্মাই\nচিনি\n\n=== প্রত্যেক ছাত্ৰ-ছাত্ৰীয়ে আবৃতি কৰিব পৰাটো নিশ্চিত কৰিব।\n\n= নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 98,
+    "mean": 86.93,
+    "median": 93.3,
+    "minimum": 6.96,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.12,
+  "page_elapsed_seconds": 2.368,
+  "peak_process_tree_rss_bytes": 232288256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

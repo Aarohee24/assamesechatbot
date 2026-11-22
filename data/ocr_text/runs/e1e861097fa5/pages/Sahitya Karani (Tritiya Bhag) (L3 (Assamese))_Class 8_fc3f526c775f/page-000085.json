@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 85,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মহাত্মা গান্ধীয়েও নিজৰ ঘৰ নিজে সাৰিছিল, জোতা পলিচ কৰি লৈছিল। আনকি নিজৰ\nশৌচাগাৰ নিজে চাফা কৰিছিল। তেওঁ যঁতৰত সূতা কাটি কাপোৰ বৈ লৈছিল। তেওঁৰ\nদৰে আমিও সৰুৰে পৰা নিজৰ ওপৰত নিৰ্ভৰশীল হ’বলৈ চেষ্টা কৰিব লাগে।\n\n(ক) ঘৰুৱা কাম-বনবোৰ কি কি?\n\n(খ) তুমি কি কি ঘৰুৱা কামত সহায় কৰা?\n\n(গ) তুমি ঘৰ চাফা কৰিবলৈ কি কি সঁজুলি ব্যৱহাৰ কৰা?\n\n(ঘ) মহাত্মা গান্ধীয়ে নিজে কি কি কাম কৰিছিল?\n\n১০ । ছবিকেইখনত কোনে কি কৰিছে কোৱা।\n\n১১ । বিদ্যালয়ত তোমালোকে কি কি কাম কৰ৷ ? কোৱা আৰু লিখা।\n\nঘ-- প্রকল্প\n* তোমালোকে বিদ্যালয়ত পালন কৰা উৎসৱসমূহত কি কি কাম কৰা তাৰ এখন\nতালিকা প্রস্তুত কৰা।\n\n= পাঠ বহিভুৰ্তে শংতলিপি দিব",
+  "confidence": {
+    "word_count": 107,
+    "mean": 90.96,
+    "median": 95.68,
+    "minimum": 12.69,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.241,
+  "page_elapsed_seconds": 2.496,
+  "peak_process_tree_rss_bytes": 256655360,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

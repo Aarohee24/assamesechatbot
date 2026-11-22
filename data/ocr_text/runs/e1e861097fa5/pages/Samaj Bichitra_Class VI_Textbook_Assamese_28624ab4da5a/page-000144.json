@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 144,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰাস্তাত যাওঁতে-\nঙ ৰাস্তাত খোজ কাঢ়োতে সদায় নিজৰ\nৰ্ক্লটী বাওঁহাতে খোজ কাঢ়িবা।\nহ’বা।\nঞঙ ৰাস্তাত পদপথ থাকিলে সদায় পদপথেৰে\nখোজ কাঢ়িবা।\n\n> পূৰি                                    জেব্ৰা চিন অঁকা ঠাইৰ ওপৰেদি খোজ কাঢ়ি\nটং: ১১১০3    ৬ ৰাতি টৰ্চ'লাইট ব্যৱহাৰ কৰিবা৷\n৬ ৰে’ল ক্ৰুছিঙৰ বন্ধ গেট পাৰ হ’বলৈ যত্ন\nঞ ৰে’ল গাড়ীখন পাৰ হৈ নোযোৱালৈকে  ৷]  £২ত্র =\nৰে'লপথ পাৰ নহ’বা।                  = [শল |              প্ৰ\n৬ ৰে’ল ক্ৰুছিঙৰ দুয়োফালৰ গেট           লি                         [=>\nনদঙালৈকে ৰেন’লপথ পাৰ নহ’বা ।                                    ্ট্\n৷                          ্ুচিম৷* ভূ     _ |} ্জঞাজজমাশ 7,\nবাছত যাত্ৰা কৰোঁতে-                                                   ত\n* বাছত সাৱধানে উঠিবা।       ৬ যাত্ৰীৰ সংখ্যা বেছি হলে শাৰী পাতি উঠিবা।\n* বাহিৰলৈ থু্খেঁফাৰ নেগেলাবা। বাছৰ পাওদানিত উঠি যাত্ৰা নকৰিবা।\nঞ হাত-ভৰি আৰু মূৰ খিৰিকীৰে বাহিৰলৈ                                                    ৰ\nনুলিয়াবা।\n\nঞ বাছখন সম্পূৰ্ণৰূপে ৰোৱাৰ পিছতহে\nউঠা-নমা কৰিবা।\n\nঞ বাছৰপৰা নামোতে আগ-পিছ ভালদৰে\nচাই ল’বা ।\n\nসক্ষম ব্যক্তিক সহায় কৰাটো আমাৰ দায়িত্ব আৰু কৰ্তব্য।",
+  "confidence": {
+    "word_count": 137,
+    "mean": 71.26,
+    "median": 90.75,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2613,
+  "image_height": 3443,
+  "ocr_elapsed_seconds": 4.163,
+  "page_elapsed_seconds": 5.559,
+  "peak_process_tree_rss_bytes": 285835264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

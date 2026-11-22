@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 112,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৭। পাঠটোৰপৰা যুক্তাক্ষৰযুক্ত শব্দবোৰ বিচাৰি উলিয়াই তলত দিয়া তালিকাখন পূৰ কৰা।\nলগতে যুক্তাক্ষৰবোৰত কি কি বৰ্ণ যোগ হৈ আছে ভাঙি দেখুওৰা --\n\nশব্দ        যুক্তাক্ষৰ     কি কি বৰ্ণ যোগ হৈ আছে\nউদাহৰণ-_    স্কুল          ক্হনু       স্+ক\nআক্ৰান্ত        ত্ৰন্ত     ক্‌+ৰ, ন্+ত\n2\" ৮ ৷ তলত দিয়া দফা দুটাৰ উপযুক্ত স্থানত যতি চিহ্ন: বঁহুওৱা আৰু পঢ়া--\n(ক) বীজাণুবোৰ আমাৰ উশাহত ভিতৰলৈ সোমায় কেতিয়াবা মুখৰ ভিতৰখন পৰিষ্কাৰ\n\nকৰি নথ’লেও বীজাণুৱে বাহ ল'ব পাৰে গতিকে পুৱা গধূলি সদায় দাঁত মুখ\nপৰিষ্কাৰকৈ ধুব.লাগে টন্‌ছিলাইটিছ হ’লে ডিঙিৰ ভিতৰখন বিষায় যিকোনো বস্তু\nখালে ডিঙিত লাগি ধৰা যেন লাগে জ্বৰ থাকেই শুকান কাহো হয় জিভাখনত বগা\nচামনিও পৰিব পাৰে মুখ গোন্ধায়\n\n(খ) মুখ গোন্ধায় বুলি কোৱাৰ লগে লগে মুনটিয়ে মাইনুক চিঞৰি ক’লে মাইনু মই\nকওঁ নহয় সদায় দাঁত ব্ৰাছ কৰি মুখ পৰিষ্কাৰকৈ ধুবলৈ এতিয়া মজা পাইছা ডাক্তৰ\nপেহী তাৰ পাছত কোৱা।\n\n৯ ৷ তলত দিয়া শব্দকেইটা প্ৰয়োগ কৰি বাক্য ৰচন৷ কৰ৷-=",
+  "confidence": {
+    "word_count": 141,
+    "mean": 88.69,
+    "median": 95.64,
+    "minimum": 9.79,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.459,
+  "page_elapsed_seconds": 4.032,
+  "peak_process_tree_rss_bytes": 265035776,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

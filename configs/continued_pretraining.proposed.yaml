@@ -1,0 +1,70 @@
+# Proposal only: this configuration is deliberately not executable yet.
+# Do not download model weights or start training until dataset review and
+# the model/runtime compatibility gate in reports/continued-pretraining-proposal.md
+# has been completed.
+status: blocked_pending_dataset_and_model_compatibility
+method: full_parameter_continued_pretraining
+objective: causal_next_token_prediction
+
+model:
+  upstream_repository: ptrdvn/kakugo-3B-asm
+  upstream_revision: a6a854a0a680c4c57ec026df014f8f5964da8721
+  local_checkpoint_directory: checkpoints/kakugo-3b-asm
+  expected_architecture: GraniteMoeHybridForCausalLM
+  transformers_version_from_checkpoint: 4.57.1
+  trust_remote_code: true
+  tokenizer_directory: checkpoints/kakugo-tokenizer
+  require_exact_tokenizer_files: true
+
+data:
+  train_directory: data/cleaned_text/train
+  validation_directory: data/cleaned_text/validation
+  require_human_review_manifest: true
+  split_unit: source_book
+  prevent_page_leakage: true
+  packing: true
+
+training:
+  sequence_length: 2048
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 8
+  gradient_checkpointing: true
+  precision: bf16
+  optimizer: adamw_torch
+  learning_rate: 0.00001
+  scheduler: cosine
+  warmup_ratio: 0.03
+  epochs: 1
+  seed: 42
+
+evaluation:
+  per_device_batch_size: 1
+  strategy: steps
+  steps: 100
+  calculate_loss: true
+  calculate_perplexity: true
+  compare_with_original_model: required
+
+checkpointing:
+  output_directory: checkpoints/continued-pretraining
+  strategy: steps
+  save_steps: 100
+  save_optimizer_and_scheduler: true
+  resume_from_latest: true
+  keep_last_checkpoints: 3
+
+distributed:
+  backend: deepspeed_zero3
+  expected_reference_setup:
+    gpu_count: 8
+    gpu_memory_gib_each: 24
+  status: upstream_reference_not_a_verified_minimum
+
+compatibility_gates:
+  exact_ollama_checkpoint_identity_verified: false
+  transformers_model_load_test_passed: false
+  causal_lm_loss_smoke_test_passed: false
+  distributed_optimizer_memory_test_passed: false
+  tokenizer_hashes_verified_locally: false
+  reviewed_train_and_validation_corpus_available: false
+  do_not_train_until_all_gates_pass: true

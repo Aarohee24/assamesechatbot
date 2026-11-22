@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 114,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ১২      আগতে নিজে নিকা হ’\n\nআনক ধোৱাৰ আগতে ভাই\nনিজে নিকা হ’--\nনিজৰ হিয়া-মনৰ মলি\nধুই পখালি ল’-__\nআনক কোৱাৰ আগখিনিতে\nনিজে সঁচা ক’-=\nনিজ সত্যত নিজৰ ৰূপত\nদৃঢ়তাৰে ৰ'--\nতেহে হ’ব হোৱা, লোৱা, কোৱা, ৰোৱা ঠিক,-_\nজীৱন ভৰাই জমা হ’ব ধন-সোণ আত্মিক।\nকবি--অম্বিকাগিৰী ৰায়চৌধুৰী\n(উৎস-- অম্বিকাগিৰী ৰায়চৌধুৰী ৰচনাৱলী ৷ সনম্পাদনা--- ডণ সতোন্দ্ৰ নাথ শমা, প্রকাশক--অসম প্রকাশন\n\nপৰিষদ, পৃষ্ঠা-৪৬৫)\nক্ৰিয়া-কলাপ    কৰ ৰ্সীিতিত্তিক দৰিয়া\nণ্ে পদ্যটি শুদ্ধ উচ্চাৰণেৰে পঢ়া।\nহী উত্তৰ লিখা।\n\n(খ) কবিয়ে আনক ধোৱাৰ আগতে নিজকে কি হ’বলৈ কৈছে?\n(গ) কবিৰ মতে নিজক নিকা কৰিবলৈ হ’লে কি কি কৰিব লাগে?\n(ঘ) কবিৰ মতে আনক সঁচা কথা ক’বলৈ উপদেশ দিয়াৰ আগতে নিজে কি কৰিব লাগে?",
+  "confidence": {
+    "word_count": 106,
+    "mean": 85.39,
+    "median": 94.63,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.615,
+  "page_elapsed_seconds": 2.988,
+  "peak_process_tree_rss_bytes": 244207616,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

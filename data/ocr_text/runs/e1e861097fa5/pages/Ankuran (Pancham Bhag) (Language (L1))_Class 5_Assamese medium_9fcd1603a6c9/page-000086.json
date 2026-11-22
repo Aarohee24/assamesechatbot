@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উত্তৰ দিয়া।\n(ক) ভতুৱা আৰু খঁকুৱাৰ মাজত কিয় খৰিয়াল লাগিছিল?\n(খ) ভতুৱাই কোৱা কথাখিনি শুনি খঁকুৱাই কি কৈছিল?\n\n(গ)‘লোকৰ চৰুৰ ভজা মাছ চুৰি কৰি মুখ-ঠেকেচা খাওঁতে যাৰ জনম গ’ল, তাৰ\nমুখত এতিয়া বৰ বৰ কথা। ৰ’বি আজি তোক মই এসেকা দিহে এৰিম ।’ এই\nকথাষাৰ কোনে কাক কৈছিল?\n\n(ঘ)‘ জানে জেঠাই, বৰফৰ দেশতো বোলে কুকুৰ আছে।’\n\n- এই কথাষাৰ কোনে কৈছে? বৰফৰ দেশত কুকুৰে কি গাড়ী টানে?\n\n বহলাই লিখা।\n\n(ক)কুকুৰ আৰু মেকুৰীৰ আকৃতি আৰু স্বভাৱৰ কি কি মিল আৰু কি কি অমিল\nআছে?\n\n(খ) কুকুৰ আৰু মেকুৰীয়ে মানুহৰ কি কি উপকাৰ সাধন কৰে?\n\n(গ) অকুমণি আৰু জেঠায়েকৰ মাজত হোৱা কথাখিনি পঢ়া আৰু সেইখিনি জুকিয়াই\nলৈ কুকুৰ আৰু মেকুৰীৰ বিষয়ে লিখা।\n\nতলত দিয়া শব্দবোৰৰ অৰ্থ অভিধান বা শব্দ সম্ভাৰৰ পৰ৷ জানি লৈ বহীত লিখা।\n\nউদৰ          চুৱাপাত        চৰু         এসেকা বিষম উভয়ে\nআকৃতি          থোপোকা তীক্ষ          চোকা উম         গৃহস্থ",
+  "confidence": {
+    "word_count": 135,
+    "mean": 90.91,
+    "median": 96.0,
+    "minimum": 2.5,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.829,
+  "page_elapsed_seconds": 3.172,
+  "peak_process_tree_rss_bytes": 241799168,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nঞ্জ অমলপ্রভা দাসৰ জীৱন-কৃতি সম্পৰ্কে জনা\n\nঞ সমাজ সেৱা বা দেশ সেৱাৰ মনোভাব আৰু ত্যাগৰ মনোভাব জাগ্ৰত হোৱা\nণভু এটা শব্দত প্রকাশ কৰিব পৰা\n\nপাঠ ১১\n\n৬ শব্দ গঠন কৰিব পৰা, অৰ্থৰ পাৰ্থক্য বুজি বাক্য সাজিব পৰা\nঞ ভাব বহলাই লিখিব পৰা\n\n8 অমলপ্ৰভা দাসৰ দৰে আন সমাজসেৱী মহিলাৰ বিষয়ে পঢ়ি অনুপ্ৰাণিত হোৱা\n\nঞ ৰাজ্যৰ বিভিন্ন দিশত পাৰদৰ্শিতা থকা মহিলাসকলৰ নাম জনা\n৬ বিশেষ্য, বিশেষণ আৰু সৰ্বনাম পদৰ বিষয়ে জানি লিখিব পৰা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nঅগচ পাঠটো শুদ্ধ | পাঠভিত্তিক প্রশ্নৰ অভিধানচাই\nপঢ়িব পৰা      পৰা\nভাষা অধ্যয়ন | যুক্তাক্ষবযুক্ত শব্দ | শব্দ গঠন কৰিব | এটা শব্দতপ্রকাশ | বিশেষ্য,বিশেষণ\nব্যাকৰণ)  পৰা          চিনাক্ত কৰি\nলিখিব পৰা\nজ্ঞান  চন্দ্ৰপ্ৰভা | প্রশ্নৰ উত্তৰ দিব | শ্ৰুতলিপি শুদ্ধকৈ | কবিতা আবৃত্তি\nবিষয়ে ক’ব পৰা|\nপ্রকল্প  বিশেষ্য, বিশেষণ আৰু সৰ্বনাম\nপদ চিনাক্ত কৰি তালিকা তৈয়াৰ\nকৰিব পৰা\n\n== অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰ্তা",
+  "confidence": {
+    "word_count": 157,
+    "mean": 88.26,
+    "median": 95.99,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.354,
+  "page_elapsed_seconds": 2.645,
+  "peak_process_tree_rss_bytes": 245227520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

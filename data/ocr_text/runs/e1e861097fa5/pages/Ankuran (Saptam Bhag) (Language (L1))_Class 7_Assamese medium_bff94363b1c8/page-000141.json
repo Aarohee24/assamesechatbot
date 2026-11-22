@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 141,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আলোচনীত প্রকাশ কৰিব পাৰিব আৰু ছাত্ৰ-ছাত্ৰীসকলৰ আত্মবিশ্বাস বৃদ্ধি পাব।\n\nআৰু শিক্ষকৰ সহায়ত সমস্যা সমাধান কৰিব পাৰিব।\n\nঞ বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব। (সম্বন্ধবাচক\nশব্দ, নিৰ্দিষ্টতাবাচক প্ৰত্যয়)\n\nপাঠ-- ৭\n\nঞ্রট ছন্দ মিলাই কবিতা আবৃত্তি কৰিব পাৰিব।\n\n৪৬ জতুৱা ঠাচ, ফকৰা-যোজনা আদি পঢ়ি, বুজি বাস্তৱ জীৱনত প্ৰয়োগ কৰিব পাৰিব।\n\nঞ্জ আলোচনা, তৰ্ক প্রতিযোগিতা, আকস্মিক বক্তৃতা আদিত জতুৱা ঠাচ, ফকৰা-যোজনা\nপ্রয়োগ কৰিব পাৰিব।\n\nঞ্জ বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব। (বিপৰীত\nঅৰ্থ বুজোৱা শব্দ, এটা শব্দত প্রকাশ কৰা, ফকৰা-যোজনা আৰু জতুৱা ঠাচ, প্রয়োগ\nকৰিব পাৰিব।)\n\nপাঠ-- ৮\n\nঞ্জ বিজ্ঞানভিত্তিক (তথ্যমূলক) কাহিনী পঢ়ি বুজিব পাৰিব।\n\nঞ মহাকাশ সম্পৰ্কীয় বিভিন্ন প্ৰগতিৰ বিষয়ে জানিব আৰু অনুসন্ধানমূলক গ্ৰন্থ পঢ়িবলৈ\nঅনুপ্ৰাণিত হ’ব।\n\n৪ মহাকাশ সম্পৰ্কীয় নতুন নতুন শব্দ জানিব পাৰিব।\n\n৪  ভউদ্ভাৱনীমূলক চিন্তাধাৰাৰ বিকাশ হ’ব আৰু উদ্ভাৱনীমূলক কামৰ প্রতি আগ্ৰহী হ’ব পাৰিব।\n\n৪ বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব। (বিপৰীত\nশব্দ, ণত্ববিধি আৰু যষত্ববিধি বাক্যত প্রয়োগ কৰিব পাৰিব।)\n\nপাঠ--৯\n\n৬ পাঠ পঢ়ি যাওঁতে পাঠৰ বিষয়বস্তুৰ ধাৰণা সুদৃঢ় কৰিবৰ কাৰণে মানচিত্ৰৰ সহায়ত বুজিব\n\nপাৰিব।\n\n25৯",
+  "confidence": {
+    "word_count": 169,
+    "mean": 87.97,
+    "median": 94.65,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.73,
+  "page_elapsed_seconds": 2.976,
+  "peak_process_tree_rss_bytes": 257093632,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

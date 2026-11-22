@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 64,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(শব্দাৰ্থ ) ; };(;}খু| -*,-|\nঅৰ্থ ( /2*   শব্দ 2!  অর্থ/( /*-+ শব্দ/১2৷  অৰ্থ /( /=+শব্দ/  ৷\nপানী      বিট    মিঠা     = শিশু (ছোৱালী)   ২1.3};\nমিঠা,নিৰ্মল   লেপ   ডেউকা :.  [চেল সৰু,কণমাণী 3.০\nআহা !       টা   পাতল,লাহি     ৯3) | চহৰ,নগৰ     ২১০০৭\nপ্রবেশকৰা    ৯  মই উৰি ফুৰোঁ    |    পুখুৰী      হয);\nধুনীয়া, হিতকৰ, আৰামদায়ক| 42 শূগ্য,আকাশ | ৮.২) | ৰাগিছা,ফুলনি | ১১\nযাস কৰা,খাকা      এ    চৰাই, পখী       (2     মাছ    1 ৬\nমোৰ মৰমৰ সখী  কেপ, | স্বাধীন,মুক্ত    _ >     গছ      477১\nচৰাইৰ বীহ   |  স্বাধীনতা, মুক্ত   2১ )>=)| |ঘনচিৰিকা,চৰাই | ) ?2\nধুনীয়া, সুন্দৰ   (\"> | প্িয়,মৱমৰ | £১১:2=+ | তই আহিছিল  ৬.৮\nমই প্ৰবেশকৰৌঁ | (}--১] |, মোৰ আছে | (১.৮ | তাই দেখিছিল | |,\nমই ওলাই আহোঁ  ত  পিঞ্জৰা,ৰজা | )/= লক্ষ্যকৰিছিল   >);\nৰন্দীশাল,ফাটক | ()-+>+ | সোণ    _--.১১ | মোৰআছে     ত\nসলা উনাল স্শলস্দ জলময় [লক\nসুখী,আনন্দিত | )))\"--- [মুস্বাদু, সোৱাদলগ| ১০০ | গীত,গান     ৮৮\n\nধুব কনাকীচা ডি\n\n54",
+  "confidence": {
+    "word_count": 149,
+    "mean": 58.82,
+    "median": 66.48,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 17 diacritics",
+        "Detected 17 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.998,
+  "page_elapsed_seconds": 3.397,
+  "peak_process_tree_rss_bytes": 194867200,
+  "tesseract_warnings": [
+    "Detected 17 diacritics",
+    "Detected 17 diacritics"
+  ],
+  "processed_this_run": true
+}

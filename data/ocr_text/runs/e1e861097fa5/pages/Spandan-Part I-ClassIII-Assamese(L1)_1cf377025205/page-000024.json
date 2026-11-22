@@ -1,0 +1,68 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঠৰ ৪ | লিখোঁ আহ৷ --\nক) ভেবেলাই শহুৰেকৰ ঘৰত কি কি খাইছিল, তাৰ নামবোৰ লিখা ।\n\nখ) ভেবেলাই সৰহকৈ খোৱাৰ ফলত কি হ’ল? আৰু তাৰপৰা তেওঁ কেনেকৈ\nৰক্ষা পৰিছিল?\n\n_// ৫। পদ্যটোৰ আলমত কাহিনীভাগ লিখা---\n\nভেবেলা নামেৰে এজন মানুহ আছিল। তেওঁ মাঘ বিহুত\nশহুৰেকৰ ঘৰলৈ গৈছিল। :১০৭%২০৭৭ত০০এ০৭০০০ত০০০০দ৭০১০০,,\n\nহহহঙঙজঙজঁি় টট] {ৈধইছ/!{;}{;];ধ এ] _ তাম ু  অঅা্মমাা888া88[8॥8॥।।়লছ়\n\nহব |বঙঙখঁঁ় {লই ী টোম) -] ি  ী8ী়_1&1\"\"ত&ত&তইল_ল।৷াল)লইঁ এ এইয়| ৷ ‘{ {ৰ > ২3\nৰঙৰ] ]]{ ৷] {&{ৌি ত {({{{  [{ [৷ ৷৷  ]র)ছ়৷'7]়়]7 7] [8 0] {এ\nহহ্তজযজ় 0] { *{ ৈী ছেৱে াাাাঅাঅা((“([অ]]]ি > ৬ এ অজৰ ৰ 9২\nহুহা্খজখজা[/] ছ/ ] । য মম মম,\n\nভি ভিভভভ্ভ্ভভভভভভ ভনী ভ্ভভ্ভভ্ক্ততিত টলি নিত লভ ভভ ৰত ভভ্ভভভভভাভ্ভ্ভৰ্ভভ্ভভ্ ভি ভভভে ভ নভেল ৰভা ভৰা ভভ্ভ লভ ভ ভীত ভ্ভভ্ন্ভভভতভভতভভতত\n\n(এনেদৰে কাহিনীভাগ ঢেখিবিাঁত লিখা)",
+  "confidence": {
+    "word_count": 130,
+    "mean": 41.88,
+    "median": 26.46,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9997,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 6 diacritics",
+        "Detected 6 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.373,
+  "page_elapsed_seconds": 5.297,
+  "peak_process_tree_rss_bytes": 234565632,
+  "tesseract_warnings": [
+    "Detected 6 diacritics",
+    "Detected 6 diacritics"
+  ],
+  "processed_this_run": true
+}

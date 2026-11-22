@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 84,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৫) দুজনীয়া দলত ভাগ হোৱা আৰু পাঠটোৰ কোনটো অংশত আইতাৰ মনৰ দৃঢ়তা প্রকাশ\n\nপাইছে, আলোচনা কৰি কোৱা।\n৬) তলৰ বাক্যকেইটা কোনে, কেতিয়া আৰু কিয় কৈছিল?\n\n-_ “ভাল কামৰ বাবে যদি প্রতিজ্ঞাৱদ্ধ হোৱা তেন্তে শতেক বাধা-বিঘিনি অতিক্ৰম কৰি তুমি\n\nলক্ষ্যত উপনীত হ’ব পাৰিবা ৷”\n\n--- “যি শিক্ষাই আজি মোক পঢ়াৰ স্বাধীনতা দিলে, সেই শিক্ষা দান কৰা শিক্ষয়িত্ৰীক মই কিয়বা\nজানো আহা\n\nএটা ভাষাৰ পৰা আন এটা ভাষালৈ বিভিন্ন লেখা ভাঙনি বা ৰূপান্তৰ কৰাকে অনুবাদ কৰা\n\nবুলি কোৱা হয়। পুৰণি অসমীয়া ভাষাৰ অধিকাংশ ৰচনাই সংস্কৃত ভাষাত ৰচিত পুৰাণ, উপনিষদ,\nমহাকাব্য আদিৰ অনুবাদ বা ভাবানুবাদ। অসমীয়া ৰামায়ণ, মহাভাৰত আদি গ্ৰন্থবোৰো সংস্কৃত\nমহাকাব্য, পুৰাণ আদিৰ ভাবানুবাদহে ৷ অনুবাদ কেতিয়াবা আক্ষৰিক আৰু কেতিয়াবা মুকলি অনুবাদ\nবা ভাবানুবাদ হ’ব পাৰে। ৰসৰাজ লক্ষ্মীনাথ বেজবৰুৱাৰ ‘বুঢ়ী আইৰ সাধু’ নামৰ সাধুকথাৰ\nপুথিখনি ইংৰাজীৰ উপৰি বাংলা, নেপালী আদি অন্যান্য ভাৰতীয় ভাষালৈ অনুবাদিত হোৱাটো\nউল্লেখযোগ্য।\n\nখ --- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৭) পাঠটোৰ পৰা৷ যুক্তাক্ষৰযুক্ত শব্দবোৰ বিচাৰি উলিয়াই তালিকা কৰা। যুক্তাক্ষৰবিলাক ভাঙি\nদেখুওৱা।\n\n৮) উপযুক্ত স্থানত যতি চিহ্ন বহুৱাই তলৰ দফাটো পুনৰ লিখা।\n\nআইতাৰ দৃঢ় সংকল্প দেখি মই হাঁহি সামৰিব নোৱাৰিলোঁ হাঁহি হাঁহি ক’লো বাষষ্ঠি বছৰ\n\nবয়সত আপুনি লিখা-পঢ়া শিকিব আইতা আপোনাৰ আটাইবোৰ চুলি পকিছে হাত-মুখৰ ছাল\nৰান্ধনিঘৰৰ কাম পাৰিব আপুনি\n\n৯) পাঠটোৰ পৰা পাঁচটা বিশেষণ পদ বাছি উলিয়াই লিখা।\n\n১০) পাঠটোত থকা যুৰীয়া শব্দবোৰ চিনাক্ত কৰা।",
+  "confidence": {
+    "word_count": 206,
+    "mean": 93.52,
+    "median": 96.2,
+    "minimum": 48.34,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.062,
+  "page_elapsed_seconds": 4.459,
+  "peak_process_tree_rss_bytes": 245653504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

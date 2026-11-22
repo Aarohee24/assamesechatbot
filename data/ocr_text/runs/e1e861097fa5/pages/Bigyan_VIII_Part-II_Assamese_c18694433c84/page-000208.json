@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 208,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]]., ঢ0[1]1{ স811(60 100 ])21101]1]] /১০]1ঘ1{%৮/ 7.8 091116 8 18921\" 00101]. []261 (28০1161 ৪0৮1960 [121\n10000 0090. 0800 ৮00. 68])]811] {116 08919 01 16 (280]61%9 80.৮19824\n\n12. 1[+8])|811] ]10 ৮000 0৪81] 181|06 ০816 01 ৮001 26%28.\n\n13. ঘ্ব্য]18019 116 8018]6 01111010621106 01 8 118) 1{ 016 161626060 18% 18 8{ 801 11612 01905 [0 {6\n11]101021]01'8)?\n\n14. []0%ম 1]]80]1) 11]8629 01 8 ০8110126 স্1|| 066 1011]60 1{ 1019 |)18০০0 62862) {(স/0 |)8181]16]\n1)|3112 1]]111019 96])818.60 06% 40 ০1]]?}\n\n],%%],]$€,]১1,\n\n15. [৮0 1]]111\"019 11662 80119]]{ 8116]29. /% 18%) 01 ]18]1{ 19 111010621]{ 01] 0116 8 811 8116]6 01 30০\n89 95110 1] 11] [\"16.7.19. ])[8ছম 116 16160060 18%) 11\"01]] 116 96০0110 1]]111\"01'.\n\n]\"16 16.19\n\n16. ]882811 5081109 8(/১% ]09001]1 {116 9106 01 8.])|8112 110]11\"01 89 9]10খা] 11] [\"16 7.20, (2801) ]6\n866 ]]11]96]11{ 11] 016 1]]1]1101\"? /*180 ০৪81]. 116.926 116 11886 01 00]6009 91008060 ৪৮ ]), 0 8010.\n\n1২?\n/'%{ [সজ] ০2              0]\nণ্জ\nত\nজৱননতো নন 93 93937 3লন7\"\n]\"10 116.20\n177. (8) \"1110 0016 |)0910101] 01 ]16 11886 01 811 00160091008.60 8.4১ 11] {116 ])]812 1]]11101\" (]\"19.\n\n7.21).\n\n(0) 0811 ]['8]16]1|, 80 ]}} ৪66 19 11]88664\n(০) 0800 [89811 8৮ (: ৪66 {019 1171886624\n(0) ঘ%]]2া] [}18]16]1]88, 170%9629 01] ]} {0 (2 ্_|]]1216 00629 16 11886 014৯১ 11046?\n\n[3   |]\nৰি       * 8 ( |সয়া৷ণ৷ন }\n\n* ৫ ( ৮৭৬৮ )\n\nচু. 16.21",
+  "confidence": {
+    "word_count": 211,
+    "mean": 47.52,
+    "median": 47.37,
+    "minimum": 0.0,
+    "maximum": 96.68
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3399,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.395,
+  "page_elapsed_seconds": 3.697,
+  "peak_process_tree_rss_bytes": 322203648,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

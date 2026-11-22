@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বীনিয়াত                                                   ২৩,\nপাথছুম অধ্যায়\n\nছিয়াম বা ৰোজা (=)\n\nৰমজান মাহত প্ৰত্যেক সপ্তবয়স্ক সুস্থ, সবল মুছলমান মতা-তিৰোতাই\nবোজা ৰখাটো বাধ্যতামূলক (ফৰজ)। ৰোজাৰ অৰ্থ হ’ল বিৰত থকা বা সংযম।\nপ্ৰকৃতাৰ্থত ৰোজা বখা বুলিলে সূৰ্যোদয়ৰ কিছু আগৰ চুবহ চাদিকৰ পৰা\nসূৰ্বাস্তলৈকে সকলো প্ৰকাৰৰ আহাৰ, পানী আৰু যৌন কাৰ্যৰ পৰা বিৰত থকাটোৱে\nচৰিয়ত মতে বৰোজা। বোজা সম্পৰ্বে আল্লাহতাআলাই পৱিত্ৰ কোৰআন মজীদত\nঘোষণা কৰিছে- ‘বে বিশ্বাসকাৰীসকল, তোমালোকৰ বাবে (ৰমজ্ঞানৰ মাহৰ)\nৰোজা ফৰজ কৰা হৈছে, যিদৰে তোমালোকৰ পূৰ্বপুৰুষসকলৰ বাবে বাধ্যতামূলক\nকৰা হৈছিল, সম্ভৱতঃ তোমালোক মুত্তাকী হ'ব পাৰা।’ (ছুৰা বাকাৰা, ১৮৩ নং\nআয়াত)\nপ্ৰশ্ন- ৰোজা মকৰূহ হোৱাৰ কাৰণ কি?\nভডত্তৰ- ৰোজা মকৰূহ হোৱাৰ কাৰণবোৰ হ’ল- ১ ৷ পৰচচা কৰা বা কুৎসা বটনা\nকৰা, ২ ৷ মিছা কোৱা, ৩। অন্ল্লীল গালি-শপনি পাৰা, ৪ ৷ সময়ত ইফতাৰ\nনকৰা, ৫। ইচ্ছাপূৰ্বক বমি কৰা, ৬। কাণত পানী প্রৱেশ কৰোৱা, ৭ |\nপুংলিংগত পানী প্ৰৱেশ কৰোৱা, ৮ ৷ দীতৰ পৰা জিভাৰে মছুৰ দাইল সমান\nকোনো বস্তু উলিয়াই খোৱা, ৯ ৷ অপ্ৰয়োজনীয় অৱস্থাত কোনো বস্তুৰ\nসৌৱাদ লোৱা, ১০ ৷ অপ্ৰয়োজনীয়ভাবে কোনো বস্তু চোবাই খাই চালে,\n১১ ৷ গৰম বোধ কৰি কুল্পি কৰা, ১২ । তিতা কাপোৰ গাত মেৰিয়াই ৰখা,\n১৩ । কয়লা বা মাঞ্জনেৰে দীত মাজা।\nপ্ৰশ্ন- ৰোজা কেই প্ৰকাৰ?\nউভ্তৰ- ৰোজা সাধাৰণতে তিনি প্ৰকাৰৰ ।\n১ | ফৰজ, ২ ৷ ৱাজিব আৰু ৩ ৷ নফল।\nপ্ৰহ্ম- এতেকাফ কাক বোলে?",
+  "confidence": {
+    "word_count": 207,
+    "mean": 83.0,
+    "median": 92.24,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1325,
+  "image_height": 2094,
+  "ocr_elapsed_seconds": 2.309,
+  "page_elapsed_seconds": 2.439,
+  "peak_process_tree_rss_bytes": 245547008,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

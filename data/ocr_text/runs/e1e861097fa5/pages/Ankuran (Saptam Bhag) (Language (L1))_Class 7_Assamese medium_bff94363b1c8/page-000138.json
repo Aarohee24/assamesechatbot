@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 138,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠসমূহৰ জৰিয়তে শিকাৰুৱে লাভ কৰিবলগা শিকনৰ ফলাফল\n\nপাঠ--১\n\nবৰগীতটো তাল, মান ৰক্ষা কৰি গাব পাৰিব।\n\nবৰগীতটোক প্রাকৃতিক বৰ্ণনামূলক পদ্য হিচাপে অধ্যয়ন কৰিব পাৰিব লগতে পদ্য হিচাপে\nপঢ়িব পাৰিব।\n\nনতুনকৈ পোৱা শব্দৰ অৰ্থ জানিবলৈ অভিধানৰ ব্যৱহাৰ কৰিব পাৰিব।\n\nমাতৃভাষাৰ লগতে বহুভাষিক শব্দ, বিশেষকৈ ব্ৰজাৱলী ভাষা জানিব পাৰিব। ফলত\nমাতৃভাষাৰ উপৰি অন্যান্য ভাষাৰ শব্দেৰে শব্দ ভাণ্ডাৰ চহকী হ’ব পাৰিব।\n\nবিশেষ ব্যক্তিৰ জীৱনী পঢ়ি বুজি পাব আৰু তেওঁলোকৰ আদৰ্শ নিজৰ জীৱনত প্রতিফলিত\nকৰিবলৈ শিকিব পাৰিব।\n\nবৰগীতটোৰ বিষয়বস্তু উপলব্ধি কৰি ৰাতিপুৱাৰ প্রাকৃতিক দৃশ্য অনুভৱ কৰিব পাৰিব।\nপ্রসংগ সংগতি দৰ্শাই ব্যাখ্যা কেনেকৈ কৰিব লাগে জানিব পাৰিব।\n\nএই বৰগীতটিৰ পটভূমিত এটি বৃত্তি/জীৱিকা (গো-পালন) অন্তৰ্নিহিত হৈ আছে। সৰু\n\nবাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব। (এটা শব্দত\nপ্রকাশ কৰা৷, বিপৰীত লিংগ বুজোৱা শব্দ প্রয়োগ আদি জানি বুজি প্রয়োগ কৰিব পাৰিব।)\n\nপাঠ--২\n\nসাধু শুনি বুজি ক’ব পাৰিব।\n\nবৰ্ণনামূলক পাঠ পঢ়ি বুজিব পাৰিব।\n\nপাঠ্যপুথি, বাতৰি কাকত, প্ৰাসংগিক পুথি, শিশু-সাহিত্য আদিত থকা সাধু পঢ়ি বুজি\nপাব আৰু আনক ক’ব পাৰিব।\n\nআন আন ভাষাৰ সাধুৰ বিষয়বস্তু বুজি ক’ব আৰু লিখিব পাৰিব।\n\n53৯",
+  "confidence": {
+    "word_count": 164,
+    "mean": 91.11,
+    "median": 95.87,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.669,
+  "page_elapsed_seconds": 2.894,
+  "peak_process_tree_rss_bytes": 256425984,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

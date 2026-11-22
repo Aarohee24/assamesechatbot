@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 41,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "দ্বিতীয় স্তৰ (৪৫%) ]][) £ ছালৰ সৈতে কাটি লোৱা\nনোমবোৰ চৌবাচ্চাত (]1019৪) ভালদৰে ধুই তেল\n(01892), ধূলি ([)090) আৰু ময়লাবোৰ (])}1\")\nআঁতৰাই লোৱা হয়। ইয়াক নিৰ্ঘৰ্ষণ বা পৰিষ্কাৰকৰণ\nবা স্কাউৰিং (9০০০11118) বুলি কোৱা হয়। আজিকালি\nএই কাৰ্যটো মেচিনৰ সহায়ত কৰা হয় (চিত্ৰ 3.8 (খ)\nআৰু ে)।\n\nতৃতীয় স্তৰ (৪৮: [[]) ঃ পৰিষ্কাৰ কৰাৰ পিছত\nবৰ্গীকৰণ (9010116) কৰা হয়। নোম থকা ছালবোৰ\n(][০%00169) ওপৰত ভিত্তি কৰি নোমবোৰ পৃথক কৰা\nহয়।\n\nচতুৰ্থ স্তৰ (৪৫) |) ঃ শুং থকা সৰু ভোবোৰা\nনোমবোৰ (31108|1 10] 10129) যাক বাৰ্চ (130011.9)\n\nচিত্ৰ 3$.8 (ক) ভেড়াৰ নোম খুৰোৱা কাৰ্য\n(১]168011116 ৪8 ১]62]))\n\nচিত্ৰ 3.8 (গ) যন্তৰ সহায়ত নোম পৰিষ্কাৰ কৰা হৈছে।\n\n(১০০০011]198 [00% 11]180]011169)\n\nআঁহৰ পৰা কাপোৰলৈ\n\nপেলোৱা হয়। তোমালোকৰ ছুৱেটাৰত (9৮%68219)\nকেতিয়াবা দেখা পোৱা গুটিবোৰেই হৈছে বাৰ্চ। এই\nহয়। এতিয়া এই আঁহবোৰৰ পৰাই উণ সূতা (৬০০1)\nপ্রস্তুত কৰা হয়।\n\nপঞ্চম স্তৰ (9৮%) *) ঃ ভেড়া আৰু ছাগলীৰ\nপ্রাকৃতিক নোমবোৰ (]খণ্৷01| 16602) সাধাৰণতে\nক’লা (31809, মুগা (310}.1}) বা বগা (%]1(2)\nৰঙৰ। সেই কাৰণে এইটো খাপত আঁহবোৰত বিভিন্ন\nৰঙত ৰং দিয়া হয়।\n\nষষ্ঠ খাপ (9020 ঘ]) ঃ আঁহবোৰ পোন কৰা\n(90.819]1021]}) হয়, ফণিওৱা ((\"0116) হয় আৰু\nপকোৱা সূতা (৷%৪া৷))লৈ ৰূপান্তৰ কৰা হয়। (চিত্ৰ\n3.8 (ঘ)। দীঘল আঁহবোৰৰপৰা চুৱেটাৰৰ বাবে\n\nচিত্ৰ 3.8 (খ) চৌবাচ্চাত নোম পৰিষ্কাৰ কৰা হৈছে\n(১০০০1]1]9 11] '[81]])\n\nচিত্ৰ 3.8 (ঘ) সৃতাৰ বল বনোৱা হৈছে।\n\n(]২০]]]1116 11100 ৬৪11])\n\n21",
+  "confidence": {
+    "word_count": 213,
+    "mean": 80.34,
+    "median": 92.53,
+    "minimum": 0.0,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.416,
+  "page_elapsed_seconds": 3.796,
+  "peak_process_tree_rss_bytes": 304025600,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

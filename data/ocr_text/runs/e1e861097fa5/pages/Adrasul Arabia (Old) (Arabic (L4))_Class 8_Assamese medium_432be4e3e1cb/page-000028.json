@@ -1,0 +1,62 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 28,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "্   ৰৈ  ঞ\n\n0)\n\n:0;=979)+৩ ! ৩}=০+ ০ +} 04\n\nথ্ৰ\n\nচে পি টোপা”)\n\n.-.=3)+ ১; +;\n\n     )|০০=.]ৰীৱ্শা 3\n= + ৫4+};..\n\n=০০+০৮০7৪9\n\n“= ০-+০77\n\"=\" 7}\n_-.=৩+৫০+এ\n\nডু\n়্    ৰ  ৰ  ৰ\n\nন\n9 ্্মত্মএূা\n\nৰক\n\n2. *2& এ\n\n=) )>=\n\n৷;    লে ৷\nনিল  ঞ\n একো\n\n(শিকি লোৱা) : ১1.)\n\nৰ ১22]\n\n।\n\n০১) :_ =\n|; মী\nতে) ক ; ৩\n\n{ৰ %'\n* _)\n৷\n\n' দে\n\n৬ এৱ\nচল\n\n(/)\n(/)\n\")\n(”)\n(১)\n(1)\n2)\n(\")\n\n18\n\n19১41.\n\nক্ৰ\n২ ক্ৰ\n\n১ =\n\n]\nত\n\n২4142 ৩))*\n\nভাদ\n\nদমি  টটেলা\n\n: (1)\nমা (\")\n'\"(\")\nস্দ্শ ৷ থে\n\" । ৫ (1)\n\n: ১ -(/*)\n\nঞ ( =   1\nটা\n\nখা\n\nৰ\nএ? ?ল\n\nজো\n\nলা কটৌলা\nৰ\n\n(₹-১\n\nডা",
+  "confidence": {
+    "word_count": 100,
+    "mean": 35.47,
+    "median": 34.15,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9995,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.174,
+  "page_elapsed_seconds": 3.444,
+  "peak_process_tree_rss_bytes": 167829504,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

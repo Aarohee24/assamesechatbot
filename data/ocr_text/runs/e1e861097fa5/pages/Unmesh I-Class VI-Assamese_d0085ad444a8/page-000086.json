@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 86,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ডাইনী প্রথা প্ৰচলিত অঞ্চলসমূহত কোনো মানুহ যদি কিবা বেমাৰত ভোগে, তেতিয়া সেই অঞ্চলৰ\nলোকে এইটো ডাইনীৰ বাবে হৈছে বুলি বিশ্বাস কৰে। তেওঁলোকে মঙলতিৰদ্বাৰা মঙল চোৱাই কোনো\nএগৰাকী পুৰুষ বা মহিলাক ডাইনী বুলি চিনাক্ত কৰি নানা অত্যাচাৰ কৰে। কেতিয়াবা এইদৰে বহু\n\nত্নিৰীহলোকে মৃত্যুক সাৱটি লয়।                               7\n\n_(গ) অসম ডাইনী অপৰাধ (প্ৰতিৰোধ, নিষিদ্ধ আৰু সুৰক্ষা) আইন ঃ ডাইনী অপৰাধ নিৰ্মূলৰ বাবে\nপ্রণয়ন কৰা এই আইনখন অসম বিধান সভাত ২০১৫ খ্ৰীষ্টাব্দত গৃহীত হয়। এই আইনখনে কোনো\nলোকক ডাইনী বুলি অভিহিত কৰাটো অবৈধ বুলি গণ্য কৰে। ডাইনী অভিযোগত আনক হাৰাশাস্তি\nকৰা বা আক্ৰমণ কৰা লোকক আইনখনৰ অধীনত শাস্তি প্রদান কৰা হয়। আইনখনে ডাইনী\nসম্পৰ্কীয় অপৰাধৰ লগত জড়িত ব্যক্তিক সাত বছৰ কাৰাদণ্ড,আৰু পাঁচ লাখ টকালৈ জৰিমনা\nবিহাৰ ব্যৱস্থা কৰিছে। এনে অপৰাধ ৰোধৰ বাবে জনসাধাৰণৰ মাজত সজাগত৷ বৃদ্ধিৰ ক্ষেত্ৰতো\n\n(আইনখনে গুৰুত্ব প্রদান কৰিছে।                                 /\n১৪। অন্ধবিশ্বাস ৰোধ কৰাত বিদ্যালয় এখনে কেনেদৰে কাম কৰিব পাৰে শিক্ষকৰ সহযোগত আলোচনা\nকৰা। আলোচনাৰ অন্তত উপনীত হোৱা সিদ্ধান্তবোৰ লিখা।\n\n১৫। তোমাৰ অঞ্চলৰ এজন সমাজ সেৱকৰ বিষয়ে তথ্য সংগ্ৰহ কৰি লিখা আৰু শিক্ষকক দেখুওৱা ৷\n১৬ ৷ তোমাৰ অঞ্চলত প্রচলিত কিছুমান অন্ধবিশ্বাস চিনাক্ত কৰি এইবোৰ দূৰীকৰণৰ বাবে শিক্ষকৰ\n\nখ) ডাইনী প্রথা ঃ আমাৰ সমাজখনত এতিয়াও ভূত-প্ৰেত, দ’ত, বীক, জিন, যখিনী আদিৰ দৰে ১\nঅপদেৱতাৰ বিশ্বাস প্ৰচলিত হৈ আছে। ঠিক তেনেধৰণৰ আন এটা অন্ধবিশ্বাস হ'ল ডাইনী প্রথা।\nসহযোগত তলত দিয়া আৰ্হিৰ দৰে কিছুমান শ্ন'গান সম্বলিত প'ষ্টাৰ প্রস্তুত কৰা--",
+  "confidence": {
+    "word_count": 215,
+    "mean": 89.52,
+    "median": 96.12,
+    "minimum": 9.98,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.515,
+  "page_elapsed_seconds": 4.162,
+  "peak_process_tree_rss_bytes": 276086784,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

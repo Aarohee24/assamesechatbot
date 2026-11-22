@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 55,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ক) কবিয়ে কি বতাহে নাচি নাচি কথা পাতেহি বুলি কৈছে?\n(খ) কবিয়ে পানীৰ টোপ কি কৰিব নোৱাৰোঁ বুলি কৈছে?\n(গ) কাৰ সেউজী পাত দৌ খাই থাকে?\n\n(ঘ) কবিয়ে ৰিম বিম ৰিম বিমকৈ কি অহাৰ কথা কৈছে?\n\n৮ ৪ ৷ তলত দিয়া প্ৰশ্নসমূহৰ উত্তৰ বাছি উলিয়াই শব্দজালত ঘেৰ দিয়া আৰু লিখা।\nগ|৷ পূ|বা।লী\nছ| গ ৷ণি|।ব\nৰ | আকাশ\nব|ৰ)ৰষৰষু [|৭ণ\n\n3 ৫। তলত দিয়া কৰিতাৰ স্তৱককেইটা গনদ্যৰূপত লিখা৷,আৰু পঢ়া।\n\nপদ্যৰূপ                                      গদ্যৰূপ\n\nউদাহৰণ-- | এটোপা দুটোপ৷ কৰি | যেতিয়া এটোপ দুটোপকৈ বৰষুণ পৰে, তেতিয়া\nবৰষুণ আহে | গছলতা, ঘাঁহ-বনে মিচিকিয়াই হীহে। অৰ্থাৎ,\n\nগছ-লতা ঘাঁই-বনে | বৰষুণৰ পানী পাই গছ-লতা, ঘাঁহ-বনবোৰ সজীৱ\nমিচিকি হীহে।. | হৈ উঠে।\n\nইমান পানীৰ টোপ\nভালপাওঁ ৰিম বিম\nগীতহে শুনিব।\n\nবৰষুণ আঁতৰিলে\nমেলি দিওঁ নিজৰাত\n\nকাগজৰ নাও।",
+  "confidence": {
+    "word_count": 120,
+    "mean": 83.33,
+    "median": 92.76,
+    "minimum": 1.02,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.399,
+  "page_elapsed_seconds": 2.806,
+  "peak_process_tree_rss_bytes": 287064064,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

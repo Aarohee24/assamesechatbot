@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 118,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা --\n\nঞ্জট শুদ্ধ আৰু স্পষ্টকৈ পাঠটো পঢ়িব পাৰিব\n\nঞ্র পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পাৰিব\n\nঞ্জ নিজৰ পৰিৱেশ, সম-সাময়িক সমাজৰ লগত জড়িত হোৱা সমস্যাৰ বিষয়ে নিজৰ ধাৰণা বা দৃষ্টিভংগী\nব্যাখ্যা কৰিব পাৰিব\n\n৪ তথ্যভিত্তিক লিখনৰ কৌশল আয়ত্ত কৰিব পাৰিব\nঞ্জ আকস্মিক বক্তৃতা প্ৰতিযোগিতাত অংশগ্ৰহণ কৰিব পাৰিব আৰু কথন কৌশলৰ বিকাশ সাধন কৰিব পাৰিব\n৪ বাস্তৱ জীৱনৰ লগত সামঞ্জস্য ৰাখি ভাষাত ব্যাকৰণ প্রয়োগ কৰিব পাৰিব\n৬ ছবি সংগ্ৰহ কৰি চাৰ্ট প্রস্তুত কৰিব পাৰিব\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nবৰ্ণনামূলক | _ পাঠটো শুদ্ধ | পাঠভিত্তিকপ্রশ্মৰ | প্রাকৃতিক দুৰ্যোগৰ\n7   উচ্চাৰণেৰে পঢ়িব | উত্তৰ দিব আৰু | বিষয়ে জানিব আৰু\n(তথ্য৷৬ণিক)        পৰা            লিখিব পৰা          ক’ব পৰা\nভাষা অধ্যয়ন | প্রত্যয়ৰ বিষয়ে | শব্দ গঠন কৰিব | অব্যয় পদৰ ধাৰণা | যুৰীয়া শব্দ বিচাৰি\n(ব্যাৱহাৰিক  শিকিব পৰা   পৰা  পাব আৰু বাক্যত | উলিয়াই লিখিব\nব্যাকৰণ)           ব্যৱহাৰ কৰিব পৰা  পৰা\nজ্ঞান  ভূমিকম্প/বানপানীৰ| বাতৰি লিখিব | বানপানী, ভূমিকম্প | আকস্মিক বক্তৃতাত\nক’ব পৰা       আদি লিখিব পৰা\nপৰা   সম্পৰ্কে পোষ্টাৰ তৈয়াৰ কৰিব পৰা\n\nআচা\n\nঅতিৰিজভ্জ্ভাৱে শিকাই পুনৰ মূল্যায়ন কৰিব।\n\nঅহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ *চিন দিব। অহৰ্তা আয়ভ নোহোৱা শিকাৰচ্ক",
+  "confidence": {
+    "word_count": 185,
+    "mean": 87.24,
+    "median": 95.91,
+    "minimum": 2.31,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 2.565,
+  "page_elapsed_seconds": 2.794,
+  "peak_process_tree_rss_bytes": 287219712,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

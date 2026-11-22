@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১. তলৰ প্রশ্নবোৰৰ উত্তৰ দিয়া--\n(ক) পৃথিৱীৰ কোন অংশত প্রধান ভূ-অৱয়ববোৰ দেখা যায়?\n(খ) স্থলভাগত পোৱা প্ৰধান ভূ-অৱয়ববোৰৰ নাম লিখা।\n(গ) পৰ্বত আৰু মালভূমিৰ মাজৰ পাৰ্থক্য উল্লেখ কৰা।\n(ঘ) সমভূমি কেনেকৈ গঠিত হয়?\n(৬) মালভূমি অঞ্চলৰ বৈশিষ্ট্য কি?\n(চ) পাৰ্বত্য অঞ্চলত জনবসতি কিয় সেৰেঙা?\n\n২. পৰ্বত-পাহাৰে মানুহক কিদৰে সহায় কৰে, বহলাই লিখা ৷\n\n৩. নদী, পাহাৰ আদি ভূ-অৱয়ব দেখুৱাই এখন ছবি আঁকা\n\n৩.২ জলভাগৰ ভূ-অৱয়ব ঃ\n\nপৃথিৱীৰ উপৰিভাগৰ শতকৰা ৭১ ভাগৰো অধিক অংশ পানীয়ে আগুৰি আছে। সাগৰ-মহাসাগৰ,\nউপসাগৰ, নদ-নদী,হ্দ আদি সকলোকে একেলগে আমি জলভাগ বা জলমণ্ডল বুলি কওঁ। পৃথিৱীৰ মুঠ জলভাগৰ\n৯৭ শতাংশ সাগৰ-মহাসাগৰে আগুৰি আছে। প্রশান্ত মহাসাগৰ, আটলান্টিক মহাসাগৰ, ভাৰত মহাসাগৰ, উত্তৰ\nমহাসাগৰ আৰু দক্ষিণ মহাসাগৰ- এই পাঁচখন মহাসাগৰে প্রধানকৈ পৃথিৱীৰ জলভাগ নিৰূপণ কৰিছে।\n\nএন্টাৰ্কটিকা\n\nচিত্ৰ ৩.১১ ঃ পৃথিৱীৰ জলভাগ (মহাসাগৰ) আৰু স্থলভাগ (মহাদেশ)\n\n৩.২.১ সাগৰ-মহাসাগৰ ঃ\nপ্রশান্ত মহাসাগৰ পৃথিৱীৰ বৃহত্তম আৰু গভীৰতম মহাসাগৰ (029800)। ইয়াৰ কালি ১৬৫.২ নিযুত বৰ্গ\nকিলোমিটাৰ। ইয়াৰ গভীৰতম অংশৰ নাম হ’ল মেৰিয়ানা খাত (]19৷০)) । ইয়াৰ গভীৰতা ১০,৯৮৪ মিটাৰ।\nমহাসাগৰবোৰৰ কিছুমান বিশেষ অংশক আকৌ সাগৰ (9০%) বা উপসাগৰ বুলি কোৱা হয়। এই\n৩\n\nভূ-জৱয়ব আৰু মানুহ",
+  "confidence": {
+    "word_count": 172,
+    "mean": 89.03,
+    "median": 93.61,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 3.713,
+  "page_elapsed_seconds": 4.715,
+  "peak_process_tree_rss_bytes": 319004672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 111,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চুম্বকৰ সৈতে\nখেলে৷ আহা          185\"\n\nতোমাৰ পেঞ্চিল বাকচটো খোলাচোন। ঢাকনিখন সহজে এৰুৱাব পাৰিছানে?\nতোমালোকৰ ঘৰত থকা ফ্ৰীজটোৰ দুৱাৰখন খোলোতে অলপ জোৰ দিব লাগে নহয়নে?\nএনে কিয় হয় বাৰ্ন? আচলতে কিছুমান পেঞ্চিল বাকচৰ ঢাকনি, ফ্রৰীজৰ দৰ্জা, কিছুমান\nপুতলা, ষ্টিকাৰ, ঘৰ বা আলমাৰিৰ দৰ্জা আদিত চুম্বক লগোৱা থাকে। এই চুম্বকত লো\nঅথবা লোৰে তৈয়াৰী বস্তু (যেনে- বেজি, আলপিন, গজাল আদি) লাগি ধৰে। অৰ্থাৎ চুম্বক\nহ’ল এনে এবিধ পদাৰ্থ যিয়ে লো-জাতীয় বস্তুক আকৰ্ষণ কৰে। তদুপৰি চুম্বকৰ আন এটা\nগুণৰ কথা জানানে? তুমি যদি এডাল চুম্বক সূতাৰে বান্ধি ওলোমাই ৰাখা তেতিয়া ইয়াৰ\nএটা মূৰে উত্তৰ দিশত আৰু আনটো মূৰে দক্ষিণ দিশত অৱস্থান কৰিব। ইয়াৰ দ্বাৰা দিশ\nনিৰ্ণয় সহজে কৰিব পাৰি। বিশাল সাগৰত গৈ থকা জাহাজ এখনৰ কথা ভাবাচোন। তাত\nনাৰিকসকলে যাত্ৰাৰ দিশ কেনেদৰে ঠাৱৰ কৰে জানানে? তেওঁলোকে কম্পাছ নামৰ এবিধ\nআহিলা ব্যৱহাৰ কৰে। কম্পাছত মুক্তভাৱে ঘূৰিব পৰা এডাল শলা আকৃতিৰ চুম্বক থাকে।\n\n(০) ফ্রীজ\n\nচিত্ৰ 4.1 : চুম্বক ব্যৱহাৰ হোৱা কিছুমান সামঙ্জী\n\nভ্মম্ডতেওঁততত তত তত তত তত তত ০০০ ত ০০০০ত, ০০,০০০, ০০০,ণুষ্ট)",
+  "confidence": {
+    "word_count": 161,
+    "mean": 84.24,
+    "median": 95.69,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.091,
+  "page_elapsed_seconds": 3.528,
+  "peak_process_tree_rss_bytes": 251740160,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

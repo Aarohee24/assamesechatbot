@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৪০5         জ্নীনিয়াত\n\nউত্তৰ- নিজৰ বা অন্যলোকৰ ছতৰত ইচ্ছাকৃতভাবে হওক বা অনিচ্ছাকৃভাবে\nহওক দৃষ্টিপাত কৰিলে অজু ভংগ নহয়।\n\nগোছলৰ বিৱৰণ (.}--=)\n\nপ্ৰশ্ন-গোছল কাক বোলে আৰু গোছল কিমান প্ৰকাৰ?\n\nউত্তৰ- অপৱিত্ৰ অৱস্থাত গা ধুই পৱিত্ৰ হোৱাকে গোছল বোলে আৰু ই তিনি\nপ্ৰাকৰ। যেনে- ১ ৷ ফৰজ, ২ ৷ চুনত আৰু ৩। মোস্তাহাব।\n\nধপ্ৰহ্ম- ফবজ গোছল কাক বোলে?\n\nউত্তৰ- নিম্নলিখিত কাৰণত গা ধোৱাকে ফৰজ গোছল বোলে। সহবাস কৰাৰ\nপিচত, স্বপ্নদোষ হ’লে, কোনো কাৰণত বীৰ্যপাত হ’লে আৰু হায়্জ-নেফাচ\nহলে।\n\nপ্ৰশ্ন- কেতিয়া গোছল কৰা চুনত?\nআগতে, আৰাফাতত অৱস্থান কৰাৰ কাৰণে গা ধোৱা চুন্নত।\n\nপ্ৰশ্ন- মোজ্তাহাব গোছল কিমান প্ৰকাৰ?\n\nউত্তৰ- মোত্তাহাব গোছল কেবা প্ৰকাৰব। যেনে- শ্ববে বৰাতৰ ৰাতি গোছল কৰা,\nআৰাফাতৰ ৰাতি, চন্দ্ৰ-সূৰ্য গ্ৰহণৰ নামাজ পঢ়িবলৈ, মৃতকক, গোছল দিয়াৰ\nইছলামত দীক্ষিত হ’লে ইত্যাদি কাৰণত গোছল কৰাটো মোস্তাহাব।\n\nপ্ৰশ্ন-নদীত ডুব মাৰিলে বা বৰষুণৰ পানীত গা ধোলে গোছল হ'বনে?\n\nউত্তৰ-নাকত পানী মাৰিলে আৰু কুল্লি কৰিলে গোছল হ’ব।\n\nপ্ৰশ্ন- কিব্লামুখীহৈ গোছল কৰিব পাৰিনে?\n\nউত্তৰ- উলংগ হৈ গোছল কৰিলে কিব্লামুখী হ’ব নোৱাৰি।\n\nপ্ৰশ্ম- উলংগ হৈ গা ধুব পাৰিনে?\n\nউত্তৰ- স্নাগাৰত য’ত অন্যলোকে দেখা নাপায় তাত উলংগ হৈ গা ধুব পাৰি।\n\nপ্ৰশ্নম- গোছল কেতিয়া মকৰ্মহ হয়?\n\nউত্তৰ- গোছল কৰোতে অতিৰিক্ত পানী ব্যৱহাৰ কৰা, কিব্লামুখী হোৱা, চুন্নতৰ",
+  "confidence": {
+    "word_count": 185,
+    "mean": 85.64,
+    "median": 92.01,
+    "minimum": 7.03,
+    "maximum": 96.91
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.246,
+  "page_elapsed_seconds": 2.377,
+  "peak_process_tree_rss_bytes": 237809664,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

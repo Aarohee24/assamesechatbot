@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 209,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "+ =\n\n11) মিতালীয়ে ক্ৰিয়াকলাপ 7.8 টো এটা লেজাৰ টৰ্চৰ সহায়ত কৰিব বিচাৰিছিল। তাইৰ শিক্ষকে\nতেনেকুৱা নকৰিবলৈ পৰামৰ্শ দিলে। শিক্ষকে কিহৰ ভিত্তিত এই পৰামৰ্শ দিলে ব্যাখ্যা কৰিব\nপাৰিবানে?\n\n12) তুমি চকুৰ যত্ন কেনেকৈ ল’ব পাৰা বুজাই লিখা।\n\n13) প্রতিফলিত ৰশ্মিয়ে আপতিত ৰশ্মিৰে সৈতে 90০ কোণ কৰিলে, আপতন কোণৰ মান কিমান হ’ব?\n\n| 14) 40 চে.মি. পাৰ্থক্যত ৰখা দুখন সমান্তৰাল সমতল দাপোণৰ মাজত এডাল মম ৰাখিলে মমডালৰ\n\nপ্রতিবিম্বৰ সংখ্যা কিমান হ’ব।\n\n15) দুখন দাপোণ সমকোণত ৰখা হৈছে। চিত্র 7.19 ত দেখুওৱাৰ দৰে এটা পোহৰ ৰশ্মি তাৰে এখনত\n30০ কোণত আপতিত হৈছে। এতিয়া আনখন দাপোণৰ পৰা প্রতিফলিত হোৱা ৰশ্মি আঁকা।\n\nচিত্র 16.19\n\n16) চিত্র 720 ত দেখুওৱাৰ দৰে এখন সমতল দাপোণৰ এমূৰে % স্থানত প্রজ্ঞান থিয় হৈ আছে। সি\nদাপোণত নিজকে দেখা পাবনে? তদুপৰি সি }, ৫ আৰু 1২ স্থানত থকা কোনো লক্ষ্য বস্তুৰ প্ৰতিবিম্ব\nদেখা পাবমে?\n\n/;( প্রজ্ঞান) ০      ]\n\nবনালালোোলোাললললালোজললল লা\n\nচিত্ৰ 16.20\n17) (৪) সমতল দাপে৷৭ৰ সমুখত / স্থানত থকা কোনো লক্ষ্য বস্তুৰ প্ৰতিবিম্বৰ অৱস্থান উলিওৱা\n\n(চিত্ৰ -7.21)।\n(৮) প্রহেলিকাই ৪ অৱস্থানত ৰৈ এই প্রতিবিম্ব দেখিবলৈ পাবনে?\n(2০) প্রজ্ঞানে ( অৱস্থানত ৰৈ এই প্রতিবিন্ব দেখিবলৈ পাবনে?\n(0) প্ৰহেলিকাই ৪ স্থানৰ পৰা 0 স্থানলৈ আহিলে / ৰ প্রতিবিম্বৰ অৱস্থান কি হ’ব?\n\n* 8 (প্ৰহেলিকা)\n\n* 2 ৷( প্রজ্ঞান )\n\n১\n\nযিয়ে বা তান বণ ললে [য়া 9. 99\n\nচিত্ৰ 16.21",
+  "confidence": {
+    "word_count": 210,
+    "mean": 81.94,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.08,
+  "page_elapsed_seconds": 3.36,
+  "peak_process_tree_rss_bytes": 321003520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

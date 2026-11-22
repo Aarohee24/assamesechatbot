@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 38,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ভৈয়াম আৰু পাহাৰীয়া অঞ্চলৰ জীৱন ধাৰণৰ প্রণালী--\n\nভৈয়াম অঞ্চলবোৰ সাধাৰণতে সমতল ভূমি। সমতল\nভূমিত নদ-নদী, খাল-বিল, পুখুৰী আদি থাকে। ভৈয়ামৰ মাটি\nপলসুৱা হোৱাৰ বাবে কৃষিৰ বাবে উপযোগী ।\nভৈয়ামৰ গাও অঞ্চল--\n\nভৈয়ামৰ সমতল ভূমিত মানুহে গাঁও পাতি বসবাস কৰে।\nগাৱৰ বাসিন্দাসকলৰ প্ৰধান জীৱিকাৰ উপায় হ’ল কৃষি।\nসাধাৰণতে গাঁৱৰ মানুহে ধান, মাহ, মৰাপাট, সৰিয়হ, তিল,\nকুঁহিয়াৰ,নানা প্রকাৰৰ শাক-পাচলি আদিৰ খেতি কৰা দেখা যায়।\nগাও অঞ্চলৰ কিছু লোক কুটীৰ শিল্পৰ লগত জড়িত হৈ থাকে। অ\nভৈয়ামৰ গাঁওবোৰত বসবাস কৰা লোকসকলে উৎপাদন কৰা এর\nবেতৰ সঁজুলি আদি ওচৰৰ বজাৰসমূহত বিক্ৰী কৰি\nঅৰ্থনৈতিকভাৱে লাভৱাম্বিত হয়।\n\nখঙত সূত\n\nকিছুসংখ্যক লোকে চাকৰি কৰিও জীৱিকা নিৰ্বাহ কৰে। গাঁও অঞ্চলৰ যাতায়াত ব্যৱস্থা উন্নত\nনহয়। যান-বাহনৰ সংখ্যাও কম। শিক্ষা,চিকিৎসা, ব্যৱসায় আদিৰ সুবিধাও সাধাৰণতে কম।\n\nনৈৰ পাৰত বসবাস কৰা কিছু লোকে কৃষিকাৰ্যৰ লগতে মাছ ধৰিও জীৱিকা নিবহি কৰে। আজি-\nকালি গাঁও অঞ্চলত ডাঙৰ ডাঙৰ পুখুৰী খান্দি মীন পালন কৰি বহুলোক অৰ্থনৈতিকভাৱে লাভৱান্বিত\nহৈছে।গৰ,ছাগলী,হীহ-কুকুৰা,গাহৰি আদি পালন কৰিও এই অঞ্চলৰ মানুহে জীৱিকা নিবহি কৰে।",
+  "confidence": {
+    "word_count": 152,
+    "mean": 89.26,
+    "median": 96.09,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 4.905,
+  "page_elapsed_seconds": 6.265,
+  "peak_process_tree_rss_bytes": 211177472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

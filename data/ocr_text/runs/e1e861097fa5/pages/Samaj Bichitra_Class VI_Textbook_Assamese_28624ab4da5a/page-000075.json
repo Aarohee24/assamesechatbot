@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 75,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৮\n\nভাৰতীয় সভ্যতাৰ আৰম্ভণি\n\nআদিম যুগত মানুহে গাঁও পাতি বসবাস কৰিবলৈ লোৱাৰেপৰা ক্ৰমে মানুহৰ জীৱন-ধাৰণ প্ৰণালীত\nপৰিৱৰ্তন ঘটিবলৈ ধৰে। সময়ৰ গতিত মানুহৰ প্রয়োজনো বাঢ়ি আহে । ইয়াৰ লগে লগে মানুহে নিজৰ জ্ঞান-বুদ্ধিৰে\nনতুন নতুন কৌশল প্রয়োগ কৰি নিজৰ প্রয়োজনবোৰ পূৰাই যাবলৈ ধৰে।\n\nচিত্ৰ ৮.১ লৈ মন কৰা। ইয়াত হৰগ্ী সভ্যতাৰ নগৰ এখনৰ একাংশ দেখুওৱ| হৈছে।\n\nচিত্ৰ ৮.১ ? হৰপ্লী সভ্যতাৰ অন্তৰ্গত এখন নগৰৰ আনুমানিক চিত্ৰ\n\nকৃষিৰ ক্ষেত্ৰত নিজৰ প্ৰয়োজনতকৈ অধিক উৎপাদন হ’লেই তাক ওপৰঞ্চি উৎপাদন বুলি কোৱা হয়।\nএনে ওপৰঞ্চি উৎপাদনে ব্যৱসায়-বাণিজ্যৰ বাট মুকলি কৰিছে। ইয়েই প্রথমে বজাৰ আৰু পাছলৈ নগৰৰ সৃষ্টিত\nসহায় কৰে। ফলস্বৰূপে কিছুমান সুবিধাজনক ঠাই আৰু তাৰ সমাজ আন ঠাই বা সমাজতকৈ বেছি আগবাঢ়ে ৷\nএনেধৰণে বেছিকৈ বিকাশ লাভ কৰা ঠাইক কেন্দ্ৰ কৰি মানুহৰ চিন্তা-চৰ্চা আৰু জীৱন-প্রণালীয়ে নতুন গতি লাভ\nকৰে। এই গতিয়েই তাৰ লগত জড়িত ঠাই আৰু সমাজখনক তুলনামূলকভাৱে উন্নত ৰূপত সজাই তোলে।\nএনে উন্নত ৰূপকে আমি সেই ঠাইত গঢ় লোৱা সভ্যতা বুলি ক’ব পাৰো। এইদৰেই প্ৰাচীন কালত পৃথিৱীৰ\nবিশেষভাৱে সুবিধাজনক কিছুমান ঠাইত একোখন সমাজে সভ্যতা গঢ়ি তুলিবলৈ সক্ষম হৈছিল।\n\nপ্রাচীন সভ্যতাবোৰৰ বিকাশৰ ক্ষেত্ৰত কিছুমান নিৰ্দিষ্ট বৈশিষ্ট্য থকা দেখা যায়। সেই বৈশিষ্ট্যসমূহ হ’ল--\n(ক) শিল, ধাতু, কাঠ আদি কেঁচামাল সুলভ আছিল। এইবোৰৰ পৰা৷ শিল্পজাত সামগ্ৰীৰ উৎপাদন আৰু পৰিচালনাৰ\n\nসুব্যৱস্থা আছিল।",
+  "confidence": {
+    "word_count": 195,
+    "mean": 90.75,
+    "median": 96.12,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.556,
+  "page_elapsed_seconds": 4.129,
+  "peak_process_tree_rss_bytes": 303194112,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

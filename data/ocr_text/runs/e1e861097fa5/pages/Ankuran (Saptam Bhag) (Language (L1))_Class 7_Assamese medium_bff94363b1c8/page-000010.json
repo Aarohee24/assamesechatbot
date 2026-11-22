@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 10,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তেজৰে কমলাপতি\n\n(পুৱা গোৱা বৰগীত)\nৰাগ -শ্যাম\nভ্ৰাজ্জী মাধৱদেৱৰ\n>                _ছেঁভঁু                      ৰ তে                       _                      7].                          >=\n\nশ্ৰীমন্ত শংকৰদেৱ আৰু শীজ্জী মাধৱদেৱে ৰচনা কৰা বৰগীতসমূহ অসমীয়া সাহিত্যৰ অমুল্য | _\nম| সম্পদ। এই বৰগীতসমূহ সত্ৰ, নামঘৰ আৰু অসমীয়া সমাজত প্ৰচলিত হৈ আহিছে। গীতসমূহত\nসাধাৰণতে ৰাম-কৃষ্ণ জীৱন-লীলা বিষয়ক চিত্ৰ পএতিফলিত হয় যদিও প্রাকৃতিক বণনা, জন| _\nজীৱনৰ ছবি, মাতৃ স্নেহৰ একাশ আৰ কৃষ্ণৰ শৈশৱকালৰ নানান চিত্র প্রকাশ পায়। এই\n\nপাঠত তেনেকুৱা এটি ভাবৰ আভাস পাবাহক।\n\nধ্ৰুং-তেজৰে কমলাপতি পৰভাতে নিন্দ। _ ৰি         ত্ড্্‌\n\nপদ- ৰয়নী বিদূৰ দিশ ধৱলী বৰণ।\nতিমিৰ ফেৰিয়া বাজ ৰবিৰ কিৰণ।।\nশতপত্ৰ বিকশিত ভ্ৰমৰ উৰায়।\nব্ৰজবধূ দধি মথে তুৱা গুণ গাই।।\nদাম-সুদাম ডাকে তেৰি লৈয়া নাম।\nহেৰ দেখ উঠিয়া আসিল বলৰাম।।\nনন্দ গেল বাথানে গোৱাল গেল পাল।\nসুৰভী চাৰিতে লাগে উঠৰে গোপাল।।\nক্ষীৰ লৱনু লৈয়া শিঙা বেত বেণু।\nসকালে মেলিয়ে৷ বৎস হাম্বালাৰে ধেনু।।\nকহয় মাধৱ মাই! কিনু তপসাইলা।   ৃ্জ\n\n(হেৰিনাৰায়ণ দভবৰ্ৱা সম্পাদিত ‘বৰগীত’ পুথিৰ পৰা৷ লোৱা হৈছে।)\nখজ- গীতটো গোৱাত সহায় কৰিব। আৱশাকবোধে স্থানীয় দক্ষ বাজ্ৰি সহায়ল ব আৰুপাৰিলে ড\" ভুপেন হাজৰিকাই গোৱা গীতটো বজাই শনাব |\n\n।",
+  "confidence": {
+    "word_count": 168,
+    "mean": 79.47,
+    "median": 92.47,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.154,
+  "page_elapsed_seconds": 4.775,
+  "peak_process_tree_rss_bytes": 279085056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

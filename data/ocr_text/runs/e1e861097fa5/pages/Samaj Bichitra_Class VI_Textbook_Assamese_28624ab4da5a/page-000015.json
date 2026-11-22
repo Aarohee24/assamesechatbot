@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_relative_path": "data/books/Samaj Bichitra_Class VI_Textbook_Assamese.pdf",
+  "source_pdf_size_bytes": 36452205,
+  "source_pdf_sha256": "28624ab4da5a107bff2f7536dc08029e4b2f335a8fd9ad90f9cf2e7999ace0d3",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Title Pages.indd",
+    "Author": "G D Borthakur",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe Acrobat 8.1",
+    "CreationDate": "D:20241202174114+05'30'",
+    "ModDate": "D:20250617144417+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 15,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী - ১\n১. তলৰ প্রশ্নবোৰৰ উত্তৰ দিয়া--\n(ক) সূৰ্যৰ পৰিয়ালটোৰ নাম কি?\n(খ) পৃথিৱীৰ উপগ্ৰহটোৰ নাম লিখা ৷\n\nসমান দেখি?\n\n২. সৌৰজগতৰ গ্ৰহকেইটাৰ নাম সূৰ্যৰপৰ৷ দূৰত্ব অনুসৰি একাদিক্ৰমে লিখা।\n৩. চন্দ্ৰটো সূৰ্যৰ তুলনাত বহুণ্ডণে সৰু হ’লেও পৃথিৱীৰপৰা দুয়োটাকে কিয়\n\n১.২ পৃথিৱীৰ আকাৰ আৰু আকৃতি ঃ\n\nতোমালোকে নিশ্চয় গোলক দেখিছা। পৃথিৱীৰ আকৃতিৰ\nধাৰণা পাবলৈ গোলক ব্যৱহাৰ কৰা হয়। গোলক হ’ল বৃহৎ\nপৃথিৱীখনৰ এটা ক্ষুদ্ৰ আৰ্হি বা নমুনা। গোলক আকৃতিত ঘূৰণীয়া।\nআমি সাধাৰণতে পৃথিৱীখনক ঘূৰণীয়া বুলি কওঁ। ই পিছে সম্পূৰ্ণ\nঘূৰণীয়া নহয়, উপবৃত্তাকাৰহে (05010)। ইয়াৰ দুয়ো মূৰ সামান্য\nচাপ খোৱা আৰু মাজৰ অংশ অলপ ওফন্দি উঠাৰ দৰে। আমাৰ\nসুবিধাৰ বাবে গোলকত পৃথিৱীখনক ঘূৰণীয়া কৰি দেখুওৱা হয়।\nচিত্র ১.৪ ত পৃথিৱীৰ উপবৃত্তাকাৰ আকৃতিটো দেখুওৱা হৈছে।\n\nপৃথিৱীখন আকাৰত বাৰু কিমান ডাঙৰ, অনুমান কৰাচোন।\nতোমালোকে গণিত বিষয়ত বৃত্তৰ পৰিধি আৰু ব্যাসৰ বিষয়ে নিশ্চয়\nপঢ়িছা। পৃথিৱীৰ পৰিধি প্রায় 8০,০০০ কিলোমিটাৰ।\n\n|\nচু\n\nচিত্ৰ ১.৪ ? পৃথিৱীৰ উপবৃত্তাকাৰ আকৃতি\n\nচিত্র ১৫ ত দেখুওৱাৰ দৰে\nপৃথিৱীৰ উত্তৰা-দক্ষিণা ব্যাস ১২,৭১৪\nকিলোমিটাৰ আৰু পূবা-পশ্চিমা ব্যাস\n১২,৭৫৬ কিলোমিটাৰ দীঘল। পৃথিৱীৰ\n\nপূবা-পশ্চিমা ব্যাস উত্তৰা-দক্ষিণা ব্যাসতকৈ\n৪২ কিলোমিটাৰ বেছি দীঘল। অৰ্থাৎ,\nডু                    |            পৃথিৱীৰ মাজ অংশটো কিছু ওফন্দি উঠা\nু          ধৰণৰ।\nচিত্ৰ ১.৫ ঃ পৃথিৱীৰ আকাৰ সূচক ছবি\n\nআমাৰ পৃথিৱী",
+  "confidence": {
+    "word_count": 188,
+    "mean": 90.32,
+    "median": 94.52,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.156,
+  "page_elapsed_seconds": 3.536,
+  "peak_process_tree_rss_bytes": 291934208,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

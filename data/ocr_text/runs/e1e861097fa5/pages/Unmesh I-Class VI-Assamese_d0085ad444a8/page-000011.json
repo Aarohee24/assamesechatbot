@@ -1,0 +1,67 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 11,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঢ                                                                    ৮৮27\nভাৰত আমাৰ দেশ। অসম ইয়াৰ উভৰ- পুব দিশত অৱস্থিত । অসম আমাৰ জন্মভূমি । নিজৰ দেশ তথা জন্মভূমি খ\nসকলোৰে আপোন আৰু আদৰৰ ৷ নিজৰ দেশ আৰু জন্মভুমিক আমি সকলোৱে ধুনীয়া আৰু গোৰৱৰ ঠাই বুলি\nঅনুভৱ কৰোঁ । অতীজৰপৰা আমাৰ দেশখন সাহিত্য-সংস্কৃতি, দেৱ-দেৱত৷, ধ৷ষি-মুনি আৰু ওণী-জ্ঞানী লোকৰ\nবাবে বিশ্বত পৰিচিত। ইয়াৰ প্রাকৃতিক শোভা, ভোগোলিক বৈচিত্ৰ৷ আদিয়ে আমাৰ দেশ তথা৷ জন্মভূমিক\n৷ কেনেদৰে মনোমোহা কৰি তুলিছে কবিতাটিৰ জৰিয়তে সেই কথা প্রকাশ পাইছে।                              /\n\n{যদ পঢ়া আৰু আবৃত্তিকৰা -_\nআমাৰ দেশৰ মুকুট মূৰৰ\nহিমালয় গিৰিৰাজ,\nছয় খতু আহি  আলফুল কৰি     =\nপিন্ধায় অপূৰ্ব্ব সাজ।\n্িল্খ পাটকায়ে মেলে ক’লা চুলিটাৰিয\nঅৰুণ উদয় তাত-_\nলুইতে পখালি কৱ\n\nজেউতি চৰায় গাৰ,\n7“ কুলুকুলুকৰি আহে জান-জুৰি\nলই সাতেশৰী* হাৰ।\nশোভিছে বুকত খাছীয়া পৰ্ব্বত\nবইছে অমৃতধাৰা---\n   আৰু কত গিৰি _ আছে শোভা কৰি\n* সাতেশৰী শব্দৰঘাৰা কবিয়ে সাতসৰীক বুজাইছে।     আঁচলত নাচে তৰা।\n\n১১",
+  "confidence": {
+    "word_count": 138,
+    "mean": 79.79,
+    "median": 92.17,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 248 diacritics",
+        "Detected 248 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 2.938,
+  "page_elapsed_seconds": 3.77,
+  "peak_process_tree_rss_bytes": 255488000,
+  "tesseract_warnings": [
+    "Detected 248 diacritics",
+    "Detected 248 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 186,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "€ উন্নত যোগাযোগ ব্যৱস্থাই অনেক তথ্যৰ যোগান ধৰে যাৰ ফলত মানুহে বহুতো দূৰূহ কাম সহজে সম্পন্ন\n\nকৰিব পাৰে।\n\n১\n\n২।\n\n৩৷\n\n৪৷\n\nচমু উত্তৰ লিখা--\n\n(ক) স্বাস্থ্যৱান ব্যক্তি বুলিলে কাক বুজায়?\n\n(খ) আশাক্মী নিয়োগৰ উদ্যেশ্য কি?\n\n(গ) ছোৱালী শিক্ষাৰ বাবে চৰকাৰে লোৱা এক ব্যৱস্থাৰ নাম লিখা।\n\n(ঘ) কিষান কলচেন্টাৰৰপৰা কি সেৱা উপলব্ধ হয়?\n\nউত্তৰ লিখা--\n\n(ক) আন্তঃগাথনিমূলক কাম-কাজ মানে কি? আমাৰ দেশৰ চৰকাৰে দেশৰ আন্তঃগাঁথনি উন্নয়নৰ বাবে কি\nকি আঁচনি গ্ৰহণ কৰিছে?\n\n(খ) যাতায়াত আৰু যোগাযোগ ব্যৱস্থাই দেশৰ উন্নয়নত কেনেদৰে অৰিহণা যোগায় ?\n\n(গ) প্ৰযুক্তি বিদ্যাৰ সহায়ত বৰ্তমান কি কি সুবিধা উপলব্ধ হৈছে ?\n\nখালী ঠাই পূৰ কৰা--\n\n(ক)          মানে কোনো কাৰ্য কৰিবৰ বাবে বুনিয়াদী আৰু অত্যন্ত আৱশ্যকীয় আগতীয়া কাৰিকৰী\nসা-সুবিধা যিবিলাকৰ অবিহনে        উন্নয়ন সম্ভব হ’ব নোৱাৰে।\n\n(খ) দেশৰ মুঠ ---------- উৎপাদন তথা চৰকাৰৰ ----------সংগ্ৰহত ৰে’ল সেৱাৰ অবদান অন্যতম।\n\n(গ) সংবিধানে      শিক্ষাক শিশুৰ      অধিকাৰ হিচাপে স্বীকৃতি দিছে।\n\n(ঘ) উন্নত ------ব্যবস্থাই কম সময়তেই আমাক অধিক ------------যোগান ধৰে।\n\n(ঙ)        ব্যৱহাৰে আমাৰ জীৱনবোৰক যথেষ্ট      আৰু উন্নয়নমুখী কৰি তুলিছে।\n\nপ্রকল্প\nতোমাৰ অঞ্চলত চৰকাৰে কি কি ক্ষেত্ৰত আঁচনি গ্ৰহণ কৰি অৰ্থনৈতিক উন্নয়ন সাধন কৰাৰ চেষ্টা কৰিছে তাক\nতলত দিয়া ধৰণে তালিকাভুক্ত কৰা।\n\nক্ষেত্ৰ    চৰকাৰী আঁচনি\n\nপৰিসাংখ্যিক উৎস ঃ অসমৰ উন্নয়ন আৰু বিকাশৰ শ্বেতপত্ৰ ২০০১-২০১০, পৰিকল্পনা আৰু: উন্নয়ণ বিভাগ, অসম চৰকাৰ\n\nএ এ ৫৫৬৫৫",
+  "confidence": {
+    "word_count": 198,
+    "mean": 89.36,
+    "median": 95.66,
+    "minimum": 21.11,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.896,
+  "page_elapsed_seconds": 4.415,
+  "peak_process_tree_rss_bytes": 219676672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

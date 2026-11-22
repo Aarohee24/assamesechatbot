@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 67,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "“নিশিকিলে, নাজানিলে ফকৰা-যোজনা           ম্দ্দ\n\nহয় বোলে তেনে লোক বুধিত টোকোনা’\nকবিতা দুশাৰীৰ জৰিয়তে তোমালোকে জানিব পাৰিছা যে ফকৰা-যোজনা\nনাজানিলে বুধিত টোকোনা হয়। কাৰণ, ফকৰা-যোজনাৰ সুকীয়া অন্তৰ্নিহিত অৰ্থৰ\nসহায়ত বহু কথা ক’ব পাৰি। তলৰ কথাখিনিৰ পৰা ফকৰা-যোজনানো কি সেই সম্পৰ্কে\nজানি লোৱা।\nফকৰা-- নীতি শিকোৱা, দৃষ্টান্ত দেখুওৱা বা কথাৰ উদাহৰণ দিয়া এফাকি বা দুফাকিত\nলিখা সাঁথৰৰ নিচিনা কথা। যেনে, অভ্যাসৰ নৰ কৰ্ণ পথে কৰে শৰ ।\nযোজনা--- এটা কথা বুজাবৰ নিমিত্তে আন এটা কথাৰ লগত তাক মিলাই বা তুলনা কৰি\nকোৱা কথা। যেনে, অবুজনক বুজোৱা ঢেৰুৱ৷ ঠাৰি সিজো৷ৱা। অৰ্থাৎ, ঢেৰুৱা শাকৰ ঠাৰি\nসিজোৱা যেনে টান, বুজিব নোখোজা মানুহক বুজোৱাটোও তেনে কঠিন।\nএই দুয়োবিধকে একেলগে সাহিত্যত ফকৰা-যোজনা বুলি কোৱা হয়। প্রাচীন\n\nকালৰ পৰাই ফকৰা-যোজনাবিলাক মানুহৰ মুখে মুখে চলি অহাৰ বাবে ই মৌখিক\nসাহিত্যৰ অন্তৰ্গত। ভাষাৰ সৌষ্ঠৱ আৰু ব্যঞ্জনা প্ৰকাশত ফকৰা-যোজনাৰ গুৰুত্ব অসীম।\nইয়াৰ মাজত এটা জাতিৰ জাতীয় চৰিত্ৰ প্রকাশ পায়। ফকৰা-যোজনাই ভাবৰ\nপ্রকাশ উজু কৰি অৰ্থ বুজাত সহায় কৰে। জীৱনৰ বিভিন্ন দিশত মানুহে আগবাঢ়ি\nযাওঁতে লাভ কৰা অভিজ্ঞতাসমূহৰ আধাৰতে এইবোৰ ৰচিত হৈছিল।\n[=                                     ৰ\n১২। তলৰ যোজনা দুফাকিৰ অৰ্থ বুজাই লিখা।\n\n(ক) আপদৰ মাত, আকালৰ ভাত। _ &খ)) কথাতে বঁটা পায়, কথাতে কটা যায়।\n\nঘঁবপ্রকল্প\n\n১৩। তোমাৰ জ্যেষ্টজনে বিভিন্ন সময়ত প্ৰসংগক্ৰমে ব্যৱহাৰ কৰা কথাৰ ঠাঁচ বা শৈলী সংগ্ৰহ\nকৰি পঢ়ি শুনোৱা আৰু অৰ্থ বুজাই কোৱা।\n\nঙ্_১৩নং ক্রিয়া-কলাপ কৰোঁতে সহায় কৰিব।",
+  "confidence": {
+    "word_count": 208,
+    "mean": 88.79,
+    "median": 94.28,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.028,
+  "page_elapsed_seconds": 3.34,
+  "peak_process_tree_rss_bytes": 289787904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

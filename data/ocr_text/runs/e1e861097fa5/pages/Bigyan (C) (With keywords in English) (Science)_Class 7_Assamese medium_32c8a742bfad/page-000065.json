@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়াকলাপ (“পখ)(৮) 5.1\n\n৷৷ প্লাষ্টিকৰ কাপ/পৰীক্ষা নলী/গিলাচ এটাত নেমুৰ\nৰসৰ সৈতে অলপ পানী মিহলোৱা।\nজজ ড্ৰপাৰৰ সহায়েৰে ওপৰৰ দ্ৰৱৰ টোপাল এটা ৰঙা\nলিটমাছ (1২০৫ }{?109) কাগজৰ টুকুৰাত পৰিবলৈ\nদিয়া। ৰঙৰ কিবা পৰিৱৰ্তন হ’লনে?\nজ্জ৷ একেটা পৰীক্ষা পুনৰ নীলা লিটমাছ (03102 |10]]]3)\nকাগজত লৈ কৰা।\nৰঙৰ যদি কিবা পৰিৱৰ্তন হৈছে তাক লিখি ৰাখা।\nএকেটা ক্ৰিয়াকলাপকে তোমালোকে তলত দিয়া\nবস্তুবোৰেৰে কৰি চোৱা ।\nটেপৰ পানী, অপমাৰ্জকৰ দ্ৰৱ, ছ'ডা পানী, চাবোন\nবেকিং ছ’ডাৰ দ্ৰৱ, মেগনেছিয়া দুগ্ধ, কাপোৰ ধোৱা\nছ’ডাৰ দ্ৰৱ, চূণপানী ৷ যদি সম্ভৱ হয় দ্ৰৱবিলাক পাতিত\nপানীৰে প্রস্তুত কৰিবা।\nতোমাৰ পৰ্যৱেক্ষণ তালিকা 5.2ত লিখা ৷ লিটমাছৰ\nক্ৰিয়া নথকা কিবা দ্রব্য তোমালোকৰ তালিকাখনত\nআছেনে? সেইবোৰৰ নাম লিখা ।\nযি দ্ৰৱই নীলা বা ৰঙা লিটমাছৰ ৰং সলনি নকৰে,\nতাক প্রশম দ্ৰৱ ({খ০0৪] ৪০01000৷0})) বোলে। এই\n\nচিত্ৰ 522 ছাত্ৰর-ছাত্ৰীবোৰে লিটমাছ পৰীক্ষা কৰি আছে।\n(0001]01910 |)211[01]]1]]1]6 |1107]09 (2690)\n\nহালধি হ’ল আন এবিধ প্রাকৃতিক সূচক\n\n(][[]1\"[}]2]\"]0 19 31104]161\" 118 011\"9] ]110108001\") $\n\nজ্ৰিয়াকলাপ (৷০০ঘ৷%) 5.2\n\nজজ এচামুচ হালধি গুড়ি (]011]1600 ০০0০৮) লোৱা।\nইয়াতে অলপ পানী ঢালি এটা লেই (১8902) প্রস্তুত কৰা।\nছ ব্ৰটিং কাগজ (31000108 )8[)2/) বা ফিল্টাৰ কাগজত\n([}[!ল'' ])0[)০') হালধিৰ লেইটো সানি পাছত শুকাবলৈ\nদি হালধি কাগজ বনোৱা। হালধি কাগজখনক সৰু\nসৰুকৈ কাটা।\n৷ এতিয়া হালধি কাগজ টুকুৰাৰ ওপৰত এটোপাল\nচাবোন পানী পৰিবলৈ দিয়া।\nতোমালোকে কি দেখিলা?\n\nতালিকা (0080) 5.2\n\nঅম্ল, ক্ষাৰক আৰু লৱণ\n\n51",
+  "confidence": {
+    "word_count": 210,
+    "mean": 78.64,
+    "median": 93.19,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.102,
+  "page_elapsed_seconds": 3.385,
+  "peak_process_tree_rss_bytes": 296402944,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

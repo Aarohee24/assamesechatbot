@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 200,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী ঃ\n\n১\n\n২\n\n৩|\n\nঞ্জ|\n\n৫\n\nচমু উত্তৰ লিখা--\n\n(ক) নাগৰিক শব্দৰ অৰ্থ কি?      (গঁ) নাগৰিকে দেশৰ কি কি অধিকাৰ ভোগ কৰিব পাৰে?\n(খ) বিদেশী মানে কি?          (ঘ) কোন চনত চিকিম ভাৰতৰ লগত চামিল হয়?\nউত্তৰ লিখা--\n\n(ক) এজন বিদেশীয়ে ভৰতৰ নাগৰিকত্ব কেনেদৰে লাভ কৰিব পাৰে।\n(খ) পৌৰ অধিকাৰসমূহ কি কি?\n\n(৬) এজন নাগৰিক কেনেকৈ নাগৰিকত্বৰ পৰা বঞ্চিত হ’ব পাৰে।\n\nখালী ঠাই পূৰ কৰা---\n\n(ক) বিদেশীসকলে _ অধিকাৰ ভোগ কৰিব নোৱাৰে।\n\n(খ) আমাৰ দেশ ভাৰতত এজন ব্যক্তিয়ে   বছৰ বয়সত ভোটাধিকাৰ লাভ কৰে।\n(গ) চিকিমৰ জনসাধাৰণে   ৰ জৰিয়তে ভৰতীয় নাগৰিকত্ব লাভ কৰিছে।\n\nশুদ্ধ উত্তৰটো বাছি উলিওৱা--\n(ক) এজন বিদেশীয়ে পৌৰ অধিকাৰ/ৰাজনৈতিক অধিকাৰ লাভ কৰে।\n(খ) এজন নাগৰিকে দেশৰ হকে কাম কৰিলে।/ৰাষ্ট্ৰ বিৰোধী কাম কৰিলে নাগৰিকত্ন বিলোপ হ’ব পাৰে।\n\n(গ) দেশৰ নাগৰিকে নিজৰ দেশৰ প্ৰতি আনুগত্য প্রকাশ নকৰে/আনুগত্য প্রকাশ কৰে।\n(ঘ) কোনো এজন ব্যক্তিৰ নিজৰ দেশৰপৰা অন্য দেশলৈ গুচি গলে তেওঁক তাত নাগৰিক/বিদেশী বোলা\n\nহ্য়।\nপ্রকল্প ?\n\nতোমালোকৰ পৰিয়ালৰ কোনে লোকৰ নাম ভোটাৰ তালিকাত নাথাকিলে কেনেধৰণৰ ব্যৱস্থা ল'ব লাগিব\nশিক্ষক আৰু অভিভাৱকৰ সহায়ত বুজি লৈ তেওঁৰ নাম তালিকাভুক্ত হোৱাটো নিশ্চিত কৰা।\n\nকককককক\n\n\"১৯৮৯",
+  "confidence": {
+    "word_count": 172,
+    "mean": 90.26,
+    "median": 95.74,
+    "minimum": 33.3,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.478,
+  "page_elapsed_seconds": 3.999,
+  "peak_process_tree_rss_bytes": 219770880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

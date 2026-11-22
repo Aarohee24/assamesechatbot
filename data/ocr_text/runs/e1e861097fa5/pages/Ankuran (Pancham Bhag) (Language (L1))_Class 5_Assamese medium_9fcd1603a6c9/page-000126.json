@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 126,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কুশান গান-_\n\nকুশান গান গোৱালপাৰা জিলাত\nপ্রচলিত এবিধ নৃত্য-গীত, সংলাপ আৰু অভিনয়ৰে\nপুষ্ট লোক-নাট্য অনুষ্ঠান। কুশান গানত ‘গীতালে’\nএক তাঁৰযুক্ত ‘বেনা’ নামৰ বাদ্যযন্ত্ৰ বজায়। তেওঁৰ\nকেইজনমান নৰ্তকবেশী ল’ৰা বা ‘চেংৰা’ থাকে।\n\nৰাইজৰ মাজত এডোখৰ ঠাইত এই\nশিল্পীসকলে ঘূৰণীয়া হৈ বহি লৈ অনুষ্ঠান পৰিৱেশন\nকৰে। কুশান গানত পৌৰাণিক আখ্যান নৃত্য-       !\nগীতেৰে অভিনয় কৰে। দোৱাৰী আৰু চেংৰাৰ কথোপকথন আৰু নৃত্যৰ মাজত হাস্যৰসৰ\nকথাই প্রাধান্য লাভ কৰে।\n\nঢুলীয়া ভাওনা আৰু খুলীয়া ভাওন|---\n\nঢুলীয়া ভাওনাৰ ওজা ঢুলীয়াসকলে বৰঢোল বজায় আৰু বিভিন্ন নৃত্য-গীত\nঅভিনয় কৰে। তেওঁলোকৰ লগত একাধিক তালী থাকে। তেওঁলোকে ধৰ্মীয় বিষয়-বস্তুৰ\nলগতে হাস্য-ৰসাত্মক বিষয় একোটি লৈ সমজুৱাক আনন্দ দিয়ে। খুলীয়া ভাওনাত ঢোলৰ\nসলনি খোল ব্যৱহাৰ কৰে।",
+  "confidence": {
+    "word_count": 104,
+    "mean": 93.39,
+    "median": 95.45,
+    "minimum": 60.16,
+    "maximum": 97.02
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.783,
+  "page_elapsed_seconds": 3.273,
+  "peak_process_tree_rss_bytes": 245587968,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

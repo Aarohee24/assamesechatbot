@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 9,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_     ০\n\nপাঠ্যত্ৰমৰ অৰ্হতাসমূহ\n\n€.1.1 বিভিন্ন প্ৰসংগত সাৱলীল আৰু অৰ্থপূৰ্ণভাৱে কথা-বতৰা পাতিব পাৰিব।\n\n€.1.2 শ্ৰেণীত পঢ়া পাঠ এটিৰপৰা মূল ধাৰণা উলিয়াই সাৰাংশ ক’ব পাৰিব।\n\n€'.1.3 বিতৰ্ক, চমু আদৰণি টোকা, সৰু সৰু অনুষ্ঠান উপস্থাপন কৰা, চুটি ভাষণ দিয়া আদি\nমৌখিকভাৱে উপস্থাপন কৰিব পাৰিব।\n\n€.2.1 বিভিন্ন বোধ কৌশল প্রয়োগ কৰি (অনুমান আৰু কলরনা) ভিন ভিন পাঠ বুজিবলৈ\nশিক্ষা্থাসকল সমথহহ'ব।\n\n€.2.2 পঢ়া পাঠ এটিৰ পৰা মূল ধাৰণা৷ উলিয়াই সিদ্ধাত্তত উপনীত হ'ব পাৰিব\n\n€.3.1 লিখাৰ বিভিন্ন কৌশল আয়ত্‌ কৰিব। শিৰোনাম আৰু উপ-শিৰোনাম লিখা, আৰভণি,\nসামৰণি আৰু পেৰেঞ্রাফৰ পাথকা বুজি পাব।\n\n€.3.2 দেখা, শুনা আৰু পঢ়া কাহিনী নিজৰ শৈলীৰে লিখিব পাৰির।\n\n€'.3.3 ফলক, বেনাৰ, পোষ্টাৰ, নিমন্্ৰণী পত্ৰ, আবেদন পত, কবিতা, গল্স লিখিব পাৰিব।\n\n€.3.4 সঠিক গঠন প্রণালী আৰু ব্যাকৰণ অনুসৰি লিখিব পাৰিব ।\n\n€.4.1 শুনা আৰু পঢ়া পাঠত লাভ কৰা, নতুন শব্দৰ অথ্‌ আলোচনা কৰি শব্দ ভাঙাৰ বৃদ্ধি\nকৰিব।\n\n€\".4.2 শুনা আৰু পঢ়া পাঠত আৰু বিভিন্ন প্ৰসংগত লাভ কৰা নতুন শব্দৰ অথ আলোচনা কৰি\nশব্দ ভাঙাৰ বৃদ্ধি কৰিব।\n\n€.5.1 ঘৰত অধায়ন কৰিবলৈ পুথিভঁৰালৰপৰা নিয়মিতভাৱে কিতাপ নিব।\n\n(৮ পুথিভৰ্ৰালৰপৰা কিতাপি৷,নি পঢ়িবলৈ আগ্ৰহী হ’ব।\n\nলিখোঁ আহা, শব্দ গঠন কৰা, ছবিৰ নাম পূৰ কৰা, চাই চাই লিখা,\n(0) চিন পূৰ কৰা, আঁচ টানি মিলোৱা।\n\nকওঁ আহা/কোৱা, গাওঁ আহা/গোৱা।\n|\n\n==",
+  "confidence": {
+    "word_count": 192,
+    "mean": 80.37,
+    "median": 93.24,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.303,
+  "page_elapsed_seconds": 5.255,
+  "peak_process_tree_rss_bytes": 271097856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

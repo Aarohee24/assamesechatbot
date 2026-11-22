@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Tritiya Bhag) (L3 (Assamese))_Class 8.pdf",
+  "source_pdf_size_bytes": 5179219,
+  "source_pdf_sha256": "fc3f526c775fa2dda041d106caf7f373db2af8fb6f24487eb1e527417489ae29",
+  "page_count": 100,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "lenovo",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PageMaker 7.0",
+    "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "CreationDate": "D:20230517140941+05'30'",
+    "ModDate": "D:20230518162237+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 75,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ক্ৰিয়া-কলাপ      ক --_ পাঠভিত্তিক ভ্ৰিয়া\n\n১। দলত ভাগ হৈ পাঠৰ ছবি কেইখনত কি কি দেখিছা আলোচনা কৰা।\n২। উত্তৰ দিয়া।\n(ক) কোনে নদীত জালবাই আছিল?\n(খ) জালত কি মাছ উঠিছিল?\n(গ) শিঙৰাই কি কাম কৰিম বুলি কৈছিল?\n(ঘ) ৰাক্ষসটো ক’ত আছিল?\n(৬) ৰাক্ষসটোৱে শিঙৰাক আঙুঠিটো দি কি কৈছিল?\n(চ) শিঙৰাই গা-ধুই থাকৌতে ঘৈণীয়েকে কি দেখা পাইছিল?\n(ছ) শিঙৰা প্রকৃততে কোন আছিল?\n(জ) শিঙৰাৰ ঘৈণীয়েকে কি পুৰি পেলাইছিল?\n৩। কোনে কাক কৈছিল?\n(ক) ‘ককাই, মই মাছৰ ৰজা, তই মোক নাখাবি, মই তোৰ গৰুকেইটা ৰখি দিম।”\n(খ) ‘শিঙৰা, তোক যি লাগে তাকে দিম, মোক এৰি দে।’\n\n৪। পাঠৰ আধাৰত তলৰ বাক্যবোৰ একাদিক্ৰমে সজাই লিখ৷।\n\nৰাক্ষসে শিঙৰাক আঙুঠিটো দিছিল।\n\nএজন দুখীয়া মানুহে জাল বাই আছিল।\nঘৈণীয়েকে শিঙৰাৰ মোটটো পুৰি পেলাইছিল।\nজালত শিঙৰা এটা উঠিল।\n\nৰাক্ষস এটা অৰণ্যত মুখ মেলি বহি আছিল।\nশিঙৰাই ৰাক্ষসক বিন্ধিছিল।\n\nসঁ*%% * > কক *",
+  "confidence": {
+    "word_count": 136,
+    "mean": 89.05,
+    "median": 95.88,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.727,
+  "page_elapsed_seconds": 2.993,
+  "peak_process_tree_rss_bytes": 249364480,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

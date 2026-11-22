@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 234,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "])} 0 ৮00}; 110?\n\n101) 8])])2৪1\"3 11] ঞ1]]€., [19 ৪0118 8110 112১010192. ']1])696 2102811116 0[08]10129 011] 10]\nগে'68060 8 ])010]10 921198.0.01], 01\"1].৮101] 11]181]18, দ্য ]121] 1{ ঘয৪৪ 1110\"00100060 111 1939. ্/01]]21)'3\n9000111969 11806 11\"0]1]] 19 16% 11016 ঘ%৮ণা'6 11] 9168 021]118170, ]}00, 01110100118.621)', 17091\n011]6 11101] )[\"00000.01] ]180 (0 66 01৮621(60.100 1]1821116 |)818.01]0(69 0011116 (6 ৯০০০110]\n%01]0 ঘ%৪া1' (1939-1945). /%1(৮1' 16 ৪, ত|]2া]] |)00000101] 01 95000111]69 12901]60,\n90|2|)]৮ 010110{11]810]] {16 0211]80]0., '[]]216 ৮৪89 8 ]]096 0]182]< 1]181|]02{ 101\" 00139. ])100001.\n\nঘ্বফ001]]21] 1180 100 ছ৪]{ 101\" ]1001\"9 111 (02069 [0 £20 8, |)811',. 01121] {])61'6 %21\"6.1]1%]01] 11019.",
+  "confidence": {
+    "word_count": 96,
+    "mean": 34.57,
+    "median": 30.74,
+    "minimum": 0.0,
+    "maximum": 93.3
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.3031,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.266,
+  "page_elapsed_seconds": 2.501,
+  "peak_process_tree_rss_bytes": 317009920,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

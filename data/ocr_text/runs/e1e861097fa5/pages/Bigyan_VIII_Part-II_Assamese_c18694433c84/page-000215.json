@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 215,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "17.2 সাংশ্লেষিক আঁহৰ প্ৰকাৰ ঃ\nৰেয়ন\n\nতোমালোকে সপ্তম শ্রেণীত পঢ়ি আহিছ| যে পাট পলুৰ\nপৰা পোৱা পাট বা ৰেচম আঁহ চীন দেশত আৱিষ্কাৰ\nকৰা হৈছিল আৰু এই আৱিষ্কাৰ বহু দিন ধৰি অত্যন্ত\nসাৱধানতাৰে গোপন কৰি ৰখা হৈছিল। পাট আঁহৰ পৰা\nপোৱা কাপোৰবোৰ অত্যন্ত দামী আছিল। তথাপি ইয়াৰ\nসুন্দৰ বোৱনে সকলোকে মুগ্ধ কৰিছিল। সেইকাৰণে\nকৃত্ৰিমভাৱে পাট প্রস্তুত কৰিবলৈ যথেষ্ট চেষ্টা চলোৱা\nহৈছিল। উনৈশ শতিকাৰ শেষৰ পিনে বিজ্ঞানীসকলে\nপাটৰ নিচিনা গুণাণ্ডুণ থকা এবিধ আঁহ প্রস্তুত কৰাত\nসফল হয়। কাঠৰ মণ্ডৰ পৰা ৰাসায়নিক, প্রক্ৰিয়াৰে\nএনেধৰণৰ এক আহ পোৱা হৈছিল। এই আঁহবিধক\nৰেয়ন বা কৃত্ৰিম পাট বুলি কোৱা হৈছিল। ৰেয়নক\nপ্রাকৃতিক উৎস - কাঠৰ মণ্ডৰ পৰা, পোৱা হৈছিল\nযদিও ই এবিধ মানৱ-সৃষ্ট আঁহ। ই পাটতকৈ সত্তীয়৷\nআৰু ইয়াক পাটৰ আঁহৰ দৰে বব পাৰি। বিভিন্ন ধৰণৰ\nৰঙৰ দ্বাৰা ইয়াক বোলাবও পাৰি। ৰেয়নৰ লগত কপাহ\nমিশ্ৰিত কৰি বিছনা চাদৰ প্রস্তুত কৰা হয় বা উণ মিশ্খিত\nকৰি কাপপেটি প্রস্তুত কৰা হয় (চিত্ৰ-17.2)।\n\nচিত্ৰ 17.2 : ৰেয়নৰ পৰা তৈয়াৰ কৰা সামন্ৰী\n\nনাইলন\n\nনাইলন হ’ল আন এবিধ মানব-সৃষ্ট আঁহ । ১৯৩১ চনত\nকোনো প্রাকৃতিক কেঁচা মাল (উদ্ভিদ বা প্রাণীৰ পৰা)\nপানী আৰু বায়ুৰ পৰা ইয়াক প্রস্তুত কৰ৷ হৈছিল।\nই আছিল প্রথম সম্পূৰ্ণ সাংশ্লেষিক আঁহ নাইলনৰ\nনাইলনৰ আঁহবোৰ উজ্জল আৰু ধুবলৈ সহজ আছিল।\nগতিকে, সাজ-পোছাক তৈয়াৰ কৰাত ই বৰ জনপ্ৰিয়\nহৈছিল।\n\nতম্বু, টুথবৱাছ, গাড়ীৰ আসনৰ পেটী, শ্নিপিং\nবেগ, পৰ্দা আদিৰ নিচিনা বহুতো সামগ্ৰী আমি\nব্যৱহাৰ _ কৰোঁ (চিত্ৰ -17.3)। শিলাৰোহণৰ\nবাবে ব্যৱহাৰ কৰা পেৰাচুট আৰু ৰছী সাজিবলৈ\n\nচিত্ৰ 17.3১ : নাইলনৰ পৰা প্রস্তুত কৰা বিভিন্ন\nসামন্জী",
+  "confidence": {
+    "word_count": 236,
+    "mean": 89.9,
+    "median": 94.89,
+    "minimum": 15.71,
+    "maximum": 96.96
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Bigyan_VIII_Part-II_Assamese-page-000215.png",
+  "page_image_sha256": "defeab95cb2ef0c367b762bb9e1a9f87dc8f1b6445052d2cdddf7927a9769ab3",
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.935,
+  "page_elapsed_seconds": 3.22,
+  "peak_process_tree_rss_bytes": 154218496,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

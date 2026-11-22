@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১। উত্তৰলিখা--\n\n(ক) প্ৰাকৃতিক সম্পদ বুলিলে কি বুজা?\n(খ)নবীকৰণক্ষম আৰু অনবীকৰণক্ষম সম্পদ বুলিলে কি বুজা ?\n(গ) অসমৰৰাষ্ট্ৰীয় উদ্যান কেইখনৰ নাম লিখা ৷\n\n(ঘ)অসমৰ কোনকেইখন জিলাত চূণশিল পোৱা যায়।\n\n(৬) অসমৰ বনাঞ্চলত থকা চাৰিবিধ প্রাণীৰ নাম উল্লেখ কৰা।\n\n২ । চমুটোকা লিখা৷-=\n\n(ক) অভয়াৰণ্য (খ) সংৰক্ষিত বনাঞ্চল (গ) উদ্ভিদ উদ্যান (ঘ) ৰাষ্ট্ৰীয় উদ্যান।\n\n৩ ৷ খালী ঠাই পূৰ কৰা।\n\n(ঘ) বিলাতী মাটি প্রস্তুত কৰিবলৈ .....-..,%.---%.                ব্যৱহাৰকৰা হয়।\n(৬)..১............,,০০,,,০০,আৰু ..১১----&%২,---%--০]অসমৰ দুখন প্রধান নৈ।\n\n৪। জৈৱ সম্পদ সংৰক্ষণৰ প্ৰয়োজনীয়তাৰ বিষয়ে লিখা ৷\n৫। পৰিৱেশ সজাগতা আনিবলৈ তুমি ৩টা ব্যৱস্থাৰ কথা উল্লেখ কৰা।\n৬। শুদ্ধ উত্তৰটো বিচাৰিলিখা-=\n\n(ক) তলৰ কোনখন ৰাষ্ট্ৰীয় উদ্যান হয়?\n(১)ৰাইমনা (২)গৰমপানী     (৩) পবিতৰা     (৪) চক্ৰশীলা।\n(খ) তলৰ কোনবিধ অসমৰ ৰাজ্যিক পক্ষী ?\n(১)মইনা৷  (২)ময়ূৰ     (৩) ধনেশ    (৪) দেওহাহ।\n৫কক+ক+",
+  "confidence": {
+    "word_count": 122,
+    "mean": 79.63,
+    "median": 91.39,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.16,
+  "page_elapsed_seconds": 2.391,
+  "peak_process_tree_rss_bytes": 219840512,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

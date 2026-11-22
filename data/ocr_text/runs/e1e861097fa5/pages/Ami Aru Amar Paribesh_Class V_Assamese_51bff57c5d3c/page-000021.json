@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পুখুৰীত থকা ডাঙৰ মাছ, ভেকুলী, কেঁকোৰা আদিয়ে খায়।\nসেইবাবে সিহঁত হ’ল গৌণ বা দ্বিতীয় শ্ৰেণীৰ উপভোক্তা। এই\nভেকুলী, কেঁকোৰা, মাছ আদিক সাপ, বগলী, মাছৰোকা\nচৰাই আদিয়ে খায়। এইবোৰেই হ’ল তৃতীয় শ্ৰেণীৰ উপভোক্তা।\nতৃতীয় শ্ৰেণীৰ উপভোক্তাবোৰ এই পৰিস্থিতি তন্ত্ৰৰ সকলো\n\nউপভোক্তাতকৈ উচ্চ পৰ্যায়ৰ। পৰিস্থিতি তন্ত্ৰত প্রাণীবোৰে _ ভৰ\nইটোৱে সিটোৰ ওপৰত কিহৰ বাবে নিৰ্ভৰ কৰে জানানে ? নিশ্চয় লী.\n> পুখুৰীত শেলাই, ঘাঁহ আদি নাথাকিলে কি হ’লহেঁতেন?\n\nএতিয়া আমি বুজি পালো যে, খাদ্যশৃংখলত থকা বিভিন্ন ধৰণৰ জৈৱিক উপাদানবোৰ হ’ল-_\nউৎপাদক আৰু প্রাথমিক, দ্বিতীয়, তৃতীয় শ্ৰেণীৰ উপভোক্তা পৰিস্থিতি তন্তুত এই আটাইকেইটা\nউপাদান পৰস্পৰে পৰস্পৰৰ ওপৰত নিৰ্ভৰশীল৷ পৰিৱেশত যিকোনো এটা উপাদান কমিলে বা বাঢ়ি\nগ’লৈ আনবোৰ উপাদানৰ ওপৰত তাৰ প্রভাৱ প্ৰৰে। উদাহৰণস্বৰূপে- পৰিৱেশত তৃণভোজী প্রাণী\nকমি গ’লে মাংসভোজী প্রাণীৰ খাদ্য নোহোৱা হ’ব। তেতিয়া পৰিৱেশৰ ভাৰসাম্য নষ্ট হ’ব।\n\nপ্ৰাথমিক উপভোক্তা\n\n{\n\nৱি    ৷॥৩৫\n\nসৌৰশক্তি উদ্ভিদৰ (উৎপাদক) জৰিয়তে প্রথম, দ্বিতীয় আৰু তৃতীয় শ্ৰেণীৰ উপভোক্তাৰ\nশৰীৰলৈ আহাৰৰ যোগেদি প্ৰবাহিত হয়।\n\n১১.",
+  "confidence": {
+    "word_count": 145,
+    "mean": 88.62,
+    "median": 95.79,
+    "minimum": 7.14,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.383,
+  "page_elapsed_seconds": 4.206,
+  "peak_process_tree_rss_bytes": 232992768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 77,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিভিন্ন জনগোষ্ঠীৰ বাসভূমি আমাৰ অসম ৰাজ্যৰ প্রাচীন সীমা বিসৃত আছিল । কালক্ৰমত গৌৰৱময় ৰাজ্যখন\nসংকৃচিত হৈ পৰিলেও আমাৰ ভাষা, সাহিত্য আৰু সংস্কৃতি অতিকৈ সমৃদ্ধিশালী ৷ বহিঃশক্তিৰ আগ্ৰাসনে আমাৰ মূল ভেটিক\nলৰাব পৰা নাই। তাৰ বিপৰীতে জুয়ে পোৰা সোণৰ দৰে উজলিহে উঠিছে। নদ-নদী, পবৰ্ত-কন্দৰ সকলো আমাৰ জাতীয়\nসংগীতটি লিখিছিল। এই অনুপম জাতীয় সংগীতটি আমাৰ দেশপ্ৰেমৰ অপুবৰ্চানেকি ৷ ‘অসম’নামৰ প্ৰৱন্ধৰ মাজত\nনিহিত হৈ আছে আমাৰ এতিহা আৰু সংহতিৰ উজ্জ্বল ছবি।\n\nআমি যি দেশত উপজিছোঁ৷, যি দেশৰ অন্ন পানী খাই ডাঙৰ-দীঘল হৈছোঁ, যি দেশৰ\nবতাহ উশাহ-নিশাহত লৈ জীয়াই আছোঁ, আমাৰ সেই ‘স্বৰ্গতো অধিক জনমভূমি’ৰ নাম অসম।\nআমি অসমীয়া বুলি নিজৰ চিনাকি দিওঁ৷ কিন্তু এই দেশৰ নাম পূৰ্বে অসম নাছিল। বৈদিক যুগত\nএই দেশৰ নাম গ্রাকী দেশ, গৌৰাণিক যুগত ৰাগ কদম ফু্্দীনত কামৰূপ আছিল।\n\nএকালত কামৰূপ\nৰাজ্যৰ সীমা দক্ষিণে\nবঙ্গোপসাগৰ আৰ\nপশ্চিমে কৰতোৱালৈ\nআৰত মৈমনসিংহ\nজিলাৰ মাজেদি বৈ\nযোৱা ব্ৰহ্মপুত্ৰৰ মৰা\nসুঁতি আছিল। এই\nসুবিস্তৃত কামৰূপ\nৰাজ্যৰ উজনি ছোৱাৰ\nনাম সৌমাৰ আছিল ।\nসুমেৰু বা দেৱলোকৰ\nতলত থকাৰ নিমিত্তে\nবোধকৰো এখণ্ডক\nসৌমাৰ পীঠ বোলা\n\nহৈছিল।\n\nমৰ্ম            |        ৮                                    ৰা\nউৎস - পুৰণি অসমৰ মানচিত্ৰখন প্রয়াত প্রধান শিক্ষক পীতাম্বৰ চৌধুৰীয়ে (ইংৰাজী ১৯৫৬-৫৭চনত) প্রশিক্ষণকালত               ই\n\nসম্পৰ্কে ছাত্র-ছাত্ৰীসকল ইয়াৰ দ্বাৰা অৱগত হ’ব।      ৷",
+  "confidence": {
+    "word_count": 186,
+    "mean": 85.57,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 16 diacritics",
+        "Detected 16 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.639,
+  "page_elapsed_seconds": 5.444,
+  "peak_process_tree_rss_bytes": 290971648,
+  "tesseract_warnings": [
+    "Detected 16 diacritics",
+    "Detected 16 diacritics"
+  ],
+  "processed_this_run": true
+}

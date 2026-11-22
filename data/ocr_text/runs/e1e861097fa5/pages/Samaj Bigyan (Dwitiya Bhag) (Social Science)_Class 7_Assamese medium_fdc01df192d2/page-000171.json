@@ -1,0 +1,67 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 171,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মনীষাহঁতৰ আচল ঘৰ দৰং জিলাৰ পাথৰিঘাটত। ল’ৰা-ছোৱালীহালক পঢ়ুৱাবৰ বাবে সিহঁতৰ সৈতে মাক\nঅৰুণিমা যোৱা বছৰৰপৰা মঙলদৈ চহৰৰ নতুন ঘৰটোত থাকিবলৈ লৈছে। চাকৰিৰ দায়িত্ব এৰাব নোৱাৰা বাবে দেউতাক\nগুৱাহাটীৰ ভাড়াঘৰত থাকে। কাৰ্যালয় বন্ধৰ দিনত মঙলদৈলৈ আহে। গুৱাহাটীত থকা দেউতাকৰ লগত অৰুণিমাই\nম’বাইলত কথা পাতিছে--\n\nতঞি\n\nহেল্ল’ শুনিছেনে, অহা\nদ্গবালে কাবা\n\nএখন ভাড়া কৰি দেওবাৰে ৰাতিপুৱাই\n৷'_ তোমালোক পাথৰিঘাটৰ ঘৰলৈ যোৱা।\n৷ লগত সিহঁতে সেই দিনটো গাঁৱৰ ঘৰতেই\nকটাওক। পাছদিনা আটাইকেইটা\n্‌      গুৱাহাটীলৈ আহিবা।\nৰ্ীক  ইয়াৰপৰাই আমি একেলগে বিজ্ঞান\nযাদুঘৰ চাবলৈ যাম৷\n\nপাব। কথাটো ময়ো বেয়া\nপোৱা নাই।\n\n৷                     এৰা, তাই বৰ ভাল পাব। সেই মতেই যোগাৰ\nকৰিবা। আৰু শুনা, বিপুলে সদায় ইহঁত দুটাৰ\nই            জন্মদিনত নিজে অঁকা ছবি একোখন উপহাৰ\n\nআৰু এটা কথা, জন্মদিন বুলি     দিয়ে। শাৰীৰিকভাৱে বাধাগ্ৰস্ত হ’লেও সি\n\nপাছদিনা হ’লেও তাইৰ বন্ধু বান্ধৱী     প্রতিটো কামত কিমান নিষ্ঠাবান আমি\nকেইজনমানক কিবা অলপ খুৱাব    সকলোৱে জানো। তাৰ কাৰণে এটা ভাল\n১৯৯=৯৪4%১% ঠে  ্র্২৯৮%“\n\n১৬৯",
+  "confidence": {
+    "word_count": 143,
+    "mean": 87.26,
+    "median": 96.02,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 58 diacritics",
+        "Detected 58 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.446,
+  "page_elapsed_seconds": 4.104,
+  "peak_process_tree_rss_bytes": 237387776,
+  "tesseract_warnings": [
+    "Detected 58 diacritics",
+    "Detected 58 diacritics"
+  ],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৯) বাক্য সাজা।\n(পৰিভ্ৰমী, ৰহণ, সংৰক্ষণ, মণিকূট, সীৰলু, মায়াময়, কিৰীলি)\n\n১০) সমাৰ্থক শব্দ লিখা।\n(পৃথিৱী, সুচল, আনন্দ, লেখীয়া, চুই, শেষ, বেছি, বিখ্যাত, নিশা )\n\nগ--- জ্ঞান সম্প্ৰসাৰণ\n\nজানো আহা\n\nমাজুলীৰ সত্ৰসমূহৰ দৰে বৰপেটা সত্রৰও শংকৰী কলা কৃষ্টিৰ মিলনভূমি আৰু আধ্যাত্মিক,\nসাংস্কৃতিক ভাৱধাৰাৰ মুখ্যস্থান বুলিব পাৰি। ভ্ৰমন্ত শংকৰদেৱ আৰু শ্ৰাজ্জীমাধৱদেৱৰ পদধূলাৰ\nপবিত্ৰতা আৰু আতা পুৰুষসকলৰ শ্ৰদ্ধা আৰু আন্তৰিক প্ৰচেষ্টাৰ স্বাক্ষৰ আজিও বৰপেটা ধামে\nবহন কৰি আছে।\n\n‘বৰপেটা’ নামটোৰ ইতিহাস আছে। কিছুলোকৰ মতে ‘বৰপেটা’ ঠাইখিনি এসময়ত ব্ৰহ্মপুত্ৰৰ\nপেট অৰ্থাৎ মাজ আছিল। কালক্ৰমত ঠাইখিনি বাম হ’লত বৰপেট বা বৰপেটা বোলা হ’ল।\nকিছুৱে কয়-_ এই ঠাইখিনিত ডাঙৰ এটি পিট আছিল আৰু সেই অনুসাৰে ইয়াৰ নাম হৈ পৰিল\nবৰপিট কালক্ৰমত বৰপেট ব৷ বৰপেটা । আন অধিক সংখ্যক লোকে কয় শংকৰী কলা-কৃষ্টিকে\nআদি কৰি পবিত্ৰ বৈষ্ণৱ একশৰণ ভাগৱতী ধৰ্ম তথা হৰিনাম ধৰ্মৰ আটাইখিনি বস্তুৰ ইয়াতে ভঁৰাল\nআৰু সেই হিচাপে এই পবিত্ৰ ভূমিখণ্ডৰ নাম হ’ল-- বৰপাট-বৰপাটা-বৰপেটা ৷ ‘বৰ’ (প্রধান)\n‘পাট’ (বেদী) । বৰপেটাৰ পুৰণি নাম তাতীকুছি।\n(উৎস ঃ ‘বৰপেটা সত্ৰৰ ইতিহাস! পৃষ্ঠা - ২২.৩, গোকুল পাঠক, আমাৰ দেশ পএকাশন, বৰপেটা, সপ্তম প্রকাশ)\n\n১১) ভ্ৰমণ কিয় কৰিব লাগে ? এই ভ্ৰমণৰ পৰা মানুহৰ কি কি লাভ হয় পাঠৰ আধাৰত লিখা।\n\n১২) অসমৰ এখন প্ৰসিদ্ধ তীৰ্থস্থান বৰদোৱা। বৰদোৱা কিয় প্ৰসিদ্ধ, দলত আলোচনা কৰি লিখা ৷\n\n১৩) ভাওনাৰ উপৰি মুখা অন্য কি কি কামত ব্যৱহাৰ হয়, দুজনে লগ হৈ\nআলোচনা কৰি লিখা।",
+  "confidence": {
+    "word_count": 212,
+    "mean": 88.22,
+    "median": 95.63,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.96,
+  "page_elapsed_seconds": 4.361,
+  "peak_process_tree_rss_bytes": 243834880,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

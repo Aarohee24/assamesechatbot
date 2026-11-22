@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 44,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "=  =\n1111 ];]\n\n€ ছাত্ৰ-্থাত্ৰীয়ে স্থানীয় উদাহৰণৰ সহায়ত পৰিৱেশ সম্পৰ্কে ধাৰণা পাব।\n€ পৰিৱেশৰ মূল উপাংশ আৰু ইয়াৰ অন্তৰ্গত উপাদানসমূহৰ বিষয়ে জানিব।\n&৪ মানুহ আৰু পৰিৱেশৰ মাজৰ সম্পৰ্কৰ অধ্যয়নেই যে ভূগোল বিষয়ৰ ঘাই উদ্দেশ্য সেই বিষয়ে জানিব।\n\n| ভীৰ দ্ৰে\n\nঢ়    ৰ           ঘপ\n\n7 ))(৫‘:‘:‘)|।\n\nপত্র\n\n৷\n\nগ’লেই ভায়োলিনা, ৰুকছানা, তাপস, হৃদয়ন, মেগন, গৰিমাহঁত পঢ়া বিদ্যালয়খন। নৈৰ বানে পথটোৰ কিছু অংশ\nখহাই নিয়া বাবে পথটো ঠেক হৈ গৈছে। নৈৰ পাৰত থকা নানা তৰহৰ মূল্যৱান গছ-গছনিবোৰো এজোপা দুজোপাকৈ\nনৈৰ বুকুত জাহ গৈ আছে। তেনেদৰে দুই-এঘৰ মানুহো খহনীয়াত ক্ষতিগ্ৰস্ত হৈছে। এনেবোৰ দৃশ্য দেখি সিহঁতৰ মনত\nবৰ বেজাৰ।\n\nগ্ৰীষ্ম বন্ধ খোলাৰ পাছত বিদ্যালয়লৈ গৈ ভায়োলিনা,ৰুকছানাহঁতে গম পালে যে সিহঁতৰ বিদ্যালয়ৰ খেলপথাৰখনৰ\nনৈৰ ফালে থকা কিছু অংশ ভালেকেইজোপা গছেৰে সৈতে নৈয়ে খহাই লৈ গৈছে। বিদ্যালয়খনৰ প্ৰায়বোৰ ছাত্ৰ\nছাত্ৰীয়েই আজৰি পৰত এই খেল পথাৰখনতে খেলা-ধূলা কৰে আৰু শাৰী শাৰীকৈ থকা গছবোৰৰ ছীত গা জুৰ পেলায়।\nভিন ভিন বতৰত ফুলা নানা তৰহৰ ফুল আৰু সুস্বাদু ফলবোৰে সিহঁতক কিমান যে আনন্দ দিয়ে ! এই সকলোবোৰ\n\n৪২.",
+  "confidence": {
+    "word_count": 160,
+    "mean": 86.87,
+    "median": 95.71,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.864,
+  "page_elapsed_seconds": 4.635,
+  "peak_process_tree_rss_bytes": 240115712,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

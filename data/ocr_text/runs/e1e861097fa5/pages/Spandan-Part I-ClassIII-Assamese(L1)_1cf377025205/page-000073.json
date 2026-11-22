@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 73,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "নল = ১১। দফাটো পঢ়ি তলৰ প্ৰশ্নসমূহৰ উত্তৰ লিখা--\n\nপাহিৰ আইতাক উণ\nগোঁঠাত পাকৈত। তেওঁ\nনিজহাতে গৌঁঠা ছুৱেটাৰবোৰ\nঠাণ্ডাৰ দিনকেইটাত পিন্ধিবলৈ (|\nআইতাকে তাইক এটা ধুনীয়া\nছুৱেটাৰ গুঁঠি দিছিল। সেই\nৰংচঙীয়া ছুৱেটাৰটোৰ কি\nযে উম!আইতাকে আজৰি\nসময় পালেই উণ গোঁঠে।\nএইকেইদিন পিছে আইতাকৰ\nএকেবাৰেই আজৰি নাই। তেওঁ কৰ্মশালাত ব্যস্ত। গীৰৰ ডালিমী খুৰীহঁতৰ আত্মসহায়ক\nগোটৰ সদস্যসকল পাহিৰ আইতাকৰ ওচৰলৈ সদায় আহে। তেওঁলোকক পাহিৰ\nআইতাকে উণ-গোঁঠা শিকায় ৷ পাহিয়েও ওচৰতে বহি উণ-গৌঠা চাই থাকে। এই উণ-\nগোঠা ছুৱেটাৰবোৰ দ্ৰেখি তাই অভিভূত হৈ পৰে। তাই এদিন ডালিমী খুৰীয়েকক সুধিলে,\n“খুৰী, তোমালোকে ইমানবোৰ ছুৱেটাৰ কিয় গুঁঠিছা বাৰু?” খুৰীয়েকে মিচিকিয়াই ক’লে\nযে এইবাৰ,তেওঁলোকে গীৰৰ মেলাত এই ছুৱেটাৰবোৰ বিক্ৰী কৰিব। খুৰীয়েকৰ কথা শুনি\nপাহিয়ে'ক’লৈ-__“ তোমালোকে দেখোন এটা উণ-গৌঁঠা মেচিনো কিনি ছুৱেটাৰ গুঁঠিব পাৰা!\n\nক) পাহিৰ আইতাক কি কামত পাকৈত?\n\nখ) গাঁৱৰ ডালিমী খুৰীয়েকহঁত আইতাকৰ ওচৰলৈ কিয় আহে?\n\nগ) উণেৰে ছুৱেটাৰৰ বাহিৰে আৰু কি কি গুঁঠিব পাৰি?\n\nঘ) পাহিয়ে কিয় মেচিন কিনিবলৈ কৈছে?\n\nঙ) উণৰ কাম নকৰি তেওঁলোকে আন কি কি কাম কৰিব পাৰিলেহেঁতেন?\n\nজক         হু",
+  "confidence": {
+    "word_count": 159,
+    "mean": 90.01,
+    "median": 93.3,
+    "minimum": 22.23,
+    "maximum": 96.87
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.057,
+  "page_elapsed_seconds": 5.154,
+  "peak_process_tree_rss_bytes": 222052352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

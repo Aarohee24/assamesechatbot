@@ -1,0 +1,61 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 47,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অৰ্থ //      শব্দ /'};;|    অৰ্থ //--+       শব্দ/ <!\nহে,হেৰা!                       2                   ঘৰ                       প্ৰেম্ৰনী|\nসকলোপ্ৰশংসা              >=                 আৰু                              )\nআল্লাহৰ বাৰে                   ৭]                 কোন                           চল\nভালেই,কুশলেই               =                এইজনী                        ১১\nতোমাৰলগত                =%.                   কি                              ৰ\nমোৰভাই                   ৰ              তাইৰনাম                    |২---|\nভৈওঁ গঢ়ে                                 মোৰ বান্ধবী, মোৰ সখী          এনি\nৰ                                             শান্তি                   ১৮.)\nত,ভিতৰত                               আপোনালোকৰ ওপৰত            ডে\nতোমাৰ ওপৰত _ |*/=১= (১-4)\n  বিদ্যালয়        পৰ           শান্তি বৰ্ষিত হওঁক\n।                                               তোমাৰ ওপৰতো     (\"4 ১০)\nপ্ৰাথমিক             2০১] | শান্তিবৰ্ষিতহওক\nসেইজন,সৌজন     >   কেনেকু ৱা, কেনে     ৰ\nমোৰ বন্ধু, মোৰসখা | /১---             অৱস্থা,খৰৰ                      ৷",
+  "confidence": {
+    "word_count": 79,
+    "mean": 61.83,
+    "median": 74.55,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.509,
+  "page_elapsed_seconds": 2.795,
+  "peak_process_tree_rss_bytes": 168292352,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

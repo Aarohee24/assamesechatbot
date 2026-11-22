@@ -1,0 +1,61 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 21,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "'\n\nবয়\nণ্\n|\n= বাঃ:\n\n==\n\nঢ়\n\nযেতিয়া কোনো বৰ্ণ ২২. (<) 4৭53 (=)আৰু 3)..4 (=) আদি স্বৰচিহ্ন নোহোৱাকৈ\nউচ্চাৰণ কৰা হয় তাক ()$!.; (ছাকিন) বোলে। লিখাৰ বেলিকা এঁই ১4, আখৰক বুজাবলৈ যি\nচিন ব্যবহাৰ কৰা হয় তাক 0১ (ছকুন) বোলে। 0)$<== ৰ চিন হ’ল-এই ‘-=>- ৰা‘-= ,।\n\nআন আন ভাষাৰ বৰ্ণমালাৰ দৰে আৰবী বৰ্ণমালাতো <.) 4) )=(স্বঘবৰ্ণ) ৰ ব্যৱহাৰ আছে।\nআৰবী বৰ্ণমালাৰ |; )' আৰু &ে এই তিনিটা ব1*|| ১১) (স্বৰবৰ্ণ) আৰু অবৱসশিষ্টাবোৰ ৷\nভেশ) 4))> ব্যেঞ্জনৰণ)। চুটি স্বৰ চিন যেনেণএ = = আদিৰ ঠিক পিছতেই যদি 0১‘ (ছকুন)।\nযুক্ত |, ')' নাইবা ব্যৱহাৰ হয় তেন্তে ইয়াৰ উচ্চাৰণ দীঘলীয়া হব।\n\n' আন এবিধ দীঘ্বল স্বৰচিহ্ন হ’ল -- (ওলোটা পেশ) -'_ (পোণ জবৰ) আন্ধন (পোণজেৰ)।\nএইবোৰৰ উচ্চাৰণো দীঘলীয়া হয়!\n\nআনহাতে, কোনো আখৰৰ ওপৰত ৬ (মদ্দ) অৰ্থাৎ এই *---’ চিন ব্যৱহাৰ হ’লে ইয়াৰ\nউচ্চাৰণ অতি দীঘলীয়া হয়।\n\nবিল বডিলনতিল বডিলন তিল\n11",
+  "confidence": {
+    "word_count": 142,
+    "mean": 70.39,
+    "median": 89.87,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.394,
+  "page_elapsed_seconds": 3.801,
+  "peak_process_tree_rss_bytes": 556060672,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

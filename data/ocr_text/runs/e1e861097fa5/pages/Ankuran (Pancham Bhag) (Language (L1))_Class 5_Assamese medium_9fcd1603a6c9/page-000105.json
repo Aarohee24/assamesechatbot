@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 105,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পত্নীৰ আশা পূৰাবলৈকে শৰণীয়া পাহাৰৰ সেই উদ্যোগবোৰৰ ঘৰ-মাটি কণস্তৰবা স্মাৰক\nনিধিৰ নামত উচৰ্গা কৰিলে। সেয়াই বৰ্তমানৰ কস্তুৰবা আশ্ৰম।\n\n১৯৫৫ চনত ভাৰত চৰকাৰে অমলপ্রভা দাসক সমাজহিতকৰ কামৰ স্বীকৃতিৰূপে\n‘পদ্মবিভূষণ’ সন্মান প্রদান কৰিছিল। কিন্তু তেখেতে সেই সন্মান গ্ৰহণ নকৰি সেইসময়ৰ\nপ্রধান মন্ত্ৰী জৱাহৰলাল নেহৰুলৈ লিখিছিল, “মই সামান্যভাৱে যিকণ সেৱা আগবঢ়াইছোঁ,\nতাক সন্মানিত কৰাৰ বাবে অন্তৰৰ কৃতজ্ঞতা জনাইছোঁ। কিন্তু মই এই সন্মান গ্ৰহণ কৰিব\nনোৱাৰিম, কিয়নো ই মোৰ মনলৈ অহংকাৰ ভাব আনি দিব। তাৰ বাবে মোক অনুগ্রহ কৰি\nমাৰ্জনা কৰে যেন।”\n\nঅমলপ্রভা দাস আজীৱন অবিবাহিতা হৈ আছিল । সৰলমনা আৰু অমায়িক অমলপ্ৰভা\nদাসে ওৰেটো জীৱন দুখীয়া-নিছলাৰ মংগল চিন্তাৰে অতিবাহিত কৰিলে।\n\n(উৎস ঃ ‘আীঅমলপ্রভা বাইদেউ’ (৭৫ বছৰীয়া জীৱনী) লেখিকা আীমতী সমীৰণ দাস, প্রকাশক কণ্ৰবা গান্ধী ৰাষ্ট্ৰীয়\nস্মাৰক নিধি, শৰণীয়া আশ্ৰম, অসম, গুৱাহাটী)\n\nজানো আহা\nঅমলপ্ৰভা দাসৰ পৰিচয়\n\nশিক্ষা -\n\n৬ ১৯২৭- চনত গণিত আৰু ভূগোলত\nলেটাৰ লৈ ডিব্ৰুগড় মডেল বালিকা হাই\nস্কুলৰ পৰা প্রথম বিভাগত প্রৱেশিকা\nপৰীক্ষা পাছ কৰে।\n\nঢ়] ১৯৩৩ চনত স্কটিছ চাৰ্চ কলেজৰ\nপৰা সুখ্যাতিৰে ডিষ্টিংচনসহ বি. এছ\nচি. পৰীক্ষা পাছ কৰে।\n\nঞ্জ কলিকতা (ক’লকাতা) ৰ চায়েন্স\nকলেজৰ পৰা এম. এছ চি. পাছ কৰে।\nএম.এছ চি. পাছ কৰা তেখেতেই প্রথম\nঅসমীয়া মহিলা।",
+  "confidence": {
+    "word_count": 180,
+    "mean": 89.52,
+    "median": 95.62,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.447,
+  "page_elapsed_seconds": 3.862,
+  "peak_process_tree_rss_bytes": 249552896,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 19,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "কেইবছৰমানৰ পাছত চহকী মানুহজন আৰু তেওঁৰ ঘৈণীয়েক ঢুকাল। জীয়েক আৰু\nজোঁৱায়েক ঘৰৰ গৰাকী হ’ল। এদিন ছোৱালীজনীয়ে কাপোৰখন পেৰাৰ পৰা উলিয়াই\nৰ’দত মেলি দিলে। তাৰ পাছত তাই মাছ মাৰিবলৈ যাব লগা হোৱাত গিৰিয়েকক কৈ গ’ল-_\nধাৰাসাৰে বৰষুণ দিয়ক, শিল-বৰষুণ হওক, তথাপি কাপোৰখন তেওঁ যেন নোচোৱৰে। এই\nবুলি কৈ তাই ওচৰৰ জান এটাত চেপা (খোকা) পাতি মাছ ধৰিবলৈ গ’ল।\n\nকিছু সময়ৰ পাছত ক’লা ডাৱৰে আকাশখন ছাটি পেলালে। ধাৰাসাৰে বৰষুণ আহিল।\nকাপোৰখন বৰষুণত তিতা দেখি গিৰিয়েকে ঘৈণীয়েকক চিঞৰি মাতিলে। তাই লৰালৰিকৈ\nআহিবলৈ ধৰিলে। কিন্তু তাই আহি পোৱাৰ আগতে শিল-বৰষুণ আহিল। গিৰিয়েকে তাইৰ\nকথা পাহৰিলে আৰু কাপোৰখন সামৰি আনিবলৈ গৈ তাত হাত দিলে। ততালিকে তেওঁ এটা\nডাঙৰ আৰ নানা\nবৰণীয়া জক্‌মকীয়া\nপাখিৰে সুশোভিত\nৰ ৰ বা (চিতৰী)\n|           কু    ২\nঘৈণীয়েকে মন্ত্ষাৰ\nডউ'চচাৰণ কৰিবলৈ\nবুলি চিঞৰ মাৰি ৷\nকাপোৰখনত হাত _\nদিলে। লগে লগে\nতায়ো এজনী চৰাইৰ\nৰূপ পালে।\n\nতেতিয়াৰে পৰা =,\nগিৰিয়েকজন হৈ ঠগ\nপৰিল মতা ম’ৰা চৰাই;\nআৰু ঘৈনীয়েকজনী হৈ পৰিল মাইকী ম’ৰ৷ চৰাই। মতাটোৰ পাখি বেছি জক্‌মকীয়া। কাৰণ,\nসেই কাপোৰখনৰ সৰহভাগ তাৰ নেজ আৰু পাখিত লাগি ৰ’ল। তেতিয়াৰে পৰা মেঘে গাজিলে\nবা বৰষুণ আহিবলৈ ধৰিলে ম’ৰা চৰায়ে চিঞৰিবলৈ ধৰে। সিহঁতৰ ভয় লাগে, জানোচা সিহঁতৰ\n\nধুনীয়া পাখি বৰষুণত তিতি নষ্ট হয়।\n\nউৎসঃ পবৰ্তীয়া সাধ্‌ গাৰো সাধু), সংকলক-সতোন্দ্ৰনাথ বৰকটকী, প্রকাশক-অসম প্রকাশন পৰিষদ, পঞ্চম সংস্কৰণ, ২০০৩, পৃষ্ঠা, ২০৭-২০৮",
+  "confidence": {
+    "word_count": 204,
+    "mean": 88.08,
+    "median": 95.69,
+    "minimum": 0.33,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 151 diacritics",
+        "Detected 151 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 3.326,
+  "page_elapsed_seconds": 3.792,
+  "peak_process_tree_rss_bytes": 290615296,
+  "tesseract_warnings": [
+    "Detected 151 diacritics",
+    "Detected 151 diacritics"
+  ],
+  "processed_this_run": true
+}

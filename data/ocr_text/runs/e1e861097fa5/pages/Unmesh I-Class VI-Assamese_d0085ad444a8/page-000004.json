@@ -1,0 +1,62 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[)][খ[[,৬]]; ])]২/%]][]/4[*] ]3]]/%(\"*: /%1] 111(2818020 |26স00-001]]-01]00001< 101\"\n(:1899-€[, 111 /*৪৪৪811]16962, 026%610]260 8110 16%416%%60 06%) ১৫.]\"[২], /*৪৪৪]1]1] 11008]]\nস্ণ01]18110])8, 8])[10%4620 0%া 076 00ঘ211]1]]611{ 01 /১৪৪8৪1]] 8110 |)700119|160 0 16 /৯৪৪৪[0]]\n০০৪৮০ [68000], 1\"0000001]] ৪8110 1]700|108001]}] (:0120180001[] ]/[0. 011 0811811 01\n00ঘণ21111]621]1{ 01 /১৪৪৪]]].\n\n['[1'\"66 ][6%{[2001\n\n/%]] [২192]19 1[(€6৪০1\"৮60] : [0 16][00000101] 11] 811} [011]] 01 {]]19 00013:11] ঘ%৮11016 01\n11] |)81\"01]]8' [26 1118.092 1|]1000{ ছয|\"1(21] 8010101178101] 1|\"01]] ১৫)[২], /১৪৪৪]]],.\n\nগৰন্থস্বত্ব       £$ ৰাজ্যিক শিক্ষা-গাৱেষণা আৰু প্ৰশিক্ষণ পৰিষদ,অসম\nপ্ৰথম প্ৰকাশ       ৰ    ২০২৪\n$ _ £ঠ70 091/[ কাগজত মুদ্ৰিত পাঠ্যপুথি\nপ্রকাশক     ঃ অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ন\nআৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি।\nমুদ্ৰক       ঃ$ লাৱণ্য প্ৰিণ্টিং প্ৰেছ\nচন্দ্ৰকান্ত হাজৰিকা পথ\n\nতৰুণ নগৰ, গুৱাহাটী-৭৮১০০৫",
+  "confidence": {
+    "word_count": 116,
+    "mean": 52.51,
+    "median": 54.49,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9914,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2436,
+  "image_height": 3224,
+  "ocr_elapsed_seconds": 3.081,
+  "page_elapsed_seconds": 4.718,
+  "peak_process_tree_rss_bytes": 244264960,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

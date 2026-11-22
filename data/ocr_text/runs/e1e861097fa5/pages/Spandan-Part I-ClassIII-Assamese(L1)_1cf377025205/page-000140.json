@@ -1,0 +1,68 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 140,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঠ্ খ) তলৰ ছবি দুখনত দেখা পোৱা উৎসৱ দুটাৰ বিষয়ে লিখা---               ক্ঁ-\n\nৰত জজ়়় (জজ &{ে়িি।চচ {{  ]{_{ [এ ;এ3  & [({[{ {এ [ ৷ ছী ত&়ি(োাুই ০ { 3] {_]_ [৷] {  )_/ { & /  9৮][/]_[]_ এ\n\nহৰৰ জ]/ছছ|]]]] (৷ ৷  ী) 3] ( 7] ৷ ]9তই' \" ছোট] (৬ এ এস বল৷ মি তরএধিছট|(এ] (এ এ ]) এ\n\nহৰত ॥ {& লইবো ২ এ ন \"।৷॥৷{উৌিিিলর{ৱ৭ংচ জজ &ও এ  __(  (& েিেি ।&%েছল৷৷",
+  "confidence": {
+    "word_count": 57,
+    "mean": 32.59,
+    "median": 26.27,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9959,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 75 diacritics",
+        "Detected 75 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 2.966,
+  "page_elapsed_seconds": 3.934,
+  "peak_process_tree_rss_bytes": 227082240,
+  "tesseract_warnings": [
+    "Detected 75 diacritics",
+    "Detected 75 diacritics"
+  ],
+  "processed_this_run": true
+}

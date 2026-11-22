@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 249,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3. শুদ্ধ উত্তৰৰ গোলটো সম্পূৰ্ণকৈ পূৰ কৰা।\n(1) পৃথিৱীৰ নাতিশীতোষ্ণ অঞ্চল ক’ত অৱস্থিত ?\n\n(৪) উত্তৰ মেৰু                     হ[2|[ত2/2\n(৮) দক্ষিণ মেৰু\n(2) বিষুৱীয়\n(0) বিষুৱীয় অঞ্চলৰ ক্ৰমে উত্তৰ আৰু দক্ষিণ\n(1) কোনবিধ খাৰিফ শষ্য?\n(৪) ধান                         ৫%|৫%)৷৩৫\n(6) সৰিয়হ\n(০) আলু\n(0) ঘেঁহু\n4. খালী ঠাই পূৰ কৰা ঃ\n(৪) কোনো এটা অঞ্চলৰ দীৰ্ঘসময়ৰ বতৰৰ গড় অৱস্থাক সেই অঞ্চলৰ _{_{/ _\nবোলে।\n(69) ________ মৌচুমী বতাহৰ বাবে বৰ্ষাকালত অসমত প্ৰচুৰ পৰিমাণে বৰষুণ\nহয়।\n_]                      ত শিকন                  [_\nঞ _ কোনো এক বিশেষ জলবায়ু অঞ্চলত আমি কিয় বিশেষ উদ্ভিদ আৰু প্রাণী কিছুমানহে\nদেখিবলৈ পাওঁ।\nঞ তোমালোকৰ ককা-আইতাক সুধি তেওঁলোকৰ ল’ৰালি কালৰ সময়ত আৰু বৰ্তমান\n\n_\n\n|\". \"৬ ঠপীো]}[][{ৰৰৰৰৰৰ। 3",
+  "confidence": {
+    "word_count": 106,
+    "mean": 84.97,
+    "median": 94.26,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.299,
+  "page_elapsed_seconds": 2.597,
+  "peak_process_tree_rss_bytes": 291680256,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

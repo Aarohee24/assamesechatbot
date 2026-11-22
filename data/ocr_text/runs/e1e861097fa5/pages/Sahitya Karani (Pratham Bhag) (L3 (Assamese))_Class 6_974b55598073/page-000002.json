@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 2,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "_, সাহিত্য\n\n% ॥,                         প্ৰথম ভাগ\n'-                      (ষষ্ঠ শ্রেণীৰ বাবে)\n\nৰ\n\nপ্ৰস্তুতকতা\nৰাজ্যিক শিক্ষা-খৰেষণা আৰু প্ৰশিক্ষণ পৰিষদ,অসম\n\nত. == ==০০০=০ তন তনেন নন === =৬৯ত শতিনিতিলেত এভিঅএনন্ন্অন্স্ন্স্নন্নন্ননননসতনতনন৭ ৭৭৭৬-২২ ৬৭২ ন ন ননন্ অন নন তনত ২-২ ন-ন নসননন নল তন নত নত তন ৭ নন নন নন = = = = = =\n্্\n0 আত ককতককত৭৯৪৬৬৫ দৰি ডডডিতিও কতক ককৰত কৰৰ   তদ: তকৰতভকৰতককমদককজকক নন নকৰজককততককততকততন। লম্বা ৰত 25 ককতককততক২২৭ক৪৭ককত৭ককতনক৪৪কক৪ত\nডু                      6                      ০\n\nবিদ্যালয় ঃ'আঅঙনভঙজতন্কতভএভভভভ॥ৱ৬২০ক৪০৬এ৪০৬মথ৪৬ভ৪তএ৭৬৪ত৬৪৪কড৪ত৪ত৩৬৬৪ত৬৪তত৬৪৬৬৪ ৪৬৬৪ত ০৪৪৯ত ৬৪৬৬ত চন ভঙ্ভভক্ভড ভন ত৬দতভক৬৪৬৬৪ত৬৯৪তম৬৭৬ত",
+  "confidence": {
+    "word_count": 83,
+    "mean": 28.68,
+    "median": 17.26,
+    "minimum": 0.0,
+    "maximum": 96.79
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9999,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.678,
+  "page_elapsed_seconds": 2.977,
+  "peak_process_tree_rss_bytes": 288747520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

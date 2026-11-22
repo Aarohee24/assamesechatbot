@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 82,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিদ্যালয়ত কৰিব পৰা৷ কিছুমান কাৰ্য-\n\n0 বিদ্যালয়ৰ খোৱা পানীৰ উৎস আৰু ইয়াৰ চৌপাশ পৰিষ্কাৰ কৰি ৰখা।\n0 পানীৰ ব্যৱস্থা নথকা বিদ্যালয়ত বৰষুণৰ পানী সংৰক্ষণৰ ব্যৱস্থা কৰা।\n0 বিদ্যালয়ৰ বিভিন্ন কাম-কাজৰ বাবে যথাস্থানত পানী ৰখাৰ ব্যৱস্থা কৰা।\n\nওপৰত দিয়া ছবিখন ভালদৰে পৰ্যবেক্ষণ কৰি কিদৰে মাটি প্রদূষিত হয় আৰু প্রদূষণ হোৱাৰ\nফলত কি হয় এইবিষয়ে বুজি লওঁ আহা---\n\nমাটিত পেলোৱা কিছুমান বস্তু সোনকালে পচি মাটিৰ লগত মিহলি হৈ যায়। কিছুমান আকৌ পচি\nমাটিৰ লগত মিহলি হৈ যাবলৈ বেছি সময় লাগে৷ এনে কিছুমান বস্তুও আছে যিবোৰ কেতিয়াও মাটিত\nমিহলি হৈ নাযায়। মিহলি হৈ নোযোৱা বস্তু মাটিত থাকিলে মাটি প্রদূষিত হয়। এই প্রদূষণ ৰোধ\nকৰিবলৈ মাটিত কোনোদিনে মিহলি নোহোৱা বস্তুবোৰ পুৰি অথবা আঁতৰাই পেলাব লাগে।\n\nমাটিৰ লগত সোনকালে মিলি যোৱা বস্তু            মাটিৰ লগত মিলি নোযোৱাবস্তু\n\n১।\n\n২\n৩।\n\n৪।\n\nমাটি প্ৰদূষণৰ কাৰকসমূহ জানি লওঁ আহা---\n\nগু মাটি প্রদূষণৰ এটা প্ৰধান কাৰণ হৈছে মাটিত ৰাসায়নিক সাৰৰ প্রয়োগ। অধিক শস্য উৎপাদনৰ\nবাবে ৰাসায়নিক সাৰ ব্যৱহাৰ কৰাৰ ফলত খাদ্যৰ উৎপাদন বৃদ্ধি পায় যদিও ইয়াৰ ফলত মাটিৰ\nগুণাগুণ নষ্টহয়।",
+  "confidence": {
+    "word_count": 161,
+    "mean": 88.77,
+    "median": 96.05,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.64,
+  "page_elapsed_seconds": 3.35,
+  "peak_process_tree_rss_bytes": 246771712,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 1,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিজ্ঞান\n\nদ্বিতীয় ভাগ\nঅষ্টম শ্ৰেণীৰ বাবে\n\n১৫.]]',[*খ(.1]',\n\n7.1] - ]]\n][],%][]}0)0]}\"< ]\"0)]{ (\"[,%১৬৬ *]]]\n\n[)},]'%1{][[][[. [4 [ ()]}; = (]]()()]; [[)[](./%]]()[4, (=()+%' ],]ঘ[খ'%]]}};খ'] 1) };{ ১ =৩০,%৷%]",
+  "confidence": {
+    "word_count": 27,
+    "mean": 45.57,
+    "median": 34.01,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9379,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2519,
+  "image_height": 3426,
+  "ocr_elapsed_seconds": 1.715,
+  "page_elapsed_seconds": 1.945,
+  "peak_process_tree_rss_bytes": 262795264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

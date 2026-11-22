@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 125,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "চিত্ৰ 14.1: বাদ্যযন্ত আৰু এইবোৰৰ কম্পন হোৱা\nঅংশসমূহ\n\n1. [বীণা       টানি ৰখা তাঁৰ\n2 _|তবলা      টানি ৰখা চাম্ৰা\n3. {বীহী       বায়ু-স্তম্ভ\n4\nআমি দেখিছে যে এটা কম্পমান বস্তুৱে শব্দ\n\nসৃষ্টি কৰে। কিছুমান ক্ষেত্ৰত কম্পনবোৰ আমাৰ কাৰণে    ঢ়\n\nসহজে দৃশ্যমান হয়। কিন্তু বেছিভাগ ক্ষেত্ৰতেই ইহঁতৰ\n\nবিভব হমাদ দৈক বে ইহঁতক আমি দেখা নাপাও    তোমালোকৰ বহুতে বোধহয় তাল ঘটম, নুট\n\nআৰু কৰতাল দেখিছা এই বাদ্যযন্ত্ৰসমূহ আমাৰ দেশৰ\nবিভিন্ন ঠাইত প্রায়ে ব্যৱহাৰ হয়। এইবোৰ বাদ্যযন্ত\nক্ৰিয়াকলাপ 14.4              মাত্ৰ কোবাই বা আঘাত কৰি বজোৱা হয়। এনে ধৰণৰ\nআৰু আন কিছুমান বাদ্যযন্ত্ৰৰ নাম তোমালোকে ক’ব\nপাৰিবানে?\nতোমালোকেও এটা বাদ্যযন্ত সাজিব পাৰা।\n\nঘটম\n\nপৰিচিত বাদ্য যন্ত্ৰসমূহৰ এখন তালিকা কৰা আৰু\n\nকম্পন হোৱা অংশসমূহ চিনাক্ত কৰা। তালিকা 14.1ত             তাল (মঞ্জিৰা)\nকেইটামান উদাহৰণ দিয়া হৈছে। তালিকাৰ বাকী অংশ\nপূৰ কৰা।                                  চিত্ৰ 14.6 : কেইবিধমান বাদ্যযন্ত\n\n(_ শব্দ / ৪0ঢ0খা)   9                                                  (110",
+  "confidence": {
+    "word_count": 133,
+    "mean": 83.57,
+    "median": 93.16,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.555,
+  "page_elapsed_seconds": 2.84,
+  "peak_process_tree_rss_bytes": 259764224,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

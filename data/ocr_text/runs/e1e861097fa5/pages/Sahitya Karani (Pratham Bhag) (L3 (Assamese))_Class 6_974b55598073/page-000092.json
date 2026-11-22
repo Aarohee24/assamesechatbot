@@ -1,0 +1,67 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 92,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৭\nঅসমৰ জাতীয় উৎসৱ\n\nআমি সকলো জাতি-উপজাতি মিলি ভিন ভিন সময়ত ভিন ভিন উৎসৱ পালন\nকৰোঁ। তেনে উৎসৱসমূহৰ ভিতৰত বিহু উৎসৱো অন্যতম। বিহু অসমৰ জাতীয়\nউৎসৱ। বিহু তিনিটা--- ব’হাগ বিহু বা ৰঙালী বিহু, মাঘ বিহু বা ভোগালী বিহু আৰু\nকাতি বিহু বা কঙালী বিহু। ব’হাগ বিহুত সকলোৱে নাচি-বাগি ৰং ধেমালি কৰে বাবে\nইয়াক ৰঙালী বিহু বোলে৷ ৰঙালী বিহুৰ প্রথম দিনটোক গৰু বিহু বোলে। সেইদিনা\nগৰুক মাহ-হালধি আদি সানি গা ধুৱায়। দীঘলতি, মাখিয়তীৰে গৰুৰ গাত কোবাই\nলাও-বেঙেনা গালৈ মাৰি গৰখীয়াসকলে এনেদৰে গায়--\n\n‘দীঘলতিৰ দীঘল পাত\nমাখি মাৰোঁ জাত জাত\n‘লাও খা, বেঙেনা খা,\nবছৰে বছৰে বাঢ়ি যা৷\nমাৰ সৰ্চ, বাপেৰ সৰ্চ\nতই হ’বি বৰ গৰু।’\n\nগৰু বিহুৰ পাছদিনা মানুহ বিহু।\nসেইদিনা সৰুৱে ডাঙৰক সেৱা\nমে ত ৰজ\n\nলোৱা হুয়। এই বিজাতই ৰেনে\nহুঁচৰি গায় আৰু গিৰিহঁতৰ কুশল-\nমংগল কামনা কৰে।",
+  "confidence": {
+    "word_count": 130,
+    "mean": 89.56,
+    "median": 96.0,
+    "minimum": 7.09,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 18 diacritics",
+        "Detected 18 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.733,
+  "page_elapsed_seconds": 3.028,
+  "peak_process_tree_rss_bytes": 247042048,
+  "tesseract_warnings": [
+    "Detected 18 diacritics",
+    "Detected 18 diacritics"
+  ],
+  "processed_this_run": true
+}

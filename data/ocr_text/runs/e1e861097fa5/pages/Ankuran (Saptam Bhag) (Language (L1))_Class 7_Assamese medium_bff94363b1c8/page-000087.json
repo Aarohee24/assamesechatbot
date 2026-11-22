@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 87,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জুলী বৰুৱাঃ\n\nঃ আজৰি সময়ত আপুনি কি কৰি ভাল পায়?\n৪ মই ভৰিৰ আঙুলিৰ জৰিয়তে ছবিও অংকন কৰোঁ আৰু ছবি অঁকাৰ এটা\nপ্ৰশিক্ষণ কেন্দ্ৰও খুলিছোঁ। তদুপৰি, মই গান গাই মনৰ দুখ কিছু পাতলাও।\n\nবাৰু, এতিয়া আপোনালোকৰ অৰ্থনৈতিক দিশটোৰ বিষয়ে অলপ ক’বনে?\n\n৪ আগতে অৰ্থনৈতিক অবস্থা বৰ স্বচ্ছল নাছিল। অতিশয় কন্টৰ মাজেৰে জীৱন\n\nঅতিবাহিত কৰি মই এতিয়া গুৱাহাটীৰ ‘নেমকেয়াৰ হাস্পাতাল’ৰ অভ্যৰ্থনা\nকক্ষত কৰ্মৰত।\n\nঃ সংগ্ৰামেই আপোনাৰ জীৱন লগৰী। বাৰু, দিব্যাংখাসকলক আপুনি কিবা ক’ব\n\nনেকি?\n\nঃ জীৱনৰ গতিপথত নানা বাধা-বিঘিনি থাকিবই। সেইবোৰ নেওচি আগবাঢ়ি\n\nযোৱাটোৱেই হ’ল মূল কথা। মই তেনে চিন্তাৰে আগবাঢ়িবলৈ চেষ্টা কৰিছোঁ\nআৰু আনকো আগবাঢ়িবলৈ অনুৰোধ জনাইছোঁ।\nআপোনাৰ দৃঢ় মনোবলৰ শলাগ লৈছোঁ। আপোনালৈ শুভ কামনা জনাই\n\n$ ধন্যবাদ ।\n\nজুলী বৰুৱা (২)\n\n৪ নমস্কাৰ, এটা অনাকাংক্ষিত বাছ দুৰ্ঘটনাত আপুনি পতিত হৈছিল। যাৰ বাবে\n\nআপুনি চিৰদিনলৈ এক শাৰীৰিক\nপ্রত্যাহবানৰ সন্মুখীন হ’বলগা\nহ’ল। সেই দুৰ্ঘটনাটোৰ বিষয়ে\nঅলপ ক'‘বনে?       ৷\nঘৰলৈ গৈ থকা অৱস্থাত বাছ __\nদুৰ্ঘটনাত পতিত হৈ মই মোৰ  গ্ৰ\nদুয়োখন হাত হেৰুৱাইছিলোঁ।",
+  "confidence": {
+    "word_count": 152,
+    "mean": 88.57,
+    "median": 95.06,
+    "minimum": 2.78,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 16 diacritics",
+        "Detected 16 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2421,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.024,
+  "page_elapsed_seconds": 4.032,
+  "peak_process_tree_rss_bytes": 286654464,
+  "tesseract_warnings": [
+    "Detected 16 diacritics",
+    "Detected 16 diacritics"
+  ],
+  "processed_this_run": true
+}

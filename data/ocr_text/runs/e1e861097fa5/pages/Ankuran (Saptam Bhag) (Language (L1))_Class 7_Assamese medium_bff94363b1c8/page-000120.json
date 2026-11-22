@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 120,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাতি লিখিছিল। ১৮৯৬ চনত তেৰেত জোনাকী'কাকতৰ পাক আছিল\nআদিগ্ৰন্থ ৰচনাৰ লগতে তেখেতে গীত আৰু খুতটীয়৷ কবিতাও বচনা কৰিছিল।\nতেখেতৰ গীতৰ পুথিখনৰ নাম ‘গীতাৱলী’। সত্যনাথ বৰাই লিখা বিভিন্ন প্ৰবন্ধ _ শ্প্ন্‌চা্ঞ _\nআৰু পুথিসমূহত কথাশৈলীৰ বিশেষত্ব মন কৰিবলগীয়া। তদুপৰি, তেখেতৰ ভাষাশৈলীৰ মাজত\nনতুন চিন্তাৰ উন্মেষ লক্ষণীয়। ‘বিদ্যা’ পাঠটো তেখেতৰ ‘সাৰথি’ পুথিৰ পৰা লোৱা হৈছে।\n\nক্ৰিয়া-কলাপ               ক--- পাঠভিত্তিক ত্ৰিয়া\n\n১।\n\n২।\n৩।\n\n8।\n\nপাঠটো শুদ্ধ উচ্চাৰণেৰে পঢ়া।\n\nপাঠটোৰ মূল কথাখিনি কোৰা আৰু লিখা।\n\nউত্তৰ দিয়া।\n\n(ক) লিখন, কৰ্ষণ আৰু ৰন্ধন কাম কৰিবলৈ কি কি বস্তুৰ প্রয়োজন হয়?\n(খ) সুকলমে কাম কৰিবলৈ কিহৰ প্রয়োজন হয়?\n\n(গ) উদ্‌গতিৰ ঘাই আহিলা কি?\n\n(ঘ) বিদ্যাহীন জীৱন কেনে বুলি কোৱা হৈছে?\n\n(৬) কি কৰিলে সংসাৰত কৰ্ম কৰিবলৈ সুচল হয়?\n\n(চ) পৃথিৱীত নাম উজলাবলৈ কি আয়ত্ত কৰিব লাগিব?\n(ছ) কি থাকিলেও খনিকৰে আন্ধাৰত চিত্র আঁকিব নোৱাৰে?\nসত্য নে অসত্য লিখ৷।\n\n(ক) কাপ নহ’লে লিখন কাম কৰিব নোৱাৰি।\n\n(খ) বিদ্যাহীন জীৱন সুখৰ বুলি সকলোৱে স্বীকাৰ কৰে।\n(গ) হাল নহ’লে কৰ্ষণ কৰিব নোৱাৰি।\n\n(ঘ) আগৰ কালৰ খ্যাতিমন্ত লোকসকলো বৰ বিদ্যাৱন্ত নাছিল।\n\nঞ্স”্ পুথিভৰালৰ পৰা সতানাথ বৰাৰ অন্যান্য পুথি সংগ্ৰহ কৰি পঢ়াৰ সুবিধা দিব।\n\n০ /",
+  "confidence": {
+    "word_count": 175,
+    "mean": 86.26,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.88
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 110 diacritics",
+        "Detected 110 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2417,
+  "image_height": 3246,
+  "ocr_elapsed_seconds": 3.245,
+  "page_elapsed_seconds": 4.147,
+  "peak_process_tree_rss_bytes": 286867456,
+  "tesseract_warnings": [
+    "Detected 110 diacritics",
+    "Detected 110 diacritics"
+  ],
+  "processed_this_run": true
+}

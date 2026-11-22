@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 83,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "===      : ৰ\n\nস্তৰ                (;     ভাষা-অধ্যয়ন\n/ ৩। তোমালোকে পাঠটোত ‘অসমীয়া’, ‘স্কুলীয়া’ৰ দৰে কিছুমান শব্দ পাইছা। আমি\nতেনেধৰণৰ কিছু শব্দ গঠন কৰোঁ আহা--\n\nঅসমীয়া  <=|অসম + দয়া      => অসমীয়া\nস্কুলীয়া     <=] স্কুল + ই্ীয়া      = স্কুলীয়া               নি\nনিয়মীয়া    =               =>                     7\nআগতীয়া    =               =>\nদীঘলীয়া <=               হি\nশেহতীয়া <=         ৰুচ\n\nৰ ৪। শিল্পী’ আৰু ‘কৃষ্ণা’ শব্দ দুটাত্‌ থকা যুক্তাক্ষৰকেইটাৰ লগত পৰিচয় হও আহা--\n\nল্স-তঞল্্‌ +প\n১৮. থম.                ষ্ট্্ষ্ণাণ >\n\nএই যুক্তাক্ষৰবোৰ থকা বেলেগ বেলেগ শব্দ পঢ়ো আৰু লিখোঁ আহা--\nশিল্পী      গল্প      অন্প      কল্পণা বিকল্প\n\nবিষ্ণু সহিষ্ণু কৃষ্ণ তৃষ্ণা বৈষ্ণৱ\n\n7 ৰিকদডচ১৬৪১১%৯১৯১৪৬১ গুৰুত্ব দিব।\n\nত্রহতুু[ক।",
+  "confidence": {
+    "word_count": 94,
+    "mean": 70.69,
+    "median": 88.75,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 3.035,
+  "page_elapsed_seconds": 3.839,
+  "peak_process_tree_rss_bytes": 220450816,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

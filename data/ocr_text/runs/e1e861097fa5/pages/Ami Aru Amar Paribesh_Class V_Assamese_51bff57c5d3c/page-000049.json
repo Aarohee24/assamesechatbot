@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 49,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ-৬              কু\nঅসমৰ প্ৰাকৃতিক সম্পদ আৰু সংৰক্ষণ\n\n1661112\n\nজীয়াই থাকিবলৈ আমাক বিভিন্ন ধৰণৰ সামগ্ৰী বা বস্তুৰ প্ৰয়োজন । আমাৰ এই প্রয়োজনীয়\nসামগ্রীবোৰ প্রকৃতিৰপৰাই পাওঁ। উদাহৰণস্বৰূপে- আমি উশাহ-নিশাহৰ বাবে বায়ু, খেতি কৰিবলৈ\nখৰি, কয়লা আদি সকলো প্রকৃতিৰ পৰাই পাওঁ৷ প্ৰকৃতিত পোৱা সকলো সামগ্ৰী অৱশ্যে সম্পদ নহয়।\nপ্রকৃতিৰপৰা আহৰণ কৰিব পৰা মানুহৰ ব্যৱহাৰৰ উপযোগী সামগ্ৰীবোৰক প্রাকৃতিক সম্পদ বুলি\nকোৱা হয়।\n\nথাকিলেও শেষ নহয়,এইবোৰক নবীকৰণক্ষম সম্পদ বোলে৷ আনহাতে কয়লা,খনিজ পদাৰ্থ, খাৰুৱা\nতেল আদি এবাৰ আহৰণ কৰি ব্যৱহাৰ কৰাৰ পাছত এই সম্পদ পুনৰ সৃষ্টি হ’বলৈ বহুত দীঘলীয়া সময়\nলাগে।এইবোৰক অনবীকৰণক্ষম সম্পদ বোলে।\n\nঅসমত পোৱা প্রাকৃতিক সম্পদসমূহক চাৰিটা ভাগত ভাগ কৰিব পাৰি, যেনে--\n১ বনজ সম্পদ  ২।খনিজ সম্পদ ৩।কৃষিজ সম্পদ ৪।জলজ সম্পদ\n\n১। বনজসম্পদ\n\nবুজোৱা হয়। অসমৰ শাল, চেণ্ডন,তিতাচঁপা, কৰৈ আদি গছৰ কাঠ বৰ মূল্যৱান ৰাজ্যখনৰ পাহাৰীয়া\nঅঞ্চল আৰু বৰাক উপত্যকাত হোলোং, বনচোম, তিতাচঁপা আদি গছ পোৱাৰ উপৰি উত্তৰ কাছাৰ\nশিমলু, কদম, কৰৈ আদিৰ লগতে নলখাগৰি, খেৰ আদি উদ্ভিদো পোৱা যায়। এই কাঠ আৰু বাঁহ-\nবেতেৰে মানুহে বিভিন্ন ধৰণৰ আচবাব আৰু দৈনন্দিন ব্যৱহৃত বিভিন্ন সা-সৰঞ্জাম তৈয়াৰ কৰি লয়।\n\n(৩৯.",
+  "confidence": {
+    "word_count": 164,
+    "mean": 86.19,
+    "median": 95.98,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 3.386,
+  "page_elapsed_seconds": 4.019,
+  "peak_process_tree_rss_bytes": 205508608,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

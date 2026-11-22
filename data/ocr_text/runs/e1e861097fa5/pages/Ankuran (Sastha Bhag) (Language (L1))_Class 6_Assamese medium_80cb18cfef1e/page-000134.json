@@ -1,0 +1,67 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 134,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১০) তলত উল্লেখ কৰা গীতসমূহ কেতিয়া আৰু ক’ত গোৱা হয়?\nক) ‘জন গণ মন অধিনায়ক...............\n\nগ)‘ভ্ৰীময়ী অসমীৰ শীতল বুকুত উঠে.............ক\nঘ) ‘ভাৰত স্কাউট-গাইড ব৷ণ্ডা উচ্চা সদা ৰহেগা............’\n১১) তোমাৰ পাঠত মৌ-পালন, মীন-পালন, কৃষি, বয়ন, হস্ত-শিল্প- এইকেইটা বৃত্তিৰ নাম উল্লেখ\nআছে। ইয়াৰ বাহিৰে আৰু কি কি বৃত্তিৰ নাম জানা লিখা।\n১২) তুমি অকলে আৰু দলীয়ভাৱে কৰি ভাল পোৱা কামৰ তালিকা কৰা।\n১৩) এসপ্ডাহৰ বাবে ৰেডিঅ’বা দূৰদৰ্শনৰ সন্ধিয়াৰ বাতৰি লৈ ঘাই ঘাই বাতৰিখিনি লিখি শিক্ষকক\nদেখুওৱা।                               ৰি         ৃ\n১৪)           ‘একতাৰ বৰ বল'4-- সকলোৱে জানে,\nএকেলগে থাকিলে কি কৰিব আনে?\nলগ হৈ ভেটো আমি বাৰিষাৰ বান,\nদা-কোৰ লৈ গাওঁ একতাৰ গান।\nসকলো আপোন মোৰ, নাই কোনো পৰ।\n\nওপৰৰ পদ্যটোৰ দৰে মালৌ নিজে ভকত কনিদ হিচাপে লৈ পদ এটা নিল!\nপদ্যটোৰ নাম দিবা আৰু শিক্ষকক দেখুৱাবা।\n\n৬ তলত দিয়া যিকোনো এখন স্থানলৈ ক্ষেত্ৰ-ভমণৰ বাবে গৈ ক্ষেত্ৰভিত্তিক টোকা এটা প্ৰস্তুত কৰা।\nক) কৃষি পাম\nখ) মৎস্য পালন আৰু উৎপাদন কেন্দ্ৰ\nগ) জাতীয় পতাকা প্রস্তুত কেন্দ্ৰ\nঘ) শুৱালকুছিৰ বস্ত্ৰ উদ্যোগৰ স্থান\nঙ) সৰ্থেবাৰীৰ কীহ শিল্পৰ উদ্যোগ\nচ) নলবাৰীৰ বাঁহ-বেতৰ উদ্যোগ",
+  "confidence": {
+    "word_count": 166,
+    "mean": 86.24,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 25 diacritics",
+        "Detected 25 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.281,
+  "page_elapsed_seconds": 3.708,
+  "peak_process_tree_rss_bytes": 242528256,
+  "tesseract_warnings": [
+    "Detected 25 diacritics",
+    "Detected 25 diacritics"
+  ],
+  "processed_this_run": true
+}

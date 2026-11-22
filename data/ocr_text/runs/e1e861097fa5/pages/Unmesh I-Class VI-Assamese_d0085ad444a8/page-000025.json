@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 25,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "আমি তেওঁৰ ওচৰলৈ গৈ আছোঁ। তেতিয়া সেই সিংহটোৱে তৰ্জন-গৰ্জন কৰি কৈছিল---\n‘এই বনৰ ময়েই ৰজা। তহঁতৰ অন্য ৰজা আকৌ ক’ৰপৰা ওলাল? এতিয়াই তাক মোৰ\nওচৰলৈ মাতি আন। মই তাৰ লগত যুঁজি চাম। যদি সি মোতকৈ বলী হয়; তেন্তে সিয়েই\nতহঁতৰ ৰজা হ’ব।” তেতিয়া আমি আমাৰ ৰজাক মাতি আনোগৈ বুলি কোৱাত সিংহটোৱে\nখঙেৰে কৈছিল-_ ‘সেই কথা হ’ব নোৱাৰে। তহঁতে ছল কৰি মোৰপৰা সাৰি যাব নোৱাৰ।\nতহঁতৰ পাঁচটাৰ চাৰিটা মোৰ ওচৰত বন্ধকত থাক। এটাই গৈ তাক মোৰ ওচৰত হাজিৰ\nকৰহি।” গতিকে মহাৰাজ, এতিয়া আপুনিয়েই ইয়াৰ এটা বিহিত ব্যৱস্থা লওক।”\n\nশহাটোৰ কথাখিনি শুনাৰ লগে লগে মন্দমতিয়ে কেশৰ ফুলাই গল্গলীয়া মাতেৰে\nক’লে---“কি! তাৰ ইমান সাহ্‌ ! এতিয়াই মোক তাৰ ওচৰলৈ লৈ ব’ল ৷ আজি মোৰ হাতৰপৰা\nসি কোনোমতেই নিস্তাৰ নাপাব।”\nক’লে--- “মহাৰাজ, আপোনাক দেখি সি এই কুঁৱাটোতে লুকাইছে।” শহাৰ কথা শেষ\nনৌহওঁতেই মন্দমতিয়ে খঙত একো নাই হৈ কুঁৱাটোত জুমি চালে। কুঁৱাৰ পানীত সি নিজৰ\nছাঁটোকে সেই সিংহটো বুলি ভাবি গৰজি উঠিল। সিংহৰ সেই গৰ্জন কুঁৱাৰ ভিতৰৰপৰা\nপ্রতিধ্বনিত হৈ ওলাই আহিল। লগে লগে মন্দমতিয়ে কুঁৱাৰ ভিতৰত থকা সিংহটোক ধৰোঁ\n\n=-এূঠা\n\n(শহা আৰু সিংহ’ নামৰ সাধুটো ‘পঞ্চতন্ন' ৰ আধাৰত ছাত্ৰ-ছাত্ৰীৰ উপযোগীকৈ প্ৰভ্তত কৰা হৈছে।)\n২৫",
+  "confidence": {
+    "word_count": 179,
+    "mean": 90.74,
+    "median": 95.77,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 3.393,
+  "page_elapsed_seconds": 4.149,
+  "peak_process_tree_rss_bytes": 281194496,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

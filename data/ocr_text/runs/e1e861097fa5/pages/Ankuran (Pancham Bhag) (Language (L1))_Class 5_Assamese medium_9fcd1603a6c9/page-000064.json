@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 64,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nঞ বৰ্ণনামূলক পাঠ পঢ়ি বুজি পোৱা আৰু লিখিব পৰা\n\nঙ পুথিভঁৰাল আৰু ইয়াৰ প্রয়োজনীয়তা সম্পৰ্কে জনা\n\n৬ পুথিভঁৰালীৰ কাম সম্পৰ্কে জানিব পৰা\n\n৬ পুথিভঁৰাল আৰু গ্ৰন্থমেলাৰ পাৰ্থক্যৰ বিষয়ে জনা\n শব্দৰ অৰ্থ জানি বাক্য ৰচনা কৰিব পৰা\n\nঞ্জ প্রশ্নবোধক, অনুজ্ঞাসূচক, ভাবাৱেগসূচক, সদৰ্থক আৰু নঞৰ্থক বাক্যৰ বিষয়ে জনা\nঞ সদৰ্থক বাক্যক প্রশ্নবোধক বাক্যলৈ পৰিৱৰ্তন কৰিব পৰা\nঞ একবচন আৰু বহুবচন বুজোৱা শব্দ লিখিব পৰা\n৬ -‘জ্ঞ',‘দ্ৰ’ যুক্তাক্ষৰ ভাঙিব আৰু গঠন কৰিব পৰা\nঞ বিপৰীত অৰ্থ প্ৰকাশক শব্দ জনা\n\nঞ শিশু-আলোচনী, শিশু-সাহিত্যিক আৰু তেখেতসকলে ৰচনা কৰা পুথিৰ নাম জনা\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\n৮১%  79 ও  পাঠভিত্তিক প্রশ্নৰ | বন্ধ-বান্ধৱীলৈ চিঠি | শব্দৰ অর্থ বুজি | পুথিভঁৰালীৰ কাম\nপঢ়িব পৰা  উত্তৰ দিব পৰা  লিখিব পৰা. |বাক্য লিখিব পৰা| সম্পকে ক’ব পৰা\nভাষা অধ্যয়ন ভ্্,ড্ৰ-  যুক্তাক্ষৰ থকা  একবচন আৰু | প্রশ্নবোধক বাক্য\nনি                     ৰধ্ক\nব্যাৱহাৰিক তেল বাক্য পঢ়িব আৰু | _বহুবচন চিনাক্ত | গঠন কৰিব পৰা\nব্যাকৰণ) [ঠন কৰিব পৰা  লিখিব পৰা    কৰিব পৰা\nআন  গ্ৰন্থমেলা আৰু | শিশু-সাহিত্যিকৰ পুথিভঁৰালৰ বিষয়ে\nগ্ৰন্থাগাৰৰ পাৰ্থক্য| নাম চিনাক্ত   লিখিব\nস’্প্ৰসাৰ্ণ [বুজি লিখিব পৰ| | - কৰিব পৰা     প্‌বা\nশিশু আলোচনীৰ | শিশু-সাহিত্যিকসকলে| বাতৰি কাকতৰ নাম\nপ্রকল্প | নাম জনা আৰু [ৰচনা কৰা পুথিৰ নাম টল\nক’ব পৰা   সংগ্ৰহ কৰিব পৰা   লিখিব পৰা\n\n= অহৰ্তা আয়ভ হ’লে ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ ’লৈ ১ চিন দিব । অহৰ্তা",
+  "confidence": {
+    "word_count": 220,
+    "mean": 81.9,
+    "median": 93.38,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.932,
+  "page_elapsed_seconds": 3.215,
+  "peak_process_tree_rss_bytes": 243568640,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 20,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "মনৰ দুখত মধুকৰে এদিন দূৰণিৰ ৰাজ্য এখনলৈ গুচি গ’ল। সেই ৰাজ্যৰ ৰজাজনৰ\nসন্তান বুলিবলৈ আছিল মাত্ৰ একেজনী ছোৱালী ৷ তাইৰ নাম মাধৱী মধুকৰৰ সজ আচৰণত\nৰজা বৰ সন্তুষ্ট হ’ল। সেয়েহে তেওঁ নিজৰ একমাত্ৰ সন্তান মাধৱীক মধুকৰৰ সৈতে বিয়া\nদি তেওঁক সেই ৰাজ্যৰ ৰজা পাতি দিলে।\n\n__ লতা আদি সকলো শুকাই গ’ল। বৰষুণো\nং     নোহোৱা হ’ল। দেশত দুৰ্ভিক্ষই দেখা দিলে।\n\nৰজা, প্রজা সকলোৱেই খাদ্যৰ অভাৱত পৰি ভিক্ষা কৰিবলৈ বাধ্য হ’ল।\nৰজা সৰ্বধনুৱে ভিক্ষা খুজি খুজি এদিন মধুকৰৰ ৰাজ্যত উপস্থিত হ’ল। ৰজা মধুকৰে\nসৰ্বধনু ৰজাক চিনি পালে। তেওঁ সৰ্বধনুক আদৰ-সাদৰ কৰি নি ৰাজকাৰেঙৰ অতিথিৰূপে\nআদৰিলে। তাৰ পাছত মধুকৰে সৰ্বধনুৰ আগত নিজৰ পৰিচয় ব্যক্ত কৰি ক’লে- “মহাৰাজ,\nমই মধুকৰ। ময়েই আপোনাক পখী বধ কৰিবলৈ বাধা দিছিলোঁ। গপত গংগাটোপটো যেন\nহৈ আপুনি মোৰ কথা নুশুনিলে সেয়েহে এতিয়া তাৰ কু-ফল ভোগ কৰিবলগীয়া হৈছে।\nভৱিষ্যতলৈ আপুনি কেতিয়াও চৰাই বধ নকৰিব।” এইবুলি তেওঁ নিজৰ ৰাজ্যৰ পৰা\nৰজাক চৰাই এজাক দি ক’লে- “এই চৰাইজাক আপুনি লৈ যাওক। ইহঁতক আপুনি নিজৰ\nসম্ভানৰ দৰে লালন-পালন কৰিব।” এইবুলি মধুকৰে চৰাই এজাক সজাত ভৰাই সৰ্বধনু\nৰজাক উপহাৰ দিলে। সৰ্বধনুৱেও মধুকৰৰ কথামতে চৰাইজাকক নিজ ৰাজ্যলৈ নি মুকলি",
+  "confidence": {
+    "word_count": 174,
+    "mean": 91.39,
+    "median": 93.3,
+    "minimum": 3.36,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.787,
+  "page_elapsed_seconds": 4.352,
+  "peak_process_tree_rss_bytes": 275435520,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

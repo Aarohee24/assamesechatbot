@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 79,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰত8)=  40% দ১৮| %.342564।)১\nলে4); 5৪))) | ! 6১ 7 7১৪)৷ ৮;   নে), 9:34\n\nবলটিলবতিল নডিলটাদ নট\n\n৬: ছী  2 0\n1.৯2); এল ‘ও (7)\n'ঃ (| }%+ 9] (1)\n?1448.9৮\"3)1 14৯ | (/)\n$172.0.১৯ ৩এ%এ'ৰ ‘4৩৮ 2%/ ল-=৮০ ())\n+ 324০৮ ]))| ৩৮ (৫০ (2\nটি   ১১ %9+)1 1 791.৩ য় লা ৰলোৱোগ (*)\n143 06 ৯৮০৭ ()\n\"কী গে  জক ত =\nগ্ৰা! ১৮:)14%৯1 0)\n\n69",
+  "confidence": {
+    "word_count": 60,
+    "mean": 33.02,
+    "median": 33.12,
+    "minimum": 0.0,
+    "maximum": 82.55
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9786,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 271 diacritics",
+        "Detected 271 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.705,
+  "page_elapsed_seconds": 2.995,
+  "peak_process_tree_rss_bytes": 184008704,
+  "tesseract_warnings": [
+    "Detected 271 diacritics",
+    "Detected 271 diacritics"
+  ],
+  "processed_this_run": true
+}

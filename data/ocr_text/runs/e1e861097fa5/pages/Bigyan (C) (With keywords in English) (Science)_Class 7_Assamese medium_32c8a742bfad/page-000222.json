@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 222,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বাঁহ (3811600)\n\nল'ৰা-ছোৱালীবোৰে খোজকাঢ়ি যোৱা মাটিখিনি\nঅসমান আৰু বহুতো গছেৰে আবৃত হৈ আছিল।\nটিবুৱে সিহঁতক শাল (9৪1), চেণ্ডন (19819,\nশিমলু(921081), শিশু (316691807]}), নিম, পলাশ,\nডিমৰু (12), খয়েৰ (14081), আমলখি (][)018]]\n£009621\"), বাঁই, কাচনাৰ (1<৪০]৷108৷) আদি গছ\nচিনি পোৱাত সহায় কৰিলে (চিত্ৰ 17.4)। অধ্যাপক\nআহমেদে ক’লে যে অৰণ্যত আৰু বহুত ধৰণৰ বৃক্ষ,\nগুল্ম (911010),আৰু তৃণ ([]90) আছে। গছবিলাকো\nবিভিন্ন ধৰণৰ লতা আৰু আৰোহী উদ্ভিদেৰে আবৃত\n\nহৈ আছিল। সূৰ্যটো গছৰ পাতৰ\n\n208\n\nচিত্ৰ 17.4 অৰণ্যৰ কিছুমান উদ্ভিদ\n\n(১০116 10169012181119)\n\nমাজেৰে কোনোমতে দেখা গৈছিল বাবে অৰণ্যৰ\nভিতৰখন যথেষ্ট আন্ধাৰ আছিল।\n\nক্ৰিয়াকলাপ (৯৫৷ঘ(%) 17.1\n\nতোমালোকৰ ঘৰত থকা বিভিন্ন বস্তুবোৰ মন কৰা আৰু\nঅৰণ্যৰ পৰা৷ আহৰণ কৰা সামপ্ৰীবোৰৰ পৰা তৈয়াৰ\nহোৱা বস্তুৰ তালিকা প্রস্তুত কৰা।\n\nতোমাৰ তালিকাত বহুতো কাঠেৰে তৈয়াৰী সামগ্ৰী,\nযেনে- প্লাইউড্‌, কাঠখৰি, বাকচ, কাগজ, দিয়াচলাই\nকাঠি আৰু বিভিন্ন ধৰণৰ আচ্্‌-বাব নিশ্চয় আছে।\nতোমালোকে জানানে যে আঠা, তেল, মচলা, ঘৰচীয়া\nপ্রাণীৰ বাবে ঘাঁহ-বন, ওষধি উদ্ভিদ ([/[০010118\n)]81}) আদি কিছুমান সামগ্ৰী অৰণ্যৰ পৰা পাওঁ (চিত্র\n17.5)।\n\nবিজ্ঞান",
+  "confidence": {
+    "word_count": 152,
+    "mean": 82.82,
+    "median": 95.83,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.721,
+  "page_elapsed_seconds": 3.308,
+  "peak_process_tree_rss_bytes": 294158336,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

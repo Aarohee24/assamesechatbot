@@ -1,0 +1,63 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 270,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৷৷013] ১৯৪9006]]1(69\n\n00. 11090 |18৮62 16810 018{ 01216 816\n8 1101]0221\" 01 গ1111018] 98(61]10(29 স্]10]] 816\n0101001196. 0126 6৪81]. ॥০00,111196][ স্/011021\" 10%\n৪1011018] 98(06111(29 816 011121211{ 11\"01]] 118.001\"8|\n৪806]11(28. /%া[11018] 98.6]]1(69 816 ]]]81]-\n17806. ]]]6% 816 1801101]160 1|\"01]] {6 1[81]].\n'][]]6%} 1'6৮01৮6 8100110 16 6810] 11001] 10961\n{1811 28107)\"9 1180018|] ৪9806]]1(2, 06 11100].\n\n]]1018 1189 001]|{ 8110 1801101160, ৪6%৮6218|\n৪101018] ৪9806111(29. /1১৮8[0]1800.(8 8৪9 116\n10190 ]1101811 9806]]1(6. 50106 0012\" [10181]\n\n৪806]11029   8162   ][]১ণ./%][,   ]]২১৯,\n]<81128018-1, ]18)2[075/%], 206, (['15. 18.28).\n/%া011018] ৪9806]]1068 ]]18%৮6 ]]]8]]}}\n\n12180008| 81)|2]108010119. '][]]6% 86 09260 101\"\n10160890116 %/০৪.121, ]'81]917]1001196 (212%19101]\n8110 118.010 919118|3. '[]6% 86 8190 0960 101\n\n12612600]]1]011108.0011 8110 1211006 ৪621191119.\n\n] ড্৪10100 6]] ১৮000 0180.07 16100062\n৪211911196, ঘ্/০11]281 ০০||০০1011\n111101]11]8101] 11\"01]] ৪ 019081106.\n\n118 18.28 ১\n॥907106 17701077 50161111625\n\n255\n\nুববঁ\n\nবিজ্ঞান / ৪য2াখ0চ;_",
+  "confidence": {
+    "word_count": 129,
+    "mean": 40.54,
+    "median": 41.03,
+    "minimum": 0.0,
+    "maximum": 96.51
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.2133,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.826,
+  "page_elapsed_seconds": 3.112,
+  "peak_process_tree_rss_bytes": 236793856,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 209,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "() গাখীৰত নেমুৰস যোগ কৰিলে গোটা পনিৰ গঠন হয়। এই পদ্ধতিটোৰ নাম কি\nহ’ব? এইটোও এটা গাখীৰত থকা পানী আৰু পনিৰ পৃথকীকৰন পদ্ধতি ।\n\n(1) দূটা মিশ্ৰন দিয়া হৈছে - এটাক চালনীৰে চালি আৰু আনটোক পৰিলষ্গাৱনৰ দ্বাৰা ।\nপৃথক কৰিব পাৰি। প্রতিটো মিশতে, দুয়োটা উপাদানৰ মূল পাথৎকা কি বাৰচ৮ মনত ।\nৰাখিবা যে দুয়োটা পৃথকীকৰণ প্রক্ৰিয়াত এখন পৃথকীকৰণ জালিকা চালনী বা ৷\nফিল্টাৰ কাগজ) প্রয়োজন হয় ।\n\n[] ক্ৰিয়া-কলাপ 6.5:\nবালি আৰু পানীৰ মিশ্ৰ এটা কেনেদৰে অতি সহজে পৃথক কৰিব পাৰা?\n\nইয়াৰ বাবে এটা কাচৰ গিলাচ, বালি, পানী, প্লাষ্টিক বটল, চুৰী, এটুকুৰা কাপোৰ আৰু\nৰবৰ বেণ্ড লাগিব।\n\nতোমালোকে কি কৰিবা ?\n\nচিত্ৰত দেখুওৱা ধৰণে চুৰীখনেৰে বটলটোৰ ওপৰ অংশটো কাটি লোৱা৷ কটা বটলৰ\nওপৰৰ টুকুৰাটোৰ মুখখন কাপোৰৰ টুকুৰাটোৰে ৰবৰ বেণ্ডেৰ সহায়ত বান্ধা। ই চুপিৰ\nকাম কৰিব। কাপোৰ বন্ধা বটলৰ টুকুৰাটো ওলোটাকৈ বটলৰ আনটো টুকুৰাৰ ভিতৰত\nভৰাই ৰাখা। বালি-পানী খিনি মিহলাই ভালদৰে জোকাৰি চুপিটোত ঢালি দিয়া । কাপোৰৰ\nওপৰত কি ৰৈ গৈছে আৰু কটা বটলৰ তলৰ টুকুৰাটোত কি জমা হৈছে লিখা।\n\nফলাফল : দেখা গ’ল যে, কাপোৰৰ ওপৰত বালিখিনি ৰৈ গৈছে। পানীখিনি তলৰ\n\nটুকুৰাটোত জমা হৈছে।\n\nআলোচনা : তোমাৰ ফলাফলৰ ওপৰত ভিত্তি কৰি তলৰ প্রশ্ন কেইটাৰ বিষয়ে ভাবা।\n(0) মিশএ্ৰটোত থকা পানীখিনি কিয় টোপটোপকৈ বটলৰ তলৰ অংশত পৰিলগৈ?\n({}) এই পৃথকীকৰণ পদ্ধতিটোৰ নাম কি?\n({}}) পানী আৰু বালিৰ মিশ্ৰটো পৃথকীকৰণত কি ধৰণৰ ভৌতিক ধৰ্মৰ ব্যৱহাৰ হৈছে?\n\nআভৰৰকতৰৰাৰৰৰৰৰৰৰৰ 5",
+  "confidence": {
+    "word_count": 216,
+    "mean": 88.71,
+    "median": 94.19,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.388,
+  "page_elapsed_seconds": 3.733,
+  "peak_process_tree_rss_bytes": 304414720,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

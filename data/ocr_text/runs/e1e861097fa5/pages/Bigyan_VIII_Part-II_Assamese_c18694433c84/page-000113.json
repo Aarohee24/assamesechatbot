@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 113,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ৰ\nব্ী\n\nকৈশ্যৰ প্ৰাপি ৷]. 11]]\"খ4$ ][]}}}, ॥%[৪ঠ; |]: /%]]00],.};51_]; \"1;\n\nতোমালোকে কি শকিল৷\n\n= যৌৱন শাপ্ডিব পাছতহে মানুহৰ প্ৰজনন সমক্ষমতা\n\n্মাহহে | |] ৰ পৰা 19 বছৰৰ সকালো ল’ৰা-\nছোৱালীকে কিশোৰ-কিশোৰী বুলি কোৱা হয়।\nমৌৱন প্ৰাপ্তিৰ আৰম্ভণিৰ লগে লগে শ্ৰজ্জনননৰ\nঅংগৰ বিকাশ আৰম্ভ হয়। শৰীৰৰ বিভিন্ন\nঅংশত নোম গজিবলৈ ধৰে। ছোৱালীৰ স্রনৰ\nবিক্ষাশ হ’বল ধৰে আৰু ল’বৰ্মৰ মুখমগুলত\nদাড়ি গোঁফ গজে৷ স্বৰযস্ত্ৰৰ বুদ্ধিৰ বাবে ল’ৰাৰ\nমাত কৰ্কশ হয়।\n\nকিশোৰ কালত ল'ৰা-ছোৱালীবোৰ ওখ হৃয়।\nসৌত্ধন প্ৰাপ্তি আৰু প্ৰজলন অংগৰ পৈণত অনৱুস্থা\nপ্ৰাপ্তি হৰম'নে শিয়ম্ত্ৰণ কৰে।\n\nহৰম'নবোৰ অস্গ্যমাৱী গ্রহ্থিৰ লৰা নিঃসৰণ হৈ\n(পানে (পোনে তেজৰ সৌতত মিলি স্বায়।\nপিটুইটাৰী গ্ৰদ্থিয়ে বৃদ্ধি হৰম'ন আৰু সন্যান্া\nথািৰ'ইড, ভডিম্বাশয় আৰু অস্তাশয়ৰ পৰা\nহৰম’নৰ নিঃসৰণ কৰায়। 'অগ্মাশয়ে ইনছুলিন,\nএভ্ৰিনেলিন হৰম'ন নিঃসৰণ কৰে।\n\nগুৰুষে টেষ্ট'ষ্টেৰ'ন আৰু মহিলাই ইন্ট’জেন\nহৰম’ন নিত্সৰণ কৰে। মহিলাৰ জৰায়ুৰ বেৰ\nআভ্যন্তৰীণ ডাঠ বেৰ ভাঙি যায় আৰু তেজেৰে\nমাহেকীয়া খাতু হোৱা বুলি কয়।\n\nসম্ভানৰ লিংগ ম% আৰু সক যুক্ত যোজন\nকোষৰ ওপৰত নিৰ্ভৰ কৰে|\n\nকিশোৰ কালত সুষম খাদ্য গ্ৰহণ আৰু ব্যক্তিগত\nপ্ৰয়োজনীয়\n\n9",
+  "confidence": {
+    "word_count": 11,
+    "mean": 16.02,
+    "median": 0.0,
+    "minimum": 0.0,
+    "maximum": 50.25
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3507,
+  "ocr_elapsed_seconds": 3.111,
+  "page_elapsed_seconds": 3.336,
+  "peak_process_tree_rss_bytes": 306712576,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

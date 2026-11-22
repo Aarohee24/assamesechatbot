@@ -1,0 +1,63 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 220,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "[''ঘু০)\"€196\n1. [)31]06]] (})6 €]1\"€16 01 (])6 (01\"1\"60{0 3119\" 61\" ,\n\n(1) দ্প})1]]1 01 16 101]0 1116 1]1মস0169 ০৪1) 06 96])818060 60% ]]8010\n])1গেগ116 ?\n\n(৪8) (:01101]01] 98] 8110 98110\n\n(0) 9৪8 009 9110 11011 ]]11189              6০)|6)|৫১|৫)\n\n(০) 18106 ঠা'8]1া] 8110 9800106\n(0) €80702]101' 8110 98110\n\n(11) ঘ্খ1]10]] 162070019 09620 স|12[0 স্/6 89]] |)01969 10 ০1281] 4?\n(৪8) ']1]]169]]11]9,\n(0) []8110])1011116\n(০) ১16%ঘ1116\n(0) ]1)6০৪৷108.0101]\n\nগু|২৮|০10\n\n(111) 110] 12000 19 0960 101 9৪6]28181116 8 1]1ম00162.01 1101] 8110 ০08]\n00804\n\n(৪8) ]+%৮৪8120180101]\n\n(0০) '[]169]1]96,                            গট! 0) (০) ণ্রে)\n(০) ][[89112600 96|2818.001]\n\n(0) ]1)০6০৪৷108.0.01]\n\n(1ঘ) ঘ]]10]] 1760700 19 0960 10 ৪6|)8186 (28. 1268%469 1\"01]] (268. ?\n(৪9) ][1]}169]]1]9,\n(0) ]]8110])1019119\n\n(০) ১16%ঘ1119                         ্টে চ্টে চে তলে\n\n(0) ]\"1|0.80101]\n\n2. [%]900]] {116 10]]0 ছছ 11161:\n\n(৪) ১০[১৪|80011 01 1]1]000 11] ঘম/৪(21                   1. ][৬[89116010 96])81810101]\n\n(0) /%]0]]]] 11]150260 11] 11000} ৪.12].                1], ঘ্ব][]]]0ছম1[]9,\n\n(০) ]২০৮০][ঘ1116, 3 1]]1%0016 8 1112]1 9]০০৫       111, [1|[080011 [0]]0%/60\n60%) 6%৮৪8|2018101]\n\n(0) 01001101]00{0(01] 8110 ঘসম8(21\"                     1ঘ. ]71[[|8001]\n\n(6) ০৪100 8110 1101] 11|11169                         ঘছ, (]]0[1]]]196\n\n(/) (:0110101] 98] 01990]%9620 11] ঘ/8(61..         ঘ্বা. 12>60811080101]\n\n(2) []091< 1\"01]] |)>800৮ 9660                      তব], [+%8|2018{10]]",
+  "confidence": {
+    "word_count": 179,
+    "mean": 46.49,
+    "median": 44.2,
+    "minimum": 0.0,
+    "maximum": 95.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "sat_Olch",
+    "confidence": 0.1859,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.274,
+  "page_elapsed_seconds": 3.564,
+  "peak_process_tree_rss_bytes": 299737088,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

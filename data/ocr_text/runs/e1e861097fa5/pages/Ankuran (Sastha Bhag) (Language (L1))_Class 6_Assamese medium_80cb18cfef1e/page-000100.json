@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 100,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খ--- ভাষা অধ্যয়ন (ব্যাৱহাৰিক ব্যাকৰণ)\n\n৯) বাঁও-ফালে থকা শব্দবোৰ সোঁ-ফালৰ বিপৰীতাৰ্থক শব্দবোৰৰ লগত মিলাই লিখা।\n\nঅসাধু --\nপোহৰ ==        ব্যয়, সাধু, আন্ধাৰ,\nজ্ঞান -==            অজ্ঞান, মলিয়ন, দেখা,\nনেদেখা -=               অহিত\nহিত -=\n\nজানো আহা\n\nকৰ্তাৰ কাৰ্য সমাপ্ত হোৱা-নোহোৱাৰ ওপৰত ভিত্তি কৰি দুই প্রকাৰৰ ক্ৰিয়া পোৱা যায়--- সমাপিকা\nক্ৰিয়া আৰু অসমাপিকা ক্ৰিয়া। বাক্য এটাত কৰ্তাৰ কাৰ্য সম্পূৰ্ণ কৰা ক্ৰিয়াক সমাপিকা ক্ৰিয়া\nবোলে। যেনে--- “আমি ভাত খালোঁ ৷” আনহাতে বাক্যৰ মাজত থকা, কৰ্তাৰ কাৰ্য সম্পূৰ্ণ নোহোৱা\nক্ৰিয়াক অসমাপিকা ক্ৰিয়া বোলা হয়। যেনে---“আমি ভাত খাই বজাৰলৈ গ’লোঁ ৷” অসমাপিকা\nক্ৰিয়াৰ বিভক্তিটো হ’ল 'ই’। ইয়াৰ ‘এ’ আদি ৰূপো হ’ব পাৰে। যেনে--\nখা + ই = খাই\nনাচ্‌ু + ই = নাচিইত্যাদি।\nসমাপিকা ক্ৰিয়াৰ বিভক্তিটো কৰ্তাৰ পুৰুষ অনুসৰি ধাতুৰ লগত যুক্ত হয়। যেনে--\n“মই ভাত খাওঁ (খা + ও)\nতই ভাত খাৱ (খা + অ)।\nতুমি ভাত খোৱা (খা + আ)।\nসি/তেওঁ/ তেখেতে ভাত খায় (খা + এ)।\nআপুনি ভাত খায় (খা + এ)।",
+  "confidence": {
+    "word_count": 149,
+    "mean": 86.19,
+    "median": 93.29,
+    "minimum": 9.95,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.984,
+  "page_elapsed_seconds": 3.313,
+  "peak_process_tree_rss_bytes": 243085312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

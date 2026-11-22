@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 129,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(গ) পাঠটোত এটা তিনি আখৰীয়া শব্দ আছে, যাৰ--\n\n* ১ম আৰু, ৩য় আখৰ মিলি এবিধ পোহনীয়া চৰাই হয়।\n২য় আৰু ৩য় আখৰ মিলি এবিধ ডিঙিত পিন্ধা গহনা হয়।\n৩য় আৰু ২য় আখৰ মিলি এখন ঠাইৰ নাম হয়।\n\n* ২য় আৰু ১ম আখৰ মিলি এবিধ মেকুৰীৰ নিচিনা বনৰীয়া জন্তু হয়।\nসেই শব্দটো বিচাৰি উলিয়াই লিখা। (_      )\n\n্খ\nৰ\n\n১৩। “সাপে নিতৌ এটাকৈ ভেকুলী খোৱাৰ ফলত পুখুৰীটোত এটাও ভেকুলী নাইকিয়া\nহৈছিল আৰু অৱশেষত ভেকুলী-ৰজাকে খাবলৈ বিচাৰিছিল । সাপৰ কথা শুনি ভেকুলী-\nৰজা বিপাঙত পৰি সাপৰপৰা পৰিত্ৰাণৰ উপায় চিন্তা কৰিছিল।” --তোমালোকৰ\nমতে ভেকুলী-ৰজাই সাপৰপৰা পৰিত্ৰাণ পাব পাৰিলেনে? যদি পাৰিলে, ভেকুলী-\nৰজাই বাৰু কি বুদ্ধি কৰিলে ভাবি কোৱা আৰু লিখা।৷\n\n৷ জানো আহা--\n\nটাংছা জনজাতি ঃ টাংছাসকল অসম আৰু অৰুণাচল প্রদেশত\nবাস কৰা এক বৃহৎ জনজাতি ৷ তেওঁলোকে চাংঘৰ সাজি বসবাস\nকৰে। সাধাৰণতে এই চাংঘৰবোৰ কাঠ, বাঁহ আৰু বেতেৰে সজা\nহয়। টাংছাসকলে নিজৰ সাজ-পোছাক ঘৰতে তৈয়াৰ কৰি লয়।\nমহিলাসকলে সাধাৰণতে ডাঠ নীলা, ৰঙা, ক’লা আৰু বগা ৰঙৰ\nসূতাৰে দীঘে দীঘে আঁক-বাঁক থকা মেখেলা (খোছা বা খাটছা)\nপিন্ধে। পুৰুষসকলে বিভিন্ন ৰঙৰ সূতাৰে বোৱা গামোচাৰ নিচিনা\nবহল বস্ত্ৰ, চোলা আৰু মূৰত পাণ্ডৰি (খুপপ) মাৰে। অৱশ্যে বিভিন্ন\nবংশৰ টাংছা লোকসকলৰ সাজপাৰৰ মাজত ভিন্নতা থকা দেখা যায়।\n\nটাংছাসকলৰ প্রধান জীৱিকা হ’ল কৃষি। এওঁলোকে বু্মখেতিৰ জৰিয়তে মূলতঃ শালিধান,\nকণিধান, গোমধান, কচু আদিৰ খেতি কৰে। টাংছাসকলে পালন কৰা উৎসৱসমূহ মূলতঃ\nকৃষিভিত্তিক। এই উৎসৱসমূহক কেন্দ্ৰ কৰি তেওঁলোকৰ মাজত বিভিন্ন ধৰণৰ লোকগীত আৰু\nলোকনৃত্যৰো প্রচলন আছে।",
+  "confidence": {
+    "word_count": 225,
+    "mean": 90.73,
+    "median": 95.85,
+    "minimum": 6.75,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 4.28,
+  "page_elapsed_seconds": 4.741,
+  "peak_process_tree_rss_bytes": 217550848,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

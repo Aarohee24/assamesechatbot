@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 29,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "জানো আহা\n\nকম্পিউটাৰ হ’ল আধুনিক যুগৰ চালিকা শক্তি; ইয়াৰ ব্যৱহাৰ দিনে দিনে দ্ৰুতগতিত বাঢ়িছে।\nবিজ্ঞানৰ মৌলিক গৱেষণা, প্রযুক্তি বিদ্যা, মহাকাশ-বিজ্ঞান, চিকিৎসা-\nবিজ্ঞান আদি সকলো ক্ষেত্ৰতে কম্পিউটাৰ সফলতাৰে ব্যৱহৃত\nহৈছে। আমেৰিকাৰ পেন্‌ছিলভেনিয়া বিশ্ববিদ্যালয়ৰ জন মাউখ্‌লি\nআৰু জে. প্ৰেছপাৰ অকাৰ্টৰ নেতৃত্বত ১৯৮৭ চনত বিশ্বৰ সৰ্বপ্ৰথম\nলাজে | উচ্চক্ষমতাসম্পন্ন স্বয়ংক্ৰিয় কম্পিউটাৰ নিৰ্মণ কৰা হয়। ইয়াক\n===  = -- | চমুকৈ ‘এনিয়াক’ বুলি জনা যায়।\nআকৌ, অ’লৈ ত’লৈ যাওঁতে সহজতে সৰু চুটকেছ বা মোনাত লৈ যাব\nপৰা, পাতল কম্পিউটাৰক ‘লেপ্্‌টপ্‌’ কম্পিউটাৰ বোলে ৷ আনকি হাতত\nলৈ ফুৰিব পৰা কম্পিউটাৰো ওলাইছে। গৱেষণা প্ৰতিষ্ঠান, উদ্যোগ আদিত\nঅধিক শক্তিশালী কম্পিউটাৰ ব্যৱহাৰ কৰা হয়।\nইন্টাৰনেট £ ইন্টাৰনেট এনে এক কম্পিউটাৰ জালিকা ব্যৱস্থা যাৰ দ্বাৰ|\nসমগ্ৰ বিশ্বৰ অসংখ্য কম্পিউটাৰ সংযোগ কৰি বিভিন্ন তথ্য বা বাৰ্তা শ্রৰৱ্য\nআৰু দৃশ্য মাধ্যমেৰে সৰবৰাহ কৰিব পাৰি।\nই-মেইল ঃ ইন্টাৰনেটৰ জৰিয়তে বিভিন্ন প্রতিষ্ঠান বা ব্যক্তিয়ে মুহূৰ্ততে পৃথিৱীৰ ইমূৰৰ পৰা\nসিমূৰলৈ খবৰ আদান-প্রদান কৰা সম্ভৱ হৈ উঠিছে। এই ব্যৱস্থাই হৈছে ‘\"ইলেট্ৰনিক মেইল’ বা\n\nচমুকৈ ই-মেইল।\n\n৬ তোমালোকৰ অঞ্চলত থকা বিভিন্ন জনগোষ্ঠীৰ লোকে তলৰ ব্যক্তি বা বস্তুক কি কি বুলি\nকয়, জানি লৈ লিখা।\n\nপানী, ল’ৰা, ছোৱালী, ভাত, মাছ, মাংস, গাখীৰ,\n৬ ক, খ,গ, ঘ--- এই চাৰিটা বৰ্ণৰে আৰম্ভ হোৱা দহটাকৈ শব্দ-অৰ্থ লিখি এখন অভিধানৰ আৰ্হি\n\nপ্ৰস্তুত কৰ৷।\nও আভিধান প্রভত কৰোঁতে ছাত্ৰ-ছাত্ৰীক সহায় কৰিব।",
+  "confidence": {
+    "word_count": 199,
+    "mean": 88.55,
+    "median": 95.11,
+    "minimum": 0.0,
+    "maximum": 96.99
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.961,
+  "page_elapsed_seconds": 4.399,
+  "peak_process_tree_rss_bytes": 283168768,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

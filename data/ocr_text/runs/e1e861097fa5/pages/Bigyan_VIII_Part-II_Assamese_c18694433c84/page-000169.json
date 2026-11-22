@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 169,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "প্লেট আন এখনৰ গাত ঘঁহনি খাই আগবাঢ়ি যায় বা বিস্ফোৰণৰ ফলত ভূমিকম্পৰ সৃষ্টি হ’ব পাৰে। যিকি\nখুন্দিয়াই এখন আন এখনৰ তলেদি গতি কৰে (চিত্ৰ’ নহওক, বেছিভাগ ভূমিকম্প কিন্তু পৃথিৱীৰ প্লেটবোৰৰ\n15.11), তেতিয়া পৃথিৱীৰ খোলাত আলোড়নৰ সৃষ্টি গতিৰ বাবে হয়।\n\nহয়। এই আলোড়নেই ভূপৃষ্ঠত ভূমিকম্পৰ ৰূপ লয়।    যিহেতু প্লেটবোৰৰ গতিৰ বাবেই ভূমিকম্পৰ\nসৃষ্টি হয় গতিকে প্লেটবোৰৰ সীমাত থকা ঠাইবোৰ\nদুৰ্বন অঞ্চলত পৰে, আৰু সেয়েহে এই বোৰত\nভূমিকম্পৰ সম্ভাৱনা বেছি। এই দুৰ্বল অঞ্চলবোৰক\nভূমিকম্পপ্ৰৱণ অঞ্চল বা চ্যুতি অঞ্চল বোলে। কাশ্মীৰ,\nকচ্চ উপকূল, ৰাজস্থান আৰু সিন্ধু গংগা সমতল হ’ল\n\nভাৰতবৰ্ষৰ আটাইতকৈ বেছি ভূমিকম্প প্ৰৱণ অঞ্চল।\n_                      দক্ষিণ ভাৰতৰ কিছু অংশও এনে বিপদসংকুল অঞ্চলৰ\nসহন খই আগবাঢ়ি অন্তৰ্গত (চিত্ৰ- 15:12)।\n\nচিত্ৰ 15.11 : পৃথিৱীৰ প্লেটবোৰৰ গতি\n\nকেতিয়া আৰু ক’ত হ    ৰ  ক'ব৷  নখ\nপাৰিবনেঃ _/*    (৮\nআমি যদিও ভূমিকম্পৰ সৃষ্টিৰ কাৰণ নিশ্চয়কৈ ক'ব _ ॥*। ষ্টেট      [ৰ\nপাৰোঁ, তথাপি ভূমিকম্প কেতিয়া আৰু ক’ত হ'ব সেই |} --৬'_ ভাৰত মহাসাগৰ (1),\nভবিষ্যৎ বাণী কৰাটো এতিয়াও সম্ভৱ হোৱা নাই।       $ /               ত\nচিত্ৰ 15.12 : ভাৰতীয় ভূ প্লেটৰ গতি\nক’ৰবাত মই পঢ়িছিলোঁ যে   ৰেখ\nৰ           ৰিখ্‌টাৰ স্কেল নামৰ স্কেলত মান জুখি\n\nভূমিকম্পৰ প্রাবল্য নিৰূপণ কৰা হয়। বিস্তৰ ক্ষতি\n89 ভুজ |          সাধন কৰা ভূমিকম্পৰ প্ৰাৱল্য ৰিখ্‌টাৰ স্কেলত 7 তকৈ\nবেছি হয়। ভুজ আৰু কাশ্মীৰত হোৱা ভূমিকম্পৰ\n\nআগ্নেয়গিৰি উদ্‌গীৰণ,পৃথিৱীৰ সৈতে উল্কাপিণ্ডৰ,    প্রাৱল্য 7.$ তকৈ বেছি আছিল।\n\nসংঘাত বা ভূগৰ্ভত সংঘটিত কৰা পাৰমাণৱিক",
+  "confidence": {
+    "word_count": 215,
+    "mean": 83.3,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.62,
+  "page_elapsed_seconds": 3.951,
+  "peak_process_tree_rss_bytes": 310329344,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_relative_path": "data/books/Bigyan_VIII_Part-II_Assamese.pdf",
+  "source_pdf_size_bytes": 101237027,
+  "source_pdf_sha256": "c18694433c84eca1cc1b686b067ea34237cb152d0529e469264feae885fb9404",
+  "page_count": 286,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "iLovePDF",
+    "CreationDate": "D:20241112125725+05'30'",
+    "ModDate": "D:20250925081822Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 264,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "118 18.22 :\n<411[71167\" 0770[1195.16117\" [07.96 $016111165\n\n0[)1[211189 8 1316.61] 011][021\"019816111028.\n\n10 8130 1185 81110 11169 81001]0 10, 00 08]               ৮:২১ ২:%\n\n6891] 160081]1962 ]0])10(21 89 10 8])|)6৪1'9 00116         ,_ , কচি          ,\nৰ   ৰু   10       1   ণৃ    ]}১6%01]0 ][0])1(61'\" 185. 980011] ছম|]10]]) 8]|)])7681'9\n\n৮০110 স19]] 11] ০0101, ঘ্ব]}8{[1118|029 1{10101002\n191] 01 9 161656006, $'০৮ ০৪00, 1590 96০ 1001. }{]}} 116 9011\" ৪৮527] 19 105 06900] 11116.\n01109 18166 1]00108 (]\"18. 18.22).                '[]]692 11185 81.6 1100 ৬191016 ্]{|) 016 118|060]\n\n01186]]1{ 11} {]6 ৪1. ]{ ৮000 00921\"46 11 ঘ্1{]] 076\n\n6%6.\n\n][889)/81] 1189 8\n118009]](%৮ 1028! “][{ ৮6\n\n11]88611126 ০৪0011]\n\n1] 8 18192 ])001 01 802\" 121]\n10 ্ম]]] 080 1(]\"15. 18.23)\n\n118 18.23 :\n॥১0100777 15 1699 0270.56 10071 70167\"\n\n249                                                                                                                             বিজ্ঞান / ৪য]খ0_",
+  "confidence": {
+    "word_count": 125,
+    "mean": 46.61,
+    "median": 49.8,
+    "minimum": 0.0,
+    "maximum": 96.66
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "eng_Latn",
+    "confidence": 0.363,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "english_only_candidate",
+    "language_uncertain",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.497,
+  "page_elapsed_seconds": 2.76,
+  "peak_process_tree_rss_bytes": 238637056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

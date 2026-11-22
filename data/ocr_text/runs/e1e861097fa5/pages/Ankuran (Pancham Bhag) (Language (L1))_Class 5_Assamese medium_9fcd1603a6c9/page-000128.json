@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 128,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠটোৰ পৰা আহৰণ কৰিবলগীয়া অৰ্হতা\nঞ্জ লোক-সাহিত্যৰ অন্তৰ্গত লোক-নাট্য (ওজা-পালি) ৰ লগত পৰিচয় হোৱা আৰু ক’ব পৰা\nঞ পাঠটো শুদ্ধ উচ্চাৰণেৰে পঢ়ি বুজি পোৱা\nঞ পাঠভিত্তিক প্রশ্নৰ উত্তৰ দিব পৰা\nঞ শব্দৰ অৰ্থ জনা\nঞ্জ শব্দ গঠন কৰিব পৰা\nঞ্জ অর্থ অনুসৰি বাক্য ৰচনা কৰিব পৰা\nঞ্জ বিভিন্ন লোক-সংস্কৃতিৰ বিষয়ে জানি ক’ব পৰা\nঞ্জ লোক-নাট্যৰ লগত জড়িত বাদ্য যন্ত্ৰৰ নাম জনা\nঞ্জ বাদ্য-যন্ত্ৰৰ ছবি সংগ্ৰহ কৰি বা নিজে আঁকি এলবাম প্ৰস্তুত কৰিব পৰা\nঞঞ ওজা-পালিয়ে গোৱা গীত-পদ সংগ্ৰহ কৰি গাবলৈ অভ্যাস কৰা\n\nপাঠ ১৩\n\nশিকাৰুৰ পাঠভিত্তিক অৰ্হতাৰ মূল্যায়ন\nলোকনাট্য (ওজা-| পাঠটো শুদ্ধ  পাঠভিত্তিক প্রশ্নৰ  শব্দৰ অৰ্থ ক'ব পাঠত দিয়া পদটো|\nগদ্য পাঠ | পালি)ৰলগত | উচ্চাৰণেৰে পঢ়িব | উত্তৰ দিব পৰা  পৰা  গাব পৰা\n(লোক-সাহিত্য)| পৰিচয় হোৱা আৰু  পৰা\nক’ব পৰা\nভাষা অধ্যয়ন | যুক্তাক্ষৰ ভাঙিব | শব্দ গঠন কৰিব | বাক্য ৰচনা কৰিব পৰা\n(ব্যাৱহাৰিক | পৰা আৰু শব্দ  পৰা\nব্যাকৰণ) | গঠন কৰিব পৰা\nজনন বিভিন্ন লোক-নাট্য | বিভিন্ন লোক-নাট্য | বিভিন্ন লোক-নাট্য\nঅনুষ্ঠানৰ বিষয়ে | অনুষ্ঠানৰ বিষয়ে [অনুষ্ঠানৰ বিষয়ে লিখিব\nপঢ়িব পৰা  ক’ব পৰা   পৰা\n(লোক-নাটাৰ লগত ছু ঢ় ওজা-পালিয়ে গোৱা\nপ্রকল্প | জড়িতববাদ্য-যন্ত্ৰ | এ কৰি বানি | গীত-পদ সংগ্ৰহ কৰি\nনাম ক'ব পৰা ‘এহ ক'ৰ বা   গাব পৰা\nআঁকি এলবাম প্রস্তুত\nকৰিব পৰা\n\nলস অহৰ্তা আয়ভ হ’লৈ ওপৰৰ তালিকাখনৰ তলৰ খালী ঘৰত * চিন দিব আৰু নহ’লৈ ১ চিন দিব । অহৰ্তা",
+  "confidence": {
+    "word_count": 217,
+    "mean": 87.22,
+    "median": 95.33,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.791,
+  "page_elapsed_seconds": 3.077,
+  "peak_process_tree_rss_bytes": 245100544,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

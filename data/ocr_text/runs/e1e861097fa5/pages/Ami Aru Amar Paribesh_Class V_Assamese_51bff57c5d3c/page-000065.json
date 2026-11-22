@@ -1,0 +1,67 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 65,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "গোৱালপাৰাৰ সূৰ্যপাহ।1ৰ,\nতেজপুৰৰ অগ্নিগড়, ডিমা হাছাও\n/ জিলাৰ মাইবং আৰু কাত\n৷ লে তলাতল : ঘৰ, ৰম্দতঘৰ আৰু: টপ 2\nআছে। সুকে জিলাত মদন- ভজ\nকামদেৱ; চণ্ডিকা মন্দিৰ, মেৰথৰ আদি\nআছে। এইবোৰ আমাৰ দেশৰ\nএতিহ্যৰপ্ৰতীক।\n\nগপ\n\nকাৰেংঘৰ\n\nমা৷ইবঙৰ শিলৰ মন্দিৰ\n> পুৰণি কীৰ্তিচিহ্নৰ বিভিন্ন ছবিসমূহ সংগ্ৰহ কৰি এলবাম নাইবা প্রাচীৰ পত্ৰিকা প্রস্তুত কৰা।\nশিক্ষক-শিক্ষয়িত্ৰীৰ প্ৰতি --\n\n> নিজৰ জিলা/অঞ্চলত থকা পুৰণি কীৰ্তিচিহ্নসমূহ ছাত্ৰ-ছাত্ৰীক দেখুওৱাবলৈ ক্ষেত্র ভ্মণৰ\n\nআয়োজন কৰিব।",
+  "confidence": {
+    "word_count": 68,
+    "mean": 76.13,
+    "median": 90.42,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 37 diacritics",
+        "Detected 37 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 2.248,
+  "page_elapsed_seconds": 3.231,
+  "peak_process_tree_rss_bytes": 237563904,
+  "tesseract_warnings": [
+    "Detected 37 diacritics",
+    "Detected 37 diacritics"
+  ],
+  "processed_this_run": true
+}

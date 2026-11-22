@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 99,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(ঙ) ভক্ত প্ৰহ্লাদৰ ভগৱানৰ প্রতি গভীৰ বিশ্বাস (পতিয়ন) আছিল।\n(চ) জ্ঞানীয়ে জগতৰ অজ্ঞান আন্ধাৰ (পোহৰ নথকা) দূৰ কৰে।\n(ছ) দেশমাতৃৰ প্রতি সন্মান (মান, আদৰ) জনোৱা উচিত।\n\nঞ বনহানীৰ ভিতৰত থকা অথৰ্বোৰৰ লগত আঁচ টনা শব্দবোৰ মিলাই বুজাব আৰু তেনেধৰণৰ বাকা\nপঢ়াৰ অনুশীলন কৰাব ৷\n\nএহ) উদাহৰণত দেখুওৱাৰ দৰে ‘অ’ লগাই বিপৰীত অৰ্থ বুজোৱা শব্দ সাজা।\nউদাহৰণ -- সুৰক্ষিত -- অসুৰক্ষিত বাট -==\nসংলগ্ন -=     চেতন ==\nঘটন -=-    সী --",
+  "confidence": {
+    "word_count": 70,
+    "mean": 81.76,
+    "median": 93.28,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 1.959,
+  "page_elapsed_seconds": 2.283,
+  "peak_process_tree_rss_bytes": 243302400,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

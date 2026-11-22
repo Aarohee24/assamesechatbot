@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 206,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তোমালোকে জানিছিলানে ? (1)10] ৮00 110)\n\nদাপোণক অস্ত্ৰ (%/68020119) হিচাপেও ব্যৱহাৰ কৰিব পাৰি। আজিৰ পৰা দ্বিসহসাধিক বছৰৰ আগতে\nআকৰ্কিমিডিছ নামৰ গ্ৰীক বিজ্ঞানী এজনে তাকেই কৰিছিল বুলি জনা যায়। যেতিয়া ৰোমানসকলে গ্ৰীচৰ\nউপকূলীয় চহৰ-দেশ (\"1 50816) চাইৰাকিউছ (9%180092) আক্ৰমণ কৰিছিল, তেতিয়া আৰ্কিমিডিছে চিত্ৰ\n15.34 ত দেখুওৱাৰ নিচিনা কিছুমান দাপোণ ব্যৱহাৰ কৰিছিল। দাপোণবোৰ যিকোনো দিশত লৰচৰ কৰিব\nপৰা বিধৰ আছিল। দাপোণবোৰ এনেভাৱে ৰখা হৈছিল যাতে সেইবোৰে ৰোমান সৈনিকবোৰৰ ওপৰত সূৰ্যৰ\nপোহৰ প্রতিফলিত কৰিব পাৰে। সূৰ্যৰ পোহৰত ৰোমান সৈনিকবোৰৰ জলক-তবক (0:01100860) লাগিছিল।\nসিহঁতে কি হৈছে একো উৱাদিহ নাপাই পলাই গৈছিল । এই ঘটনাটো বুদ্ধিৰে সামৰিক শক্তি     ত কৰাৰ\n\nএটা উল্লেখযোগ্য দৃষ্টান্ত।\n2\n\n192                                                               বিজ্ঞান",
+  "confidence": {
+    "word_count": 101,
+    "mean": 87.6,
+    "median": 94.49,
+    "minimum": 0.69,
+    "maximum": 96.92
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 2.097,
+  "page_elapsed_seconds": 2.395,
+  "peak_process_tree_rss_bytes": 285159424,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

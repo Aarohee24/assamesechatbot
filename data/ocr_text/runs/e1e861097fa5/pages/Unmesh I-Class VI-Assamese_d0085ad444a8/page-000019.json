@@ -1,0 +1,61 @@
+{
+  "book": "Unmesh I-Class VI-Assamese.pdf",
+  "source_relative_path": "data/books/Unmesh I-Class VI-Assamese.pdf",
+  "source_pdf_size_bytes": 35369859,
+  "source_pdf_sha256": "d0085ad444a8804e51d74913c0b241552e3b7f6e98b41a56da1c9bec308d0c64",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 20.0 (Windows)",
+    "Producer": "Adobe PDF Library 17.0",
+    "CreationDate": "D:20250122130848+05'30'",
+    "ModDate": "D:20250613120301+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 19,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "স্্্ট\n\n|\n|\n\n॥\n\n৷ জ্ঞান়সস্সাৰণ\n\nকবিতাটিত প্রকাশ পোৱা অনুসৰি অসমৰ ভৌগোলিক অৱস্থিতিৰ লগত পৰিচয় হওঁ আহা-_\n\nবৰ্তমান অসমৰ ভৌগোলিক চিত্ৰ\n\nভ্\n\nনি চ৭৮৫ ল্িক,\n\nৰ ১৭ ।\n\nভৌগোলিক চিত্ৰখনত অসমী আইৰ মুকুট, চুলিটাৰি আৰু চৰণ বুজোৱা অংশবোৰ চিনাক্ত\n\nৰ ত শিক্ষকে অসমৰ মানচিত্ৰ দেখুৱাই দিশসমূহৰ লগত পৰিচয় কৰাব।\n\n৷",
+  "confidence": {
+    "word_count": 50,
+    "mean": 71.67,
+    "median": 93.8,
+    "minimum": 0.0,
+    "maximum": 96.9
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2437,
+  "image_height": 3225,
+  "ocr_elapsed_seconds": 1.768,
+  "page_elapsed_seconds": 2.441,
+  "peak_process_tree_rss_bytes": 272269312,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

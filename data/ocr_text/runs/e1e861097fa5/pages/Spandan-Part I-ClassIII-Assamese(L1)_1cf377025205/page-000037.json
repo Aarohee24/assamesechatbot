@@ -1,0 +1,61 @@
+{
+  "book": "Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_relative_path": "data/books/Spandan-Part I-ClassIII-Assamese(L1).pdf",
+  "source_pdf_size_bytes": 19791627,
+  "source_pdf_sha256": "1cf3770252056162ff39dda1b1084d1432cd484666ecaf18789316cac3e43e35",
+  "page_count": 152,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Photoshop 7.0",
+    "Producer": "Adobe Photoshop for Windows",
+    "CreationDate": "D:20250108223754+05'30'",
+    "ModDate": "D:20250830062635Z"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 37,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "========< বই                          --\" {ৰু\n\n<=   বিদ্যালয়-সপ্তাহৰ দ্বিতীয় দিন। কাৰ্যসূচীমতে খেলবোৰ আৰম্ভ হৈছে। তৃতীয় আৰু\nচতুৰ্থ শ্ৰেণীৰ মাজত এখন ক্ৰিকেট প্রতিযোগিতা অনুষ্ঠিত হৈছে। কাষৰ খেলপথাৰত অনুষ্ঠিত =-====\nএই খেলখন প্রতুল গোস্বামী ছাৰে পৰিচালনা কৰিছে। বিদ্যালয়ৰ খেলপথাৰত বেডমিণ্টনৰ\n\nএকক প্রতিযোগিতা হৈ আছে। পঞ্চম শ্ৰেণীৰ দীপা৷আৰু ৰুমাই এই খেলখনত ভাগ লৈছে।\nআনফালে অনিল ফুকন ছাৰে গান বজাই সংগীত, চকী (মিউজিক চেয়াৰ) খেল পৰিচালনা\nকৰিছে। গিৰীণ ছেত্ৰী ছাৰে প্লতিযোগিতাত স্থান দখল কৰা ছাত্ৰ-ছাত্ৰীসকলৰ তালিকা প্রস্তুত\nকৰাত ব্যস্ত। বাৰাণ্ডাত্‌ সুপ্ৰিয়াই হুইল-চেয়াৰত বহি নীহাৰিকাৰ লগত দবা খেল খেলি\nআছে। খেলখনত সুপ্রিয়া নীহাৰিকাতকৈ আগবাঢ়ি আছে।\n\nপ্রথম আৰু দ্বিতীয় শ্ৰেণীৰ খেল আৰম্ভ হ’বলৈ এতিয়াও বাকী। তেওঁলোকে এটা\nফুটবল লৈ খেলপথাৰৰ এফালে ধেমালি কৰি আছে। কাঞ্চনে বলটো দলি মাৰি দিওঁতে\nদবাখনতে পৰিলগৈ সুপ্ৰিয়াই মূৰে-কপালে হাত দি ক’লে--“এয়া তোমালোকে কি কৰিলা?\nআমাৰ খেলখন পণ্ড কৰিলা৷ !”\n\nতাকে দেখি মিনতিবৰুৱা বাইদেউ বেগাবেগিকৈ ওচৰলৈ আহিল। সুপ্রিয়াহঁতক\nখেলখন আৰম্ভণিৰপৰা খেলিবলৈ দিলে তেওঁ প্ৰথম আৰু দ্বিতীয় শ্ৰেণীৰ ছাত্ৰ-ছাত্ৰীসকলক\nখেলপথাৰৰ মাজলৈ লৈ গ’ল। তাত তেওঁলোকক শাৰীপাতি থিয় হ’বলৈ দিলে । তাৰপাছত\nতেখেতে তেওঁলোকক ‘পাৰ-পানী’ খেলখন খেলালে।\n\nপ্রধান শিক্ষক যথাসময়ত খেলপথাৰৰ মাজলৈ আহিল। তেখেতে হুইচেল বজাই\nদ্বিতীয় দিনৰ কাৰ্যসূচীৰ সমাপ্তি ঘোষণা কৰিলে।\n\n৩৭                   অধ্যায় ৩ ঃ খেল-ধেমালি",
+  "confidence": {
+    "word_count": 181,
+    "mean": 86.34,
+    "median": 93.29,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3305,
+  "ocr_elapsed_seconds": 4.641,
+  "page_elapsed_seconds": 5.906,
+  "peak_process_tree_rss_bytes": 221507584,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

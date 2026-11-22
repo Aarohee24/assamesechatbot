@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 25,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বিপৰীত অৰ্থবোধক শব্দ লিখা।\n\nপ্ৰিয়               ভয়                  বন্ধু\nসুফল         অনুচিত          পুৰস্কাৰ\nঅপকাৰী         অমংগল            অনুপস্থিত\n\nআদৰ-সাদৰ            লালন-পালন             খেতি-বাতি\nচৰাই-চিৰিকটি        গছ-গছনি              কীট-পতংগ\nগ-ঁ জ্ঞান সম্প্ৰসাৰণ\n\n0) চৰায়ে আমাৰ কি কি উপকাৰ সাধন কৰে দলত আলোচনা কৰি লিখা।\n\nৰম পশু-পক্ষী, গছ-গছনিৰ সৈতে মানুহৰ নিবিড় সম্পৰ্কৰ কথা দলত আলোচনা কৰি\n4} লিখা।\n\n), তৰ্ক প্রতিযোগিতা পাতোঁ আহা\n\n‘এটি সুস্থ'সবল পৰিৱেশৰ বাবে গছ-গছনি, চৰাই-চিৰিকটি আৰু বিভিন্ন প্রাণীৰ\nআৱশ্যকতা আছে।’\n\n= বিষয়টোৰ সপক্ষে আৰু বিপক্ষে সকলো ছাত্ৰ-ছাত্ৰীৰ অংশগ্ৰহণ নিশ্চিত কৰিব।",
+  "confidence": {
+    "word_count": 73,
+    "mean": 87.11,
+    "median": 95.4,
+    "minimum": 5.59,
+    "maximum": 96.87
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.44,
+  "page_elapsed_seconds": 2.742,
+  "peak_process_tree_rss_bytes": 274767872,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 32,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তলৰ বাক্যবোৰৰ কাষত দুটাকৈ পদ দিয়া আছে। তাৰে এটাহে বাক্যটোৰ লগত\n>= খাপ খায়। খাপ নোখোৱা পদটোত কটা ‘)’ চিন দিয়া। তাৰপাছত খাপ খোৱা\n\nপদটোৰে বাক্যটো পুনৰ লিখা।\nউদাহৰণ--- মণিকা কালি স্কুললৈ | অঠ্ূখ | আহিছিল\nমণিকা কালি স্কুললৈ আহিছিল\n(ক) মই কাইলৈ গুৱাহাটীলৈ       যাম     গৈছিলোঁ ||\n(খ) সৌৱা, চৰাইবোৰ আকাশত      উৰিছে | ডউৰিছিল    |\n(গ) যোৱাবেলি আমাৰ ইয়াত বানপানী | হ'ব     হৈছিল     ।\n(ঘ) আহা, আমি ঘৰলৈ          যাও     গৈছিলোঁ    ্‌\n(ঙ) মই কিতাপ             পঢ়োঁ    পঢ়ে     ।\n(চ) তুমিকি               কৰিছে | কৰিছা৷     ?\n(ছ) তেওঁ ধান              দাইছা    দাইছে    !\n(জ) আমি ছবি             আঁকিছিলোঁ | আঁকিছিল ||\n(ব৷) তোমালোকে গীত          গাইছিল | গাইছিলা |।\n(ঞঃ) তেওঁলোকে বল           খেলিছিল | খেলিছিলা ।।\n(ট) দেউতা আজি আহি         পাম     পাব      ।\n(ঠ) সিহঁতে কাইলৈ চিনেমা        চাব     চাম      |\n(ড) আমি বৰশী             বাম     বাব      ।\nও নিৰীক্ষণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 135,
+    "mean": 87.83,
+    "median": 95.02,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.746,
+  "page_elapsed_seconds": 3.075,
+  "peak_process_tree_rss_bytes": 272175104,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 91,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "উদ্দেশ্য আগত ৰাখিয়েই হেলেন কেলাৰে নানা ধৰণৰ অনুষ্ঠান আৰু সংগঠন গঢ়ি তোলাৰ উপৰি মানৱ\nজাতিৰ কল্যাণৰ অৰ্থে 'চুলিভানৰ জীৱনী’, ‘মোৰ জীৱন কাহিনী’, ‘মোৰ ধৰ্ম’, ‘মধ্য সোঁত’ আদি\nকেইবাখনো গ্ৰন্থ ৰচনা কৰিলে ৷ দ্বিতীয় মহাযুদ্ধত আহতসকলৰ প্ৰতিও হেলেন কেলাৰে নিঃস্বাৰ্থ সেৱা\nআগবঢ়ালে।\nএটি পুথিভঁৰালৰ অভাৱ বাৰুকৈয়ে অনুভৱ\nকৰিছিল। সেয়েহে নিজৰ কিতাপ-পত্ৰ\nসৈতে তেখেতে এটা পুথিভৰাল মুকলি\nকৰি শিক্ষাৰ পথ সহজ কৰি তুলিছিল।\nতেখেতে অ’ৰ-ত’ৰ পৰা পুথি সংগ্ৰহ কৰি\nনিঃস্বাৰ্থ আৰু পবিত্ৰ প্রেমেৰে তেখেতে\nআনৰ কাৰণে সমগ্র জীৱন উৎসৰ্গা       ।\nকৰিলে। বিশেষভাৱে সক্ষম ব্যক্তিসকল সমাজৰ সম্পদ--_-এই কথাৰ জলন্ত প্রমাণ হ’ল এইগৰাকী\nবিশ্ববৰেণ্য নাৰী হেলেন কেলাৰ।\n\n১৯৬৮ চনত আঠাশী বছৰ বয়সত এইগৰাকী প্রতিভাশালী নাৰীয়ে শেষ নিশ্বাস ত্যাগ কৰিলে।\nনিঃস্বাৰ্থ, মানৱপ্রেমী, শিশুপ্ৰেমী, প্ৰকৃতিপ্ৰেমী হিচাপে হেলেন কেলাৰৰ নাম বিশ্ব ইতিহাসত চিৰদিন\nজিলিকি থাকিব।\n\nজানো আহা\n\nবিভিন্ন শাৰীৰিক আৰু মানসিক বাধাগ্ৰস্ততাক বৰ্তমান সময়ত বিশেষভাৱে সক্ষম ব্যক্তি/শিশু\nবুলি কোৱা হয়। কিয়নো জন্মতে কোনো শিশুৱে বাধাগ্ৰস্ত হৈ জন্ম নলয়। প্রথমে মানুহ হিচাপেহে\nজন্ম লয়। কিন্তু পাছলৈ প্ৰয়োজনৰ তাগিদাত যেতিয়া শিশুটি বাধাগ্ৰস্ত বুলি জনা যায়, তেতিয়া তেওঁক\nএই আপাহতে তেনে ব্যক্তিক/শিশুক বিশেষভাৱে সক্ষম ব্যক্তি/শিশু বোলা হয়।\n\n৮১)",
+  "confidence": {
+    "word_count": 168,
+    "mean": 90.07,
+    "median": 95.37,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.636,
+  "page_elapsed_seconds": 4.086,
+  "peak_process_tree_rss_bytes": 242229248,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 56,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "পাঠ ৬\n\nমৰমৰ\n\nতোমালৈ লিখিলোঁ। তোমাৰ মাৰা-\n\nভাইটিকো মোৰ মৰম যাচিছোঁ।           |\nতোমাক আজি এটা সুখবৰ দিওঁ। আমাৰ\n\nঅঞ্চলটোৰ বহুদিনীয়া আশা পূৰ কৰি গাঁৱত এটা\n\nপুথিভঁৰাল স্থাপিত হৈছে। পুথিভৰালটোৰ নাম ৰখা <\nপোহৰাই তুলিব বুলি আশা কৰিছোঁ কিয়নো ইয়াত\nবহুতো কিতাপ থাকিব। সেইবিলাক পঢ়ি আমি বিভিন্ন\nদিশৰ জ্ঞান অৰ্জন কৰিব পাৰিম, নতুন নতুন কথা\n\nদাদাক ইয়াৰ পুথিভঁৰালী পাতিছে। তেওঁক সকলোৱে\nকিতাপৰ পোক বুলি কয়। কাৰণ তেওঁ কিতাপ পঢ়ি বেছি সময় কটায় আৰু কিতাপ-\n\nপত্ৰবোৰ পৰিপাটিকৈ সজাই পৰাই ৰাখিব জানে।\n\nউদ্বোধনী ভাষণত শ্ৰীবৰুৱাই কয় যে পুথিভঁৰাল ল’ৰা-বুঢ়া সকলো লোকৰ বাবেই এটা\nঅতি প্রয়োজনীয় অনুষ্ঠান ৷ এই পুথিভঁৰাল বিভিন্ন স্তৰৰ শিক্ষানুষ্ঠানতো থকা উচিত।গীঁও\nপুথিভঁৰাল চৰকাৰৰ দ্বাৰা প্রতিষ্ঠা কৰা অনুষ্ঠান। সকলোৱে অতীতৰ পৰা এই পুথিভঁৰালৰ\nপ্রয়োজনীয়তা উপলব্ধি কৰি আহিছে। প্রসংগত প্রাচীন ভাৰতৰ নালন্দা",
+  "confidence": {
+    "word_count": 120,
+    "mean": 90.59,
+    "median": 95.67,
+    "minimum": 0.0,
+    "maximum": 96.98
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.167,
+  "page_elapsed_seconds": 3.67,
+  "peak_process_tree_rss_bytes": 258002944,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

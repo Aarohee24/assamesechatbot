@@ -1,0 +1,61 @@
+{
+  "book": "Science_Class VI_Part 1_Assamese.pdf",
+  "source_relative_path": "data/books/Science_Class VI_Part 1_Assamese.pdf",
+  "source_pdf_size_bytes": 73470651,
+  "source_pdf_sha256": "085cf7d31d55176037f15bc4fa8d40b94fec3e7c1b1bb652a245153aaadb973b",
+  "page_count": 252,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 18.1 (Windows)",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20250630144129+05'30'",
+    "ModDate": "D:20251103104328+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 223,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "3. খালী ঠাই পূৰ কৰা ?\n\n(৪) জাৱৰৰ দ’মৰ পৰা লোৰ টুকুৰা পৃথক কৰিবলৈ       পদ্ধতি ব্যৱহাৰ কৰা\nহয়।\n(০) দুটা মিহলি নোহোৱা জুলীয়া দ্ৰব্য      পদ্ধতিৰ সহায়ত পৃথক কৰিব পাৰি।\n(০) আটা আৰু তুঁহ ___ পদ্বতিৰে পৃথক কৰিব পাৰি।\n(0) _ - পদ্বতিৰে খেৰৰ পৰা ঘেঁহু পৃথক কৰিব পাৰি।\n(০) বালি-পানীৰ মিশ্ৰ এটাৰ পৃথকীকৰণ কৰোঁতে, পানীৰ কণিকাবোৰ ফিল্টাৰ কাগজৰ\nছিদ্ৰবোৰৰ মাজেদি সৰকি যায় কাৰণ পানীৰ কণিকাবোৰ         আৰু\n\"বালিৰ কণিকাবোৰ      !\n\n4. তলৰ প্ৰশ্নবোৰৰ উত্তৰ দিয়া ।\n(৪) নিমখ আৰু বালিৰ মিএ্ৰ এটা কিদৰে পৃথক কৰিবা?\n(০) নাৰিকল তেল আৰু পানীৰ মিশ্ৰ পৃথকীকৰণৰ বাবে এটা পদ্ধতি আগবঢ়োৱা।\n(০) নিমখ পানীৰপৰা নিমখ কেনেদৰে পৃথক কৰিবা?\n\n5. তলৰ মিশএ্ৰরবোৰত থকা উপাদানবোৰৰ কি কি ধৰ্মৰ বাবে সিহঁতক পৃথক কৰিব পৰা যাব?\n(৪) নিমখ আৰু চকৰ গুড়ি\n(৮) ধান আৰু খেৰ\n(০) চক আৰু কয়লা\n(0) লোৰ টুকুৰা আৰু কাঠৰ গুড়ি\n(০) বালি আৰু চাউল\n\n6. সাগৰৰ পানীৰ পৰা নিমখ কেনেদৰে আহৰণ কৰা হয়?\n\n7. মিশ্ৰ এটাৰ পৰা উপাদানবোৰ পৃথক কৰিবৰ বাবে উপযুক্ত পদ্ধতি কিদৰে নিৰ্ধাৰণ কৰা\nহয়?\n\n8. নদীৰ বোকা পানীৰ পৰা ফট্‌ফটীয়া পানী পাবৰ বাবে ব্যৱহাৰ কৰিব পৰা সকলোবোৰ\nপদ্ধতিৰ নাম লিখা ৷\n\n9. উপযুক্ত চিত্ৰসহ পৰিআ্ৰাৱণ পদ্ধতিটো ব্যাখ্যা কৰা ।\n10. পাঠৰ ক্ৰিয়া-কলাপ 6.2 অনুসৰি, সম্ভৱপৰ সকলো মিশ্ৰৰ বাবে প্রযোজ্য পৃথকীকৰণ\n\nপদ্ধতিসমূহ উল্লেখ কৰা।\n\nআভৰকতৰৰাৰৰৰৰৰৰৰৰ এ",
+  "confidence": {
+    "word_count": 67,
+    "mean": 89.16,
+    "median": 95.92,
+    "minimum": 32.96,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.226,
+  "page_elapsed_seconds": 3.53,
+  "peak_process_tree_rss_bytes": 303386624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

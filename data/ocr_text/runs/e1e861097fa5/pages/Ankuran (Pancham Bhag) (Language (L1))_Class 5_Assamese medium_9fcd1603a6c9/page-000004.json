@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "খোঁচ) তছি%)ব ; |>/%/াখঢ1।1/%/% 1) 817/%6 - /0 |॥06601860.16[-০0[]1-8/0114000/4 [0 01955 ৬, [[]\n/5০৪৷711656, 06%/69|006০0 9177016%9।6%/০600%/ 52247, /55থ্ৰা, 10000|7 %/011€5170[25 9770 .9[0070%60\n0%/ 16 60%611[1611[ 0 /২55৪থ্৷]৷ 9170 [200|51160 0%/ 76 /২৩5৪৷৷৷ 58[6 175১%000041270000007 9170\n00০৪.001 €010019007 | [0], 011 06|79|[ 01 60%. 0/২55৪থ্৷৷]7.\n\n66 160০0.\n\n/| | ত।61115 ৷২৮০৮চ৷২%৮ 260: 140 15070000007 ৭ 117) 1] 0/ 15 000, ৭ ৬/|10|6 01৭ 291.\n(5%26[0[ 90\" 01161 1৷019.007 ॥৭ ম|09| ৪100165 07 16%9|6%/5), 78% 026 17806 ঘ/|[০0[ ৮/[|[6]]\n৪800701291007 ||011 {76 5626.47, /55৪ণথ্।]7.\n\nগ্ৰন্থস্বত্ব         £ ৰাজ্যিক শিক্ষাএৱেষণা আৰুপ্ৰশিক্ষণ পৰিষদ,অসম\nপ্রথমপ্রকাশ           ২০১২ ইং চন\nদ্বিতীয় প্রকাশ           ২০১৩ ইং চন\nতৃতীয়প্রকাশ           ২০১৪ ইং চন\nচতুৰ্থপ্ৰকাশ _}           ২০১৫ ইং চন\nপঞ্চমপ্রকাশ           ২০১৬ ইং চন\nষষ্ঠ প্রকাশ        ঃ           ২০১৭ ইং চন\nসপ্তমপ্রকাশ           ২০১৮ ইংচন\nঅষ্টমপ্ৰরকাশ           ২০১৯হইংচন\nনৱম প্রকাশ ৪           ২০২০ইংচন\n£ 70.691 কাগজত মুদ্ৰিত পাঠ্যপুথি\nপ্রকাশক          ঃ            অসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে অসম ৰাজ্যিক পাঠ্যপুথি\nপ্রণয়ন আৰু প্রকাশন নিগম লিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি\nমুদ্ৰক           $         চন্দ্ৰকান্ত প্ৰেছপ্রাইভেট লিমিটেড\n\nচন্দ্ৰকান্ত হাজৰিকা পথ, তৰুণ নগৰ,\nগুৱাহাটী -৭৮১০০৫",
+  "confidence": {
+    "word_count": 161,
+    "mean": 57.24,
+    "median": 64.12,
+    "minimum": 0.0,
+    "maximum": 96.95
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9987,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.94,
+  "page_elapsed_seconds": 3.25,
+  "peak_process_tree_rss_bytes": 254603264,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 131,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঘ) বৰ্তমান কামৰূপ জিলাক কি কি ভাগত ভাগ কৰা হৈছে?\nঙ) দানৱ বংশ কোনে প্ৰতিষ্ঠা কৰিছিল?\nচ) ডুবি আৰু নিধানপুৰ তাম্ৰলিপি কাৰ ৰাজত্ব কালত খোদিত কৰা হৈছিল?\n\n১) শুদ্ধ / অশুদ্ধ বিচাৰ কৰা।\n\n৩ত।\n\n৪।\n\n৫\n\nড৬।\n\n৭|\n\n(ক) ৰামায়ণ, মহাভাৰত হ’ল হিন্দু ধৰ্মৰ দুখন মহাকাব্য।\n(খ) নৰকাসুৰৰ বংশটোৰ নাম দানৱ বা অসুৰ বংশ।\n(গ) বৰ্মণ বংশৰ আদি ৰজা হ’ল পুষ্য বৰ্মণ।\n\n(ঘ) বাণ ৰজাৰ জীয়ৰীৰ নাম আছিল উষা!\n\n(ঙ) ইতচিঙে চি-উ-কি পুথিখন ৰচনা কৰিছিল।\n\nক্ৰমানুসাৰে সজোৱা--\nবৰ্মণ বংশ, দানৱ বংশ, পাল বংশ, শালঙত্তম্ভ বংশ, ভৌম বংশ।\n\nখ) সমুদ্ৰগুপ্তৰ--_-ত কামৰূপৰ উল্লেখ পোৱা যায়।\nগ) ----- কুমাৰ ভাস্কৰ বৰ্মণৰ সমসাময়িক ৰজা আছিল।\nঘ) মদন কামদেব মন্দিৰ---- ৰজাসকলৰ স্থাপত্য কীৰ্তি।\nঙ) ---- হ’ল শালস্তম্ভ বংশৰ প্ৰতিস্থাপক ।\n\nচমু টোকা লিখা ঃ\n\n(ক) শালস্তম্ভ বংশ (খ) পালবংশ (গ) কুণ্ডিল ৰাজ্য (ঘ) কামৰূপৰ আৰ্থ-সামাজিক অৱস্থা।\n৫০ টা মান শব্দৰ ভিতৰত উত্তৰ লিখা।\n\n(ক) আখ্যান, কিংবদন্তি আৰু ইতিহাসৰ মাজত পাৰ্থক্য।\n\n(খ). ভাস্কৰ বৰ্মণ আৰু হৰ্ষবৰ্ধনৰ সম্পৰ্ক।\n(গ) হিউৰেন চাঙৰ টোকাত বৰ্ণিত কামৰূপ ৰাজ্য।\n\nপুৰণি কামৰূপ ৰাজ্যৰ মানচিত্ৰত থকা ঠাইবোৰৰ এখন তালিকা প্রস্তুত কৰা।\n\n++ক+ককক",
+  "confidence": {
+    "word_count": 169,
+    "mean": 88.08,
+    "median": 93.3,
+    "minimum": 5.44,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.139,
+  "page_elapsed_seconds": 3.603,
+  "peak_process_tree_rss_bytes": 233979904,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

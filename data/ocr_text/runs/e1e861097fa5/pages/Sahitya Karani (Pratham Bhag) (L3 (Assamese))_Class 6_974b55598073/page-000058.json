@@ -1,0 +1,62 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "৩৫। লগে-ভাগে গাও আহা--\n\nড়ঢ়য়ৎংঃ:১\n\nলগে-ভাগে কাজিৰঙাত\nগঁড়ৰ গ-ত চন্দ্ৰবিন্দু (৬ )\nআছে নেকি চাওঁ।\nময়ূৰত য় পাবা\nআৰু পাবা ছয়ত,\nহঠাৎ বাঘ ওলোৱা দেখি\nতছঙ হেৰাল ভয়ত।\nকলং নদীত দলং আছে\nঅনুস্বৰে (২) নাচে,\nতাকে দেখি বিসৰ্গ (৪) ই\nহাঃ হাঃ কৈ হীহে।\nধৰ বাঢ়নী ধৰ ভাই\nধৰ বাঢ়নী ধৰ,\nবাট-পথ ঘৰ-বাৰী\nচাফ-চিকুণ কৰ।\n৩৬। পঢ়োঁআহা-- ড় ঢ় য় € :২ং\n\nগড়\n\n৩\nক\n\nছ্য়\n\nবা\n\nবাঢ়নী  ড়)\n\nৰ\n্‌ু   ১\n\n৩৭। ছবি চাই নাম কওঁ আৰু 0 চিনৰ ভিতৰত থকা বৰ্ণটো উচ্চাৰণ কৰোঁ আহ৷ --\n\nঢল\n\nকছৰৎ           ্           দলং            ছে)\n\nবাঃ বাঃ\n\nমেম প্রতোক ছাত্ৰ-ছাতীকে গীতটো গোৱাব।\n\nকলস নিৰীন্ব্ণৰ পাছত শিক্ষকৰ চহী",
+  "confidence": {
+    "word_count": 104,
+    "mean": 79.14,
+    "median": 92.43,
+    "minimum": 0.0,
+    "maximum": 96.92
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": "reports/assamese-ocr-run-20261031-172410/page-images/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6-page-000058.png",
+  "page_image_sha256": "12a1f34bf2c8cc29577fae06088cd1e24a6946ff60219c2795e0f75c82c8cee3",
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.017,
+  "page_elapsed_seconds": 2.274,
+  "peak_process_tree_rss_bytes": 148529152,
+  "tesseract_warnings": [],
+  "processed_this_run": true,
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "language_inference_rss_bytes": 1216286720
+}

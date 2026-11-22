@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 114,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৪) তলৰ কবিতাংশ পঢ়া আৰু প্ৰশ্নসমূহৰ উত্তৰ লিখা।\nঅসমৰ কাশীপুৰী      দ্বাৰকা মথুৰাপুৰী 1\n\nশুনি যোৱা হৰিগুণ নাম।\nচউপাশে তাল-খোল    মৃদঙ্গৰ মহাৰোল\nথানে থানে হৰি সংকীৰ্ত্তন,\nসুখী দুখী পাপী তাপী    চাই যোৱা কাষ চাপি\nমানৱৰ ই মহামিলন।\nনাই পূজা আৱাহন     নাই বলি বিসৰ্জন\nউচ্চ-নীচ ভেদাভেদ জ্ঞান,\n\nহৰিভক্ত সকলো সমান।\n\nকবি--- শৈলধৰ ৰাজখোৱা\n\n(উতসঃ ‘সোণৰ সঁফুৰা: সংকলক- ভৱকানস্ত শইকীয়া, পরকাশক-শআীমতী কমল কুমাৰী বৰুৱা চেৰিটেবুল ফাউণ্ডেচন,\n\nপৃষ্ঠা - ৩৪২-৩৪৩)\nক) বৰপেটা ধামক কিহৰ লগত তুলনা কৰিছে?\nখ) কবিয়ে বাটৰুৱাক কি শুনি যাবৰ বাবে কৈছে?\n\nগ) কবিয়ে কাক কাক কাষ চাপি কি চাই যাবলৈ কৈছে? 1!\n\nঘ) কবিয়ে ক’ত সকলো সমান বুলি কৈছে?\n\nঘ--ঁ প্ৰকল্প\n\n>,\n\n৬ দুই বা তিনিজনীয়া দল হৈ ডাঠ কাগজ, কুহিলা আদিৰে চৰাই, বান্দৰ, বাঘ, হাতীৰ মুখা\n\nপ্ৰস্তুত কৰা।",
+  "confidence": {
+    "word_count": 119,
+    "mean": 88.35,
+    "median": 95.83,
+    "minimum": 0.0,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.624,
+  "page_elapsed_seconds": 3.093,
+  "peak_process_tree_rss_bytes": 242733056,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

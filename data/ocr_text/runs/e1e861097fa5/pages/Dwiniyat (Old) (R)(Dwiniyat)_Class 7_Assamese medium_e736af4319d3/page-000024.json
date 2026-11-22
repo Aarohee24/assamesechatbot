@@ -1,0 +1,61 @@
+{
+  "book": "Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Dwiniyat (Old) (R)(Dwiniyat)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 4346454,
+  "source_pdf_sha256": "e736af4319d302f336d55c2a09465e28f738452322399fa01c5de5e310661e7a",
+  "page_count": 68,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat 15.23",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517155312+05'30'",
+    "ModDate": "D:20230518152154+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 24,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "১৮                         দ্বীনিয়াত\nচতুৰ্থ অধ্যায়\n\nএশীপুথি (-=--*>)))\n\nআল্লাহতাআলাই এই পৃথিৱীত মানুহ সৃষ্টি কৰাৰ লগে লগে মানুহ জাতিক\nসৎপথ দেখুৱাবলৈ নবী পঠিয়াইছে লগতে এশী পুথিও পঠিয়াইছে। যুগে যুগে\nতেনেদৰে নবী আৰু কিতাব পঠাইছে।\n\nআল্লাহে মানুহক সৃষ্টি কৰি জীৱন যাপন কৰিবলৈ যুগে যুগে বিভিন্ন ভাষাত\nপৃথিৱীৰ বিভিন্ন জাতিৰ মাজত জীৱন বিধান প্ৰদান কৰিছে আৰু এইবোৰ\nকিতাবকে এশীপুথি বা আল্লাহৰ কিতাব বোলে। ইয়াত আল্লাহতাআলাৰ\n= আদেশ-নিষেধ, হুকুম-আহকাম আদি সময়োপযুগী কৰি লিপিবদ্ধ কৰি দিছে। এই\nআদেশ পালনৰ বাবে আল্লাহ্ৰ পৰা পৰম পুৰস্কাৰ আনন্দৰ চিৰ শান্তিৰ সুসংবাদ\nদিয়া হৈছে। ইয়াক অমান্য কৰাৰ পৰিণতি হিচাবে অনন্ত কঠোৰ শাস্তিৰ ভয়াবহ\nপৰিণামৰ বিষয়েও কোৱা হৈছে। এই এঁশী পুথিবোৰৰ ভিতৰত চাৰিখন প্ৰসিদ্ধ৷\n\n১ । তৌৰাত- এইখন পুথি হজৰত মুছা (আঃ)ৰ প্ৰতি অৱতীৰ্ণ হয়।\n\n২ যবুৰ- এইখন পুথি হজৰত দাউদ (আঃ)ৰ প্ৰতি অৱতীৰ্ণ হয়।\n\n৩। ইঞ্জীল- এইখন পুথি হজৰত ইছা (আঃ)ৰ প্ৰতি অৱতীৰ্ণ হয়।\n\n৪ | কোৰআন- এইখন শেষ এশী পুথি বিশ্বনবী হজৰত মুহান্মদ (ছঃ)ৰ\n\nপ্ৰতি অৱতীৰ্ণ হয়। এইখন কিয়ামত পৰ্যস্ত অবিকৃত হৈ থাকিব। কোৰআনক\n\n৩গু১ টা নামেৰে স্বয়ং কোৰআন মজীদতে নামকৰণ কৰা হৈছে।\nপ্ৰশ্ন- পৱিত্ৰ কোৰআন শ্বৰীফ সুদীৰ্ঘ তেইশ বছৰত অৱতীণ হৈছে। আনহাতে\n\nকোৰআন শ্বৰীফতে আল্লাহতাআলই ঘোষণা কৰিছে- ‘ৰমজান মাহত\n\nপৱিত্ৰ কোৰআন মজীদ আৱতীণ হৈছে।” আনহাতে আকৌ কোৰআন\n\nমজীদতে আল্লাহে ঘোষণা কৰিছে-\n\n(১4৪) \"4 ৯শ্য ১ 2.49 ৮।",
+  "confidence": {
+    "word_count": 194,
+    "mean": 86.38,
+    "median": 92.69,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 1359,
+  "image_height": 2126,
+  "ocr_elapsed_seconds": 2.446,
+  "page_elapsed_seconds": 2.57,
+  "peak_process_tree_rss_bytes": 250650624,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

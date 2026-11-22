@@ -1,0 +1,61 @@
+{
+  "book": "Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_relative_path": "data/books/Sahitya Karani (Pratham Bhag) (L3 (Assamese))_Class 6.pdf",
+  "source_pdf_size_bytes": 42186046,
+  "source_pdf_sha256": "974b55598073a5203c2506e7e8daa3d0c6aa68a0777cc1ed27e52bfb9d98876a",
+  "page_count": 116,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro DC 15.23.20070",
+    "Producer": "Adobe Acrobat Pro DC 15.23.20070",
+    "CreationDate": "D:20230517133205+05'30'",
+    "ModDate": "D:20230518162155+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 45,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "(গ) ছবিৰ নাম কওঁ আহা--\n\n্থ্নিত/\nলা’ |\n\nজানো আহা\n\nমোনা, মোজা আৰু মোছ বুলি কওঁতে ম-ৰ সৈতে ও ধ্বনিও উচ্চাৰিত হৈছে আৰু\nও বৰ্ণই ৰূপ সলাই (1- চিন হৈ ম-ৰ দুয়োকাষে বহি মো হৈছে। ও-ৰ এই পৰিৱৰ্তিত\nৰূপ বা চিনটোক (1 -ওকাৰ বুলি কোৱা হয়।\n\n(ঘ) ছবিৰ নাম কওঁ আহা--\n\nপ্ৰ ভ\n\nমৌ-মাখি  (মে | মৌ-পিয়া  (মৌ | মৌ-চাক  (মৌ)\nজানো আহা\n\nমৌ-মাখি, মৌ-পিয়া আৰু মৌ-চাক বুলি কওঁতে ম-ৰ সৈতে ওঁ ধ্বনিও উচ্চাৰিত\nহৈছে আৰু ওু-বৰ্ণই ৰূপ সলাই (]- চিন হৈ ম-ৰ দুয়োকাষে বহি মৌ হৈছে। ওঁ-ৰ\nএই পৰিৱৰ্তিত ৰূপ বা চিনটোক (] - ওঁকাৰ বুলি কোৱা হয়।\n\n৭। পঢ়োঁ আহা --\nখন এ. = খে যথেতি  ট+ এ =টে টেঙা\n\nক-+ এ =কৈ জাকৈ   ব+ এ =বৈ বৈঠা\nজ+ও = জো জোক   ঢ়+ ও =ঢো ঢোপ\nচ-+ ও =চৌ চৌকা   ন + ও = নৌ নৌকা",
+  "confidence": {
+    "word_count": 138,
+    "mean": 81.3,
+    "median": 92.31,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2540,
+  "image_height": 3367,
+  "ocr_elapsed_seconds": 2.667,
+  "page_elapsed_seconds": 2.955,
+  "peak_process_tree_rss_bytes": 279638016,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

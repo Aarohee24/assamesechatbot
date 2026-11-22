@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 69,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "8 জানো আহা\n\nগীতটোত ব্যৱহাৰ হোৱা কিছুমান শব্দ বৰ্তমান এনেদৰে লিখা হয়।\nগীতটোত ব্যৱহাৰ হোৱা ৰূপ        বৰ্তমান লিখা ৰূপ\n\nকৰিল ১১১.১১১.     কৰিলে\n\nসম’  আ5ভ559859859॥575     শংখ\n\nসৱালৈ ___ .....১১১১১১১.,     সকলোলৈ\nএকেদিনে _........১১১১.,     এদিনতে\nসৱেও ১১১১০,     সকলোৱে\nবজাল ___ ১১১১১     বজালে\n\nগট,  তলৰ গীতফাকিৰ পৰা বিশেষ্য পদকেইটা বাছি উলিওৱা।\n\nকাঠৰ পখী ঘোঁৰা    জেউতি চৰিলে\nউৰি যাওঁ উৰি যাওঁ কৰিল,\n\nছমাহৰ বাটকে         যায় একে দিনে\nমালিনীৰ বাৰীতে পৰিল।\n\nকাঠৰ পখী ঘোঁৰা    এৰি ফুলকোঁৱৰে\nভৰিৰে মাৰিলে টিপা,\n\nসেউতী মালতী       তগৰ গুটিমালী\n\nসৱেও ধৰিলে শিপা।\nযি} জানি লোৱা\n\nগীতটোৰ ‘তিৰ্বিৰ্‌’ শব্দটোলৈ মন কৰা। এইটো এটা ধ্বন্যাত্মক বা অনুকাৰ\nশব্দ৷ ‘তিৰ্‌ ” এই শব্দৰ ধ্বনি সাদৃশ্যত ‘বিৰ্‌’ শব্দ সৃষ্টি কৰি ‘তিৰ্বিৰ্্‌’ কৰা হৈছে। ধ্বনিৰ\nঅনুকৰণত সৃষ্টি হোৱা এনেধৰণৰ আন কেইটামান ধ্বন্যাত্মক শব্দ হৈছে -- ঢং ঢং, টং\nটং, কা কা আদি।",
+  "confidence": {
+    "word_count": 125,
+    "mean": 84.17,
+    "median": 93.3,
+    "minimum": 0.0,
+    "maximum": 96.85
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 2.894,
+  "page_elapsed_seconds": 3.248,
+  "peak_process_tree_rss_bytes": 238682112,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_relative_path": "data/books/Ami Aru Amar Paribesh_Class V_Assamese.pdf",
+  "source_pdf_size_bytes": 41414828,
+  "source_pdf_sha256": "51bff57c5d3c3cc2bde284f1318e0c9763def9c36006d861dbfb7f1329da8564",
+  "page_count": 144,
+  "pdf_metadata": {
+    "Title": "Untitled-1",
+    "Author": "Kusum",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 9.0.0",
+    "Producer": "Adobe Acrobat Pro 9.0.0",
+    "CreationDate": "D:20211225114404-08'00'",
+    "ModDate": "D:20250617131647+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 68,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ওপৰৰ ছবিকেইখনত তোমালোকে সচৰাচৰ দেখি থকা পৰিৱেশৰ এটা বিপৰীত ৰূপ দেখা\nপাইছানে ? প্রকৃতিয়ে কিয় এনে বিধ্বংসী ৰূপ ধাৰণ কৰিছে বাৰু জানি লও আহা-\n\nপ্রাকৃতিক আৰু মানৱসৃষ্ট ঘটনা বা পৰিঘটনাই ভয়াবহ ৰূপ লৈ মুহূৰ্ততে পৰিৱেশৰ অভাৱনীয়\nক্ষতিসাধন কৰিব পাৰে। এই ঘটনা বা পৰিঘটনাবোৰেই হৈছে দুযোগ। ওপৰত দেখা ছবিকেইখনৰ\nপ্রত্যেকখনেই হৈছে একো একোটা দুৰ্যোগৰ দৃশ্য।",
+  "confidence": {
+    "word_count": 54,
+    "mean": 91.97,
+    "median": 96.11,
+    "minimum": 14.78,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3331,
+  "ocr_elapsed_seconds": 1.841,
+  "page_elapsed_seconds": 2.971,
+  "peak_process_tree_rss_bytes": 236748800,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

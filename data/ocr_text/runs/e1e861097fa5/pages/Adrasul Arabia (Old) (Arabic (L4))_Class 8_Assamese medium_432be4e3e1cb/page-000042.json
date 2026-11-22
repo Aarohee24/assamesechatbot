@@ -1,0 +1,68 @@
+{
+  "book": "Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_relative_path": "data/books/Adrasul Arabia (Old) (Arabic (L4))_Class 8_Assamese medium.pdf",
+  "source_pdf_size_bytes": 8758601,
+  "source_pdf_sha256": "432be4e3e1cb53067d93fc869f449365cb12b7e882b3d3c2571e523e6a37ca1d",
+  "page_count": 87,
+  "pdf_metadata": {
+    "Title": "Title & Page 1-75.cdr",
+    "Author": "acer",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "CorelDRAW 2020",
+    "Producer": "Corel PDF Engine Version 22.1.1.523",
+    "CreationDate": "D:20230517152844+06'00'",
+    "ModDate": "D:20230519123726+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 42,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "ঠি} তচ| 14৯: (চা\n126  ্\n\n= ফঠএলা 2) নে ত)%% ১&% 2-০ &4]} ; লা\n+ > ন  হু\n\nৰৈ\n\nজানিবলগীয়া ঃ\n\nআৰবী ভাষাত বহুক্ষেত্ৰত গোল ১ (৷ ১) ৰ ওপৰত দুটা বিন্দু (২!= 3 _;) ব্যৱহাৰ কৰি\n\"3১\" (,[; ) বনোৱা হয়। ইয়াক ২)৷):]| | || বুলি কোৱা হয়। আনহাতে মূল বৰ্ণমালাত থকা\n' > 'ক 4৮,102] বোলে। মনকৰিবলগীয়া যে এই ২১}; | [2|| বা গোল “$\" সাধাৰণতে\nস্ৰীলিঙ্গ বুজাবলৈ বিশেষ্য আৰু বিশেষণ শব্দৰ শেষত যুক্ত কৰা হয়।\n\nবতি|দবতিিল বিলাল শিল ৰতিলিল\nজআাপোৱিন আম, ন  (})\n+ 2১ ০৭ %%৬ (|)\n1)%9_ লৈ তড% ০৩৭ (\")\n\n32",
+  "confidence": {
+    "word_count": 99,
+    "mean": 48.66,
+    "median": 42.0,
+    "minimum": 0.0,
+    "maximum": 96.93
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": [
+        "Detected 88 diacritics",
+        "Detected 88 diacritics"
+      ]
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 4.284,
+  "page_elapsed_seconds": 4.578,
+  "peak_process_tree_rss_bytes": 184197120,
+  "tesseract_warnings": [
+    "Detected 88 diacritics",
+    "Detected 88 diacritics"
+  ],
+  "processed_this_run": true
+}

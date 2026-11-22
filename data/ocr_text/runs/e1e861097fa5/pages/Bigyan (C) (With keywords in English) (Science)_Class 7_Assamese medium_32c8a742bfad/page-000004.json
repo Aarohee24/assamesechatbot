@@ -1,0 +1,62 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 4,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "]}]খাখ৯খ 1\n\n১৪) (9101 ১]1\"61} : /* (5ম%00001< 011 ১০121]106 101 €:1899-€ [] 111 /*৪৪৪1116962, 0'811918020\n86% .০৫ে]২][, /১৪৪৪1]], 0100086]|1 ড\"01]81]10])9 8110 8|)[10%৮60 0 {6 304621101]1211{( 01 /$৪981]1] ৬106 12002\n110. /%1+]+. 79/05/]১0/137, ])8(60][)19]201[' 16 271] ১০|[৮(21021, 20 | 0, 1)010|18|160 0৮% 016 /১৪৪৪111 ১10৪০\n'][6ম%00001]\"}[1000000101] 8110 1)00]1081101] (:01|)018.101] [1171.60 0]08%8]|1801 011 022118]1 01 30৮ 211]01116211{\n01/১৪৪৪11]1 ১০৪৮৮ ][6ম0001 }\"10000101] 8110 ]20101108.0.011 (:01|)018101] ][.11]]1060, 000 8|181\n\n]']ং]]}/ ']']\"%'][']}ক()00]<\n\n/৯]] 10119 1\"6961\"60| ; ]খ0০ 1612[00000101] 11] ৪11) 1011] 01 119 06001, 11] স্/1]1016 01\" 11] |)801\"\n(০%০০])[101' 01161 000108001] 11) ০110108| 81010169 01 16%91689) 1118 06 17802 স্ঘ1(|ন00]{ ছ্যা|((62]]\n\n870701178101] 11\"01]] 06 1)00|19]161\",\n\n€,0])কা|9]1{ : )খ/[|]ং], খৈ০স্স 1)6]]]1 0110 ১৫,]%]২], /১৪৪3৪8]]]\n\nপ্রথম প্রকাশ\nদ্বিতীয় প্ৰকশ\nতৃতীয় প্রকশ\nচতুৰ্থ প্ৰকশ\nপঞ্চম প্রকশ\nষষ্ঠ প্ৰকশ\nসপ্তম প্রকশ\nঅষ্টম প্রকশ\nনৱম প্রকশ\nদশম প্রকশ\nএকাদশ প্রকশ\nদ্বাদশ প্ৰকশ\nত্ৰয়োদশ প্রকশ\n\n০১০\n\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n\n70 09][ কাগজত মুদ্রিত পাঠ্যপুথি।\n\nঅসম চৰকাৰৰ দ্বাৰা বিনামূলীয়াকৈ বিতৰণৰ বাবে\nঅসম ৰাজ্যিক পাঠ্যপুথি প্ৰণয়ণ আৰু প্রকাশন নিগম\nলিমিটেডৰ দ্বাৰা প্রকাশিত পাঠ্যপুথি ৷\n\nএবি প্ৰিন্ট মিডিয়া\nহাতীশিলা, পানীখাইতি, গুৱাহাটী-26",
+  "confidence": {
+    "word_count": 179,
+    "mean": 54.76,
+    "median": 62.82,
+    "minimum": 0.0,
+    "maximum": 96.94
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 0.9822,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.013,
+  "page_elapsed_seconds": 3.25,
+  "peak_process_tree_rss_bytes": 281034752,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

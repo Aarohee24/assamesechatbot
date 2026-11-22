@@ -1,0 +1,62 @@
+{
+  "book": "Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Saptam Bhag) (Language (L1))_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 90586825,
+  "source_pdf_sha256": "bff94363b1c8bb3bed5815e2ee04e04807421c0aa687ad3153e3104aa39f86bb",
+  "page_count": 147,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hindustan Offset",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101023824+05'30'",
+    "ModDate": "D:20230502125804+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 35,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "1.5582৮6\n\nজনমভূমি\n\nনিজৰ ওপজা ঠাইখন সকলো মানুহৰে অতি প্ৰিয়। এই ওপজা ঠাইখনতে প্রতিগৰাকী ব্যক্তিৰ\nজীৱন কালৰ অনেক স্থাতি জড়িত হৈ থাকে, যিবোৰ স্থৃতিয়ে স্বদেশৰ প্ৰতি ব্যক্তিৰ অনুৰাগ বঢ়ায় ৷ কবি\nনলিনী বালা দেৱীয়ে তেওঁৰ ওপজা ঠাইখনক জীৱনে-মৰণে ভালপোৱাৰ কথা কবিতাটিৰ মাজেৰে\nপ্রকাশ কৰিছে।                                                           ন\n\n== === == ==\n\nকোলাতে শুই                   ূ\n\nজীৱনৰ (শেষ সৃদ্ধিয়াত( = ভীম\nনৰাৰ লিছতো যেন 30॥ত2.\nপাওঁহি আকৌ ঠাই    ॥১১.:১৯“ধ ১\"!\n\n5১২ভ_ =\n\nচেনেহৰ   অ্বী: 63,\nট (॥৮)।    2্‌্‌ূ 1   ৮\n\nভাগৰুৱা আতমাই __;    = য)\nদক্দ্ন্্বনলোন\" £' +\")\nশেষৰ জিৰণি লৈ               ডা্ঞিয়া কাৰী,                            ৰণ\nগ্ৰা /7          সে   ৰু               ৰ    ং  ৰি   ়্\nতৰি তমাৰ হাত ৱা <৮/।৮৮ ১) এৰ\nখী               ছ ব্৮২৯%০৫/২৬, -“// ঠৰ পুৰ  ধৰ];\nৰ \"হেআকাগৰ += বাৰি জোষ=€[ 9 ঠাল 5\n|                   ৷               /ণ এঠা } ৰ ৰম ৰ)   বা |   £:ং  | 2১9 ।। লস ১ =ু ৰড  [্্  |\n7, বুকুত ফুৰিম উৰি             “  স্ৰাঠলং”লস্বাম্ছিলেলীলাল।\nবাহ ল’ম ওখ বিৰিখত,      +    ৰ      ন\n\nত\nব্),    এ,\n১ জি ডু  ৰ\nত্বক জি বুট\n\n=",
+  "confidence": {
+    "word_count": 113,
+    "mean": 59.37,
+    "median": 64.14,
+    "minimum": 0.0,
+    "maximum": 96.89
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "low_confidence",
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2422,
+  "image_height": 3249,
+  "ocr_elapsed_seconds": 4.753,
+  "page_elapsed_seconds": 5.527,
+  "peak_process_tree_rss_bytes": 298512384,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

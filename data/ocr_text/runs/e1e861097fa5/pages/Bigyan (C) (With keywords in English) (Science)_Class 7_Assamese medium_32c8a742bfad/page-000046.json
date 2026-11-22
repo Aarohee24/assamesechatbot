@@ -1,0 +1,61 @@
+{
+  "book": "Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Bigyan (C) (With keywords in English) (Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 83448797,
+  "source_pdf_sha256": "32c8a742bfad3ba68a2bac0a4c377173c4004301f8ea92e01882ea51543fcc7e",
+  "page_count": 248,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe InDesign 17.3 (Windows)",
+    "Producer": "Adobe PDF Library 16.0.7",
+    "CreationDate": "D:20230429102904+05'30'",
+    "ModDate": "D:20230502124857+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 46,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "অনুশীলনী (]'৷ণ\"০]96৪) $\n\n(1) তোমালোকে তলত দিয়া প্রাক প্রাথমিক শ্ৰেণীৰ পদ্যটোৰ লগত বোধ হয় পৰিচিত।\n(1) 188-188 [2]80]৩ 8]166]2, ]18৮6 ৮00 11% ৬০001].\n\n(11) ]/[৪1\" ৮ 1180 ৪8 |1{{]6 18110, 11096 16606 \"৪৪ ঘ|]1(6 ৪৪ 9110ত,\n\nতলত দিয়া সমূহৰ উত্তৰ দিয়া।\n(ক) 13180] 1166]) ৰ কোনটো অংশত উণ আছে?\n(খ) ভেড়াৰ পোৱালিৰ বগা নোমবোৰে কি বুজায় ?\n\n(2) পাটপলু মানে এটা (ক) কেটাৰপিলাৰ (0৪2]11181), (খ) লাৰভা (][,81'%8) | এতিয়া তলৰ কোনটো\n\nশুদ্ধ?\n(1) ক            (01) খ           (}{}) ক আৰু খ দুয়োটা            (1৮) ক আৰু খ এটাও নহয়।\n(3) তলত দিয়া কোনটোৱে উণ নিদিয়ে।\n(1) য়াক (10) উট (]}1) ছাগলী (1৮) নোমাল কুকুৰ\n(4) তলত দিয়া শব্দবোৰে কি বুজায়?\n\n(1) ৰিয়েৰিং (1২০৪.116) বা পালন (11) শ্বীয়েৰিং (9]16811118) বা নোম খুৰোৱা\n(11}) ৰেচম বা পাট শিল্প (9210010012)\n\n(5) তলত দিয়া সমূহ হৈছে উণ তৈয়াৰ কৰা প্রণালীৰ স্তৰবোৰ ৷ নথকা স্তৰবোৰ বাছি লিখা।৷\nশ্বীয়েৰিংবা নোম খুৰোৱা,------------ চৰ্টিং বা ভাগ কৰা,\n\n(6) পাট চকৰীৰ জীৱন চক্ৰৰ দুটা অৱস্থাৰ চিত্ৰ আঁকা যিবোৰ পাট উৎপাদনত পোনপটীয়াকৈ জড়িত ।\n(7) তলত দিয়াবোৰৰ কোন দুটা শব্দ পাট উৎপাদনৰ সৈতে জড়িত।\nৰেচম শিল্প (5211001001), পুষ্পোদ্যান বিজ্ঞান (]\"10110010016), নুনীগছৰ খেতি (]$[ 0110010016),\nমৌ-পালন (/%])1001001), বৃক্ষবিজ্ঞান (911ঘ10010016)।\nইংগিত $ (1) পাটৰ উৎপাদন নুনীগছৰ খেতি আৰু পাটপলু পালনৰ লগত জড়িত।\n(11) নুনীগছৰ বৈজ্ঞানিক নাম মৰাচ আলবা ([[0109 8108) |\n\n(8) ‘ক’ অংশৰ সৈতে ‘খ’ অংশ মিলোৱা--\n\nকঅংশ              খঅংশ\n(1) স্কাউৰিং বা নিৰ্ঘৰ্বণ      (৪) পাটৰ সৃতা উৎপাদন কৰে।\n(2) নুনী গছৰ পাত             (৮) উণ উৎপাদন কৰা প্রাণী।\n(3) য়াক              (০) পাট পলুৰ খাদ্য।\n(4) লেটাগুটি            (0) মহুৰা ফুৰা\n(০) ছালৰ সৈতে কাটি লোৱা নোমৰ পৰিষ্কাৰকৰণ\n\n32",
+  "confidence": {
+    "word_count": 108,
+    "mean": 78.79,
+    "median": 92.52,
+    "minimum": 0.0,
+    "maximum": 96.97
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2481,
+  "image_height": 3508,
+  "ocr_elapsed_seconds": 3.243,
+  "page_elapsed_seconds": 3.492,
+  "peak_process_tree_rss_bytes": 304361472,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

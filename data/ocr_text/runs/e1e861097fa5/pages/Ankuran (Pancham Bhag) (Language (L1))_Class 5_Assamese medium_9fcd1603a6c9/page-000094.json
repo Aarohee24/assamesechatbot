@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Pancham Bhag) (Language (L1))_Class 5_Assamese medium.pdf",
+  "source_pdf_size_bytes": 21109441,
+  "source_pdf_sha256": "9fcd1603a6c962864ebbc1b505cb909dade72a31bfeca29633b454324d2bed9a",
+  "page_count": 143,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "PScript5.dll Version 5.2.2",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101021536+05'30'",
+    "ModDate": "D:20230502125634+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 94,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "তিনিটা মাছৰ কাহিনী\n\nএখন বিলত ভালেমান মাছ আছিল। সেই বিলতে অনাগতবিধাতা, প্রত্যুৎপন্নমতি\nআৰু যদ্ভবিষ্য নামৰ তিনিটা ডাঙৰ মাছে বহুদিন ধৰি একেলগে বাস কৰি আছিল। এদিন\nঅনাগতবিধাতাই বিলত সাঁতুৰি-নাদুৰি থাকোঁতে সেই ফালেৰে গৈ,থকা মাছমৰীয়া\nকেইজনমানে কথা পতা শুনিলে-- “এই বিলখনত বহুদিন কোনেও মাছ মৰা নাই, ইয়াত\nনিশ্চয় বহুতো ডাঙৰ ডাঙৰ মাছ আছে। গতিকে কাইলৈ পুৱা আহি এই বিলত মাছ মাৰিব\n\n= তু\nলাগিব।” এইবুলি কৈ মাছমৰীয়াসকল ঘৰাঘৰি গুচি গ’ল। মাছমৰীয়াসকলৰ বজ্ৰসদৃশ\nকথাবোৰ অনাগতবিধাতাই ভালদৰে শুনি আছিল। তেওঁ সকলো মাছক লগে লগে মাতি\nআনি মাছমৰীয়াসকলে কৈ যোৱা কথাবোৰ বৰ্ণনা কৰি ক’লে == “কাইলৈ পুৱা\nনিশ্চয় শুনিছে। আমাক বিপদে হাত-বাউল দি মাতিছে। গতিকে আমি ইয়াত এখন্তেকো\nথকা উচিত নহয়। ৰাতিয়েই আন ঠাইলৈ গুচি যাব লাগিব। কিয়নো দুৰ্বলীলোক সদায়\nবলীৰ পৰা আঁতৰত থাকে, অথবা আন সুৰক্ষিত স্থানত আশ্ৰয় লয়।”",
+  "confidence": {
+    "word_count": 125,
+    "mean": 91.05,
+    "median": 95.9,
+    "minimum": 8.43,
+    "maximum": 97.0
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 3.235,
+  "page_elapsed_seconds": 3.777,
+  "peak_process_tree_rss_bytes": 246755328,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

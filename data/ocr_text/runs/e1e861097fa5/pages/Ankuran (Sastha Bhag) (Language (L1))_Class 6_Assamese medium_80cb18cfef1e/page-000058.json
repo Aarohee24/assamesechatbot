@@ -1,0 +1,61 @@
+{
+  "book": "Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_relative_path": "data/books/Ankuran (Sastha Bhag) (Language (L1))_Class 6_Assamese medium.pdf",
+  "source_pdf_size_bytes": 22983516,
+  "source_pdf_sha256": "80cb18cfef1e0e90bc0d78a064037cf2b11098a31623a933ec835f68f99a9d38",
+  "page_count": 148,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "Hp",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20020101022308+05'30'",
+    "ModDate": "D:20230502124519+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 58,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "সাধু শুনি তোমালোকে ভাল পোৱানে? বুঢ়ী আইৰ সাধু” পুথিখনৰ সাধু ইতিমধ্যে তোমালোকে\nপঢ়িছা আৰু শুনিছাও ৷ ‘দীঘল-ঠেঙীয়া’ৰ সাধুটো মনত আছেনে ? সেই যে বাঘে চোৰক আৰু চোৰে\nবাঘক দীঘল-ঠেঙীয়া বুলি ভাবি ভিৰাই লৰ মাৰিছিল! এনে\nৰসাল কথাৰে সাধু পুথি লিখা ব্যক্তিগৰাকীয়েই হৈছে লক্ষ্মীনাথ\nবেজবৰুৱা । অকল সাধুৱেই নহয়, তেখেতে নিজৰ জীৱনৰ\nঘটনাবোৰো বৰ ৰসালকৈ ‘মোৰ জীৱন সোঁৱৰণ’ নামৰ\nআত্মজীৱনীখনত লিখি থৈ গৈছে। তেখেতৰ আত্মজীৱনীত\nথকা তেনে এটি ৰসাল ঘটনাৰ একাংশ তোমালোকে পঢ়াচোন--\n(নিজৰ স্বামী হ’লেও) সেই সময়ত অকৰণীয় অকাৰ্যৰ ভিতৰ\nবুলি বিবেচিত হৈছিল। সেইদেখি বৰবৌৱে অতি সংগোপনে\nতেওঁৰ চিঠি লেখি তাক মোৰ হতুৱাই শুধৰাই চলিব পৰা কৰি,\nমোৰ হতুৱায়েই অতি গুপুতভাৱে ডাকত দিয়াইছিল। বুদ্ধিৰ\nটঢেঁকী-ঠোৰা মই কিন্তু তেওঁৰ প্রথমখন চিঠি ডাকত দিওঁতেই\nলগালোঁ জেঙা ৷ চিঠিখন চেলেঙৰ তলত ভৰাই লৈ মই ডাকঘৰ\nপালোঁগৈ, কিন্তু ক’ত চিঠিখন পেলাব লাগে নাজানি ডাকঘৰৰ সন্মুখতে পৰি থকা ভগা পেৰা এটাৰ\nভিতৰত দিলোঁ সুমাই । ওচৰতে এটা মানুহ আছিল, সি ক’লে, “সেইখন চিঠি ডাকত দিবলৈ আনি তাত\nসুমাই দিলা কিয়? ডাকত এইপিনে ইয়াতহে দিব লাগে।” মোৰ ভুল বুজিব পাৰি মুখ শুকাই গ’ল।\nসেই ভগা পেৰাটোৰ যি সুৰুঙাইদি চিঠিখন সুমাই দিছিলোঁ সেই সুৰুঙাত হাত নোসোমায়। মই মোৰ\nবিপদৰ কথা ‘পোষ্ট মাষ্টৰ’ বাবুক ক’লত, তেওঁ মোৰ মুখৰ ফালে অলপমান চাই থাকি দয়াপৰবশ হৈ\nউঠি আহি বাকচটোৰ ভগাডোখৰ আৰু ভাঙি বহলাই লৈ চিঠিখন উলিয়াই আনি মোৰ হাতত দি ক’ত\nদিব লাগে দেখুৱাই দিলত, মই তাতে দি নিশ্চিন্ত মনেৰে ঘৰলৈ উভতি আহিলোঁ ৷”",
+  "confidence": {
+    "word_count": 224,
+    "mean": 91.92,
+    "median": 96.29,
+    "minimum": 0.0,
+    "maximum": 97.01
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3309,
+  "ocr_elapsed_seconds": 4.209,
+  "page_elapsed_seconds": 4.717,
+  "peak_process_tree_rss_bytes": 243646464,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}

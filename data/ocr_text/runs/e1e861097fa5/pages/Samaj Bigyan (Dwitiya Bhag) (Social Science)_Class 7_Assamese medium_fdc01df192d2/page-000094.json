@@ -1,0 +1,61 @@
+{
+  "book": "Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_relative_path": "data/books/Samaj Bigyan (Dwitiya Bhag) (Social Science)_Class 7_Assamese medium.pdf",
+  "source_pdf_size_bytes": 32200746,
+  "source_pdf_sha256": "fdc01df192d237e77c983606f0b1148016e6190cb87ac6294b463f2eb3a9a8a9",
+  "page_count": 224,
+  "pdf_metadata": {
+    "Title": "",
+    "Author": "ACER",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "Adobe Acrobat Pro 11.0.23",
+    "Producer": "Adobe Acrobat Pro 11.0.23",
+    "CreationDate": "D:20230428143050+05'30'",
+    "ModDate": "D:20230429174318+05'30'"
+  },
+  "metadata_error": null,
+  "inventory_error": null,
+  "page_number": 94,
+  "status": "completed",
+  "settings_id": "e1e861097fa5",
+  "render_dpi": 300,
+  "language": "asm",
+  "oem": 1,
+  "psm": 3,
+  "text": "বছৰ                জনসংখ্যা (কোটি হিচাপত)             ৮|[[৮[৮২%|\n\n১৯০১                                 ২৩.৮৪\n+৫.৭৫\n১৯১১                                 ২৫.২১\n-০.৩১\n১৯২১                                 ২৫.১৩\n+১১.০০\n১৯৩১                                 ২৭.৮৯\n১৯৪১                                 ৩১.৮৬                           ডক\nমম                                 ৰসক                           +১৩.৩১\n১৯৬১                                 ৪৩.৯২                           মুৰ\n+২৪.৮০\n১৯৭১                                 ৫৪.৮২\n১৯৮১                                 ৬৮.৬৩                           চক\n+২৩.৬৬\n১৯৯১                                 ৮৪.৬৩\n২০০১                                 ১০২.৭০                          / খা\n+১৫.০০\n২০১১                                 ১২১.০১\nক্ৰিয়াকলাপ ঃ\nওপৰত দিয়া ভাৰতৰ জনসংখ্যা বৃদ্ধিৰ হাৰৰ তালিকাখনৰপৰা তলৰ প্রশ্নবোৰৰ উত্তৰ দিয়া---\n(ক) ১৯০১ চনৰপৰা ২০১১ চনলৈ ভাৰতৰ জনসংখ্যা কিমান বৃদ্ধি পাইছে?\n(খ) তালিকাখনত কোন দুটা লোকপিয়লৰ ভিতৰত জনসংখ্যা হাস হোৱা পৰিলক্ষিত হৈছে?\n(গ) তালিকাখনৰ কোন দুটা লোকপিয়লৰ ভিতৰত জনসংখ্যা বৃদ্ধিৰ হাৰ আটাইতকৈ বেছি?\n\nজনসংখ্যাৰ বিতৰণ $\n\nজনসংখ্যা বৃদ্ধিব লগতে আন এটি মন কৰিবলগীয়া দিশ হ’ল জনসংখ্যাৰ বিতৰণ। ভাৰতৰ জনসংখ্যাৰ বিতৰণ\nসকলো ঠাইতে সমান নহয়। কোনো ঠাইত জনসংখ্যা বেছি আৰু আন কোনো ঠাইত জনসংখ্যা কম। সাধাৰণতে এখন\nঠাইৰ জনবসতি বেছি বা কম হ’লে ঠাইখনত জনসংখ্যা ক্ৰমে বেছি বা কম হয়। আকৌ, কোনো ঠাইত জনবসতি বেছি\nবা কম হ’লে সেই ঠাইত জনসংখ্যাৰ ঘনত্বও ক্ৰমে বেছি বা কম হয়।\n\nজানি থওঁ আহা ঃ\n\nজনসংখ্যাৰ ঘনত্ব & এখন ঠাইৰ মুঠ জনসংখ্যাক ঠাইখনৰ মুঠ মাটিকালিৰে হৰণ কৰিলে সেই ঠাইখনৰ জনসংখ্যাৰ\nঘনত্ব পোৱা যায়। ইয়াক প্রতি বৰ্গ কিল’মিটাৰত প্ৰকাশ কৰা হয়। অৰ্থাৎ -__",
+  "confidence": {
+    "word_count": 180,
+    "mean": 88.35,
+    "median": 96.16,
+    "minimum": 0.0,
+    "maximum": 96.96
+  },
+  "language_identification": {
+    "status": "classified",
+    "label": "asm_Beng",
+    "confidence": 1.0,
+    "error": null
+  },
+  "review_flags": [
+    "human_review_required"
+  ],
+  "attempt_count": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "completed",
+      "tesseract_warnings": []
+    }
+  ],
+  "errors": [],
+  "page_image": null,
+  "page_image_sha256": null,
+  "image_width": 2480,
+  "image_height": 3363,
+  "ocr_elapsed_seconds": 3.814,
+  "page_elapsed_seconds": 4.361,
+  "peak_process_tree_rss_bytes": 219246592,
+  "tesseract_warnings": [],
+  "processed_this_run": true
+}
